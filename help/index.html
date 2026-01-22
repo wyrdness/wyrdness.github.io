@@ -1,0 +1,178 @@
+<!DOCTYPEhtml>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Help - Wyrdness</title>
+  <link rel="stylesheet" href="/css/main.css">
+</head>
+<body>
+  <a href="#main-content" class="sr-only sr-only--focusable">Skip to main content</a>
+  
+  <header class="site-header">
+    <div class="container">
+      <div class="site-header__content">
+        <a href="/" class="site-header__logo">
+          <span style="font-size: var(--font-2xl); font-weight: 700; color: var(--accent-purple);">Wyrdness</span>
+        </a>
+        
+        <input type="checkbox" id="menu-toggle" class="menu-toggle sr-only">
+        <label for="menu-toggle" class="menu-toggle__label">
+          <span class="sr-only">Toggle menu</span>
+          <span class="menu-toggle__icon"></span>
+        </label>
+        
+        <nav class="site-nav">
+          <ul class="site-nav__list">
+            <li><a href="/browse/" class="site-nav__link">Browse</a></li>
+            <li><a href="/categories/" class="site-nav__link">Categories</a></li>
+            <li><a href="/map/" class="site-nav__link">Map</a></li>
+            <li><a href="/timeline/" class="site-nav__link">Timeline</a></li>
+            <li><a href="/favorites/" class="site-nav__link">Favorites</a></li>
+            <li><a href="/about/" class="site-nav__link">About</a></li>
+          </ul>
+        </nav>
+      </div>
+    </div>
+  </header>
+  
+  <main id="main-content">
+    <article class="container" style="padding: var(--space-2xl) var(--space-md); max-width: 800px;">
+      <h1 class="mb-lg">Help &amp; FAQ</h1>
+      
+      <section class="mb-2xl">
+        <h2>Getting Started</h2>
+        
+        <details class="mb-md" style="background: var(--bg-secondary); padding: var(--space-md); border-radius: var(--radius-md);">
+          <summary style="cursor: pointer; font-weight: 600; color: var(--accent-purple);">How do I search for phenomena?</summary>
+          <p style="margin-top: var(--space-sm);">
+            Use the search bar on the homepage or browse page. You can search by name, category, region, or keyword. 
+            The search updates in real-time as you type.
+          </p>
+        </details>
+        
+        <details class="mb-md" style="background: var(--bg-secondary); padding: var(--space-md); border-radius: var(--radius-md);">
+          <summary style="cursor: pointer; font-weight: 600; color: var(--accent-purple);">How do I filter results?</summary>
+          <p style="margin-top: var(--space-sm);">
+            On the Browse page, use the filter dropdowns to narrow results by category, region, or danger level. 
+            You can combine multiple filters.
+          </p>
+        </details>
+        
+        <details class="mb-md" style="background: var(--bg-secondary); padding: var(--space-md); border-radius: var(--radius-md);">
+          <summary style="cursor: pointer; font-weight: 600; color: var(--accent-purple);">How do favorites work?</summary>
+          <p style="margin-top: var(--space-sm);">
+            Click the star icon on any phenomenon to save it to your favorites. Favorites are stored in your browser's 
+            local storage. You can export/import them from the Favorites page.
+          </p>
+        </details>
+      </section>
+      
+      <section class="mb-2xl">
+        <h2>Features</h2>
+        
+        <details class="mb-md" style="background: var(--bg-secondary); padding: var(--space-md); border-radius: var(--radius-md);">
+          <summary style="cursor: pointer; font-weight: 600; color: var(--accent-purple);">What is the Map view?</summary>
+          <p style="margin-top: var(--space-sm);">
+            The Map displays phenomena by geographic location. Only entries with latitude/longitude coordinates appear. 
+            Click markers to view details and links to full documentation.
+          </p>
+        </details>
+        
+        <details class="mb-md" style="background: var(--bg-secondary); padding: var(--space-md); border-radius: var(--radius-md);">
+          <summary style="cursor: pointer; font-weight: 600; color: var(--accent-purple);">What is the Timeline view?</summary>
+          <p style="margin-top: var(--space-sm);">
+            The Timeline orders phenomena chronologically by first reported date. This helps visualize when different 
+            phenomena entered public consciousness or historical record.
+          </p>
+        </details>
+        
+        <details class="mb-md" style="background: var(--bg-secondary); padding: var(--space-md); border-radius: var(--radius-md);">
+          <summary style="cursor: pointer; font-weight: 600; color: var(--accent-purple);">Can I use this data in my project?</summary>
+          <p style="margin-top: var(--space-sm);">
+            Yes! All data is CC0-1.0 (public domain). Access via our API at <code>/api/v1/index.json</code>. 
+            Attribution appreciated but not required.
+          </p>
+        </details>
+      </section>
+      
+      <section class="mb-2xl">
+        <h2>Data &amp; Sources</h2>
+        
+        <details class="mb-md" style="background: var(--bg-secondary); padding: var(--space-md); border-radius: var(--radius-md);">
+          <summary style="cursor: pointer; font-weight: 600; color: var(--accent-purple);">Where does the data come from?</summary>
+          <p style="margin-top: var(--space-sm);">
+            Each phenomenon has a dedicated GitHub repository with documented sources. We compile data from academic 
+            research, historical texts, folklore archives, and verified eyewitness accounts.
+          </p>
+        </details>
+        
+        <details class="mb-md" style="background: var(--bg-secondary); padding: var(--space-md); border-radius: var(--radius-md);">
+          <summary style="cursor: pointer; font-weight: 600; color: var(--accent-purple);">How can I report errors?</summary>
+          <p style="margin-top: var(--space-sm);">
+            Visit the phenomenon's GitHub repository (linked on each detail page) and open an Issue. 
+            Please provide sources for any corrections.
+          </p>
+        </details>
+        
+        <details class="mb-md" style="background: var(--bg-secondary); padding: var(--space-md); border-radius: var(--radius-md);">
+          <summary style="cursor: pointer; font-weight: 600; color: var(--accent-purple);">Can I submit a new phenomenon?</summary>
+          <p style="margin-top: var(--space-sm);">
+            Yes! Open an issue at <a href="https://github.com/wyrdness">github.com/wyrdness</a> with the phenomenon name, 
+            category, description, and at least 3 credible sources. We review all submissions.
+          </p>
+        </details>
+      </section>
+      
+      <section class="mb-2xl">
+        <h2>Technical</h2>
+        
+        <details class="mb-md" style="background: var(--bg-secondary); padding: var(--space-md); border-radius: var(--radius-md);">
+          <summary style="cursor: pointer; font-weight: 600; color: var(--accent-purple);">Does this site work without JavaScript?</summary>
+          <p style="margin-top: var(--space-sm);">
+            Core content is accessible without JavaScript. Interactive features (search, favorites, filters) 
+            require JavaScript enabled.
+          </p>
+        </details>
+        
+        <details class="mb-md" style="background: var(--bg-secondary); padding: var(--space-md); border-radius: var(--radius-md);">
+          <summary style="cursor: pointer; font-weight: 600; color: var(--accent-purple);">Is my data private?</summary>
+          <p style="margin-top: var(--space-sm);">
+            We collect no personal data. Favorites are stored locally in your browser. No tracking, no cookies, no analytics.
+          </p>
+        </details>
+        
+        <details class="mb-md" style="background: var(--bg-secondary); padding: var(--space-md); border-radius: var(--radius-md);">
+          <summary style="cursor: pointer; font-weight: 600; color: var(--accent-purple);">How do I access the API?</summary>
+          <p style="margin-top: var(--space-sm);">
+            API endpoints:<br>
+            <code>/api/v1/index.json</code> - All phenomena<br>
+            <code>/api/v1/categories.json</code> - Category data<br>
+            <code>/api/v1/stats.json</code> - Statistics<br>
+            <code>/api/v1/{id}.json</code> - Individual entry
+          </p>
+        </details>
+      </section>
+      
+      <section>
+        <h2>Still Need Help?</h2>
+        <p>
+          Can't find what you're looking for? Open an issue on 
+          <a href="https://github.com/wyrdness/wyrdness.github.io">GitHub</a> and we'll help you out.
+        </p>
+      </section>
+    </article>
+  </main>
+  
+  <footer class="site-footer">
+    <div class="container">
+      <div class="site-footer__bottom">
+        <p class="text-muted text-center">&copy; 2026 Wyrdness Project</p>
+      </div>
+    </div>
+  </footer>
+  
+  <script src="/js/utils.js"></script>
+  <script src="/js/app.js"></script>
+</body>
+</html>

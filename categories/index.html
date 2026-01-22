@@ -1,0 +1,115 @@
+<!DOCTYPEhtml>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Categories - Wyrdness</title>
+  <link rel="stylesheet" href="/css/main.css">
+</head>
+<body>
+  <a href="#main-content" class="sr-only sr-only--focusable">Skip to main content</a>
+  
+  <header class="site-header">
+    <div class="container">
+      <div class="site-header__content">
+        <a href="/" class="site-header__logo">
+          <span style="font-size: var(--font-2xl); font-weight: 700; color: var(--accent-purple);">Wyrdness</span>
+        </a>
+        
+        <input type="checkbox" id="menu-toggle" class="menu-toggle sr-only">
+        <label for="menu-toggle" class="menu-toggle__label">
+          <span class="sr-only">Toggle menu</span>
+          <span class="menu-toggle__icon"></span>
+        </label>
+        
+        <nav class="site-nav">
+          <ul class="site-nav__list">
+            <li><a href="/browse/" class="site-nav__link">Browse</a></li>
+            <li><a href="/categories/" class="site-nav__link site-nav__link--active">Categories</a></li>
+            <li><a href="/map/" class="site-nav__link">Map</a></li>
+            <li><a href="/timeline/" class="site-nav__link">Timeline</a></li>
+            <li><a href="/favorites/" class="site-nav__link">Favorites</a></li>
+            <li><a href="/about/" class="site-nav__link">About</a></li>
+          </ul>
+        </nav>
+      </div>
+    </div>
+  </header>
+  
+  <main id="main-content">
+    <div class="container" style="padding: var(--space-2xl) var(--space-md);">
+      <h1 class="mb-lg">All Categories</h1>
+      
+      <div id="loading" class="text-center" style="padding: var(--space-2xl);">
+        <p class="text-muted">Loading categories...</p>
+      </div>
+      
+      <div id="categories-grid" class="grid grid--4 gap--lg" style="display: none;"></div>
+    </div>
+  </main>
+  
+  <footer class="site-footer">
+    <div class="container">
+      <div class="site-footer__bottom">
+        <p class="text-muted text-center">&copy; 2026 Wyrdness Project</p>
+      </div>
+    </div>
+  </footer>
+  
+  <script src="/js/utils.js"></script>
+  <script src="/js/api.js"></script>
+  <script src="/js/app.js"></script>
+  <script>
+    (async function() {
+      const loading = document.getElementById('loading');
+      const grid = document.getElementById('categories-grid');
+      
+      try {
+        const data = await window.API.getAllPhenomena();
+        const phenomena = data.phenomena || data;
+        
+        const categories = {};
+        phenomena.forEach(p => {
+          const cat = p.category || 'uncategorized';
+          if (!categories[cat]){
+            categories[cat] = { count: 0, items: [] };
+          }
+          categories[cat].count++;
+          categories[cat].items.push(p);
+        });
+        
+        const sortedCategories = Object.entries(categories).sort((a, b) => b[1].count - a[1].count);
+        
+        loading.style.display = 'none';
+        grid.style.display = 'grid';
+        
+        grid.innerHTML = sortedCategories.map(([name, data]) => {
+          const emoji = {
+            cryptid: '🦍', ghost: '👻', mythological: '🐲', demon: '😈',
+            alien: '��', urban_legend: '🏙️', paranormal: '✨', yokai: '👹',
+            folklore: '📖', monster: '👾', spirit: '🌟', supernatural: '��'
+          }[name] || '❓';
+          
+          return `
+            <div style="background: var(--bg-secondary); padding: var(--space-lg); border-radius: var(--radius-lg); border: 1px solid var(--border-color);">
+              <div style="font-size: var(--font-3xl); text-align: center; margin-bottom: var(--space-sm);">${emoji}</div>
+              <h3 style="text-align: center; margin-bottom: var(--space-xs);">${name.replace('_', ' ').replace(/\b\w/g, l => l.toUpperCase())}</h3>
+              <p class="text-muted text-center mb-md">${data.count} phenomena</p>
+              <details>
+                <summary style="cursor: pointer; color: var(--accent-purple);">View all</summary>
+                <ul style="margin-top: var(--space-sm); padding-left: var(--space-md);">
+                  ${data.items.slice(0, 10).map(p => `<li><a href="/phenomena/${p.id}/">${p.name}</a></li>`).join('')}
+                  ${data.count > 10 ? `<li class="text-muted">...and ${data.count - 10} more</li>` : ''}
+                </ul>
+              </details>
+            </div>
+          `;
+        }).join('');
+        
+      } catch (error) {
+        loading.innerHTML = '<p class="error">Failed to load categories.</p>';
+      }
+    })();
+  </script>
+</body>
+</html>

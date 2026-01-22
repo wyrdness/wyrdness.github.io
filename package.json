@@ -1,0 +1,28 @@
+{
+  "name": "wyrdness-frontend",
+  "version": "1.0.0",
+  "description": "Wyrdness Paranormal Phenomena Database - Frontend",
+  "scripts": {
+    "aggregate": "node scripts/aggregate-api.js",
+    "generate:categories": "node scripts/generate-categories.js",
+    "generate:stats": "node scripts/generate-stats.js",
+    "generate:pages": "node scripts/generate-pages.js",
+    "generate:all": "node scripts/generate-index.js",
+    "dev": "python3 -m http.server 8000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wyrdness/wyrdness.github.io"
+  },
+  "keywords": [
+    "paranormal",
+    "cryptozoology",
+    "folklore",
+    "mythology"
+  ],
+  "author": "Wyrdness Project",
+  "license": "CC-BY-4.0",
+  "dependencies": {
+    "@octokit/rest": "^20.0.2"
+  }
+}
