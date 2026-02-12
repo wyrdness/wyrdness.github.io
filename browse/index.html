@@ -1,0 +1,233 @@
+<!DOCTYPEhtml>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Browse all 516+ paranormal phenomena alphabetically with filtering and search">
+  <title>Browse All Phenomena - Wyrdness</title>
+  <link rel="stylesheet" href="/css/main.css">
+</head>
+<body>
+  <a href="#main-content" class="sr-only sr-only--focusable">Skip to main content</a>
+  
+  <header class="site-header">
+    <div class="container">
+      <div class="site-header__content">
+        <a href="/" class="site-header__logo">
+          <span style="font-size: var(--font-2xl); font-weight: 700; color: var(--accent-purple);">Wyrdness</span>
+        </a>
+        
+        <input type="checkbox" id="menu-toggle" class="menu-toggle sr-only">
+        <label for="menu-toggle" class="menu-toggle__label">
+          <span class="sr-only">Toggle menu</span>
+          <span class="menu-toggle__icon"></span>
+        </label>
+        
+        <nav class="site-nav">
+          <ul class="site-nav__list">
+            <li><a href="/browse/" class="site-nav__link site-nav__link--active">Browse</a></li>
+            <li><a href="/categories/" class="site-nav__link">Categories</a></li>
+            <li><a href="/map/" class="site-nav__link">Map</a></li>
+            <li><a href="/timeline/" class="site-nav__link">Timeline</a></li>
+            <li><a href="/favorites/" class="site-nav__link">Favorites</a></li>
+            <li><a href="/about/" class="site-nav__link">About</a></li>
+          </ul>
+        </nav>
+      </div>
+    </div>
+  </header>
+  
+  <main id="main-content">
+    <div class="container" style="padding: var(--space-2xl) var(--space-md);">
+      <h1 class="mb-lg">Browse All Phenomena</h1>
+      
+      <!--Filters-->
+      <div class="filter-bar mb-xl" style="background: var(--bg-secondary); padding: var(--space-lg); border-radius: var(--radius-md);">
+        <form class="search-form mb-md">
+          <input 
+            type="search" 
+            class="search-form__input" 
+            placeholder="Search by name, category, or region..."
+            aria-label="Search phenomena"
+            id="browse-search"
+          >
+        </form>
+        
+        <div class="flex gap--md" style="flex-wrap: wrap;">
+          <select id="category-filter" class="form-control" style="min-width: 200px;">
+            <option value="">All Categories</option>
+          </select>
+          
+          <select id="region-filter" class="form-control" style="min-width: 200px;">
+            <option value="">All Regions</option>
+          </select>
+          
+          <select id="danger-filter" class="form-control" style="min-width: 150px;">
+            <option value="">All Danger Levels</option>
+            <option value="harmless">Harmless</option>
+            <option value="low">Low</option>
+            <option value="medium">Medium</option>
+            <option value="high">High</option>
+            <option value="extreme">Extreme</option>
+          </select>
+          
+          <button id="clear-filters" class="btn btn--secondary">Clear Filters</button>
+        </div>
+      </div>
+      
+      <!--Resultscount-->
+      <p class="text-muted mb-md">
+        <span id="results-count">Loading...</span>
+      </p>
+      
+      <!--Loadingstate-->
+      <div id="loading" class="text-center" style="padding: var(--space-2xl);">
+        <p class="text-muted">Loading phenomena...</p>
+      </div>
+      
+      <!--Resultsgrid-->
+      <div id="browse-results" class="grid grid--3 gap--lg" style="display: none;"></div>
+      
+      <!--Noresults-->
+      <div id="no-results" class="text-center" style="padding: var(--space-2xl); display: none;">
+        <p class="text-muted">No phenomena found matching your filters.</p>
+      </div>
+    </div>
+  </main>
+  
+  <footer class="site-footer">
+    <div class="container">
+      <div class="site-footer__bottom">
+        <p class="text-muted text-center">&copy; 2026 Wyrdness Project</p>
+      </div>
+    </div>
+  </footer>
+  
+  <script src="/js/utils.js"></script>
+  <script src="/js/api.js"></script>
+  <script src="/js/favorites.js"></script>
+  <script src="/js/app.js"></script>
+  <script>
+    (function() {
+      let allPhenomena = [];
+      let filteredPhenomena = [];
+      
+      const elements = {
+        search: document.getElementById('browse-search'),
+        categoryFilter: document.getElementById('category-filter'),
+        regionFilter: document.getElementById('region-filter'),
+        dangerFilter: document.getElementById('danger-filter'),
+        clearFilters: document.getElementById('clear-filters'),
+        resultsCount: document.getElementById('results-count'),
+        loading: document.getElementById('loading'),
+        results: document.getElementById('browse-results'),
+        noResults: document.getElementById('no-results')
+      };
+      
+      async function init() {
+        try {
+          const data = await window.API.getAllPhenomena();
+          allPhenomena = data.phenomena || data;
+          populateFilters();
+          applyFilters();
+        } catch (error) {
+          elements.loading.innerHTML = '<p class="error">Failed to load phenomena. Please try again later.</p>';
+        }
+      }
+      
+      function populateFilters() {
+        const categories = new Set();
+        const regions = new Set();
+        
+        allPhenomena.forEach(p => {
+          if (p.category) categories.add(p.category);
+          if (p.regions) p.regions.forEach(r => regions.add(r));
+        });
+        
+        Array.from(categories).sort().forEach(cat => {
+          const option = document.createElement('option');
+          option.value = cat;
+          option.textContent = cat.charAt(0).toUpperCase() + cat.slice(1);
+          elements.categoryFilter.appendChild(option);
+        });
+        
+        Array.from(regions).sort().forEach(region => {
+          const option = document.createElement('option');
+          option.value = region;
+          option.textContent = region;
+          elements.regionFilter.appendChild(option);
+        });
+      }
+      
+      function applyFilters() {
+        const searchTerm = elements.search.value.toLowerCase();
+        const category = elements.categoryFilter.value;
+        const region = elements.regionFilter.value;
+        const danger = elements.dangerFilter.value;
+        
+        filteredPhenomena = allPhenomena.filter(p => {
+          if (searchTerm && !p.name.toLowerCase().includes(searchTerm))returnfalse;
+          if (category && p.category !== category) return false;
+          if (region && (!p.regions||!p.regions.includes(region)))returnfalse;
+          if (danger && p.danger_level !== danger) return false;
+          return true;
+        });
+        
+        render();
+      }
+      
+      function render() {
+        elements.loading.style.display = 'none';
+        
+        if (filteredPhenomena.length === 0) {
+          elements.results.style.display = 'none';
+          elements.noResults.style.display = 'block';
+          elements.resultsCount.textContent = 'No phenomena found';
+          return;
+        }
+        
+        elements.results.style.display = 'grid';
+        elements.noResults.style.display = 'none';
+        elements.resultsCount.textContent = `Showing ${filteredPhenomena.length} of ${allPhenomena.length} phenomena`;
+        
+        elements.results.innerHTML = filteredPhenomena.map(p => `
+          <article class="card">
+            <div class="card__header">
+              <h3 class="card__title">
+                <a href="/phenomena/${p.id}/">${p.name}</a>
+              </h3>
+            </div>
+            <div class="card__body">
+              <div class="flex gap--xs mb-sm" style="flex-wrap: wrap;">
+                <span class="badge badge--sm">${p.category || 'Unknown'}</span>
+                ${p.danger_level ? `<span class="badge badge--sm badge--danger">${p.danger_level}</span>` : ''}
+              </div>
+              <p class="text-muted">${(p.description || '').substring(0, 120)}...</p>
+            </div>
+            <div class="card__footer">
+              <button class="btn btn--sm btn--secondary" onclick="window.FavoritesModule.toggle('${p.id}')">
+                ${window.FavoritesModule && window.FavoritesModule.has(p.id) ? '★' : '☆'} Favorite
+              </button>
+            </div>
+          </article>
+        `).join('');
+      }
+      
+      // Event listeners
+      elements.search.addEventListener('input', window.Utils.debounce(applyFilters, 300));
+      elements.categoryFilter.addEventListener('change', applyFilters);
+      elements.regionFilter.addEventListener('change', applyFilters);
+      elements.dangerFilter.addEventListener('change', applyFilters);
+      elements.clearFilters.addEventListener('click', () => {
+        elements.search.value = '';
+        elements.categoryFilter.value = '';
+        elements.regionFilter.value = '';
+        elements.dangerFilter.value = '';
+        applyFilters();
+      });
+      
+      init();
+    })();
+  </script>
+</body>
+</html>

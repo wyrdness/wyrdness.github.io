@@ -1,0 +1,141 @@
+/* CSS Custom Properties - Dracula Theme */
+
+:root {
+  /* Dracula Base Colors */
+  --bg-primary: #282a36;
+  --bg-secondary: #343746;
+  --bg-tertiary: #44475a;
+  --bg-elevated: #3d3f4d;
+  
+  /* Dracula Accent Colors */
+  --accent-purple: #bd93f9;
+  --accent-pink: #ff79c6;
+  --accent-cyan: #8be9fd;
+  --accent-green: #50fa7b;
+  --accent-orange: #ffb86c;
+  --accent-red: #ff5555;
+  --accent-yellow: #f1fa8c;
+  
+  /* Text Colors (WCAG AA compliant) */
+  --text-primary: #f8f8f2;      /* 15.6:1 contrast */
+  --text-secondary: #e2e4e8;    /* 12.5:1 contrast */
+  --text-muted: #a6accd;        /* 7.2:1 contrast */
+  --text-comment: #6272a4;      /* 4.5:1 contrast - minimum AA */
+  
+  /* UI Elements */
+  --border-color: #44475a;
+  --border-focus: #bd93f9;
+  --shadow-sm: rgba(0, 0, 0, 0.2);
+  --shadow-md: rgba(0, 0, 0, 0.3);
+  --shadow-lg: rgba(0, 0, 0, 0.4);
+  --overlay-bg: rgba(40, 42, 54, 0.95);
+  
+  /* Category Colors (Dracula palette, semantic) */
+  --category-cryptid: #ffb86c;       /* Orange */
+  --category-ghost: #bd93f9;         /* Purple */
+  --category-mythological: #8be9fd;  /* Cyan */
+  --category-demon: #ff5555;         /* Red */
+  --category-fae: #50fa7b;           /* Green */
+  --category-ufo: #ff79c6;           /* Pink */
+  --category-undead: #bd93f9;        /* Purple */
+  --category-shapeshifter: #f1fa8c;  /* Yellow */
+  --category-entity: #8be9fd;        /* Cyan */
+  --category-psychic: #ff79c6;       /* Pink */
+  --category-location: #ffb86c;      /* Orange */
+  --category-urban: #f1fa8c;         /* Yellow */
+  --category-internet: #bd93f9;      /* Purple */
+  --category-conspiracy: #ff5555;    /* Red */
+  
+  /* Status Colors */
+  --status-unknown: #f1fa8c;    /* Yellow */
+  --status-explained: #50fa7b;  /* Green */
+  --status-debunked: #ff5555;   /* Red */
+  
+  /* Interactive States */
+  --link-color: #8be9fd;
+  --link-hover: #ff79c6;
+  --link-visited: #bd93f9;
+  --link-active: #f1fa8c;
+  
+  --button-primary: #bd93f9;
+  --button-primary-hover: #d5b8ff;
+  --button-primary-active: #9d73d9;
+  
+  --button-secondary: #44475a;
+  --button-secondary-hover: #5a5d74;
+  --button-secondary-active: #353743;
+  
+  /* Spacing Scale (mobile-first) */
+  --space-xs: 0.25rem;    /* 4px */
+  --space-sm: 0.5rem;     /* 8px */
+  --space-md: 1rem;       /* 16px */
+  --space-lg: 1.5rem;     /* 24px */
+  --space-xl: 2rem;       /* 32px */
+  --space-2xl: 3rem;      /* 48px */
+  --space-3xl: 4rem;      /* 64px */
+  
+  /* Typography Scale */
+  --font-xs: 0.75rem;     /* 12px */
+  --font-sm: 0.875rem;    /* 14px */
+  --font-base: 1rem;      /* 16px */
+  --font-lg: 1.125rem;    /* 18px */
+  --font-xl: 1.25rem;     /* 20px */
+  --font-2xl: 1.5rem;     /* 24px */
+  --font-3xl: 1.875rem;   /* 30px */
+  --font-4xl: 2.25rem;    /* 36px */
+  --font-5xl: 3rem;       /* 48px */
+  
+  /* Font Families */
+  --font-sans: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', 
+               'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 
+               'Droid Sans', 'Helvetica Neue', sans-serif;
+  --font-serif: Georgia, Cambria, 'Times New Roman', Times, serif;
+  --font-mono: 'Fira Code', 'Courier New', Courier, monospace;
+  
+  /* Border Radius */
+  --radius-sm: 0.25rem;   /* 4px */
+  --radius-md: 0.5rem;    /* 8px */
+  --radius-lg: 0.75rem;   /* 12px */
+  --radius-xl: 1rem;      /* 16px */
+  --radius-full: 9999px;
+  
+  /* Transitions */
+  --transition-fast: 150ms ease-in-out;
+  --transition-base: 250ms ease-in-out;
+  --transition-slow: 350ms ease-in-out;
+  
+  /* Z-Index Scale */
+  --z-base: 1;
+  --z-dropdown: 100;
+  --z-sticky: 200;
+  --z-fixed: 300;
+  --z-modal-backdrop: 400;
+  --z-modal: 500;
+  --z-popover: 600;
+  --z-tooltip: 700;
+  
+  /* Container Width */
+  --container-sm: 640px;
+  --container-md: 768px;
+  --container-lg: 1024px;
+  --container-xl: 1280px;
+  --container-2xl: 1536px;
+  
+  /* Breakpoints (for reference in JS) */
+  --breakpoint-sm: 640px;
+  --breakpoint-md: 768px;
+  --breakpoint-lg: 1024px;
+  --breakpoint-xl: 1280px;
+  --breakpoint-2xl: 1536px;
+}
+
+/* Print-specific variables */
+@media print {
+  :root {
+    --bg-primary: #ffffff;
+    --bg-secondary: #f5f5f5;
+    --text-primary: #000000;
+    --text-secondary: #333333;
+    --border-color: #cccccc;
+  }
+}

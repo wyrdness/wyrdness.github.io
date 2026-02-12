@@ -1,0 +1,71 @@
+<!DOCTYPEhtml>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Timeline - Wyrdness</title>
+  <link rel="stylesheet" href="/css/main.css">
+</head>
+<body>
+  <a href="#main-content" class="sr-only sr-only--focusable">Skip to main content</a>
+  
+  <header class="site-header">
+    <div class="container">
+      <div class="site-header__content">
+        <a href="/" class="site-header__logo">
+          <span style="font-size: var(--font-2xl); font-weight: 700; color: var(--accent-purple);">Wyrdness</span>
+        </a>
+        
+        <input type="checkbox" id="menu-toggle" class="menu-toggle sr-only">
+        <label for="menu-toggle" class="menu-toggle__label">
+          <span class="sr-only">Toggle menu</span>
+          <span class="menu-toggle__icon"></span>
+        </label>
+        
+        <nav class="site-nav">
+          <ul class="site-nav__list">
+            <li><a href="/browse/" class="site-nav__link">Browse</a></li>
+            <li><a href="/categories/" class="site-nav__link">Categories</a></li>
+            <li><a href="/map/" class="site-nav__link">Map</a></li>
+            <li><a href="/timeline/" class="site-nav__link site-nav__link--active">Timeline</a></li>
+            <li><a href="/favorites/" class="site-nav__link">Favorites</a></li>
+            <li><a href="/about/" class="site-nav__link">About</a></li>
+          </ul>
+        </nav>
+      </div>
+    </div>
+  </header>
+  
+  <main id="main-content">
+    <div class="container" style="padding: var(--space-2xl) var(--space-md);">
+      <h1 class="mb-md">Timeline</h1>
+      <p class="text-muted mb-lg">Phenomena ordered by first reported date</p>
+      
+      <div id="loading" class="text-center" style="padding: var(--space-2xl);">
+        <p class="text-muted">Loading timeline...</p>
+      </div>
+      
+      <div id="timeline"></div>
+    </div>
+  </main>
+  
+  <footer class="site-footer">
+    <div class="container">
+      <div class="site-footer__bottom">
+        <p class="text-muted text-center">&copy; 2026 Wyrdness Project</p>
+      </div>
+    </div>
+  </footer>
+  
+  <script src="/js/utils.js"></script>
+  <script src="/js/api.js"></script>
+  <script src="/js/timeline.js"></script>
+  <script src="/js/app.js"></script>
+  <script>
+    document.addEventListener('DOMContentLoaded', () => {
+      window.TimelineModule.init('timeline');
+      document.getElementById('loading').style.display = 'none';
+    });
+  </script>
+</body>
+</html>

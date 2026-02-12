@@ -1,0 +1,85 @@
+<!DOCTYPEhtml>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Interactive Map - Wyrdness</title>
+  <link rel="stylesheet" href="/css/main.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+  <style>
+    #map {
+      height: 600px;
+      width: 100%;
+      border-radius: var(--radius-md);
+      border: 1px solid var(--border-color);
+    }
+    
+    @media (max-width: 768px) {
+      #map { height: 400px; }
+    }
+  </style>
+</head>
+<body>
+  <a href="#main-content" class="sr-only sr-only--focusable">Skip to main content</a>
+  
+  <header class="site-header">
+    <div class="container">
+      <div class="site-header__content">
+        <a href="/" class="site-header__logo">
+          <span style="font-size: var(--font-2xl); font-weight: 700; color: var(--accent-purple);">Wyrdness</span>
+        </a>
+        
+        <input type="checkbox" id="menu-toggle" class="menu-toggle sr-only">
+        <label for="menu-toggle" class="menu-toggle__label">
+          <span class="sr-only">Toggle menu</span>
+          <span class="menu-toggle__icon"></span>
+        </label>
+        
+        <nav class="site-nav">
+          <ul class="site-nav__list">
+            <li><a href="/browse/" class="site-nav__link">Browse</a></li>
+            <li><a href="/categories/" class="site-nav__link">Categories</a></li>
+            <li><a href="/map/" class="site-nav__link site-nav__link--active">Map</a></li>
+            <li><a href="/timeline/" class="site-nav__link">Timeline</a></li>
+            <li><a href="/favorites/" class="site-nav__link">Favorites</a></li>
+            <li><a href="/about/" class="site-nav__link">About</a></li>
+          </ul>
+        </nav>
+      </div>
+    </div>
+  </header>
+  
+  <main id="main-content">
+    <div class="container" style="padding: var(--space-2xl) var(--space-md);">
+      <h1 class="mb-md">Interactive Map</h1>
+      <p class="text-muted mb-lg">Explore paranormal phenomena by geographic location</p>
+      
+      <div id="map"></div>
+      
+      <div class="mt-md" style="background: var(--bg-secondary); padding: var(--space-md); border-radius: var(--radius-md);">
+        <p class="text-muted" style="margin: 0;">
+          <strong>Note:</strong> Map markers require latitude/longitude coordinates in the api.json files. 
+          Phenomena without coordinates will not appear on the map.
+        </p>
+      </div>
+    </div>
+  </main>
+  
+  <footer class="site-footer">
+    <div class="container">
+      <div class="site-footer__bottom">
+        <p class="text-muted text-center">&copy; 2026 Wyrdness Project</p>
+      </div>
+    </div>
+  </footer>
+  
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script src="/js/utils.js"></script>
+  <script src="/js/api.js"></script>
+  <script src="/js/map.js"></script>
+  <script src="/js/app.js"></script>
+  <script>
+    window.MapModule.init('map');
+  </script>
+</body>
+</html>

@@ -1,0 +1,161 @@
+<!DOCTYPEhtml>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>About - Wyrdness</title>
+  <link rel="stylesheet" href="/css/main.css">
+</head>
+<body>
+  <a href="#main-content" class="sr-only sr-only--focusable">Skip to main content</a>
+  
+  <header class="site-header">
+    <div class="container">
+      <div class="site-header__content">
+        <a href="/" class="site-header__logo">
+          <span style="font-size: var(--font-2xl); font-weight: 700; color: var(--accent-purple);">Wyrdness</span>
+        </a>
+        
+        <input type="checkbox" id="menu-toggle" class="menu-toggle sr-only">
+        <label for="menu-toggle" class="menu-toggle__label">
+          <span class="sr-only">Toggle menu</span>
+          <span class="menu-toggle__icon"></span>
+        </label>
+        
+        <nav class="site-nav">
+          <ul class="site-nav__list">
+            <li><a href="/browse/" class="site-nav__link">Browse</a></li>
+            <li><a href="/categories/" class="site-nav__link">Categories</a></li>
+            <li><a href="/map/" class="site-nav__link">Map</a></li>
+            <li><a href="/timeline/" class="site-nav__link">Timeline</a></li>
+            <li><a href="/favorites/" class="site-nav__link">Favorites</a></li>
+            <li><a href="/about/" class="site-nav__link site-nav__link--active">About</a></li>
+          </ul>
+        </nav>
+      </div>
+    </div>
+  </header>
+  
+  <main id="main-content">
+    <article class="container" style="padding: var(--space-2xl) var(--space-md); max-width: 800px;">
+      <h1 class="mb-lg">About Wyrdness</h1>
+      
+      <section class="mb-2xl">
+        <h2>What is Wyrdness?</h2>
+        <p>
+          Wyrdness is a comprehensive, open-source database documenting 516+ paranormal phenomena from cultures around the world. 
+          Our mission is to preserve folklore, mythology, and unexplained mysteries with academic rigor and accessibility.
+        </p>
+      </section>
+      
+      <section class="mb-2xl">
+        <h2>Our Approach</h2>
+        <p>
+          Each phenomenon in our database is meticulously documented with:
+        </p>
+        <ul>
+          <li><strong>Verified Sources</strong> - Academic papers, historical texts, and credible eyewitness accounts</li>
+          <li><strong>Cultural Context</strong> - Origin stories, regional variations, and cultural significance</li>
+          <li><strong>Evidence Analysis</strong> - Critical evaluation of claims and documented sightings</li>
+          <li><strong>Open Collaboration</strong> - Community-driven research via GitHub</li>
+        </ul>
+      </section>
+      
+      <section class="mb-2xl">
+        <h2>Categories</h2>
+        <p>Our database covers diverse categories including:</p>
+        <div class="grid grid--2 gap--md mt-md">
+          <div style="background: var(--bg-secondary); padding: var(--space-md); border-radius: var(--radius-md);">
+            <strong>Cryptids</strong><br>
+            <span class="text-muted">Bigfoot, Loch Ness Monster, Chupacabra</span>
+          </div>
+          <div style="background: var(--bg-secondary); padding: var(--space-md); border-radius: var(--radius-md);">
+            <strong>Ghosts &amp; Spirits</strong><br>
+            <span class="text-muted">Banshees, Poltergeists, Shadow People</span>
+          </div>
+          <div style="background: var(--bg-secondary); padding: var(--space-md); border-radius: var(--radius-md);">
+            <strong>Mythological</strong><br>
+            <span class="text-muted">Dragons, Griffins, Phoenix</span>
+          </div>
+          <div style="background: var(--bg-secondary); padding: var(--space-md); border-radius: var(--radius-md);">
+            <strong>Urban Legends</strong><br>
+            <span class="text-muted">Slenderman, Black Eyed Children</span>
+          </div>
+          <div style="background: var(--bg-secondary); padding: var(--space-md); border-radius: var(--radius-md);">
+            <strong>Aliens &amp; UFOs</strong><br>
+            <span class="text-muted">Greys, Roswell, Area 51</span>
+          </div>
+          <div style="background: var(--bg-secondary); padding: var(--space-md); border-radius: var(--radius-md);">
+            <strong>Paranormal Events</strong><br>
+            <span class="text-muted">Bermuda Triangle, Dyatlov Pass</span>
+          </div>
+        </div>
+      </section>
+      
+      <section class="mb-2xl">
+        <h2>Open Source &amp; Open Data</h2>
+        <p>
+          Wyrdness is built on the principles of open knowledge. All data is freely available under Creative Commons licenses:
+        </p>
+        <ul>
+          <li><strong>Data:</strong> CC0-1.0 (Public Domain)</li>
+          <li><strong>Content:</strong> CC-BY-4.0 (Attribution Required)</li>
+          <li><strong>Code:</strong> MIT License</li>
+        </ul>
+        <p>
+          Every phenomenon has a dedicated GitHub repository where you can view sources, report corrections, 
+          submit sightings, and contribute research.
+        </p>
+      </section>
+      
+      <section class="mb-2xl">
+        <h2>API Access</h2>
+        <p>
+          Developers can access our data programmatically:
+        </p>
+        <ul>
+          <li><a href="/api/v1/index.json">/api/v1/index.json</a> - All phenomena</li>
+          <li><a href="/api/v1/categories.json">/api/v1/categories.json</a> - Category breakdown</li>
+          <li><a href="/api/v1/stats.json">/api/v1/stats.json</a> - Database statistics</li>
+          <li>/api/v1/{phenomenon-id}.json - Individual entries</li>
+        </ul>
+      </section>
+      
+      <section class="mb-2xl">
+        <h2>Contribute</h2>
+        <p>
+          Help us expand and improve the database:
+        </p>
+        <ul>
+          <li>Report corrections or new sources via GitHub Issues</li>
+          <li>Submit sighting reports with documentation</li>
+          <li>Propose new phenomena for inclusion</li>
+          <li>Improve translations and cultural context</li>
+        </ul>
+        <p>
+          <a href="https://github.com/wyrdness" class="btn btn--primary">Visit GitHub</a>
+        </p>
+      </section>
+      
+      <section class="mb-2xl">
+        <h2>Contact</h2>
+        <p>
+          Questions, suggestions, or collaboration inquiries?<br>
+          Open an issue on <a href="https://github.com/wyrdness/wyrdness.github.io">GitHub</a>.
+        </p>
+      </section>
+    </article>
+  </main>
+  
+  <footer class="site-footer">
+    <div class="container">
+      <div class="site-footer__bottom">
+        <p class="text-muted text-center">&copy; 2026 Wyrdness Project</p>
+      </div>
+    </div>
+  </footer>
+  
+  <script src="/js/utils.js"></script>
+  <script src="/js/app.js"></script>
+</body>
+</html>

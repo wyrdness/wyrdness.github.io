@@ -1,0 +1,161 @@
+<!DOCTYPEhtml>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Your Favorites - Wyrdness</title>
+  <link rel="stylesheet" href="/css/main.css">
+</head>
+<body>
+  <a href="#main-content" class="sr-only sr-only--focusable">Skip to main content</a>
+  
+  <header class="site-header">
+    <div class="container">
+      <div class="site-header__content">
+        <a href="/" class="site-header__logo">
+          <span style="font-size: var(--font-2xl); font-weight: 700; color: var(--accent-purple);">Wyrdness</span>
+        </a>
+        
+        <input type="checkbox" id="menu-toggle" class="menu-toggle sr-only">
+        <label for="menu-toggle" class="menu-toggle__label">
+          <span class="sr-only">Toggle menu</span>
+          <span class="menu-toggle__icon"></span>
+        </label>
+        
+        <nav class="site-nav">
+          <ul class="site-nav__list">
+            <li><a href="/browse/" class="site-nav__link">Browse</a></li>
+            <li><a href="/categories/" class="site-nav__link">Categories</a></li>
+            <li><a href="/map/" class="site-nav__link">Map</a></li>
+            <li><a href="/timeline/" class="site-nav__link">Timeline</a></li>
+            <li><a href="/favorites/" class="site-nav__link site-nav__link--active">Favorites</a></li>
+            <li><a href="/about/" class="site-nav__link">About</a></li>
+          </ul>
+        </nav>
+      </div>
+    </div>
+  </header>
+  
+  <main id="main-content">
+    <div class="container" style="padding: var(--space-2xl) var(--space-md);">
+      <div class="flex flex--between flex--wrap gap--md mb-lg">
+        <h1>Your Favorites</h1>
+        <div class="flex gap--sm">
+          <button id="export-favorites" class="btn btn--secondary">Export</button>
+          <button id="import-favorites" class="btn btn--secondary">Import</button>
+          <button id="clear-favorites" class="btn btn--secondary">Clear All</button>
+        </div>
+      </div>
+      
+      <div id="empty-state" class="text-center" style="padding: var(--space-3xl); display: none;">
+        <p style="font-size: var(--font-2xl); margin-bottom: var(--space-md);">☆</p>
+        <p class="text-muted mb-md">You haven't saved any favorites yet.</p>
+        <a href="/browse/" class="btn btn--primary">Browse Phenomena</a>
+      </div>
+      
+      <div id="favorites-list" class="grid grid--3 gap--lg"></div>
+    </div>
+  </main>
+  
+  <footer class="site-footer">
+    <div class="container">
+      <div class="site-footer__bottom">
+        <p class="text-muted text-center">&copy; 2026 Wyrdness Project</p>
+      </div>
+    </div>
+  </footer>
+  
+  <script src="/js/utils.js"></script>
+  <script src="/js/api.js"></script>
+  <script src="/js/favorites.js"></script>
+  <script src="/js/app.js"></script>
+  <script>
+    (async function() {
+      const emptyState = document.getElementById('empty-state');
+      const favoritesList = document.getElementById('favorites-list');
+      const exportBtn = document.getElementById('export-favorites');
+      const importBtn = document.getElementById('import-favorites');
+      const clearBtn = document.getElementById('clear-favorites');
+      
+      async function render() {
+        const favoriteIds = window.FavoritesModule.getAll();
+        
+        if (favoriteIds.length === 0) {
+          emptyState.style.display = 'block';
+          favoritesList.innerHTML = '';
+          return;
+        }
+        
+        emptyState.style.display = 'none';
+        
+        try {
+          const allData = await window.API.getAllPhenomena();
+          const allPhenomena = allData.phenomena || allData;
+          const favorites = allPhenomena.filter(p => favoriteIds.includes(p.id));
+          
+          favoritesList.innerHTML = favorites.map(p => `
+            <article class="card">
+              <div class="card__header">
+                <h3 class="card__title">
+                  <a href="/phenomena/${p.id}/">${p.name}</a>
+                </h3>
+              </div>
+              <div class="card__body">
+                <div class="flex gap--xs mb-sm" style="flex-wrap: wrap;">
+                  <span class="badge badge--sm">${p.category || 'Unknown'}</span>
+                </div>
+                <p class="text-muted">${(p.description || '').substring(0, 120)}...</p>
+              </div>
+              <div class="card__footer">
+                <button class="btn btn--sm btn--danger" onclick="removeFavorite('${p.id}')">
+                  Remove
+                </button>
+              </div>
+            </article>
+          `).join('');
+        } catch (error) {
+          favoritesList.innerHTML = '<p class="error">Failed to load favorites.</p>';
+        }
+      }
+      
+      window.removeFavorite = function(id) {
+        window.FavoritesModule.remove(id);
+        render();
+      };
+      
+      exportBtn.addEventListener('click', () => {
+        const data = window.FavoritesModule.exportData();
+        const blob = new Blob([data], { type: 'application/json' });
+        const url = URL.createObjectURL(blob);
+        const a = document.createElement('a');
+        a.href = url;
+        a.download = 'wyrdness-favorites.json';
+        a.click();
+        URL.revokeObjectURL(url);
+      });
+      
+      importBtn.addEventListener('click', () => {
+        const input = document.createElement('input');
+        input.type = 'file';
+        input.accept = 'application/json';
+        input.onchange = async (e) => {
+          const file = e.target.files[0];
+          const text = await file.text();
+          window.FavoritesModule.importData(text);
+          render();
+        };
+        input.click();
+      });
+      
+      clearBtn.addEventListener('click', () => {
+        if (confirm('Are you sure you want to clear all favorites?')) {
+          window.FavoritesModule.clear();
+          render();
+        }
+      });
+      
+      render();
+    })();
+  </script>
+</body>
+</html>

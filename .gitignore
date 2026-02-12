@@ -1,0 +1,19 @@
+# Dependencies
+node_modules/
+package-lock.json
+
+# Generated content (will be created by GitHub Actions)
+api/v1/*.json
+phenomena/*/
+
+# System files
+.DS_Store
+.env
+*.log
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
