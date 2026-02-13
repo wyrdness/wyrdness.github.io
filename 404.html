@@ -1,22 +1,60 @@
-<!DOCTYPEhtml>
+<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Page not found - The requested phenomenon does not exist in the Wyrdness database.">
+  <meta name="robots" content="noindex">
   <title>404 Not Found - Wyrdness</title>
+  <link rel="icon" type="image/x-icon" href="/images/favicon.ico">
   <link rel="stylesheet" href="/css/main.css">
 </head>
 <body>
-  <main style="min-height: 100vh; display: flex; align-items: center; justify-content: center; text-align: center; padding: var(--space-lg);">
-    <div>
-      <h1 style="font-size: var(--font-5xl); color: var(--accent-purple);">404</h1>
-      <p style="font-size: var(--font-2xl); margin-bottom: var(--space-xl);">Phenomenon Not Found</p>
-      <p class="text-muted mb-xl">This phenomenon may not exist... yet.</p>
-      <div class="flex flex--center gap--md">
-        <a href="/" class="btn btn--primary">Home</a>
-        <a href="/browse/" class="btn btn--secondary">Browse All</a>
+  <a href="#main-content" class="sr-only sr-only--focusable">Skip to main content</a>
+
+  <header class="site-header" role="banner">
+    <div class="container">
+      <div class="site-header__content">
+        <a href="/" class="site-header__logo">
+          <span class="text-2xl font-bold" style="color: var(--accent-purple);">Wyrdness</span>
+        </a>
+
+        <input type="checkbox" id="menu-toggle" class="menu-toggle sr-only">
+        <label for="menu-toggle" class="menu-toggle__label" aria-label="Toggle navigation menu">
+          <span class="sr-only">Toggle menu</span>
+          <span class="menu-toggle__icon" aria-hidden="true"></span>
+        </label>
+
+        <nav class="site-nav" role="navigation" aria-label="Main navigation">
+          <ul class="site-nav__list">
+            <li class="site-nav__item"><a href="/browse/" class="site-nav__link">Browse</a></li>
+            <li class="site-nav__item"><a href="/categories/" class="site-nav__link">Categories</a></li>
+            <li class="site-nav__item"><a href="/map/" class="site-nav__link">Map</a></li>
+            <li class="site-nav__item"><a href="/about/" class="site-nav__link">About</a></li>
+          </ul>
+        </nav>
       </div>
     </div>
+  </header>
+
+  <main id="main-content" role="main" class="container" style="min-height: 60vh; display: flex; align-items: center; justify-content: center; text-align: center; padding: var(--space-2xl) var(--space-md);">
+    <article>
+      <h1 style="color: var(--accent-purple);">404</h1>
+      <p class="text-2xl mb-xl">Phenomenon Not Found</p>
+      <p class="text-muted mb-xl">This phenomenon may not exist... yet.</p>
+      <nav aria-label="Error page navigation">
+        <a href="/" class="btn btn--primary">Home</a>
+        <a href="/browse/" class="btn btn--secondary">Browse All</a>
+      </nav>
+    </article>
   </main>
+
+  <footer class="site-footer" role="contentinfo">
+    <div class="container">
+      <div class="site-footer__bottom">
+        <p class="text-muted text-center">&copy; 2026 Wyrdness Project</p>
+      </div>
+    </div>
+  </footer>
 </body>
 </html>
