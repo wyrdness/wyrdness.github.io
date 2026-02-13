@@ -1,17 +1,126 @@
 {
-  "id": "black-shuck",
-  "name": "Black Shuck",
-  "category": "|_spectral_manifestations_|",
-  "description": "Black Shuck is one of the most famous examples of British black dog folklore, a spectral hound that roams the coastlines and country roads of East Anglia, England.",
-  "aliases": [],
-  "tags": [
-    "folklore",
-    "mythology"
-  ],
-  "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
-  "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "meta": {
+    "version": "1.0.0",
+    "schema_version": "1.0.0",
+    "last_updated": "2026-02-13",
+    "repository": "https://github.com/wyrdness/black-shuck",
+    "maintainers": [
+      {
+        "name": "Wyrdness Team",
+        "github": "wyrdness",
+        "role": "maintainer"
+      }
+    ],
+    "license": {
+      "data": "CC0-1.0",
+      "content": "CC-BY-4.0"
+    }
+  },
+  "phenomenon": {
+    "id": "black-shuck",
+    "name": "Black Shuck",
+    "aliases": [],
+    "category": "|_SPECTRAL_MANIFESTATIONS_|",
+    "subcategory": "Black Dog",
+    "tags": [
+      "folklore",
+      "mythology"
+    ],
+    "status": "documented",
+    "description": {
+      "summary": "Black Shuck is one of the most famous examples of British black dog folklore, a spectral hound that roams the coastlines and country roads of East Anglia, England.",
+      "full": "Black Shuck is one of the most famous examples of British black dog folklore, a spectral hound that roams the coastlines and country roads of East Anglia, England. Described as a **large black dog the size of a calf**, with shaggy fur and **blazing red or green eyes**, Black Shuck is primarily known as a **death omen**—seeing the creature portends death within a year. The most famous incident occurred in **1577 at Bungay church**, where a black dog reportedly burst through the doors during a thunderstorm, killed two parishioners, and caused church damage. Despite its fearsome reputation, Black Shuck is often reported as simply appearing and watching, sometimes even acting **protectively**. The legend inspired Arthur Conan Doyle's **\\\"The Hound of the Baskervilles\\\"** and represents a widespread tradition of spectral black dogs found throughout the British Isles."
+    },
+    "etymology": {
+      "origin": "Unknown",
+      "meaning": "To be documented",
+      "first_use": "Unknown"
+    }
+  },
+  "classification": {
+    "taxonomy": {
+      "category": "|_SPECTRAL_MANIFESTATIONS_|",
+      "type": "Black Dog",
+      "subtype": "Unknown",
+      "variant": "Unknown"
+    },
+    "related_phenomena": []
+  },
+  "characteristics": {
+    "physical": {
+      "features": [],
+      "morphology": "See README.md for detailed physical description"
+    },
+    "abilities": [],
+    "behavior": {
+      "activity_period": "unknown",
+      "disposition": "unknown",
+      "habitat_preference": []
+    }
+  },
+  "distribution": {
+    "range": {
+      "description": "Unknown",
+      "continents": [],
+      "countries": [],
+      "regions": []
+    },
+    "hotspots": [],
+    "temporal": {
+      "first_recorded": {
+        "date": "Unknown",
+        "circa": true,
+        "source": "Traditional folklore"
+      }
+    }
+  },
+  "history": {
+    "origins": {
+      "cultural_roots": "Unknown",
+      "earliest_accounts": "See README.md for historical details",
+      "folklore_connections": "Unknown"
+    },
+    "timeline": []
+  },
+  "sightings": {
+    "statistics": {
+      "total_documented": 0,
+      "verified": 0,
+      "disputed": 0,
+      "debunked": 0
+    },
+    "notable": [],
+    "database_path": "./sightings/"
+  },
+  "evidence": {
+    "physical": [],
+    "photographic": [],
+    "video": [],
+    "audio": [],
+    "trace": []
+  },
+  "theories": {
+    "paranormal": [],
+    "scientific": [],
+    "skeptical": []
+  },
+  "cultural": {
+    "folklore": {
+      "traditions": [],
+      "stories": [],
+      "beliefs": "See README.md for cultural context"
+    },
+    "popular_culture": {
+      "literature": [],
+      "film_tv": [],
+      "games": [],
+      "other": []
+    }
+  },
+  "research": {
+    "researchers": [],
+    "organizations": [],
+    "ongoing_studies": "None documented"
+  },
+  "sources": []
 }

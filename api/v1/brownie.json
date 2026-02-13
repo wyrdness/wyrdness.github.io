@@ -1,17 +1,126 @@
 {
-  "id": "brownie",
-  "name": "Brownie",
-  "category": "fae_folklore",
-  "description": "The Brownie is a household spirit from Scottish and Northern English folklore, characterized by its small stature (2-3 feet tall), brown or tanned skin, and ragged clothing.",
-  "aliases": [],
-  "tags": [
-    "folklore",
-    "mythology"
-  ],
-  "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
-  "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "meta": {
+    "version": "1.0.0",
+    "schema_version": "1.0.0",
+    "last_updated": "2026-02-13",
+    "repository": "https://github.com/wyrdness/brownie",
+    "maintainers": [
+      {
+        "name": "Wyrdness Team",
+        "github": "wyrdness",
+        "role": "maintainer"
+      }
+    ],
+    "license": {
+      "data": "CC0-1.0",
+      "content": "CC-BY-4.0"
+    }
+  },
+  "phenomenon": {
+    "id": "brownie",
+    "name": "Brownie",
+    "aliases": [],
+    "category": "FAE_FOLKLORE",
+    "subcategory": "of work",
+    "tags": [
+      "folklore",
+      "mythology"
+    ],
+    "status": "documented",
+    "description": {
+      "summary": "The Brownie is a household spirit from Scottish and Northern English folklore, characterized by its small stature (2-3 feet tall), brown or tanned skin, and ragged clothing.",
+      "full": "The Brownie is a household spirit from Scottish and Northern English folklore, characterized by its small stature (2-3 feet tall), brown or tanned skin, and ragged clothing. Brownies attach themselves to specific households or families and perform various chores while the family sleeps - threshing grain, cleaning, making repairs, and tending farm animals. They work in exchange for small offerings of food, typically cream, porridge, or bread left out at night. However, **offering direct payment or new clothes is considered a grave insult** that causes the Brownie to leave forever. In some traditions, an offended Brownie may transform into a mischievous Boggart. Brownies are described as shaggy and sometimes ugly in appearance, but their work is impeccable. They bond strongly to households and may stay for generations, becoming part of the family's lore and fortune."
+    },
+    "etymology": {
+      "origin": "Unknown",
+      "meaning": "To be documented",
+      "first_use": "Unknown"
+    }
+  },
+  "classification": {
+    "taxonomy": {
+      "category": "FAE_FOLKLORE",
+      "type": "of work",
+      "subtype": "Unknown",
+      "variant": "Unknown"
+    },
+    "related_phenomena": []
+  },
+  "characteristics": {
+    "physical": {
+      "features": [],
+      "morphology": "See README.md for detailed physical description"
+    },
+    "abilities": [],
+    "behavior": {
+      "activity_period": "unknown",
+      "disposition": "unknown",
+      "habitat_preference": []
+    }
+  },
+  "distribution": {
+    "range": {
+      "description": "Unknown",
+      "continents": [],
+      "countries": [],
+      "regions": []
+    },
+    "hotspots": [],
+    "temporal": {
+      "first_recorded": {
+        "date": "Unknown",
+        "circa": true,
+        "source": "Traditional folklore"
+      }
+    }
+  },
+  "history": {
+    "origins": {
+      "cultural_roots": "Unknown",
+      "earliest_accounts": "See README.md for historical details",
+      "folklore_connections": "Unknown"
+    },
+    "timeline": []
+  },
+  "sightings": {
+    "statistics": {
+      "total_documented": 0,
+      "verified": 0,
+      "disputed": 0,
+      "debunked": 0
+    },
+    "notable": [],
+    "database_path": "./sightings/"
+  },
+  "evidence": {
+    "physical": [],
+    "photographic": [],
+    "video": [],
+    "audio": [],
+    "trace": []
+  },
+  "theories": {
+    "paranormal": [],
+    "scientific": [],
+    "skeptical": []
+  },
+  "cultural": {
+    "folklore": {
+      "traditions": [],
+      "stories": [],
+      "beliefs": "See README.md for cultural context"
+    },
+    "popular_culture": {
+      "literature": [],
+      "film_tv": [],
+      "games": [],
+      "other": []
+    }
+  },
+  "research": {
+    "researchers": [],
+    "organizations": [],
+    "ongoing_studies": "None documented"
+  },
+  "sources": []
 }

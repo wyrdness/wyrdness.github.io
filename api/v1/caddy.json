@@ -1,17 +1,126 @@
 {
-  "id": "caddy",
-  "name": "Cadborosaurus - Caddy, The Pacific Northwest Sea Serpent",
-  "category": "cryptid",
-  "description": "Described as a long-necked, serpentine marine animal measuring 15-60 feet in length, Caddy is characterized by a horse-like head, long neck, humped body, and possible flippers or fins.",
-  "aliases": [],
-  "tags": [
-    "folklore",
-    "mythology"
-  ],
-  "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
-  "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "meta": {
+    "version": "1.0.0",
+    "schema_version": "1.0.0",
+    "last_updated": "2026-02-13",
+    "repository": "https://github.com/wyrdness/caddy",
+    "maintainers": [
+      {
+        "name": "Wyrdness Team",
+        "github": "wyrdness",
+        "role": "maintainer"
+      }
+    ],
+    "license": {
+      "data": "CC0-1.0",
+      "content": "CC-BY-4.0"
+    }
+  },
+  "phenomenon": {
+    "id": "caddy",
+    "name": "Cadborosaurus - Caddy, The Pacific Northwest Sea Serpent",
+    "aliases": [],
+    "category": "CRYPTID",
+    "subcategory": "Unknown",
+    "tags": [
+      "folklore",
+      "mythology"
+    ],
+    "status": "documented",
+    "description": {
+      "summary": "Described as a long-necked, serpentine marine animal measuring 15-60 feet in length, Caddy is characterized by a horse-like head, long neck, humped body, and possible flippers or fins.",
+      "full": "Described as a long-necked, serpentine marine animal measuring 15-60 feet in length, Caddy is characterized by a horse-like head, long neck, humped body, and possible flippers or fins. Unlike purely legendary creatures, Caddy has been photographed (though inconclusively), and alleged carcasses have been examined (all proven to be known animals upon analysis). The creature shares characteristics with other sea serpent reports worldwide, leading cryptozoologists to speculate it may represent an unknown species of marine animal—perhaps a surviving plesiosaur, giant eel, or entirely novel creature. The waters of British Columbia and Washington State provide a plausible habitat: deep, cold, nutrient-rich ocean with abundant fish populations, kelp forests, and thousands of islands creating sheltered bays and channels. The region's maritime culture and indigenous traditions both include long histories of large sea creature sightings, lending cultural depth to the modern Caddy phenomenon."
+    },
+    "etymology": {
+      "origin": "Unknown",
+      "meaning": "To be documented",
+      "first_use": "Unknown"
+    }
+  },
+  "classification": {
+    "taxonomy": {
+      "category": "CRYPTID",
+      "type": "Unknown",
+      "subtype": "Unknown",
+      "variant": "Unknown"
+    },
+    "related_phenomena": []
+  },
+  "characteristics": {
+    "physical": {
+      "features": [],
+      "morphology": "See README.md for detailed physical description"
+    },
+    "abilities": [],
+    "behavior": {
+      "activity_period": "unknown",
+      "disposition": "unknown",
+      "habitat_preference": []
+    }
+  },
+  "distribution": {
+    "range": {
+      "description": "Unknown",
+      "continents": [],
+      "countries": [],
+      "regions": []
+    },
+    "hotspots": [],
+    "temporal": {
+      "first_recorded": {
+        "date": "Unknown",
+        "circa": true,
+        "source": "Traditional folklore"
+      }
+    }
+  },
+  "history": {
+    "origins": {
+      "cultural_roots": "Unknown",
+      "earliest_accounts": "See README.md for historical details",
+      "folklore_connections": "Unknown"
+    },
+    "timeline": []
+  },
+  "sightings": {
+    "statistics": {
+      "total_documented": 0,
+      "verified": 0,
+      "disputed": 0,
+      "debunked": 0
+    },
+    "notable": [],
+    "database_path": "./sightings/"
+  },
+  "evidence": {
+    "physical": [],
+    "photographic": [],
+    "video": [],
+    "audio": [],
+    "trace": []
+  },
+  "theories": {
+    "paranormal": [],
+    "scientific": [],
+    "skeptical": []
+  },
+  "cultural": {
+    "folklore": {
+      "traditions": [],
+      "stories": [],
+      "beliefs": "See README.md for cultural context"
+    },
+    "popular_culture": {
+      "literature": [],
+      "film_tv": [],
+      "games": [],
+      "other": []
+    }
+  },
+  "research": {
+    "researchers": [],
+    "organizations": [],
+    "ongoing_studies": "None documented"
+  },
+  "sources": []
 }

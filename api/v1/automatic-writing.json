@@ -1,17 +1,126 @@
 {
-  "id": "automatic-writing",
-  "name": "Automatic Writing",
-  "category": "|_psychic_phenomena_|",
-  "description": "Automatic writing (also psychography or trance writing) is the practice of **writing without conscious thought**, supposedly allowing spirits, subconscious minds, or other sources to communicate through a person's hand.",
-  "aliases": [],
-  "tags": [
-    "folklore",
-    "mythology"
-  ],
-  "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
-  "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "meta": {
+    "version": "1.0.0",
+    "schema_version": "1.0.0",
+    "last_updated": "2026-02-13",
+    "repository": "https://github.com/wyrdness/automatic-writing",
+    "maintainers": [
+      {
+        "name": "Wyrdness Team",
+        "github": "wyrdness",
+        "role": "maintainer"
+      }
+    ],
+    "license": {
+      "data": "CC0-1.0",
+      "content": "CC-BY-4.0"
+    }
+  },
+  "phenomenon": {
+    "id": "automatic-writing",
+    "name": "Automatic Writing",
+    "aliases": [],
+    "category": "|_PSYCHIC_PHENOMENA_|",
+    "subcategory": "Unknown",
+    "tags": [
+      "folklore",
+      "mythology"
+    ],
+    "status": "documented",
+    "description": {
+      "summary": "Automatic writing (also psychography or trance writing) is the practice of **writing without conscious thought**, supposedly allowing spirits, subconscious minds, or other sources to communicate through a person's hand.",
+      "full": "Automatic writing (also psychography or trance writing) is the practice of **writing without conscious thought**, supposedly allowing spirits, subconscious minds, or other sources to communicate through a person's hand. The writer typically enters a trance or dissociative state, allowing the hand to move across paper without deliberate control, producing written messages. The phenomenon gained prominence during the **Spiritualist movement** (19th-20th century), when mediums used automatic writing to channel messages from the dead. Modern practitioners include **psychics, New Age adherents, and experimental psychologists**. Some writers report accessing creativity through automatic writing, while skeptics attribute it to the **ideomotor effect**—unconscious muscle movements. Automatic writing exists at the intersection of **spiritualism, psychology, creativity, and potential fraud**. While some cases clearly involve conscious deception, others represent genuine dissociative states or subconscious expression. The technique continues in modern spiritualist, occult, and therapeutic contexts."
+    },
+    "etymology": {
+      "origin": "Unknown",
+      "meaning": "To be documented",
+      "first_use": "Unknown"
+    }
+  },
+  "classification": {
+    "taxonomy": {
+      "category": "|_PSYCHIC_PHENOMENA_|",
+      "type": "Unknown",
+      "subtype": "Unknown",
+      "variant": "Unknown"
+    },
+    "related_phenomena": []
+  },
+  "characteristics": {
+    "physical": {
+      "features": [],
+      "morphology": "See README.md for detailed physical description"
+    },
+    "abilities": [],
+    "behavior": {
+      "activity_period": "unknown",
+      "disposition": "unknown",
+      "habitat_preference": []
+    }
+  },
+  "distribution": {
+    "range": {
+      "description": "Unknown",
+      "continents": [],
+      "countries": [],
+      "regions": []
+    },
+    "hotspots": [],
+    "temporal": {
+      "first_recorded": {
+        "date": "Unknown",
+        "circa": true,
+        "source": "Traditional folklore"
+      }
+    }
+  },
+  "history": {
+    "origins": {
+      "cultural_roots": "Unknown",
+      "earliest_accounts": "See README.md for historical details",
+      "folklore_connections": "Unknown"
+    },
+    "timeline": []
+  },
+  "sightings": {
+    "statistics": {
+      "total_documented": 0,
+      "verified": 0,
+      "disputed": 0,
+      "debunked": 0
+    },
+    "notable": [],
+    "database_path": "./sightings/"
+  },
+  "evidence": {
+    "physical": [],
+    "photographic": [],
+    "video": [],
+    "audio": [],
+    "trace": []
+  },
+  "theories": {
+    "paranormal": [],
+    "scientific": [],
+    "skeptical": []
+  },
+  "cultural": {
+    "folklore": {
+      "traditions": [],
+      "stories": [],
+      "beliefs": "See README.md for cultural context"
+    },
+    "popular_culture": {
+      "literature": [],
+      "film_tv": [],
+      "games": [],
+      "other": []
+    }
+  },
+  "research": {
+    "researchers": [],
+    "organizations": [],
+    "ongoing_studies": "None documented"
+  },
+  "sources": []
 }

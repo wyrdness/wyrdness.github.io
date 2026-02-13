@@ -1,16 +1,125 @@
 {
-  "id": "abada",
-  "name": "Abada",
-  "category": "mythological_creature",
-  "description": "The Abada is a legendary unicorn-like creature from Central African mythology, particularly associated with the Kongo people and neighboring cultures of the Congo River basin.",
-  "aliases": [],
-  "tags": [
-    "and-spiritual-significance"
-  ],
-  "status": "documented",
-  "regions": [],
-  "origin": "Central African (Kongo)",
-  "first_reported": "Unknown",
-  "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "meta": {
+    "version": "1.0.0",
+    "schema_version": "1.0.0",
+    "last_updated": "2026-02-13",
+    "repository": "https://github.com/wyrdness/abada",
+    "maintainers": [
+      {
+        "name": "Wyrdness Team",
+        "github": "wyrdness",
+        "role": "maintainer"
+      }
+    ],
+    "license": {
+      "data": "CC0-1.0",
+      "content": "CC-BY-4.0"
+    }
+  },
+  "phenomenon": {
+    "id": "abada",
+    "name": "Abada",
+    "aliases": [],
+    "category": "MYTHOLOGICAL_CREATURE",
+    "subcategory": "Creatures",
+    "tags": [
+      "and-spiritual-significance"
+    ],
+    "status": "documented",
+    "description": {
+      "summary": "The Abada is a legendary unicorn-like creature from Central African mythology, particularly associated with the Kongo people and neighboring cultures of the Congo River basin.",
+      "full": "The Abada is a legendary unicorn-like creature from Central African mythology, particularly associated with the Kongo people and neighboring cultures of the Congo River basin. Described as a rare and shy animal resembling an antelope or small horse with one or two magical horns, the Abada is most renowned for its horn's powerful healing properties, especially its ability to cure or neutralize poisons. Unlike the aggressive European unicorn, the Abada is portrayed as a gentle, elusive creature that avoids human contact, making encounters with it exceptionally rare and valuable. European explorers and traders first documented the Abada legend in the 15th and 16th centuries, and the creature became part of broader discussions about African wildlife and mythology during the Age of Exploration."
+    },
+    "etymology": {
+      "origin": "Central African (Kongo)",
+      "meaning": "To be documented",
+      "first_use": "Unknown"
+    }
+  },
+  "classification": {
+    "taxonomy": {
+      "category": "MYTHOLOGICAL_CREATURE",
+      "type": "Creatures",
+      "subtype": "Unknown",
+      "variant": "Unknown"
+    },
+    "related_phenomena": []
+  },
+  "characteristics": {
+    "physical": {
+      "features": [],
+      "morphology": "See README.md for detailed physical description"
+    },
+    "abilities": [],
+    "behavior": {
+      "activity_period": "unknown",
+      "disposition": "unknown",
+      "habitat_preference": []
+    }
+  },
+  "distribution": {
+    "range": {
+      "description": "Central African (Kongo)",
+      "continents": [],
+      "countries": [],
+      "regions": []
+    },
+    "hotspots": [],
+    "temporal": {
+      "first_recorded": {
+        "date": "Unknown",
+        "circa": true,
+        "source": "Traditional folklore"
+      }
+    }
+  },
+  "history": {
+    "origins": {
+      "cultural_roots": "Central African (Kongo)",
+      "earliest_accounts": "See README.md for historical details",
+      "folklore_connections": "Unknown"
+    },
+    "timeline": []
+  },
+  "sightings": {
+    "statistics": {
+      "total_documented": 0,
+      "verified": 0,
+      "disputed": 0,
+      "debunked": 0
+    },
+    "notable": [],
+    "database_path": "./sightings/"
+  },
+  "evidence": {
+    "physical": [],
+    "photographic": [],
+    "video": [],
+    "audio": [],
+    "trace": []
+  },
+  "theories": {
+    "paranormal": [],
+    "scientific": [],
+    "skeptical": []
+  },
+  "cultural": {
+    "folklore": {
+      "traditions": [],
+      "stories": [],
+      "beliefs": "See README.md for cultural context"
+    },
+    "popular_culture": {
+      "literature": [],
+      "film_tv": [],
+      "games": [],
+      "other": []
+    }
+  },
+  "research": {
+    "researchers": [],
+    "organizations": [],
+    "ongoing_studies": "None documented"
+  },
+  "sources": []
 }

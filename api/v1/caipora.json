@@ -1,17 +1,126 @@
 {
-  "id": "caipora",
-  "name": "Caipora",
-  "category": "entity_spirit",
-  "description": "The Caipora (also spelled Caapora, Caypora, or Ka'a Pora, meaning \\\"dweller of the forest\\\" or \\\"inhabitant of the woods\\\" in Tupi-Guarani) is one of Brazil's most important forest guardian entities, deeply rooted in Indigenous Tupi-Guarani mythology and now integrated into broader Brazilian folklore.",
-  "aliases": [],
-  "tags": [
-    "folklore",
-    "mythology"
-  ],
-  "status": "documented",
-  "regions": [],
-  "origin": "Tupi-Guarani Indigenous traditions",
-  "first_reported": "Unknown",
-  "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "meta": {
+    "version": "1.0.0",
+    "schema_version": "1.0.0",
+    "last_updated": "2026-02-13",
+    "repository": "https://github.com/wyrdness/caipora",
+    "maintainers": [
+      {
+        "name": "Wyrdness Team",
+        "github": "wyrdness",
+        "role": "maintainer"
+      }
+    ],
+    "license": {
+      "data": "CC0-1.0",
+      "content": "CC-BY-4.0"
+    }
+  },
+  "phenomenon": {
+    "id": "caipora",
+    "name": "Caipora",
+    "aliases": [],
+    "category": "ENTITY_SPIRIT",
+    "subcategory": "Unknown",
+    "tags": [
+      "folklore",
+      "mythology"
+    ],
+    "status": "documented",
+    "description": {
+      "summary": "The Caipora (also spelled Caapora, Caypora, or Ka'a Pora, meaning \\\"dweller of the forest\\\" or \\\"inhabitant of the woods\\\" in Tupi-Guarani) is one of Brazil's most important forest guardian entities, deeply rooted in Indigenous Tupi-Guarani mythology and now integrated into broader Brazilian folklore.",
+      "full": "The Caipora (also spelled Caapora, Caypora, or Ka'a Pora, meaning \\\"dweller of the forest\\\" or \\\"inhabitant of the woods\\\" in Tupi-Guarani) is one of Brazil's most important forest guardian entities, deeply rooted in Indigenous Tupi-Guarani mythology and now integrated into broader Brazilian folklore. As a powerful protector of wildlife and forests, the Caipora represents the spiritual embodiment of nature's balance and the consequences of ecological disrespect. Unlike many forest spirits that are universally malevolent, the Caipora operates on a code of reciprocity and respect. This entity punishes those who hunt excessively, disrespect the forest, or take more than they need, while allowing respectful hunters who follow traditional protocols to succeed. The Caipora's role has evolved from ancient Indigenous belief to become a powerful symbol in contemporary Brazilian environmental movements. The entity is closely associated with—but distinct from—the Curupira, another Brazilian forest guardian. While both protect the forest and animals, they have different characteristics, methods, and regional variations. Understanding the Caipora requires examining both its Indigenous roots and its transformation through centuries of cultural exchange."
+    },
+    "etymology": {
+      "origin": "Tupi-Guarani Indigenous traditions",
+      "meaning": "To be documented",
+      "first_use": "Unknown"
+    }
+  },
+  "classification": {
+    "taxonomy": {
+      "category": "ENTITY_SPIRIT",
+      "type": "Unknown",
+      "subtype": "Unknown",
+      "variant": "Unknown"
+    },
+    "related_phenomena": []
+  },
+  "characteristics": {
+    "physical": {
+      "features": [],
+      "morphology": "See README.md for detailed physical description"
+    },
+    "abilities": [],
+    "behavior": {
+      "activity_period": "unknown",
+      "disposition": "unknown",
+      "habitat_preference": []
+    }
+  },
+  "distribution": {
+    "range": {
+      "description": "Tupi-Guarani Indigenous traditions",
+      "continents": [],
+      "countries": [],
+      "regions": []
+    },
+    "hotspots": [],
+    "temporal": {
+      "first_recorded": {
+        "date": "Unknown",
+        "circa": true,
+        "source": "Traditional folklore"
+      }
+    }
+  },
+  "history": {
+    "origins": {
+      "cultural_roots": "Tupi-Guarani Indigenous traditions",
+      "earliest_accounts": "See README.md for historical details",
+      "folklore_connections": "Unknown"
+    },
+    "timeline": []
+  },
+  "sightings": {
+    "statistics": {
+      "total_documented": 0,
+      "verified": 0,
+      "disputed": 0,
+      "debunked": 0
+    },
+    "notable": [],
+    "database_path": "./sightings/"
+  },
+  "evidence": {
+    "physical": [],
+    "photographic": [],
+    "video": [],
+    "audio": [],
+    "trace": []
+  },
+  "theories": {
+    "paranormal": [],
+    "scientific": [],
+    "skeptical": []
+  },
+  "cultural": {
+    "folklore": {
+      "traditions": [],
+      "stories": [],
+      "beliefs": "See README.md for cultural context"
+    },
+    "popular_culture": {
+      "literature": [],
+      "film_tv": [],
+      "games": [],
+      "other": []
+    }
+  },
+  "research": {
+    "researchers": [],
+    "organizations": [],
+    "ongoing_studies": "None documented"
+  },
+  "sources": []
 }

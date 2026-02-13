@@ -1,17 +1,126 @@
 {
-  "id": "bhoot",
-  "name": "Bhoot: Restless Spirits of South Asia",
-  "category": "of_restless_spirits,_ghosts,_and_malevolent_entities_that_are_believed_to_be_the_souls_of_deceased_individuals_who_cannot_move_on_to_the_afterlife_due_to_various_circumstances_surrounding_their_death_or_burial._present_in_hindu,_islamic,_buddhist,_and_sikh_traditions_across_the_indian_subcontinent,_bhoot_beliefs_reflect_deep_cultural_anxieties_about_death,_proper_ritual_observance,_and_the_boundary_between_the_living_and_the_dead.",
-  "description": "Bhoot (also spelled bhut, bhūt, or bhut) represents one of the most pervasive and feared supernatural entities in South Asian folklore and religious tradition.",
-  "aliases": [],
-  "tags": [
-    "folklore",
-    "mythology"
-  ],
-  "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
-  "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "meta": {
+    "version": "1.0.0",
+    "schema_version": "1.0.0",
+    "last_updated": "2026-02-13",
+    "repository": "https://github.com/wyrdness/bhoot",
+    "maintainers": [
+      {
+        "name": "Wyrdness Team",
+        "github": "wyrdness",
+        "role": "maintainer"
+      }
+    ],
+    "license": {
+      "data": "CC0-1.0",
+      "content": "CC-BY-4.0"
+    }
+  },
+  "phenomenon": {
+    "id": "bhoot",
+    "name": "Bhoot: Restless Spirits of South Asia",
+    "aliases": [],
+    "category": "OF_RESTLESS_SPIRITS,_GHOSTS,_AND_MALEVOLENT_ENTITIES_THAT_ARE_BELIEVED_TO_BE_THE_SOULS_OF_DECEASED_INDIVIDUALS_WHO_CANNOT_MOVE_ON_TO_THE_AFTERLIFE_DUE_TO_VARIOUS_CIRCUMSTANCES_SURROUNDING_THEIR_DEATH_OR_BURIAL._PRESENT_IN_HINDU,_ISLAMIC,_BUDDHIST,_AND_SIKH_TRADITIONS_ACROSS_THE_INDIAN_SUBCONTINENT,_BHOOT_BELIEFS_REFLECT_DEEP_CULTURAL_ANXIETIES_ABOUT_DEATH,_PROPER_RITUAL_OBSERVANCE,_AND_THE_BOUNDARY_BETWEEN_THE_LIVING_AND_THE_DEAD.",
+    "subcategory": "of bhoot, churails are spirits of women who died during pregnancy, childbirth, or menstruation. They are described as having:",
+    "tags": [
+      "folklore",
+      "mythology"
+    ],
+    "status": "documented",
+    "description": {
+      "summary": "Bhoot (also spelled bhut, bhūt, or bhut) represents one of the most pervasive and feared supernatural entities in South Asian folklore and religious tradition.",
+      "full": "Bhoot (also spelled bhut, bhūt, or bhut) represents one of the most pervasive and feared supernatural entities in South Asian folklore and religious tradition. The term encompasses a broad category of restless spirits, ghosts, and malevolent entities that are believed to be the souls of deceased individuals who cannot move on to the afterlife due to various circumstances surrounding their death or burial. Present in Hindu, Islamic, Buddhist, and Sikh traditions across the Indian subcontinent, bhoot beliefs reflect deep cultural anxieties about death, proper ritual observance, and the boundary between the living and the dead. Unlike many Western ghost concepts that often emphasize haunting specific locations, bhoots are frequently understood as mobile entities that can attach themselves to individuals or places. They are particularly associated with violent or premature deaths, improper funeral rites, unfulfilled desires, or unresolved earthly attachments. The bhoot occupies a liminal space in South Asian cosmology—neither fully in the world of the living nor successfully transitioned to the realm of the dead. The belief in bhoots pervades South Asian culture at every level, from rural villages where bhoot encounters are reported regularly to urban centers where ancient beliefs persist alongside modern life. These entities feature prominently in literature, film, folklore, and religious discourse, serving both as objects of genuine fear and as cultural touchstones for exploring themes of death, justice, desire, and the supernatural. The variety of bhoots is extensive, with regional traditions recognizing dozens of distinct types, each with characteristic behaviors, appearances, and origins. Some are merely frightening but ultimately harmless, while others are believed capable of possession, physical harm, and even causing death. Understanding bhoots requires engaging with complex religious beliefs about karma, dharma, the nature of the soul, and the crucial importance of proper death rituals in Hindu and Islamic tradition."
+    },
+    "etymology": {
+      "origin": "Unknown",
+      "meaning": "To be documented",
+      "first_use": "Unknown"
+    }
+  },
+  "classification": {
+    "taxonomy": {
+      "category": "OF_RESTLESS_SPIRITS,_GHOSTS,_AND_MALEVOLENT_ENTITIES_THAT_ARE_BELIEVED_TO_BE_THE_SOULS_OF_DECEASED_INDIVIDUALS_WHO_CANNOT_MOVE_ON_TO_THE_AFTERLIFE_DUE_TO_VARIOUS_CIRCUMSTANCES_SURROUNDING_THEIR_DEATH_OR_BURIAL._PRESENT_IN_HINDU,_ISLAMIC,_BUDDHIST,_AND_SIKH_TRADITIONS_ACROSS_THE_INDIAN_SUBCONTINENT,_BHOOT_BELIEFS_REFLECT_DEEP_CULTURAL_ANXIETIES_ABOUT_DEATH,_PROPER_RITUAL_OBSERVANCE,_AND_THE_BOUNDARY_BETWEEN_THE_LIVING_AND_THE_DEAD.",
+      "type": "of bhoot, churails are spirits of women who died during pregnancy, childbirth, or menstruation. They are described as having:",
+      "subtype": "Unknown",
+      "variant": "Unknown"
+    },
+    "related_phenomena": []
+  },
+  "characteristics": {
+    "physical": {
+      "features": [],
+      "morphology": "See README.md for detailed physical description"
+    },
+    "abilities": [],
+    "behavior": {
+      "activity_period": "unknown",
+      "disposition": "unknown",
+      "habitat_preference": []
+    }
+  },
+  "distribution": {
+    "range": {
+      "description": "Unknown",
+      "continents": [],
+      "countries": [],
+      "regions": []
+    },
+    "hotspots": [],
+    "temporal": {
+      "first_recorded": {
+        "date": "Unknown",
+        "circa": true,
+        "source": "Traditional folklore"
+      }
+    }
+  },
+  "history": {
+    "origins": {
+      "cultural_roots": "Unknown",
+      "earliest_accounts": "See README.md for historical details",
+      "folklore_connections": "Unknown"
+    },
+    "timeline": []
+  },
+  "sightings": {
+    "statistics": {
+      "total_documented": 0,
+      "verified": 0,
+      "disputed": 0,
+      "debunked": 0
+    },
+    "notable": [],
+    "database_path": "./sightings/"
+  },
+  "evidence": {
+    "physical": [],
+    "photographic": [],
+    "video": [],
+    "audio": [],
+    "trace": []
+  },
+  "theories": {
+    "paranormal": [],
+    "scientific": [],
+    "skeptical": []
+  },
+  "cultural": {
+    "folklore": {
+      "traditions": [],
+      "stories": [],
+      "beliefs": "See README.md for cultural context"
+    },
+    "popular_culture": {
+      "literature": [],
+      "film_tv": [],
+      "games": [],
+      "other": []
+    }
+  },
+  "research": {
+    "researchers": [],
+    "organizations": [],
+    "ongoing_studies": "None documented"
+  },
+  "sources": []
 }

@@ -1,17 +1,126 @@
 {
-  "id": "baku",
-  "name": "Baku (獏)",
-  "category": "mythological_creature",
-  "description": "The creature's origins lie in Chinese mythology, where it appears in texts dating back to the Han Dynasty (206 BCE – 220 CE).",
-  "aliases": [],
-  "tags": [
-    "folklore",
-    "mythology"
-  ],
-  "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
-  "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "meta": {
+    "version": "1.0.0",
+    "schema_version": "1.0.0",
+    "last_updated": "2026-02-13",
+    "repository": "https://github.com/wyrdness/baku",
+    "maintainers": [
+      {
+        "name": "Wyrdness Team",
+        "github": "wyrdness",
+        "role": "maintainer"
+      }
+    ],
+    "license": {
+      "data": "CC0-1.0",
+      "content": "CC-BY-4.0"
+    }
+  },
+  "phenomenon": {
+    "id": "baku",
+    "name": "Baku (獏)",
+    "aliases": [],
+    "category": "MYTHOLOGICAL_CREATURE",
+    "subcategory": "Relationships:",
+    "tags": [
+      "folklore",
+      "mythology"
+    ],
+    "status": "documented",
+    "description": {
+      "summary": "The creature's origins lie in Chinese mythology, where it appears in texts dating back to the Han Dynasty (206 BCE – 220 CE).",
+      "full": "The creature's origins lie in Chinese mythology, where it appears in texts dating back to the Han Dynasty (206 BCE – 220 CE). Known in Chinese as *mò* (貘), the dream-eater was described as a rare, auspicious creature dwelling in forests, whose mere presence warded off pestilence and evil spirits. Chinese literature characterized it as having the bizarre, chimeric appearance common to auspicious beasts: an elephant's trunk, rhinoceros eyes, an ox's tail, and tiger's paws—a combination suggesting power drawn from multiple noble animals. The Baku crossed to Japan during the Muromachi period (1336-1573), brought by Buddhist monks, Chinese texts, and cultural exchange. Japanese culture adapted the creature to its own spiritual needs, emphasizing its dream-eating capabilities. By the Edo period (1603-1868), Baku had become deeply embedded in Japanese popular consciousness as a supernatural guardian against nightmares, with its image appearing on countless household objects, textiles, and protective amulets. The mechanism of Baku's protection is elegantly simple yet profound: after awakening from a nightmare, one need only call out \\\"Baku-san, come eat my dream\\\" (獏さん、夢を食べてください, *Baku-san, yume wo tabete kudasai*) three times, and the benevolent creature will appear in the spiritual realm to consume the frightening dream, preventing it from manifesting as bad luck or misfortune in waking life. Some traditions specify that this invocation must occur before falling back asleep, or that one must complete the ritual before dawn for maximum effectiveness. The relationship between dreamer and Baku represents a fascinating inversion of typical supernatural dynamics. Rather than avoiding the creature or protecting oneself from it, humans actively invite Baku into their most vulnerable mental state—sleep—trusting it completely with access to their unconscious minds. This speaks to the deep cultural trust in Baku's entirely benign nature. Interestingly, Baku's diet presents a paradox: while nightmares constitute its normal food, excessive consumption can lead the creature to develop an insatiable hunger. In some rare accounts, a Baku that has eaten too many dreams may begin to crave more, potentially consuming not just nightmares but all dreams—including good ones. Some versions even suggest a starving Baku might devour hopes, aspirations, and ambitions, leaving the dreamer emotionally empty. However, these darker interpretations remain minority traditions, with most folklore presenting Baku as an unquestionably positive entity. The modern Japanese term for the tapir (*Tapirus*) is also \\\"baku,\\\" though this represents a later conflation. When Dutch traders introduced Southeast Asian tapirs to Japan in the 17th century, their appearance—with an elongated snout and dark coloring—reminded observers of traditional Baku depictions, leading to the adoption of the name. Today, many Japanese closely associate the dream-eating Baku with actual tapirs, though they remain distinct in traditional lore. Baku endures in contemporary Japanese culture as a symbol of peaceful sleep, anxiety relief, and protection from psychological distress. Its image adorns children's pajamas, bedding, and bedroom decorations. The creature appears frequently in anime, manga, and video games, almost always in a protective or benevolent capacity, maintaining its ancient role as humanity's ally against the terrors of the night."
+    },
+    "etymology": {
+      "origin": "Unknown",
+      "meaning": "To be documented",
+      "first_use": "Unknown"
+    }
+  },
+  "classification": {
+    "taxonomy": {
+      "category": "MYTHOLOGICAL_CREATURE",
+      "type": "Relationships:",
+      "subtype": "Unknown",
+      "variant": "Unknown"
+    },
+    "related_phenomena": []
+  },
+  "characteristics": {
+    "physical": {
+      "features": [],
+      "morphology": "See README.md for detailed physical description"
+    },
+    "abilities": [],
+    "behavior": {
+      "activity_period": "unknown",
+      "disposition": "unknown",
+      "habitat_preference": []
+    }
+  },
+  "distribution": {
+    "range": {
+      "description": "Unknown",
+      "continents": [],
+      "countries": [],
+      "regions": []
+    },
+    "hotspots": [],
+    "temporal": {
+      "first_recorded": {
+        "date": "Unknown",
+        "circa": true,
+        "source": "Traditional folklore"
+      }
+    }
+  },
+  "history": {
+    "origins": {
+      "cultural_roots": "Unknown",
+      "earliest_accounts": "See README.md for historical details",
+      "folklore_connections": "Unknown"
+    },
+    "timeline": []
+  },
+  "sightings": {
+    "statistics": {
+      "total_documented": 0,
+      "verified": 0,
+      "disputed": 0,
+      "debunked": 0
+    },
+    "notable": [],
+    "database_path": "./sightings/"
+  },
+  "evidence": {
+    "physical": [],
+    "photographic": [],
+    "video": [],
+    "audio": [],
+    "trace": []
+  },
+  "theories": {
+    "paranormal": [],
+    "scientific": [],
+    "skeptical": []
+  },
+  "cultural": {
+    "folklore": {
+      "traditions": [],
+      "stories": [],
+      "beliefs": "See README.md for cultural context"
+    },
+    "popular_culture": {
+      "literature": [],
+      "film_tv": [],
+      "games": [],
+      "other": []
+    }
+  },
+  "research": {
+    "researchers": [],
+    "organizations": [],
+    "ongoing_studies": "None documented"
+  },
+  "sources": []
 }

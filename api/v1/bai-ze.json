@@ -1,16 +1,125 @@
 {
-  "id": "bai-ze",
-  "name": "Bai Ze (白澤)",
-  "category": "mythological_creature",
-  "description": "The Bai Ze (白澤, literally \\\"White Marsh\\\" or \\\"White Beneficence\\\") is one of the most revered divine beasts in Chinese mythology, known as the ultimate authority on supernatural beings.",
-  "aliases": [],
-  "tags": [
-    "&-meaning"
-  ],
-  "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
-  "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "meta": {
+    "version": "1.0.0",
+    "schema_version": "1.0.0",
+    "last_updated": "2026-02-13",
+    "repository": "https://github.com/wyrdness/bai-ze",
+    "maintainers": [
+      {
+        "name": "Wyrdness Team",
+        "github": "wyrdness",
+        "role": "maintainer"
+      }
+    ],
+    "license": {
+      "data": "CC0-1.0",
+      "content": "CC-BY-4.0"
+    }
+  },
+  "phenomenon": {
+    "id": "bai-ze",
+    "name": "Bai Ze (白澤)",
+    "aliases": [],
+    "category": "MYTHOLOGICAL_CREATURE",
+    "subcategory": "| Lion-like or ox-like quadruped | Mythological |",
+    "tags": [
+      "&-meaning"
+    ],
+    "status": "documented",
+    "description": {
+      "summary": "The Bai Ze (白澤, literally \\\"White Marsh\\\" or \\\"White Beneficence\\\") is one of the most revered divine beasts in Chinese mythology, known as the ultimate authority on supernatural beings.",
+      "full": "The Bai Ze (白澤, literally \\\"White Marsh\\\" or \\\"White Beneficence\\\") is one of the most revered divine beasts in Chinese mythology, known as the ultimate authority on supernatural beings. This magnificent white creature, covered with nine eyes and possessing the gift of human speech, appeared to the legendary Yellow Emperor (Huangdi) and shared encyclopedic knowledge of 11,520 types of demons, ghosts, monsters, and supernatural entities. Unlike many mythological creatures, the Bai Ze is entirely benevolent, serving humanity by providing the knowledge needed to recognize, understand, and protect against malevolent supernatural forces. Its white coloration symbolizes purity and divine nature, while its multiple eyes represent omniscient awareness of all supernatural phenomena. The Bai Ze has been revered across East Asia for over a millennium. In Chinese culture, it represents the power of knowledge over superstition, the importance of understanding supernatural threats, and the benevolent protection that wisdom provides. The creature's image has been used as a protective talisman against evil spirits, disease, and misfortune throughout Chinese, Japanese, and Korean history."
+    },
+    "etymology": {
+      "origin": "Unknown",
+      "meaning": "To be documented",
+      "first_use": "Unknown"
+    }
+  },
+  "classification": {
+    "taxonomy": {
+      "category": "MYTHOLOGICAL_CREATURE",
+      "type": "| Lion-like or ox-like quadruped | Mythological |",
+      "subtype": "Unknown",
+      "variant": "Unknown"
+    },
+    "related_phenomena": []
+  },
+  "characteristics": {
+    "physical": {
+      "features": [],
+      "morphology": "See README.md for detailed physical description"
+    },
+    "abilities": [],
+    "behavior": {
+      "activity_period": "unknown",
+      "disposition": "unknown",
+      "habitat_preference": []
+    }
+  },
+  "distribution": {
+    "range": {
+      "description": "Unknown",
+      "continents": [],
+      "countries": [],
+      "regions": []
+    },
+    "hotspots": [],
+    "temporal": {
+      "first_recorded": {
+        "date": "Unknown",
+        "circa": true,
+        "source": "Traditional folklore"
+      }
+    }
+  },
+  "history": {
+    "origins": {
+      "cultural_roots": "Unknown",
+      "earliest_accounts": "See README.md for historical details",
+      "folklore_connections": "Unknown"
+    },
+    "timeline": []
+  },
+  "sightings": {
+    "statistics": {
+      "total_documented": 0,
+      "verified": 0,
+      "disputed": 0,
+      "debunked": 0
+    },
+    "notable": [],
+    "database_path": "./sightings/"
+  },
+  "evidence": {
+    "physical": [],
+    "photographic": [],
+    "video": [],
+    "audio": [],
+    "trace": []
+  },
+  "theories": {
+    "paranormal": [],
+    "scientific": [],
+    "skeptical": []
+  },
+  "cultural": {
+    "folklore": {
+      "traditions": [],
+      "stories": [],
+      "beliefs": "See README.md for cultural context"
+    },
+    "popular_culture": {
+      "literature": [],
+      "film_tv": [],
+      "games": [],
+      "other": []
+    }
+  },
+  "research": {
+    "researchers": [],
+    "organizations": [],
+    "ongoing_studies": "None documented"
+  },
+  "sources": []
 }

@@ -1,16 +1,125 @@
 {
-  "id": "cheollima",
-  "name": "Cheollima (천리마)",
-  "category": "mythological_creature",
-  "description": "The Cheollima, literally meaning \\\"thousand-li horse,\\\" is a mythical winged horse from Korean mythology capable of traveling one thousand li (approximately 400 kilometers or 250 miles) in a single day.",
-  "aliases": [],
-  "tags": [
-    "socialist-construction-and-national-self-determination"
-  ],
-  "status": "documented",
-  "regions": [],
-  "origin": "Korean (East Asian influence)",
-  "first_reported": "Unknown",
-  "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "meta": {
+    "version": "1.0.0",
+    "schema_version": "1.0.0",
+    "last_updated": "2026-02-13",
+    "repository": "https://github.com/wyrdness/cheollima",
+    "maintainers": [
+      {
+        "name": "Wyrdness Team",
+        "github": "wyrdness",
+        "role": "maintainer"
+      }
+    ],
+    "license": {
+      "data": "CC0-1.0",
+      "content": "CC-BY-4.0"
+    }
+  },
+  "phenomenon": {
+    "id": "cheollima",
+    "name": "Cheollima (천리마)",
+    "aliases": [],
+    "category": "MYTHOLOGICAL_CREATURE",
+    "subcategory": "Unknown",
+    "tags": [
+      "socialist-construction-and-national-self-determination"
+    ],
+    "status": "documented",
+    "description": {
+      "summary": "The Cheollima, literally meaning \\\"thousand-li horse,\\\" is a mythical winged horse from Korean mythology capable of traveling one thousand li (approximately 400 kilometers or 250 miles) in a single day.",
+      "full": "The Cheollima, literally meaning \\\"thousand-li horse,\\\" is a mythical winged horse from Korean mythology capable of traveling one thousand li (approximately 400 kilometers or 250 miles) in a single day. This magnificent creature represents speed, ambition, excellence, and rapid progress in Korean culture. Unlike the Pegasus of Greek mythology, the Cheollima is deeply rooted in Korean values of tireless work, national development, and the pursuit of extraordinary achievement. The creature became particularly significant as a national symbol in North Korea, representing the rapid reconstruction and economic development following the Korean War."
+    },
+    "etymology": {
+      "origin": "Korean (East Asian influence)",
+      "meaning": "To be documented",
+      "first_use": "Unknown"
+    }
+  },
+  "classification": {
+    "taxonomy": {
+      "category": "MYTHOLOGICAL_CREATURE",
+      "type": "Unknown",
+      "subtype": "Unknown",
+      "variant": "Unknown"
+    },
+    "related_phenomena": []
+  },
+  "characteristics": {
+    "physical": {
+      "features": [],
+      "morphology": "See README.md for detailed physical description"
+    },
+    "abilities": [],
+    "behavior": {
+      "activity_period": "unknown",
+      "disposition": "unknown",
+      "habitat_preference": []
+    }
+  },
+  "distribution": {
+    "range": {
+      "description": "Korean (East Asian influence)",
+      "continents": [],
+      "countries": [],
+      "regions": []
+    },
+    "hotspots": [],
+    "temporal": {
+      "first_recorded": {
+        "date": "Unknown",
+        "circa": true,
+        "source": "Traditional folklore"
+      }
+    }
+  },
+  "history": {
+    "origins": {
+      "cultural_roots": "Korean (East Asian influence)",
+      "earliest_accounts": "See README.md for historical details",
+      "folklore_connections": "Unknown"
+    },
+    "timeline": []
+  },
+  "sightings": {
+    "statistics": {
+      "total_documented": 0,
+      "verified": 0,
+      "disputed": 0,
+      "debunked": 0
+    },
+    "notable": [],
+    "database_path": "./sightings/"
+  },
+  "evidence": {
+    "physical": [],
+    "photographic": [],
+    "video": [],
+    "audio": [],
+    "trace": []
+  },
+  "theories": {
+    "paranormal": [],
+    "scientific": [],
+    "skeptical": []
+  },
+  "cultural": {
+    "folklore": {
+      "traditions": [],
+      "stories": [],
+      "beliefs": "See README.md for cultural context"
+    },
+    "popular_culture": {
+      "literature": [],
+      "film_tv": [],
+      "games": [],
+      "other": []
+    }
+  },
+  "research": {
+    "researchers": [],
+    "organizations": [],
+    "ongoing_studies": "None documented"
+  },
+  "sources": []
 }

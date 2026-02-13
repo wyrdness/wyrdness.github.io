@@ -1,17 +1,126 @@
 {
-  "id": "black-eyed-children",
-  "name": "Black-Eyed Children",
-  "category": "entity_spirit",
-  "description": "Black-Eyed Children (BEK) are a modern paranormal phenomenon describing encounters with children or teenagers possessing completely black eyes—no visible whites, irises, or pupils.",
-  "aliases": [],
-  "tags": [
-    "folklore",
-    "mythology"
-  ],
-  "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
-  "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "meta": {
+    "version": "1.0.0",
+    "schema_version": "1.0.0",
+    "last_updated": "2026-02-13",
+    "repository": "https://github.com/wyrdness/black-eyed-children",
+    "maintainers": [
+      {
+        "name": "Wyrdness Team",
+        "github": "wyrdness",
+        "role": "maintainer"
+      }
+    ],
+    "license": {
+      "data": "CC0-1.0",
+      "content": "CC-BY-4.0"
+    }
+  },
+  "phenomenon": {
+    "id": "black-eyed-children",
+    "name": "Black-Eyed Children",
+    "aliases": [],
+    "category": "ENTITY_SPIRIT",
+    "subcategory": "| Description | Significance |",
+    "tags": [
+      "folklore",
+      "mythology"
+    ],
+    "status": "documented",
+    "description": {
+      "summary": "Black-Eyed Children (BEK) are a modern paranormal phenomenon describing encounters with children or teenagers possessing completely black eyes—no visible whites, irises, or pupils.",
+      "full": "Black-Eyed Children (BEK) are a modern paranormal phenomenon describing encounters with children or teenagers possessing completely black eyes—no visible whites, irises, or pupils. These entities typically appear at doorsteps or near parked vehicles, politely but insistently requesting entry or assistance. Witnesses consistently report feeling overwhelming dread, a primal sense of danger, and the conviction that allowing entry would be disastrous. The phenomenon first gained widespread attention through journalist Brian Bethel's detailed 1996 account from Abilene, Texas, and has proliferated through internet forums, creepypasta communities, and paranormal media. BEK represent a unique intersection of potential paranormal encounters, modern urban legend, and internet-age folklore evolution. Whether genuine entities, psychological phenomena, or collaborative fiction, BEK have become a significant element of contemporary paranormal culture."
+    },
+    "etymology": {
+      "origin": "Unknown",
+      "meaning": "To be documented",
+      "first_use": "Unknown"
+    }
+  },
+  "classification": {
+    "taxonomy": {
+      "category": "ENTITY_SPIRIT",
+      "type": "| Description | Significance |",
+      "subtype": "Unknown",
+      "variant": "Unknown"
+    },
+    "related_phenomena": []
+  },
+  "characteristics": {
+    "physical": {
+      "features": [],
+      "morphology": "See README.md for detailed physical description"
+    },
+    "abilities": [],
+    "behavior": {
+      "activity_period": "unknown",
+      "disposition": "unknown",
+      "habitat_preference": []
+    }
+  },
+  "distribution": {
+    "range": {
+      "description": "Unknown",
+      "continents": [],
+      "countries": [],
+      "regions": []
+    },
+    "hotspots": [],
+    "temporal": {
+      "first_recorded": {
+        "date": "Unknown",
+        "circa": true,
+        "source": "Traditional folklore"
+      }
+    }
+  },
+  "history": {
+    "origins": {
+      "cultural_roots": "Unknown",
+      "earliest_accounts": "See README.md for historical details",
+      "folklore_connections": "Unknown"
+    },
+    "timeline": []
+  },
+  "sightings": {
+    "statistics": {
+      "total_documented": 0,
+      "verified": 0,
+      "disputed": 0,
+      "debunked": 0
+    },
+    "notable": [],
+    "database_path": "./sightings/"
+  },
+  "evidence": {
+    "physical": [],
+    "photographic": [],
+    "video": [],
+    "audio": [],
+    "trace": []
+  },
+  "theories": {
+    "paranormal": [],
+    "scientific": [],
+    "skeptical": []
+  },
+  "cultural": {
+    "folklore": {
+      "traditions": [],
+      "stories": [],
+      "beliefs": "See README.md for cultural context"
+    },
+    "popular_culture": {
+      "literature": [],
+      "film_tv": [],
+      "games": [],
+      "other": []
+    }
+  },
+  "research": {
+    "researchers": [],
+    "organizations": [],
+    "ongoing_studies": "None documented"
+  },
+  "sources": []
 }

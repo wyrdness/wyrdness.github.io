@@ -1,16 +1,125 @@
 {
-  "id": "buraq",
-  "name": "Al-Burāq (البُراق)",
-  "category": "mythological_creature",
-  "description": "Al-Burāq, meaning \\\"the lightning\\\" in Arabic, is the sacred celestial steed in Islamic tradition that carried the Prophet Muhammad ﷺ during the miraculous night journey known as Isra and Mi'raj.",
-  "aliases": [],
-  "tags": [
-    "decoded"
-  ],
-  "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
-  "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "meta": {
+    "version": "1.0.0",
+    "schema_version": "1.0.0",
+    "last_updated": "2026-02-13",
+    "repository": "https://github.com/wyrdness/buraq",
+    "maintainers": [
+      {
+        "name": "Wyrdness Team",
+        "github": "wyrdness",
+        "role": "maintainer"
+      }
+    ],
+    "license": {
+      "data": "CC0-1.0",
+      "content": "CC-BY-4.0"
+    }
+  },
+  "phenomenon": {
+    "id": "buraq",
+    "name": "Al-Burāq (البُراق)",
+    "aliases": [],
+    "category": "MYTHOLOGICAL_CREATURE",
+    "subcategory": "Celestial Steed",
+    "tags": [
+      "decoded"
+    ],
+    "status": "documented",
+    "description": {
+      "summary": "Al-Burāq, meaning \\\"the lightning\\\" in Arabic, is the sacred celestial steed in Islamic tradition that carried the Prophet Muhammad ﷺ during the miraculous night journey known as Isra and Mi'raj.",
+      "full": "Al-Burāq, meaning \\\"the lightning\\\" in Arabic, is the sacred celestial steed in Islamic tradition that carried the Prophet Muhammad ﷺ during the miraculous night journey known as Isra and Mi'raj. This heavenly creature transported the Prophet from the Sacred Mosque in Mecca to the Al-Aqsa Mosque in Jerusalem, and then ascended through the seven heavens to the Divine Presence. Described as a radiant, winged creature with extraordinary speed, Buraq represents one of the most profound and sacred narratives in Islamic spirituality, connecting earthly reality with divine revelation. The journey and its mount hold deep theological significance for Muslims worldwide and have inspired countless works of Islamic art, literature, and devotional expression across fourteen centuries."
+    },
+    "etymology": {
+      "origin": "Unknown",
+      "meaning": "To be documented",
+      "first_use": "Unknown"
+    }
+  },
+  "classification": {
+    "taxonomy": {
+      "category": "MYTHOLOGICAL_CREATURE",
+      "type": "Celestial Steed",
+      "subtype": "Unknown",
+      "variant": "Unknown"
+    },
+    "related_phenomena": []
+  },
+  "characteristics": {
+    "physical": {
+      "features": [],
+      "morphology": "See README.md for detailed physical description"
+    },
+    "abilities": [],
+    "behavior": {
+      "activity_period": "unknown",
+      "disposition": "unknown",
+      "habitat_preference": []
+    }
+  },
+  "distribution": {
+    "range": {
+      "description": "Unknown",
+      "continents": [],
+      "countries": [],
+      "regions": []
+    },
+    "hotspots": [],
+    "temporal": {
+      "first_recorded": {
+        "date": "Unknown",
+        "circa": true,
+        "source": "Traditional folklore"
+      }
+    }
+  },
+  "history": {
+    "origins": {
+      "cultural_roots": "Unknown",
+      "earliest_accounts": "See README.md for historical details",
+      "folklore_connections": "Unknown"
+    },
+    "timeline": []
+  },
+  "sightings": {
+    "statistics": {
+      "total_documented": 0,
+      "verified": 0,
+      "disputed": 0,
+      "debunked": 0
+    },
+    "notable": [],
+    "database_path": "./sightings/"
+  },
+  "evidence": {
+    "physical": [],
+    "photographic": [],
+    "video": [],
+    "audio": [],
+    "trace": []
+  },
+  "theories": {
+    "paranormal": [],
+    "scientific": [],
+    "skeptical": []
+  },
+  "cultural": {
+    "folklore": {
+      "traditions": [],
+      "stories": [],
+      "beliefs": "See README.md for cultural context"
+    },
+    "popular_culture": {
+      "literature": [],
+      "film_tv": [],
+      "games": [],
+      "other": []
+    }
+  },
+  "research": {
+    "researchers": [],
+    "organizations": [],
+    "ongoing_studies": "None documented"
+  },
+  "sources": []
 }

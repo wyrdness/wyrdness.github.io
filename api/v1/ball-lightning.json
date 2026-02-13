@@ -1,17 +1,126 @@
 {
-  "id": "ball-lightning",
-  "name": "Ball Lightning",
-  "category": "atmospheric_phenomenon",
-  "description": "Ball lightning is an unexplained atmospheric electrical phenomenon described as luminous, spherical objects that vary from pea-sized to several meters in diameter.",
-  "aliases": [],
-  "tags": [
-    "folklore",
-    "mythology"
-  ],
-  "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
-  "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "meta": {
+    "version": "1.0.0",
+    "schema_version": "1.0.0",
+    "last_updated": "2026-02-13",
+    "repository": "https://github.com/wyrdness/ball-lightning",
+    "maintainers": [
+      {
+        "name": "Wyrdness Team",
+        "github": "wyrdness",
+        "role": "maintainer"
+      }
+    ],
+    "license": {
+      "data": "CC0-1.0",
+      "content": "CC-BY-4.0"
+    }
+  },
+  "phenomenon": {
+    "id": "ball-lightning",
+    "name": "Ball Lightning",
+    "aliases": [],
+    "category": "ATMOSPHERIC_PHENOMENON",
+    "subcategory": "| Description | Status |",
+    "tags": [
+      "folklore",
+      "mythology"
+    ],
+    "status": "documented",
+    "description": {
+      "summary": "Ball lightning is an unexplained atmospheric electrical phenomenon described as luminous, spherical objects that vary from pea-sized to several meters in diameter.",
+      "full": "Ball lightning is an unexplained atmospheric electrical phenomenon described as luminous, spherical objects that vary from pea-sized to several meters in diameter. Typically appearing during thunderstorms, these glowing orbs have been reported to float or move erratically through the air, pass through solid objects, and last from seconds to minutes before disappearing—sometimes silently, sometimes with an explosion. Despite centuries of eyewitness reports and recent photographic evidence, the physical mechanism behind ball lightning remains poorly understood. Various theories involve plasma physics, silicon vaporization, microwave cavities, and chemical reactions, but no single explanation fully accounts for all reported characteristics."
+    },
+    "etymology": {
+      "origin": "Unknown",
+      "meaning": "To be documented",
+      "first_use": "Unknown"
+    }
+  },
+  "classification": {
+    "taxonomy": {
+      "category": "ATMOSPHERIC_PHENOMENON",
+      "type": "| Description | Status |",
+      "subtype": "Unknown",
+      "variant": "Unknown"
+    },
+    "related_phenomena": []
+  },
+  "characteristics": {
+    "physical": {
+      "features": [],
+      "morphology": "See README.md for detailed physical description"
+    },
+    "abilities": [],
+    "behavior": {
+      "activity_period": "unknown",
+      "disposition": "unknown",
+      "habitat_preference": []
+    }
+  },
+  "distribution": {
+    "range": {
+      "description": "Unknown",
+      "continents": [],
+      "countries": [],
+      "regions": []
+    },
+    "hotspots": [],
+    "temporal": {
+      "first_recorded": {
+        "date": "Unknown",
+        "circa": true,
+        "source": "Traditional folklore"
+      }
+    }
+  },
+  "history": {
+    "origins": {
+      "cultural_roots": "Unknown",
+      "earliest_accounts": "See README.md for historical details",
+      "folklore_connections": "Unknown"
+    },
+    "timeline": []
+  },
+  "sightings": {
+    "statistics": {
+      "total_documented": 0,
+      "verified": 0,
+      "disputed": 0,
+      "debunked": 0
+    },
+    "notable": [],
+    "database_path": "./sightings/"
+  },
+  "evidence": {
+    "physical": [],
+    "photographic": [],
+    "video": [],
+    "audio": [],
+    "trace": []
+  },
+  "theories": {
+    "paranormal": [],
+    "scientific": [],
+    "skeptical": []
+  },
+  "cultural": {
+    "folklore": {
+      "traditions": [],
+      "stories": [],
+      "beliefs": "See README.md for cultural context"
+    },
+    "popular_culture": {
+      "literature": [],
+      "film_tv": [],
+      "games": [],
+      "other": []
+    }
+  },
+  "research": {
+    "researchers": [],
+    "organizations": [],
+    "ongoing_studies": "None documented"
+  },
+  "sources": []
 }

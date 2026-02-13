@@ -1,17 +1,126 @@
 {
-  "id": "altamaha-ha",
-  "name": "Altamaha-ha - Georgia's River Monster",
-  "category": "cryptid",
-  "description": "The creature typically appears as a 15-30 foot long animal with a horizontal, snake-like body, a long neck, a horse-like or alligator-like head, and flippers or fins.",
-  "aliases": [],
-  "tags": [
-    "folklore",
-    "mythology"
-  ],
-  "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
-  "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "meta": {
+    "version": "1.0.0",
+    "schema_version": "1.0.0",
+    "last_updated": "2026-02-13",
+    "repository": "https://github.com/wyrdness/altamaha-ha",
+    "maintainers": [
+      {
+        "name": "Wyrdness Team",
+        "github": "wyrdness",
+        "role": "maintainer"
+      }
+    ],
+    "license": {
+      "data": "CC0-1.0",
+      "content": "CC-BY-4.0"
+    }
+  },
+  "phenomenon": {
+    "id": "altamaha-ha",
+    "name": "Altamaha-ha - Georgia's River Monster",
+    "aliases": [],
+    "category": "CRYPTID",
+    "subcategory": "Unknown",
+    "tags": [
+      "folklore",
+      "mythology"
+    ],
+    "status": "documented",
+    "description": {
+      "summary": "The creature typically appears as a 15-30 foot long animal with a horizontal, snake-like body, a long neck, a horse-like or alligator-like head, and flippers or fins.",
+      "full": "The creature typically appears as a 15-30 foot long animal with a horizontal, snake-like body, a long neck, a horse-like or alligator-like head, and flippers or fins. Unlike ocean-dwelling cryptids like Nessie or Caddy, Altamaha-ha inhabits a brackish river system where freshwater meets the Atlantic Ocean—a unique habitat for such a creature. The Altamaha River, one of Georgia's largest and most pristine river systems, flows 137 miles through coastal Georgia before emptying into the Atlantic via Altamaha Sound. The river's dark, tannin-stained waters, numerous channels, marshes, and relatively undisturbed environment provide plausible habitat for unusual wildlife, though mainstream science finds the existence of such a large unknown animal implausible."
+    },
+    "etymology": {
+      "origin": "Unknown",
+      "meaning": "To be documented",
+      "first_use": "Unknown"
+    }
+  },
+  "classification": {
+    "taxonomy": {
+      "category": "CRYPTID",
+      "type": "Unknown",
+      "subtype": "Unknown",
+      "variant": "Unknown"
+    },
+    "related_phenomena": []
+  },
+  "characteristics": {
+    "physical": {
+      "features": [],
+      "morphology": "See README.md for detailed physical description"
+    },
+    "abilities": [],
+    "behavior": {
+      "activity_period": "unknown",
+      "disposition": "unknown",
+      "habitat_preference": []
+    }
+  },
+  "distribution": {
+    "range": {
+      "description": "Unknown",
+      "continents": [],
+      "countries": [],
+      "regions": []
+    },
+    "hotspots": [],
+    "temporal": {
+      "first_recorded": {
+        "date": "Unknown",
+        "circa": true,
+        "source": "Traditional folklore"
+      }
+    }
+  },
+  "history": {
+    "origins": {
+      "cultural_roots": "Unknown",
+      "earliest_accounts": "See README.md for historical details",
+      "folklore_connections": "Unknown"
+    },
+    "timeline": []
+  },
+  "sightings": {
+    "statistics": {
+      "total_documented": 0,
+      "verified": 0,
+      "disputed": 0,
+      "debunked": 0
+    },
+    "notable": [],
+    "database_path": "./sightings/"
+  },
+  "evidence": {
+    "physical": [],
+    "photographic": [],
+    "video": [],
+    "audio": [],
+    "trace": []
+  },
+  "theories": {
+    "paranormal": [],
+    "scientific": [],
+    "skeptical": []
+  },
+  "cultural": {
+    "folklore": {
+      "traditions": [],
+      "stories": [],
+      "beliefs": "See README.md for cultural context"
+    },
+    "popular_culture": {
+      "literature": [],
+      "film_tv": [],
+      "games": [],
+      "other": []
+    }
+  },
+  "research": {
+    "researchers": [],
+    "organizations": [],
+    "ongoing_studies": "None documented"
+  },
+  "sources": []
 }

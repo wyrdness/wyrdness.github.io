@@ -1,17 +1,126 @@
 {
-  "id": "beast-of-gevaudan",
-  "name": "Beast of Gévaudan",
-  "category": "cryptid",
-  "description": "The Beast of Gévaudan (French: La Bête du Gévaudan) is one of history's most documented and mysterious cryptid cases, representing a series of brutal attacks that terrorized the former province of Gévaudan in south-central France between 1764 and 1767.",
-  "aliases": [],
-  "tags": [
-    "folklore",
-    "mythology"
-  ],
-  "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
-  "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "meta": {
+    "version": "1.0.0",
+    "schema_version": "1.0.0",
+    "last_updated": "2026-02-13",
+    "repository": "https://github.com/wyrdness/beast-of-gevaudan",
+    "maintainers": [
+      {
+        "name": "Wyrdness Team",
+        "github": "wyrdness",
+        "role": "maintainer"
+      }
+    ],
+    "license": {
+      "data": "CC0-1.0",
+      "content": "CC-BY-4.0"
+    }
+  },
+  "phenomenon": {
+    "id": "beast-of-gevaudan",
+    "name": "Beast of Gévaudan",
+    "aliases": [],
+    "category": "CRYPTID",
+    "subcategory": "Unknown",
+    "tags": [
+      "folklore",
+      "mythology"
+    ],
+    "status": "documented",
+    "description": {
+      "summary": "The Beast of Gévaudan (French: La Bête du Gévaudan) is one of history's most documented and mysterious cryptid cases, representing a series of brutal attacks that terrorized the former province of Gévaudan in south-central France between 1764 and 1767.",
+      "full": "The Beast of Gévaudan (French: La Bête du Gévaudan) is one of history's most documented and mysterious cryptid cases, representing a series of brutal attacks that terrorized the former province of Gévaudan in south-central France between 1764 and 1767. Over the course of three years, a wolf-like creature or creatures killed between 60 and 100 people, primarily women and children, in a reign of terror that captured the attention of King Louis XV and the entire French nation. What sets the Beast of Gévaudan apart from typical wolf attack cases is the unprecedented ferocity, frequency, and unusual nature of the attacks, combined with the creature's apparent resistance to being killed despite organized hunts involving thousands of men. The case remains one of the most thoroughly documented cryptid incidents in history, with extensive contemporary records, government correspondence, and eyewitness accounts surviving to the present day."
+    },
+    "etymology": {
+      "origin": "Unknown",
+      "meaning": "To be documented",
+      "first_use": "Unknown"
+    }
+  },
+  "classification": {
+    "taxonomy": {
+      "category": "CRYPTID",
+      "type": "Unknown",
+      "subtype": "Unknown",
+      "variant": "Unknown"
+    },
+    "related_phenomena": []
+  },
+  "characteristics": {
+    "physical": {
+      "features": [],
+      "morphology": "See README.md for detailed physical description"
+    },
+    "abilities": [],
+    "behavior": {
+      "activity_period": "unknown",
+      "disposition": "unknown",
+      "habitat_preference": []
+    }
+  },
+  "distribution": {
+    "range": {
+      "description": "Unknown",
+      "continents": [],
+      "countries": [],
+      "regions": []
+    },
+    "hotspots": [],
+    "temporal": {
+      "first_recorded": {
+        "date": "Unknown",
+        "circa": true,
+        "source": "Traditional folklore"
+      }
+    }
+  },
+  "history": {
+    "origins": {
+      "cultural_roots": "Unknown",
+      "earliest_accounts": "See README.md for historical details",
+      "folklore_connections": "Unknown"
+    },
+    "timeline": []
+  },
+  "sightings": {
+    "statistics": {
+      "total_documented": 0,
+      "verified": 0,
+      "disputed": 0,
+      "debunked": 0
+    },
+    "notable": [],
+    "database_path": "./sightings/"
+  },
+  "evidence": {
+    "physical": [],
+    "photographic": [],
+    "video": [],
+    "audio": [],
+    "trace": []
+  },
+  "theories": {
+    "paranormal": [],
+    "scientific": [],
+    "skeptical": []
+  },
+  "cultural": {
+    "folklore": {
+      "traditions": [],
+      "stories": [],
+      "beliefs": "See README.md for cultural context"
+    },
+    "popular_culture": {
+      "literature": [],
+      "film_tv": [],
+      "games": [],
+      "other": []
+    }
+  },
+  "research": {
+    "researchers": [],
+    "organizations": [],
+    "ongoing_studies": "None documented"
+  },
+  "sources": []
 }

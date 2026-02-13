@@ -1,17 +1,126 @@
 {
-  "id": "beelzebub",
-  "name": "Beelzebub",
-  "category": "|_demon_angel_|",
-  "description": "Beelzebub (also Beelzebul, Baalzebub) is one of the most prominent demons in Jewish and Christian tradition, often considered **second in command to Satan** or even identified with Satan himself.",
-  "aliases": [],
-  "tags": [
-    "folklore",
-    "mythology"
-  ],
-  "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
-  "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "meta": {
+    "version": "1.0.0",
+    "schema_version": "1.0.0",
+    "last_updated": "2026-02-13",
+    "repository": "https://github.com/wyrdness/beelzebub",
+    "maintainers": [
+      {
+        "name": "Wyrdness Team",
+        "github": "wyrdness",
+        "role": "maintainer"
+      }
+    ],
+    "license": {
+      "data": "CC0-1.0",
+      "content": "CC-BY-4.0"
+    }
+  },
+  "phenomenon": {
+    "id": "beelzebub",
+    "name": "Beelzebub",
+    "aliases": [],
+    "category": "|_DEMON_ANGEL_|",
+    "subcategory": "Unknown",
+    "tags": [
+      "folklore",
+      "mythology"
+    ],
+    "status": "documented",
+    "description": {
+      "summary": "Beelzebub (also Beelzebul, Baalzebub) is one of the most prominent demons in Jewish and Christian tradition, often considered **second in command to Satan** or even identified with Satan himself.",
+      "full": "Beelzebub (also Beelzebul, Baalzebub) is one of the most prominent demons in Jewish and Christian tradition, often considered **second in command to Satan** or even identified with Satan himself. The name derives from \\\"**Ba'al Zebub**\\\" (בעל זבוב), meaning \\\"**Lord of the Flies**,\\\" a derogatory Hebrew transformation of \\\"Ba'al Zebul\\\" (\\\"Lord Prince\\\"), a Canaanite deity. In the **New Testament**, Beelzebub appears as \\\"the prince of demons\\\" (Matthew 12:24), and Jesus' opponents accuse him of casting out demons by Beelzebub's power. Medieval Christian demonology elevated Beelzebub to the highest ranks of Hell's hierarchy—one of the seven princes of Hell, associated with the sin of **gluttony** or **pride** depending on the tradition. The \\\"Lord of the Flies\\\" title has both literal (associated with disease-carrying flies, pestilence, decay) and metaphorical (souls that swarm to corruption) meanings. Beelzebub represents **pride, false accusation, and corruption**."
+    },
+    "etymology": {
+      "origin": "Unknown",
+      "meaning": "To be documented",
+      "first_use": "Unknown"
+    }
+  },
+  "classification": {
+    "taxonomy": {
+      "category": "|_DEMON_ANGEL_|",
+      "type": "Unknown",
+      "subtype": "Unknown",
+      "variant": "Unknown"
+    },
+    "related_phenomena": []
+  },
+  "characteristics": {
+    "physical": {
+      "features": [],
+      "morphology": "See README.md for detailed physical description"
+    },
+    "abilities": [],
+    "behavior": {
+      "activity_period": "unknown",
+      "disposition": "unknown",
+      "habitat_preference": []
+    }
+  },
+  "distribution": {
+    "range": {
+      "description": "Unknown",
+      "continents": [],
+      "countries": [],
+      "regions": []
+    },
+    "hotspots": [],
+    "temporal": {
+      "first_recorded": {
+        "date": "Unknown",
+        "circa": true,
+        "source": "Traditional folklore"
+      }
+    }
+  },
+  "history": {
+    "origins": {
+      "cultural_roots": "Unknown",
+      "earliest_accounts": "See README.md for historical details",
+      "folklore_connections": "Unknown"
+    },
+    "timeline": []
+  },
+  "sightings": {
+    "statistics": {
+      "total_documented": 0,
+      "verified": 0,
+      "disputed": 0,
+      "debunked": 0
+    },
+    "notable": [],
+    "database_path": "./sightings/"
+  },
+  "evidence": {
+    "physical": [],
+    "photographic": [],
+    "video": [],
+    "audio": [],
+    "trace": []
+  },
+  "theories": {
+    "paranormal": [],
+    "scientific": [],
+    "skeptical": []
+  },
+  "cultural": {
+    "folklore": {
+      "traditions": [],
+      "stories": [],
+      "beliefs": "See README.md for cultural context"
+    },
+    "popular_culture": {
+      "literature": [],
+      "film_tv": [],
+      "games": [],
+      "other": []
+    }
+  },
+  "research": {
+    "researchers": [],
+    "organizations": [],
+    "ongoing_studies": "None documented"
+  },
+  "sources": []
 }

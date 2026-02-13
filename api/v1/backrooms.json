@@ -1,17 +1,126 @@
 {
-  "id": "backrooms",
-  "name": "The Backrooms",
-  "category": "|_internet_folklore_/_liminal_space_|",
-  "description": "The Backrooms is a collaborative internet horror phenomenon that originated from an anonymous 4chan post on May 12, 2019.",
-  "aliases": [],
-  "tags": [
-    "folklore",
-    "mythology"
-  ],
-  "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
-  "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "meta": {
+    "version": "1.0.0",
+    "schema_version": "1.0.0",
+    "last_updated": "2026-02-13",
+    "repository": "https://github.com/wyrdness/backrooms",
+    "maintainers": [
+      {
+        "name": "Wyrdness Team",
+        "github": "wyrdness",
+        "role": "maintainer"
+      }
+    ],
+    "license": {
+      "data": "CC0-1.0",
+      "content": "CC-BY-4.0"
+    }
+  },
+  "phenomenon": {
+    "id": "backrooms",
+    "name": "The Backrooms",
+    "aliases": [],
+    "category": "|_INTERNET_FOLKLORE_/_LIMINAL_SPACE_|",
+    "subcategory": "Multiplayer horror",
+    "tags": [
+      "folklore",
+      "mythology"
+    ],
+    "status": "documented",
+    "description": {
+      "summary": "The Backrooms is a collaborative internet horror phenomenon that originated from an anonymous 4chan post on May 12, 2019.",
+      "full": "The Backrooms is a collaborative internet horror phenomenon that originated from an anonymous 4chan post on May 12, 2019. The original post described accidentally \\\"no-clipping\\\" out of reality into an endless maze of empty office rooms with yellow wallpaper, old moist carpet, and fluorescent lights humming at maximum buzz. The concept rapidly evolved through community collaboration into an extensive fictional universe documented on wikis, featuring: The Backrooms tap into **liminal space aesthetics**—familiar yet unsettling empty spaces that evoke childhood nostalgia mixed with existential dread. The phenomenon has inspired games, YouTube videos, TikTok content, and extensive creative writing."
+    },
+    "etymology": {
+      "origin": "Unknown",
+      "meaning": "To be documented",
+      "first_use": "Unknown"
+    }
+  },
+  "classification": {
+    "taxonomy": {
+      "category": "|_INTERNET_FOLKLORE_/_LIMINAL_SPACE_|",
+      "type": "Multiplayer horror",
+      "subtype": "Unknown",
+      "variant": "Unknown"
+    },
+    "related_phenomena": []
+  },
+  "characteristics": {
+    "physical": {
+      "features": [],
+      "morphology": "See README.md for detailed physical description"
+    },
+    "abilities": [],
+    "behavior": {
+      "activity_period": "unknown",
+      "disposition": "unknown",
+      "habitat_preference": []
+    }
+  },
+  "distribution": {
+    "range": {
+      "description": "Unknown",
+      "continents": [],
+      "countries": [],
+      "regions": []
+    },
+    "hotspots": [],
+    "temporal": {
+      "first_recorded": {
+        "date": "Unknown",
+        "circa": true,
+        "source": "Traditional folklore"
+      }
+    }
+  },
+  "history": {
+    "origins": {
+      "cultural_roots": "Unknown",
+      "earliest_accounts": "See README.md for historical details",
+      "folklore_connections": "Unknown"
+    },
+    "timeline": []
+  },
+  "sightings": {
+    "statistics": {
+      "total_documented": 0,
+      "verified": 0,
+      "disputed": 0,
+      "debunked": 0
+    },
+    "notable": [],
+    "database_path": "./sightings/"
+  },
+  "evidence": {
+    "physical": [],
+    "photographic": [],
+    "video": [],
+    "audio": [],
+    "trace": []
+  },
+  "theories": {
+    "paranormal": [],
+    "scientific": [],
+    "skeptical": []
+  },
+  "cultural": {
+    "folklore": {
+      "traditions": [],
+      "stories": [],
+      "beliefs": "See README.md for cultural context"
+    },
+    "popular_culture": {
+      "literature": [],
+      "film_tv": [],
+      "games": [],
+      "other": []
+    }
+  },
+  "research": {
+    "researchers": [],
+    "organizations": [],
+    "ongoing_studies": "None documented"
+  },
+  "sources": []
 }

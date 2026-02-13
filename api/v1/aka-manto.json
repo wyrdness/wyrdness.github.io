@@ -1,16 +1,125 @@
 {
-  "id": "aka-manto",
-  "name": "Aka Manto (赤マント)",
-  "category": "ghost_haunting",
-  "description": "First emerging in the post-World War II period but gaining widespread prominence in the 1980s and 1990s, the legend reflects deep-seated cultural anxieties about privacy, vulnerability, bodily functions, and the liminal spaces of modern institutions.",
-  "aliases": [],
-  "tags": [
-    "in-folklore"
-  ],
-  "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
-  "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "meta": {
+    "version": "1.0.0",
+    "schema_version": "1.0.0",
+    "last_updated": "2026-02-13",
+    "repository": "https://github.com/wyrdness/aka-manto",
+    "maintainers": [
+      {
+        "name": "Wyrdness Team",
+        "github": "wyrdness",
+        "role": "maintainer"
+      }
+    ],
+    "license": {
+      "data": "CC0-1.0",
+      "content": "CC-BY-4.0"
+    }
+  },
+  "phenomenon": {
+    "id": "aka-manto",
+    "name": "Aka Manto (赤マント)",
+    "aliases": [],
+    "category": "GHOST_HAUNTING",
+    "subcategory": "Unknown",
+    "tags": [
+      "in-folklore"
+    ],
+    "status": "documented",
+    "description": {
+      "summary": "First emerging in the post-World War II period but gaining widespread prominence in the 1980s and 1990s, the legend reflects deep-seated cultural anxieties about privacy, vulnerability, bodily functions, and the liminal spaces of modern institutions.",
+      "full": "First emerging in the post-World War II period but gaining widespread prominence in the 1980s and 1990s, the legend reflects deep-seated cultural anxieties about privacy, vulnerability, bodily functions, and the liminal spaces of modern institutions. The bathroom setting—a private space within a public environment—creates the perfect psychological backdrop for this terror. The legend has evolved significantly over decades, adapting to contemporary fears while maintaining its core narrative: a choice offered in the most vulnerable moment becomes a fatal trap. Unlike many spirits that can be appeased or avoided through proper behavior, Aka Manto presents an impossible situation—every choice leads to doom, making it a particularly nihilistic specter."
+    },
+    "etymology": {
+      "origin": "Unknown",
+      "meaning": "To be documented",
+      "first_use": "Unknown"
+    }
+  },
+  "classification": {
+    "taxonomy": {
+      "category": "GHOST_HAUNTING",
+      "type": "Unknown",
+      "subtype": "Unknown",
+      "variant": "Unknown"
+    },
+    "related_phenomena": []
+  },
+  "characteristics": {
+    "physical": {
+      "features": [],
+      "morphology": "See README.md for detailed physical description"
+    },
+    "abilities": [],
+    "behavior": {
+      "activity_period": "unknown",
+      "disposition": "unknown",
+      "habitat_preference": []
+    }
+  },
+  "distribution": {
+    "range": {
+      "description": "Unknown",
+      "continents": [],
+      "countries": [],
+      "regions": []
+    },
+    "hotspots": [],
+    "temporal": {
+      "first_recorded": {
+        "date": "Unknown",
+        "circa": true,
+        "source": "Traditional folklore"
+      }
+    }
+  },
+  "history": {
+    "origins": {
+      "cultural_roots": "Unknown",
+      "earliest_accounts": "See README.md for historical details",
+      "folklore_connections": "Unknown"
+    },
+    "timeline": []
+  },
+  "sightings": {
+    "statistics": {
+      "total_documented": 0,
+      "verified": 0,
+      "disputed": 0,
+      "debunked": 0
+    },
+    "notable": [],
+    "database_path": "./sightings/"
+  },
+  "evidence": {
+    "physical": [],
+    "photographic": [],
+    "video": [],
+    "audio": [],
+    "trace": []
+  },
+  "theories": {
+    "paranormal": [],
+    "scientific": [],
+    "skeptical": []
+  },
+  "cultural": {
+    "folklore": {
+      "traditions": [],
+      "stories": [],
+      "beliefs": "See README.md for cultural context"
+    },
+    "popular_culture": {
+      "literature": [],
+      "film_tv": [],
+      "games": [],
+      "other": []
+    }
+  },
+  "research": {
+    "researchers": [],
+    "organizations": [],
+    "ongoing_studies": "None documented"
+  },
+  "sources": []
 }

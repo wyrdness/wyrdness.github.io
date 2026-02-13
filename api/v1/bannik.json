@@ -1,17 +1,126 @@
 {
-  "id": "bannik",
-  "name": "Bannik - The Slavic Bathhouse Spirit",
-  "category": "entity_spirit",
-  "description": "The **bannik** (Russian: ба́нник) is a malevolent supernatural entity from Slavic folklore that dwells in bathhouses (*banya* or *banja*).",
-  "aliases": [],
-  "tags": [
-    "in-slavic-folk-tradition).-moscow",
-    "1997."
-  ],
-  "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
-  "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "meta": {
+    "version": "1.0.0",
+    "schema_version": "1.0.0",
+    "last_updated": "2026-02-13",
+    "repository": "https://github.com/wyrdness/bannik",
+    "maintainers": [
+      {
+        "name": "Wyrdness Team",
+        "github": "wyrdness",
+        "role": "maintainer"
+      }
+    ],
+    "license": {
+      "data": "CC0-1.0",
+      "content": "CC-BY-4.0"
+    }
+  },
+  "phenomenon": {
+    "id": "bannik",
+    "name": "Bannik - The Slavic Bathhouse Spirit",
+    "aliases": [],
+    "category": "ENTITY_SPIRIT",
+    "subcategory": "Unknown",
+    "tags": [
+      "in-slavic-folk-tradition).-moscow",
+      "1997."
+    ],
+    "status": "documented",
+    "description": {
+      "summary": "The **bannik** (Russian: ба́нник) is a malevolent supernatural entity from Slavic folklore that dwells in bathhouses (*banya* or *banja*).",
+      "full": "The **bannik** (Russian: ба́нник) is a malevolent supernatural entity from Slavic folklore that dwells in bathhouses (*banya* or *banja*). One of the most feared household spirits in Russian and Eastern Slavic tradition, the bannik rules over the steam, water, and fire of the bathhouse with unpredictable and often violent temperament. Unlike the generally benevolent *domovoi* (house spirit), the bannik is dangerous, territorial, and demands strict observance of bathhouse protocols. In traditional Slavic culture, the bathhouse was considered a liminal space—neither fully part of the civilized home nor entirely wild nature. It stood at the edge of the property, often near water, and served as a place of cleansing, healing, childbirth, and divination. This liminal quality made it a dwelling place for spirits, with the bannik as its primary supernatural resident. The bannik appears as an old man covered in mud, moss, and slime from the bathhouse, with long matted hair and burning eyes. He lurks in the dark corners beneath benches, behind stoves, or in the steam itself. Those who disrespect bathhouse traditions risk the bannik's wrath—scalding burns, suffocation in steam, or being driven mad by his tricks."
+    },
+    "etymology": {
+      "origin": "Unknown",
+      "meaning": "To be documented",
+      "first_use": "Unknown"
+    }
+  },
+  "classification": {
+    "taxonomy": {
+      "category": "ENTITY_SPIRIT",
+      "type": "Unknown",
+      "subtype": "Unknown",
+      "variant": "Unknown"
+    },
+    "related_phenomena": []
+  },
+  "characteristics": {
+    "physical": {
+      "features": [],
+      "morphology": "See README.md for detailed physical description"
+    },
+    "abilities": [],
+    "behavior": {
+      "activity_period": "unknown",
+      "disposition": "unknown",
+      "habitat_preference": []
+    }
+  },
+  "distribution": {
+    "range": {
+      "description": "Unknown",
+      "continents": [],
+      "countries": [],
+      "regions": []
+    },
+    "hotspots": [],
+    "temporal": {
+      "first_recorded": {
+        "date": "Unknown",
+        "circa": true,
+        "source": "Traditional folklore"
+      }
+    }
+  },
+  "history": {
+    "origins": {
+      "cultural_roots": "Unknown",
+      "earliest_accounts": "See README.md for historical details",
+      "folklore_connections": "Unknown"
+    },
+    "timeline": []
+  },
+  "sightings": {
+    "statistics": {
+      "total_documented": 0,
+      "verified": 0,
+      "disputed": 0,
+      "debunked": 0
+    },
+    "notable": [],
+    "database_path": "./sightings/"
+  },
+  "evidence": {
+    "physical": [],
+    "photographic": [],
+    "video": [],
+    "audio": [],
+    "trace": []
+  },
+  "theories": {
+    "paranormal": [],
+    "scientific": [],
+    "skeptical": []
+  },
+  "cultural": {
+    "folklore": {
+      "traditions": [],
+      "stories": [],
+      "beliefs": "See README.md for cultural context"
+    },
+    "popular_culture": {
+      "literature": [],
+      "film_tv": [],
+      "games": [],
+      "other": []
+    }
+  },
+  "research": {
+    "researchers": [],
+    "organizations": [],
+    "ongoing_studies": "None documented"
+  },
+  "sources": []
 }

@@ -1,17 +1,126 @@
 {
-  "id": "alp",
-  "name": "Alp",
-  "category": "entity_spirit",
-  "description": "The Alp is a creature from German and Austrian folklore, representing the male version of the nightmare spirit.",
-  "aliases": [],
-  "tags": [
-    "folklore",
-    "mythology"
-  ],
-  "status": "documented",
-  "regions": [],
-  "origin": "| Germany, Austria |",
-  "first_reported": "Unknown",
-  "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "meta": {
+    "version": "1.0.0",
+    "schema_version": "1.0.0",
+    "last_updated": "2026-02-13",
+    "repository": "https://github.com/wyrdness/alp",
+    "maintainers": [
+      {
+        "name": "Wyrdness Team",
+        "github": "wyrdness",
+        "role": "maintainer"
+      }
+    ],
+    "license": {
+      "data": "CC0-1.0",
+      "content": "CC-BY-4.0"
+    }
+  },
+  "phenomenon": {
+    "id": "alp",
+    "name": "Alp",
+    "aliases": [],
+    "category": "ENTITY_SPIRIT",
+    "subcategory": "Germanic Male Mare",
+    "tags": [
+      "folklore",
+      "mythology"
+    ],
+    "status": "documented",
+    "description": {
+      "summary": "The Alp is a creature from German and Austrian folklore, representing the male version of the nightmare spirit.",
+      "full": "The Alp is a creature from German and Austrian folklore, representing the male version of the nightmare spirit. Traditionally depicted as a small male entity wearing a magic hat called a **tarnkappe** that grants invisibility and supernatural powers, the Alp attacks sleepers by sitting on their chests, causing nightmares, sleep paralysis, and difficulty breathing. The Alp is also known for shapeshifting abilities, appearing as various animals including cats, pigs, birds, dogs, and snakes. In folklore, Alps are born from difficult births, children of witches, or sometimes represent the returning spirits of those who died unbaptized. The entity particularly targets women and children, and is said to drink blood or breast milk. Like other sleep paralysis entities, the Alp represents a cultural interpretation of the universal human experience of sleep paralysis."
+    },
+    "etymology": {
+      "origin": "| Germany, Austria |",
+      "meaning": "To be documented",
+      "first_use": "Unknown"
+    }
+  },
+  "classification": {
+    "taxonomy": {
+      "category": "ENTITY_SPIRIT",
+      "type": "Germanic Male Mare",
+      "subtype": "Unknown",
+      "variant": "Unknown"
+    },
+    "related_phenomena": []
+  },
+  "characteristics": {
+    "physical": {
+      "features": [],
+      "morphology": "See README.md for detailed physical description"
+    },
+    "abilities": [],
+    "behavior": {
+      "activity_period": "unknown",
+      "disposition": "unknown",
+      "habitat_preference": []
+    }
+  },
+  "distribution": {
+    "range": {
+      "description": "| Germany, Austria |",
+      "continents": [],
+      "countries": [],
+      "regions": []
+    },
+    "hotspots": [],
+    "temporal": {
+      "first_recorded": {
+        "date": "Unknown",
+        "circa": true,
+        "source": "Traditional folklore"
+      }
+    }
+  },
+  "history": {
+    "origins": {
+      "cultural_roots": "| Germany, Austria |",
+      "earliest_accounts": "See README.md for historical details",
+      "folklore_connections": "Unknown"
+    },
+    "timeline": []
+  },
+  "sightings": {
+    "statistics": {
+      "total_documented": 0,
+      "verified": 0,
+      "disputed": 0,
+      "debunked": 0
+    },
+    "notable": [],
+    "database_path": "./sightings/"
+  },
+  "evidence": {
+    "physical": [],
+    "photographic": [],
+    "video": [],
+    "audio": [],
+    "trace": []
+  },
+  "theories": {
+    "paranormal": [],
+    "scientific": [],
+    "skeptical": []
+  },
+  "cultural": {
+    "folklore": {
+      "traditions": [],
+      "stories": [],
+      "beliefs": "See README.md for cultural context"
+    },
+    "popular_culture": {
+      "literature": [],
+      "film_tv": [],
+      "games": [],
+      "other": []
+    }
+  },
+  "research": {
+    "researchers": [],
+    "organizations": [],
+    "ongoing_studies": "None documented"
+  },
+  "sources": []
 }

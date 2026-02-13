@@ -1,17 +1,126 @@
 {
-  "id": "bessie",
-  "name": "Bessie - The Lake Erie Monster",
-  "category": "cryptid",
-  "description": "Unlike its more famous cousins—Nessie of Loch Ness or Champ of Lake Champlain—Bessie inhabits a shallow, heavily trafficked, and well-studied body of water.",
-  "aliases": [],
-  "tags": [
-    "folklore",
-    "mythology"
-  ],
-  "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
-  "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "meta": {
+    "version": "1.0.0",
+    "schema_version": "1.0.0",
+    "last_updated": "2026-02-13",
+    "repository": "https://github.com/wyrdness/bessie",
+    "maintainers": [
+      {
+        "name": "Wyrdness Team",
+        "github": "wyrdness",
+        "role": "maintainer"
+      }
+    ],
+    "license": {
+      "data": "CC0-1.0",
+      "content": "CC-BY-4.0"
+    }
+  },
+  "phenomenon": {
+    "id": "bessie",
+    "name": "Bessie - The Lake Erie Monster",
+    "aliases": [],
+    "category": "CRYPTID",
+    "subcategory": "Unknown",
+    "tags": [
+      "folklore",
+      "mythology"
+    ],
+    "status": "documented",
+    "description": {
+      "summary": "Unlike its more famous cousins—Nessie of Loch Ness or Champ of Lake Champlain—Bessie inhabits a shallow, heavily trafficked, and well-studied body of water.",
+      "full": "Unlike its more famous cousins—Nessie of Loch Ness or Champ of Lake Champlain—Bessie inhabits a shallow, heavily trafficked, and well-studied body of water. Lake Erie is the shallowest of the Great Lakes (average depth only 62 feet) and borders major metropolitan areas, making the persistence of a large unknown animal seem unlikely to scientists. Yet sightings continue, with witnesses describing a dark, snake-like creature with a horse-like or dog-like head, sometimes with prominent eyes, creating a significant wake as it moves through the water. The creature gained particular attention in the 1980s and 1990s when a $100,000+ reward was offered for its capture (unharmed), though the reward went unclaimed. Bessie remains one of America's most reported freshwater cryptids, blending Native American legends, 19th-century maritime lore, and modern eyewitness accounts into an enduring mystery."
+    },
+    "etymology": {
+      "origin": "Unknown",
+      "meaning": "To be documented",
+      "first_use": "Unknown"
+    }
+  },
+  "classification": {
+    "taxonomy": {
+      "category": "CRYPTID",
+      "type": "Unknown",
+      "subtype": "Unknown",
+      "variant": "Unknown"
+    },
+    "related_phenomena": []
+  },
+  "characteristics": {
+    "physical": {
+      "features": [],
+      "morphology": "See README.md for detailed physical description"
+    },
+    "abilities": [],
+    "behavior": {
+      "activity_period": "unknown",
+      "disposition": "unknown",
+      "habitat_preference": []
+    }
+  },
+  "distribution": {
+    "range": {
+      "description": "Unknown",
+      "continents": [],
+      "countries": [],
+      "regions": []
+    },
+    "hotspots": [],
+    "temporal": {
+      "first_recorded": {
+        "date": "Unknown",
+        "circa": true,
+        "source": "Traditional folklore"
+      }
+    }
+  },
+  "history": {
+    "origins": {
+      "cultural_roots": "Unknown",
+      "earliest_accounts": "See README.md for historical details",
+      "folklore_connections": "Unknown"
+    },
+    "timeline": []
+  },
+  "sightings": {
+    "statistics": {
+      "total_documented": 0,
+      "verified": 0,
+      "disputed": 0,
+      "debunked": 0
+    },
+    "notable": [],
+    "database_path": "./sightings/"
+  },
+  "evidence": {
+    "physical": [],
+    "photographic": [],
+    "video": [],
+    "audio": [],
+    "trace": []
+  },
+  "theories": {
+    "paranormal": [],
+    "scientific": [],
+    "skeptical": []
+  },
+  "cultural": {
+    "folklore": {
+      "traditions": [],
+      "stories": [],
+      "beliefs": "See README.md for cultural context"
+    },
+    "popular_culture": {
+      "literature": [],
+      "film_tv": [],
+      "games": [],
+      "other": []
+    }
+  },
+  "research": {
+    "researchers": [],
+    "organizations": [],
+    "ongoing_studies": "None documented"
+  },
+  "sources": []
 }

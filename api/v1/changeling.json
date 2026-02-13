@@ -1,17 +1,126 @@
 {
-  "id": "changeling",
-  "name": "Changeling",
-  "category": "|_supernatural_beings_who_steal_children_|",
-  "description": "A changeling is a fairy child left in place of a stolen human child, typically an infant.",
-  "aliases": [],
-  "tags": [
-    "folklore",
-    "mythology"
-  ],
-  "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
-  "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "meta": {
+    "version": "1.0.0",
+    "schema_version": "1.0.0",
+    "last_updated": "2026-02-13",
+    "repository": "https://github.com/wyrdness/changeling",
+    "maintainers": [
+      {
+        "name": "Wyrdness Team",
+        "github": "wyrdness",
+        "role": "maintainer"
+      }
+    ],
+    "license": {
+      "data": "CC0-1.0",
+      "content": "CC-BY-4.0"
+    }
+  },
+  "phenomenon": {
+    "id": "changeling",
+    "name": "Changeling",
+    "aliases": [],
+    "category": "|_SUPERNATURAL_BEINGS_WHO_STEAL_CHILDREN_|",
+    "subcategory": "Substituted Child",
+    "tags": [
+      "folklore",
+      "mythology"
+    ],
+    "status": "documented",
+    "description": {
+      "summary": "A changeling is a fairy child left in place of a stolen human child, typically an infant.",
+      "full": "A changeling is a fairy child left in place of a stolen human child, typically an infant. According to folklore, fairies would steal healthy human babies and replace them with their own children, who would appear sickly, strange in behavior, fail to develop normally, eat voraciously, or have an unnaturally old appearance. This belief was widespread in Celtic and Germanic folklore and tragically led to child abuse and deaths when parents used cruel tests to \\\"reveal\\\" or banish the supposed changeling. Modern understanding recognizes that changeling beliefs were used to explain conditions like autism, Down syndrome, developmental delays, and other medical conditions before modern medicine. > ⚠️ **Historical Tragedy**: Changeling beliefs led to real child abuse, neglect, and deaths. This folklore must be understood in historical context with recognition of its victims."
+    },
+    "etymology": {
+      "origin": "Unknown",
+      "meaning": "To be documented",
+      "first_use": "Unknown"
+    }
+  },
+  "classification": {
+    "taxonomy": {
+      "category": "|_SUPERNATURAL_BEINGS_WHO_STEAL_CHILDREN_|",
+      "type": "Substituted Child",
+      "subtype": "Unknown",
+      "variant": "Unknown"
+    },
+    "related_phenomena": []
+  },
+  "characteristics": {
+    "physical": {
+      "features": [],
+      "morphology": "See README.md for detailed physical description"
+    },
+    "abilities": [],
+    "behavior": {
+      "activity_period": "unknown",
+      "disposition": "unknown",
+      "habitat_preference": []
+    }
+  },
+  "distribution": {
+    "range": {
+      "description": "Unknown",
+      "continents": [],
+      "countries": [],
+      "regions": []
+    },
+    "hotspots": [],
+    "temporal": {
+      "first_recorded": {
+        "date": "Unknown",
+        "circa": true,
+        "source": "Traditional folklore"
+      }
+    }
+  },
+  "history": {
+    "origins": {
+      "cultural_roots": "Unknown",
+      "earliest_accounts": "See README.md for historical details",
+      "folklore_connections": "Unknown"
+    },
+    "timeline": []
+  },
+  "sightings": {
+    "statistics": {
+      "total_documented": 0,
+      "verified": 0,
+      "disputed": 0,
+      "debunked": 0
+    },
+    "notable": [],
+    "database_path": "./sightings/"
+  },
+  "evidence": {
+    "physical": [],
+    "photographic": [],
+    "video": [],
+    "audio": [],
+    "trace": []
+  },
+  "theories": {
+    "paranormal": [],
+    "scientific": [],
+    "skeptical": []
+  },
+  "cultural": {
+    "folklore": {
+      "traditions": [],
+      "stories": [],
+      "beliefs": "See README.md for cultural context"
+    },
+    "popular_culture": {
+      "literature": [],
+      "film_tv": [],
+      "games": [],
+      "other": []
+    }
+  },
+  "research": {
+    "researchers": [],
+    "organizations": [],
+    "ongoing_studies": "None documented"
+  },
+  "sources": []
 }

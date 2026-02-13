@@ -1,16 +1,125 @@
 {
-  "id": "black-dog",
-  "name": "Black Dog",
-  "category": "membership_|_worldwide_|",
-  "description": "The **Black Dog** represents one of the most widespread and enduring supernatural phenomena in British and Irish folklore—a spectral hound that has haunted the imagination of the British Isles for over a millennium.",
-  "aliases": [],
-  "tags": [
-    "resonate-with-tradition"
-  ],
-  "status": "documented",
-  "regions": [],
-  "origin": "| Celtic and Anglo-Saxon |",
-  "first_reported": "Unknown",
-  "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "meta": {
+    "version": "1.0.0",
+    "schema_version": "1.0.0",
+    "last_updated": "2026-02-13",
+    "repository": "https://github.com/wyrdness/black-dog",
+    "maintainers": [
+      {
+        "name": "Wyrdness Team",
+        "github": "wyrdness",
+        "role": "maintainer"
+      }
+    ],
+    "license": {
+      "data": "CC0-1.0",
+      "content": "CC-BY-4.0"
+    }
+  },
+  "phenomenon": {
+    "id": "black-dog",
+    "name": "Black Dog",
+    "aliases": [],
+    "category": "MEMBERSHIP_|_WORLDWIDE_|",
+    "subcategory": "Black dog as manifestation of unconscious",
+    "tags": [
+      "resonate-with-tradition"
+    ],
+    "status": "documented",
+    "description": {
+      "summary": "The **Black Dog** represents one of the most widespread and enduring supernatural phenomena in British and Irish folklore—a spectral hound that has haunted the imagination of the British Isles for over a millennium.",
+      "full": "The **Black Dog** represents one of the most widespread and enduring supernatural phenomena in British and Irish folklore—a spectral hound that has haunted the imagination of the British Isles for over a millennium. Found in virtually **every region of England, Scotland, Wales, and Ireland**, these phantom hounds appear in an astonishing variety of forms and regional traditions, yet share common characteristics: **large size, dark coloration (usually black), glowing eyes, and associations with death, the supernatural, and liminal spaces**. Unlike specific entities such as [Black Shuck](/black-shuck) (the famous East Anglian variant), this overview examines the **general phenomenon** of black dog apparitions across the British Isles—their regional varieties, cultural meanings, historical development, and place in the broader context of European folklore. Black dog legends represent a complex and often **contradictory tradition**: these creatures may be **omens of death** or **protective guardians**, **demons** or **ancestral spirits**, **harbingers of doom** or **helpful guides**. This duality reflects the liminal nature of the phenomenon itself—existing at the boundary between life and death, natural and supernatural, terror and comfort. The phenomenon has influenced literature, inspired local legends, and continues to generate reports in the modern era, making it one of the most persistent supernatural traditions in Western folklore."
+    },
+    "etymology": {
+      "origin": "| Celtic and Anglo-Saxon |",
+      "meaning": "To be documented",
+      "first_use": "Unknown"
+    }
+  },
+  "classification": {
+    "taxonomy": {
+      "category": "MEMBERSHIP_|_WORLDWIDE_|",
+      "type": "Black dog as manifestation of unconscious",
+      "subtype": "Unknown",
+      "variant": "Unknown"
+    },
+    "related_phenomena": []
+  },
+  "characteristics": {
+    "physical": {
+      "features": [],
+      "morphology": "See README.md for detailed physical description"
+    },
+    "abilities": [],
+    "behavior": {
+      "activity_period": "unknown",
+      "disposition": "unknown",
+      "habitat_preference": []
+    }
+  },
+  "distribution": {
+    "range": {
+      "description": "| Celtic and Anglo-Saxon |",
+      "continents": [],
+      "countries": [],
+      "regions": []
+    },
+    "hotspots": [],
+    "temporal": {
+      "first_recorded": {
+        "date": "Unknown",
+        "circa": true,
+        "source": "Traditional folklore"
+      }
+    }
+  },
+  "history": {
+    "origins": {
+      "cultural_roots": "| Celtic and Anglo-Saxon |",
+      "earliest_accounts": "See README.md for historical details",
+      "folklore_connections": "Unknown"
+    },
+    "timeline": []
+  },
+  "sightings": {
+    "statistics": {
+      "total_documented": 0,
+      "verified": 0,
+      "disputed": 0,
+      "debunked": 0
+    },
+    "notable": [],
+    "database_path": "./sightings/"
+  },
+  "evidence": {
+    "physical": [],
+    "photographic": [],
+    "video": [],
+    "audio": [],
+    "trace": []
+  },
+  "theories": {
+    "paranormal": [],
+    "scientific": [],
+    "skeptical": []
+  },
+  "cultural": {
+    "folklore": {
+      "traditions": [],
+      "stories": [],
+      "beliefs": "See README.md for cultural context"
+    },
+    "popular_culture": {
+      "literature": [],
+      "film_tv": [],
+      "games": [],
+      "other": []
+    }
+  },
+  "research": {
+    "researchers": [],
+    "organizations": [],
+    "ongoing_studies": "None documented"
+  },
+  "sources": []
 }

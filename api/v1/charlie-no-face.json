@@ -1,17 +1,126 @@
 {
-  "id": "charlie-no-face",
-  "name": "Charlie No-Face: The Green Man of Pennsylvania",
-  "category": "of_urban_legend—one_rooted_in_verifiable_fact_but_heavily_embellished_through_oral_tradition._folklorists_classify_such_legends_as:",
-  "description": "Charlie No-Face, also known as \\\"The Green Man\\\" or the \\\"Pittsburgh Green Man,\\\" is one of America's most unique urban legends because, unlike most folklore, it is based on a real person: Raymond Robinson.",
-  "aliases": [],
-  "tags": [
-    "folklore",
-    "mythology"
-  ],
-  "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
-  "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "meta": {
+    "version": "1.0.0",
+    "schema_version": "1.0.0",
+    "last_updated": "2026-02-13",
+    "repository": "https://github.com/wyrdness/charlie-no-face",
+    "maintainers": [
+      {
+        "name": "Wyrdness Team",
+        "github": "wyrdness",
+        "role": "maintainer"
+      }
+    ],
+    "license": {
+      "data": "CC0-1.0",
+      "content": "CC-BY-4.0"
+    }
+  },
+  "phenomenon": {
+    "id": "charlie-no-face",
+    "name": "Charlie No-Face: The Green Man of Pennsylvania",
+    "aliases": [],
+    "category": "OF_URBAN_LEGEND—ONE_ROOTED_IN_VERIFIABLE_FACT_BUT_HEAVILY_EMBELLISHED_THROUGH_ORAL_TRADITION._FOLKLORISTS_CLASSIFY_SUCH_LEGENDS_AS:",
+    "subcategory": "perfectly, even though his reasons were entirely practical.",
+    "tags": [
+      "folklore",
+      "mythology"
+    ],
+    "status": "documented",
+    "description": {
+      "summary": "Charlie No-Face, also known as \\\"The Green Man\\\" or the \\\"Pittsburgh Green Man,\\\" is one of America's most unique urban legends because, unlike most folklore, it is based on a real person: Raymond Robinson.",
+      "full": "Charlie No-Face, also known as \\\"The Green Man\\\" or the \\\"Pittsburgh Green Man,\\\" is one of America's most unique urban legends because, unlike most folklore, it is based on a real person: Raymond Robinson. This Pennsylvania legend tells of a hideously disfigured man who walked the roads near Pittsburgh at night, whose skin allegedly glowed green in the darkness. While the legend became embellished with supernatural elements over decades, the true story is both tragic and inspiring—a tale of a man who refused to let severe disfigurement destroy his humanity or spirit. Raymond Robinson lived from 1910 to 1985, spending most of his life in the Pittsburgh area. At age eight, he suffered catastrophic injuries from an electrical accident that left him without eyes, a nose, one arm, and with severe facial disfigurement. Despite these challenges, Robinson lived a full life, developing close relationships with his community and becoming a local legend—not for any malevolent actions, but simply for his nocturnal walks along rural roads."
+    },
+    "etymology": {
+      "origin": "Unknown",
+      "meaning": "To be documented",
+      "first_use": "Unknown"
+    }
+  },
+  "classification": {
+    "taxonomy": {
+      "category": "OF_URBAN_LEGEND—ONE_ROOTED_IN_VERIFIABLE_FACT_BUT_HEAVILY_EMBELLISHED_THROUGH_ORAL_TRADITION._FOLKLORISTS_CLASSIFY_SUCH_LEGENDS_AS:",
+      "type": "perfectly, even though his reasons were entirely practical.",
+      "subtype": "Unknown",
+      "variant": "Unknown"
+    },
+    "related_phenomena": []
+  },
+  "characteristics": {
+    "physical": {
+      "features": [],
+      "morphology": "See README.md for detailed physical description"
+    },
+    "abilities": [],
+    "behavior": {
+      "activity_period": "unknown",
+      "disposition": "unknown",
+      "habitat_preference": []
+    }
+  },
+  "distribution": {
+    "range": {
+      "description": "Unknown",
+      "continents": [],
+      "countries": [],
+      "regions": []
+    },
+    "hotspots": [],
+    "temporal": {
+      "first_recorded": {
+        "date": "Unknown",
+        "circa": true,
+        "source": "Traditional folklore"
+      }
+    }
+  },
+  "history": {
+    "origins": {
+      "cultural_roots": "Unknown",
+      "earliest_accounts": "See README.md for historical details",
+      "folklore_connections": "Unknown"
+    },
+    "timeline": []
+  },
+  "sightings": {
+    "statistics": {
+      "total_documented": 0,
+      "verified": 0,
+      "disputed": 0,
+      "debunked": 0
+    },
+    "notable": [],
+    "database_path": "./sightings/"
+  },
+  "evidence": {
+    "physical": [],
+    "photographic": [],
+    "video": [],
+    "audio": [],
+    "trace": []
+  },
+  "theories": {
+    "paranormal": [],
+    "scientific": [],
+    "skeptical": []
+  },
+  "cultural": {
+    "folklore": {
+      "traditions": [],
+      "stories": [],
+      "beliefs": "See README.md for cultural context"
+    },
+    "popular_culture": {
+      "literature": [],
+      "film_tv": [],
+      "games": [],
+      "other": []
+    }
+  },
+  "research": {
+    "researchers": [],
+    "organizations": [],
+    "ongoing_studies": "None documented"
+  },
+  "sources": []
 }

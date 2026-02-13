@@ -1,17 +1,126 @@
 {
-  "id": "banaspati",
-  "name": "Banaspati",
-  "category": "of_nature_spirits",
-  "description": "Banaspati (also spelled Banaspati or Banaspathi) represents one of the most distinctive manifestations in Javanese supernatural tradition—a graveyard fire spirit that appears as a ball of flame hovering above cemeteries, cremation grounds, and burial sites.",
-  "aliases": [],
-  "tags": [
-    "folklore",
-    "mythology"
-  ],
-  "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
-  "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "meta": {
+    "version": "1.0.0",
+    "schema_version": "1.0.0",
+    "last_updated": "2026-02-13",
+    "repository": "https://github.com/wyrdness/banaspati",
+    "maintainers": [
+      {
+        "name": "Wyrdness Team",
+        "github": "wyrdness",
+        "role": "maintainer"
+      }
+    ],
+    "license": {
+      "data": "CC0-1.0",
+      "content": "CC-BY-4.0"
+    }
+  },
+  "phenomenon": {
+    "id": "banaspati",
+    "name": "Banaspati",
+    "aliases": [],
+    "category": "OF_NATURE_SPIRITS",
+    "subcategory": "| Frequency | Description |",
+    "tags": [
+      "folklore",
+      "mythology"
+    ],
+    "status": "documented",
+    "description": {
+      "summary": "Banaspati (also spelled Banaspati or Banaspathi) represents one of the most distinctive manifestations in Javanese supernatural tradition—a graveyard fire spirit that appears as a ball of flame hovering above cemeteries, cremation grounds, and burial sites.",
+      "full": "Banaspati (also spelled Banaspati or Banaspathi) represents one of the most distinctive manifestations in Javanese supernatural tradition—a graveyard fire spirit that appears as a ball of flame hovering above cemeteries, cremation grounds, and burial sites. Within the intricate cosmology of Javanese mysticism, Banaspati occupies a unique position as both death-associated phenomenon and accessible spiritual power. The entity manifests as phosphorescent flames of various colors—typically greenish-white, blue, or yellowish—floating between one and three meters above the ground. These flames move with apparent intelligence, sometimes following pathways, circling specific graves, or approaching observers. Unlike natural fire, Banaspati produces no heat at close range and cannot ignite combustible materials, though witnesses report feeling cold or experiencing spiritual presence. Traditional Javanese understanding positions Banaspati as spirits of the deceased who have not fully transitioned to the afterlife, residual life force (tenaga hidup) manifesting as flame, or elemental spirits drawn to death energy. The phenomenon connects deeply with Javanese concepts of *roh halus* (subtle spirits), *ilmu kebatinan* (inner knowledge), and *tenaga ghaib* (supernatural power). Significantly, Banaspati represents one of the few supernatural entities actively sought and \\\"harvested\\\" by practitioners of Javanese mysticism. Dukun (traditional shamans) and spiritual practitioners perform elaborate rituals—often on Thursday nights (Malam Jumat)—to capture or channel Banaspati's power for protective magic, healing, or occult purposes. This practice, called *menangkap banaspati* (capturing Banaspati), involves complex ceremonies with offerings, mantras, and specialized equipment. Contemporary sightings remain common throughout Java, particularly in rural areas with traditional burial grounds. The phenomenon continues generating debate between scientific explanations (phosphine gas from decomposition, bioluminescence, methane ignition) and traditional belief systems that maintain Banaspati's spiritual nature."
+    },
+    "etymology": {
+      "origin": "Unknown",
+      "meaning": "To be documented",
+      "first_use": "Unknown"
+    }
+  },
+  "classification": {
+    "taxonomy": {
+      "category": "OF_NATURE_SPIRITS",
+      "type": "| Frequency | Description |",
+      "subtype": "Unknown",
+      "variant": "Unknown"
+    },
+    "related_phenomena": []
+  },
+  "characteristics": {
+    "physical": {
+      "features": [],
+      "morphology": "See README.md for detailed physical description"
+    },
+    "abilities": [],
+    "behavior": {
+      "activity_period": "unknown",
+      "disposition": "unknown",
+      "habitat_preference": []
+    }
+  },
+  "distribution": {
+    "range": {
+      "description": "Unknown",
+      "continents": [],
+      "countries": [],
+      "regions": []
+    },
+    "hotspots": [],
+    "temporal": {
+      "first_recorded": {
+        "date": "Unknown",
+        "circa": true,
+        "source": "Traditional folklore"
+      }
+    }
+  },
+  "history": {
+    "origins": {
+      "cultural_roots": "Unknown",
+      "earliest_accounts": "See README.md for historical details",
+      "folklore_connections": "Unknown"
+    },
+    "timeline": []
+  },
+  "sightings": {
+    "statistics": {
+      "total_documented": 0,
+      "verified": 0,
+      "disputed": 0,
+      "debunked": 0
+    },
+    "notable": [],
+    "database_path": "./sightings/"
+  },
+  "evidence": {
+    "physical": [],
+    "photographic": [],
+    "video": [],
+    "audio": [],
+    "trace": []
+  },
+  "theories": {
+    "paranormal": [],
+    "scientific": [],
+    "skeptical": []
+  },
+  "cultural": {
+    "folklore": {
+      "traditions": [],
+      "stories": [],
+      "beliefs": "See README.md for cultural context"
+    },
+    "popular_culture": {
+      "literature": [],
+      "film_tv": [],
+      "games": [],
+      "other": []
+    }
+  },
+  "research": {
+    "researchers": [],
+    "organizations": [],
+    "ongoing_studies": "None documented"
+  },
+  "sources": []
 }

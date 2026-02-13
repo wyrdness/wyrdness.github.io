@@ -1,17 +1,126 @@
 {
-  "id": "ahool",
-  "name": "Ahool: The Giant Bat of Java",
-  "category": "of_cryptids",
-  "description": "The Ahool (sometimes spelled A-hool or Athol) represents one of Indonesia's most intriguing cryptozoological mysteries—a reported giant bat-like or flying primate-like creature said to inhabit the remote rainforests of Java, particularly in the western mountainous regions.",
-  "aliases": [],
-  "tags": [
-    "folklore",
-    "mythology"
-  ],
-  "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
-  "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "meta": {
+    "version": "1.0.0",
+    "schema_version": "1.0.0",
+    "last_updated": "2026-02-13",
+    "repository": "https://github.com/wyrdness/ahool",
+    "maintainers": [
+      {
+        "name": "Wyrdness Team",
+        "github": "wyrdness",
+        "role": "maintainer"
+      }
+    ],
+    "license": {
+      "data": "CC0-1.0",
+      "content": "CC-BY-4.0"
+    }
+  },
+  "phenomenon": {
+    "id": "ahool",
+    "name": "Ahool: The Giant Bat of Java",
+    "aliases": [],
+    "category": "OF_CRYPTIDS",
+    "subcategory": "Unknown",
+    "tags": [
+      "folklore",
+      "mythology"
+    ],
+    "status": "documented",
+    "description": {
+      "summary": "The Ahool (sometimes spelled A-hool or Athol) represents one of Indonesia's most intriguing cryptozoological mysteries—a reported giant bat-like or flying primate-like creature said to inhabit the remote rainforests of Java, particularly in the western mountainous regions.",
+      "full": "The Ahool (sometimes spelled A-hool or Athol) represents one of Indonesia's most intriguing cryptozoological mysteries—a reported giant bat-like or flying primate-like creature said to inhabit the remote rainforests of Java, particularly in the western mountainous regions. Named for its distinctive call, described as a loud \\\"A-hool! A-hool!,\\\" this creature occupies a unique space between traditional Indonesian folklore and modern cryptozoology, with accounts spanning from indigenous legends to 20th and 21st-century eyewitness reports from both local and Western observers. Descriptions of the Ahool typically characterize it as having a wingspan of 10-12 feet (3-3.7 meters), gray fur covering its body, a flattened face more reminiscent of a primate or human than a typical bat, large dark eyes, and forearms with clawed digits. The creature is described as nocturnal, living in caves or thick jungle canopy, and feeding primarily on large fish which it snatches from rivers and waterfalls using its clawed feet. Unlike most bat reports, the Ahool is described as having a distinctive loud call that carries over long distances, particularly at night. The Ahool has attracted significant attention from cryptozoologists, who have proposed various explanations ranging from surviving populations of giant bats unknown to science, to misidentified known species, to pterosaur survivors, or even unknown flying primates. The creature's reported characteristics share some similarities with the largest known bats (flying foxes of the genus Pteropus), but descriptions consistently exceed known species' dimensions and include features atypical of any confirmed bat species. What makes the Ahool particularly interesting from both folkloric and cryptozoological perspectives is its consistency across multiple independent reports, its integration into local indigenous knowledge systems, and its existence within a region (Indonesia) that continues to yield new species discoveries, suggesting that significant biodiversity may remain undocumented in remote areas. Whether the Ahool represents a real undiscovered species, misidentification of known animals, or a cultural construct reflecting human encounters with extraordinary wildlife, it provides insight into how people perceive and interpret unusual natural phenomena."
+    },
+    "etymology": {
+      "origin": "Unknown",
+      "meaning": "To be documented",
+      "first_use": "Unknown"
+    }
+  },
+  "classification": {
+    "taxonomy": {
+      "category": "OF_CRYPTIDS",
+      "type": "Unknown",
+      "subtype": "Unknown",
+      "variant": "Unknown"
+    },
+    "related_phenomena": []
+  },
+  "characteristics": {
+    "physical": {
+      "features": [],
+      "morphology": "See README.md for detailed physical description"
+    },
+    "abilities": [],
+    "behavior": {
+      "activity_period": "unknown",
+      "disposition": "unknown",
+      "habitat_preference": []
+    }
+  },
+  "distribution": {
+    "range": {
+      "description": "Unknown",
+      "continents": [],
+      "countries": [],
+      "regions": []
+    },
+    "hotspots": [],
+    "temporal": {
+      "first_recorded": {
+        "date": "Unknown",
+        "circa": true,
+        "source": "Traditional folklore"
+      }
+    }
+  },
+  "history": {
+    "origins": {
+      "cultural_roots": "Unknown",
+      "earliest_accounts": "See README.md for historical details",
+      "folklore_connections": "Unknown"
+    },
+    "timeline": []
+  },
+  "sightings": {
+    "statistics": {
+      "total_documented": 0,
+      "verified": 0,
+      "disputed": 0,
+      "debunked": 0
+    },
+    "notable": [],
+    "database_path": "./sightings/"
+  },
+  "evidence": {
+    "physical": [],
+    "photographic": [],
+    "video": [],
+    "audio": [],
+    "trace": []
+  },
+  "theories": {
+    "paranormal": [],
+    "scientific": [],
+    "skeptical": []
+  },
+  "cultural": {
+    "folklore": {
+      "traditions": [],
+      "stories": [],
+      "beliefs": "See README.md for cultural context"
+    },
+    "popular_culture": {
+      "literature": [],
+      "film_tv": [],
+      "games": [],
+      "other": []
+    }
+  },
+  "research": {
+    "researchers": [],
+    "organizations": [],
+    "ongoing_studies": "None documented"
+  },
+  "sources": []
 }

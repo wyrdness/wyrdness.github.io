@@ -1,17 +1,126 @@
 {
-  "id": "bunyip",
-  "name": "Bunyip",
-  "category": "cryptid",
-  "description": "The Bunyip is a legendary water-dwelling creature from Australian Aboriginal mythology, reported to inhabit waterholes, billabongs, creeks, and swamps across Australia.",
-  "aliases": [],
-  "tags": [
-    "folklore",
-    "mythology"
-  ],
-  "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
-  "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "meta": {
+    "version": "1.0.0",
+    "schema_version": "1.0.0",
+    "last_updated": "2026-02-13",
+    "repository": "https://github.com/wyrdness/bunyip",
+    "maintainers": [
+      {
+        "name": "Wyrdness Team",
+        "github": "wyrdness",
+        "role": "maintainer"
+      }
+    ],
+    "license": {
+      "data": "CC0-1.0",
+      "content": "CC-BY-4.0"
+    }
+  },
+  "phenomenon": {
+    "id": "bunyip",
+    "name": "Bunyip",
+    "aliases": [],
+    "category": "CRYPTID",
+    "subcategory": "| Description | Status |",
+    "tags": [
+      "folklore",
+      "mythology"
+    ],
+    "status": "documented",
+    "description": {
+      "summary": "The Bunyip is a legendary water-dwelling creature from Australian Aboriginal mythology, reported to inhabit waterholes, billabongs, creeks, and swamps across Australia.",
+      "full": "The Bunyip is a legendary water-dwelling creature from Australian Aboriginal mythology, reported to inhabit waterholes, billabongs, creeks, and swamps across Australia. Descriptions vary significantly across different Aboriginal nations and European accounts, ranging from dog-faced to crocodile-like or seal-like creatures with large bodies. Aboriginal traditions of the Bunyip exist across multiple nations with different regional descriptions. The creature plays an important role in Aboriginal spiritual beliefs and Dreamtime stories, often serving as a guardian of water sources and a cautionary figure. European settlers in the 1800s also claimed sightings, sparking scientific interest. The Australian Museum investigated alleged Bunyip remains in the 1840s-1850s, though all examined specimens were identified as known animals. The Bunyip is primarily considered part of Aboriginal spiritual and cultural tradition, though theories suggest it could represent cultural memory of extinct megafauna like Diprotodon or misidentified seals in waterways."
+    },
+    "etymology": {
+      "origin": "Unknown",
+      "meaning": "To be documented",
+      "first_use": "Unknown"
+    }
+  },
+  "classification": {
+    "taxonomy": {
+      "category": "CRYPTID",
+      "type": "| Description | Status |",
+      "subtype": "Unknown",
+      "variant": "Unknown"
+    },
+    "related_phenomena": []
+  },
+  "characteristics": {
+    "physical": {
+      "features": [],
+      "morphology": "See README.md for detailed physical description"
+    },
+    "abilities": [],
+    "behavior": {
+      "activity_period": "unknown",
+      "disposition": "unknown",
+      "habitat_preference": []
+    }
+  },
+  "distribution": {
+    "range": {
+      "description": "Unknown",
+      "continents": [],
+      "countries": [],
+      "regions": []
+    },
+    "hotspots": [],
+    "temporal": {
+      "first_recorded": {
+        "date": "Unknown",
+        "circa": true,
+        "source": "Traditional folklore"
+      }
+    }
+  },
+  "history": {
+    "origins": {
+      "cultural_roots": "Unknown",
+      "earliest_accounts": "See README.md for historical details",
+      "folklore_connections": "Unknown"
+    },
+    "timeline": []
+  },
+  "sightings": {
+    "statistics": {
+      "total_documented": 0,
+      "verified": 0,
+      "disputed": 0,
+      "debunked": 0
+    },
+    "notable": [],
+    "database_path": "./sightings/"
+  },
+  "evidence": {
+    "physical": [],
+    "photographic": [],
+    "video": [],
+    "audio": [],
+    "trace": []
+  },
+  "theories": {
+    "paranormal": [],
+    "scientific": [],
+    "skeptical": []
+  },
+  "cultural": {
+    "folklore": {
+      "traditions": [],
+      "stories": [],
+      "beliefs": "See README.md for cultural context"
+    },
+    "popular_culture": {
+      "literature": [],
+      "film_tv": [],
+      "games": [],
+      "other": []
+    }
+  },
+  "research": {
+    "researchers": [],
+    "organizations": [],
+    "ongoing_studies": "None documented"
+  },
+  "sources": []
 }

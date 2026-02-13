@@ -1,16 +1,125 @@
 {
-  "id": "ceasg",
-  "name": "Ceasg (Maighdean na Tuinne)",
-  "category": "mythological_creature",
-  "description": "The Ceasg (pronounced \\\"KEH-ask\\\"), also known as Maighdean na Tuinne (Maiden of the Wave), is a distinctive mermaid figure from Scottish Gaelic folklore who embodies the mystical connection between the Scottish Highlands and the surrounding seas.",
-  "aliases": [],
-  "tags": [
-    "and-meaning"
-  ],
-  "status": "documented",
-  "regions": [],
-  "origin": "Scottish Gaelic (Highlands and Islands)",
-  "first_reported": "Unknown",
-  "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "meta": {
+    "version": "1.0.0",
+    "schema_version": "1.0.0",
+    "last_updated": "2026-02-13",
+    "repository": "https://github.com/wyrdness/ceasg",
+    "maintainers": [
+      {
+        "name": "Wyrdness Team",
+        "github": "wyrdness",
+        "role": "maintainer"
+      }
+    ],
+    "license": {
+      "data": "CC0-1.0",
+      "content": "CC-BY-4.0"
+    }
+  },
+  "phenomenon": {
+    "id": "ceasg",
+    "name": "Ceasg (Maighdean na Tuinne)",
+    "aliases": [],
+    "category": "MYTHOLOGICAL_CREATURE",
+    "subcategory": "Mermaid/Marine Spirit",
+    "tags": [
+      "and-meaning"
+    ],
+    "status": "documented",
+    "description": {
+      "summary": "The Ceasg (pronounced \\\"KEH-ask\\\"), also known as Maighdean na Tuinne (Maiden of the Wave), is a distinctive mermaid figure from Scottish Gaelic folklore who embodies the mystical connection between the Scottish Highlands and the surrounding seas.",
+      "full": "The Ceasg (pronounced \\\"KEH-ask\\\"), also known as Maighdean na Tuinne (Maiden of the Wave), is a distinctive mermaid figure from Scottish Gaelic folklore who embodies the mystical connection between the Scottish Highlands and the surrounding seas. Unlike typical merfolk traditions, the Ceasg possesses the upper body of a beautiful woman combined with the lower body of a salmon, Scotland's most sacred and symbolically significant fish. According to Highland tradition, if a fisherman or mariner successfully captures a Ceasg without harming her, she will grant three wishes in exchange for her freedom. This powerful creature represents the bounty and danger of Scottish waters, the wisdom of the salmon, and the ancient Gaelic understanding of the supernatural forces governing both land and sea."
+    },
+    "etymology": {
+      "origin": "Scottish Gaelic (Highlands and Islands)",
+      "meaning": "To be documented",
+      "first_use": "Unknown"
+    }
+  },
+  "classification": {
+    "taxonomy": {
+      "category": "MYTHOLOGICAL_CREATURE",
+      "type": "Mermaid/Marine Spirit",
+      "subtype": "Unknown",
+      "variant": "Unknown"
+    },
+    "related_phenomena": []
+  },
+  "characteristics": {
+    "physical": {
+      "features": [],
+      "morphology": "See README.md for detailed physical description"
+    },
+    "abilities": [],
+    "behavior": {
+      "activity_period": "unknown",
+      "disposition": "unknown",
+      "habitat_preference": []
+    }
+  },
+  "distribution": {
+    "range": {
+      "description": "Scottish Gaelic (Highlands and Islands)",
+      "continents": [],
+      "countries": [],
+      "regions": []
+    },
+    "hotspots": [],
+    "temporal": {
+      "first_recorded": {
+        "date": "Unknown",
+        "circa": true,
+        "source": "Traditional folklore"
+      }
+    }
+  },
+  "history": {
+    "origins": {
+      "cultural_roots": "Scottish Gaelic (Highlands and Islands)",
+      "earliest_accounts": "See README.md for historical details",
+      "folklore_connections": "Unknown"
+    },
+    "timeline": []
+  },
+  "sightings": {
+    "statistics": {
+      "total_documented": 0,
+      "verified": 0,
+      "disputed": 0,
+      "debunked": 0
+    },
+    "notable": [],
+    "database_path": "./sightings/"
+  },
+  "evidence": {
+    "physical": [],
+    "photographic": [],
+    "video": [],
+    "audio": [],
+    "trace": []
+  },
+  "theories": {
+    "paranormal": [],
+    "scientific": [],
+    "skeptical": []
+  },
+  "cultural": {
+    "folklore": {
+      "traditions": [],
+      "stories": [],
+      "beliefs": "See README.md for cultural context"
+    },
+    "popular_culture": {
+      "literature": [],
+      "film_tv": [],
+      "games": [],
+      "other": []
+    }
+  },
+  "research": {
+    "researchers": [],
+    "organizations": [],
+    "ongoing_studies": "None documented"
+  },
+  "sources": []
 }

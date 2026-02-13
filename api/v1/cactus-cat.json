@@ -1,17 +1,126 @@
 {
-  "id": "cactus-cat",
-  "name": "Cactus Cat",
-  "category": "cryptid",
-  "description": "The Cactus Cat is a humorous creature from American lumberjack folklore, representing the fearsome critters tradition adapted for desert environments.",
-  "aliases": [],
-  "tags": [
-    "folklore",
-    "mythology"
-  ],
-  "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
-  "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "meta": {
+    "version": "1.0.0",
+    "schema_version": "1.0.0",
+    "last_updated": "2026-02-13",
+    "repository": "https://github.com/wyrdness/cactus-cat",
+    "maintainers": [
+      {
+        "name": "Wyrdness Team",
+        "github": "wyrdness",
+        "role": "maintainer"
+      }
+    ],
+    "license": {
+      "data": "CC0-1.0",
+      "content": "CC-BY-4.0"
+    }
+  },
+  "phenomenon": {
+    "id": "cactus-cat",
+    "name": "Cactus Cat",
+    "aliases": [],
+    "category": "CRYPTID",
+    "subcategory": "of tall tale creature invented by American lumberjacks and outdoor workers. These absurd beings were described to greenhorns (new workers) as genuine local hazards, serving as both entertainment and hazing ritual.",
+    "tags": [
+      "folklore",
+      "mythology"
+    ],
+    "status": "documented",
+    "description": {
+      "summary": "The Cactus Cat is a humorous creature from American lumberjack folklore, representing the fearsome critters tradition adapted for desert environments.",
+      "full": "The Cactus Cat is a humorous creature from American lumberjack folklore, representing the fearsome critters tradition adapted for desert environments. This bobcat-sized animal is covered in cactus-like thorns and spines, with a distinctive branched tail armed with sharp points. According to the tall tales, the Cactus Cat prowls the desert at night, using its armored front legs to slash barrel cacti and saguaros. The cactus sap oozes out and ferments in the desert heat. Days later, the Cactus Cat returns to drink the alcoholic juice, becoming thoroughly intoxicated. In its drunken state, it produces terrifying screams and howls that echo through the canyons."
+    },
+    "etymology": {
+      "origin": "Unknown",
+      "meaning": "To be documented",
+      "first_use": "Unknown"
+    }
+  },
+  "classification": {
+    "taxonomy": {
+      "category": "CRYPTID",
+      "type": "of tall tale creature invented by American lumberjacks and outdoor workers. These absurd beings were described to greenhorns (new workers) as genuine local hazards, serving as both entertainment and hazing ritual.",
+      "subtype": "Unknown",
+      "variant": "Unknown"
+    },
+    "related_phenomena": []
+  },
+  "characteristics": {
+    "physical": {
+      "features": [],
+      "morphology": "See README.md for detailed physical description"
+    },
+    "abilities": [],
+    "behavior": {
+      "activity_period": "unknown",
+      "disposition": "unknown",
+      "habitat_preference": []
+    }
+  },
+  "distribution": {
+    "range": {
+      "description": "Unknown",
+      "continents": [],
+      "countries": [],
+      "regions": []
+    },
+    "hotspots": [],
+    "temporal": {
+      "first_recorded": {
+        "date": "Unknown",
+        "circa": true,
+        "source": "Traditional folklore"
+      }
+    }
+  },
+  "history": {
+    "origins": {
+      "cultural_roots": "Unknown",
+      "earliest_accounts": "See README.md for historical details",
+      "folklore_connections": "Unknown"
+    },
+    "timeline": []
+  },
+  "sightings": {
+    "statistics": {
+      "total_documented": 0,
+      "verified": 0,
+      "disputed": 0,
+      "debunked": 0
+    },
+    "notable": [],
+    "database_path": "./sightings/"
+  },
+  "evidence": {
+    "physical": [],
+    "photographic": [],
+    "video": [],
+    "audio": [],
+    "trace": []
+  },
+  "theories": {
+    "paranormal": [],
+    "scientific": [],
+    "skeptical": []
+  },
+  "cultural": {
+    "folklore": {
+      "traditions": [],
+      "stories": [],
+      "beliefs": "See README.md for cultural context"
+    },
+    "popular_culture": {
+      "literature": [],
+      "film_tv": [],
+      "games": [],
+      "other": []
+    }
+  },
+  "research": {
+    "researchers": [],
+    "organizations": [],
+    "ongoing_studies": "None documented"
+  },
+  "sources": []
 }

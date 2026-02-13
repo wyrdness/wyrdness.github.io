@@ -1,16 +1,125 @@
 {
-  "id": "bohemian-grove",
-  "name": "Bohemian Grove",
-  "category": "|_conspiracy_theory_/_location_|",
-  "description": "Bohemian Grove is a 2,700-acre campground owned by the private Bohemian Club, located near Monte Rio, California.",
-  "aliases": [],
-  "tags": [
-    "burning-a-representation-of-worldly-worries-to-relax-during-encampment"
-  ],
-  "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
-  "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "meta": {
+    "version": "1.0.0",
+    "schema_version": "1.0.0",
+    "last_updated": "2026-02-13",
+    "repository": "https://github.com/wyrdness/bohemian-grove",
+    "maintainers": [
+      {
+        "name": "Wyrdness Team",
+        "github": "wyrdness",
+        "role": "maintainer"
+      }
+    ],
+    "license": {
+      "data": "CC0-1.0",
+      "content": "CC-BY-4.0"
+    }
+  },
+  "phenomenon": {
+    "id": "bohemian-grove",
+    "name": "Bohemian Grove",
+    "aliases": [],
+    "category": "|_CONSPIRACY_THEORY_/_LOCATION_|",
+    "subcategory": "|",
+    "tags": [
+      "burning-a-representation-of-worldly-worries-to-relax-during-encampment"
+    ],
+    "status": "documented",
+    "description": {
+      "summary": "Bohemian Grove is a 2,700-acre campground owned by the private Bohemian Club, located near Monte Rio, California.",
+      "full": "Bohemian Grove is a 2,700-acre campground owned by the private Bohemian Club, located near Monte Rio, California. Founded in 1872, the club hosts an annual two-week summer encampment attended by some of the most powerful men in politics, business, and the arts. While members engage in theatrical performances, lectures, and networking, the secretive nature of the gatherings has fueled conspiracy theories ranging from satanic rituals to world government planning. The reality appears to be a male bonding retreat with theatrical traditions, most notably the \\\"Cremation of Care\\\" ceremony featuring a 40-foot owl effigy. The Grove represents a real elite networking location that has been subject to significant conspiracy theory elaboration, making it difficult to separate legitimate concerns about elite influence from unfounded claims of occult practices."
+    },
+    "etymology": {
+      "origin": "Unknown",
+      "meaning": "To be documented",
+      "first_use": "Unknown"
+    }
+  },
+  "classification": {
+    "taxonomy": {
+      "category": "|_CONSPIRACY_THEORY_/_LOCATION_|",
+      "type": "|",
+      "subtype": "Unknown",
+      "variant": "Unknown"
+    },
+    "related_phenomena": []
+  },
+  "characteristics": {
+    "physical": {
+      "features": [],
+      "morphology": "See README.md for detailed physical description"
+    },
+    "abilities": [],
+    "behavior": {
+      "activity_period": "unknown",
+      "disposition": "unknown",
+      "habitat_preference": []
+    }
+  },
+  "distribution": {
+    "range": {
+      "description": "Unknown",
+      "continents": [],
+      "countries": [],
+      "regions": []
+    },
+    "hotspots": [],
+    "temporal": {
+      "first_recorded": {
+        "date": "Unknown",
+        "circa": true,
+        "source": "Traditional folklore"
+      }
+    }
+  },
+  "history": {
+    "origins": {
+      "cultural_roots": "Unknown",
+      "earliest_accounts": "See README.md for historical details",
+      "folklore_connections": "Unknown"
+    },
+    "timeline": []
+  },
+  "sightings": {
+    "statistics": {
+      "total_documented": 0,
+      "verified": 0,
+      "disputed": 0,
+      "debunked": 0
+    },
+    "notable": [],
+    "database_path": "./sightings/"
+  },
+  "evidence": {
+    "physical": [],
+    "photographic": [],
+    "video": [],
+    "audio": [],
+    "trace": []
+  },
+  "theories": {
+    "paranormal": [],
+    "scientific": [],
+    "skeptical": []
+  },
+  "cultural": {
+    "folklore": {
+      "traditions": [],
+      "stories": [],
+      "beliefs": "See README.md for cultural context"
+    },
+    "popular_culture": {
+      "literature": [],
+      "film_tv": [],
+      "games": [],
+      "other": []
+    }
+  },
+  "research": {
+    "researchers": [],
+    "organizations": [],
+    "ongoing_studies": "None documented"
+  },
+  "sources": []
 }

@@ -1,18 +1,127 @@
 {
-  "id": "bunny-man",
-  "name": "The Bunny Man Urban Legend",
-  "category": "confusion_(human/animal/costume)",
-  "description": "The Bunny Man is a distinctive American urban legend originating from Fairfax County, Virginia, centered on reports of a figure in a rabbit costume wielding an axe or hatchet who terrorizes people, particularly near an overpass that has become known as \\\"Bunny Man Bridge.",
-  "aliases": [],
-  "tags": [
-    "(fertility",
-    "trickster",
-    "fear)"
-  ],
-  "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
-  "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "meta": {
+    "version": "1.0.0",
+    "schema_version": "1.0.0",
+    "last_updated": "2026-02-13",
+    "repository": "https://github.com/wyrdness/bunny-man",
+    "maintainers": [
+      {
+        "name": "Wyrdness Team",
+        "github": "wyrdness",
+        "role": "maintainer"
+      }
+    ],
+    "license": {
+      "data": "CC0-1.0",
+      "content": "CC-BY-4.0"
+    }
+  },
+  "phenomenon": {
+    "id": "bunny-man",
+    "name": "The Bunny Man Urban Legend",
+    "aliases": [],
+    "category": "CONFUSION_(HUMAN/ANIMAL/COSTUME)",
+    "subcategory": "Analysis",
+    "tags": [
+      "(fertility",
+      "trickster",
+      "fear)"
+    ],
+    "status": "documented",
+    "description": {
+      "summary": "The Bunny Man is a distinctive American urban legend originating from Fairfax County, Virginia, centered on reports of a figure in a rabbit costume wielding an axe or hatchet who terrorizes people, particularly near an overpass that has become known as \\\"Bunny Man Bridge.",
+      "full": "The Bunny Man is a distinctive American urban legend originating from Fairfax County, Virginia, centered on reports of a figure in a rabbit costume wielding an axe or hatchet who terrorizes people, particularly near an overpass that has become known as \\\"Bunny Man Bridge.\\\" The legend is notable among folklorists for having documented historical incidents that served as kernels of truth around which elaborate mythological narratives developed. In October 1970, two verified incidents occurred in Fairfax County involving a man in a white rabbit costume who threw objects at cars and threatened people with an axe. These actual police-reported events spawned a rich legendary tradition that has evolved over five decades into one of Virginia's most persistent local legends, complete with bridge hauntings, Halloween rituals, and elaborate backstories involving escaped mental patients and historical tragedies. From a folklore studies perspective, the Bunny Man legend exemplifies how contemporary legends develop from actual events, how geographic sites become invested with legendary significance, and how community storytelling traditions adapt and expand core narratives across generations. The legend also demonstrates the power of incongruous imagery—the juxtaposition of a childlike bunny costume with violent, threatening behavior—in creating memorable and transmissible folklore."
+    },
+    "etymology": {
+      "origin": "Unknown",
+      "meaning": "To be documented",
+      "first_use": "Unknown"
+    }
+  },
+  "classification": {
+    "taxonomy": {
+      "category": "CONFUSION_(HUMAN/ANIMAL/COSTUME)",
+      "type": "Analysis",
+      "subtype": "Unknown",
+      "variant": "Unknown"
+    },
+    "related_phenomena": []
+  },
+  "characteristics": {
+    "physical": {
+      "features": [],
+      "morphology": "See README.md for detailed physical description"
+    },
+    "abilities": [],
+    "behavior": {
+      "activity_period": "unknown",
+      "disposition": "unknown",
+      "habitat_preference": []
+    }
+  },
+  "distribution": {
+    "range": {
+      "description": "Unknown",
+      "continents": [],
+      "countries": [],
+      "regions": []
+    },
+    "hotspots": [],
+    "temporal": {
+      "first_recorded": {
+        "date": "Unknown",
+        "circa": true,
+        "source": "Traditional folklore"
+      }
+    }
+  },
+  "history": {
+    "origins": {
+      "cultural_roots": "Unknown",
+      "earliest_accounts": "See README.md for historical details",
+      "folklore_connections": "Unknown"
+    },
+    "timeline": []
+  },
+  "sightings": {
+    "statistics": {
+      "total_documented": 0,
+      "verified": 0,
+      "disputed": 0,
+      "debunked": 0
+    },
+    "notable": [],
+    "database_path": "./sightings/"
+  },
+  "evidence": {
+    "physical": [],
+    "photographic": [],
+    "video": [],
+    "audio": [],
+    "trace": []
+  },
+  "theories": {
+    "paranormal": [],
+    "scientific": [],
+    "skeptical": []
+  },
+  "cultural": {
+    "folklore": {
+      "traditions": [],
+      "stories": [],
+      "beliefs": "See README.md for cultural context"
+    },
+    "popular_culture": {
+      "literature": [],
+      "film_tv": [],
+      "games": [],
+      "other": []
+    }
+  },
+  "research": {
+    "researchers": [],
+    "organizations": [],
+    "ongoing_studies": "None documented"
+  },
+  "sources": []
 }
