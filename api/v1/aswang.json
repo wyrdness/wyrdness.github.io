@@ -1,0 +1,17 @@
+{
+  "id": "aswang",
+  "name": "Aswang",
+  "category": "shapeshifter_undead",
+  "description": "The aswang is one of the most feared creatures in Philippine folklore, a shapeshifting being that lives as a human during the day but becomes a monstrous predator at night.",
+  "aliases": [],
+  "tags": [
+    "folklore",
+    "mythology"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "Unknown",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

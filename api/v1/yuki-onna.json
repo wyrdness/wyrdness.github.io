@@ -1,0 +1,17 @@
+{
+  "id": "yuki-onna",
+  "name": "Yuki-Onna",
+  "category": "entity_spirit",
+  "description": "Yuki-Onna, the \\\"Snow Woman,\\\" is a prominent yokai in Japanese folklore.",
+  "aliases": [],
+  "tags": [
+    "folklore",
+    "mythology"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "Unknown",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

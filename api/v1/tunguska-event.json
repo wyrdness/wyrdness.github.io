@@ -1,0 +1,17 @@
+{
+  "id": "tunguska-event",
+  "name": "Tunguska Event",
+  "category": "historical_mystery",
+  "description": "The Tunguska Event is the largest cosmic impact in recorded human history.",
+  "aliases": [],
+  "tags": [
+    "folklore",
+    "mythology"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "Unknown",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

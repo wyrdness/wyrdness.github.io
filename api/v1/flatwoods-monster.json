@@ -1,0 +1,17 @@
+{
+  "id": "flatwoods-monster",
+  "name": "Flatwoods Monster",
+  "category": "cryptid/ufo_uap",
+  "description": "The Flatwoods Monster, also known as the Braxton County Monster, is an entity reportedly encountered on September 12, 1952, in Flatwoods, West Virginia.",
+  "aliases": [],
+  "tags": [
+    "folklore",
+    "mythology"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "Unknown",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

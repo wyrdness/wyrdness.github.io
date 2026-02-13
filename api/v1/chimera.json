@@ -1,0 +1,17 @@
+{
+  "id": "chimera",
+  "name": "Chimera",
+  "category": "mythological_creature",
+  "description": "The Chimera is a monstrous hybrid creature from Greek mythology, described as having the **head and body of a lion**, a **second head of a goat** protruding from its back, and a **tail ending in a serpent's head** or dragon.",
+  "aliases": [],
+  "tags": [
+    "folklore",
+    "mythology"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "Unknown",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "tailypo",
+  "name": "Tailypo",
+  "category": "|_american_folklore_creatures_|",
+  "description": "The Tailypo is a creature from Appalachian folklore, best known through a cautionary tale told throughout the American South.",
+  "aliases": [],
+  "tags": [
+    "folklore",
+    "mythology"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "Unknown",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

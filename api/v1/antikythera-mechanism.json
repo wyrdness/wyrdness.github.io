@@ -1,0 +1,17 @@
+{
+  "id": "antikythera-mechanism",
+  "name": "Antikythera Mechanism",
+  "category": "|_archaeological_artifact_|",
+  "description": "The **Antikythera Mechanism** is an ancient Greek analog computer recovered from a shipwreck off the coast of Antikythera island in 1901.",
+  "aliases": [],
+  "tags": [
+    "folklore",
+    "mythology"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "Unknown",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

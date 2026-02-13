@@ -1,0 +1,17 @@
+{
+  "id": "night-hag",
+  "name": "Night Hag",
+  "category": "entity_spirit",
+  "description": "The Night Hag is a supernatural entity reported across nearly every human culture, believed to cause the phenomenon of sleep paralysis.",
+  "aliases": [],
+  "tags": [
+    "folklore",
+    "mythology"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "|",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

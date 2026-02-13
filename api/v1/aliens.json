@@ -1,0 +1,17 @@
+{
+  "id": "aliens",
+  "name": "UFOs/UAPs & Alien Encounters",
+  "category": "|_ufo_uap_|",
+  "description": "The UFO/UAP phenomenon encompasses sightings of unidentified aerial objects and alleged encounters with non-human intelligences that have been reported throughout human history but gained prominence in the modern era beginning with the 1947 Kenneth Arnold sighting.",
+  "aliases": [],
+  "tags": [
+    "folklore",
+    "mythology"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "Unknown",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

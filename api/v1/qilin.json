@@ -1,0 +1,16 @@
+{
+  "id": "qilin",
+  "name": "Qilin - Chinese Auspicious Beast",
+  "category": "mythological_creature",
+  "description": "The Qilin (Chinese: 麒麟, pronounced \\\"chee-lin\\\") is the Chinese variant and original form of the East Asian sacred beast known as Kirin in Japan.",
+  "aliases": [],
+  "tags": [
+    "and-art-motifs\"-4th-ed.-(1976)"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "Unknown",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

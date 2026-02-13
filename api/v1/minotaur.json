@@ -1,0 +1,19 @@
+{
+  "id": "minotaur",
+  "name": "Minotaur",
+  "category": "mythological_creature",
+  "description": "The Minotaur was a monstrous hybrid with a **bull's head** and a **human body**, born from the union of Pasiphaë (wife of King Minos of Crete) and a sacred bull sent by Poseidon.",
+  "aliases": [],
+  "tags": [
+    "confusion",
+    "complexity",
+    "the-journey-inward",
+    "facing-one's-demons"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "Unknown",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

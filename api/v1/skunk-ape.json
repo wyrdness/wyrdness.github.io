@@ -1,0 +1,17 @@
+{
+  "id": "skunk-ape",
+  "name": "Skunk Ape",
+  "category": "cryptid",
+  "description": "The **Skunk Ape** is a cryptid hominid reported primarily from the swamps, forests, and wetlands of Florida and the southeastern United States.",
+  "aliases": [],
+  "tags": [
+    "folklore",
+    "mythology"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "American (Florida), 1960s-present",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

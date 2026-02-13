@@ -1,0 +1,17 @@
+{
+  "id": "mystery-airships",
+  "name": "Mystery Airships",
+  "category": "|_anomaly/ufo_uap_|",
+  "description": "The Mystery Airships represent one of the most significant mass sighting events in pre-modern aviation history.",
+  "aliases": [],
+  "tags": [
+    "folklore",
+    "mythology"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "Unknown",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "ghosts",
+  "name": "Ghosts & Hauntings",
+  "category": "|_ghost_haunting_|",
+  "description": "Ghosts represent one of humanity's oldest and most universal paranormal beliefs, found in virtually every culture throughout history.",
+  "aliases": [],
+  "tags": [
+    "folklore",
+    "mythology"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "Unknown",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

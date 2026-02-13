@@ -1,0 +1,17 @@
+{
+  "id": "jinn",
+  "name": "Jinn",
+  "category": "entity_spirit",
+  "description": "Jinn (Arabic: جن, also romanized as Djinn) are supernatural beings in pre-Islamic Arabian religious traditions and Islamic theology.",
+  "aliases": [],
+  "tags": [
+    "folklore",
+    "mythology"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "Unknown",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

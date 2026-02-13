@@ -1,0 +1,17 @@
+{
+  "id": "qarqash",
+  "name": "Qarqash - Arabic Desert Demon",
+  "category": "demon_angel",
+  "description": "Qarqash (القرقش, also spelled Qurqush, Garghash) is a terrifying desert demon from Arabian folklore, particularly prominent in Bedouin traditions of the Arabian Peninsula.",
+  "aliases": [],
+  "tags": [
+    "folklore",
+    "mythology"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "Arabian Peninsula (Bedouin and Arabian folklore)",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

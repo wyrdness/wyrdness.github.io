@@ -1,0 +1,17 @@
+{
+  "id": "oni",
+  "name": "Oni",
+  "category": "of_japanese_supernatural_entities_|",
+  "description": "Oni are supernatural demons or ogres from Japanese folklore, Buddhist mythology, and Shinto traditions.",
+  "aliases": [],
+  "tags": [
+    "folklore",
+    "mythology"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "Unknown",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

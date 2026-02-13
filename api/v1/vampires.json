@@ -1,0 +1,17 @@
+{
+  "id": "vampires",
+  "name": "Vampires",
+  "category": "|_folklore_entity_|",
+  "description": "Vampires are undead or supernatural beings that survive by consuming the blood or life force of the living.",
+  "aliases": [],
+  "tags": [
+    "folklore",
+    "mythology"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "Unknown",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

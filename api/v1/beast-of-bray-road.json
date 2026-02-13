@@ -1,0 +1,17 @@
+{
+  "id": "beast-of-bray-road",
+  "name": "Beast of Bray Road",
+  "category": "cryptid_/_shapeshifter",
+  "description": "The **Beast of Bray Road** is a cryptid creature reported primarily from rural Walworth County, Wisconsin, particularly along Bray Road near the town of Elkhorn.",
+  "aliases": [],
+  "tags": [
+    "folklore",
+    "mythology"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "American (Wisconsin), modern era (1980s-present)",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

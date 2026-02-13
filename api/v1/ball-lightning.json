@@ -1,0 +1,17 @@
+{
+  "id": "ball-lightning",
+  "name": "Ball Lightning",
+  "category": "atmospheric_phenomenon",
+  "description": "Ball lightning is an unexplained atmospheric electrical phenomenon described as luminous, spherical objects that vary from pea-sized to several meters in diameter.",
+  "aliases": [],
+  "tags": [
+    "folklore",
+    "mythology"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "Unknown",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

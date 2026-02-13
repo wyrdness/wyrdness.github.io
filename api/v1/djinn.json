@@ -1,0 +1,16 @@
+{
+  "id": "djinn",
+  "name": "Djinn (Jinn)",
+  "category": "entity_spirit",
+  "description": "Djinn possess **free will**, meaning they can choose to be good, evil, or neutral, and are morally accountable for their actions just as humans are.",
+  "aliases": [],
+  "tags": [
+    "&-meaning"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "Unknown",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

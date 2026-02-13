@@ -1,0 +1,17 @@
+{
+  "id": "sidehill-gouger",
+  "name": "Sidehill Gouger",
+  "category": "cryptid",
+  "description": "The Sidehill Gouger is a fearsome critter from American lumberjack folklore, distinguished by having legs shorter on one side of its body than the other.",
+  "aliases": [],
+  "tags": [
+    "folklore",
+    "mythology"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "Unknown",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

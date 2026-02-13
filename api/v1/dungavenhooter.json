@@ -1,0 +1,17 @@
+{
+  "id": "dungavenhooter",
+  "name": "Dungavenhooter",
+  "category": "cryptid",
+  "description": "The Dungavenhooter is one of the darkest and most absurdly tragic creatures from American lumberjack folklore.",
+  "aliases": [],
+  "tags": [
+    "folklore",
+    "mythology"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "Unknown",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

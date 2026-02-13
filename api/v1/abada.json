@@ -1,0 +1,16 @@
+{
+  "id": "abada",
+  "name": "Abada",
+  "category": "mythological_creature",
+  "description": "The Abada is a legendary unicorn-like creature from Central African mythology, particularly associated with the Kongo people and neighboring cultures of the Congo River basin.",
+  "aliases": [],
+  "tags": [
+    "and-spiritual-significance"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "Central African (Kongo)",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "redcap",
+  "name": "Redcap",
+  "category": "fae_folklore",
+  "description": "The Redcap is a murderous goblin from Scottish Border folklore, particularly associated with ruined castles and towers in the historically violent Anglo-Scottish border region.",
+  "aliases": [],
+  "tags": [
+    "folklore",
+    "mythology"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "Unknown",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "jormungandr",
+  "name": "Jörmungandr",
+  "category": "mythological_creature",
+  "description": "Jörmungandr (the Midgard Serpent or World Serpent) is an enormous sea serpent in Norse mythology, so large it encircles the entire world (Midgard) and grasps its own tail.",
+  "aliases": [],
+  "tags": [
+    "in-various-contexts"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "Unknown",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

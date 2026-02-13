@@ -1,0 +1,17 @@
+{
+  "id": "el-silbon",
+  "name": "El Silbón",
+  "category": "ghost_/_entity_spirit",
+  "description": "His most distinctive and dangerous feature is **sound reversal**: when his whistling sounds close, he is actually far away, but when it sounds distant, he is dangerously near.",
+  "aliases": [],
+  "tags": [
+    "folklore",
+    "mythology"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "Unknown",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

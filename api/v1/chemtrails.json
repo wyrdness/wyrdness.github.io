@@ -1,0 +1,17 @@
+{
+  "id": "chemtrails",
+  "name": "Chemtrails",
+  "category": "conspiracy_theory",
+  "description": "The chemtrails conspiracy theory claims that the long-lasting condensation trails (contrails) left by aircraft are actually chemical or biological agents intentionally sprayed by governments for purposes such as population control, weather modification, mind control, or biological warfare.",
+  "aliases": [],
+  "tags": [
+    "folklore",
+    "mythology"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "Unknown",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

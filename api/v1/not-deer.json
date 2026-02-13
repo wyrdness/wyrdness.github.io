@@ -1,0 +1,17 @@
+{
+  "id": "not-deer",
+  "name": "Not Deer",
+  "category": "modern_cryptid",
+  "description": "The **Not Deer** is a modern cryptid that emerged around 2019, described as a deer that appears fundamentally wrong, triggering uncanny valley responses.",
+  "aliases": [],
+  "tags": [
+    "folklore",
+    "mythology"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "Unknown",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

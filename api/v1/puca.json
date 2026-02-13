@@ -1,0 +1,17 @@
+{
+  "id": "puca",
+  "name": "Púca",
+  "category": "fae_folklore",
+  "description": "The Púca is a shapeshifting creature from Irish folklore, considered one of the most feared and respected of the fairy folk.",
+  "aliases": [],
+  "tags": [
+    "folklore",
+    "mythology"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "Unknown",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "grey-lady",
+  "name": "Grey Lady",
+  "category": "ghost",
+  "description": "The Grey Lady is a widespread archetype of ghost appearing throughout European and American folklore, characterized by a female apparition dressed in grey or silver garments.",
+  "aliases": [],
+  "tags": [
+    "folklore",
+    "mythology"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "Unknown",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

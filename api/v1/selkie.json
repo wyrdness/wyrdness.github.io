@@ -1,0 +1,16 @@
+{
+  "id": "selkie",
+  "name": "Selkie",
+  "category": "shapeshifter",
+  "description": "Selkies are mythological beings from Scottish, Irish, and Faroese folklore who live as seals in the ocean but can shed their skins to become beautiful humans on land.",
+  "aliases": [],
+  "tags": [
+    "&-themes"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "Unknown",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

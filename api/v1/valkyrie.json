@@ -1,0 +1,16 @@
+{
+  "id": "valkyrie",
+  "name": "Valkyrie",
+  "category": "mythological_creature",
+  "description": "Valkyries are female figures in Norse mythology who serve Odin, the Allfather.",
+  "aliases": [],
+  "tags": [
+    "&-interpretation"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "Unknown",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

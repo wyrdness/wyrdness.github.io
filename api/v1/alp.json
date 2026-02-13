@@ -1,0 +1,17 @@
+{
+  "id": "alp",
+  "name": "Alp",
+  "category": "entity_spirit",
+  "description": "The Alp is a creature from German and Austrian folklore, representing the male version of the nightmare spirit.",
+  "aliases": [],
+  "tags": [
+    "folklore",
+    "mythology"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "| Germany, Austria |",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

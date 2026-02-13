@@ -1,0 +1,17 @@
+{
+  "id": "voynich-manuscript",
+  "name": "Voynich Manuscript",
+  "category": "historical_mystery_/_undeciphered_text",
+  "description": "The **Voynich Manuscript** is a 15th century illustrated codex written in an unknown script that has never been successfully deciphered.",
+  "aliases": [],
+  "tags": [
+    "folklore",
+    "mythology"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "Unknown",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

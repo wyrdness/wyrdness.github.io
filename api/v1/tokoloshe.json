@@ -1,0 +1,17 @@
+{
+  "id": "tokoloshe",
+  "name": "Tokoloshe",
+  "category": "entity_spirit_/_cryptid",
+  "description": "The Tokoloshe (also Tikoloshe, Tokolosh) is a dwarf-like creature from Zulu and broader South African folklore, typically described as 2-3 feet tall, hairy, with a grotesque appearance.",
+  "aliases": [],
+  "tags": [
+    "folklore",
+    "mythology"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "Unknown",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

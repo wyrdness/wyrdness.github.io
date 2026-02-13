@@ -1,0 +1,17 @@
+{
+  "id": "roswell-incident",
+  "name": "Roswell Incident",
+  "category": "|_ufo_uap_/_conspiracy_theory_|",
+  "description": "The Roswell Incident is the most famous and controversial UFO event in history.",
+  "aliases": [],
+  "tags": [
+    "folklore",
+    "mythology"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "Unknown",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

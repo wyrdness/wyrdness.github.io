@@ -1,0 +1,17 @@
+{
+  "id": "brownie",
+  "name": "Brownie",
+  "category": "fae_folklore",
+  "description": "The Brownie is a household spirit from Scottish and Northern English folklore, characterized by its small stature (2-3 feet tall), brown or tanned skin, and ragged clothing.",
+  "aliases": [],
+  "tags": [
+    "folklore",
+    "mythology"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "Unknown",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "come-at-a-body",
+  "name": "Come-at-a-Body",
+  "category": "cryptid",
+  "description": "The Come-at-a-Body is a fearsome critter defined by its direct, aggressive behavior.",
+  "aliases": [],
+  "tags": [
+    "folklore",
+    "mythology"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "Unknown",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

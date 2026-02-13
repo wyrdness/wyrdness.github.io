@@ -1,0 +1,17 @@
+{
+  "id": "bridgewater-triangle",
+  "name": "Bridgewater Triangle",
+  "category": "location",
+  "description": "The Bridgewater Triangle is an area of approximately 200 square miles in southeastern Massachusetts, bounded roughly by the towns of Abington, Freetown, and Rehoboth.",
+  "aliases": [],
+  "tags": [
+    "folklore",
+    "mythology"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "Unknown",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

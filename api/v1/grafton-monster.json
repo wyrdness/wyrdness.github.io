@@ -1,0 +1,17 @@
+{
+  "id": "grafton-monster",
+  "name": "Grafton Monster",
+  "category": "cryptid",
+  "description": "The **Grafton Monster** is a cryptid entity reported from Grafton, West Virginia, primarily known from a single dramatic encounter in 1964.",
+  "aliases": [],
+  "tags": [
+    "folklore",
+    "mythology"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "American (West Virginia), 1964",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

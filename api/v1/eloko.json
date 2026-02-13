@@ -1,0 +1,18 @@
+{
+  "id": "eloko",
+  "name": "Eloko (Biloko)",
+  "category": "entity_spirit",
+  "description": "The Eloko (plural: Biloko) are dangerous dwarf spirits from the folklore of the Nkundo and Mongo peoples of the Democratic Republic of Congo.",
+  "aliases": [],
+  "tags": [
+    "forest-protection",
+    "wilderness-danger",
+    "natural-boundaries"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "Congolese (Nkundo, Mongo peoples)",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "minhocao",
+  "name": "Minhocão",
+  "category": "cryptid",
+  "description": "The Minhocão (Portuguese for \\\"giant earthworm\\\") is one of Brazil's most enigmatic cryptozoological mysteries—a creature described as an enormous subterranean worm or serpent that allegedly creates tunnels, trenches, and dramatic landscape alterations throughout southern Brazil.",
+  "aliases": [],
+  "tags": [
+    "folklore",
+    "mythology"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "Unknown",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "gremlin",
+  "name": "Gremlin",
+  "category": "urban_legend",
+  "description": "Gremlins are small, imp-like creatures from modern folklore that are blamed for causing mechanical and technological malfunctions, particularly in aircraft.",
+  "aliases": [],
+  "tags": [
+    "folklore",
+    "mythology"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "Unknown",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

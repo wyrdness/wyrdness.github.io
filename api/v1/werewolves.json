@@ -1,0 +1,17 @@
+{
+  "id": "werewolves",
+  "name": "Werewolves (Lycanthropy)",
+  "category": "shapeshifter",
+  "description": "Werewolves, also known as lycanthropes, are legendary humans capable of transforming into wolves or wolf-human hybrids.",
+  "aliases": [],
+  "tags": [
+    "folklore",
+    "mythology"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "Unknown",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

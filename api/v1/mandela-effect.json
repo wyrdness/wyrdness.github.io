@@ -1,0 +1,17 @@
+{
+  "id": "mandela-effect",
+  "name": "Mandela Effect",
+  "category": "|_individual_false_memories_(studied_since_1970s)_|",
+  "description": "The **Mandela Effect** is a phenomenon where large groups of people share identical false memories of events, facts, or details that differ from documented reality.",
+  "aliases": [],
+  "tags": [
+    "folklore",
+    "mythology"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "Unknown",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

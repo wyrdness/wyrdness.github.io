@@ -1,0 +1,16 @@
+{
+  "id": "nuckelavee",
+  "name": "Nuckelavee",
+  "category": "entity_spirit",
+  "description": "The Nuckelavee is the most feared and malevolent creature in Orkney Islands folklore, described as a horrific nightmare from the sea.",
+  "aliases": [],
+  "tags": [
+    "&-themes"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "Unknown",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

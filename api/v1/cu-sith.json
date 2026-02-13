@@ -1,0 +1,18 @@
+{
+  "id": "cu-sith",
+  "name": "Cú Sìth (The Fairy Hound)",
+  "category": "entity_spirit",
+  "description": "The Cú Sìth (pronounced \\\"coo-shee\\\"), also known as the Fairy Dog or Hound of the Sídhe, is a supernatural canine creature from Scottish Highland folklore, particularly associated with the Gaelic-speaking regions of Scotland.",
+  "aliases": [],
+  "tags": [
+    "death-omen",
+    "fairy-realm",
+    "threshold-guardian"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "Scottish Gaelic Highland",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

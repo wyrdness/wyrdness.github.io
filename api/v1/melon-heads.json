@@ -1,0 +1,17 @@
+{
+  "id": "melon-heads",
+  "name": "Melon Heads",
+  "category": "urban_legend",
+  "description": "Melon Heads are creatures from American urban legend, reported primarily in Michigan, Ohio, and Connecticut.",
+  "aliases": [],
+  "tags": [
+    "folklore",
+    "mythology"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "Unknown",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

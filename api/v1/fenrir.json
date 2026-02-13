@@ -1,0 +1,17 @@
+{
+  "id": "fenrir",
+  "name": "Fenrir",
+  "category": "mythological_creature",
+  "description": "Fenrir (also called Fenrisúlfr) is a gigantic and monstrous wolf in Norse mythology, son of the trickster god Loki and the jötunn Angrboða.",
+  "aliases": [],
+  "tags": [
+    "folklore",
+    "mythology"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "Unknown",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

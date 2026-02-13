@@ -1,0 +1,16 @@
+{
+  "id": "bulgae",
+  "name": "Bulgae (불개)",
+  "category": "mythological_creature",
+  "description": "The Bulgae, meaning \\\"fire dogs\\\" in Korean, are mythological canine creatures from Korean folklore that chase the sun and moon across the sky.",
+  "aliases": [],
+  "tags": [
+    "and-cultural-meaning"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "Korean",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

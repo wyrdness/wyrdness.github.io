@@ -1,0 +1,17 @@
+{
+  "id": "demons",
+  "name": "Demons",
+  "category": "demon_angel",
+  "description": "Demons are malevolent supernatural entities found across virtually every world religion and culture.",
+  "aliases": [],
+  "tags": [
+    "folklore",
+    "mythology"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "Unknown",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

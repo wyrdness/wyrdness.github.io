@@ -1,0 +1,17 @@
+{
+  "id": "kappa",
+  "name": "Kappa",
+  "category": "|",
+  "description": "The **kappa** (河童, \\\"river child\\\") is one of the most famous yokai in Japanese folklore.",
+  "aliases": [],
+  "tags": [
+    "folklore",
+    "mythology"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "Unknown",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

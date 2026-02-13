@@ -1,0 +1,17 @@
+{
+  "id": "nang-kwak",
+  "name": "Nang Kwak",
+  "category": "entity_spirit",
+  "description": "Thai spirit goddess who beckons customers and brings prosperity to merchants This phenomenon represents an important part of Thai folklore and cultural heritage, with documented accounts and traditions spanning generations.",
+  "aliases": [],
+  "tags": [
+    "folklore",
+    "mythology"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "| Thai |",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

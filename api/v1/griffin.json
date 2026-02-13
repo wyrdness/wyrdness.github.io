@@ -1,0 +1,16 @@
+{
+  "id": "griffin",
+  "name": "Griffin",
+  "category": "mythological_creature",
+  "description": "The griffin is a legendary creature combining the features of the king of beasts (lion) and the king of birds (eagle).",
+  "aliases": [],
+  "tags": [
+    "|-represents-christ's-dual-nature-(divine-and-earthly)-|"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "Unknown",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

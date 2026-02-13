@@ -1,0 +1,17 @@
+{
+  "id": "bessie",
+  "name": "Bessie - The Lake Erie Monster",
+  "category": "cryptid",
+  "description": "Unlike its more famous cousins—Nessie of Loch Ness or Champ of Lake Champlain—Bessie inhabits a shallow, heavily trafficked, and well-studied body of water.",
+  "aliases": [],
+  "tags": [
+    "folklore",
+    "mythology"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "Unknown",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

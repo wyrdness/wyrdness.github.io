@@ -1,0 +1,17 @@
+{
+  "id": "rumtifusel",
+  "name": "Rumtifusel",
+  "category": "cryptid",
+  "description": "The Rumtifusel is the most elusive of all fearsome critters, defined entirely by what cannot be known about it.",
+  "aliases": [],
+  "tags": [
+    "folklore",
+    "mythology"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "Unknown",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

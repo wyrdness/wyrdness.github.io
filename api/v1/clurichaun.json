@@ -1,0 +1,17 @@
+{
+  "id": "clurichaun",
+  "name": "Clurichaun",
+  "category": "|_broader_irish_fairy_folk_|",
+  "description": "The clurichaun is a fairy from Irish folklore, closely related to the leprechaun and sometimes considered its nighttime form.",
+  "aliases": [],
+  "tags": [
+    "folklore",
+    "mythology"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "Unknown",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

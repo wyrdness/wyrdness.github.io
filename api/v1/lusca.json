@@ -1,0 +1,17 @@
+{
+  "id": "lusca",
+  "name": "Lusca",
+  "category": "sea_cryptid",
+  "description": "The Lusca is a legendary Caribbean sea cryptid described as a massive octopus-shark hybrid creature said to inhabit the blue holes of the Bahamas and surrounding waters.",
+  "aliases": [],
+  "tags": [
+    "folklore",
+    "mythology"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "Unknown",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

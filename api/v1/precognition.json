@@ -1,0 +1,17 @@
+{
+  "id": "precognition",
+  "name": "Precognition",
+  "category": "psychic_phenomena",
+  "description": "Precognition is the purported paranormal ability to perceive or gain knowledge of future events before they occur, without using any known sensory or logical processes.",
+  "aliases": [],
+  "tags": [
+    "folklore",
+    "mythology"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "Unknown",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

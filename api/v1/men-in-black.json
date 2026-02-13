@@ -1,0 +1,17 @@
+{
+  "id": "men-in-black",
+  "name": "Men in Black",
+  "category": "ufo_uap",
+  "description": "Men in Black (MIB) are mysterious individuals dressed in dark suits who allegedly appear after UFO sightings to intimidate, threaten, or warn witnesses into silence.",
+  "aliases": [],
+  "tags": [
+    "folklore",
+    "mythology"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "Unknown",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

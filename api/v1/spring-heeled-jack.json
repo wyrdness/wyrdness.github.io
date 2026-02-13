@@ -1,0 +1,17 @@
+{
+  "id": "spring-heeled-jack",
+  "name": "Spring-Heeled Jack",
+  "category": "urban_legend",
+  "description": "Spring-Heeled Jack stands as one of Victorian England's most enduring and enigmatic urban legends—a figure that terrorized London and surrounding regions for nearly seven decades.",
+  "aliases": [],
+  "tags": [
+    "folklore",
+    "mythology"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "Unknown",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

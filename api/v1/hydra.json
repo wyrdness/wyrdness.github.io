@@ -1,0 +1,17 @@
+{
+  "id": "hydra",
+  "name": "Hydra",
+  "category": "mythological_creature",
+  "description": "The Hydra is a legendary multi-headed serpentine monster from Greek mythology, most famously known as the **Lernaean Hydra** that Hercules faced as his second labor.",
+  "aliases": [],
+  "tags": [
+    "folklore",
+    "mythology"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "Unknown",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

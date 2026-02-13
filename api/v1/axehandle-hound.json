@@ -1,0 +1,17 @@
+{
+  "id": "axehandle-hound",
+  "name": "Axehandle Hound",
+  "category": "cryptid",
+  "description": "The Axehandle Hound is a creature from the fearsome critter tradition of American logging camps in the 19th and early 20th centuries.",
+  "aliases": [],
+  "tags": [
+    "folklore",
+    "mythology"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "Unknown",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

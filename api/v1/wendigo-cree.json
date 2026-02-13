@@ -1,0 +1,17 @@
+{
+  "id": "wendigo-cree",
+  "name": "Wendigo (Cree)",
+  "category": "|_entity_spirit/demon_angel_|",
+  "description": "The Wendigo (Cree: Wìhtikòw, also Wetiko) is a sacred spiritual being in Cree and Algonquian traditions that embodies the ultimate transgressions: cannibalism and the greed that drives it.",
+  "aliases": [],
+  "tags": [
+    "folklore",
+    "mythology"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "| Cree/Algonquian Nations |",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

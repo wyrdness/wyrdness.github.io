@@ -1,0 +1,17 @@
+{
+  "id": "dover-demon",
+  "name": "Dover Demon",
+  "category": "|_cryptid_|",
+  "description": "The Dover Demon is a cryptid reported during a brief 25-hour period in April 1977 in Dover, Massachusetts.",
+  "aliases": [],
+  "tags": [
+    "folklore",
+    "mythology"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "Unknown",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

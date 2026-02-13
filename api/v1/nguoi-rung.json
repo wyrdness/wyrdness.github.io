@@ -1,0 +1,17 @@
+{
+  "id": "nguoi-rung",
+  "name": "Người Rừng",
+  "category": "cryptid",
+  "description": "Vietnamese forest-dwelling hominid described as covered in hair and living primitively This phenomenon represents an important part of Vietnamese folklore and cultural heritage, with documented accounts and traditions spanning generations.",
+  "aliases": [],
+  "tags": [
+    "folklore",
+    "mythology"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "| Vietnamese |",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

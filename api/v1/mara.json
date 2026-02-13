@@ -1,0 +1,17 @@
+{
+  "id": "mara",
+  "name": "Mara",
+  "category": "entity_spirit",
+  "description": "The Mara is a female nightmare spirit from Slavic and Germanic folklore, representing the **etymological origin of the English word \\\"nightmare\\\"** (literally \\\"night-Mara\\\").",
+  "aliases": [],
+  "tags": [
+    "folklore",
+    "mythology"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "|",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

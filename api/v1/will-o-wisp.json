@@ -1,0 +1,17 @@
+{
+  "id": "will-o-wisp",
+  "name": "Will-o'-Wisp",
+  "category": "of_unexplained_lights",
+  "description": "Will-o'-wisps are mysterious floating lights observed over bogs, swamps, marshes, and other wetlands at night.",
+  "aliases": [],
+  "tags": [
+    "folklore",
+    "mythology"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "Unknown",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

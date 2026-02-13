@@ -1,0 +1,16 @@
+{
+  "id": "al-miraj",
+  "name": "Al-Mi'raj (المعراج)",
+  "category": "than_al-mi'raj",
+  "description": "The Al-Mi'raj is a legendary creature from Islamic folklore, described as a large yellow rabbit with a single black spiraling horn protruding from its forehead.",
+  "aliases": [],
+  "tags": [
+    "in-illustrations"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "Islamic/Arabic",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

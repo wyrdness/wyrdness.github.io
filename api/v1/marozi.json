@@ -1,0 +1,18 @@
+{
+  "id": "marozi",
+  "name": "Marozi (Spotted Lion)",
+  "category": "cryptid",
+  "description": "The Marozi, also known as the spotted lion or Aberdare lion, is a cryptid felid reported from the mountainous regions of East Africa, particularly Kenya.",
+  "aliases": [],
+  "tags": [
+    "hidden-biodiversity",
+    "montane-mysteries",
+    "cryptozoology"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "East African (Kenya, Tanzania)",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

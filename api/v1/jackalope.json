@@ -1,0 +1,17 @@
+{
+  "id": "jackalope",
+  "name": "Jackalope",
+  "category": "cryptid",
+  "description": "The Jackalope is a mythical creature consisting of a jackrabbit with antelope or deer antlers, created as a taxidermy hoax in Douglas, Wyoming in the 1930s by brothers Douglas and Ralph Herrick.",
+  "aliases": [],
+  "tags": [
+    "folklore",
+    "mythology"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "Unknown",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

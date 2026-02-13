@@ -1,0 +1,17 @@
+{
+  "id": "seneca-guns",
+  "name": "Seneca Guns - The Mysterious Coastal Booming Sounds",
+  "category": "atmospheric_phenomenon",
+  "description": "This phenomenon has been documented extensively across multiple time periods and continues to generate interest from researchers, folklorists, and investigators.",
+  "aliases": [],
+  "tags": [
+    "folklore",
+    "mythology"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "Unknown",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

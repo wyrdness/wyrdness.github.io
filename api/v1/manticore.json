@@ -1,0 +1,16 @@
+{
+  "id": "manticore",
+  "name": "Manticore",
+  "category": "mythological_creature",
+  "description": "The manticore is a legendary creature from Persian mythology, described as having a **human head**, a **lion's body**, and a **scorpion's tail** armed with venomous spines that can be shot like projectiles.",
+  "aliases": [],
+  "tags": [
+    "—-dangerous-cunning-and-complete-destruction"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "Unknown",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "duppy",
+  "name": "Duppy",
+  "category": "ghost_haunting",
+  "description": "The **Duppy** is the most pervasive and powerful supernatural entity in Jamaican folklore—the spirit or ghost of a deceased person, deeply rooted in West African (particularly **Akan/Ashanti**) ancestral traditions and intimately woven into the fabric of Jamaican culture.",
+  "aliases": [],
+  "tags": [
+    "folklore",
+    "mythology"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "| Akan/Ashanti (Ghana) → Jamaican synthesis |",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

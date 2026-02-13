@@ -1,0 +1,17 @@
+{
+  "id": "crawler",
+  "name": "Crawler",
+  "category": "cryptid",
+  "description": "The Crawler is a modern cryptid described as an extremely pale, emaciated humanoid creature that moves primarily on all fours with unsettling speed and flexibility.",
+  "aliases": [],
+  "tags": [
+    "folklore",
+    "mythology"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "Unknown",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

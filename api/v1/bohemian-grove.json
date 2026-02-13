@@ -1,0 +1,16 @@
+{
+  "id": "bohemian-grove",
+  "name": "Bohemian Grove",
+  "category": "|_conspiracy_theory_/_location_|",
+  "description": "Bohemian Grove is a 2,700-acre campground owned by the private Bohemian Club, located near Monte Rio, California.",
+  "aliases": [],
+  "tags": [
+    "burning-a-representation-of-worldly-worries-to-relax-during-encampment"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "Unknown",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

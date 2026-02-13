@@ -1,0 +1,17 @@
+{
+  "id": "vodyanoy",
+  "name": "Vodyanoy",
+  "category": "entity_spirit",
+  "description": "Vodyanoy is a male water spirit from Slavic folklore, particularly prominent in Russian traditions.",
+  "aliases": [],
+  "tags": [
+    "folklore",
+    "mythology"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "Unknown",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

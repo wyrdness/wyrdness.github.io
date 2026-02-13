@@ -1,0 +1,17 @@
+{
+  "id": "brown-mountain-lights",
+  "name": "Brown Mountain Lights",
+  "category": "atmospheric_phenomenon",
+  "description": "The Brown Mountain Lights are mysterious light phenomena observed near Brown Mountain in the Blue Ridge Mountains of North Carolina.",
+  "aliases": [],
+  "tags": [
+    "folklore",
+    "mythology"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "Unknown",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

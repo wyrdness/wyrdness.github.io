@@ -1,0 +1,16 @@
+{
+  "id": "gumiho",
+  "name": "Gumiho (구미호)",
+  "category": "mythological_creature",
+  "description": "The gumiho is a legendary nine-tailed fox from Korean mythology, distinct from its Chinese (huli jing) and Japanese (kitsune) counterparts.",
+  "aliases": [],
+  "tags": [
+    "and-themes"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "Korean",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

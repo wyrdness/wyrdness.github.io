@@ -1,0 +1,17 @@
+{
+  "id": "momo",
+  "name": "Momo",
+  "category": "cryptid",
+  "description": "Momo, short for Missouri Monster, is a Bigfoot-like creature reported primarily in and around Louisiana, Missouri during 1971-1972.",
+  "aliases": [],
+  "tags": [
+    "folklore",
+    "mythology"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "Unknown",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

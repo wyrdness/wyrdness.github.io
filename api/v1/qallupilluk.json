@@ -1,0 +1,16 @@
+{
+  "id": "qallupilluk",
+  "name": "Qallupilluk",
+  "category": "entity_spirit",
+  "description": "Qallupilluk is a humanoid creature from Inuit folklore that lives under the ice and in cold Arctic waters.",
+  "aliases": [],
+  "tags": [
+    "&-themes"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "Unknown",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

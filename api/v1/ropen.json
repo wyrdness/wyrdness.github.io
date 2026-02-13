@@ -1,0 +1,17 @@
+{
+  "id": "ropen",
+  "name": "Ropen",
+  "category": "cryptid",
+  "description": "Purported living pterosaur with bioluminescent glow reported in Papua New Guinea This phenomenon represents an important part of Papua New Guinean folklore and cultural heritage, with documented accounts and traditions spanning generations.",
+  "aliases": [],
+  "tags": [
+    "folklore",
+    "mythology"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "| Papua New Guinean |",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

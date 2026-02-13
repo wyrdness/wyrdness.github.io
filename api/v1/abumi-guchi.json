@@ -1,0 +1,17 @@
+{
+  "id": "abumi-guchi",
+  "name": "Abumi-guchi",
+  "category": "entity_spirit",
+  "description": "Abumi-guchi is a peculiar yokai from Japanese folklore, appearing as a possessed stirrup (abumi) with a distinctive furry or shaggy appearance and a mouth capable of speech.",
+  "aliases": [],
+  "tags": [
+    "folklore",
+    "mythology"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "Unknown",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

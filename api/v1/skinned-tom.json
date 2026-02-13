@@ -1,0 +1,17 @@
+{
+  "id": "skinned-tom",
+  "name": "Skinned Tom",
+  "category": "cryptid",
+  "description": "Skinned Tom is a creature from Appalachian folklore described as a humanoid figure completely devoid of skin, exposing raw red muscle, sinew, and tissue beneath.",
+  "aliases": [],
+  "tags": [
+    "folklore",
+    "mythology"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "Unknown",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

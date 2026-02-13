@@ -1,0 +1,17 @@
+{
+  "id": "ozark-howler",
+  "name": "Ozark Howler - The Horned Cat of the Ozarks",
+  "category": "cryptid",
+  "description": "The **Ozark Howler** (also known as the **Ozark Black Howler**, **Hephaestus Cat**, or **Nightshade Bear**) is a fearsome cryptid reported from the Ozark Mountains region spanning Missouri, Arkansas, Oklahoma, and Kansas.",
+  "aliases": [],
+  "tags": [
+    "folklore",
+    "mythology"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "Unknown",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

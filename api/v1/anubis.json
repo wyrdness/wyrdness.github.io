@@ -1,0 +1,17 @@
+{
+  "id": "anubis",
+  "name": "Anubis - Egyptian God of Death and Mummification",
+  "category": "mythological_creature",
+  "description": "Anubis (Inpw in ancient Egyptian, also called Anpu) is one of the most iconic deities of ancient Egypt - the jackal-headed god who presided over mummification, guided souls through the underworld, and protected the dead.",
+  "aliases": [],
+  "tags": [
+    "folklore",
+    "mythology"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "Unknown",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

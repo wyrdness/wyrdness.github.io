@@ -1,0 +1,17 @@
+{
+  "id": "area-51",
+  "name": "Area 51",
+  "category": "location",
+  "description": "Area 51 is a highly classified remote detachment of Edwards Air Force Base, located within the Nevada Test and Training Range approximately 83 miles north-northwest of Las Vegas.",
+  "aliases": [],
+  "tags": [
+    "folklore",
+    "mythology"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "Unknown",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

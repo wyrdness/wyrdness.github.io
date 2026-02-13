@@ -1,0 +1,17 @@
+{
+  "id": "bermuda-triangle",
+  "name": "Bermuda Triangle",
+  "category": "anomaly",
+  "description": "The Bermuda Triangle is a loosely defined region in the western North Atlantic Ocean where numerous ships and aircraft have disappeared under circumstances characterized as mysterious or unexplained.",
+  "aliases": [],
+  "tags": [
+    "folklore",
+    "mythology"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "Unknown",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

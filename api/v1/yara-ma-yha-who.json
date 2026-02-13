@@ -1,0 +1,17 @@
+{
+  "id": "yara-ma-yha-who",
+  "name": "Yara-ma-yha-who",
+  "category": "mythological_creature",
+  "description": "The **yara-ma-yha-who** is a small, red humanoid creature from Aboriginal Australian Dreamtime folklore, functioning primarily as a vampire-like predator and cautionary tale.",
+  "aliases": [],
+  "tags": [
+    "folklore",
+    "mythology"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "| Aboriginal Australian Dreamtime |",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

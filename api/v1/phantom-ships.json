@@ -1,0 +1,17 @@
+{
+  "id": "phantom-ships",
+  "name": "Phantom Ships",
+  "category": "|_spectral_manifestations_|",
+  "description": "Phantom ships are spectral vessels reported by mariners throughout history, appearing as ghostly ships that materialize and vanish at sea.",
+  "aliases": [],
+  "tags": [
+    "folklore",
+    "mythology"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "Unknown",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

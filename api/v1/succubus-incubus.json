@@ -1,0 +1,17 @@
+{
+  "id": "succubus-incubus",
+  "name": "Succubus/Incubus",
+  "category": "|_general_demonic_entities_|",
+  "description": "Succubus (female) and Incubus (male) are demons from medieval Christian demonology that seduce humans during sleep, drain life force through sexual encounters, and sometimes steal semen or impregnate victims.",
+  "aliases": [],
+  "tags": [
+    "folklore",
+    "mythology"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "Unknown",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

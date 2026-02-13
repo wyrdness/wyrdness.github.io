@@ -1,0 +1,17 @@
+{
+  "id": "banshee",
+  "name": "Banshee",
+  "category": "|_entity_spirit_|",
+  "description": "The **banshee** (Irish: *bean sí*, meaning \\\"woman of the fairy mound\\\") is one of the most famous figures in Irish folklore.",
+  "aliases": [],
+  "tags": [
+    "folklore",
+    "mythology"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "Unknown",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "baba-yaga",
+  "name": "Baba Yaga",
+  "category": "fae_folklore",
+  "description": "Baba Yaga is a legendary witch from Slavic folklore, particularly prominent in Russian fairy tales.",
+  "aliases": [],
+  "tags": [
+    "&-interpretation"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "Unknown",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

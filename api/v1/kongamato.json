@@ -1,0 +1,17 @@
+{
+  "id": "kongamato",
+  "name": "Kongamato",
+  "category": "cryptid",
+  "description": "The kongamato is a cryptid reported from the swamps and rivers of Central and Southern Africa, particularly in Zambia and Zimbabwe.",
+  "aliases": [],
+  "tags": [
+    "folklore",
+    "mythology"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "Unknown",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

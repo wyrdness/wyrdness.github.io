@@ -1,0 +1,17 @@
+{
+  "id": "ifrit",
+  "name": "Ifrit",
+  "category": "|_alternative_term_for_jinn_|",
+  "description": "The **Ifrit** (Arabic: عفريت, *'ifrīt*) is a powerful and typically malevolent class of jinn in Islamic tradition and Middle Eastern folklore.",
+  "aliases": [],
+  "tags": [
+    "folklore",
+    "mythology"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "| Arabic/Middle Eastern |",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

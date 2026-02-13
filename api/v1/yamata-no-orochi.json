@@ -1,0 +1,16 @@
+{
+  "id": "yamata-no-orochi",
+  "name": "Yamata-no-Orochi (ヤマタノオロチ)",
+  "category": "mythological_creature",
+  "description": "The creature's mythology is preserved in Japan's oldest written texts, the *Kojiki* (712 CE) and *Nihon Shoki* (720 CE), making it one of the foundational narratives of Japanese culture and national identity.",
+  "aliases": [],
+  "tags": [
+    "purification-and-renewal"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "Unknown",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

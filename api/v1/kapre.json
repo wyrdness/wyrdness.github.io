@@ -1,0 +1,16 @@
+{
+  "id": "kapre",
+  "name": "Kapre",
+  "category": "entity_spirit",
+  "description": "The Kapre is a towering creature from Filipino folklore, described as a tall (7-9 feet), dark-skinned, hairy, and muscular giant that dwells in large trees, particularly balete and acacia trees.",
+  "aliases": [],
+  "tags": [
+    "&-interpretation"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "Unknown",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

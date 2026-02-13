@@ -1,0 +1,17 @@
+{
+  "id": "mahaha",
+  "name": "Mahaha",
+  "category": "cryptid",
+  "description": "The Mahaha is a terrifying demon from Inuit mythology, described as a skeletal, blue-skinned humanoid with icy claws and a permanent, maniacal grin frozen onto its face.",
+  "aliases": [],
+  "tags": [
+    "folklore",
+    "mythology"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "Unknown",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "roanoke-colony",
+  "name": "Roanoke Colony (The Lost Colony)",
+  "category": "|_count_|_details_|",
+  "description": "The Roanoke Colony, famously known as **\\\"The Lost Colony,\\\"** represents one of America's oldest and most intriguing historical mysteries.",
+  "aliases": [],
+  "tags": [
+    "folklore",
+    "mythology"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "Unknown",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

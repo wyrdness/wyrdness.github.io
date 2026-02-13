@@ -1,0 +1,17 @@
+{
+  "id": "ninki-nanka",
+  "name": "Ninki Nanka",
+  "category": "cryptid",
+  "description": "The Ninki Nanka is a legendary dragon-like cryptid from West African folklore, particularly prominent in Gambian and Senegalese traditions.",
+  "aliases": [],
+  "tags": [
+    "folklore",
+    "mythology"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "West African (Gambia, Senegal)",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

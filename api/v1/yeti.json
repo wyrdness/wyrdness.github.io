@@ -1,0 +1,17 @@
+{
+  "id": "yeti",
+  "name": "Yeti",
+  "category": "cryptid",
+  "description": "The Yeti, also known as the Abominable Snowman, is a legendary ape-like creature purported to inhabit the Himalayan mountain range of Asia.",
+  "aliases": [],
+  "tags": [
+    "folklore",
+    "mythology"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "Unknown",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

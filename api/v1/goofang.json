@@ -1,0 +1,17 @@
+{
+  "id": "goofang",
+  "name": "Goofang",
+  "category": "cryptid",
+  "description": "The Goofang is an aquatic fearsome critter from Minnesota with one defining limitation: it can only move backwards.",
+  "aliases": [],
+  "tags": [
+    "folklore",
+    "mythology"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "Unknown",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

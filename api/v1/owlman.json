@@ -1,0 +1,17 @@
+{
+  "id": "owlman",
+  "name": "Owlman",
+  "category": "cryptid",
+  "description": "The Owlman of Cornwall is a winged humanoid cryptid reported near the village of Mawnan in Cornwall, England, primarily during the years 1976-1978.",
+  "aliases": [],
+  "tags": [
+    "folklore",
+    "mythology"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "Unknown",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

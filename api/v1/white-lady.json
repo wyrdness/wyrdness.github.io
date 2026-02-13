@@ -1,0 +1,16 @@
+{
+  "id": "white-lady",
+  "name": "White Lady",
+  "category": "ghost",
+  "description": "The White Lady is one of the most widespread ghost archetypes found across cultures worldwide.",
+  "aliases": [],
+  "tags": [
+    "&-meaning"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "Unknown",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "ghul",
+  "name": "Ghul",
+  "category": "of_smokeless_fire_beings",
+  "description": "The **Ghul** (Arabic: غول, *ghūl*) is a demon or monster from Arabic and Islamic tradition, known for dwelling in graveyards, luring travelers in the desert, and consuming corpses and human flesh.",
+  "aliases": [],
+  "tags": [
+    "folklore",
+    "mythology"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "| Arabic/Islamic |",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

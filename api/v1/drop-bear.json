@@ -1,0 +1,17 @@
+{
+  "id": "drop-bear",
+  "name": "Drop Bear",
+  "category": "hoax",
+  "description": "The Drop Bear is a deliberately fabricated Australian creature, part of a long tradition of pranking tourists with tall tales about dangerous wildlife.",
+  "aliases": [],
+  "tags": [
+    "folklore",
+    "mythology"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "Unknown",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

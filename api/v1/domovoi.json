@@ -1,0 +1,17 @@
+{
+  "id": "domovoi",
+  "name": "Domovoi",
+  "category": "fae_folklore",
+  "description": "The Domovoi is a core figure in Russian and Slavic folklore, representing the protective spirit of the household.",
+  "aliases": [],
+  "tags": [
+    "folklore",
+    "mythology"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "Unknown",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

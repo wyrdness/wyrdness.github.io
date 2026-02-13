@@ -1,0 +1,16 @@
+{
+  "id": "strzyga",
+  "name": "Strzyga - The Polish Demon-Vampire",
+  "category": "in_vampire_folklore:_a_living_vampire_whose_demonic_nature_is_integral_from_birth_rather_than_acquired_through_death._this_creature_bridges_the_gap_between_human_and_monster,_never_fully_belonging_to_either_world.",
+  "description": "The **strzyga** (also spelled *strzygi*, *striga*, or *strzygoń*) is a terrifying undead creature from Polish folklore—a demon-vampire hybrid born with two souls, one human and one demonic.",
+  "aliases": [],
+  "tags": [
+    "in-folklore."
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "Unknown",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

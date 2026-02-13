@@ -1,0 +1,17 @@
+{
+  "id": "new-world-order",
+  "name": "New World Order",
+  "category": "conspiracy_theory",
+  "description": "The New World Order (NWO) conspiracy theory claims that a secretive elite cabal is working to establish a totalitarian world government that would eliminate national sovereignty, individual freedoms, and traditional institutions.",
+  "aliases": [],
+  "tags": [
+    "folklore",
+    "mythology"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "Unknown",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

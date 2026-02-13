@@ -1,0 +1,17 @@
+{
+  "id": "strigoi",
+  "name": "Strigoi",
+  "category": "|_broader_vampire_mythology_|",
+  "description": "Strigoi are Romanian vampiric entities existing in two distinct forms: **Strigoi viu** (living witches with supernatural powers) and **Strigoi mort** (undead vampires that rise from the grave).",
+  "aliases": [],
+  "tags": [
+    "folklore",
+    "mythology"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "Unknown",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

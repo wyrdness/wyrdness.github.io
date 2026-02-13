@@ -1,0 +1,17 @@
+{
+  "id": "duende",
+  "name": "Duende",
+  "category": "fae_folklore",
+  "description": "Duende (plural: duendes) are small humanoid creatures deeply embedded in Spanish and Latin American folklore.",
+  "aliases": [],
+  "tags": [
+    "folklore",
+    "mythology"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "Unknown",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

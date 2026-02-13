@@ -1,0 +1,17 @@
+{
+  "id": "hodag",
+  "name": "Hodag",
+  "category": "cryptid",
+  "description": "The Hodag is a fearsome creature from Wisconsin lumberjack folklore, described as having a frog's head, elephant's face, thick short legs, huge claws, spikes along its back, and a long tail.",
+  "aliases": [],
+  "tags": [
+    "folklore",
+    "mythology"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "Unknown",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "sleipnir",
+  "name": "Sleipnir",
+  "category": "mythological_creature",
+  "description": "Sleipnir is the eight-legged grey horse of Odin, the Allfather in Norse mythology.",
+  "aliases": [],
+  "tags": [
+    "—-journey-between-worlds"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "Unknown",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

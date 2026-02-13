@@ -1,0 +1,17 @@
+{
+  "id": "saci",
+  "name": "Saci",
+  "category": "entity_spirit",
+  "description": "The Saci is a beloved trickster figure from Brazilian folklore, depicted as a black or dark-skinned boy with only one leg who wears a magical red cap and smokes a pipe.",
+  "aliases": [],
+  "tags": [
+    "folklore",
+    "mythology"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "Unknown",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

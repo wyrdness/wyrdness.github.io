@@ -1,0 +1,16 @@
+{
+  "id": "harpy",
+  "name": "Harpy",
+  "category": "mythological_creature",
+  "description": "Harpies are creatures from Greek mythology portrayed as having a woman's head and torso with the wings, talons, and lower body of a bird.",
+  "aliases": [],
+  "tags": [
+    "&-interpretation"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "Unknown",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

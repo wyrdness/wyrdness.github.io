@@ -1,0 +1,17 @@
+{
+  "id": "leprechaun",
+  "name": "Leprechaun",
+  "category": "|_broader_irish_fairy_folk_|",
+  "description": "The leprechaun is a small fairy from Irish folklore, typically depicted as a small old man (2-3 feet tall) dressed in green (modern) or red/brown (original), with a beard and buckled shoes.",
+  "aliases": [],
+  "tags": [
+    "folklore",
+    "mythology"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "Unknown",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

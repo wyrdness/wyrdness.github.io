@@ -1,0 +1,3494 @@
+{
+  "version": "1.0.0",
+  "generated": "2026-02-13T03:08:45.901Z",
+  "total": 157,
+  "categories": {
+    "mythological_creature": {
+      "name": "mythological_creature",
+      "count": 52,
+      "phenomena": [
+        {
+          "id": "abada",
+          "name": "Abada",
+          "regions": []
+        },
+        {
+          "id": "ammit",
+          "name": "Ammit - The Devourer of Hearts",
+          "regions": []
+        },
+        {
+          "id": "anansi",
+          "name": "Anansi - The West African Spider Trickster",
+          "regions": []
+        },
+        {
+          "id": "anubis",
+          "name": "Anubis - Egyptian God of Death and Mummification",
+          "regions": []
+        },
+        {
+          "id": "bai-ze",
+          "name": "Bai Ze (白澤)",
+          "regions": []
+        },
+        {
+          "id": "baku",
+          "name": "Baku (獏)",
+          "regions": []
+        },
+        {
+          "id": "basilisco-chilote",
+          "name": "Basilisco Chilote",
+          "regions": []
+        },
+        {
+          "id": "basilisk",
+          "name": "Basilisk",
+          "regions": []
+        },
+        {
+          "id": "bulgae",
+          "name": "Bulgae (불개)",
+          "regions": []
+        },
+        {
+          "id": "buraq",
+          "name": "Al-Burāq (البُراق)",
+          "regions": []
+        },
+        {
+          "id": "ceasg",
+          "name": "Ceasg (Maighdean na Tuinne)",
+          "regions": []
+        },
+        {
+          "id": "centaur",
+          "name": "Centaur",
+          "regions": []
+        },
+        {
+          "id": "cerberus",
+          "name": "Cerberus",
+          "regions": []
+        },
+        {
+          "id": "cheollima",
+          "name": "Cheollima (천리마)",
+          "regions": []
+        },
+        {
+          "id": "chimera",
+          "name": "Chimera",
+          "regions": []
+        },
+        {
+          "id": "cockatrice",
+          "name": "Cockatrice",
+          "regions": []
+        },
+        {
+          "id": "cyclops",
+          "name": "Cyclops",
+          "regions": []
+        },
+        {
+          "id": "fenrir",
+          "name": "Fenrir",
+          "regions": []
+        },
+        {
+          "id": "garuda",
+          "name": "Garuda",
+          "regions": []
+        },
+        {
+          "id": "gorgon",
+          "name": "Gorgon",
+          "regions": []
+        },
+        {
+          "id": "griffin",
+          "name": "Griffin",
+          "regions": []
+        },
+        {
+          "id": "gumiho",
+          "name": "Gumiho (구미호)",
+          "regions": []
+        },
+        {
+          "id": "haetae",
+          "name": "Haetae (해태)",
+          "regions": []
+        },
+        {
+          "id": "harpy",
+          "name": "Harpy",
+          "regions": []
+        },
+        {
+          "id": "hydra",
+          "name": "Hydra",
+          "regions": []
+        },
+        {
+          "id": "iara",
+          "regions": []
+        },
+        {
+          "id": "jormungandr",
+          "name": "Jörmungandr",
+          "regions": []
+        },
+        {
+          "id": "kirin",
+          "name": "Kirin - The Sacred Beast of East Asia",
+          "regions": []
+        },
+        {
+          "id": "lamassu",
+          "name": "Lamassu - Guardian Spirits of Mesopotamia",
+          "regions": []
+        },
+        {
+          "id": "manticore",
+          "name": "Manticore",
+          "regions": []
+        },
+        {
+          "id": "medusa",
+          "name": "Medusa",
+          "regions": []
+        },
+        {
+          "id": "minotaur",
+          "name": "Minotaur",
+          "regions": []
+        },
+        {
+          "id": "naga",
+          "name": "Naga",
+          "regions": []
+        },
+        {
+          "id": "nix",
+          "regions": []
+        },
+        {
+          "id": "nue",
+          "name": "Nue (鵺)",
+          "regions": []
+        },
+        {
+          "id": "pegasus",
+          "name": "Pegasus",
+          "regions": []
+        },
+        {
+          "id": "phoenix",
+          "name": "Phoenix",
+          "regions": []
+        },
+        {
+          "id": "qilin",
+          "name": "Qilin - Chinese Auspicious Beast",
+          "regions": []
+        },
+        {
+          "id": "raiju",
+          "name": "Raiju (雷獣)",
+          "regions": []
+        },
+        {
+          "id": "roc",
+          "name": "Roc (الرخ / Rukh)",
+          "regions": []
+        },
+        {
+          "id": "samjoko",
+          "name": "Samjoko (삼족오)",
+          "regions": []
+        },
+        {
+          "id": "satyr",
+          "name": "Satyr",
+          "regions": []
+        },
+        {
+          "id": "simurgh",
+          "name": "Simurgh (سیمرغ)",
+          "regions": []
+        },
+        {
+          "id": "siren",
+          "name": "Siren",
+          "regions": []
+        },
+        {
+          "id": "sleipnir",
+          "name": "Sleipnir",
+          "regions": []
+        },
+        {
+          "id": "sphinx",
+          "name": "Sphinx",
+          "regions": []
+        },
+        {
+          "id": "swan-maiden",
+          "regions": []
+        },
+        {
+          "id": "ushi-oni",
+          "regions": []
+        },
+        {
+          "id": "valkyrie",
+          "name": "Valkyrie",
+          "regions": []
+        },
+        {
+          "id": "yamata-no-orochi",
+          "name": "Yamata-no-Orochi (ヤマタノオロチ)",
+          "regions": []
+        },
+        {
+          "id": "yara-ma-yha-who",
+          "name": "Yara-ma-yha-who",
+          "regions": []
+        },
+        {
+          "id": "zmey",
+          "name": "Zmey - The Slavic Dragon",
+          "regions": []
+        }
+      ]
+    },
+    "entity_spirit": {
+      "name": "entity_spirit",
+      "count": 78,
+      "phenomena": [
+        {
+          "id": "abumi-guchi",
+          "name": "Abumi-guchi",
+          "regions": []
+        },
+        {
+          "id": "aj-acha-te-oh-te",
+          "regions": []
+        },
+        {
+          "id": "akaname",
+          "name": "Akaname",
+          "regions": []
+        },
+        {
+          "id": "al-khidr",
+          "name": "Al-Khidr - The Immortal Green One",
+          "regions": []
+        },
+        {
+          "id": "alp",
+          "name": "Alp",
+          "regions": []
+        },
+        {
+          "id": "ankou",
+          "name": "Ankou - The Breton Personification of Death",
+          "regions": []
+        },
+        {
+          "id": "ap",
+          "regions": []
+        },
+        {
+          "id": "bakeneko",
+          "name": "Bakeneko (化け猫)",
+          "regions": []
+        },
+        {
+          "id": "bannik",
+          "name": "Bannik - The Slavic Bathhouse Spirit",
+          "regions": []
+        },
+        {
+          "id": "basket-woman",
+          "regions": []
+        },
+        {
+          "id": "berchta",
+          "regions": []
+        },
+        {
+          "id": "berserker",
+          "name": "Berserker",
+          "regions": []
+        },
+        {
+          "id": "black-eyed-children",
+          "name": "Black-Eyed Children",
+          "regions": []
+        },
+        {
+          "id": "bogeyman",
+          "name": "Bogeyman",
+          "regions": []
+        },
+        {
+          "id": "caipora",
+          "name": "Caipora",
+          "regions": []
+        },
+        {
+          "id": "caoineag",
+          "name": "Caoineag - The Scottish Weeping Spirit",
+          "regions": []
+        },
+        {
+          "id": "chaneque",
+          "name": "Chaneque",
+          "regions": []
+        },
+        {
+          "id": "chullachaqui",
+          "name": "Chullachaqui",
+          "regions": []
+        },
+        {
+          "id": "ciguapa",
+          "name": "Ciguapa",
+          "regions": []
+        },
+        {
+          "id": "cu-sith",
+          "name": "Cú Sìth (The Fairy Hound)",
+          "regions": []
+        },
+        {
+          "id": "curupira",
+          "name": "Curupira",
+          "regions": []
+        },
+        {
+          "id": "dames-blanches",
+          "regions": []
+        },
+        {
+          "id": "deer-woman",
+          "regions": []
+        },
+        {
+          "id": "djinn",
+          "name": "Djinn (Jinn)",
+          "regions": []
+        },
+        {
+          "id": "douen",
+          "name": "Douen",
+          "regions": []
+        },
+        {
+          "id": "el-cadejo",
+          "name": "El Cadejo",
+          "regions": []
+        },
+        {
+          "id": "el-sombrerón",
+          "name": "El Sombrerón",
+          "regions": []
+        },
+        {
+          "id": "eloko",
+          "name": "Eloko (Biloko)",
+          "regions": []
+        },
+        {
+          "id": "enenra",
+          "name": "Enenra (煙々羅)",
+          "regions": []
+        },
+        {
+          "id": "golem",
+          "name": "Golem",
+          "regions": []
+        },
+        {
+          "id": "hantu-air",
+          "name": "Hantu Air",
+          "regions": []
+        },
+        {
+          "id": "hantu-tetek",
+          "name": "Hantu Tetek",
+          "regions": []
+        },
+        {
+          "id": "hitotsume-kozo",
+          "name": "Hitotsume-Kozo - The One-Eyed Boy Yokai",
+          "regions": []
+        },
+        {
+          "id": "ijiraq",
+          "name": "Ijiraq",
+          "regions": []
+        },
+        {
+          "id": "impundulu",
+          "name": "Impundulu",
+          "regions": []
+        },
+        {
+          "id": "inugami",
+          "name": "Inugami",
+          "regions": []
+        },
+        {
+          "id": "jengu",
+          "name": "Jengu - Cameroonian Water Spirit",
+          "regions": []
+        },
+        {
+          "id": "jinn",
+          "name": "Jinn",
+          "regions": []
+        },
+        {
+          "id": "jorogumo",
+          "name": "Jorōgumo",
+          "regions": []
+        },
+        {
+          "id": "kapre",
+          "name": "Kapre",
+          "regions": []
+        },
+        {
+          "id": "kawa-no-kami",
+          "name": "Kawa-no-Kami - The River Deity",
+          "regions": []
+        },
+        {
+          "id": "krampus",
+          "name": "Krampus",
+          "regions": []
+        },
+        {
+          "id": "la-diablesse",
+          "name": "La Diablesse",
+          "regions": []
+        },
+        {
+          "id": "leshy",
+          "name": "Leshy",
+          "regions": []
+        },
+        {
+          "id": "likho",
+          "regions": []
+        },
+        {
+          "id": "madremonte",
+          "name": "Madremonte",
+          "regions": []
+        },
+        {
+          "id": "mama-dlo",
+          "name": "Mama Dlo / Mama D'Leau",
+          "regions": []
+        },
+        {
+          "id": "mamlambo",
+          "name": "Mamlambo - The River Goddess of South Africa",
+          "regions": []
+        },
+        {
+          "id": "mara",
+          "name": "Mara",
+          "regions": []
+        },
+        {
+          "id": "mare",
+          "name": "Mare",
+          "regions": []
+        },
+        {
+          "id": "mohan",
+          "name": "El Mohán",
+          "regions": []
+        },
+        {
+          "id": "nachtkrapp",
+          "regions": []
+        },
+        {
+          "id": "nang-kwak",
+          "name": "Nang Kwak",
+          "regions": []
+        },
+        {
+          "id": "nang-mai",
+          "regions": []
+        },
+        {
+          "id": "nekomata",
+          "name": "Nekomata (猫又)",
+          "regions": []
+        },
+        {
+          "id": "night-hag",
+          "name": "Night Hag",
+          "regions": []
+        },
+        {
+          "id": "nightmare",
+          "name": "Nightmare",
+          "regions": []
+        },
+        {
+          "id": "nuckelavee",
+          "name": "Nuckelavee",
+          "regions": []
+        },
+        {
+          "id": "nurarihyon",
+          "name": "Nurarihyon",
+          "regions": []
+        },
+        {
+          "id": "papa-bois",
+          "name": "Papa Bois",
+          "regions": []
+        },
+        {
+          "id": "qallupilluk",
+          "name": "Qallupilluk",
+          "regions": []
+        },
+        {
+          "id": "rokurokubi",
+          "name": "Rokurokubi (轆轤首)",
+          "regions": []
+        },
+        {
+          "id": "saci",
+          "name": "Saci",
+          "regions": []
+        },
+        {
+          "id": "satori",
+          "name": "Satori - The Mind-Reading Yokai",
+          "regions": []
+        },
+        {
+          "id": "shtriga",
+          "regions": []
+        },
+        {
+          "id": "stick-indian",
+          "regions": []
+        },
+        {
+          "id": "tengu",
+          "name": "Tengu",
+          "regions": []
+        },
+        {
+          "id": "tikbalang",
+          "name": "Tikbalang",
+          "regions": []
+        },
+        {
+          "id": "tunda",
+          "name": "La Tunda",
+          "regions": []
+        },
+        {
+          "id": "vodyanoy",
+          "name": "Vodyanoy",
+          "regions": []
+        },
+        {
+          "id": "wanyudo",
+          "regions": []
+        },
+        {
+          "id": "wendigo",
+          "name": "Wendigo",
+          "regions": []
+        },
+        {
+          "id": "xtabay",
+          "name": "Xtabay",
+          "regions": []
+        },
+        {
+          "id": "yacuruna",
+          "name": "Yacuruna: The Amazonian Water Spirit",
+          "regions": []
+        },
+        {
+          "id": "yama-no-kami",
+          "name": "Yama-no-kami",
+          "regions": []
+        },
+        {
+          "id": "yama-oroshi",
+          "regions": []
+        },
+        {
+          "id": "yama-uba",
+          "name": "Yama-Uba",
+          "regions": []
+        },
+        {
+          "id": "yuki-onna",
+          "name": "Yuki-Onna",
+          "regions": []
+        }
+      ]
+    },
+    "cryptid": {
+      "name": "cryptid",
+      "count": 85,
+      "phenomena": [
+        {
+          "id": "adlet",
+          "name": "Adlet",
+          "regions": []
+        },
+        {
+          "id": "agropelter",
+          "name": "Agropelter",
+          "regions": []
+        },
+        {
+          "id": "almas",
+          "name": "Almas",
+          "regions": []
+        },
+        {
+          "id": "altamaha-ha",
+          "name": "Altamaha-ha - Georgia's River Monster",
+          "regions": []
+        },
+        {
+          "id": "amarok",
+          "name": "Amarok",
+          "regions": []
+        },
+        {
+          "id": "argopelter",
+          "name": "Argopelter",
+          "regions": []
+        },
+        {
+          "id": "axehandle-hound",
+          "name": "Axehandle Hound",
+          "regions": []
+        },
+        {
+          "id": "batsquatch",
+          "name": "Batsquatch",
+          "regions": []
+        },
+        {
+          "id": "batutut",
+          "name": "Batutut",
+          "regions": []
+        },
+        {
+          "id": "beast-of-gevaudan",
+          "name": "Beast of Gévaudan",
+          "regions": []
+        },
+        {
+          "id": "bessie",
+          "name": "Bessie - The Lake Erie Monster",
+          "regions": []
+        },
+        {
+          "id": "bigfoot",
+          "name": "Bigfoot",
+          "regions": []
+        },
+        {
+          "id": "billdad",
+          "name": "Billdad",
+          "regions": []
+        },
+        {
+          "id": "bunyip",
+          "name": "Bunyip",
+          "regions": []
+        },
+        {
+          "id": "cactus-cat",
+          "name": "Cactus Cat",
+          "regions": []
+        },
+        {
+          "id": "caddy",
+          "name": "Cadborosaurus - Caddy, The Pacific Northwest Sea Serpent",
+          "regions": []
+        },
+        {
+          "id": "champ",
+          "name": "Champ: The Lake Champlain Monster",
+          "regions": []
+        },
+        {
+          "id": "come-at-a-body",
+          "name": "Come-at-a-Body",
+          "regions": []
+        },
+        {
+          "id": "crawler",
+          "name": "Crawler",
+          "regions": []
+        },
+        {
+          "id": "dobhar-chu",
+          "name": "Dobhar-chú (Irish Water Hound)",
+          "regions": []
+        },
+        {
+          "id": "dogman",
+          "name": "Dogman",
+          "regions": []
+        },
+        {
+          "id": "dungavenhooter",
+          "name": "Dungavenhooter",
+          "regions": []
+        },
+        {
+          "id": "emela-ntouka",
+          "name": "Emela-ntouka",
+          "regions": []
+        },
+        {
+          "id": "enfield-horror",
+          "name": "Enfield Horror",
+          "regions": []
+        },
+        {
+          "id": "fearsome-critters",
+          "regions": []
+        },
+        {
+          "id": "fresno-nightcrawlers",
+          "name": "Fresno Nightcrawlers",
+          "regions": []
+        },
+        {
+          "id": "fur-bearing-trout",
+          "name": "Fur-Bearing Trout",
+          "regions": []
+        },
+        {
+          "id": "gillygaloo",
+          "name": "Gillygaloo",
+          "regions": []
+        },
+        {
+          "id": "goofang",
+          "name": "Goofang",
+          "regions": []
+        },
+        {
+          "id": "grafton-monster",
+          "name": "Grafton Monster",
+          "regions": []
+        },
+        {
+          "id": "gumberoo",
+          "name": "Gumberoo",
+          "regions": []
+        },
+        {
+          "id": "hidebehind",
+          "name": "Hidebehind",
+          "regions": []
+        },
+        {
+          "id": "hodag",
+          "name": "Hodag",
+          "regions": []
+        },
+        {
+          "id": "hoopsnake",
+          "name": "Hoopsnake",
+          "regions": []
+        },
+        {
+          "id": "hugag",
+          "name": "Hugag",
+          "regions": []
+        },
+        {
+          "id": "jackalope",
+          "name": "Jackalope",
+          "regions": []
+        },
+        {
+          "id": "jersey-devil",
+          "name": "Jersey Devil",
+          "regions": []
+        },
+        {
+          "id": "joint-snake",
+          "regions": []
+        },
+        {
+          "id": "kongamato",
+          "name": "Kongamato",
+          "regions": []
+        },
+        {
+          "id": "kraken",
+          "name": "Kraken",
+          "regions": []
+        },
+        {
+          "id": "loch-ness-monster",
+          "name": "Loch Ness Monster",
+          "regions": []
+        },
+        {
+          "id": "loveland-frog",
+          "name": "Loveland Frog",
+          "regions": []
+        },
+        {
+          "id": "luferlang",
+          "name": "Luferlang",
+          "regions": []
+        },
+        {
+          "id": "mahaha",
+          "name": "Mahaha",
+          "regions": []
+        },
+        {
+          "id": "man-monkey",
+          "name": "Man-Monkey - The Shropshire Canal Cryptid",
+          "regions": []
+        },
+        {
+          "id": "mapinguari",
+          "name": "Mapinguari",
+          "regions": []
+        },
+        {
+          "id": "marozi",
+          "name": "Marozi (Spotted Lion)",
+          "regions": []
+        },
+        {
+          "id": "minhocao",
+          "name": "Minhocão",
+          "regions": []
+        },
+        {
+          "id": "mngwa",
+          "name": "Mngwa",
+          "regions": []
+        },
+        {
+          "id": "moehau-man",
+          "regions": []
+        },
+        {
+          "id": "mokele-mbembe",
+          "name": "Mokele-mbembe",
+          "regions": []
+        },
+        {
+          "id": "momo",
+          "name": "Momo",
+          "regions": []
+        },
+        {
+          "id": "mothman",
+          "name": "Mothman",
+          "regions": []
+        },
+        {
+          "id": "nandi-bear",
+          "name": "Nandi Bear",
+          "regions": []
+        },
+        {
+          "id": "nguoi-rung",
+          "name": "Người Rừng",
+          "regions": []
+        },
+        {
+          "id": "nguruvilu",
+          "name": "Nguruvilu - The Chilean Fox-Snake Water Demon - **ENTRY #500!** 🎉",
+          "regions": []
+        },
+        {
+          "id": "ninki-nanka",
+          "name": "Ninki Nanka",
+          "regions": []
+        },
+        {
+          "id": "ogopogo",
+          "name": "OGOPOGO",
+          "regions": []
+        },
+        {
+          "id": "orang-dalam",
+          "name": "Orang Dalam - The Hidden Forest People",
+          "regions": []
+        },
+        {
+          "id": "orang-gadang",
+          "name": "Orang Gadang",
+          "regions": []
+        },
+        {
+          "id": "orang-pendek",
+          "name": "Orang Pendek",
+          "regions": []
+        },
+        {
+          "id": "owlman",
+          "name": "Owlman",
+          "regions": []
+        },
+        {
+          "id": "ozark-howler",
+          "name": "Ozark Howler - The Horned Cat of the Ozarks",
+          "regions": []
+        },
+        {
+          "id": "ropen",
+          "name": "Ropen",
+          "regions": []
+        },
+        {
+          "id": "roperite",
+          "name": "Roperite",
+          "regions": []
+        },
+        {
+          "id": "rumtifusel",
+          "name": "Rumtifusel",
+          "regions": []
+        },
+        {
+          "id": "sidehill-gouger",
+          "name": "Sidehill Gouger",
+          "regions": []
+        },
+        {
+          "id": "skinned-tom",
+          "name": "Skinned Tom",
+          "regions": []
+        },
+        {
+          "id": "skunk-ape",
+          "name": "Skunk Ape",
+          "regions": []
+        },
+        {
+          "id": "skvader",
+          "regions": []
+        },
+        {
+          "id": "snallygaster",
+          "name": "Snallygaster",
+          "regions": []
+        },
+        {
+          "id": "splintercat",
+          "name": "Splintercat",
+          "regions": []
+        },
+        {
+          "id": "squonk",
+          "name": "Squonk",
+          "regions": []
+        },
+        {
+          "id": "tatzelwurm",
+          "name": "Tatzelwurm",
+          "regions": []
+        },
+        {
+          "id": "teakettler",
+          "name": "Teakettler",
+          "regions": []
+        },
+        {
+          "id": "thunderbird",
+          "name": "Thunderbird",
+          "regions": []
+        },
+        {
+          "id": "tote-road-shagamaw",
+          "name": "Tote-Road Shagamaw",
+          "regions": []
+        },
+        {
+          "id": "tripodero",
+          "name": "Tripodero",
+          "regions": []
+        },
+        {
+          "id": "van-meter-visitor",
+          "name": "Van Meter Visitor",
+          "regions": []
+        },
+        {
+          "id": "wampus-cat",
+          "name": "Wampus Cat",
+          "regions": []
+        },
+        {
+          "id": "whirling-whimpus",
+          "name": "Whirling Whimpus",
+          "regions": []
+        },
+        {
+          "id": "wolpertinger",
+          "regions": []
+        },
+        {
+          "id": "yeren",
+          "name": "Yeren",
+          "regions": []
+        },
+        {
+          "id": "yeti",
+          "name": "Yeti",
+          "regions": []
+        },
+        {
+          "id": "yowie",
+          "name": "Yowie",
+          "regions": []
+        }
+      ]
+    },
+    "undead_/_entity_spirit": {
+      "name": "undead_/_entity_spirit",
+      "count": 2,
+      "phenomena": [
+        {
+          "id": "adze",
+          "name": "Adze",
+          "regions": []
+        },
+        {
+          "id": "dullahan",
+          "name": "Dullahan",
+          "regions": []
+        }
+      ]
+    },
+    "of_cryptids": {
+      "name": "of_cryptids",
+      "count": 1,
+      "phenomena": [
+        {
+          "id": "ahool",
+          "name": "Ahool: The Giant Bat of Java",
+          "regions": []
+        }
+      ]
+    },
+    "|_broader_category_of_malevolent_aquatic_entities_|": {
+      "name": "|_broader_category_of_malevolent_aquatic_entities_|",
+      "count": 1,
+      "phenomena": [
+        {
+          "id": "ahuizotl",
+          "name": "Ahuizotl",
+          "regions": []
+        }
+      ]
+    },
+    "ghost_haunting": {
+      "name": "ghost_haunting",
+      "count": 13,
+      "phenomena": [
+        {
+          "id": "aka-manto",
+          "name": "Aka Manto (赤マント)",
+          "regions": []
+        },
+        {
+          "id": "duppy",
+          "name": "Duppy",
+          "regions": []
+        },
+        {
+          "id": "hantu-pontianak",
+          "regions": []
+        },
+        {
+          "id": "hungry-ghost",
+          "name": "Hungry Ghost (餓鬼/饿鬼)",
+          "regions": []
+        },
+        {
+          "id": "la-llorona",
+          "name": "La Llorona",
+          "regions": []
+        },
+        {
+          "id": "mae-nak",
+          "name": "Mae Nak Phra Khanong",
+          "regions": []
+        },
+        {
+          "id": "phi-am",
+          "regions": []
+        },
+        {
+          "id": "phi-tai-hong",
+          "name": "Phi Tai Hong (ผีตายโหง)",
+          "regions": []
+        },
+        {
+          "id": "resurrection-mary",
+          "name": "Resurrection Mary",
+          "regions": []
+        },
+        {
+          "id": "siguanaba",
+          "name": "La Siguanaba",
+          "regions": []
+        },
+        {
+          "id": "sundel-bolong",
+          "name": "Sundel Bolong - The Hollow-Backed Ghost of Indonesian Folklore",
+          "regions": []
+        },
+        {
+          "id": "teke-teke",
+          "name": "Teke Teke (テケテケ)",
+          "regions": []
+        },
+        {
+          "id": "wewe-gombel",
+          "name": "Wewe Gombel",
+          "regions": []
+        }
+      ]
+    },
+    "than_al-mi'raj": {
+      "name": "than_al-mi'raj",
+      "count": 1,
+      "phenomena": [
+        {
+          "id": "al-miraj",
+          "name": "Al-Mi'raj (المعراج)",
+          "regions": []
+        }
+      ]
+    },
+    "|_ufo_uap_|": {
+      "name": "|_ufo_uap_|",
+      "count": 1,
+      "phenomena": [
+        {
+          "id": "aliens",
+          "name": "UFOs/UAPs & Alien Encounters",
+          "regions": []
+        }
+      ]
+    },
+    "fae_folklore": {
+      "name": "fae_folklore",
+      "count": 17,
+      "phenomena": [
+        {
+          "id": "alux",
+          "name": "Alux",
+          "regions": []
+        },
+        {
+          "id": "aos-si",
+          "regions": []
+        },
+        {
+          "id": "baba-yaga",
+          "name": "Baba Yaga",
+          "regions": []
+        },
+        {
+          "id": "brownie",
+          "name": "Brownie",
+          "regions": []
+        },
+        {
+          "id": "domovoi",
+          "name": "Domovoi",
+          "regions": []
+        },
+        {
+          "id": "duende",
+          "name": "Duende",
+          "regions": []
+        },
+        {
+          "id": "fairies",
+          "name": "Fairies / Fae Folk",
+          "regions": []
+        },
+        {
+          "id": "goblin",
+          "name": "Goblin",
+          "regions": []
+        },
+        {
+          "id": "huldre",
+          "regions": []
+        },
+        {
+          "id": "kikimora",
+          "name": "Kikimora",
+          "regions": []
+        },
+        {
+          "id": "knocker",
+          "name": "Knocker",
+          "regions": []
+        },
+        {
+          "id": "peri",
+          "name": "Peri",
+          "regions": []
+        },
+        {
+          "id": "puca",
+          "name": "Púca",
+          "regions": []
+        },
+        {
+          "id": "redcap",
+          "name": "Redcap",
+          "regions": []
+        },
+        {
+          "id": "tommyknockers",
+          "name": "Tommyknockers",
+          "regions": []
+        },
+        {
+          "id": "tylwyth-teg",
+          "regions": []
+        },
+        {
+          "id": "vila",
+          "name": "Vila",
+          "regions": []
+        }
+      ]
+    },
+    "|_archaeological_artifact_|": {
+      "name": "|_archaeological_artifact_|",
+      "count": 1,
+      "phenomena": [
+        {
+          "id": "antikythera-mechanism",
+          "name": "Antikythera Mechanism",
+          "regions": []
+        }
+      ]
+    },
+    "haunted_location": {
+      "name": "haunted_location",
+      "count": 3,
+      "phenomena": [
+        {
+          "id": "aokigahara",
+          "name": "Aokigahara Forest: Japan's Sea of Trees",
+          "regions": []
+        },
+        {
+          "id": "gettysburg-battlefield",
+          "name": "Gettysburg Battlefield: America's Most Haunted Military Site",
+          "regions": []
+        },
+        {
+          "id": "waverly-hills",
+          "name": "Waverly Hills Sanatorium: America's Most Haunted Hospital",
+          "regions": []
+        }
+      ]
+    },
+    "location": {
+      "name": "location",
+      "count": 6,
+      "phenomena": [
+        {
+          "id": "area-51",
+          "name": "Area 51",
+          "regions": []
+        },
+        {
+          "id": "bridgewater-triangle",
+          "name": "Bridgewater Triangle",
+          "regions": []
+        },
+        {
+          "id": "eilean-mor-lighthouse",
+          "name": "Eilean Mor Lighthouse Mystery",
+          "regions": []
+        },
+        {
+          "id": "haunted-places",
+          "name": "Haunted Places",
+          "regions": []
+        },
+        {
+          "id": "skinwalker-ranch",
+          "name": "Skinwalker Ranch",
+          "regions": []
+        },
+        {
+          "id": "tower-of-london",
+          "name": "Tower of London - Britain's Most Haunted Fortress",
+          "regions": []
+        }
+      ]
+    },
+    "undead": {
+      "name": "undead",
+      "count": 16,
+      "phenomena": [
+        {
+          "id": "asanbosam",
+          "name": "Asanbosam - The Iron-Toothed Forest Vampire",
+          "regions": []
+        },
+        {
+          "id": "bake-kujira",
+          "name": "Bake-kujira (化け鯨)",
+          "regions": []
+        },
+        {
+          "id": "draugr",
+          "name": "Draugr",
+          "regions": []
+        },
+        {
+          "id": "gashadokuro",
+          "name": "Gashadokuro",
+          "regions": []
+        },
+        {
+          "id": "jiangshi",
+          "name": "Jiangshi (僵尸)",
+          "regions": []
+        },
+        {
+          "id": "patasola",
+          "name": "La Patasola",
+          "regions": []
+        },
+        {
+          "id": "penanggalan",
+          "name": "Penanggalan",
+          "regions": []
+        },
+        {
+          "id": "revenant",
+          "regions": []
+        },
+        {
+          "id": "rolling-calf",
+          "name": "Rolling Calf",
+          "regions": []
+        },
+        {
+          "id": "rusalka",
+          "name": "Rusalka",
+          "regions": []
+        },
+        {
+          "id": "sasabonsam",
+          "name": "Sasabonsam - The West African Vampire",
+          "regions": []
+        },
+        {
+          "id": "soucouyant",
+          "name": "Soucouyant",
+          "regions": []
+        },
+        {
+          "id": "ubume",
+          "name": "Ubume",
+          "regions": []
+        },
+        {
+          "id": "upyr",
+          "name": "Upyr - The Slavic Vampire",
+          "regions": []
+        },
+        {
+          "id": "vetala",
+          "regions": []
+        },
+        {
+          "id": "vrykolakas",
+          "regions": []
+        }
+      ]
+    },
+    "|_demon_angel_|": {
+      "name": "|_demon_angel_|",
+      "count": 4,
+      "phenomena": [
+        {
+          "id": "asmodeus",
+          "name": "Asmodeus",
+          "regions": []
+        },
+        {
+          "id": "beelzebub",
+          "name": "Beelzebub",
+          "regions": []
+        },
+        {
+          "id": "belial",
+          "name": "Belial",
+          "regions": []
+        },
+        {
+          "id": "belphegor",
+          "name": "Belphegor",
+          "regions": []
+        }
+      ]
+    },
+    "demon_angel": {
+      "name": "demon_angel",
+      "count": 11,
+      "phenomena": [
+        {
+          "id": "astaroth",
+          "name": "Astaroth - The Great Duke of Hell",
+          "regions": []
+        },
+        {
+          "id": "azazel",
+          "name": "Azazel - The Fallen Angel of the Wilderness",
+          "regions": []
+        },
+        {
+          "id": "demons",
+          "name": "Demons",
+          "regions": []
+        },
+        {
+          "id": "div",
+          "name": "Div - Persian Demon",
+          "regions": []
+        },
+        {
+          "id": "drude",
+          "name": "Drude",
+          "regions": []
+        },
+        {
+          "id": "empusa",
+          "name": "Empusa",
+          "regions": []
+        },
+        {
+          "id": "gello",
+          "name": "Gello",
+          "regions": []
+        },
+        {
+          "id": "mahr",
+          "name": "Mahr",
+          "regions": []
+        },
+        {
+          "id": "mammon",
+          "name": "Mammon - The Demon of Greed and Wealth",
+          "regions": []
+        },
+        {
+          "id": "qarqash",
+          "name": "Qarqash - Arabic Desert Demon",
+          "regions": []
+        },
+        {
+          "id": "shuten-doji",
+          "name": "Shuten-doji (酒呑童子)",
+          "regions": []
+        }
+      ]
+    },
+    "shapeshifter_undead": {
+      "name": "shapeshifter_undead",
+      "count": 1,
+      "phenomena": [
+        {
+          "id": "aswang",
+          "name": "Aswang",
+          "regions": []
+        }
+      ]
+    },
+    "cryptid_(theoretical)": {
+      "name": "cryptid_(theoretical)",
+      "count": 1,
+      "phenomena": [
+        {
+          "id": "atmospheric-beasts",
+          "name": "Atmospheric Beasts",
+          "regions": []
+        }
+      ]
+    },
+    "atmospheric_phenomena": {
+      "name": "atmospheric_phenomena",
+      "count": 2,
+      "phenomena": [
+        {
+          "id": "aurora-phenomena",
+          "name": "Aurora Phenomena (Northern Lights Folklore)",
+          "regions": []
+        },
+        {
+          "id": "corpse-candle",
+          "name": "Corpse Candle (Canwyll Corff)",
+          "regions": []
+        }
+      ]
+    },
+    "|_psychic_phenomena_|": {
+      "name": "|_psychic_phenomena_|",
+      "count": 2,
+      "phenomena": [
+        {
+          "id": "automatic-writing",
+          "name": "Automatic Writing",
+          "regions": []
+        },
+        {
+          "id": "bilocation",
+          "name": "Bilocation",
+          "regions": []
+        }
+      ]
+    },
+    "|_internet_folklore_/_liminal_space_|": {
+      "name": "|_internet_folklore_/_liminal_space_|",
+      "count": 1,
+      "phenomena": [
+        {
+          "id": "backrooms",
+          "name": "The Backrooms",
+          "regions": []
+        }
+      ]
+    },
+    "atmospheric_phenomenon": {
+      "name": "atmospheric_phenomenon",
+      "count": 11,
+      "phenomena": [
+        {
+          "id": "ball-lightning",
+          "name": "Ball Lightning",
+          "regions": []
+        },
+        {
+          "id": "brown-mountain-lights",
+          "name": "Brown Mountain Lights",
+          "regions": []
+        },
+        {
+          "id": "earthquake-lights",
+          "name": "Earthquake Lights",
+          "regions": []
+        },
+        {
+          "id": "hessdalen-lights",
+          "name": "Hessdalen Lights",
+          "regions": []
+        },
+        {
+          "id": "marfa-lights",
+          "name": "Marfa Lights",
+          "regions": []
+        },
+        {
+          "id": "min-min-lights",
+          "name": "Min Min Lights",
+          "regions": []
+        },
+        {
+          "id": "paulding-light",
+          "name": "Paulding Light",
+          "regions": []
+        },
+        {
+          "id": "seneca-guns",
+          "name": "Seneca Guns - The Mysterious Coastal Booming Sounds",
+          "regions": []
+        },
+        {
+          "id": "skyquakes",
+          "name": "Skyquakes",
+          "regions": []
+        },
+        {
+          "id": "st-elmos-fire",
+          "name": "St. Elmo's Fire",
+          "regions": []
+        },
+        {
+          "id": "taos-hum",
+          "name": "The Taos Hum",
+          "regions": []
+        }
+      ]
+    },
+    "of_nature_spirits": {
+      "name": "of_nature_spirits",
+      "count": 1,
+      "phenomena": [
+        {
+          "id": "banaspati",
+          "name": "Banaspati",
+          "regions": []
+        }
+      ]
+    },
+    "|_entity_spirit_|": {
+      "name": "|_entity_spirit_|",
+      "count": 2,
+      "phenomena": [
+        {
+          "id": "banshee",
+          "name": "Banshee",
+          "regions": []
+        },
+        {
+          "id": "elemental-spirits",
+          "name": "Elemental Spirits",
+          "regions": []
+        }
+      ]
+    },
+    "cryptid_/_shapeshifter": {
+      "name": "cryptid_/_shapeshifter",
+      "count": 1,
+      "phenomena": [
+        {
+          "id": "beast-of-bray-road",
+          "name": "Beast of Bray Road",
+          "regions": []
+        }
+      ]
+    },
+    "modern_internet_folklore": {
+      "name": "modern_internet_folklore",
+      "count": 3,
+      "phenomena": [
+        {
+          "id": "ben-drowned",
+          "name": "BEN Drowned",
+          "regions": []
+        },
+        {
+          "id": "jeff-the-killer",
+          "name": "Jeff the Killer",
+          "regions": []
+        },
+        {
+          "id": "scp-foundation",
+          "name": "SCP Foundation",
+          "regions": []
+        }
+      ]
+    },
+    "location_phenomenon": {
+      "name": "location_phenomenon",
+      "count": 1,
+      "phenomena": [
+        {
+          "id": "bennington-triangle",
+          "name": "Bennington Triangle - Vermont's Vanishing Zone",
+          "regions": []
+        }
+      ]
+    },
+    "anomaly": {
+      "name": "anomaly",
+      "count": 7,
+      "phenomena": [
+        {
+          "id": "bermuda-triangle",
+          "name": "Bermuda Triangle",
+          "regions": []
+        },
+        {
+          "id": "doppelganger",
+          "name": "Doppelgänger",
+          "regions": []
+        },
+        {
+          "id": "glitch-in-matrix",
+          "name": "Glitch in the Matrix",
+          "regions": []
+        },
+        {
+          "id": "liminal-spaces",
+          "name": "Liminal Spaces",
+          "regions": []
+        },
+        {
+          "id": "spontaneous-human-combustion",
+          "name": "Spontaneous Human Combustion",
+          "regions": []
+        },
+        {
+          "id": "stone-tape-theory",
+          "name": "Stone Tape Theory",
+          "regions": []
+        },
+        {
+          "id": "time-slips",
+          "name": "Time Slips",
+          "regions": []
+        }
+      ]
+    },
+    "entity": {
+      "name": "entity",
+      "count": 2,
+      "phenomena": [
+        {
+          "id": "betobeto-san",
+          "name": "Betobeto-san (べとべとさん)",
+          "regions": []
+        },
+        {
+          "id": "nuppeppo",
+          "name": "Nuppeppō (ぬっぺっぽう)",
+          "regions": []
+        }
+      ]
+    },
+    "of_restless_spirits,_ghosts,_and_malevolent_entities_that_are_believed_to_be_the_souls_of_deceased_individuals_who_cannot_move_on_to_the_afterlife_due_to_various_circumstances_surrounding_their_death_or_burial._present_in_hindu,_islamic,_buddhist,_and_sikh_traditions_across_the_indian_subcontinent,_bhoot_beliefs_reflect_deep_cultural_anxieties_about_death,_proper_ritual_observance,_and_the_boundary_between_the_living_and_the_dead.": {
+      "name": "of_restless_spirits,_ghosts,_and_malevolent_entities_that_are_believed_to_be_the_souls_of_deceased_individuals_who_cannot_move_on_to_the_afterlife_due_to_various_circumstances_surrounding_their_death_or_burial._present_in_hindu,_islamic,_buddhist,_and_sikh_traditions_across_the_indian_subcontinent,_bhoot_beliefs_reflect_deep_cultural_anxieties_about_death,_proper_ritual_observance,_and_the_boundary_between_the_living_and_the_dead.",
+      "count": 1,
+      "phenomena": [
+        {
+          "id": "bhoot",
+          "name": "Bhoot: Restless Spirits of South Asia",
+          "regions": []
+        }
+      ]
+    },
+    "membership_|_worldwide_|": {
+      "name": "membership_|_worldwide_|",
+      "count": 1,
+      "phenomena": [
+        {
+          "id": "black-dog",
+          "name": "Black Dog",
+          "regions": []
+        }
+      ]
+    },
+    "|_conspiracy_theory_/_ufo_uap_|": {
+      "name": "|_conspiracy_theory_/_ufo_uap_|",
+      "count": 2,
+      "phenomena": [
+        {
+          "id": "black-knight-satellite",
+          "name": "Black Knight Satellite",
+          "regions": []
+        },
+        {
+          "id": "dulce-base",
+          "name": "Dulce Base",
+          "regions": []
+        }
+      ]
+    },
+    "|_spectral_manifestations_|": {
+      "name": "|_spectral_manifestations_|",
+      "count": 2,
+      "phenomena": [
+        {
+          "id": "black-shuck",
+          "name": "Black Shuck",
+          "regions": []
+        },
+        {
+          "id": "phantom-ships",
+          "name": "Phantom Ships",
+          "regions": []
+        }
+      ]
+    },
+    "|_conspiracy_theory_/_location_|": {
+      "name": "|_conspiracy_theory_/_location_|",
+      "count": 1,
+      "phenomena": [
+        {
+          "id": "bohemian-grove",
+          "name": "Bohemian Grove",
+          "regions": []
+        }
+      ]
+    },
+    "of_amazonian_enchanted_beings": {
+      "name": "of_amazonian_enchanted_beings",
+      "count": 1,
+      "phenomena": [
+        {
+          "id": "boto-cor-de-rosa",
+          "name": "Boto Cor-de-Rosa (Pink River Dolphin Shapeshifter)",
+          "regions": []
+        }
+      ]
+    },
+    "confusion_(human/animal/costume)": {
+      "name": "confusion_(human/animal/costume)",
+      "count": 1,
+      "phenomena": [
+        {
+          "id": "bunny-man",
+          "name": "The Bunny Man Urban Legend",
+          "regions": []
+        }
+      ]
+    },
+    "|_internet_folklore_|": {
+      "name": "|_internet_folklore_|",
+      "count": 5,
+      "phenomena": [
+        {
+          "id": "candle-cove",
+          "name": "Candle Cove",
+          "regions": []
+        },
+        {
+          "id": "eyeless-jack",
+          "name": "Eyeless Jack",
+          "regions": []
+        },
+        {
+          "id": "lavender-town-syndrome",
+          "name": "Lavender Town Syndrome",
+          "regions": []
+        },
+        {
+          "id": "polybius",
+          "name": "Polybius",
+          "regions": []
+        },
+        {
+          "id": "rake",
+          "name": "The Rake",
+          "regions": []
+        }
+      ]
+    },
+    "ufo_uap": {
+      "name": "ufo_uap",
+      "count": 5,
+      "phenomena": [
+        {
+          "id": "cash-landrum-incident",
+          "name": "Cash-Landrum Incident - The Texas UFO Radiation Case",
+          "regions": []
+        },
+        {
+          "id": "kecksburg-incident",
+          "name": "Kecksburg Incident - Pennsylvania's UFO Mystery",
+          "regions": []
+        },
+        {
+          "id": "men-in-black",
+          "name": "Men in Black",
+          "regions": []
+        },
+        {
+          "id": "phoenix-lights",
+          "name": "Phoenix Lights - The 1997 Arizona Mass UFO Sighting",
+          "regions": []
+        },
+        {
+          "id": "rendlesham-forest",
+          "name": "Rendlesham Forest Incident - Britain's Roswell",
+          "regions": []
+        }
+      ]
+    },
+    "|_supernatural_beings_who_steal_children_|": {
+      "name": "|_supernatural_beings_who_steal_children_|",
+      "count": 1,
+      "phenomena": [
+        {
+          "id": "changeling",
+          "name": "Changeling",
+          "regions": []
+        }
+      ]
+    },
+    "of_urban_legend—one_rooted_in_verifiable_fact_but_heavily_embellished_through_oral_tradition._folklorists_classify_such_legends_as:": {
+      "name": "of_urban_legend—one_rooted_in_verifiable_fact_but_heavily_embellished_through_oral_tradition._folklorists_classify_such_legends_as:",
+      "count": 1,
+      "phenomena": [
+        {
+          "id": "charlie-no-face",
+          "name": "Charlie No-Face: The Green Man of Pennsylvania",
+          "regions": []
+        }
+      ]
+    },
+    "conspiracy_theory": {
+      "name": "conspiracy_theory",
+      "count": 7,
+      "phenomena": [
+        {
+          "id": "chemtrails",
+          "name": "Chemtrails",
+          "regions": []
+        },
+        {
+          "id": "flat-earth",
+          "name": "Flat Earth",
+          "regions": []
+        },
+        {
+          "id": "haarp",
+          "name": "HAARP - High-frequency Active Auroral Research Program Conspiracy Theories",
+          "regions": []
+        },
+        {
+          "id": "hollow-earth",
+          "name": "Hollow Earth",
+          "regions": []
+        },
+        {
+          "id": "illuminati",
+          "name": "Illuminati",
+          "regions": []
+        },
+        {
+          "id": "new-world-order",
+          "name": "New World Order",
+          "regions": []
+        },
+        {
+          "id": "reptilians",
+          "name": "Reptilians",
+          "regions": []
+        }
+      ]
+    },
+    "of_dangerous_swamp_dwellers_that_includes_mokele-mbembe_and_other_cryptids.": {
+      "name": "of_dangerous_swamp_dwellers_that_includes_mokele-mbembe_and_other_cryptids.",
+      "count": 1,
+      "phenomena": [
+        {
+          "id": "chipekwe",
+          "name": "Chipekwe",
+          "regions": []
+        }
+      ]
+    },
+    "|_general_category_of_animated_objects_|": {
+      "name": "|_general_category_of_animated_objects_|",
+      "count": 2,
+      "phenomena": [
+        {
+          "id": "chochinobake",
+          "name": "Chochinobake (提灯お化け)",
+          "regions": []
+        },
+        {
+          "id": "kasa-obake",
+          "name": "Kasa-obake (傘お化け)",
+          "regions": []
+        }
+      ]
+    },
+    "|_cryptid_|": {
+      "name": "|_cryptid_|",
+      "count": 2,
+      "phenomena": [
+        {
+          "id": "chupacabra",
+          "name": "Chupacabra",
+          "regions": []
+        },
+        {
+          "id": "dover-demon",
+          "name": "Dover Demon",
+          "regions": []
+        }
+      ]
+    },
+    "|_broader_irish_fairy_folk_|": {
+      "name": "|_broader_irish_fairy_folk_|",
+      "count": 2,
+      "phenomena": [
+        {
+          "id": "clurichaun",
+          "name": "Clurichaun",
+          "regions": []
+        },
+        {
+          "id": "leprechaun",
+          "name": "Leprechaun",
+          "regions": []
+        }
+      ]
+    },
+    "psychic": {
+      "name": "psychic",
+      "count": 1,
+      "phenomena": [
+        {
+          "id": "crisis-apparition",
+          "name": "Crisis Apparition",
+          "regions": []
+        }
+      ]
+    },
+    "urban_legend": {
+      "name": "urban_legend",
+      "count": 10,
+      "phenomena": [
+        {
+          "id": "cropsey",
+          "name": "Cropsey: The Staten Island Boogeyman",
+          "regions": []
+        },
+        {
+          "id": "gremlin",
+          "name": "Gremlin",
+          "regions": []
+        },
+        {
+          "id": "hookman",
+          "name": "The Hookman: Classic American Urban Legend",
+          "regions": []
+        },
+        {
+          "id": "kidney-thieves",
+          "name": "Kidney Thieves Urban Legend",
+          "regions": []
+        },
+        {
+          "id": "kuchisake-onna",
+          "name": "Kuchisake-onna",
+          "regions": []
+        },
+        {
+          "id": "melon-heads",
+          "name": "Melon Heads",
+          "regions": []
+        },
+        {
+          "id": "spring-heeled-jack",
+          "name": "Spring-Heeled Jack",
+          "regions": []
+        },
+        {
+          "id": "time-traveler-john-titor",
+          "regions": []
+        },
+        {
+          "id": "urban-legends",
+          "name": "Urban Legends",
+          "regions": []
+        },
+        {
+          "id": "vanishing-hitchhiker",
+          "name": "Vanishing Hitchhiker",
+          "regions": []
+        }
+      ]
+    },
+    "archaeological_fraud": {
+      "name": "archaeological_fraud",
+      "count": 1,
+      "phenomena": [
+        {
+          "id": "crystal-skulls",
+          "name": "Crystal Skulls",
+          "regions": []
+        }
+      ]
+    },
+    "legend": {
+      "name": "legend",
+      "count": 1,
+      "phenomena": [
+        {
+          "id": "curse-of-the-pharaohs",
+          "name": "Curse of the Pharaohs",
+          "regions": []
+        }
+      ]
+    },
+    "conspiracy_theory_/_location": {
+      "name": "conspiracy_theory_/_location",
+      "count": 1,
+      "phenomena": [
+        {
+          "id": "denver-airport",
+          "name": "Denver International Airport Conspiracy Theories",
+          "regions": []
+        }
+      ]
+    },
+    "that_celebrates_korean_animistic_heritage_while_teaching_important_lessons_about_waste,_respect,_and_the_interconnection_of_material_and_spiritual_worlds.": {
+      "name": "that_celebrates_korean_animistic_heritage_while_teaching_important_lessons_about_waste,_respect,_and_the_interconnection_of_material_and_spiritual_worlds.",
+      "count": 1,
+      "phenomena": [
+        {
+          "id": "dokkaebi",
+          "name": "Dokkaebi (도깨비)",
+          "regions": []
+        }
+      ]
+    },
+    "cryptid/mythological_creature": {
+      "name": "cryptid/mythological_creature",
+      "count": 2,
+      "phenomena": [
+        {
+          "id": "dragon",
+          "name": "Dragon",
+          "regions": []
+        },
+        {
+          "id": "unicorn",
+          "name": "Unicorn",
+          "regions": []
+        }
+      ]
+    },
+    "hoax": {
+      "name": "hoax",
+      "count": 1,
+      "phenomena": [
+        {
+          "id": "drop-bear",
+          "name": "Drop Bear",
+          "regions": []
+        }
+      ]
+    },
+    "iii\"—the_most_difficult_classification_in_soviet_mountaineering._all_participants_were_experienced_outdoor_enthusiasts,_with_igor_dyatlov,_a_23-year-old_radio_engineering_student,_as_the_expedition_leader.": {
+      "name": "iii\"—the_most_difficult_classification_in_soviet_mountaineering._all_participants_were_experienced_outdoor_enthusiasts,_with_igor_dyatlov,_a_23-year-old_radio_engineering_student,_as_the_expedition_leader.",
+      "count": 1,
+      "phenomena": [
+        {
+          "id": "dyatlov-pass",
+          "name": "Dyatlov Pass Incident",
+          "regions": []
+        }
+      ]
+    },
+    "|_broader_celtic_water_horse_spirits_|": {
+      "name": "|_broader_celtic_water_horse_spirits_|",
+      "count": 1,
+      "phenomena": [
+        {
+          "id": "each-uisge",
+          "name": "Each-Uisge",
+          "regions": []
+        }
+      ]
+    },
+    "archaeological_mystery": {
+      "name": "archaeological_mystery",
+      "count": 1,
+      "phenomena": [
+        {
+          "id": "easter-island",
+          "regions": []
+        }
+      ]
+    },
+    "entity_cryptid": {
+      "name": "entity_cryptid",
+      "count": 1,
+      "phenomena": [
+        {
+          "id": "ebu-gogo",
+          "name": "Ebu Gogo",
+          "regions": []
+        }
+      ]
+    },
+    "ghost_/_entity_spirit": {
+      "name": "ghost_/_entity_spirit",
+      "count": 1,
+      "phenomena": [
+        {
+          "id": "el-silbon",
+          "name": "El Silbón",
+          "regions": []
+        }
+      ]
+    },
+    "for_multiple_different_phenomena—some_genuine_unknown_animals,_some_misidentifications,_some_pure_folklore,_some_hoaxes—all_labeled_together.": {
+      "name": "for_multiple_different_phenomena—some_genuine_unknown_animals,_some_misidentifications,_some_pure_folklore,_some_hoaxes—all_labeled_together.",
+      "count": 1,
+      "phenomena": [
+        {
+          "id": "el-sisimite",
+          "name": "El Sisimite: The Central American Forest Giant",
+          "regions": []
+        }
+      ]
+    },
+    "psychic_phenomena": {
+      "name": "psychic_phenomena",
+      "count": 6,
+      "phenomena": [
+        {
+          "id": "electronic-voice-phenomena",
+          "name": "Electronic Voice Phenomena (EVP)",
+          "regions": []
+        },
+        {
+          "id": "exorcism",
+          "name": "Exorcism",
+          "regions": []
+        },
+        {
+          "id": "possession",
+          "name": "Possession",
+          "regions": []
+        },
+        {
+          "id": "precognition",
+          "name": "Precognition",
+          "regions": []
+        },
+        {
+          "id": "psychic-phenomena",
+          "name": "Psychic Phenomena",
+          "regions": []
+        },
+        {
+          "id": "telepathy",
+          "name": "Telepathy",
+          "regions": []
+        }
+      ]
+    },
+    "shapeshifter": {
+      "name": "shapeshifter",
+      "count": 9,
+      "phenomena": [
+        {
+          "id": "encantado",
+          "name": "Encantado",
+          "regions": []
+        },
+        {
+          "id": "fox-sister",
+          "name": "Fox Sister (여우 누이/狐姐)",
+          "regions": []
+        },
+        {
+          "id": "kelpie",
+          "name": "Kelpie",
+          "regions": []
+        },
+        {
+          "id": "lagahoo",
+          "name": "Lagahoo",
+          "regions": []
+        },
+        {
+          "id": "loup-garou",
+          "name": "Loup-Garou",
+          "regions": []
+        },
+        {
+          "id": "pee-sua-samut",
+          "name": "Pee Sua Samut",
+          "regions": []
+        },
+        {
+          "id": "selkie",
+          "name": "Selkie",
+          "regions": []
+        },
+        {
+          "id": "skinwalkers",
+          "name": "Skinwalkers (Yee Naaldlooshii)",
+          "regions": []
+        },
+        {
+          "id": "werewolves",
+          "name": "Werewolves (Lycanthropy)",
+          "regions": []
+        }
+      ]
+    },
+    "|_broader_category_of_fae_beings_|": {
+      "name": "|_broader_category_of_fae_beings_|",
+      "count": 1,
+      "phenomena": [
+        {
+          "id": "erlking",
+          "name": "Erlking",
+          "regions": []
+        }
+      ]
+    },
+    "cryptid/ufo_uap": {
+      "name": "cryptid/ufo_uap",
+      "count": 1,
+      "phenomena": [
+        {
+          "id": "flatwoods-monster",
+          "name": "Flatwoods Monster",
+          "regions": []
+        }
+      ]
+    },
+    "ufo/uap": {
+      "name": "ufo/uap",
+      "count": 1,
+      "phenomena": [
+        {
+          "id": "foo-fighters",
+          "name": "Foo Fighters",
+          "regions": []
+        }
+      ]
+    },
+    "|_demon_hag_yokai_|": {
+      "name": "|_demon_hag_yokai_|",
+      "count": 1,
+      "phenomena": [
+        {
+          "id": "futakuchi-onna",
+          "name": "Futakuchi-onna",
+          "regions": []
+        }
+      ]
+    },
+    "|_ghost_haunting_|": {
+      "name": "|_ghost_haunting_|",
+      "count": 1,
+      "phenomena": [
+        {
+          "id": "ghosts",
+          "name": "Ghosts & Hauntings",
+          "regions": []
+        }
+      ]
+    },
+    "of_smokeless_fire_beings": {
+      "name": "of_smokeless_fire_beings",
+      "count": 1,
+      "phenomena": [
+        {
+          "id": "ghul",
+          "name": "Ghul",
+          "regions": []
+        }
+      ]
+    },
+    "sacred_site": {
+      "name": "sacred_site",
+      "count": 3,
+      "phenomena": [
+        {
+          "id": "glastonbury-tor",
+          "name": "Glastonbury Tor",
+          "regions": []
+        },
+        {
+          "id": "mount-shasta",
+          "name": "Mount Shasta",
+          "regions": []
+        },
+        {
+          "id": "sedona-vortexes",
+          "name": "Sedona Vortexes",
+          "regions": []
+        }
+      ]
+    },
+    "cryptid_(marine_mystery)": {
+      "name": "cryptid_(marine_mystery)",
+      "count": 1,
+      "phenomena": [
+        {
+          "id": "globster",
+          "name": "Globster",
+          "regions": []
+        }
+      ]
+    },
+    "cryptid/folklore": {
+      "name": "cryptid/folklore",
+      "count": 1,
+      "phenomena": [
+        {
+          "id": "goatman",
+          "name": "Goatman",
+          "regions": []
+        }
+      ]
+    },
+    "urban_legend_/_meta_narrative": {
+      "name": "urban_legend_/_meta_narrative",
+      "count": 1,
+      "phenomena": [
+        {
+          "id": "gozu",
+          "name": "Gozu (牛頭)",
+          "regions": []
+        }
+      ]
+    },
+    "ghost": {
+      "name": "ghost",
+      "count": 5,
+      "phenomena": [
+        {
+          "id": "grey-lady",
+          "name": "Grey Lady",
+          "regions": []
+        },
+        {
+          "id": "hantu-bungkus",
+          "name": "Hantu Bungkus",
+          "regions": []
+        },
+        {
+          "id": "phantom-armies",
+          "name": "Phantom Armies",
+          "regions": []
+        },
+        {
+          "id": "screaming-skull",
+          "name": "Screaming Skull",
+          "regions": []
+        },
+        {
+          "id": "white-lady",
+          "name": "White Lady",
+          "regions": []
+        }
+      ]
+    },
+    "|_greys_subset_of_alien_encounters_|": {
+      "name": "|_greys_subset_of_alien_encounters_|",
+      "count": 1,
+      "phenomena": [
+        {
+          "id": "greys",
+          "name": "Grey Aliens (Greys)",
+          "regions": []
+        }
+      ]
+    },
+    "elephantopython_hypotheticus_(informal_designation)": {
+      "name": "elephantopython_hypotheticus_(informal_designation)",
+      "count": 1,
+      "phenomena": [
+        {
+          "id": "grootslang",
+          "name": "Grootslang",
+          "regions": []
+        }
+      ]
+    },
+    "of_origin_stories:": {
+      "name": "of_origin_stories:",
+      "count": 1,
+      "phenomena": [
+        {
+          "id": "hanako-san",
+          "name": "Hanako-san (花子さん)",
+          "regions": []
+        }
+      ]
+    },
+    "of_hantu_(spirits_or_ghosts),_specifically_those_associated_with_water_and_the_sea._malaysian_folklore_recognizes_numerous_types_of_hantu,_each_with_specific_characteristics,_habitats,_and_behaviors._water-related_hantu_are_particularly_significant_in_a_nation_where_fishing_and_maritime_trade_have_been_central_to_culture_and_economy_for_millennia._the_hantu_jerangan_specifically_embodies_the_treacherous_nature_of_fishing—an_occupation_that,": {
+      "name": "of_hantu_(spirits_or_ghosts),_specifically_those_associated_with_water_and_the_sea._malaysian_folklore_recognizes_numerous_types_of_hantu,_each_with_specific_characteristics,_habitats,_and_behaviors._water-related_hantu_are_particularly_significant_in_a_nation_where_fishing_and_maritime_trade_have_been_central_to_culture_and_economy_for_millennia._the_hantu_jerangan_specifically_embodies_the_treacherous_nature_of_fishing—an_occupation_that,",
+      "count": 1,
+      "phenomena": [
+        {
+          "id": "hantu-jerangan",
+          "name": "Hantu Jerangan: The Fishing Net Ghost of Malaysia",
+          "regions": []
+        }
+      ]
+    },
+    "|_broad_category_of_servant_spirits_across_cultures_|": {
+      "name": "|_broad_category_of_servant_spirits_across_cultures_|",
+      "count": 1,
+      "phenomena": [
+        {
+          "id": "hantu-raya",
+          "name": "Hantu Raya",
+          "regions": []
+        }
+      ]
+    },
+    "internet_urban_legend": {
+      "name": "internet_urban_legend",
+      "count": 1,
+      "phenomena": [
+        {
+          "id": "hasshaku-sama",
+          "name": "Hasshaku-sama (八尺様)",
+          "regions": []
+        }
+      ]
+    },
+    "ghost/urban_legend": {
+      "name": "ghost/urban_legend",
+      "count": 1,
+      "phenomena": [
+        {
+          "id": "headless-horseman",
+          "name": "Headless Horseman",
+          "regions": []
+        }
+      ]
+    },
+    "|_modern_folklore_and_legend_cycles_|": {
+      "name": "|_modern_folklore_and_legend_cycles_|",
+      "count": 1,
+      "phenomena": [
+        {
+          "id": "helltown-ohio",
+          "name": "Helltown, Ohio",
+          "regions": []
+        }
+      ]
+    },
+    "|_malevolent_goblin_(hobgoblin_is_friendly_variant)_|": {
+      "name": "|_malevolent_goblin_(hobgoblin_is_friendly_variant)_|",
+      "count": 1,
+      "phenomena": [
+        {
+          "id": "hobgoblin",
+          "name": "Hobgoblin",
+          "regions": []
+        }
+      ]
+    },
+    "|_location_(haunted_forest)_|": {
+      "name": "|_location_(haunted_forest)_|",
+      "count": 1,
+      "phenomena": [
+        {
+          "id": "hoia-baciu-forest",
+          "name": "Hoia-Baciu Forest",
+          "regions": []
+        }
+      ]
+    },
+    "|_ufo_uap_/_cryptid_|": {
+      "name": "|_ufo_uap_/_cryptid_|",
+      "count": 1,
+      "phenomena": [
+        {
+          "id": "hopkinsville-goblins",
+          "name": "Hopkinsville Goblins",
+          "regions": []
+        }
+      ]
+    },
+    "|_spirit_|": {
+      "name": "|_spirit_|",
+      "count": 1,
+      "phenomena": [
+        {
+          "id": "huli-jing",
+          "name": "Huli Jing (狐狸精)",
+          "regions": []
+        }
+      ]
+    },
+    "female_oni_warrior": {
+      "name": "female_oni_warrior",
+      "count": 1,
+      "phenomena": [
+        {
+          "id": "ibaraki-doji",
+          "name": "Ibaraki-dōji (茨木童子)",
+          "regions": []
+        }
+      ]
+    },
+    "|_alternative_term_for_jinn_|": {
+      "name": "|_alternative_term_for_jinn_|",
+      "count": 1,
+      "phenomena": [
+        {
+          "id": "ifrit",
+          "name": "Ifrit",
+          "regions": []
+        }
+      ]
+    },
+    "demon_angel_/_fae_folklore": {
+      "name": "demon_angel_/_fae_folklore",
+      "count": 1,
+      "phenomena": [
+        {
+          "id": "imp",
+          "name": "Imp",
+          "regions": []
+        }
+      ]
+    },
+    "|": {
+      "name": "|",
+      "count": 2,
+      "phenomena": [
+        {
+          "id": "ittan-momen",
+          "name": "Ittan-momen (一反木綿)",
+          "regions": []
+        },
+        {
+          "id": "kappa",
+          "name": "Kappa",
+          "regions": []
+        }
+      ]
+    },
+    "|_flying_african_witch_head_from_plantation_era_|": {
+      "name": "|_flying_african_witch_head_from_plantation_era_|",
+      "count": 1,
+      "phenomena": [
+        {
+          "id": "jumbie",
+          "name": "Jumbie",
+          "regions": []
+        }
+      ]
+    },
+    "|_global_shapeshifting_beings_and_traditions_|": {
+      "name": "|_global_shapeshifting_beings_and_traditions_|",
+      "count": 1,
+      "phenomena": [
+        {
+          "id": "kitsune",
+          "name": "Kitsune",
+          "regions": []
+        }
+      ]
+    },
+    "entity_vampire_ghost": {
+      "name": "entity_vampire_ghost",
+      "count": 1,
+      "phenomena": [
+        {
+          "id": "krasue",
+          "name": "Krasue",
+          "regions": []
+        }
+      ]
+    },
+    "perception-based_anomalous_phenomenon": {
+      "name": "perception-based_anomalous_phenomenon",
+      "count": 1,
+      "phenomena": [
+        {
+          "id": "kunekune",
+          "name": "Kunekune (くねくね)",
+          "regions": []
+        }
+      ]
+    },
+    "supernatural_entity": {
+      "name": "supernatural_entity",
+      "count": 2,
+      "phenomena": [
+        {
+          "id": "langsuir",
+          "name": "Langsuir",
+          "regions": []
+        },
+        {
+          "id": "toyol",
+          "name": "Toyol",
+          "regions": []
+        }
+      ]
+    },
+    "spirit_/_supernatural": {
+      "name": "spirit_/_supernatural",
+      "count": 1,
+      "phenomena": [
+        {
+          "id": "leak",
+          "name": "Leak - The Balinese Witch-Spirit",
+          "regions": []
+        }
+      ]
+    },
+    "pseudoarchaeology": {
+      "name": "pseudoarchaeology",
+      "count": 1,
+      "phenomena": [
+        {
+          "id": "ley-lines",
+          "name": "Ley Lines",
+          "regions": []
+        }
+      ]
+    },
+    "european_dragon": {
+      "name": "european_dragon",
+      "count": 1,
+      "phenomena": [
+        {
+          "id": "lindworm",
+          "name": "Lindworm",
+          "regions": []
+        }
+      ]
+    },
+    "|_broader_reptilian_humanoid_phenomena_|": {
+      "name": "|_broader_reptilian_humanoid_phenomena_|",
+      "count": 1,
+      "phenomena": [
+        {
+          "id": "lizard-man-scape-ore",
+          "name": "Lizard Man of Scape Ore Swamp",
+          "regions": []
+        }
+      ]
+    },
+    "sea_cryptid": {
+      "name": "sea_cryptid",
+      "count": 1,
+      "phenomena": [
+        {
+          "id": "lusca",
+          "name": "Lusca",
+          "regions": []
+        }
+      ]
+    },
+    "of_filipino_shapeshifting_creatures_|": {
+      "name": "of_filipino_shapeshifting_creatures_|",
+      "count": 1,
+      "phenomena": [
+        {
+          "id": "manananggal",
+          "name": "Manananggal",
+          "regions": []
+        }
+      ]
+    },
+    "|_individual_false_memories_(studied_since_1970s)_|": {
+      "name": "|_individual_false_memories_(studied_since_1970s)_|",
+      "count": 1,
+      "phenomena": [
+        {
+          "id": "mandela-effect",
+          "name": "Mandela Effect",
+          "regions": []
+        }
+      ]
+    },
+    "|_alternative_spelling/broader_category_|": {
+      "name": "|_alternative_spelling/broader_category_|",
+      "count": 1,
+      "phenomena": [
+        {
+          "id": "marid",
+          "name": "Marid",
+          "regions": []
+        }
+      ]
+    },
+    "3:_most_likely_explanation": {
+      "name": "3:_most_likely_explanation",
+      "count": 1,
+      "phenomena": [
+        {
+          "id": "mary-celeste",
+          "name": "The Mary Celeste: The Abandoned Ship Mystery",
+          "regions": []
+        }
+      ]
+    },
+    "of_semi-divine_beings": {
+      "name": "of_semi-divine_beings",
+      "count": 1,
+      "phenomena": [
+        {
+          "id": "maui",
+          "name": "Māui",
+          "regions": []
+        }
+      ]
+    },
+    "|_fae_folklore_|": {
+      "name": "|_fae_folklore_|",
+      "count": 3,
+      "phenomena": [
+        {
+          "id": "menehune",
+          "name": "Menehune",
+          "regions": []
+        },
+        {
+          "id": "patupaiarehe",
+          "name": "Patupaiarehe",
+          "regions": []
+        },
+        {
+          "id": "trolls",
+          "name": "Trolls",
+          "regions": []
+        }
+      ]
+    },
+    "|_mythological_creature_|": {
+      "name": "|_mythological_creature_|",
+      "count": 3,
+      "phenomena": [
+        {
+          "id": "mo-o",
+          "name": "Mo'o",
+          "regions": []
+        },
+        {
+          "id": "nian",
+          "name": "Nian (年獸)",
+          "regions": []
+        },
+        {
+          "id": "taniwha",
+          "name": "Taniwha",
+          "regions": []
+        }
+      ]
+    },
+    "encompasses_diverse_physical_forms._however,_certain_common_characteristics_appear_across_many_accounts:": {
+      "name": "encompasses_diverse_physical_forms._however,_certain_common_characteristics_appear_across_many_accounts:",
+      "count": 1,
+      "phenomena": [
+        {
+          "id": "mogwai",
+          "name": "Mogwai (魔怪)",
+          "regions": []
+        }
+      ]
+    },
+    "|_hoax_|": {
+      "name": "|_hoax_|",
+      "count": 1,
+      "phenomena": [
+        {
+          "id": "momo-challenge",
+          "name": "Momo Challenge",
+          "regions": []
+        }
+      ]
+    },
+    "|_other_unknown_creatures_reported_from_desert_regions_|": {
+      "name": "|_other_unknown_creatures_reported_from_desert_regions_|",
+      "count": 1,
+      "phenomena": [
+        {
+          "id": "mongolian-death-worm",
+          "name": "Mongolian Death Worm",
+          "regions": []
+        }
+      ]
+    },
+    "|_conspiracy_theory_|": {
+      "name": "|_conspiracy_theory_|",
+      "count": 1,
+      "phenomena": [
+        {
+          "id": "montauk-project",
+          "name": "Montauk Project",
+          "regions": []
+        }
+      ]
+    },
+    "conspiracy_theory_(debunked)": {
+      "name": "conspiracy_theory_(debunked)",
+      "count": 1,
+      "phenomena": [
+        {
+          "id": "moon-landing-hoax",
+          "name": "Moon Landing Hoax Conspiracy Theory - DEBUNKED",
+          "regions": []
+        }
+      ]
+    },
+    "literary_work": {
+      "name": "literary_work",
+      "count": 1,
+      "phenomena": [
+        {
+          "id": "mothman-prophecies",
+          "regions": []
+        }
+      ]
+    },
+    "|_anomaly/ufo_uap_|": {
+      "name": "|_anomaly/ufo_uap_|",
+      "count": 1,
+      "phenomena": [
+        {
+          "id": "mystery-airships",
+          "name": "Mystery Airships",
+          "regions": []
+        }
+      ]
+    },
+    "european_undead": {
+      "name": "european_undead",
+      "count": 1,
+      "phenomena": [
+        {
+          "id": "nachzehrer",
+          "name": "Nachzehrer",
+          "regions": []
+        }
+      ]
+    },
+    "|_ghosts_of_violent/untimely_death_|": {
+      "name": "|_ghosts_of_violent/untimely_death_|",
+      "count": 1,
+      "phenomena": [
+        {
+          "id": "nang-tani",
+          "name": "Nang Tani",
+          "regions": []
+        }
+      ]
+    },
+    "ancient_geoglyphs": {
+      "name": "ancient_geoglyphs",
+      "count": 1,
+      "phenomena": [
+        {
+          "id": "nazca-lines",
+          "name": "Nazca Lines",
+          "regions": []
+        }
+      ]
+    },
+    "psychic_phenomena_/_consciousness": {
+      "name": "psychic_phenomena_/_consciousness",
+      "count": 2,
+      "phenomena": [
+        {
+          "id": "near-death-experiences",
+          "name": "Near-Death Experiences",
+          "regions": []
+        },
+        {
+          "id": "out-of-body-experiences",
+          "name": "Out-of-Body Experiences",
+          "regions": []
+        }
+      ]
+    },
+    "|_broader_spirit_category_|": {
+      "name": "|_broader_spirit_category_|",
+      "count": 2,
+      "phenomena": [
+        {
+          "id": "nightmarchers",
+          "name": "Night Marchers",
+          "regions": []
+        },
+        {
+          "id": "wild-hunt",
+          "name": "Wild Hunt",
+          "regions": []
+        }
+      ]
+    },
+    "|_general_chinese_fox_spirits;_nine-tailed_fox_is_the_most_powerful_variant_|": {
+      "name": "|_general_chinese_fox_spirits;_nine-tailed_fox_is_the_most_powerful_variant_|",
+      "count": 1,
+      "phenomena": [
+        {
+          "id": "nine-tailed-fox",
+          "name": "Nine-Tailed Fox",
+          "regions": []
+        }
+      ]
+    },
+    "modern_cryptid": {
+      "name": "modern_cryptid",
+      "count": 1,
+      "phenomena": [
+        {
+          "id": "not-deer",
+          "name": "Not Deer",
+          "regions": []
+        }
+      ]
+    },
+    "|_broader_category_of_japanese_supernatural_entities_|": {
+      "name": "|_broader_category_of_japanese_supernatural_entities_|",
+      "count": 1,
+      "phenomena": [
+        {
+          "id": "nurikabe",
+          "name": "Nurikabe",
+          "regions": []
+        }
+      ]
+    },
+    "historical_mystery": {
+      "name": "historical_mystery",
+      "count": 2,
+      "phenomena": [
+        {
+          "id": "oak-island",
+          "name": "Oak Island Money Pit",
+          "regions": []
+        },
+        {
+          "id": "tunguska-event",
+          "name": "Tunguska Event",
+          "regions": []
+        }
+      ]
+    },
+    "of_japanese_supernatural_entities_|": {
+      "name": "of_japanese_supernatural_entities_|",
+      "count": 1,
+      "phenomena": [
+        {
+          "id": "oni",
+          "name": "Oni",
+          "regions": []
+        }
+      ]
+    },
+    "of_ghosts_and_spirits_in_malay_culture": {
+      "name": "of_ghosts_and_spirits_in_malay_culture",
+      "count": 1,
+      "phenomena": [
+        {
+          "id": "orang-bati",
+          "name": "Orang Bati",
+          "regions": []
+        }
+      ]
+    },
+    "urban_legend_/_moral_panic": {
+      "name": "urban_legend_/_moral_panic",
+      "count": 1,
+      "phenomena": [
+        {
+          "id": "orang-minyak",
+          "name": "Orang Minyak (The Oily Man)",
+          "regions": []
+        }
+      ]
+    },
+    "|_islamic_spirit_classification_|": {
+      "name": "|_islamic_spirit_classification_|",
+      "count": 1,
+      "phenomena": [
+        {
+          "id": "pelesit",
+          "name": "Pelesit",
+          "regions": []
+        }
+      ]
+    },
+    "|_conspiracy_theory_/_urban_legend_|": {
+      "name": "|_conspiracy_theory_/_urban_legend_|",
+      "count": 1,
+      "phenomena": [
+        {
+          "id": "philadelphia-experiment",
+          "name": "Philadelphia Experiment",
+          "regions": []
+        }
+      ]
+    },
+    "|_anomalous_artifact_|": {
+      "name": "|_anomalous_artifact_|",
+      "count": 1,
+      "phenomena": [
+        {
+          "id": "piri-reis-map",
+          "name": "Piri Reis Map",
+          "regions": []
+        }
+      ]
+    },
+    "hindu_mythology": {
+      "name": "hindu_mythology",
+      "count": 1,
+      "phenomena": [
+        {
+          "id": "pishacha",
+          "name": "Pishacha",
+          "regions": []
+        }
+      ]
+    },
+    "of_modern_pocong_stories": {
+      "name": "of_modern_pocong_stories",
+      "count": 1,
+      "phenomena": [
+        {
+          "id": "pocong",
+          "name": "Pocong - The Shrouded Ghost of Indonesian Folklore",
+          "regions": []
+        }
+      ]
+    },
+    "|_poltergeists_traditionally_classified_as_haunting_type_|": {
+      "name": "|_poltergeists_traditionally_classified_as_haunting_type_|",
+      "count": 1,
+      "phenomena": [
+        {
+          "id": "poltergeist",
+          "name": "Poltergeist",
+          "regions": []
+        }
+      ]
+    },
+    "of_field_demons": {
+      "name": "of_field_demons",
+      "count": 1,
+      "phenomena": [
+        {
+          "id": "poludnitsa",
+          "name": "Poludnitsa - The Noon Demon",
+          "regions": []
+        }
+      ]
+    },
+    "undead_ghost": {
+      "name": "undead_ghost",
+      "count": 1,
+      "phenomena": [
+        {
+          "id": "pontianak",
+          "name": "Pontianak",
+          "regions": []
+        }
+      ]
+    },
+    "cryptid_/_urban_legend": {
+      "name": "cryptid_/_urban_legend",
+      "count": 1,
+      "phenomena": [
+        {
+          "id": "pope-lick-monster",
+          "name": "Pope Lick Monster",
+          "regions": []
+        }
+      ]
+    },
+    "entity_spirit_/_demon_angel": {
+      "name": "entity_spirit_/_demon_angel",
+      "count": 1,
+      "phenomena": [
+        {
+          "id": "popobawa",
+          "name": "Popobawa",
+          "regions": []
+        }
+      ]
+    },
+    "|_broader_category_of_claimed_paranormal_mental_abilities_|": {
+      "name": "|_broader_category_of_claimed_paranormal_mental_abilities_|",
+      "count": 2,
+      "phenomena": [
+        {
+          "id": "psychometry",
+          "name": "Psychometry",
+          "regions": []
+        },
+        {
+          "id": "remote-viewing",
+          "name": "Remote Viewing",
+          "regions": []
+        }
+      ]
+    },
+    "|_broader_category_of_malevolent_supernatural_beings_|": {
+      "name": "|_broader_category_of_malevolent_supernatural_beings_|",
+      "count": 1,
+      "phenomena": [
+        {
+          "id": "rakshasa",
+          "name": "Rakshasa",
+          "regions": []
+        }
+      ]
+    },
+    "|_count_|_details_|": {
+      "name": "|_count_|_details_|",
+      "count": 1,
+      "phenomena": [
+        {
+          "id": "roanoke-colony",
+          "name": "Roanoke Colony (The Lost Colony)",
+          "regions": []
+        }
+      ]
+    },
+    "|_ufo_uap_/_conspiracy_theory_|": {
+      "name": "|_ufo_uap_/_conspiracy_theory_|",
+      "count": 1,
+      "phenomena": [
+        {
+          "id": "roswell-incident",
+          "name": "Roswell Incident",
+          "regions": []
+        }
+      ]
+    },
+    "internet_folklore": {
+      "name": "internet_folklore",
+      "count": 2,
+      "phenomena": [
+        {
+          "id": "russian-sleep-experiment",
+          "name": "The Russian Sleep Experiment",
+          "regions": []
+        },
+        {
+          "id": "smile-dog",
+          "name": "Smile Dog",
+          "regions": []
+        }
+      ]
+    },
+    "of_reports_involving_dark_humanoid_figures_seen_in_peripheral_vision_that_vanish_when_looked_at_directly._witnesses_describe_seeing_movement_or_presence_at_the_edge_of_their_vision,_turning_to_look,_and_seeing_a_shadow_figure_that_immediately_disappears_or_moves_rapidly_away.": {
+      "name": "of_reports_involving_dark_humanoid_figures_seen_in_peripheral_vision_that_vanish_when_looked_at_directly._witnesses_describe_seeing_movement_or_presence_at_the_edge_of_their_vision,_turning_to_look,_and_seeing_a_shadow_figure_that_immediately_disappears_or_moves_rapidly_away.",
+      "count": 1,
+      "phenomena": [
+        {
+          "id": "shadow-people",
+          "name": "Shadow People",
+          "regions": []
+        }
+      ]
+    },
+    "|_internet_folklore_/_cryptid_|": {
+      "name": "|_internet_folklore_/_cryptid_|",
+      "count": 1,
+      "phenomena": [
+        {
+          "id": "sirenhead",
+          "name": "Sirenhead",
+          "regions": []
+        }
+      ]
+    },
+    "|_broader_category_of_digitally-native_legends_|": {
+      "name": "|_broader_category_of_digitally-native_legends_|",
+      "count": 1,
+      "phenomena": [
+        {
+          "id": "slenderman",
+          "name": "Slenderman",
+          "regions": []
+        }
+      ]
+    },
+    "|_cryptid_(fearsome_critter)_|": {
+      "name": "|_cryptid_(fearsome_critter)_|",
+      "count": 1,
+      "phenomena": [
+        {
+          "id": "slide-rock-bolter",
+          "name": "Slide-Rock Bolter",
+          "regions": []
+        }
+      ]
+    },
+    "archaeological_site": {
+      "name": "archaeological_site",
+      "count": 2,
+      "phenomena": [
+        {
+          "id": "stonehenge",
+          "regions": []
+        },
+        {
+          "id": "teotihuacan",
+          "regions": []
+        }
+      ]
+    },
+    "|_broader_vampire_mythology_|": {
+      "name": "|_broader_vampire_mythology_|",
+      "count": 1,
+      "phenomena": [
+        {
+          "id": "strigoi",
+          "name": "Strigoi",
+          "regions": []
+        }
+      ]
+    },
+    "in_vampire_folklore:_a_living_vampire_whose_demonic_nature_is_integral_from_birth_rather_than_acquired_through_death._this_creature_bridges_the_gap_between_human_and_monster,_never_fully_belonging_to_either_world.": {
+      "name": "in_vampire_folklore:_a_living_vampire_whose_demonic_nature_is_integral_from_birth_rather_than_acquired_through_death._this_creature_bridges_the_gap_between_human_and_monster,_never_fully_belonging_to_either_world.",
+      "count": 1,
+      "phenomena": [
+        {
+          "id": "strzyga",
+          "name": "Strzyga - The Polish Demon-Vampire",
+          "regions": []
+        }
+      ]
+    },
+    "|_general_demonic_entities_|": {
+      "name": "|_general_demonic_entities_|",
+      "count": 1,
+      "phenomena": [
+        {
+          "id": "succubus-incubus",
+          "name": "Succubus/Incubus",
+          "regions": []
+        }
+      ]
+    },
+    "demon": {
+      "name": "demon",
+      "count": 1,
+      "phenomena": [
+        {
+          "id": "supay",
+          "name": "Supay: The Andean Lord of Death",
+          "regions": []
+        }
+      ]
+    },
+    "|_count_|": {
+      "name": "|_count_|",
+      "count": 1,
+      "phenomena": [
+        {
+          "id": "superstition-mountains",
+          "name": "Superstition Mountains",
+          "regions": []
+        }
+      ]
+    },
+    "|_american_folklore_creatures_|": {
+      "name": "|_american_folklore_creatures_|",
+      "count": 1,
+      "phenomena": [
+        {
+          "id": "tailypo",
+          "name": "Tailypo",
+          "regions": []
+        }
+      ]
+    },
+    "nine-tailed_fox_(kyūbi_no_kitsune)": {
+      "name": "nine-tailed_fox_(kyūbi_no_kitsune)",
+      "count": 1,
+      "phenomena": [
+        {
+          "id": "tamamo-no-mae",
+          "name": "Tamamo-no-Mae (玉藻前)",
+          "regions": []
+        }
+      ]
+    },
+    "entity_spirit_/_cryptid": {
+      "name": "entity_spirit_/_cryptid",
+      "count": 1,
+      "phenomena": [
+        {
+          "id": "tokoloshe",
+          "name": "Tokoloshe",
+          "regions": []
+        }
+      ]
+    },
+    "|_water_spirits_in_japanese_folklore_|": {
+      "name": "|_water_spirits_in_japanese_folklore_|",
+      "count": 1,
+      "phenomena": [
+        {
+          "id": "tsukumogami",
+          "name": "Tsukumogami",
+          "regions": []
+        }
+      ]
+    },
+    "|_folklore_entity_|": {
+      "name": "|_folklore_entity_|",
+      "count": 1,
+      "phenomena": [
+        {
+          "id": "vampires",
+          "name": "Vampires",
+          "regions": []
+        }
+      ]
+    },
+    "historical_mystery_/_undeciphered_text": {
+      "name": "historical_mystery_/_undeciphered_text",
+      "count": 1,
+      "phenomena": [
+        {
+          "id": "voynich-manuscript",
+          "name": "Voynich Manuscript",
+          "regions": []
+        }
+      ]
+    },
+    "|_entity_spirit/demon_angel_|": {
+      "name": "|_entity_spirit/demon_angel_|",
+      "count": 2,
+      "phenomena": [
+        {
+          "id": "wendigo-cree",
+          "name": "Wendigo (Cree)",
+          "regions": []
+        },
+        {
+          "id": "windigo",
+          "name": "Windigo (Ojibwe)",
+          "regions": []
+        }
+      ]
+    },
+    "of_unexplained_lights": {
+      "name": "of_unexplained_lights",
+      "count": 1,
+      "phenomena": [
+        {
+          "id": "will-o-wisp",
+          "name": "Will-o'-Wisp",
+          "regions": []
+        }
+      ]
+    }
+  }
+}

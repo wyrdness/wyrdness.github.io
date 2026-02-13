@@ -1,0 +1,17 @@
+{
+  "id": "centaur",
+  "name": "Centaur",
+  "category": "mythological_creature",
+  "description": "- **Centaur** — From Ancient Greek Κένταυρος (Kéntauros), etymology debated, possibly \\\"bull-goader\\\" or pre-Greek origin",
+  "aliases": [],
+  "tags": [
+    "the-struggle-between-civilization-and-barbarism",
+    "reason-and-instinct."
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "Unknown",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

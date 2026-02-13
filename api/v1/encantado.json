@@ -1,0 +1,17 @@
+{
+  "id": "encantado",
+  "name": "Encantado",
+  "category": "shapeshifter",
+  "description": "The Encantado are shapeshifting beings from Brazilian Amazon folklore who live as dolphins (usually pink river dolphins) but transform into beautiful humans at night.",
+  "aliases": [],
+  "tags": [
+    "folklore",
+    "mythology"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "Unknown",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

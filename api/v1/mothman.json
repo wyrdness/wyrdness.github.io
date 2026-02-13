@@ -1,0 +1,17 @@
+{
+  "id": "mothman",
+  "name": "Mothman",
+  "category": "cryptid",
+  "description": "The Mothman is a cryptid that reportedly appeared in Point Pleasant, West Virginia and surrounding areas between November 1966 and December 1967.",
+  "aliases": [],
+  "tags": [
+    "folklore",
+    "mythology"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "Unknown",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

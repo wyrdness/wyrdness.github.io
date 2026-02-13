@@ -1,0 +1,16 @@
+{
+  "id": "nurarihyon",
+  "name": "Nurarihyon",
+  "category": "entity_spirit",
+  "description": "Nurarihyon is one of Japan's most enigmatic yokai, whose legend has evolved significantly over time.",
+  "aliases": [],
+  "tags": [
+    "&-interpretation"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "Unknown",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

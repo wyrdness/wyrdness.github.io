@@ -1,0 +1,16 @@
+{
+  "id": "pegasus",
+  "name": "Pegasus",
+  "category": "mythological_creature",
+  "description": "Pegasus is a divine winged horse in Greek mythology, born from the blood of the Gorgon Medusa when Perseus beheaded her.",
+  "aliases": [],
+  "tags": [
+    "source-of-poetic-inspiration"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "Unknown",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

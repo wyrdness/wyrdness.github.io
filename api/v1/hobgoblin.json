@@ -1,0 +1,17 @@
+{
+  "id": "hobgoblin",
+  "name": "Hobgoblin",
+  "category": "|_malevolent_goblin_(hobgoblin_is_friendly_variant)_|",
+  "description": "A hobgoblin is a variant of goblin from English folklore, distinguished by being **friendly or merely mischievous** rather than malevolent.",
+  "aliases": [],
+  "tags": [
+    "folklore",
+    "mythology"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "Unknown",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

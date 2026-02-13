@@ -1,0 +1,17 @@
+{
+  "id": "hessdalen-lights",
+  "name": "Hessdalen Lights",
+  "category": "atmospheric_phenomenon",
+  "description": "The Hessdalen Lights are unexplained light phenomena occurring in the Hessdalen valley of central Norway.",
+  "aliases": [],
+  "tags": [
+    "folklore",
+    "mythology"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "Unknown",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

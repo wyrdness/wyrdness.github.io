@@ -1,0 +1,17 @@
+{
+  "id": "billdad",
+  "name": "Billdad",
+  "category": "cryptid",
+  "description": "The Billdad is unusual among fearsome critters because it comes with an origin story.",
+  "aliases": [],
+  "tags": [
+    "folklore",
+    "mythology"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "Unknown",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

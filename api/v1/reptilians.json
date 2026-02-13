@@ -1,0 +1,17 @@
+{
+  "id": "reptilians",
+  "name": "Reptilians",
+  "category": "conspiracy_theory",
+  "description": "The Reptilian conspiracy theory alleges that reptilian humanoid aliens secretly control Earth and humanity.",
+  "aliases": [],
+  "tags": [
+    "folklore",
+    "mythology"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "Unknown",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

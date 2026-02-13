@@ -1,0 +1,17 @@
+{
+  "id": "imp",
+  "name": "Imp",
+  "category": "demon_angel_/_fae_folklore",
+  "description": "An imp is a small supernatural creature from European folklore with a dual nature depending on tradition.",
+  "aliases": [],
+  "tags": [
+    "folklore",
+    "mythology"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "Unknown",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

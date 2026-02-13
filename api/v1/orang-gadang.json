@@ -1,0 +1,17 @@
+{
+  "id": "orang-gadang",
+  "name": "Orang Gadang",
+  "category": "cryptid",
+  "description": "Indonesian giant humanoid cryptid reported in Sumatra's forests This phenomenon represents an important part of Indonesian folklore and cultural heritage, with documented accounts and traditions spanning generations.",
+  "aliases": [],
+  "tags": [
+    "folklore",
+    "mythology"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "| Indonesian |",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

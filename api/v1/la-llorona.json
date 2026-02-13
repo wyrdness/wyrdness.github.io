@@ -1,0 +1,17 @@
+{
+  "id": "la-llorona",
+  "name": "La Llorona",
+  "category": "ghost_haunting",
+  "description": "La Llorona (The Weeping Woman) is one of the most pervasive legends in Latin American folklore.",
+  "aliases": [],
+  "tags": [
+    "folklore",
+    "mythology"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "Unknown",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

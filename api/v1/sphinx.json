@@ -1,0 +1,19 @@
+{
+  "id": "sphinx",
+  "name": "Sphinx",
+  "category": "mythological_creature",
+  "description": "The sphinx is a legendary creature appearing in both Greek and Egyptian mythology with distinct characteristics in each tradition.",
+  "aliases": [],
+  "tags": [
+    "wisdom",
+    "guardianship",
+    "pharaonic-authority",
+    "eternal-protection"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "Unknown",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

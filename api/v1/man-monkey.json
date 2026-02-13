@@ -1,0 +1,17 @@
+{
+  "id": "man-monkey",
+  "name": "Man-Monkey - The Shropshire Canal Cryptid",
+  "category": "cryptid",
+  "description": "This phenomenon has been documented extensively across multiple time periods and continues to generate interest from researchers, folklorists, and investigators.",
+  "aliases": [],
+  "tags": [
+    "folklore",
+    "mythology"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "Unknown",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

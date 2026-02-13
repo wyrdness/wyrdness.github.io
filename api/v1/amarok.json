@@ -1,0 +1,16 @@
+{
+  "id": "amarok",
+  "name": "Amarok",
+  "category": "cryptid",
+  "description": "Amarok is a gigantic wolf from Inuit mythology that hunts alone, contrasting with normal wolves that hunt in packs.",
+  "aliases": [],
+  "tags": [
+    "&-themes"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "Unknown",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

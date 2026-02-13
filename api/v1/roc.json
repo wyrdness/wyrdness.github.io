@@ -1,0 +1,16 @@
+{
+  "id": "roc",
+  "name": "Roc (الرخ / Rukh)",
+  "category": "mythological_creature",
+  "description": "The Roc (Arabic: الرخ, romanized: al-Rukh; also spelled Rukh, Ruc, or Rokh) is a legendary giant bird of prey from Arabian and Persian mythology, most famously featured in the tales of *One Thousand and One Nights* (*Arabian Nights*).",
+  "aliases": [],
+  "tags": [
+    "and-meaning"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "Arabian/Persian",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

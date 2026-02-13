@@ -1,0 +1,17 @@
+{
+  "id": "leshy",
+  "name": "Leshy",
+  "category": "entity_spirit",
+  "description": "The Leshy is a male woodland spirit from Slavic folklore who acts as protector and ruler of the forest.",
+  "aliases": [],
+  "tags": [
+    "folklore",
+    "mythology"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "Unknown",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

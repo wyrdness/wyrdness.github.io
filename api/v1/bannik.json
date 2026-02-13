@@ -1,0 +1,17 @@
+{
+  "id": "bannik",
+  "name": "Bannik - The Slavic Bathhouse Spirit",
+  "category": "entity_spirit",
+  "description": "The **bannik** (Russian: ба́нник) is a malevolent supernatural entity from Slavic folklore that dwells in bathhouses (*banya* or *banja*).",
+  "aliases": [],
+  "tags": [
+    "in-slavic-folk-tradition).-moscow",
+    "1997."
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "Unknown",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "kidney-thieves",
+  "name": "Kidney Thieves Urban Legend",
+  "category": "urban_legend",
+  "description": "The \\\"kidney thieves\\\" urban legend represents one of the most pervasive and geographically widespread contemporary legends of the late 20th and early 21st centuries.",
+  "aliases": [],
+  "tags": [
+    "folklore",
+    "mythology"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "Unknown",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

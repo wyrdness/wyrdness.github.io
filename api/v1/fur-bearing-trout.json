@@ -1,0 +1,17 @@
+{
+  "id": "fur-bearing-trout",
+  "name": "Fur-Bearing Trout",
+  "category": "cryptid",
+  "description": "The Fur-Bearing Trout is a creature from American and Canadian folklore, described as a species of trout covered in thick white fur to survive frigid northern waters.",
+  "aliases": [],
+  "tags": [
+    "folklore",
+    "mythology"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "Unknown",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

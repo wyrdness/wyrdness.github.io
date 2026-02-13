@@ -1,0 +1,17 @@
+{
+  "id": "toyol",
+  "name": "Toyol",
+  "category": "supernatural_entity",
+  "description": "The **toyol** (also spelled *tuyul*) is one of Southeast Asia's most infamous supernatural entities—an undead infant spirit bound through black magic to serve as a thieving familiar.",
+  "aliases": [],
+  "tags": [
+    "folklore",
+    "mythology"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "Unknown",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

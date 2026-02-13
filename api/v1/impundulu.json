@@ -1,0 +1,17 @@
+{
+  "id": "impundulu",
+  "name": "Impundulu",
+  "category": "entity_spirit",
+  "description": "The **Impundulu**, or **Lightning Bird**, is a creature from Zulu, Xhosa, and Pondo folklore in South Africa.",
+  "aliases": [],
+  "tags": [
+    "folklore",
+    "mythology"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "Unknown",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

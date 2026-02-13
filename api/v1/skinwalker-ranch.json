@@ -1,0 +1,17 @@
+{
+  "id": "skinwalker-ranch",
+  "name": "Skinwalker Ranch",
+  "category": "location",
+  "description": "Skinwalker Ranch is a property in Utah that claims to be the site of extensive paranormal activity including UFO sightings, cattle mutilations, poltergeist phenomena, and cryptid encounters.",
+  "aliases": [],
+  "tags": [
+    "folklore",
+    "mythology"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "Unknown",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

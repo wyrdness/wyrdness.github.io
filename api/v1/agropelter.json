@@ -1,0 +1,17 @@
+{
+  "id": "agropelter",
+  "name": "Agropelter",
+  "category": "cryptid",
+  "description": "The Agropelter is an invisible or impossibly elusive creature from American lumberjack folklore.",
+  "aliases": [],
+  "tags": [
+    "folklore",
+    "mythology"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "Unknown",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

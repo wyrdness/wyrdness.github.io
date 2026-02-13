@@ -1,0 +1,17 @@
+{
+  "id": "changeling",
+  "name": "Changeling",
+  "category": "|_supernatural_beings_who_steal_children_|",
+  "description": "A changeling is a fairy child left in place of a stolen human child, typically an infant.",
+  "aliases": [],
+  "tags": [
+    "folklore",
+    "mythology"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "Unknown",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

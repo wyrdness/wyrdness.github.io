@@ -1,0 +1,17 @@
+{
+  "id": "earthquake-lights",
+  "name": "Earthquake Lights",
+  "category": "atmospheric_phenomenon",
+  "description": "Earthquake lights (EQL), also known as earthquake luminescence or seismic lights, are unusual luminous phenomena that appear in the sky or near the ground before, during, or after seismic activity.",
+  "aliases": [],
+  "tags": [
+    "folklore",
+    "mythology"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "Unknown",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

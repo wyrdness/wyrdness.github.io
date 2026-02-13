@@ -1,0 +1,17 @@
+{
+  "id": "windigo",
+  "name": "Windigo (Ojibwe)",
+  "category": "|_entity_spirit/demon_angel_|",
+  "description": "The Windigo (Ojibwe: Wiindigo, also Witiko) is a sacred spiritual being in Ojibwe and Anishinaabe traditions representing a cannibalistic spirit associated with ice, winter, and a heart turned to ice.",
+  "aliases": [],
+  "tags": [
+    "folklore",
+    "mythology"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "| Ojibwe/Anishinaabe Nations |",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

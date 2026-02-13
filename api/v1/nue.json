@@ -1,0 +1,16 @@
+{
+  "id": "nue",
+  "name": "Nue (鵺)",
+  "category": "mythological_creature",
+  "description": "The Nue is one of Japan's most fearsome yokai, described as a chimeric creature combining parts from multiple animals.",
+  "aliases": [],
+  "tags": [
+    "&-cultural-significance"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "Unknown",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

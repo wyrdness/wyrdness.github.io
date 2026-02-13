@@ -1,0 +1,16 @@
+{
+  "id": "vanishing-hitchhiker",
+  "name": "Vanishing Hitchhiker",
+  "category": "urban_legend",
+  "description": "The Vanishing Hitchhiker is one of the most widespread and enduring urban legends worldwide.",
+  "aliases": [],
+  "tags": [
+    "&-meaning"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "Unknown",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

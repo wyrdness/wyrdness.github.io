@@ -1,0 +1,16 @@
+{
+  "id": "gashadokuro",
+  "name": "Gashadokuro",
+  "category": "undead",
+  "description": "These terrifying creatures possess the ability to **turn invisible** and are **indestructible** by conventional means.",
+  "aliases": [],
+  "tags": [
+    "&-themes"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "Unknown",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

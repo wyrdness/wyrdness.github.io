@@ -1,0 +1,17 @@
+{
+  "id": "hantu-bungkus",
+  "name": "Hantu Bungkus",
+  "category": "ghost",
+  "description": "The **hantu bungkus** (literally \\\"wrapped ghost\\\" in Malay) is the restless spirit of a deceased person whose soul remains trapped within their white Islamic burial shroud (kain kafan).",
+  "aliases": [],
+  "tags": [
+    "folklore",
+    "mythology"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "Unknown",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

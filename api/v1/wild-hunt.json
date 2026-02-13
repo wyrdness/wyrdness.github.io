@@ -1,0 +1,17 @@
+{
+  "id": "wild-hunt",
+  "name": "Wild Hunt",
+  "category": "|_broader_spirit_category_|",
+  "description": "The **Wild Hunt** is one of the most widespread and enduring supernatural phenomena in European folklore.",
+  "aliases": [],
+  "tags": [
+    "folklore",
+    "mythology"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "Unknown",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

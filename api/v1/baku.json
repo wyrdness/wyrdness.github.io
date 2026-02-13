@@ -1,0 +1,17 @@
+{
+  "id": "baku",
+  "name": "Baku (獏)",
+  "category": "mythological_creature",
+  "description": "The creature's origins lie in Chinese mythology, where it appears in texts dating back to the Han Dynasty (206 BCE – 220 CE).",
+  "aliases": [],
+  "tags": [
+    "folklore",
+    "mythology"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "Unknown",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "lindworm",
+  "name": "Lindworm",
+  "category": "european_dragon",
+  "description": "The **lindworm** (also lindwurm, lindorm) is a wingless, serpentine dragon from Scandinavian and Germanic folklore.",
+  "aliases": [],
+  "tags": [
+    "and-meaning"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "Unknown",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

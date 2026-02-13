@@ -1,0 +1,16 @@
+{
+  "id": "dragon",
+  "name": "Dragon",
+  "category": "cryptid/mythological_creature",
+  "description": "Dragons are legendary creatures appearing in the mythology of nearly every ancient culture.",
+  "aliases": [],
+  "tags": [
+    "of-chaos/nature"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "Unknown",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

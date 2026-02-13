@@ -1,0 +1,17 @@
+{
+  "id": "atmospheric-beasts",
+  "name": "Atmospheric Beasts",
+  "category": "cryptid_(theoretical)",
+  "description": "Atmospheric Beasts are hypothetical organisms proposed to inhabit Earth's atmosphere on a permanent basis, floating or flying without ever landing.",
+  "aliases": [],
+  "tags": [
+    "folklore",
+    "mythology"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "Unknown",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

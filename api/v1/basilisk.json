@@ -1,0 +1,17 @@
+{
+  "id": "basilisk",
+  "name": "Basilisk",
+  "category": "mythological_creature",
+  "description": "The basilisk is a legendary reptile reputed to be the king of serpents, whose gaze or breath is lethally poisonous.",
+  "aliases": [],
+  "tags": [
+    "folklore",
+    "mythology"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "Unknown",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

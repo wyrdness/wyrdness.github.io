@@ -1,0 +1,17 @@
+{
+  "id": "nazca-lines",
+  "name": "Nazca Lines",
+  "category": "ancient_geoglyphs",
+  "description": "The **Nazca Lines** are ancient geoglyphs in southern Peru created by the Nazca culture between 500 BCE and 500 CE.",
+  "aliases": [],
+  "tags": [
+    "folklore",
+    "mythology"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "Unknown",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

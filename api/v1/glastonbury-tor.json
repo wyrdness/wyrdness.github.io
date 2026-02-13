@@ -1,0 +1,17 @@
+{
+  "id": "glastonbury-tor",
+  "name": "Glastonbury Tor",
+  "category": "sacred_site",
+  "description": "Glastonbury Tor is a 158-meter (518-foot) hill that dominates the Somerset Levels landscape in southwest England.",
+  "aliases": [],
+  "tags": [
+    "folklore",
+    "mythology"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "Unknown",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

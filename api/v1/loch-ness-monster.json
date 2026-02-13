@@ -1,0 +1,17 @@
+{
+  "id": "loch-ness-monster",
+  "name": "Loch Ness Monster",
+  "category": "cryptid",
+  "description": "The Loch Ness Monster, affectionately known as \\\"Nessie,\\\" is a cryptid reported to inhabit Loch Ness, a large freshwater lake in the Scottish Highlands.",
+  "aliases": [],
+  "tags": [
+    "folklore",
+    "mythology"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "Unknown",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

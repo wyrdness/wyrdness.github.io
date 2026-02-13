@@ -1,0 +1,16 @@
+{
+  "id": "peri",
+  "name": "Peri",
+  "category": "fae_folklore",
+  "description": "They are generally **benevolent spirits** who protect humans from evil forces, guide lost travelers, and oppose the malevolent **divs** (daevas) — the evil spirits of Persian mythology.",
+  "aliases": [],
+  "tags": [
+    "&-meaning"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "Unknown",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

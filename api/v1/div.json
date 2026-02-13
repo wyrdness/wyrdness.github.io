@@ -1,0 +1,17 @@
+{
+  "id": "div",
+  "name": "Div - Persian Demon",
+  "category": "demon_angel",
+  "description": "Div (also spelled Daeva, Dīv, or Dēw) are malevolent supernatural entities in Persian mythology, representing demons, evil spirits, and forces of chaos and destruction.",
+  "aliases": [],
+  "tags": [
+    "folklore",
+    "mythology"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "Persia/Iran (Zoroastrian and Islamic traditions)",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

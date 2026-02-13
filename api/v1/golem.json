@@ -1,0 +1,16 @@
+{
+  "id": "golem",
+  "name": "Golem",
+  "category": "entity_spirit",
+  "description": "The golem is an animated anthropomorphic being in Jewish folklore, created entirely from inanimate matter such as clay or mud.",
+  "aliases": [],
+  "tags": [
+    "&-interpretation"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "Unknown",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

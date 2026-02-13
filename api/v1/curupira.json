@@ -1,0 +1,17 @@
+{
+  "id": "curupira",
+  "name": "Curupira",
+  "category": "entity_spirit",
+  "description": "The Curupira is a powerful forest guardian spirit from Brazilian indigenous Tupi folklore, depicted as a child-like figure with bright red hair covering its entire body and distinctive backwards feet that face the opposite direction from its travel.",
+  "aliases": [],
+  "tags": [
+    "folklore",
+    "mythology"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "Unknown",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

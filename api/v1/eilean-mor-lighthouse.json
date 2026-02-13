@@ -1,0 +1,17 @@
+{
+  "id": "eilean-mor-lighthouse",
+  "name": "Eilean Mor Lighthouse Mystery",
+  "category": "location",
+  "description": "The Eilean Mor Lighthouse mystery is one of the most enduring unsolved disappearances in maritime history.",
+  "aliases": [],
+  "tags": [
+    "folklore",
+    "mythology"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "Unknown",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

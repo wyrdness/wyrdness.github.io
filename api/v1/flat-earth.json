@@ -1,0 +1,17 @@
+{
+  "id": "flat-earth",
+  "name": "Flat Earth",
+  "category": "conspiracy_theory",
+  "description": "The Flat Earth belief claims that Earth is a flat plane rather than the scientifically proven oblate spheroid (slightly flattened sphere).",
+  "aliases": [],
+  "tags": [
+    "folklore",
+    "mythology"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "Unknown",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

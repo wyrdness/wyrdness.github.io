@@ -1,0 +1,17 @@
+{
+  "id": "anansi",
+  "name": "Anansi - The West African Spider Trickster",
+  "category": "mythological_creature",
+  "description": "Anansi (also known as Ananse, Kwaku Ananse, or Aunt Nancy in the Americas) is one of the most important and widespread figures in West African and Caribbean folklore.",
+  "aliases": [],
+  "tags": [
+    "folklore",
+    "mythology"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "West Africa (Akan peoples) / Caribbean",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

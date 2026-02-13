@@ -1,0 +1,17 @@
+{
+  "id": "wendigo",
+  "name": "Wendigo",
+  "category": "entity_spirit",
+  "description": "The Wendigo (also spelled Windigo, Witiko, Wiindigoo) is a malevolent spirit or supernatural being central to the spiritual traditions of Algonquian-speaking peoples, including the Ojibwe, Cree, Innu, Algonquin, and related nations of northern North America.",
+  "aliases": [],
+  "tags": [
+    "folklore",
+    "mythology"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "Unknown",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

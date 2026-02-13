@@ -1,0 +1,17 @@
+{
+  "id": "loup-garou",
+  "name": "Loup-Garou",
+  "category": "shapeshifter",
+  "description": "The **Loup-Garou** (Louisiana French: *Rougarou*; Haitian Creole: *Lougarou*) is a werewolf figure born from the collision of three worlds: medieval French folklore, West African shapeshifting traditions, and Catholic moral enforcement.",
+  "aliases": [],
+  "tags": [
+    "folklore",
+    "mythology"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "| French-African Creole | Indigenous Algonquian |",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

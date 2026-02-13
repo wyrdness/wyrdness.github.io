@@ -1,0 +1,17 @@
+{
+  "id": "thunderbird",
+  "name": "Thunderbird",
+  "category": "cryptid",
+  "description": "The Thunderbird represents one of the most culturally significant and widespread phenomena in North American Indigenous traditions—a massive, powerful bird associated with thunder, lightning, and spiritual power.",
+  "aliases": [],
+  "tags": [
+    "folklore",
+    "mythology"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "Unknown",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "basilisco-chilote",
+  "name": "Basilisco Chilote",
+  "category": "mythological_creature",
+  "description": "Legendary bird-snake hybrid from Chilote mythology that guards treasures and brings destruction This phenomenon represents an important part of Chilote folklore and cultural heritage, with documented accounts and traditions spanning generations.",
+  "aliases": [],
+  "tags": [
+    "folklore",
+    "mythology"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "| Chilote |",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

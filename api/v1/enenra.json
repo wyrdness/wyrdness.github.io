@@ -1,0 +1,17 @@
+{
+  "id": "enenra",
+  "name": "Enenra (煙々羅)",
+  "category": "entity_spirit",
+  "description": "The Enenra is a relatively obscure Japanese yokai that takes the form of smoke or vapor.",
+  "aliases": [],
+  "tags": [
+    "folklore",
+    "mythology"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "Unknown",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "unicorn",
+  "name": "Unicorn",
+  "category": "cryptid/mythological_creature",
+  "description": "The unicorn is a legendary creature depicted as a white horse with a single, large, pointed, spiraling horn projecting from its forehead.",
+  "aliases": [],
+  "tags": [
+    "without-zoological-basis."
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "Unknown",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

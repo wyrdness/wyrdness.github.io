@@ -1,0 +1,17 @@
+{
+  "id": "enfield-horror",
+  "name": "Enfield Horror",
+  "category": "cryptid",
+  "description": "The **Enfield Horror** is a cryptid creature reported from Enfield, Illinois, during a concentrated series of sightings in April and May 1973.",
+  "aliases": [],
+  "tags": [
+    "folklore",
+    "mythology"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "American (Illinois), 1973",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

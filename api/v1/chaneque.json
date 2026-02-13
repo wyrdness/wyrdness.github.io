@@ -1,0 +1,17 @@
+{
+  "id": "chaneque",
+  "name": "Chaneque",
+  "category": "entity_spirit",
+  "description": "Chaneques are small humanoid nature spirits from Mexican indigenous folklore, particularly Aztec and pre-Columbian traditions.",
+  "aliases": [],
+  "tags": [
+    "folklore",
+    "mythology"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "Unknown",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

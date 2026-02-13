@@ -1,0 +1,17 @@
+{
+  "id": "hoia-baciu-forest",
+  "name": "Hoia-Baciu Forest",
+  "category": "|_location_(haunted_forest)_|",
+  "description": "Hoia-Baciu Forest is a 250-hectare woodland on the western edge of Cluj-Napoca, Romania, that has gained international notoriety as one of the world's most haunted forests.",
+  "aliases": [],
+  "tags": [
+    "folklore",
+    "mythology"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "Unknown",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "phoenix",
+  "name": "Phoenix",
+  "category": "mythological_creature",
+  "description": "The phoenix is a legendary immortal bird that cyclically regenerates or is reborn from its own ashes after death.",
+  "aliases": [],
+  "tags": [
+    "|"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "Unknown",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "knocker",
+  "name": "Knocker",
+  "category": "fae_folklore",
+  "description": "Knockers are mining spirits from Cornish folklore, described as small (around 2 feet tall), bearded creatures dressed like miners who dwell in underground mines.",
+  "aliases": [],
+  "tags": [
+    "folklore",
+    "mythology"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "Unknown",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

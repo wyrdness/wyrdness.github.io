@@ -1,0 +1,17 @@
+{
+  "id": "patasola",
+  "name": "La Patasola",
+  "category": "undead",
+  "description": "La Patasola (literally \\\"single foot\\\" or \\\"one leg\\\" in Spanish) is one of the most terrifying and enduring creatures in Colombian and Venezuelan folklore.",
+  "aliases": [],
+  "tags": [
+    "(removal-of-mobility",
+    "independence)"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "Unknown",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

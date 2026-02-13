@@ -1,0 +1,17 @@
+{
+  "id": "glitch-in-matrix",
+  "name": "Glitch in the Matrix",
+  "category": "anomaly",
+  "description": "Glitch in the Matrix is a modern phenomenon popularized by the 1999 film *The Matrix*, referring to experiences where reality appears to temporarily malfunction or \\\"glitch.",
+  "aliases": [],
+  "tags": [
+    "folklore",
+    "mythology"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "Unknown",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

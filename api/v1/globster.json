@@ -1,0 +1,17 @@
+{
+  "id": "globster",
+  "name": "Globster",
+  "category": "cryptid_(marine_mystery)",
+  "description": "Globsters are large, fibrous, blob-like masses of organic material that occasionally wash up on beaches around the world.",
+  "aliases": [],
+  "tags": [
+    "folklore",
+    "mythology"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "Unknown",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

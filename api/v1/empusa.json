@@ -1,0 +1,17 @@
+{
+  "id": "empusa",
+  "name": "Empusa",
+  "category": "demon_angel",
+  "description": "Greek demon with flaming hair and bronze leg who seduces and feeds on young men's blood This phenomenon represents an important part of Greek folklore and cultural heritage, with documented accounts and traditions spanning generations.",
+  "aliases": [],
+  "tags": [
+    "folklore",
+    "mythology"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "| Greek |",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "kuchisake-onna",
+  "name": "Kuchisake-onna",
+  "category": "urban_legend",
+  "description": "The legend describes a woman wearing a surgical mask who approaches victims—often children—and asks: > **\\\"Watashi, kirei?",
+  "aliases": [],
+  "tags": [
+    "&-themes"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "Unknown",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

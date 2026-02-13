@@ -1,0 +1,17 @@
+{
+  "id": "superstition-mountains",
+  "name": "Superstition Mountains",
+  "category": "|_count_|",
+  "description": "The Superstition Mountains are a rugged mountain range east of Phoenix, Arizona, that has become one of America's most legendary locations.",
+  "aliases": [],
+  "tags": [
+    "folklore",
+    "mythology"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "Unknown",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

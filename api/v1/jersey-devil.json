@@ -1,0 +1,17 @@
+{
+  "id": "jersey-devil",
+  "name": "Jersey Devil",
+  "category": "cryptid",
+  "description": "The Jersey Devil is a legendary creature said to inhabit the Pine Barrens of South Jersey.",
+  "aliases": [],
+  "tags": [
+    "folklore",
+    "mythology"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "Unknown",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

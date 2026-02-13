@@ -1,0 +1,17 @@
+{
+  "id": "mapinguari",
+  "name": "Mapinguari",
+  "category": "cryptid",
+  "description": "The Mapinguari is a legendary cryptid from the Brazilian Amazon, described as a large, sloth-like creature standing approximately 7 feet tall.",
+  "aliases": [],
+  "tags": [
+    "folklore",
+    "mythology"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "Unknown",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "illuminati",
+  "name": "Illuminati",
+  "category": "conspiracy_theory",
+  "description": "The Illuminati conspiracy theory claims that a secret elite society controls world governments, finance, media, and entertainment.",
+  "aliases": [],
+  "tags": [
+    "for-aesthetic/provocative-purposes"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "Unknown",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

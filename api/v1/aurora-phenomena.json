@@ -1,0 +1,17 @@
+{
+  "id": "aurora-phenomena",
+  "name": "Aurora Phenomena (Northern Lights Folklore)",
+  "category": "atmospheric_phenomena",
+  "description": "Aurora phenomena—primarily the Aurora Borealis (Northern Lights) and Aurora Australis (Southern Lights)—represent one of nature's most spectacular displays: shimmering curtains of colored light dancing across the polar skies.",
+  "aliases": [],
+  "tags": [
+    "folklore",
+    "mythology"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "Unknown",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

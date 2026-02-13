@@ -1,0 +1,17 @@
+{
+  "id": "ogopogo",
+  "name": "OGOPOGO",
+  "category": "cryptid",
+  "description": "Ogopogo, also known as N'ha-a-itk in Syilx (Okanagan) tradition, is a legendary lake monster said to inhabit Okanagan Lake in British Columbia's scenic Okanagan Valley.",
+  "aliases": [],
+  "tags": [
+    "folklore",
+    "mythology"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "Unknown",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

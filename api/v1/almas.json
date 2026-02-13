@@ -1,0 +1,17 @@
+{
+  "id": "almas",
+  "name": "Almas",
+  "category": "cryptid",
+  "description": "The Almas (also Almasty) is a humanoid cryptid reported from the mountainous regions of Central Asia, including Mongolia, the Caucasus, Pamir Mountains, and Altai Mountains.",
+  "aliases": [],
+  "tags": [
+    "folklore",
+    "mythology"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "Unknown",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

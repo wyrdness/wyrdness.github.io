@@ -1,0 +1,16 @@
+{
+  "id": "medusa",
+  "name": "Medusa",
+  "category": "mythological_creature",
+  "description": "Medusa is the most famous of the three Gorgon sisters in Greek mythology, distinguished by her **mortal nature** while her sisters Stheno and Euryale were immortal.",
+  "aliases": [],
+  "tags": [
+    "&-interpretation"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "Unknown",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

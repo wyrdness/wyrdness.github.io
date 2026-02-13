@@ -1,0 +1,17 @@
+{
+  "id": "tripodero",
+  "name": "Tripodero",
+  "category": "cryptid",
+  "description": "The Tripodero is a fearsome critter with three telescopic legs and a blowgun-like snout that shoots clay pellets to stun prey.",
+  "aliases": [],
+  "tags": [
+    "folklore",
+    "mythology"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "Unknown",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

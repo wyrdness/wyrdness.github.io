@@ -1,0 +1,16 @@
+{
+  "id": "kelpie",
+  "name": "Kelpie",
+  "category": "shapeshifter",
+  "description": "The kelpie is a malevolent water spirit from Scottish folklore that typically manifests as a beautiful black horse near rivers and lochs.",
+  "aliases": [],
+  "tags": [
+    "&-themes"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "Unknown",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "upyr",
+  "name": "Upyr - The Slavic Vampire",
+  "category": "undead",
+  "description": "The **upyr** (also spelled *upir*, *upior*, or *wampir*) is an ancient Slavic undead creature that serves as the direct precursor to the modern Western vampire.",
+  "aliases": [],
+  "tags": [
+    "folklore",
+    "mythology"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "Unknown",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "beast-of-gevaudan",
+  "name": "Beast of Gévaudan",
+  "category": "cryptid",
+  "description": "The Beast of Gévaudan (French: La Bête du Gévaudan) is one of history's most documented and mysterious cryptid cases, representing a series of brutal attacks that terrorized the former province of Gévaudan in south-central France between 1764 and 1767.",
+  "aliases": [],
+  "tags": [
+    "folklore",
+    "mythology"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "Unknown",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

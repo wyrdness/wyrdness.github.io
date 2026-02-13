@@ -1,0 +1,17 @@
+{
+  "id": "jengu",
+  "name": "Jengu - Cameroonian Water Spirit",
+  "category": "entity_spirit",
+  "description": "The Jengu (plural: Miengu) are beautiful water spirits from the folklore of the Sawa peoples of Cameroon's coastal and riverine regions, particularly among the Duala, Bakweri, Malimba, Subu, and related ethnic groups.",
+  "aliases": [],
+  "tags": [
+    "folklore",
+    "mythology"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "Cameroon (Sawa peoples of coastal regions)",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

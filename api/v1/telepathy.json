@@ -1,0 +1,17 @@
+{
+  "id": "telepathy",
+  "name": "Telepathy",
+  "category": "psychic_phenomena",
+  "description": "Telepathy is the purported ability to transmit thoughts, feelings, mental images, or information directly from one mind to another without using any known physical means of communication.",
+  "aliases": [],
+  "tags": [
+    "folklore",
+    "mythology"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "Unknown",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}

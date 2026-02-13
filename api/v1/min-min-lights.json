@@ -1,0 +1,17 @@
+{
+  "id": "min-min-lights",
+  "name": "Min Min Lights",
+  "category": "atmospheric_phenomenon",
+  "description": "The Min Min Lights are a mysterious light phenomenon reported in the Australian outback, particularly in the Channel Country region of Queensland near Boulia.",
+  "aliases": [],
+  "tags": [
+    "folklore",
+    "mythology"
+  ],
+  "status": "documented",
+  "regions": [],
+  "origin": "Unknown",
+  "first_reported": "Unknown",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
+}
