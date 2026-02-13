@@ -1,15 +1,16 @@
-<!DOCTYPEhtml>
+<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Browse paranormal phenomena by category - cryptids, ghosts, mythological creatures, UFOs, and more in the Wyrdness database.">
   <title>Categories - Wyrdness</title>
   <link rel="stylesheet" href="/css/main.css">
 </head>
 <body>
   <a href="#main-content" class="sr-only sr-only--focusable">Skip to main content</a>
   
-  <header class="site-header">
+  <header class="site-header" role="banner">
     <div class="container">
       <div class="site-header__content">
         <a href="/" class="site-header__logo">
@@ -22,7 +23,7 @@
           <span class="menu-toggle__icon"></span>
         </label>
         
-        <nav class="site-nav">
+        <nav class="site-nav" role="navigation" aria-label="Main navigation">
           <ul class="site-nav__list">
             <li><a href="/browse/" class="site-nav__link">Browse</a></li>
             <li><a href="/categories/" class="site-nav__link site-nav__link--active">Categories</a></li>
@@ -36,7 +37,7 @@
     </div>
   </header>
   
-  <main id="main-content">
+  <main id="main-content" role="main">
     <div class="container" style="padding: var(--space-2xl) var(--space-md);">
       <h1 class="mb-lg">All Categories</h1>
       
@@ -48,7 +49,7 @@
     </div>
   </main>
   
-  <footer class="site-footer">
+  <footer class="site-footer" role="contentinfo">
     <div class="container">
       <div class="site-footer__bottom">
         <p class="text-muted text-center">&copy; 2026 Wyrdness Project</p>
@@ -71,7 +72,7 @@
         const categories = {};
         phenomena.forEach(p => {
           const cat = p.category || 'uncategorized';
-          if (!categories[cat]){
+          if (!categories[cat]) {
             categories[cat] = { count: 0, items: [] };
           }
           categories[cat].count++;
