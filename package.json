@@ -4,10 +4,12 @@
   "description": "Wyrdness Paranormal Phenomena Database - Frontend",
   "scripts": {
     "aggregate": "node scripts/aggregate-api.js",
+    "aggregate:local": "node scripts/aggregate-local.js",
     "generate:categories": "node scripts/generate-categories.js",
     "generate:stats": "node scripts/generate-stats.js",
     "generate:pages": "node scripts/generate-pages.js",
     "generate:all": "node scripts/generate-index.js",
+    "build:local": "npm run aggregate:local && npm run generate:categories && npm run generate:stats && npm run generate:pages",
     "dev": "python3 -m http.server 8000"
   },
   "repository": {
