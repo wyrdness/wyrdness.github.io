@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Glitch in the Matrix is a modern phenomenon popularized by the 1999 film *The Matrix*, referring to experiences where reality appears to temporarily malfunction or \"glitch.">
+  <title>Glitch in the Matrix - Wyrdness</title>
+  <link rel="stylesheet" href="/css/main.css">
+</head>
+<body>
+  <a href="#main-content" class="sr-only sr-only--focusable">Skip to main content</a>
+  
+  <header class="site-header" role="banner">
+    <div class="container">
+      <div class="site-header__content">
+        <a href="/" class="site-header__logo">
+          <span style="font-size: var(--font-2xl); font-weight: 700; color: var(--accent-purple);">Wyrdness</span>
+        </a>
+        
+        <input type="checkbox" id="menu-toggle" class="menu-toggle sr-only">
+        <label for="menu-toggle" class="menu-toggle__label">
+          <span class="sr-only">Toggle menu</span>
+          <span class="menu-toggle__icon"></span>
+        </label>
+        
+        <nav class="site-nav" role="navigation" aria-label="Main navigation">
+          <ul class="site-nav__list">
+            <li><a href="/browse/" class="site-nav__link">Browse</a></li>
+            <li><a href="/categories/" class="site-nav__link">Categories</a></li>
+            <li><a href="/map/" class="site-nav__link">Map</a></li>
+            <li><a href="/timeline/" class="site-nav__link">Timeline</a></li>
+            <li><a href="/favorites/" class="site-nav__link">Favorites</a></li>
+            <li><a href="/about/" class="site-nav__link">About</a></li>
+          </ul>
+        </nav>
+      </div>
+    </div>
+  </header>
+  
+  <main id="main-content" role="main">
+    <article class="container" style="padding: var(--space-2xl) var(--space-md);">
+      <header style="margin-bottom: var(--space-2xl);">
+        <button onclick="history.back()" class="btn btn--secondary mb-md">← Back</button>
+        
+        <div class="flex flex--between flex--wrap gap--md mb-md">
+          <h1 style="margin: 0;">Glitch in the Matrix</h1>
+          <button data-favorite="glitch-in-matrix" class="btn btn--secondary">★ Favorite</button>
+        </div>
+        
+        <div class="flex gap--sm" style="flex-wrap: wrap;">
+          <span class="badge">anomaly</span>
+          <span class="badge badge--danger">Danger: unknown</span>
+          <span class="badge badge--warning">Evidence: unknown</span>
+        </div>
+      </header>
+      
+      <section style="margin-bottom: var(--space-xl);">
+        <h2>Overview</h2>
+        <p>Glitch in the Matrix is a modern phenomenon popularized by the 1999 film *The Matrix*, referring to experiences where reality appears to temporarily malfunction or \"glitch.</p>
+      </section>
+      
+      <section style="margin-bottom: var(--space-xl);">
+        <h2>Details</h2>
+        <dl style="display: grid; grid-template-columns: auto 1fr; gap: var(--space-sm) var(--space-md);">
+          <dt style="font-weight: 600;">Origin:</dt>
+          <dd>Unknown</dd>
+          
+          <dt style="font-weight: 600;">Regions:</dt>
+          <dd></dd>
+          
+          <dt style="font-weight: 600;">First Reported:</dt>
+          <dd>Unknown</dd>
+        </dl>
+      </section>
+      
+      <section style="margin-bottom: var(--space-xl);">
+        <h2>Documentation</h2>
+        <p>For detailed information, sources, and sightings, visit the <a href="https://github.com/wyrdness/glitch-in-matrix">GitHub repository</a>.</p>
+      </section>
+    </article>
+  </main>
+  
+  <footer class="site-footer" role="contentinfo">
+    <div class="container">
+      <div class="site-footer__bottom">
+        <p class="text-muted text-center">&copy; 2026 Wyrdness Project</p>
+      </div>
+    </div>
+  </footer>
+  
+  <script src="/js/utils.js" defer></script>
+  <script src="/js/api.js" defer></script>
+  <script src="/js/favorites.js" defer></script>
+  <script src="/js/app.js" defer></script>
+</body>
+</html>
