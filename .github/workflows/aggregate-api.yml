@@ -7,23 +7,26 @@ on:
 
 permissions:
   contents: write
+  actions: write
 
 jobs:
   aggregate:
     runs-on: ubuntu-latest
-    
+    outputs:
+      changes_made: ${{ steps.commit.outputs.changes_made }}
+
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-      
+
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
           node-version: '20'
-      
+
       - name: Install dependencies
         run: npm install
-      
+
       - name: Run aggregation
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -31,11 +34,50 @@ jobs:
           node scripts/aggregate-api.js
           node scripts/generate-categories.js
           node scripts/generate-stats.js
-      
+
       - name: Commit changes
+        id: commit
         run: |
           git config --local user.email "actions@github.com"
           git config --local user.name "GitHub Actions"
           git add api/
-          git diff --quiet && git diff --staged --quiet || git commit -m "Update API data [skip ci]"
+          if git diff --quiet && git diff --staged --quiet; then
+            echo "changes_made=false" >> $GITHUB_OUTPUT
+          else
+            git commit -m "Update API data"
+            git push
+            echo "changes_made=true" >> $GITHUB_OUTPUT
+          fi
+
+  generate-pages:
+    needs: aggregate
+    if: needs.aggregate.outputs.changes_made == 'true' || github.event_name == 'workflow_dispatch'
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Pull latest changes
+        run: git pull origin main
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Generate pages
+        run: node scripts/generate-pages.js
+
+      - name: Commit changes
+        run: |
+          git config --local user.email "actions@github.com"
+          git config --local user.name "GitHub Actions"
+          git add phenomena/
+          git diff --quiet && git diff --staged --quiet || git commit -m "Generate static pages [skip ci]"
           git push
