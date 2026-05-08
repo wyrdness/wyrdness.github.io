@@ -2,16 +2,50 @@
   "id": "nguoi-rung",
   "name": "Người Rừng",
   "category": "cryptid",
-  "description": "Vietnamese forest-dwelling hominid described as covered in hair and living primitively This phenomenon represents an important part of Vietnamese folklore and cultural heritage, with documented accounts and traditions spanning generations.",
-  "aliases": [],
-  "tags": [
-    "folklore",
-    "mythology"
+  "description": "A proposed Indochinese hominid cryptid reported from the dense forests of Vietnam and Laos, broadly analogous to the North American Bigfoot. Reports cluster in the Vu Quang region of Vietnam and on the Vietnam-Laos border; no specimen has been collected.",
+  "aliases": [
+    {
+      "name": "Người Rừng",
+      "language": "Vietnamese",
+      "meaning": "forest man / forest people"
+    },
+    {
+      "name": "Batutut",
+      "region": "Indochinese highlands"
+    },
+    {
+      "name": "Ujit",
+      "region": "Vietnam / northern Borneo"
+    },
+    {
+      "name": "Vietnamese wildman",
+      "language": "English"
+    },
+    {
+      "name": "Rock ape",
+      "language": "English (US military slang)",
+      "region": "Vietnam War-era reports"
+    }
   ],
-  "status": "documented",
-  "regions": [],
-  "origin": "| Vietnamese |",
-  "first_reported": "Unknown",
+  "tags": [
+    "cryptid",
+    "wildman",
+    "vietnam",
+    "laos",
+    "southeast-asia",
+    "hominid",
+    "bigfoot-analog",
+    "rock-ape"
+  ],
+  "status": "dormant",
+  "regions": [
+    "Vu Quang National Park (Hà Tĩnh Province)",
+    "Annamite Range",
+    "Central Highlands",
+    "Vietnam-Laos border"
+  ],
+  "origin": "Reports cluster in the forested mountains of central Vietnam (notably the Vu Quang region) and along the Vietnam-Laos border, with related Batutut/Ujit accounts extending into Laos and reportedly into northern Borneo.",
+  "first_reported": "Pre-modern",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

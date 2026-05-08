@@ -1,18 +1,53 @@
 {
   "id": "cu-sith",
-  "name": "Cú Sìth (The Fairy Hound)",
-  "category": "entity_spirit",
-  "description": "The Cú Sìth (pronounced \\\"coo-shee\\\"), also known as the Fairy Dog or Hound of the Sídhe, is a supernatural canine creature from Scottish Highland folklore, particularly associated with the Gaelic-speaking regions of Scotland.",
-  "aliases": [],
+  "name": "Cù Sìth",
+  "category": "fae_folklore",
+  "description": "A large, dark green, shaggy supernatural hound of Scottish Highland folklore, the size of a young bull, said to hunt silently and utter only three baying barks; hearing its third bark before reaching shelter is held to be fatal.",
+  "aliases": [
+    {
+      "name": "Cù-sìth",
+      "language": "Scottish Gaelic",
+      "region": "Scottish Highlands",
+      "meaning": "fairy hound"
+    },
+    {
+      "name": "Coin-shìth",
+      "language": "Scottish Gaelic",
+      "meaning": "fairy hounds (plural)"
+    },
+    {
+      "name": "Cú Sídhe",
+      "language": "Irish",
+      "region": "Ireland",
+      "meaning": "Irish cognate fairy hound"
+    },
+    {
+      "name": "Fairy Dog",
+      "region": "English, Scottish Highlands"
+    },
+    {
+      "name": "Hound of the Sídhe",
+      "region": "Anglophone folklore writing"
+    }
+  ],
   "tags": [
+    "scottish-folklore",
+    "fairy",
+    "hound",
     "death-omen",
-    "fairy-realm",
-    "threshold-guardian"
+    "celtic",
+    "psychopomp",
+    "highland"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Scottish Gaelic Highland",
-  "first_reported": "Unknown",
+  "regions": [
+    "Scottish Highlands",
+    "Hebrides",
+    "Argyll",
+    "Isle of Skye"
+  ],
+  "origin": "Recorded throughout the Scottish Gàidhealtachd, especially the Highlands and Western Isles. Cognate traditions occur across Gaelic Ireland and Wales.",
+  "first_reported": "1860",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

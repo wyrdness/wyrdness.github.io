@@ -1,17 +1,32 @@
 {
   "id": "smile-dog",
   "name": "Smile Dog",
-  "category": "internet_folklore",
-  "description": "According to the **fictional story**:",
-  "aliases": [],
+  "category": "urban_legend",
+  "description": "Smile Dog (also written Smile.jpg) is an image-based creepypasta about an allegedly cursed photograph of a husky-like dog with human-style teeth. The accompanying short story is most often attributed to Michael Lutz, who posted a canonical version to the Creepypasta Wiki in August 2010.",
+  "aliases": [
+    {
+      "name": "Smile.jpg",
+      "region": "Original imageboard / creepypasta tradition"
+    },
+    {
+      "name": "Smile.dog",
+      "region": "Common variant spelling"
+    }
+  ],
   "tags": [
-    "folklore",
-    "mythology"
+    "creepypasta",
+    "internet-folklore",
+    "cursed-image",
+    "4chan",
+    "viral-horror",
+    "fictional"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "Internet (4chan /x/, Creepypasta Wiki, YouTube)"
+  ],
+  "origin": "An internet-native fiction: distribution is anywhere the anglophone internet reaches. The originating community is North American imageboard culture (4chan) and the wider Creepypasta Wiki community.",
+  "first_reported": "2008",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

@@ -2,16 +2,59 @@
   "id": "tatzelwurm",
   "name": "Tatzelwurm",
   "category": "cryptid",
-  "description": "The Tatzelwurm is a cryptid creature from the Alpine regions of Switzerland, Austria, and Bavaria (southern Germany).",
-  "aliases": [],
-  "tags": [
-    "folklore",
-    "mythology"
+  "description": "An alpine lizard-like cryptid reported in Switzerland, Austria, Bavaria, and adjacent French and Italian Alps from the 17th century onwards, with stubby body, cat-like face, and reduced limbs.",
+  "aliases": [
+    {
+      "name": "Stollenwurm",
+      "language": "Swiss German",
+      "region": "Switzerland",
+      "meaning": "'tunnel-worm' or 'mine-dragon'"
+    },
+    {
+      "name": "Bergstutz / Bergstutzen",
+      "language": "Austrian German",
+      "region": "Styria, Austria",
+      "meaning": "'mountain-stump'"
+    },
+    {
+      "name": "Springwurm",
+      "language": "Bavarian German",
+      "region": "Bavaria",
+      "meaning": "'leaping worm'"
+    },
+    {
+      "name": "Praatzelwurm",
+      "language": "Austrian/Tyrolean dialect"
+    },
+    {
+      "name": "Arassas",
+      "language": "French (Alpine)",
+      "region": "French Alps"
+    }
   ],
-  "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "tags": [
+    "alps",
+    "europe",
+    "cryptid",
+    "lizard",
+    "serpent",
+    "switzerland",
+    "austria",
+    "bavaria",
+    "folklore"
+  ],
+  "status": "historical",
+  "regions": [
+    "Swiss Alps",
+    "Austrian Alps",
+    "Bavarian Alps",
+    "French Alps",
+    "Italian Alps",
+    "Styria",
+    "Tyrol"
+  ],
+  "origin": "Reports cluster in the Alps of Switzerland, Austria, Bavaria, the French Alps, and northern Italy, with cognate creatures reported in southern Sweden.",
+  "first_reported": "1680",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

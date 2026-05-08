@@ -2,15 +2,44 @@
   "id": "manticore",
   "name": "Manticore",
   "category": "mythological_creature",
-  "description": "The manticore is a legendary creature from Persian mythology, described as having a **human head**, a **lion's body**, and a **scorpion's tail** armed with venomous spines that can be shot like projectiles.",
-  "aliases": [],
+  "description": "A man-eating creature of Persian origin, first described in Greek by the physician-historian Ctesias in the 5th century BCE. The manticore has the body of a lion, the face of a man with three rows of teeth, and a tail tipped with venomous spines or a scorpion's sting.",
+  "aliases": [
+    {
+      "name": "Martichora",
+      "language": "Greek (Ctesias)",
+      "meaning": "transliteration of the Old Persian name"
+    },
+    {
+      "name": "Mantichoras",
+      "language": "Greek (later mss.)",
+      "meaning": "corrupted transmission of 'martichora'"
+    },
+    {
+      "name": "Martyaxwar / Martīya-xvāra",
+      "language": "Old Persian",
+      "meaning": "'man-eater' (from martīya 'man' + xvar- 'to eat')"
+    },
+    {
+      "name": "Mardkhora",
+      "language": "Middle Persian / New Persian"
+    }
+  ],
   "tags": [
-    "—-dangerous-cunning-and-complete-destruction"
+    "persia",
+    "greek-historiography",
+    "ctesias",
+    "bestiary",
+    "composite-creature",
+    "man-eater",
+    "scorpion-tail"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "Achaemenid Persia",
+    "South Asia"
+  ],
+  "origin": "Originally placed in 'India' by Ctesias and his Greek and Latin successors. In medieval bestiaries and heraldry the creature is generic to far-eastern and exotic landscapes.",
+  "first_reported": "0400 BCE",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

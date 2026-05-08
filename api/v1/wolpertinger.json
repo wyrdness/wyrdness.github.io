@@ -1,16 +1,60 @@
 {
   "id": "wolpertinger",
+  "name": "Wolpertinger",
   "category": "cryptid",
-  "description": "No description available.",
-  "aliases": [],
+  "description": "A mythical hybrid creature of southern Bavaria and Baden-Württemberg: a small mammal — typically a rabbit or hare — fitted with antlers, fangs, wings, and other animal parts, popularised through 19th- and 20th-century 'gaff' taxidermy mounts displayed in inns and museums.",
+  "aliases": [
+    {
+      "name": "Wolperdinger",
+      "language": "Bavarian German"
+    },
+    {
+      "name": "Woiperdinger",
+      "language": "Bavarian German"
+    },
+    {
+      "name": "Poontinger",
+      "language": "Bavarian German"
+    },
+    {
+      "name": "Rasselbock",
+      "language": "German",
+      "region": "Thuringian Forest",
+      "meaning": "Closely related German variant"
+    },
+    {
+      "name": "Skvader",
+      "language": "Swedish",
+      "region": "Sweden",
+      "meaning": "Swedish equivalent (hare-grouse hybrid)"
+    },
+    {
+      "name": "Jackalope",
+      "language": "English",
+      "region": "United States (Wyoming and the American West)",
+      "meaning": "American counterpart"
+    }
+  ],
   "tags": [
+    "bavaria",
+    "germany",
+    "alpine",
     "folklore",
-    "mythology"
+    "taxidermy",
+    "tourism",
+    "hybrid-creature",
+    "tall-tale"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "Bavaria",
+    "Baden-Württemberg",
+    "Bavarian Alps",
+    "Bavarian Forest",
+    "Black Forest"
+  ],
+  "origin": "Folkloric range is the alpine and pre-alpine forests of southern Germany, particularly Bavaria and Baden-Württemberg, with extensions into the broader Alpine region.",
+  "first_reported": "1800",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

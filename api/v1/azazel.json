@@ -1,126 +1,61 @@
 {
-  "meta": {
-    "version": "1.0.0",
-    "schema_version": "1.0.0",
-    "last_updated": "2026-02-13",
-    "repository": "https://github.com/wyrdness/azazel",
-    "maintainers": [
-      {
-        "name": "Wyrdness Team",
-        "github": "wyrdness",
-        "role": "maintainer"
-      }
-    ],
-    "license": {
-      "data": "CC0-1.0",
-      "content": "CC-BY-4.0"
+  "id": "azazel",
+  "name": "Azazel",
+  "category": "demon_angel",
+  "description": "A figure that appears in Leviticus 16 as the destination of the Yom Kippur scapegoat and develops, in Second Temple Jewish literature (especially the Book of Enoch and the Apocalypse of Abraham), into a chief fallen angel who teaches forbidden knowledge to humanity.",
+  "aliases": [
+    {
+      "name": "ʿAzāʾzēl",
+      "language": "Hebrew",
+      "meaning": "Hebrew name עֲזָאזֵל; meaning debated (possibly 'rugged cliff', 'the goat that goes away', or proper name of a demon)"
+    },
+    {
+      "name": "Asael",
+      "language": "Hebrew/Aramaic",
+      "region": "Second Temple Judaism",
+      "meaning": "Variant spelling used in some manuscripts of the Book of Enoch"
+    },
+    {
+      "name": "Azaziʿil",
+      "language": "Mandaic",
+      "region": "Mesopotamian Mandaean tradition"
+    },
+    {
+      "name": "Eblis / Iblis (occasionally conflated)",
+      "language": "Arabic",
+      "region": "Islamic tradition"
+    },
+    {
+      "name": "Samael (identification)",
+      "region": "Medieval Jewish exegesis (Nachmanides)"
+    },
+    {
+      "name": "Scapegoat",
+      "language": "English",
+      "meaning": "Tyndale's 1530 translation of 'la-Azazel' as 'escape goat'"
     }
-  },
-  "phenomenon": {
-    "id": "azazel",
-    "name": "Azazel - The Fallen Angel of the Wilderness",
-    "aliases": [],
-    "category": "DEMON_ANGEL",
-    "subcategory": "(depth psychology)",
-    "tags": [
-      "folklore",
-      "mythology"
-    ],
-    "status": "documented",
-    "description": {
-      "summary": "Though Milton doesn't feature Azazel prominently, the fallen angel mythology influenced later occultism.",
-      "full": "Though Milton doesn't feature Azazel prominently, the fallen angel mythology influenced later occultism."
-    },
-    "etymology": {
-      "origin": "Unknown",
-      "meaning": "To be documented",
-      "first_use": "Unknown"
-    }
-  },
-  "classification": {
-    "taxonomy": {
-      "category": "DEMON_ANGEL",
-      "type": "(depth psychology)",
-      "subtype": "Unknown",
-      "variant": "Unknown"
-    },
-    "related_phenomena": []
-  },
-  "characteristics": {
-    "physical": {
-      "features": [],
-      "morphology": "See README.md for detailed physical description"
-    },
-    "abilities": [],
-    "behavior": {
-      "activity_period": "unknown",
-      "disposition": "unknown",
-      "habitat_preference": []
-    }
-  },
-  "distribution": {
-    "range": {
-      "description": "Unknown",
-      "continents": [],
-      "countries": [],
-      "regions": []
-    },
-    "hotspots": [],
-    "temporal": {
-      "first_recorded": {
-        "date": "Unknown",
-        "circa": true,
-        "source": "Traditional folklore"
-      }
-    }
-  },
-  "history": {
-    "origins": {
-      "cultural_roots": "Unknown",
-      "earliest_accounts": "See README.md for historical details",
-      "folklore_connections": "Unknown"
-    },
-    "timeline": []
-  },
-  "sightings": {
-    "statistics": {
-      "total_documented": 0,
-      "verified": 0,
-      "disputed": 0,
-      "debunked": 0
-    },
-    "notable": [],
-    "database_path": "./sightings/"
-  },
-  "evidence": {
-    "physical": [],
-    "photographic": [],
-    "video": [],
-    "audio": [],
-    "trace": []
-  },
-  "theories": {
-    "paranormal": [],
-    "scientific": [],
-    "skeptical": []
-  },
-  "cultural": {
-    "folklore": {
-      "traditions": [],
-      "stories": [],
-      "beliefs": "See README.md for cultural context"
-    },
-    "popular_culture": {
-      "literature": [],
-      "film_tv": [],
-      "games": [],
-      "other": []
-    }
-  },
-  "research": {
-    "researchers": [],
-    "organizations": [],
-    "ongoing_studies": "None documented"
-  },
-  "sources": []
+  ],
+  "tags": [
+    "fallen-angel",
+    "watcher",
+    "scapegoat",
+    "second-temple",
+    "hebrew-bible",
+    "book-of-enoch",
+    "yom-kippur",
+    "demonology"
+  ],
+  "status": "documented",
+  "regions": [
+    "Ancient Israel and Judah",
+    "Hellenistic Levant",
+    "Roman-era Judaea",
+    "Mesopotamia (Mandaean communities)",
+    "Christian Mediterranean",
+    "Medieval Islamic world"
+  ],
+  "origin": "Azazel is a textual / theological figure rather than a geographically reported entity. The relevant literary traditions originate in the ancient Near East (the Levant and Mesopotamia), especially in Second Temple Judaism; the figure is then transmitted through Jewish, Christian, and Islamic literatures across the wider Mediterranean and Middle East, and into modern Western occultism.",
+  "first_reported": "c. 6th-5th century BCE",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
 }

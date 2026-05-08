@@ -2,16 +2,53 @@
   "id": "nandi-bear",
   "name": "Nandi Bear",
   "category": "cryptid",
-  "description": "The Nandi Bear is a cryptid reported from the highlands of East Africa, particularly the Nandi region of Kenya.",
-  "aliases": [],
-  "tags": [
-    "folklore",
-    "mythology"
+  "description": "An East African cryptid reported chiefly from western Kenya during the 19th and early 20th centuries, described as a powerful, bipedally-rearing carnivore with high front shoulders and a sloping back. No specimen has ever been collected; mainstream zoologists attribute reports to misidentification of known animals.",
+  "aliases": [
+    {
+      "name": "Chemosit",
+      "language": "Nandi (Kalenjin)",
+      "region": "Western Kenya"
+    },
+    {
+      "name": "Kerit",
+      "region": "East Africa"
+    },
+    {
+      "name": "Koddoelo",
+      "region": "East Africa"
+    },
+    {
+      "name": "Ngoloko",
+      "region": "East Africa"
+    },
+    {
+      "name": "Duba",
+      "language": "Arabic-derived",
+      "meaning": "from Arabic terms for 'bear' and 'hyena'"
+    },
+    {
+      "name": "Nkampit",
+      "language": "Samburu",
+      "region": "Northern Kenya"
+    }
   ],
-  "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "tags": [
+    "cryptid",
+    "africa",
+    "kenya",
+    "carnivore",
+    "nocturnal",
+    "east-africa",
+    "folklore"
+  ],
+  "status": "dormant",
+  "regions": [
+    "Nandi Hills and surrounding highlands",
+    "Western Kenya",
+    "East Africa"
+  ],
+  "origin": "Reports cluster in western Kenya and adjacent parts of East Africa.",
+  "first_reported": "19th century",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

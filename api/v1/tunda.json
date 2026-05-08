@@ -2,16 +2,49 @@
   "id": "tunda",
   "name": "La Tunda",
   "category": "entity_spirit",
-  "description": "La Tunda is one of the most feared supernatural entities in the folklore of Colombia's Pacific coast, particularly among Afro-Colombian communities in the departments of Chocó, Valle del Cauca, Cauca, and Nariño.",
-  "aliases": [],
+  "description": "A shapeshifting female forest entity from the Afro-Colombian and Afro-Ecuadorian Pacific coast who lures victims, especially children and disobedient men, into the forest by impersonating their loved ones.",
+  "aliases": [
+    {
+      "name": "Tunda",
+      "language": "Spanish",
+      "region": "Pacific coast of Colombia and Ecuador"
+    },
+    {
+      "name": "La Tunda",
+      "language": "Spanish"
+    },
+    {
+      "name": "Entundado / Entundada",
+      "language": "Spanish",
+      "meaning": "a person bewitched or held under La Tunda's spell"
+    },
+    {
+      "name": "Entundamiento",
+      "language": "Spanish",
+      "meaning": "the deceptive trance La Tunda induces in her victims"
+    }
+  ],
   "tags": [
-    "folklore",
-    "mythology"
+    "shapeshifter",
+    "afro-colombian",
+    "pacific-coast",
+    "forest-dwelling",
+    "luring-spirit",
+    "child-abductor",
+    "south-america",
+    "folklore"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "Pacific coast of Colombia",
+    "Chocó",
+    "Valle del Cauca",
+    "Cauca",
+    "Nariño",
+    "Esmeraldas (Ecuador)"
+  ],
+  "origin": "La Tunda is a regional Pacific-coast spirit of Colombia and Ecuador, especially associated with Afro-descendant communities living in dense tropical rainforest, riverine, and mangrove environments.",
+  "first_reported": "Pre-20th century",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

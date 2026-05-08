@@ -2,16 +2,45 @@
   "id": "hantu-air",
   "name": "Hantu Air",
   "category": "entity_spirit",
-  "description": "Hantu Air (literally \\\"water ghost\\\") represents a category of supernatural entities inhabiting rivers, lakes, and bodies of water throughout Malaysia and the broader Malay-Indonesian cultural sphere.",
-  "aliases": [],
+  "description": "Hantu Air ('water ghost') is the Malay/Indonesian name for an unseen inhabitant of rivers, lakes, swamps, and the sea in the animist traditions of Maritime Southeast Asia. It can be benevolent or malevolent depending on how humans treat the body of water it occupies.",
+  "aliases": [
+    {
+      "name": "Puaka Air",
+      "language": "Malay",
+      "region": "Maritime Southeast Asia"
+    },
+    {
+      "name": "Mambang Air",
+      "language": "Malay",
+      "region": "Maritime Southeast Asia"
+    },
+    {
+      "name": "Water Ghost / Spirit of the Water",
+      "language": "English",
+      "meaning": "Direct translation"
+    }
+  ],
   "tags": [
-    "folklore",
-    "mythology"
+    "water-spirit",
+    "malay-folklore",
+    "animism",
+    "maritime-southeast-asia",
+    "river",
+    "lake",
+    "drowning",
+    "guardian-spirit"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "Malay Peninsula",
+    "East Coast of Peninsular Malaysia",
+    "Borneo",
+    "Sumatra",
+    "Java",
+    "Riau Archipelago"
+  ],
+  "origin": "Maritime Southeast Asia, especially the Malay-speaking world: peninsular Malaysia, Indonesia, Brunei, Singapore, southern Thailand, and the broader Malay diaspora.",
+  "first_reported": "Pre-Islamic",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

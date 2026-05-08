@@ -2,16 +2,67 @@
   "id": "nightmare",
   "name": "Nightmare",
   "category": "entity_spirit",
-  "description": "The word **\\\"nightmare\\\"** represents a fascinating linguistic evolution from supernatural entity to psychological experience.",
-  "aliases": [],
+  "description": "The mare — a female demon of Germanic and Slavic folklore that rides sleepers' chests, causing sleep paralysis and bad dreams. The original referent of the modern English word 'nightmare'.",
+  "aliases": [
+    {
+      "name": "Mare",
+      "language": "Old English / Old Norse / Common Germanic",
+      "meaning": "Female demon that 'rides' sleepers"
+    },
+    {
+      "name": "Mære",
+      "language": "Old English"
+    },
+    {
+      "name": "Mara",
+      "language": "Old Norse / Swedish / Polish"
+    },
+    {
+      "name": "Mahr",
+      "language": "German"
+    },
+    {
+      "name": "Nachtmerrie",
+      "language": "Dutch"
+    },
+    {
+      "name": "Mardröm",
+      "language": "Swedish",
+      "meaning": "'Mare-dream'"
+    },
+    {
+      "name": "Cauchemar",
+      "language": "French"
+    },
+    {
+      "name": "Zmora / Mora",
+      "language": "Polish / Slavic"
+    },
+    {
+      "name": "Můra",
+      "language": "Czech"
+    },
+    {
+      "name": "Lidérc / Lidércnyomás",
+      "language": "Hungarian"
+    }
+  ],
   "tags": [
+    "germanic",
+    "slavic",
+    "sleep-paralysis",
+    "mare",
+    "incubus",
     "folklore",
-    "mythology"
+    "etymology"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "Germanic Europe",
+    "Slavic Europe"
+  ],
+  "origin": "Germanic and Slavic Europe; the mare and her cognates are documented across Scandinavia, the Low Countries, German-speaking Europe, the British Isles, and Slavic lands.",
+  "first_reported": "13th century",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

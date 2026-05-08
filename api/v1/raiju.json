@@ -1,17 +1,41 @@
 {
   "id": "raiju",
-  "name": "Raiju (雷獣)",
+  "name": "Raiju",
   "category": "mythological_creature",
-  "description": "Unlike many yokai that maintain consistent forms, Raiju is notable for its protean nature, described across centuries with wildly varying appearances—from a fierce weasel wrapped in lightning to a cat-like creature with blue-white fur, a badger-like tanuki radiating electrical energy, or even a monkey whose leaping movements mirror lightning's erratic paths.",
-  "aliases": [],
-  "tags": [
-    "folklore",
-    "mythology"
+  "description": "Raiju (雷獣, 'thunder beast') is a legendary yōkai from Japanese mythology, the companion of Raijin the thunder god, whose body is composed of or wrapped in lightning. It descends during thunderstorms, becomes agitated, and may take many animal forms — most often a weasel, wolf, or cat — depending on the regional tradition.",
+  "aliases": [
+    {
+      "name": "雷獣",
+      "language": "Japanese",
+      "meaning": "Thunder animal / thunder beast"
+    },
+    {
+      "name": "Raijuu",
+      "language": "Japanese (romanized)",
+      "meaning": "Alternative Hepburn romanization of the same term"
+    }
   ],
-  "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "tags": [
+    "japanese",
+    "yokai",
+    "lightning",
+    "thunder",
+    "mythology",
+    "edo-period",
+    "raijin",
+    "elemental",
+    "shapeshifter"
+  ],
+  "status": "historical",
+  "regions": [
+    "Kantō",
+    "Tōhoku",
+    "Chūbu",
+    "Kinki",
+    "East Japan"
+  ],
+  "origin": "Raiju legends are primarily concentrated in East Japan, with notable regional variants throughout the Japanese archipelago. Most documented accounts come from the Edo period, with locations including Akita, Shinano, Echigo, Sagami, Aizu, Lake Biwa, and Akō.",
+  "first_reported": "1603-01-01",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

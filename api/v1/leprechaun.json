@@ -1,17 +1,57 @@
 {
   "id": "leprechaun",
   "name": "Leprechaun",
-  "category": "|_broader_irish_fairy_folk_|",
-  "description": "The leprechaun is a small fairy from Irish folklore, typically depicted as a small old man (2-3 feet tall) dressed in green (modern) or red/brown (original), with a beard and buckled shoes.",
-  "aliases": [],
-  "tags": [
-    "folklore",
-    "mythology"
+  "category": "fae_folklore",
+  "description": "The leprechaun is a diminutive male solitary fairy of Irish folklore, traditionally portrayed as a shoemaker who guards a hidden hoard of gold. He is descended from Old Irish luchorpán, first attested in the 8th-century saga Echtra Fergusa maic Léti.",
+  "aliases": [
+    {
+      "name": "leipreachán",
+      "language": "Modern Irish"
+    },
+    {
+      "name": "luchorpán",
+      "language": "Old Irish",
+      "meaning": "supposed early form of the name; Old Irish lexicon term"
+    },
+    {
+      "name": "lupracán / luchrapán",
+      "language": "Old/Middle Irish",
+      "meaning": "variant Old/Middle Irish forms"
+    },
+    {
+      "name": "Cluricaune",
+      "language": "Hiberno-English",
+      "region": "Munster (Ireland)"
+    },
+    {
+      "name": "Luricawne",
+      "language": "Hiberno-English",
+      "region": "Kerry (Ireland)"
+    },
+    {
+      "name": "Lurikeen",
+      "language": "Hiberno-English"
+    }
   ],
-  "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "tags": [
+    "ireland",
+    "fae",
+    "fairy",
+    "solitary-fairy",
+    "cobbler",
+    "shoemaker",
+    "gold",
+    "folklore"
+  ],
+  "status": "active",
+  "regions": [
+    "Ulster",
+    "Munster",
+    "Leinster",
+    "Connacht"
+  ],
+  "origin": "Native to the folklore of Ireland; the figure is a defining feature of Irish national folklore and has been transmitted globally through the Irish diaspora and through 20th- and 21st-century popular media.",
+  "first_reported": "8th century CE",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

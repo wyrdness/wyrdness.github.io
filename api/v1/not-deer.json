@@ -1,17 +1,38 @@
 {
   "id": "not-deer",
   "name": "Not Deer",
-  "category": "modern_cryptid",
-  "description": "The **Not Deer** is a modern cryptid that emerged around 2019, described as a deer that appears fundamentally wrong, triggering uncanny valley responses.",
-  "aliases": [],
-  "tags": [
-    "folklore",
-    "mythology"
+  "category": "urban_legend",
+  "description": "An internet-era cryptid that emerged in 2019 — a deer-shaped creature that strikes observers as fundamentally 'wrong'. Strongly associated with Appalachia and propagated through Tumblr and TikTok.",
+  "aliases": [
+    {
+      "name": "Not-Deer",
+      "language": "English (online usage)"
+    },
+    {
+      "name": "Notdeer",
+      "language": "English (compressed online usage)"
+    }
   ],
-  "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "tags": [
+    "appalachia",
+    "internet-folklore",
+    "tumblr",
+    "tiktok",
+    "uncanny",
+    "cryptid",
+    "digital-folklore"
+  ],
+  "status": "active",
+  "regions": [
+    "Appalachia",
+    "West Virginia",
+    "Virginia",
+    "Kentucky",
+    "Tennessee",
+    "North Carolina"
+  ],
+  "origin": "Reports concentrate in the Appalachian region of the eastern United States, with online accounts also from elsewhere in North America.",
+  "first_reported": "2019-08-21",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

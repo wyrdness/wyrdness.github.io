@@ -1,17 +1,67 @@
 {
   "id": "trolls",
   "name": "Trolls",
-  "category": "|_fae_folklore_|",
-  "description": "Trolls are creatures from Scandinavian folklore, deeply embedded in the cultural traditions of Norway, Sweden, Denmark, and Iceland.",
-  "aliases": [],
+  "category": "fae_folklore",
+  "description": "Trolls are supernatural beings from Scandinavian and Norse folklore, typically described as large, old, strong, dim-witted humanoids dwelling in isolated mountains and caves; their defining characteristic is vulnerability to sunlight, which turns them to stone.",
+  "aliases": [
+    {
+      "name": "Trold",
+      "language": "Danish",
+      "region": "Denmark"
+    },
+    {
+      "name": "Troll",
+      "language": "Old Norse / Swedish / Norwegian",
+      "meaning": "fiend, demon, werewolf, giant"
+    },
+    {
+      "name": "Trǫll",
+      "language": "Old Norse",
+      "meaning": "archaic form; fiend or supernatural being"
+    },
+    {
+      "name": "Trow",
+      "language": "Scots/Norse",
+      "region": "Orkney and Shetland Islands",
+      "meaning": "smaller supernatural beings; from Norse troll"
+    },
+    {
+      "name": "Tusser",
+      "language": "Norwegian",
+      "region": "Norway",
+      "meaning": "smaller Norwegian trolls; sometimes distinguished from mountain trolls"
+    },
+    {
+      "name": "Bjergtrolde",
+      "language": "Danish",
+      "region": "Denmark",
+      "meaning": "mountain trolls"
+    }
+  ],
   "tags": [
+    "scandinavian",
     "folklore",
-    "mythology"
+    "norse",
+    "mythological",
+    "mountain",
+    "cave-dweller",
+    "shapeshifter",
+    "nocturnal",
+    "norway",
+    "sweden",
+    "denmark",
+    "iceland"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "Norwegian mountain regions",
+    "Swedish forests",
+    "Danish lowlands",
+    "Icelandic highlands",
+    "Orkney and Shetland (trow tradition)"
+  ],
+  "origin": "Scandinavian and Norse cultural sphere. Most deeply embedded in Norwegian, Swedish, and Danish folklore. Also present in Icelandic tradition and in Norse-influenced areas including Orkney and Shetland (as 'trows').",
+  "first_reported": "0900-01-01",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

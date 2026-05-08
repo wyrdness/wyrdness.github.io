@@ -1,17 +1,34 @@
 {
   "id": "enenra",
-  "name": "Enenra (煙々羅)",
+  "name": "Enenra",
   "category": "entity_spirit",
-  "description": "The Enenra is a relatively obscure Japanese yokai that takes the form of smoke or vapor.",
-  "aliases": [],
+  "description": "A Japanese yōkai composed of smoke, said to dwell in bonfires and to be visible only to the pure of heart; first illustrated by Toriyama Sekien in the 1781 yōkai compendium Konjaku Hyakki Shūi.",
+  "aliases": [
+    {
+      "name": "煙々羅",
+      "language": "Japanese (kanji)",
+      "meaning": "Literal 'gauzy-fabric of smoke'"
+    },
+    {
+      "name": "Enenra",
+      "language": "Japanese (rōmaji)"
+    }
+  ],
   "tags": [
-    "folklore",
-    "mythology"
+    "yokai",
+    "japan",
+    "smoke",
+    "edo-period",
+    "toriyama-sekien",
+    "hyakki",
+    "intangible-spirit"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "Edo-period Japan (broad)"
+  ],
+  "origin": "Japanese folklore; the figure originates in Edo-period yōkai literature and is part of the contemporary national Japanese supernatural canon.",
+  "first_reported": "1781-01-01",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

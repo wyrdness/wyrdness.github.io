@@ -2,16 +2,36 @@
   "id": "hodag",
   "name": "Hodag",
   "category": "cryptid",
-  "description": "The Hodag is a fearsome creature from Wisconsin lumberjack folklore, described as having a frog's head, elephant's face, thick short legs, huge claws, spikes along its back, and a long tail.",
-  "aliases": [],
+  "description": "A horned, spiked, scaly creature from northern Wisconsin lumberjack folklore, made famous by surveyor Eugene Shepard's 1893 hoax in Rhinelander; now the official symbol of the city.",
+  "aliases": [
+    {
+      "name": "Bovine spiritualis",
+      "language": "Pseudo-Latin",
+      "meaning": "Mock-scientific name used in Eugene Shepard's 1893 publicity material"
+    },
+    {
+      "name": "Black Hodag of Rhinelander",
+      "region": "Rhinelander, Wisconsin, USA"
+    }
+  ],
   "tags": [
-    "folklore",
-    "mythology"
+    "fearsome-critter",
+    "wisconsin",
+    "rhinelander",
+    "hoax",
+    "lumberjack-folklore",
+    "north-america",
+    "mascot",
+    "shepard-hoax"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "Wisconsin",
+    "Oneida County",
+    "Rhinelander"
+  ],
+  "origin": "Strongly localised to northern Wisconsin, especially Oneida County and the area around Rhinelander.",
+  "first_reported": "1893",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

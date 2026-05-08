@@ -2,16 +2,35 @@
   "id": "tote-road-shagamaw",
   "name": "Tote-Road Shagamaw",
   "category": "cryptid",
-  "description": "The Tote-Road Shagamaw is one of the most anatomically absurd fearsome critters.",
-  "aliases": [],
-  "tags": [
-    "folklore",
-    "mythology"
+  "description": "A 'fearsome critter' of North American lumberjack folklore, first described in William T. Cox's 1910 Fearsome Creatures of the Lumberwoods. The Shagamaw has the front quarters of a bear and the hindquarters of a moose, and supposedly walks on its forelegs for exactly a quarter of a mile before switching to its hind legs.",
+  "aliases": [
+    {
+      "name": "Shagamaw",
+      "language": "English",
+      "region": "North American lumberwoods"
+    },
+    {
+      "name": "Toteroad Shagamaw",
+      "language": "English",
+      "region": "North American lumberwoods"
+    }
   ],
-  "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "tags": [
+    "fearsome-critters",
+    "lumberjack-folklore",
+    "north-america",
+    "tall-tale",
+    "maine",
+    "humorous-folklore"
+  ],
+  "status": "historical",
+  "regions": [
+    "Maine north woods",
+    "Aroostook County",
+    "northern New England lumber camps"
+  ],
+  "origin": "Cox locates the Shagamaw in the Maine lumberwoods, with Aroostook County mentioned in his account.",
+  "first_reported": "1910",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

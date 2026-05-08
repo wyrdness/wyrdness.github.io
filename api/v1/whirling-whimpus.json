@@ -2,16 +2,33 @@
   "id": "whirling-whimpus",
   "name": "Whirling Whimpus",
   "category": "cryptid",
-  "description": "The Whirling Whimpus is a creature defined entirely by its motion.",
-  "aliases": [],
+  "description": "A 'fearsome critter' of North American lumberjack tall tales: a gorilla-shaped beast that spins so fast it becomes invisible, mistaken for a small dust devil or whirlwind, and crushes anything that strays into its path.",
+  "aliases": [
+    {
+      "name": "Whirling Wimpus",
+      "region": "Appalachian and lumberwoods folklore"
+    }
+  ],
   "tags": [
+    "fearsome-critter",
     "folklore",
-    "mythology"
+    "lumberwoods",
+    "appalachia",
+    "tall-tale",
+    "north-america",
+    "tornado",
+    "humanoid"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "Appalachian Mountains",
+    "Tennessee",
+    "Great Lakes lumberwoods",
+    "Eastern United States",
+    "Canadian timber country"
+  ],
+  "origin": "A tall-tale beast of the North American lumberwoods, particularly the Appalachian Mountains and the Great Lakes / eastern logging regions in which the fearsome-critters tradition flourished c.1880–1940. Often associated specifically with Tennessee and the southern Appalachians.",
+  "first_reported": "1910",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

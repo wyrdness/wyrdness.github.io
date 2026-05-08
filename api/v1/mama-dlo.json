@@ -1,17 +1,42 @@
 {
   "id": "mama-dlo",
-  "name": "Mama Dlo / Mama D'Leau",
+  "name": "Mama Dlo",
   "category": "entity_spirit",
-  "description": "Mama Dlo (also Mama D'Leau, from French Creole \\\"Maman de l'Eau\\\" meaning \\\"Mother of Water\\\") is one of Trinidad and Tobago's most powerful and culturally significant folkloric entities.",
-  "aliases": [],
+  "description": "A Caribbean water guardian spirit, particularly prominent in Trinidad and Tobago, depicted as a beautiful woman from the waist up with the lower body of a great snake. She protects rivers, streams, and the animals that live in them.",
+  "aliases": [
+    {
+      "name": "Mama D'Leau",
+      "language": "French Creole",
+      "region": "Trinidad and Tobago",
+      "meaning": "Mother of the Water"
+    },
+    {
+      "name": "Mama Glo",
+      "language": "English Creole",
+      "region": "Trinidad and Tobago"
+    },
+    {
+      "name": "Maman de l'Eau",
+      "language": "French",
+      "meaning": "Mother of the Water"
+    }
+  ],
   "tags": [
+    "water-spirit",
+    "guardian",
+    "serpent",
+    "caribbean",
     "folklore",
-    "mythology"
+    "trinidad-and-tobago",
+    "afro-caribbean"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "Lesser Antilles",
+    "Caribbean"
+  ],
+  "origin": "Folkloric tradition of the southern Caribbean, particularly Trinidad and Tobago, with related figures in Saint Lucia and Dominica.",
+  "first_reported": "20th century",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

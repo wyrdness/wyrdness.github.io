@@ -2,15 +2,37 @@
   "id": "pegasus",
   "name": "Pegasus",
   "category": "mythological_creature",
-  "description": "Pegasus is a divine winged horse in Greek mythology, born from the blood of the Gorgon Medusa when Perseus beheaded her.",
-  "aliases": [],
+  "description": "Pegasus is the immortal winged horse of Greek mythology, sired by Poseidon and born from the blood of the Gorgon Medusa when Perseus beheaded her; the steed of the hero Bellerophon, later the bearer of Zeus's thunderbolts and the namesake of the constellation Pegasus.",
+  "aliases": [
+    {
+      "name": "Pegasos",
+      "language": "Ancient Greek (Pegasos)",
+      "region": "Greece",
+      "meaning": "Standard Greek form of the name"
+    },
+    {
+      "name": "Pegasus",
+      "language": "Latin",
+      "region": "Roman world"
+    }
+  ],
   "tags": [
-    "source-of-poetic-inspiration"
+    "greek-mythology",
+    "winged-horse",
+    "hippoid",
+    "perseus",
+    "bellerophon",
+    "constellation",
+    "olympus"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "Boeotia (Mount Helicon)",
+    "Corinth and the Corinthian Gulf",
+    "Lycia"
+  ],
+  "origin": "As a literary and religious figure, Pegasus belongs to the Greek and wider Mediterranean mythological imagination, with a documented narrative geography centred on Corinth, Mount Helicon, Lycia, and Mount Olympus.",
+  "first_reported": "0700 BCE",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

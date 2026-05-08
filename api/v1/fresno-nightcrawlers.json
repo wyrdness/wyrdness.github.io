@@ -2,16 +2,41 @@
   "id": "fresno-nightcrawlers",
   "name": "Fresno Nightcrawlers",
   "category": "cryptid",
-  "description": "The Fresno Nightcrawlers are mysterious entities captured on surveillance video in Fresno, California (2007) and Yosemite (2011).",
-  "aliases": [],
-  "tags": [
-    "folklore",
-    "mythology"
+  "description": "The Fresno Nightcrawlers are small bipedal entities famous from a brief 2007 home-security video filmed in a Fresno, California front yard, depicting two pale figures consisting almost entirely of legs and a small head with no visible torso or arms.",
+  "aliases": [
+    {
+      "name": "Fresno Nightcrawler",
+      "language": "English",
+      "region": "California, USA"
+    },
+    {
+      "name": "Yosemite Nightcrawlers",
+      "language": "English",
+      "region": "California, USA"
+    },
+    {
+      "name": "'Walking pants'",
+      "language": "English (popular)",
+      "region": "Internet meme name"
+    }
   ],
-  "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "tags": [
+    "cryptid",
+    "internet-cryptid",
+    "california",
+    "fresno",
+    "yosemite",
+    "surveillance-video",
+    "hoax-likely",
+    "2007"
+  ],
+  "status": "unverified",
+  "regions": [
+    "Central Valley, California",
+    "Sierra Nevada foothills, California"
+  ],
+  "origin": "All canonical Nightcrawler footage originates within California's Central Valley and adjacent Sierra Nevada foothills.",
+  "first_reported": "2007-01-01",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

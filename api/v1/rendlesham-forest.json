@@ -1,17 +1,47 @@
 {
   "id": "rendlesham-forest",
-  "name": "Rendlesham Forest Incident - Britain's Roswell",
+  "name": "Rendlesham Forest Incident",
   "category": "ufo_uap",
-  "description": "The Rendlesham Forest Incident is Britain's most famous UFO event, often called \\\"Britain's Roswell.",
-  "aliases": [],
+  "description": "A series of reported sightings of unexplained lights and a possible craft over three nights in late December 1980 by U.S. Air Force personnel near the twin NATO bases of RAF Bentwaters and RAF Woodbridge in Suffolk, England.",
+  "aliases": [
+    {
+      "name": "Britain's Roswell",
+      "language": "English",
+      "region": "United Kingdom"
+    },
+    {
+      "name": "Bentwaters–Woodbridge UFO Incident",
+      "language": "English"
+    },
+    {
+      "name": "Rendlesham Forest UFO Incident",
+      "language": "English"
+    },
+    {
+      "name": "The Halt Incident",
+      "language": "English",
+      "meaning": "after Lt. Col. Charles Halt, principal U.S. military witness"
+    }
+  ],
   "tags": [
-    "folklore",
-    "mythology"
+    "ufo",
+    "1980",
+    "suffolk",
+    "raf-bentwaters",
+    "raf-woodbridge",
+    "usaf",
+    "halt-memo",
+    "britain",
+    "cold-war",
+    "trace-evidence-claimed"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "Suffolk",
+    "East Anglia"
+  ],
+  "origin": "Single localised incident in Rendlesham Forest, Suffolk, England, between RAF Woodbridge and RAF Bentwaters.",
+  "first_reported": "1980-12-26",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

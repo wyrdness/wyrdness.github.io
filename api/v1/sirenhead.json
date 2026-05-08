@@ -1,17 +1,33 @@
 {
   "id": "sirenhead",
-  "name": "Sirenhead",
-  "category": "|_internet_folklore_/_cryptid_|",
-  "description": "Sirenhead is a horror character created by Canadian artist Trevor Henderson in 2018 through digital artwork posted to social media.",
-  "aliases": [],
-  "tags": [
-    "folklore",
-    "mythology"
+  "name": "Siren Head",
+  "category": "urban_legend",
+  "description": "Siren Head is a fictional horror entity created by Canadian artist Trevor Henderson in 2018 — a skeletal 40-foot-tall humanoid with two mechanical sirens in place of a head — that spread virally through internet horror communities and inspired games, videos, and fan works before being misidentified by some users as a real cryptid.",
+  "aliases": [
+    {
+      "name": "Sirenhead",
+      "language": "English",
+      "meaning": "Common one-word spelling used by fans and media"
+    }
   ],
-  "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "tags": [
+    "internet-folklore",
+    "modern-cryptid",
+    "horror",
+    "trevor-henderson",
+    "fictional",
+    "urban-legend",
+    "analog-horror",
+    "creepypasta",
+    "humanoid",
+    "giant"
+  ],
+  "status": "active",
+  "regions": [
+    "Rural North America (fictional setting)"
+  ],
+  "origin": "A fictional entity with no real-world geographic range. In its fictional framing, depicted in rural North American settings.",
+  "first_reported": "2018-01-01",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

@@ -1,16 +1,55 @@
 {
   "id": "roc",
-  "name": "Roc (الرخ / Rukh)",
+  "name": "Roc",
   "category": "mythological_creature",
-  "description": "The Roc (Arabic: الرخ, romanized: al-Rukh; also spelled Rukh, Ruc, or Rokh) is a legendary giant bird of prey from Arabian and Persian mythology, most famously featured in the tales of *One Thousand and One Nights* (*Arabian Nights*).",
-  "aliases": [],
-  "tags": [
-    "and-meaning"
+  "description": "The Roc (Arabic: الرُخّ, al-Rukh) is a legendary giant bird of prey from Arabian and Persian mythology, most famously described in the tales of One Thousand and One Nights, capable of carrying elephants in its talons. Its egg alone was said to measure 50 paces in circumference.",
+  "aliases": [
+    {
+      "name": "الرُخّ",
+      "language": "Arabic",
+      "meaning": "Al-Rukh; the original Arabic name for the creature"
+    },
+    {
+      "name": "Rukh",
+      "language": "Arabic / Persian",
+      "meaning": "Transliteration of the Arabic/Persian name"
+    },
+    {
+      "name": "Ruḵḵ",
+      "language": "Arabic (scholarly romanization)",
+      "meaning": "Scholarly romanization of the Arabic name"
+    },
+    {
+      "name": "Ruc",
+      "language": "Medieval Latin / European",
+      "meaning": "Medieval European transliteration used by Marco Polo and other travelers"
+    },
+    {
+      "name": "Rokh",
+      "language": "Persian",
+      "meaning": "Persian form of the name"
+    }
   ],
-  "status": "documented",
-  "regions": [],
-  "origin": "Arabian/Persian",
-  "first_reported": "Unknown",
+  "tags": [
+    "arabian",
+    "persian",
+    "mythology",
+    "giant-bird",
+    "one-thousand-and-one-nights",
+    "sinbad",
+    "marco-polo",
+    "indian-ocean",
+    "islam",
+    "folklore"
+  ],
+  "status": "historical",
+  "regions": [
+    "Indian Ocean",
+    "Arabian Sea",
+    "East African coast (Madagascar region)"
+  ],
+  "origin": "In Arabian and Persian tradition, the roc inhabits remote islands in the Indian Ocean, particularly in the region visited by Sinbad's voyages. Marco Polo located it in the vicinity of Madagascar. As a mythological creature, it has no literal geographic range.",
+  "first_reported": "0900-01-01",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

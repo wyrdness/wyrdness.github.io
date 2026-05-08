@@ -1,16 +1,34 @@
 {
   "id": "futakuchi-onna",
   "name": "Futakuchi-onna",
-  "category": "|_demon_hag_yokai_|",
-  "description": "This second mouth has teeth, lips, and the ability to speak—often **screaming demands for food**.",
-  "aliases": [],
-  "tags": [
-    "&-themes"
+  "category": "entity_spirit",
+  "description": "Futakuchi-onna is a Japanese yokai — a two-mouthed woman — whose hair moves like serpents to feed a second, fully functional mouth on the back of her head that screams demands for food and causes excruciating pain if unfed.",
+  "aliases": [
+    {
+      "name": "二口女",
+      "language": "Japanese",
+      "meaning": "Two-mouthed woman"
+    },
+    {
+      "name": "Two-Mouthed Woman",
+      "language": "English",
+      "meaning": "Direct translation of futakuchi-onna"
+    }
   ],
-  "status": "documented",
+  "tags": [
+    "yokai",
+    "japan",
+    "curse",
+    "supernatural",
+    "horror",
+    "female-entity",
+    "hunger",
+    "transformation"
+  ],
+  "status": "historical",
   "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "origin": "A creature of Japanese folklore; associated with rural Japan in the Edo period and earlier. No specific geographic region within Japan is particularly associated with the futakuchi-onna.",
+  "first_reported": "1800-01-01",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

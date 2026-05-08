@@ -2,15 +2,61 @@
   "id": "siren",
   "name": "Siren",
   "category": "mythological_creature",
-  "description": "Sirens are dangerous creatures from Greek mythology who lured sailors to their deaths with irresistibly beautiful singing.",
-  "aliases": [],
+  "description": "Sirens are mythological singers of Greek tradition, originally depicted as bird-women whose irresistible song lures sailors to their deaths on rocky islands of the western Mediterranean. From the early medieval period the figure was progressively conflated with the fish-tailed mermaid; modern usage encompasses both forms.",
+  "aliases": [
+    {
+      "name": "Σειρήν",
+      "language": "Ancient Greek (singular: Seirḗn)"
+    },
+    {
+      "name": "Σειρῆνες",
+      "language": "Ancient Greek (plural: Seirênes)"
+    },
+    {
+      "name": "Sirena",
+      "language": "Latin / Romance (descendant)"
+    },
+    {
+      "name": "Parthenope",
+      "language": "Greek",
+      "meaning": "named siren whose tomb was the legendary foundation of Naples"
+    },
+    {
+      "name": "Ligeia",
+      "language": "Greek",
+      "meaning": "named siren ('clear-toned')"
+    },
+    {
+      "name": "Leucosia",
+      "language": "Greek",
+      "meaning": "named siren ('white substance')"
+    },
+    {
+      "name": "Thelxiepeia / Thelxiope",
+      "language": "Greek",
+      "meaning": "named siren ('enchanting voice')"
+    }
+  ],
   "tags": [
-    "&-interpretation"
+    "greek-mythology",
+    "homer",
+    "odyssey",
+    "argonautica",
+    "bird-woman",
+    "mermaid",
+    "tyrrhenian-sea",
+    "music",
+    "temptation"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "Tyrrhenian Sea",
+    "Sorrentine Peninsula",
+    "Bay of Naples",
+    "Campania"
+  ],
+  "origin": "Greek and Roman literary geography places the sirens in the western Mediterranean, principally off the Tyrrhenian and Campanian coasts of Italy. The medieval mermaid-siren is much more widely distributed across European bestiary geography.",
+  "first_reported": "Late 8th century BCE",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

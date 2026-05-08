@@ -2,15 +2,43 @@
   "id": "papa-bois",
   "name": "Papa Bois",
   "category": "entity_spirit",
-  "description": "Papa Bois, the \\\"Father of the Woods,\\\" is the ancient guardian spirit of forests and wildlife in Trinidad and Tobago folklore.",
-  "aliases": [],
+  "description": "Papa Bois ('Father of the Forest') is the protector spirit of forests and wildlife in Trinidad and Tobago and parts of the wider Lesser Antilles, depicted as an old, hairy, hooved man who guards animals from hunters and punishes those who waste or abuse the forest.",
+  "aliases": [
+    {
+      "name": "Papa Bwa",
+      "language": "French Creole / patois",
+      "region": "Trinidad and Tobago, Lesser Antilles",
+      "meaning": "'Father of the Wood'"
+    },
+    {
+      "name": "Maitre Bois",
+      "language": "French",
+      "region": "Trinidad and Tobago",
+      "meaning": "'Master of the Woods'"
+    },
+    {
+      "name": "Daddy Bouchon",
+      "region": "Trinidad and Tobago",
+      "meaning": "'Hairy man' (bouchon = shaggy/hairy)"
+    }
+  ],
   "tags": [
-    "while-maintaining-african-essence"
+    "caribbean",
+    "trinidad-and-tobago",
+    "forest-guardian",
+    "nature-spirit",
+    "shapeshifter",
+    "folklore",
+    "creole"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "Lesser Antilles",
+    "Caribbean",
+    "West Indies"
+  ],
+  "origin": "Papa Bois is principally a Trinidadian and Tobagonian folklore figure; closely related figures appear in the French/Creole-influenced islands of the Lesser Antilles, including Saint Lucia, Dominica, and Grenada.",
+  "first_reported": "1800s",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

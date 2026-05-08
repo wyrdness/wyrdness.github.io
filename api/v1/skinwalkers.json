@@ -1,17 +1,46 @@
 {
   "id": "skinwalkers",
-  "name": "Skinwalkers (Yee Naaldlooshii)",
+  "name": "Skinwalker (Yee Naaldlooshii)",
   "category": "shapeshifter",
-  "description": "They are said to possess the ability to transform into animals (most commonly coyotes, wolves, foxes, eagles, owls, or crows) by wearing the pelts of these creatures.",
-  "aliases": [],
+  "description": "In some Indigenous American legends, a skinwalker (Navajo: yee naaldlooshii) is a harmful witch with the power to disguise itself as, transform into, or possess an animal. The figure is deeply embedded in Navajo tradition and is rarely discussed with outsiders.",
+  "aliases": [
+    {
+      "name": "Yee Naaldlooshii",
+      "language": "Navajo (Diné Bizaad)",
+      "region": "Navajo Nation, southwestern United States",
+      "meaning": "'By means of it, it goes on all fours'"
+    },
+    {
+      "name": "'Ánti'įhnii",
+      "language": "Navajo (Diné Bizaad)",
+      "region": "Navajo Nation",
+      "meaning": "Witch / one who practices witchcraft (broader category)"
+    },
+    {
+      "name": "Navajo witch",
+      "region": "Southwestern United States"
+    }
+  ],
   "tags": [
+    "shapeshifter",
+    "witch",
+    "navajo",
+    "indigenous",
+    "southwestern-united-states",
     "folklore",
-    "mythology"
+    "harmful-magic"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "Navajo Nation",
+    "Arizona",
+    "New Mexico",
+    "Utah",
+    "Colorado",
+    "Four Corners region"
+  ],
+  "origin": "Yee naaldlooshii belief is specific to Navajo (Diné) communities of the Four Corners region of the southwestern United States. Outside that cultural context, an English-language 'skinwalker' folklore — often substantially altered from the Navajo tradition — circulates broadly across North American popular culture and the internet.",
+  "first_reported": "Pre-contact",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

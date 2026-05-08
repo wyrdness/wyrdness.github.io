@@ -1,17 +1,40 @@
 {
   "id": "mogwai",
-  "name": "Mogwai (魔怪)",
-  "category": "encompasses_diverse_physical_forms._however,_certain_common_characteristics_appear_across_many_accounts:",
-  "description": "The mogwai (魔怪, mó guài) represents a category of demons and mischievous supernatural entities in traditional Chinese folklore, distinct from and predating the popular 1984 American film that borrowed the name.",
-  "aliases": [],
+  "name": "Mogwai",
+  "category": "entity_spirit",
+  "description": "Mogwai (魔鬼, Cantonese mō gwái) is a Chinese term for demons, devils, or evil spirits, denoting a category of malevolent supernatural beings in Chinese folk and religious traditions.",
+  "aliases": [
+    {
+      "name": "魔鬼",
+      "language": "Cantonese (Chinese)",
+      "meaning": "demon, devil, evil spirit"
+    },
+    {
+      "name": "Mógui",
+      "language": "Mandarin Chinese",
+      "meaning": "demon"
+    },
+    {
+      "name": "Mogwai",
+      "language": "Cantonese romanisation",
+      "region": "Hong Kong / Cantonese-speaking areas"
+    }
+  ],
   "tags": [
-    "folklore",
-    "mythology"
+    "demon",
+    "spirit",
+    "chinese-folklore",
+    "buddhist-influence",
+    "evil-spirit"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "Chinese-speaking world",
+    "Cantonese-speaking regions",
+    "Sinosphere (Vietnam, Korea, Japan via Buddhist transmission)"
+  ],
+  "origin": "Mogwai are part of the broad Chinese demonological tradition and appear throughout Chinese-speaking cultures and the Sinosphere (where Chinese Buddhism and Daoism shaped local folklore).",
+  "first_reported": "Medieval Chinese Buddhist texts",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

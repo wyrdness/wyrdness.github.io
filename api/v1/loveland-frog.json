@@ -2,16 +2,34 @@
   "id": "loveland-frog",
   "name": "Loveland Frog",
   "category": "cryptid",
-  "description": "The Loveland Frog (also known as the Loveland Frogman) is a cryptid reported in Loveland, Ohio near the Little Miami River.",
-  "aliases": [],
-  "tags": [
-    "folklore",
-    "mythology"
+  "description": "The Loveland Frog (or Frogman) is a roughly four-foot-tall bipedal humanoid with leathery skin and a frog- or lizard-like face, reported around Loveland, Ohio along the Little Miami River. It is most famous for two 1972 sightings by Loveland police officers — one of whom later identified the creature as a tailless escaped iguana.",
+  "aliases": [
+    {
+      "name": "Loveland Frogman",
+      "region": "Ohio, USA"
+    },
+    {
+      "name": "Loveland Lizard",
+      "region": "Ohio, USA"
+    }
   ],
-  "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "tags": [
+    "cryptid",
+    "humanoid",
+    "amphibian",
+    "reptilian",
+    "ohio",
+    "river-creature",
+    "police-witness"
+  ],
+  "status": "dormant",
+  "regions": [
+    "Ohio",
+    "Cincinnati metropolitan area",
+    "Little Miami River valley"
+  ],
+  "origin": "Reports are tightly localised to Loveland, Ohio and the Little Miami River corridor in Hamilton, Clermont, and Warren counties.",
+  "first_reported": "1955",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

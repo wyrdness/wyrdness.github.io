@@ -1,17 +1,43 @@
 {
   "id": "pope-lick-monster",
   "name": "Pope Lick Monster",
-  "category": "cryptid_/_urban_legend",
-  "description": "The Pope Lick Monster is an urban legend from Louisville, Kentucky, centered on a railroad trestle over Pope Lick Creek.",
-  "aliases": [],
+  "category": "cryptid",
+  "description": "An urban-legend cryptid said to inhabit the Norfolk Southern railway trestle over Pope Lick Creek in the Fisherville neighborhood of Louisville, Kentucky. Described as a part-man, part-goat (and sometimes part-sheep) creature that lures trespassers onto the active trestle.",
+  "aliases": [
+    {
+      "name": "Goatman",
+      "region": "Louisville, Kentucky, USA",
+      "meaning": "Colloquial name for the part-man, part-goat figure"
+    },
+    {
+      "name": "The Sheepman",
+      "region": "Louisville, Kentucky, USA"
+    },
+    {
+      "name": "Pope Lick Goat Man",
+      "region": "Louisville, Kentucky, USA"
+    }
+  ],
   "tags": [
-    "folklore",
-    "mythology"
+    "urban-legend",
+    "cryptid",
+    "humanoid",
+    "goat",
+    "kentucky",
+    "louisville",
+    "trestle",
+    "siren-figure",
+    "lure"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "Kentucky",
+    "Louisville metropolitan area",
+    "Fisherville",
+    "Jefferson County"
+  ],
+  "origin": "Strictly local urban legend confined to the Pope Lick Creek trestle in the Fisherville neighborhood of eastern Louisville, Kentucky.",
+  "first_reported": "1988",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

@@ -1,16 +1,76 @@
 {
   "id": "lindworm",
   "name": "Lindworm",
-  "category": "european_dragon",
-  "description": "The **lindworm** (also lindwurm, lindorm) is a wingless, serpentine dragon from Scandinavian and Germanic folklore.",
-  "aliases": [],
+  "category": "mythological_creature",
+  "description": "A lindworm is a serpentine dragon of Germanic, Norse and Central European folklore — typically wingless, with two clawed forelimbs in continental traditions and entirely limbless in much Swedish lore. Unlike fire-breathing medieval dragons, lindworms emphasise venom, constriction, and treasure-hoarding.",
+  "aliases": [
+    {
+      "name": "Linnormr",
+      "language": "Old Norse"
+    },
+    {
+      "name": "Lindormr",
+      "language": "Old Norse"
+    },
+    {
+      "name": "Lindormber",
+      "language": "Old Swedish"
+    },
+    {
+      "name": "Lindorm",
+      "language": "Norwegian / Swedish / Danish"
+    },
+    {
+      "name": "Lintrache",
+      "language": "Middle High German",
+      "meaning": "'lin-dragon' (Nibelungenlied form)"
+    },
+    {
+      "name": "Lintwurm",
+      "language": "Middle High German"
+    },
+    {
+      "name": "Lindwurm",
+      "language": "German"
+    },
+    {
+      "name": "Lintworm",
+      "language": "Middle Low German / Middle English (1423)"
+    },
+    {
+      "name": "Lindeworm",
+      "language": "Middle Dutch"
+    },
+    {
+      "name": "Manorm",
+      "language": "Swedish",
+      "meaning": "'mane-worm' — variant with horse-like mane"
+    },
+    {
+      "name": "Hjulorm",
+      "language": "Swedish",
+      "meaning": "'wheel-worm' — variant that bites its tail to roll"
+    }
+  ],
   "tags": [
-    "and-meaning"
+    "dragon",
+    "serpent",
+    "germanic",
+    "norse",
+    "scandinavian",
+    "heraldry",
+    "wingless",
+    "european-folklore"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "Scandinavia",
+    "Central Europe",
+    "British Isles",
+    "Low Countries"
+  ],
+  "origin": "Lindworm folklore is concentrated in the Germanic-speaking and North European world: Scandinavia, the German-speaking lands, the Low Countries, and the British Isles, with regional offshoots reaching into Slavic and Baltic dragon imagery.",
+  "first_reported": "Pre-modern",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

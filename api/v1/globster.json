@@ -1,17 +1,38 @@
 {
   "id": "globster",
   "name": "Globster",
-  "category": "cryptid_(marine_mystery)",
-  "description": "Globsters are large, fibrous, blob-like masses of organic material that occasionally wash up on beaches around the world.",
-  "aliases": [],
-  "tags": [
-    "folklore",
-    "mythology"
+  "category": "cryptid",
+  "description": "An unidentified, often large, fibrous organic mass washed up on a shoreline. Once a staple of cryptozoological speculation, almost every well-studied globster has been identified by DNA or histology as the decomposed remains of a whale or other large vertebrate.",
+  "aliases": [
+    {
+      "name": "Blob",
+      "language": "English"
+    },
+    {
+      "name": "Sea blob",
+      "language": "English"
+    }
   ],
-  "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "tags": [
+    "marine",
+    "carcass",
+    "decomposition",
+    "whale",
+    "cryptozoology",
+    "shoreline",
+    "globster"
+  ],
+  "status": "debunked",
+  "regions": [
+    "North Atlantic",
+    "South Atlantic",
+    "Pacific",
+    "Tasman Sea",
+    "Caribbean",
+    "Bermuda"
+  ],
+  "origin": "Globsters have been reported on coastlines globally — Atlantic, Pacific, Indian Oceans, and adjacent seas. The phenomenon is not regional in any meaningful sense; it tracks the geography of large cetacean populations and shipping/observer density.",
+  "first_reported": "1808-09-01",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

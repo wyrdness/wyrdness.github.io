@@ -1,126 +1,61 @@
 {
-  "meta": {
-    "version": "1.0.0",
-    "schema_version": "1.0.0",
-    "last_updated": "2026-02-13",
-    "repository": "https://github.com/wyrdness/aswang",
-    "maintainers": [
-      {
-        "name": "Wyrdness Team",
-        "github": "wyrdness",
-        "role": "maintainer"
-      }
-    ],
-    "license": {
-      "data": "CC0-1.0",
-      "content": "CC-BY-4.0"
+  "id": "aswang",
+  "name": "Aswang",
+  "category": "shapeshifter",
+  "description": "The aswang is an umbrella term for a complex of shape-shifting evil creatures in Filipino folklore — among the most feared supernatural beings in the Philippines — that live as ordinary humans by day and become predatory monsters by night.",
+  "aliases": [
+    {
+      "name": "Manananggal",
+      "language": "Filipino",
+      "region": "Visayas / Luzon",
+      "meaning": "That which separates itself — refers to the self-segmenting viscera-sucker variant"
+    },
+    {
+      "name": "Tik-Tik",
+      "language": "Filipino",
+      "region": "Visayas",
+      "meaning": "Named for the ticking sound the creature makes; sound grows louder when the creature is far away and softer when close"
+    },
+    {
+      "name": "Wak-Wak",
+      "language": "Filipino",
+      "region": "Mindanao / Visayas",
+      "meaning": "Named for a bird-like cry; a variant that appears as a bird at night"
+    },
+    {
+      "name": "Sigbin",
+      "language": "Visayan",
+      "region": "Visayas",
+      "meaning": "A nocturnal creature variant said to walk backward"
+    },
+    {
+      "name": "Asuang",
+      "language": "Bikol",
+      "region": "Bicol region, Luzon",
+      "meaning": "Variant spelling and regional pronunciation; connected to the evil god Asuang in Bicol origin stories"
     }
-  },
-  "phenomenon": {
-    "id": "aswang",
-    "name": "Aswang",
-    "aliases": [],
-    "category": "SHAPESHIFTER_UNDEAD",
-    "subcategory": "Shapeshifter",
-    "tags": [
-      "folklore",
-      "mythology"
-    ],
-    "status": "documented",
-    "description": {
-      "summary": "The aswang is one of the most feared creatures in Philippine folklore, a shapeshifting being that lives as a human during the day but becomes a monstrous predator at night.",
-      "full": "The aswang is one of the most feared creatures in Philippine folklore, a shapeshifting being that lives as a human during the day but becomes a monstrous predator at night. Aswang exist in multiple forms across different Philippine regions: **blood-suckers**, **viscera suckers**, **weredogs**, **witches**, and **ghouls**. They possess abilities including shapeshifting into dogs, pigs, or birds, **sound reversal** (appearing far when close), and in some variants, the ability to **detach their upper torso** to fly. Aswang particularly target pregnant women and their unborn children, feeding through a long, hollow, **proboscis-like tongue**. The aswang remains a source of genuine fear in rural Philippine communities and represents deep-rooted cultural beliefs. > ⚠️ **CULTURAL SENSITIVITY**: Aswang beliefs are part of living Filipino folk tradition. These are not merely entertainment but reflect genuine cultural fears and protective practices."
-    },
-    "etymology": {
-      "origin": "Unknown",
-      "meaning": "To be documented",
-      "first_use": "Unknown"
-    }
-  },
-  "classification": {
-    "taxonomy": {
-      "category": "SHAPESHIFTER_UNDEAD",
-      "type": "Shapeshifter",
-      "subtype": "Unknown",
-      "variant": "Unknown"
-    },
-    "related_phenomena": []
-  },
-  "characteristics": {
-    "physical": {
-      "features": [],
-      "morphology": "See README.md for detailed physical description"
-    },
-    "abilities": [],
-    "behavior": {
-      "activity_period": "unknown",
-      "disposition": "unknown",
-      "habitat_preference": []
-    }
-  },
-  "distribution": {
-    "range": {
-      "description": "Unknown",
-      "continents": [],
-      "countries": [],
-      "regions": []
-    },
-    "hotspots": [],
-    "temporal": {
-      "first_recorded": {
-        "date": "Unknown",
-        "circa": true,
-        "source": "Traditional folklore"
-      }
-    }
-  },
-  "history": {
-    "origins": {
-      "cultural_roots": "Unknown",
-      "earliest_accounts": "See README.md for historical details",
-      "folklore_connections": "Unknown"
-    },
-    "timeline": []
-  },
-  "sightings": {
-    "statistics": {
-      "total_documented": 0,
-      "verified": 0,
-      "disputed": 0,
-      "debunked": 0
-    },
-    "notable": [],
-    "database_path": "./sightings/"
-  },
-  "evidence": {
-    "physical": [],
-    "photographic": [],
-    "video": [],
-    "audio": [],
-    "trace": []
-  },
-  "theories": {
-    "paranormal": [],
-    "scientific": [],
-    "skeptical": []
-  },
-  "cultural": {
-    "folklore": {
-      "traditions": [],
-      "stories": [],
-      "beliefs": "See README.md for cultural context"
-    },
-    "popular_culture": {
-      "literature": [],
-      "film_tv": [],
-      "games": [],
-      "other": []
-    }
-  },
-  "research": {
-    "researchers": [],
-    "organizations": [],
-    "ongoing_studies": "None documented"
-  },
-  "sources": []
+  ],
+  "tags": [
+    "shapeshifter",
+    "philippine-folklore",
+    "vampire",
+    "nocturnal",
+    "southeast-asia",
+    "undead",
+    "witch",
+    "viscera-sucker",
+    "humanoid"
+  ],
+  "status": "active",
+  "regions": [
+    "Visayas",
+    "Capiz Province (Panay Island)",
+    "Southern Luzon",
+    "Bicol region",
+    "Mindanao"
+  ],
+  "origin": "Aswang belief is widespread across the Philippine archipelago, with the highest concentration of tradition in the Visayas region, particularly the province of Capiz in Panay Island (historically called the 'aswang capital'). Variants are also prominent in southern Luzon and parts of Mindanao.",
+  "first_reported": "16th century",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
 }

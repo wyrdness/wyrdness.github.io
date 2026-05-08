@@ -1,16 +1,52 @@
 {
   "id": "moehau-man",
+  "name": "Moehau Man",
   "category": "cryptid",
-  "description": "No description available.",
-  "aliases": [],
-  "tags": [
-    "folklore",
-    "mythology"
+  "description": "A large, hairy bipedal cryptid said to inhabit the rugged Moehau Range and other forested ranges of New Zealand, often linked by Maori tradition to the maeroero, a wild bush-dwelling people.",
+  "aliases": [
+    {
+      "name": "Moehau",
+      "language": "Maori",
+      "region": "Coromandel Peninsula, North Island, New Zealand"
+    },
+    {
+      "name": "Maeroero",
+      "language": "Maori",
+      "region": "New Zealand",
+      "meaning": "wild people of the bush"
+    },
+    {
+      "name": "Maero",
+      "language": "Maori",
+      "region": "New Zealand"
+    },
+    {
+      "name": "Hairy Moehau",
+      "region": "Coromandel, New Zealand"
+    },
+    {
+      "name": "Moehau Monster",
+      "region": "Coromandel, New Zealand"
+    }
   ],
-  "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "tags": [
+    "humanoid",
+    "bipedal",
+    "forest-dwelling",
+    "new-zealand",
+    "coromandel",
+    "maori-folklore",
+    "wild-man"
+  ],
+  "status": "unverified",
+  "regions": [
+    "Coromandel Peninsula",
+    "Moehau Range",
+    "North Island",
+    "Karangahake Gorge"
+  ],
+  "origin": "Primarily the Moehau Range and broader Coromandel Peninsula of the North Island, New Zealand. In Maori tradition the maeroero are spoken of in remote bush regions across both the North and South Islands.",
+  "first_reported": "Pre-contact",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

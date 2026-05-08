@@ -1,17 +1,50 @@
 {
   "id": "phantom-ships",
   "name": "Phantom Ships",
-  "category": "|_spectral_manifestations_|",
-  "description": "Phantom ships are spectral vessels reported by mariners throughout history, appearing as ghostly ships that materialize and vanish at sea.",
-  "aliases": [],
-  "tags": [
-    "folklore",
-    "mythology"
+  "category": "ghost_haunting",
+  "description": "Phantom ships are spectral or mysterious vessels reported by mariners throughout history, appearing as ghostly ships that materialize and vanish at sea, often considered death omens. The most famous example is the Flying Dutchman, a legendary Dutch vessel said to be cursed to sail the oceans forever.",
+  "aliases": [
+    {
+      "name": "Ghost Ships",
+      "language": "English",
+      "meaning": "Vessels with no living crew, found adrift or appearing as spectral visions at sea"
+    },
+    {
+      "name": "Flying Dutchman",
+      "language": "English / Dutch",
+      "region": "Cape of Good Hope; global maritime tradition",
+      "meaning": "The archetypal legendary ghost ship cursed to sail forever"
+    },
+    {
+      "name": "Geisterschiff",
+      "language": "German",
+      "meaning": "Ghost ship"
+    },
+    {
+      "name": "Nave fantasma",
+      "language": "Spanish / Italian",
+      "meaning": "Phantom/ghost ship"
+    }
   ],
-  "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "tags": [
+    "maritime",
+    "ghost",
+    "folklore",
+    "ocean",
+    "nautical",
+    "omen",
+    "legend",
+    "europe"
+  ],
+  "status": "active",
+  "regions": [
+    "Cape of Good Hope",
+    "North Atlantic",
+    "Indian Ocean",
+    "Pacific Ocean"
+  ],
+  "origin": "Phantom ship legends and sightings are reported globally, with the Flying Dutchman legend centered on the Cape of Good Hope and southern oceans. Real ghost ship discoveries have occurred in the Atlantic, Pacific, and Indian Oceans.",
+  "first_reported": "1790",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

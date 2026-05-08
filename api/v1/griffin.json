@@ -2,15 +2,44 @@
   "id": "griffin",
   "name": "Griffin",
   "category": "mythological_creature",
-  "description": "The griffin is a legendary creature combining the features of the king of beasts (lion) and the king of birds (eagle).",
-  "aliases": [],
+  "description": "The Griffin is a legendary hybrid creature with the body of a lion and the head, wings, and forelimb-talons of an eagle. Attested from Bronze Age Near Eastern art and central to Greek and medieval European heraldry.",
+  "aliases": [
+    {
+      "name": "Gryphon",
+      "language": "English",
+      "meaning": "spelling variant"
+    },
+    {
+      "name": "Gryps",
+      "language": "Latin"
+    },
+    {
+      "name": "Gryphus",
+      "language": "Latin"
+    },
+    {
+      "name": "Gryps / Grypos",
+      "language": "Ancient Greek (γρύψ)"
+    }
+  ],
   "tags": [
-    "|-represents-christ's-dual-nature-(divine-and-earthly)-|"
+    "mythology",
+    "hybrid",
+    "ancient-near-east",
+    "greek",
+    "heraldry",
+    "guardian"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "Ancient Near East",
+    "Aegean and Greek world",
+    "Scythia (Central Asia)",
+    "medieval Europe",
+    "modern heraldic Europe"
+  ],
+  "origin": "A creature of myth and iconography. Imagery extends from Predynastic Egypt and Mesopotamia through Bronze Age Crete, the wider Mediterranean, the medieval Christian West, and into modern heraldry.",
+  "first_reported": "c. 3300–3100 BC",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

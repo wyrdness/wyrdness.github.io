@@ -1,17 +1,42 @@
 {
   "id": "mongolian-death-worm",
   "name": "Mongolian Death Worm",
-  "category": "|_other_unknown_creatures_reported_from_desert_regions_|",
-  "description": "The Mongolian Death Worm, known locally as **olgoi-khorkhoi** (large intestine worm), is a cryptid creature reported from the Gobi Desert of Mongolia.",
-  "aliases": [],
-  "tags": [
-    "folklore",
-    "mythology"
+  "category": "cryptid",
+  "description": "The Mongolian Death Worm (olgoi-khorkhoi, 'large intestine worm') is a cryptid said to inhabit the Gobi Desert of Mongolia, described by Mongolian herders as a thick, dark-red, intestine-like worm credited with the ability to kill at a distance.",
+  "aliases": [
+    {
+      "name": "Olgoi-khorkhoi",
+      "language": "Mongolian",
+      "region": "Gobi Desert",
+      "meaning": "'large intestine worm'"
+    },
+    {
+      "name": "Олгой-хорхой",
+      "language": "Mongolian (Cyrillic)",
+      "region": "Mongolia"
+    },
+    {
+      "name": "Allghoi khorkhoi",
+      "language": "Mongolian (alt. transliteration)",
+      "region": "Mongolia"
+    }
   ],
-  "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "tags": [
+    "cryptid",
+    "mongolia",
+    "gobi-desert",
+    "worm",
+    "fossorial",
+    "asia"
+  ],
+  "status": "unverified",
+  "regions": [
+    "Gobi Desert",
+    "Southern Mongolia",
+    "Western Mongolia"
+  ],
+  "origin": "The most desolate parts of the Gobi Desert, principally in southern and western Mongolia, with adjacent ranges sometimes mentioned in folklore.",
+  "first_reported": "1922",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

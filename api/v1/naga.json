@@ -2,16 +2,66 @@
   "id": "naga",
   "name": "Naga",
   "category": "mythological_creature",
-  "description": "Nagas are semi-divine serpent beings central to Hindu and Buddhist mythology.",
-  "aliases": [],
+  "description": "A divine, semi-divine race of serpent beings central to Hindu, Buddhist, and Jain cosmology and to the religious life of South and Southeast Asia. Nagas are guardians of waters and treasures, capable of taking serpent, human, or hybrid form.",
+  "aliases": [
+    {
+      "name": "Nāga",
+      "language": "Sanskrit",
+      "meaning": "snake; in particular the Indian cobra (Naja naja)"
+    },
+    {
+      "name": "Nagini",
+      "language": "Sanskrit / Hindi",
+      "meaning": "female naga"
+    },
+    {
+      "name": "Phaya Nak / Phaya Nāga",
+      "language": "Thai",
+      "region": "Thailand"
+    },
+    {
+      "name": "Phaya Nak",
+      "language": "Lao",
+      "region": "Laos"
+    },
+    {
+      "name": "Klu / klu-mo",
+      "language": "Tibetan",
+      "region": "Tibet"
+    },
+    {
+      "name": "Sanghyang Antaboga",
+      "language": "Javanese / Balinese",
+      "region": "Indonesia",
+      "meaning": "guardian serpent of the underworld"
+    },
+    {
+      "name": "Bakunawa",
+      "language": "Visayan",
+      "region": "Philippines",
+      "meaning": "moon-eating serpent (syncretized with naga)"
+    }
+  ],
   "tags": [
-    "folklore",
-    "mythology"
+    "serpent",
+    "hindu",
+    "buddhist",
+    "south-asia",
+    "southeast-asia",
+    "water-deity",
+    "guardian",
+    "shapeshifter"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "South Asia",
+    "Southeast Asia",
+    "Mekong River basin",
+    "Himalayas",
+    "Indonesian archipelago"
+  ],
+  "origin": "Veneration and folklore of nagas extend across South Asia and mainland and maritime Southeast Asia, with significant Tibetan and Himalayan traditions.",
+  "first_reported": "Antiquity",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

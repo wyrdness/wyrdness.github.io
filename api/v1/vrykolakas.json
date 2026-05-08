@@ -1,16 +1,55 @@
 {
   "id": "vrykolakas",
+  "name": "Vrykolakas",
   "category": "undead",
-  "description": "No description available.",
-  "aliases": [],
+  "description": "A revenant of Greek folk belief — an undead, often swollen and bloated corpse held to leave the grave at night and afflict the living, with strong continuity to wider Balkan vampire traditions.",
+  "aliases": [
+    {
+      "name": "Vourkolakas",
+      "language": "Greek (variant)",
+      "region": "Greece"
+    },
+    {
+      "name": "Vourvoulakas",
+      "language": "Greek (variant)",
+      "region": "Greece"
+    },
+    {
+      "name": "Vorvolakas",
+      "language": "Greek (variant)",
+      "region": "Greece"
+    },
+    {
+      "name": "Brukolakas",
+      "language": "Greek (older transliteration)",
+      "region": "Greece"
+    },
+    {
+      "name": "Vrikolakas",
+      "language": "Greek (transliteration)",
+      "region": "Greece"
+    }
+  ],
   "tags": [
+    "greek",
+    "balkan",
+    "undead",
+    "revenant",
+    "vampire-tradition",
     "folklore",
-    "mythology"
+    "mythology",
+    "europe"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "Aegean islands",
+    "Crete",
+    "Cyclades",
+    "Mainland Greece",
+    "Southern Balkans"
+  ],
+  "origin": "Strongest in the Greek-speaking world: mainland Greece, the Aegean islands (especially Mykonos, Santorini, Crete, and Chios), and historically Greek communities of Anatolia, Cyprus, and the southern Balkans.",
+  "first_reported": "Medieval",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

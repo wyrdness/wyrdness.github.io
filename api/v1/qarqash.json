@@ -1,17 +1,46 @@
 {
   "id": "qarqash",
-  "name": "Qarqash - Arabic Desert Demon",
+  "name": "Qarqash",
   "category": "demon_angel",
-  "description": "Qarqash (القرقش, also spelled Qurqush, Garghash) is a terrifying desert demon from Arabian folklore, particularly prominent in Bedouin traditions of the Arabian Peninsula.",
-  "aliases": [],
-  "tags": [
-    "folklore",
-    "mythology"
+  "description": "Qarqash (القرقش) is a malevolent desert spirit from Bedouin and Arabian Peninsula folklore, described as a terrifying entity that haunts desolate desert regions and preys upon lone travelers and children who stray from safety.",
+  "aliases": [
+    {
+      "name": "القرقش",
+      "language": "Arabic",
+      "meaning": "The qarqash; the original Arabic-script form of the name"
+    },
+    {
+      "name": "Qurqush",
+      "language": "Arabic",
+      "meaning": "Variant transliteration"
+    },
+    {
+      "name": "Garghash",
+      "language": "Arabic",
+      "region": "Gulf Arabic dialects",
+      "meaning": "Variant form found in Gulf Arabic tradition"
+    }
   ],
-  "status": "documented",
-  "regions": [],
-  "origin": "Arabian Peninsula (Bedouin and Arabian folklore)",
-  "first_reported": "Unknown",
+  "tags": [
+    "arabian",
+    "bedouin",
+    "desert",
+    "demon",
+    "folklore",
+    "middle-east",
+    "cautionary",
+    "jinni",
+    "predatory-spirit"
+  ],
+  "status": "active",
+  "regions": [
+    "Arabian Peninsula",
+    "Nejd",
+    "Hejaz",
+    "Gulf region"
+  ],
+  "origin": "The qarqash tradition is found across the Arabian Peninsula, particularly in Bedouin oral traditions of the Gulf states, Saudi Arabia, and adjacent regions.",
+  "first_reported": "Pre-modern",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

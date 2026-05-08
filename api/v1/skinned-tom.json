@@ -1,17 +1,33 @@
 {
   "id": "skinned-tom",
   "name": "Skinned Tom",
-  "category": "cryptid",
-  "description": "Skinned Tom is a creature from Appalachian folklore described as a humanoid figure completely devoid of skin, exposing raw red muscle, sinew, and tissue beneath.",
+  "category": "urban_legend",
+  "description": "Skinned Tom is a Southern American urban legend and cautionary tale about a man flayed alive after an adulterous affair, whose skinless, knife-carrying spirit now haunts lovers' lanes and remote roads as a warning against infidelity.",
   "aliases": [],
   "tags": [
+    "appalachian",
+    "southern",
+    "urban-legend",
+    "cautionary-tale",
+    "skinless",
+    "ghost",
     "folklore",
-    "mythology"
+    "tennessee",
+    "alabama",
+    "mississippi",
+    "georgia",
+    "south-usa"
   ],
-  "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "status": "active",
+  "regions": [
+    "Tennessee",
+    "Alabama",
+    "Mississippi",
+    "Georgia",
+    "Appalachian region"
+  ],
+  "origin": "The American South, with documented oral tradition in Tennessee, Alabama, Mississippi, and parts of Georgia.",
+  "first_reported": "1900-01-01",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

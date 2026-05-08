@@ -1,17 +1,44 @@
 {
   "id": "mo-o",
   "name": "Mo'o",
-  "category": "|_mythological_creature_|",
-  "description": "Mo'o (also spelled moʻo) are supernatural beings in Hawaiian mythology that manifest as gigantic lizards or dragons, most commonly associated with freshwater streams, pools, and underground caves.",
-  "aliases": [],
-  "tags": [
-    "folklore",
-    "mythology"
+  "category": "mythological_creature",
+  "description": "Shapeshifting lizard spirits in Hawaiian mythology who serve as powerful ancestral guardians (ʻaumākua) of freshwater sources, manifesting as monstrous reptiles, tiny geckos, or humans, and revered as sacred protectors of the land and water.",
+  "aliases": [
+    {
+      "name": "Moʻo",
+      "language": "Hawaiian",
+      "region": "Hawaii",
+      "meaning": "Lizard; also used for succession or continuity — the name carries multiple layered meanings"
+    },
+    {
+      "name": "Moʻo wahine",
+      "language": "Hawaiian",
+      "region": "Hawaii",
+      "meaning": "Lizard woman; female moʻo spirit"
+    }
   ],
-  "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "tags": [
+    "hawaiian",
+    "polynesian",
+    "water-spirit",
+    "shapeshifter",
+    "guardian",
+    "lizard",
+    "dragon",
+    "aumakua",
+    "indigenous",
+    "sacred"
+  ],
+  "status": "active",
+  "regions": [
+    "Oʻahu — particularly Kawainui Marsh (windward) and Waialua",
+    "Maui — Mokuhinia fishpond, Kamalō Ridge",
+    "Molokaʻi — windward cliffs",
+    "Hawaii Island — various streams and pools",
+    "Kauaʻi — streams and coastal areas"
+  ],
+  "origin": "All major Hawaiian islands. Moʻo are associated with specific named water bodies throughout the archipelago. Comparable water guardian traditions exist across Polynesia.",
+  "first_reported": "1800-01-01",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

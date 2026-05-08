@@ -1,16 +1,42 @@
 {
   "id": "ushi-oni",
+  "name": "Ushi-oni",
   "category": "mythological_creature",
-  "description": "No description available.",
-  "aliases": [],
+  "description": "The Ushi-oni (牛鬼, also read gyūki) is a fearsome yokai from Japanese folklore combining the head of an ox with a monstrous body; it inhabits coastal and waterside areas in western Japan and is known for savage attacks on humans.",
+  "aliases": [
+    {
+      "name": "牛鬼",
+      "language": "Japanese",
+      "meaning": "Ox-demon; the kanji form read as ushi-oni"
+    },
+    {
+      "name": "Gyūki",
+      "language": "Japanese",
+      "meaning": "Alternative reading of the same kanji 牛鬼; ox-demon"
+    }
+  ],
   "tags": [
+    "japanese",
+    "yokai",
+    "coastal",
+    "demon",
+    "oni",
+    "ox-demon",
+    "japan",
     "folklore",
-    "mythology"
+    "western-japan",
+    "shapeshifter"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "Ehime Prefecture (Shikoku)",
+    "Wakayama Prefecture",
+    "Shimane Prefecture (Izumo region)",
+    "Coastal areas of western Japan generally",
+    "Seto Inland Sea coastal communities"
+  ],
+  "origin": "Western Japan, particularly coastal areas of Ehime, Wakayama, Shimane, and other prefectures along the Seto Inland Sea and Sea of Japan coastlines.",
+  "first_reported": "1251-01-01",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

@@ -1,16 +1,36 @@
 {
   "id": "yama-oroshi",
+  "name": "Yama-oroshi",
   "category": "entity_spirit",
-  "description": "No description available.",
-  "aliases": [],
+  "description": "A Japanese yokai (tsukumogami) born from a neglected grater that has become too dull to function. The yama-oroshi grows a body, and its dull, worn slicers protrude like wild spines. Its name is a triple pun: on oroshi (grater), yamaarashi (porcupine), and the strong mountain wind (yama-oroshi) blowing down from peaks. The creature's breath is said to be ten thousand times stronger than a human's, explaining mysterious mountain winds.",
+  "aliases": [
+    {
+      "name": "山颪",
+      "language": "Japanese",
+      "meaning": "Mountain wind; the primary kanji rendering, punning on both 'grater' and 'wind blowing down from mountains'"
+    },
+    {
+      "name": "やまおろし",
+      "language": "Japanese",
+      "meaning": "Hiragana form; reads as both 'mountain wind' and 'mountain grater'"
+    }
+  ],
   "tags": [
-    "folklore",
-    "mythology"
+    "japanese-folklore",
+    "yokai",
+    "tsukumogami",
+    "tool-spirit",
+    "wind",
+    "mountain",
+    "japan",
+    "porcupine-like"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "Japan (mountain regions)"
+  ],
+  "origin": "Japanese folklore tradition; documented as part of the broader tsukumogami and yokai tradition of Japan. The creature is associated with mountain environments across Japan.",
+  "first_reported": "Pre-contact",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

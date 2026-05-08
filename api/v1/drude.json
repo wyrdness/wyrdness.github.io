@@ -2,16 +2,39 @@
   "id": "drude",
   "name": "Drude",
   "category": "demon_angel",
-  "description": "German demon that sits on sleepers' chests causing nightmares and sleep paralysis This phenomenon represents an important part of Germanic folklore and cultural heritage, with documented accounts and traditions spanning generations.",
-  "aliases": [],
+  "description": "A malevolent nocturnal spirit of Southern German and Austrian folklore, the drude was held to press upon sleepers and cause nightmares; the term later became a generic word for 'witch' and gives its name to the Drudenfuss (pentagram) and Drudenstein (holed-pebble) protective charms.",
+  "aliases": [
+    {
+      "name": "Trute",
+      "language": "Middle High German"
+    },
+    {
+      "name": "Trud / Trut",
+      "language": "Old High German / Bavarian"
+    },
+    {
+      "name": "Drud",
+      "language": "Bavarian / Tyrolean dialect"
+    }
+  ],
   "tags": [
-    "folklore",
-    "mythology"
+    "germanic-folklore",
+    "nightmare",
+    "sleep-paralysis",
+    "witchcraft",
+    "bavaria",
+    "tyrol",
+    "mare"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "| Germanic |",
-  "first_reported": "Unknown",
+  "regions": [
+    "Bavaria",
+    "Tyrol",
+    "Southern Germany",
+    "Austria"
+  ],
+  "origin": "Primarily Southern Germany, Bavaria, Austria, and Tyrol, with parallels in wider Germanic-speaking Europe.",
+  "first_reported": "Medieval",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

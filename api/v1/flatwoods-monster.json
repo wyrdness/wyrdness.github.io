@@ -1,17 +1,41 @@
 {
   "id": "flatwoods-monster",
   "name": "Flatwoods Monster",
-  "category": "cryptid/ufo_uap",
-  "description": "The Flatwoods Monster, also known as the Braxton County Monster, is an entity reportedly encountered on September 12, 1952, in Flatwoods, West Virginia.",
-  "aliases": [],
-  "tags": [
-    "folklore",
-    "mythology"
+  "category": "ufo_uap",
+  "description": "The Flatwoods Monster is a 10-foot-tall, spade-headed entity allegedly encountered by a group of seven witnesses in Flatwoods, West Virginia, on the night of 12 September 1952, in connection with a fireball that crossed the eastern United States.",
+  "aliases": [
+    {
+      "name": "Braxton County Monster",
+      "language": "English",
+      "region": "West Virginia, USA"
+    },
+    {
+      "name": "Phantom of Flatwoods",
+      "language": "English",
+      "region": "West Virginia, USA"
+    },
+    {
+      "name": "Green Monster",
+      "language": "English",
+      "region": "West Virginia press, 1952"
+    }
   ],
-  "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "tags": [
+    "ufo",
+    "close-encounter",
+    "1952",
+    "west-virginia",
+    "appalachia",
+    "entity-encounter",
+    "saucer-era"
+  ],
+  "status": "historical",
+  "regions": [
+    "Braxton County, West Virginia",
+    "Central Appalachia"
+  ],
+  "origin": "A single localized incident in central West Virginia. Subsequent regional folklore and tourism are concentrated in Braxton County and the town of Sutton.",
+  "first_reported": "1952-09-12",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

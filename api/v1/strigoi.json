@@ -1,17 +1,55 @@
 {
   "id": "strigoi",
   "name": "Strigoi",
-  "category": "|_broader_vampire_mythology_|",
-  "description": "Strigoi are Romanian vampiric entities existing in two distinct forms: **Strigoi viu** (living witches with supernatural powers) and **Strigoi mort** (undead vampires that rise from the grave).",
-  "aliases": [],
-  "tags": [
-    "folklore",
-    "mythology"
+  "category": "undead",
+  "description": "Vampiric undead of Romanian folklore, distinguished from many other European vampire traditions by an active 'living' form (strigoi viu, a sorcerer or witch) and a 'dead' form (strigoi mort) that rises from the grave to torment family members.",
+  "aliases": [
+    {
+      "name": "Strigoi viu",
+      "language": "Romanian",
+      "meaning": "'Living strigoi' — sorcerer or witch with strigoi powers"
+    },
+    {
+      "name": "Strigoi mort",
+      "language": "Romanian",
+      "meaning": "'Dead strigoi' — the undead vampiric form"
+    },
+    {
+      "name": "Strigoaică",
+      "language": "Romanian",
+      "meaning": "Female witch with strigoi-like powers"
+    },
+    {
+      "name": "Moroi",
+      "language": "Romanian",
+      "region": "Moldavia and Wallachia",
+      "meaning": "Closely related undead/vampiric being"
+    },
+    {
+      "name": "Pricolici",
+      "language": "Romanian",
+      "meaning": "Werewolf-strigoi crossover; undead transforming into a wolf"
+    }
   ],
-  "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "tags": [
+    "undead",
+    "vampire",
+    "romania",
+    "folklore",
+    "balkans",
+    "blood",
+    "exhumation"
+  ],
+  "status": "historical",
+  "regions": [
+    "Transylvania",
+    "Wallachia",
+    "Moldavia",
+    "Oltenia",
+    "Banat"
+  ],
+  "origin": "Folk traditions of Romania, especially rural Wallachia, Moldavia, Transylvania, and Oltenia. Cognate beliefs extend across the Balkans and into the Slavic world.",
+  "first_reported": "Pre-modern",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

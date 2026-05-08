@@ -2,16 +2,70 @@
   "id": "demons",
   "name": "Demons",
   "category": "demon_angel",
-  "description": "Demons are malevolent supernatural entities found across virtually every world religion and culture.",
-  "aliases": [],
+  "description": "A cross-cultural class of supernatural beings, generally malevolent or morally ambivalent, found in nearly every major religious and folkloric tradition. The Christian-Islamic concept of demons as evil spirits or fallen angels developed from older Greek, Hebrew, Mesopotamian, and Zoroastrian categories of intermediate spirits.",
+  "aliases": [
+    {
+      "name": "Daimōn",
+      "language": "Ancient Greek",
+      "meaning": "spirit, divine power (originally morally neutral)"
+    },
+    {
+      "name": "Daemon",
+      "language": "Latin"
+    },
+    {
+      "name": "Shedim",
+      "language": "Hebrew",
+      "region": "Judaism"
+    },
+    {
+      "name": "Shayāṭīn",
+      "language": "Arabic",
+      "region": "Islam"
+    },
+    {
+      "name": "Daēva",
+      "language": "Avestan",
+      "region": "Zoroastrianism"
+    },
+    {
+      "name": "Asura / Rākshasa",
+      "language": "Sanskrit",
+      "region": "Hinduism"
+    },
+    {
+      "name": "Mara",
+      "language": "Pali / Sanskrit",
+      "region": "Buddhism"
+    },
+    {
+      "name": "Oni",
+      "language": "Japanese",
+      "region": "Japan"
+    }
+  ],
   "tags": [
-    "folklore",
-    "mythology"
+    "demonology",
+    "religion",
+    "theology",
+    "comparative-religion",
+    "exorcism",
+    "evil",
+    "fallen-angels"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "Mesopotamia",
+    "Levant",
+    "Iran",
+    "Greco-Roman world",
+    "Latin Christendom",
+    "Islamic world",
+    "South Asia",
+    "East Asia"
+  ],
+  "origin": "Demonology is a near-universal feature of human religious systems, with major systematised traditions in West Asia, Europe, North Africa, South and East Asia.",
+  "first_reported": "c. 2000 BCE",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

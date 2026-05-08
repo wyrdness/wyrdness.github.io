@@ -1,17 +1,42 @@
 {
   "id": "tunguska-event",
   "name": "Tunguska Event",
-  "category": "historical_mystery",
-  "description": "The Tunguska Event is the largest cosmic impact in recorded human history.",
-  "aliases": [],
+  "category": "anomaly",
+  "description": "A large atmospheric explosion over the Podkamennaya Tunguska River, Siberia, on 30 June 1908 — the largest impact event in recorded history, now widely attributed to the airburst of a small asteroid 5–10 km above the surface.",
+  "aliases": [
+    {
+      "name": "Tunguska explosion",
+      "language": "English"
+    },
+    {
+      "name": "Tunguska impact",
+      "language": "English"
+    },
+    {
+      "name": "Tungusskoe sobytie",
+      "language": "Russian",
+      "meaning": "Tunguska event"
+    }
+  ],
   "tags": [
-    "folklore",
-    "mythology"
+    "asteroid",
+    "airburst",
+    "siberia",
+    "impact-event",
+    "1908",
+    "podkamennaya-tunguska",
+    "kulik",
+    "historical-mystery"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "Central Siberia",
+    "Krasnoyarsk Krai",
+    "Evenkiysky District",
+    "Podkamennaya Tunguska River basin"
+  ],
+  "origin": "Localized event with effects concentrated in central Siberia, but atmospheric and luminous effects observed across Eurasia.",
+  "first_reported": "1908-06-30",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

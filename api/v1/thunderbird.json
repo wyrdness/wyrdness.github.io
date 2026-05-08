@@ -2,16 +2,58 @@
   "id": "thunderbird",
   "name": "Thunderbird",
   "category": "cryptid",
-  "description": "The Thunderbird represents one of the most culturally significant and widespread phenomena in North American Indigenous traditions—a massive, powerful bird associated with thunder, lightning, and spiritual power.",
-  "aliases": [],
-  "tags": [
-    "folklore",
-    "mythology"
+  "description": "A massive bird-spirit central to many Indigenous North American traditions, paired in modern cryptozoology with reports of enormous unidentified birds with wingspans far exceeding any known living species.",
+  "aliases": [
+    {
+      "name": "Wakįnyą",
+      "language": "Lakota",
+      "region": "Great Plains",
+      "meaning": "Thunder Being"
+    },
+    {
+      "name": "Animikii",
+      "language": "Ojibwe (Anishinaabe)",
+      "region": "Great Lakes"
+    },
+    {
+      "name": "Binesi",
+      "language": "Ojibwe (Anishinaabe)",
+      "region": "Great Lakes",
+      "meaning": "Thunderer / large bird"
+    },
+    {
+      "name": "Piasa Bird",
+      "region": "Mississippi River bluffs (Illinois)",
+      "meaning": "Often grouped with thunderbird iconography"
+    },
+    {
+      "name": "Kw-Uhnx-Wa",
+      "language": "Lenape",
+      "region": "Eastern Woodlands"
+    }
   ],
-  "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "tags": [
+    "avian",
+    "giant-bird",
+    "north-america",
+    "indigenous-tradition",
+    "thunder",
+    "lightning",
+    "folklore",
+    "cryptid"
+  ],
+  "status": "active",
+  "regions": [
+    "Pacific Northwest Coast",
+    "Great Lakes",
+    "Great Plains",
+    "Ohio River Valley",
+    "Mississippi River Valley",
+    "Allegheny Mountains",
+    "American Southwest"
+  ],
+  "origin": "Thunderbird traditions are recorded across the Pacific Northwest Coast, Great Lakes, Great Plains, American Southwest, and US East Coast. Modern cryptozoological 'giant bird' reports cluster in Illinois, Pennsylvania, the Ozarks, and Alaska.",
+  "first_reported": "Pre-contact",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

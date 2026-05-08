@@ -2,16 +2,41 @@
   "id": "wampus-cat",
   "name": "Wampus Cat",
   "category": "cryptid",
-  "description": "The Wampus Cat is unique among fearsome critters because it blends authentic Cherokee mythology with American frontier tall tales.",
-  "aliases": [],
+  "description": "A panther-like cryptid of Appalachian folklore with roots in Cherokee mythology, often described as a large, dark cat — sometimes with extra legs, glowing eyes, and shapeshifting powers — said to roam the southeastern United States.",
+  "aliases": [
+    {
+      "name": "Gallywampus",
+      "region": "Missouri, USA"
+    },
+    {
+      "name": "Whistling Wampus",
+      "region": "Ozarks, USA"
+    },
+    {
+      "name": "Catawampus",
+      "region": "Appalachia, USA",
+      "meaning": "regional adjective sometimes used for the creature"
+    }
+  ],
   "tags": [
+    "appalachia",
+    "cherokee",
+    "feline",
+    "fearsome-critter",
     "folklore",
-    "mythology"
+    "mythology",
+    "north-america",
+    "shapeshifter"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "Southern Appalachia",
+    "Ozarks",
+    "Piedmont",
+    "Cherokee homelands"
+  ],
+  "origin": "Reports and folklore concentrate in the southern Appalachian Mountains (Tennessee, North Carolina, Kentucky, West Virginia, Virginia, northern Georgia and Alabama) and the Ozarks (Arkansas, Missouri).",
+  "first_reported": "Pre-contact",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

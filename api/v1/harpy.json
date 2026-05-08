@@ -2,15 +2,58 @@
   "id": "harpy",
   "name": "Harpy",
   "category": "mythological_creature",
-  "description": "Harpies are creatures from Greek mythology portrayed as having a woman's head and torso with the wings, talons, and lower body of a bird.",
-  "aliases": [],
+  "description": "The Harpies are winged spirits in Greek mythology, originally personifications of stormy winds and divine snatchers. They appear in early sources as fair-haired winged maidens and in later literature as bird-bodied, women-faced monsters who steal food and abduct people as agents of divine punishment.",
+  "aliases": [
+    {
+      "name": "Harpyia",
+      "language": "Ancient Greek (Ἅρπυιαι)",
+      "meaning": "'Snatchers', from harpazein 'to snatch'"
+    },
+    {
+      "name": "Harpyiae",
+      "language": "Latin",
+      "meaning": "Latin transliteration"
+    },
+    {
+      "name": "Aello",
+      "language": "Greek",
+      "meaning": "'Storm-swift' — an individual harpy named in Hesiod"
+    },
+    {
+      "name": "Ocypete",
+      "language": "Greek",
+      "meaning": "'Swift-wing' — an individual harpy named in Hesiod"
+    },
+    {
+      "name": "Celaeno",
+      "language": "Greek",
+      "meaning": "'Dark, dusky' — an individual harpy added by Virgil"
+    },
+    {
+      "name": "Podarge",
+      "language": "Greek",
+      "meaning": "'Fleet-foot' — a harpy named in Homer; mother of Achilles' horses Balius and Xanthus"
+    }
+  ],
   "tags": [
-    "&-interpretation"
+    "greek-mythology",
+    "winged",
+    "bird-woman",
+    "wind-spirit",
+    "argonauts",
+    "phineus",
+    "aeneid",
+    "punishment"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "Ancient Greece",
+    "Ancient Rome",
+    "Thrace",
+    "Strophades islands (Ionian Sea)"
+  ],
+  "origin": "Mythologically, the wider Greek and Mediterranean world: Thrace (Phineus), the Strophades (Aeneid), the cave of Zephyrus, and stormy maritime regions in general. Culturally, harpies have been received throughout the Greco-Roman, medieval European, and modern global imaginary.",
+  "first_reported": "0700 BCE",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

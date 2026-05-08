@@ -1,17 +1,58 @@
 {
   "id": "ghul",
   "name": "Ghul",
-  "category": "of_smokeless_fire_beings",
-  "description": "The **Ghul** (Arabic: غول, *ghūl*) is a demon or monster from Arabic and Islamic tradition, known for dwelling in graveyards, luring travelers in the desert, and consuming corpses and human flesh.",
-  "aliases": [],
+  "category": "undead",
+  "description": "A demonic, shape-shifting being of pre-Islamic Arabian and Islamic folklore, classed as a type of jinn, said to dwell in graveyards, deserts, and ruined places, lure travelers from their path, and consume corpses and human flesh.",
+  "aliases": [
+    {
+      "name": "Ghoul",
+      "language": "English",
+      "meaning": "Anglicization of ghul; first attested in English in William Beckford's Vathek (1786)"
+    },
+    {
+      "name": "غول (ghūl)",
+      "language": "Arabic",
+      "meaning": "from ghāla, 'to seize'"
+    },
+    {
+      "name": "Ghula / Ghulah",
+      "language": "Arabic",
+      "meaning": "female form"
+    },
+    {
+      "name": "Si'lat / Si'la",
+      "language": "Arabic",
+      "region": "Pre-Islamic and early Islamic Arabia",
+      "meaning": "shape-shifting female demon often paired with the ghul"
+    },
+    {
+      "name": "Ghul-e Biyaban",
+      "language": "Persian",
+      "region": "Iran, Afghanistan, Central Asia",
+      "meaning": "ghoul of the wilderness"
+    }
+  ],
   "tags": [
-    "folklore",
-    "mythology"
+    "jinn",
+    "arabic-folklore",
+    "islamic-folklore",
+    "shape-shifter",
+    "cannibal",
+    "graveyard",
+    "desert",
+    "near-east"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "| Arabic/Islamic |",
-  "first_reported": "Unknown",
+  "regions": [
+    "Arabian Peninsula",
+    "Levant",
+    "Mesopotamia",
+    "Maghreb",
+    "Iranian plateau",
+    "Central Asia"
+  ],
+  "origin": "The ghul belongs to Arab, Persian, and broader Islamic folklore. Reports and traditions extend across the Arabian Peninsula, the Levant, Mesopotamia, North Africa, the Maghreb, Iran, Afghanistan, and Central and South Asia, with regional cognates and equivalents elsewhere in the Islamic world.",
+  "first_reported": "0570-01-01",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

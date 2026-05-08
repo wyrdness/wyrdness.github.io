@@ -2,16 +2,45 @@
   "id": "precognition",
   "name": "Precognition",
   "category": "psychic_phenomena",
-  "description": "Precognition is the purported paranormal ability to perceive or gain knowledge of future events before they occur, without using any known sensory or logical processes.",
-  "aliases": [],
-  "tags": [
-    "folklore",
-    "mythology"
+  "description": "Precognition is the claimed ability to perceive or gain knowledge of future events without using known sensory channels or rational inference. Mainstream science classifies it as pseudoscience, citing the absence of replicable evidence and conflict with causality.",
+  "aliases": [
+    {
+      "name": "Premonition",
+      "language": "English"
+    },
+    {
+      "name": "Future-sight",
+      "language": "English"
+    },
+    {
+      "name": "Second sight",
+      "language": "English / Scots",
+      "meaning": "Folk term, often for spontaneous precognition"
+    },
+    {
+      "name": "Anomalous cognition (in some parapsychology literature)",
+      "language": "English"
+    },
+    {
+      "name": "Presentiment",
+      "language": "English",
+      "meaning": "A vague, often emotional precognitive sense"
+    }
   ],
-  "status": "documented",
+  "tags": [
+    "psi",
+    "esp",
+    "anomalous-cognition",
+    "parapsychology",
+    "pseudoscience-classification",
+    "duke-university",
+    "ganzfeld",
+    "presentiment"
+  ],
+  "status": "unverified",
   "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "origin": "Precognition is reported across most human cultures and has been studied principally in laboratories in the United States and Western Europe.",
+  "first_reported": "Antiquity",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

@@ -1,17 +1,41 @@
 {
   "id": "hookman",
-  "name": "The Hookman: Classic American Urban Legend",
+  "name": "The Hookman",
   "category": "urban_legend",
-  "description": "The Hookman (also known as \\\"The Hook,\\\" \\\"The Hook Man,\\\" or \\\"The Man with the Hook\\\") is one of America's most enduring and widely-known urban legends.",
-  "aliases": [],
+  "description": "A classic American urban legend in which a couple parked at a lovers' lane flee from a radio-warned escaped killer with a hook for a hand and find his hook torn off and dangling from the car door handle.",
+  "aliases": [
+    {
+      "name": "The Hook",
+      "region": "United States"
+    },
+    {
+      "name": "The Hook Man",
+      "region": "United States"
+    },
+    {
+      "name": "The Man with the Hook",
+      "region": "United States"
+    },
+    {
+      "name": "The Hook-Handed Killer",
+      "region": "United States"
+    }
+  ],
   "tags": [
-    "folklore",
-    "mythology"
+    "urban-legend",
+    "american-folklore",
+    "teenage-folklore",
+    "lovers-lane",
+    "moral-tale",
+    "campfire-story",
+    "1950s-folklore"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "United States — broadly distributed"
+  ],
+  "origin": "American urban legend with countless local variants throughout the contiguous United States; the legend has also circulated in Canada and the United Kingdom.",
+  "first_reported": "1960-11-08",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

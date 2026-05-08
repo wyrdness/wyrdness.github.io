@@ -2,16 +2,67 @@
   "id": "la-llorona",
   "name": "La Llorona",
   "category": "ghost_haunting",
-  "description": "La Llorona (The Weeping Woman) is one of the most pervasive legends in Latin American folklore.",
-  "aliases": [],
-  "tags": [
-    "folklore",
-    "mythology"
+  "description": "A weeping female ghost said to haunt rivers, lakes, and irrigation channels across Mexico, Central America, parts of South America, and the southwestern United States, mourning the children she drowned. Among the most widespread and durable legends in the Spanish-speaking Americas.",
+  "aliases": [
+    {
+      "name": "The Weeping Woman",
+      "language": "English",
+      "meaning": "Direct translation"
+    },
+    {
+      "name": "The Crying Woman",
+      "language": "English"
+    },
+    {
+      "name": "La Malinche (folkloric conflation)",
+      "language": "Spanish",
+      "region": "Mexico",
+      "meaning": "Some Mexican variants conflate La Llorona with the historical Doña Marina (La Malinche)"
+    },
+    {
+      "name": "Cihuacóatl",
+      "language": "Nahuatl",
+      "region": "Central Mexico",
+      "meaning": "'Serpent woman'; pre-Columbian Aztec mother-goddess identified by Sahagún with a weeping female omen"
+    },
+    {
+      "name": "María Pardo",
+      "language": "Spanish",
+      "region": "Antioquia, Colombia"
+    },
+    {
+      "name": "Tarumama",
+      "language": "Spanish",
+      "region": "Pasto region, Colombia"
+    },
+    {
+      "name": "La Sayona",
+      "language": "Spanish",
+      "region": "Venezuela",
+      "meaning": "A related vengeful female ghost"
+    }
   ],
-  "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "tags": [
+    "ghost",
+    "folklore",
+    "latin-america",
+    "mexico",
+    "us-southwest",
+    "weeping-woman",
+    "river-spirit",
+    "infanticide-legend"
+  ],
+  "status": "active",
+  "regions": [
+    "Central Mexico",
+    "U.S.-Mexico border",
+    "Southwestern United States",
+    "Central America",
+    "Andean South America",
+    "Río de la Plata"
+  ],
+  "origin": "La Llorona is widespread across the Spanish-speaking Americas. Core regions are Mexico (especially central Mexico and the Mexico City basin), the U.S.-Mexico border, and the southwestern United States, with strong variants throughout Central America, in Colombia, Venezuela, Ecuador, Peru, Bolivia, and as far south as Uruguay. Significant regional names include María Pardo and Tarumama in Colombia and La Sayona in Venezuela.",
+  "first_reported": "c. 1550–1585",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

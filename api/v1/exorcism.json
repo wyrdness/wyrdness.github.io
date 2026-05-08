@@ -2,16 +2,56 @@
   "id": "exorcism",
   "name": "Exorcism",
   "category": "psychic_phenomena",
-  "description": "Exorcism is a religious or spiritual practice to expel demons, spirits, or other entities from individuals believed to be possessed.",
-  "aliases": [],
+  "description": "A religious or spiritual practice for evicting demons, jinn, or other malevolent entities from a person, place, or object; recognized in Christianity, Judaism, Islam, Hinduism, and Buddhism, with the Catholic 'Roman Ritual' (1614, revised 1999) being the best-known formal rite.",
+  "aliases": [
+    {
+      "name": "exorkismós",
+      "language": "Ancient Greek (ἐξορκισμός)",
+      "meaning": "'binding by oath'; etymological root of the modern term"
+    },
+    {
+      "name": "Ruqyah",
+      "language": "Arabic",
+      "region": "Islamic world",
+      "meaning": "Quranic-recitation cleansing analogous to exorcism"
+    },
+    {
+      "name": "Major exorcism",
+      "meaning": "Catholic formal rite according to the Roman Ritual"
+    },
+    {
+      "name": "Minor exorcism",
+      "meaning": "Lesser exorcisms in Catholic baptismal and other liturgies"
+    },
+    {
+      "name": "Deliverance ministry",
+      "region": "Protestant Christianity",
+      "meaning": "Charismatic and Pentecostal practice analogous to exorcism"
+    }
+  ],
   "tags": [
-    "folklore",
-    "mythology"
+    "religion",
+    "ritual",
+    "demon",
+    "possession",
+    "catholic",
+    "protestant",
+    "judaism",
+    "islam",
+    "hinduism",
+    "buddhism"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "Roman Catholic world",
+    "Protestant evangelical world",
+    "Sunni and Shia Islam",
+    "Orthodox Judaism (Kabbalistic)",
+    "Hindu South Asia",
+    "Tibetan Buddhist world"
+  ],
+  "origin": "Exorcism is practiced globally, in every major religious tradition, with regional and confessional variations.",
+  "first_reported": "0030-01-01",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

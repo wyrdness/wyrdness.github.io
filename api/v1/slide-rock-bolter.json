@@ -1,17 +1,33 @@
 {
   "id": "slide-rock-bolter",
   "name": "Slide-Rock Bolter",
-  "category": "|_cryptid_(fearsome_critter)_|",
-  "description": "The Slide-Rock Bolter is a fearsome critter from American lumberjack folklore, particularly associated with Colorado's Rocky Mountains.",
-  "aliases": [],
+  "category": "cryptid",
+  "description": "The Slide-Rock Bolter is a fearsome critter of American lumberjack folklore from Colorado's Rocky Mountains. Documented by Minnesota State Forester William T. Cox in 'Fearsome Creatures of the Lumberwoods' (1910), the creature is described as an enormous fish-like beast that anchors itself by hooked tail to a mountain ridge and slides down on its prey.",
+  "aliases": [
+    {
+      "name": "Macrostoma saxiperrumptus",
+      "language": "Latin (joke binomial)",
+      "meaning": "Mock scientific name given by William T. Cox (1910)"
+    }
+  ],
   "tags": [
-    "folklore",
-    "mythology"
+    "fearsome-critter",
+    "lumberjack-folklore",
+    "tall-tale",
+    "colorado",
+    "rocky-mountains",
+    "north-america"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "Colorado",
+    "Rocky Mountains",
+    "San Juan Mountains",
+    "San Miguel County",
+    "Dolores County"
+  ],
+  "origin": "Restricted in the lumberjack tradition to the high Rocky Mountains of Colorado, especially on slopes steeper than 45°. Cox specifically associates the creature with the country between Ophir Peaks and Lizard Head Peak in San Miguel and Dolores counties.",
+  "first_reported": "1910",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

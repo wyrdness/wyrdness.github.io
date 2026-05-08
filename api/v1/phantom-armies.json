@@ -1,17 +1,52 @@
 {
   "id": "phantom-armies",
   "name": "Phantom Armies",
-  "category": "ghost",
-  "description": "Phantom Armies, also known as spirit hosts, spectral battles, or aerial armies, are large-scale collective apparitions involving the ghostly manifestation of soldiers, warriors, or entire military engagements.",
-  "aliases": [],
+  "category": "ghost_haunting",
+  "description": "Phantom armies are large-scale collective apparitions of soldiers and battles, in which witnesses report seeing or hearing entire ghostly armies, cavalry charges, or re-enacted engagements at historical battlefields and other sites of mass military death.",
+  "aliases": [
+    {
+      "name": "Spectral armies",
+      "language": "English"
+    },
+    {
+      "name": "Ghost armies (battlefield apparitions)",
+      "language": "English"
+    },
+    {
+      "name": "Drosoulites",
+      "language": "Greek",
+      "region": "Crete",
+      "meaning": "'Dew shadows', the phantom soldiers of Frangokastello"
+    },
+    {
+      "name": "Wild Hunt (related)",
+      "language": "Germanic / Norse",
+      "region": "Northern Europe",
+      "meaning": "Spectral host of huntsmen, sometimes assimilated to phantom-army traditions"
+    }
+  ],
   "tags": [
-    "folklore",
-    "mythology"
+    "ghost",
+    "battlefield",
+    "apparition",
+    "war",
+    "civil-war",
+    "mirage",
+    "fata-morgana",
+    "edge-hill",
+    "drosoulites",
+    "gettysburg"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "Britain",
+    "Crete",
+    "Pennsylvania (Gettysburg)",
+    "Northern France (Western Front)",
+    "Scottish Highlands"
+  ],
+  "origin": "Phantom-army reports are recorded worldwide but cluster around famous battlefields in Europe, the Mediterranean, and North America.",
+  "first_reported": "Antiquity",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

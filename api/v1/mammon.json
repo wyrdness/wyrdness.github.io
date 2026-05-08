@@ -1,17 +1,40 @@
 {
   "id": "mammon",
-  "name": "Mammon - The Demon of Greed and Wealth",
+  "name": "Mammon",
   "category": "demon_angel",
-  "description": "So if you have not been trustworthy in handling worldly wealth [unrighteous mammon], who will trust you with true riches?",
-  "aliases": [],
+  "description": "A biblical and later Christian personification of wealth and greed. Originally an Aramaic word for 'riches' used in the Gospels, Mammon was later treated in Christian thought as a false god and, in medieval and Renaissance literature, as a fallen angel and demon of avarice.",
+  "aliases": [
+    {
+      "name": "Māmōnā",
+      "language": "Aramaic",
+      "meaning": "wealth, riches"
+    },
+    {
+      "name": "Mamonas",
+      "language": "Greek (Hellenistic)",
+      "meaning": "transliteration of Aramaic māmōnā"
+    },
+    {
+      "name": "Mammona",
+      "language": "Latin (Vulgate)"
+    }
+  ],
   "tags": [
-    "folklore",
-    "mythology"
+    "demon",
+    "greed",
+    "wealth",
+    "biblical",
+    "christian-theology",
+    "personification",
+    "seven-princes-of-hell"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "Christian world",
+    "Western literary tradition"
+  ],
+  "origin": "A figure of Christian theology and Western literature; not tied to a specific geographic locale.",
+  "first_reported": "1st century CE",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

@@ -2,16 +2,32 @@
   "id": "yara-ma-yha-who",
   "name": "Yara-ma-yha-who",
   "category": "mythological_creature",
-  "description": "The **yara-ma-yha-who** is a small, red humanoid creature from Aboriginal Australian Dreamtime folklore, functioning primarily as a vampire-like predator and cautionary tale.",
-  "aliases": [],
+  "description": "The Yara-ma-yha-who is a small, red, vampire-like humanoid of southeastern Australian Aboriginal folklore, depicted with suckers on its hands and feet that drain a victim's blood; it serves as a cautionary figure warning against wandering alone beneath wild fig trees.",
+  "aliases": [
+    {
+      "name": "Yara-ma-yha-who",
+      "language": "Aboriginal Australian (southeastern)",
+      "region": "Southeastern Australia"
+    }
+  ],
   "tags": [
     "folklore",
-    "mythology"
+    "mythology",
+    "vampire-like",
+    "humanoid",
+    "australia",
+    "aboriginal",
+    "tree-dwelling",
+    "cautionary-tale"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "| Aboriginal Australian Dreamtime |",
-  "first_reported": "Unknown",
+  "regions": [
+    "Southeastern Australia",
+    "New South Wales",
+    "Victoria"
+  ],
+  "origin": "The legend is recorded from Aboriginal traditions of southeastern Australia. Published English-language compilations do not consistently localise it to a single nation; the story circulates in the broader cultural region documented in early-20th-century ethnographies.",
+  "first_reported": "1930",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

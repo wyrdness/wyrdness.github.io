@@ -2,16 +2,54 @@
   "id": "gorgon",
   "name": "Gorgon",
   "category": "mythological_creature",
-  "description": "The Gorgons are three monstrous sisters from Greek mythology—**Medusa**, **Stheno**, and **Euryale**—daughters of the primordial sea deities Phorcys and Ceto.",
-  "aliases": [],
+  "description": "The Gorgons are three monstrous sisters of Greek myth — Medusa, Stheno, and Euryale — daughters of the primordial sea-deities Phorcys and Ceto, whose gaze turned mortals to stone.",
+  "aliases": [
+    {
+      "name": "Gorgones",
+      "language": "Ancient Greek",
+      "meaning": "plural of Gorgo, 'dreadful'"
+    },
+    {
+      "name": "Medusa",
+      "language": "Ancient Greek",
+      "meaning": "'guardian' or 'queen'; the only mortal Gorgon"
+    },
+    {
+      "name": "Stheno",
+      "language": "Ancient Greek",
+      "meaning": "'strength'; immortal Gorgon"
+    },
+    {
+      "name": "Euryale",
+      "language": "Ancient Greek",
+      "meaning": "'wide-leaping' or 'far-roaming'; immortal Gorgon"
+    },
+    {
+      "name": "Gorgoneion",
+      "language": "Ancient Greek",
+      "meaning": "apotropaic image of a Gorgon's head"
+    }
+  ],
   "tags": [
-    "folklore",
-    "mythology"
+    "greek-mythology",
+    "monster",
+    "snake-haired",
+    "petrification",
+    "apotropaic",
+    "perseus",
+    "medusa",
+    "ancient-mediterranean"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "Aegean",
+    "Magna Graecia",
+    "Etruria",
+    "Roman provinces",
+    "North Africa (Lake Tritonis tradition)"
+  ],
+  "origin": "A creature of Ancient Greek and broader Mediterranean myth. Literary references locate the Gorgons at the edges of the known world; iconographically, gorgoneia were used across the Greek, Etruscan, and Roman worlds and into Roman Britain.",
+  "first_reported": "circa 700 BC",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

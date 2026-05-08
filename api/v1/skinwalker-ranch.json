@@ -2,16 +2,40 @@
   "id": "skinwalker-ranch",
   "name": "Skinwalker Ranch",
   "category": "location",
-  "description": "Skinwalker Ranch is a property in Utah that claims to be the site of extensive paranormal activity including UFO sightings, cattle mutilations, poltergeist phenomena, and cryptid encounters.",
-  "aliases": [],
-  "tags": [
-    "folklore",
-    "mythology"
+  "description": "Skinwalker Ranch is a 512-acre property in Uintah County, Utah, that has been the subject of claims of extensive paranormal activity including UFO sightings, cattle mutilations, poltergeist phenomena, and cryptid encounters, and which was investigated by Robert Bigelow's NIDS organization and a $22 million Pentagon study.",
+  "aliases": [
+    {
+      "name": "Sherman Ranch",
+      "region": "Utah, USA",
+      "meaning": "Name during the Sherman family's ownership (1994–1996)"
+    },
+    {
+      "name": "UFO Ranch",
+      "region": "Utah, USA",
+      "meaning": "Informal name based on the UFO sighting claims"
+    }
   ],
-  "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "tags": [
+    "utah",
+    "ufo",
+    "paranormal",
+    "cattle-mutilation",
+    "poltergeist",
+    "cryptid",
+    "military-investigation",
+    "aawsap",
+    "bigelow",
+    "television",
+    "uintah-county",
+    "skeptical"
+  ],
+  "status": "active",
+  "regions": [
+    "Uintah County, Utah",
+    "Uintah Basin"
+  ],
+  "origin": "A single specific property in Uintah County, Utah.",
+  "first_reported": "1994-01-01",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

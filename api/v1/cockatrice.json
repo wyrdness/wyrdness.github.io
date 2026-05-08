@@ -2,16 +2,47 @@
   "id": "cockatrice",
   "name": "Cockatrice",
   "category": "mythological_creature",
-  "description": "The cockatrice is a legendary serpent with a rooster's head from medieval European folklore.",
-  "aliases": [],
+  "description": "The cockatrice is a legendary medieval European hybrid creature with the head, comb, and wattles of a rooster and the body and tail of a serpent or wyvern, said to kill with its breath, touch, or gaze and hatched from the yolkless egg of a cockerel incubated by a toad or snake.",
+  "aliases": [
+    {
+      "name": "Cocatris",
+      "language": "Old French",
+      "meaning": "Etymological ancestor of 'cockatrice'"
+    },
+    {
+      "name": "Calcatrix",
+      "language": "Medieval Latin",
+      "meaning": "'Tracker'; originally the Latin translation of Greek ichneumon"
+    },
+    {
+      "name": "Basiliscus",
+      "language": "Latin",
+      "meaning": "Term for the basilisk often translated as 'cockatrice' in medieval English"
+    },
+    {
+      "name": "Basilisk",
+      "language": "English",
+      "meaning": "Closely related and often interchangeable creature in medieval bestiaries"
+    }
+  ],
   "tags": [
-    "folklore",
-    "mythology"
+    "medieval-europe",
+    "bestiary",
+    "petrifying-gaze",
+    "rooster",
+    "serpent",
+    "heraldry",
+    "shakespeare",
+    "biblical"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "Western and Central Europe",
+    "British Isles",
+    "Holy Roman Empire"
+  ],
+  "origin": "A creature of medieval Western and Central European literary and bestiary tradition, with its widest attestation in England, France, the Low Countries, and the Holy Roman Empire. Through colonial-era and modern fantasy literature, the figure has spread to the entire Anglophone world.",
+  "first_reported": "1382",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

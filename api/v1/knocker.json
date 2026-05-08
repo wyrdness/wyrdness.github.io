@@ -2,16 +2,67 @@
   "id": "knocker",
   "name": "Knocker",
   "category": "fae_folklore",
-  "description": "Knockers are mining spirits from Cornish folklore, described as small (around 2 feet tall), bearded creatures dressed like miners who dwell in underground mines.",
-  "aliases": [],
+  "description": "A small, wrinkled, miner-clad subterranean fairy of Cornish and Devon folklore, said to inhabit mines and to make knocking sounds in the rock — sometimes guiding miners toward rich tin or copper veins, sometimes warning of imminent collapse, and sometimes maliciously punishing whistlers or thieves.",
+  "aliases": [
+    {
+      "name": "Knacker",
+      "language": "Cornish English",
+      "region": "Cornwall, England"
+    },
+    {
+      "name": "Bucca",
+      "language": "Cornish",
+      "region": "Cornwall",
+      "meaning": "related Cornish folk spirit sometimes equated with the knocker"
+    },
+    {
+      "name": "Tommyknocker",
+      "region": "Western United States",
+      "meaning": "American adaptation of the Cornish knocker by Cornish miners in Colorado, Nevada, California, and Pennsylvania"
+    },
+    {
+      "name": "Coblyn",
+      "language": "Welsh",
+      "region": "Wales",
+      "meaning": "Welsh mining-spirit cognate"
+    },
+    {
+      "name": "Berggeist / Bergmännlein",
+      "language": "German",
+      "region": "German-speaking mining regions",
+      "meaning": "'mountain spirit / little mountain man' — German mining-spirit counterpart"
+    },
+    {
+      "name": "Kobold (mining sense)",
+      "language": "German",
+      "region": "Germany",
+      "meaning": "specifically the underground/mine kobold, parallel to the knocker"
+    }
+  ],
   "tags": [
-    "folklore",
-    "mythology"
+    "cornwall",
+    "england",
+    "wales",
+    "mining",
+    "fairy",
+    "subterranean",
+    "tommyknocker",
+    "tin-mining",
+    "cousin-jack"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "Cornwall",
+    "Devon",
+    "Wales",
+    "Western Pennsylvania",
+    "Colorado Front Range",
+    "Comstock Lode (Nevada)",
+    "California Mother Lode",
+    "Upper Peninsula of Michigan"
+  ],
+  "origin": "Concentrated in Cornwall and Devon (England) and Wales, with diaspora presence in mining communities of Pennsylvania, Colorado, Nevada, California, Wisconsin, and Michigan, USA — wherever Cornish 'Cousin Jack' miners settled.",
+  "first_reported": "1700s",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

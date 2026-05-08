@@ -2,16 +2,37 @@
   "id": "resurrection-mary",
   "name": "Resurrection Mary",
   "category": "ghost_haunting",
-  "description": "Resurrection Mary appears as a young woman, typically described with remarkable consistency across decades of sightings:",
-  "aliases": [],
+  "description": "A long-running Chicago-area vanishing-hitchhiker legend centred on Archer Avenue and Resurrection Cemetery in Justice, Illinois, in which a young blonde woman in white is said to be picked up by drivers and to vanish near the cemetery gates.",
+  "aliases": [
+    {
+      "name": "Mary of Resurrection Cemetery",
+      "language": "English",
+      "region": "Chicago"
+    },
+    {
+      "name": "The Archer Avenue Ghost",
+      "language": "English",
+      "region": "Chicago"
+    }
+  ],
   "tags": [
-    "folklore",
-    "mythology"
+    "ghost",
+    "vanishing-hitchhiker",
+    "chicago",
+    "illinois",
+    "archer-avenue",
+    "resurrection-cemetery",
+    "urban-legend",
+    "20th-century"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "Cook County, Illinois",
+    "Chicago metropolitan area",
+    "Archer Avenue corridor"
+  ],
+  "origin": "Localised to the Archer Avenue corridor between Willow Springs and Justice, Illinois, in the southwest suburbs of Chicago.",
+  "first_reported": "1939-01-01",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

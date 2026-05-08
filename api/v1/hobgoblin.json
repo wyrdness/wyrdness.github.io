@@ -1,17 +1,63 @@
 {
   "id": "hobgoblin",
   "name": "Hobgoblin",
-  "category": "|_malevolent_goblin_(hobgoblin_is_friendly_variant)_|",
-  "description": "A hobgoblin is a variant of goblin from English folklore, distinguished by being **friendly or merely mischievous** rather than malevolent.",
-  "aliases": [],
+  "category": "fae_folklore",
+  "description": "A small, hairy household sprite of English and broader British folklore, originally helpful or merely mischievous and only later conflated with malevolent goblins.",
+  "aliases": [
+    {
+      "name": "Hob",
+      "language": "English",
+      "region": "Northern England",
+      "meaning": "A familiar diminutive of 'Robert', used for household sprites"
+    },
+    {
+      "name": "Robin Goodfellow",
+      "language": "English",
+      "region": "England",
+      "meaning": "Most famous individual hobgoblin; identified with Puck"
+    },
+    {
+      "name": "Puck",
+      "language": "English",
+      "region": "England",
+      "meaning": "Mischievous sprite of English folklore identified by Shakespeare with the hobgoblin"
+    },
+    {
+      "name": "Dobby",
+      "language": "English",
+      "region": "Lancashire and Yorkshire"
+    },
+    {
+      "name": "Bauchan",
+      "language": "Scottish Gaelic",
+      "region": "Scottish Highlands"
+    },
+    {
+      "name": "Bwbach",
+      "language": "Welsh",
+      "region": "Wales"
+    }
+  ],
   "tags": [
-    "folklore",
-    "mythology"
+    "british-folklore",
+    "household-spirit",
+    "fairy",
+    "english-folklore",
+    "trickster",
+    "shapeshifter",
+    "shakespeare",
+    "hob",
+    "goblin"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "England (especially the North and Midlands)",
+    "Scotland",
+    "Wales",
+    "Isle of Man"
+  ],
+  "origin": "Hobgoblin and hob traditions are concentrated in England — particularly the north and Midlands — and in adjacent parts of the British Isles. Closely related figures appear in Scottish, Welsh, and Manx folklore.",
+  "first_reported": "Early 16th century",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

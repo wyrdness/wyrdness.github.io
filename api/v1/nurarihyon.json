@@ -2,15 +2,43 @@
   "id": "nurarihyon",
   "name": "Nurarihyon",
   "category": "entity_spirit",
-  "description": "Nurarihyon is one of Japan's most enigmatic yokai, whose legend has evolved significantly over time.",
-  "aliases": [],
+  "description": "An Edo-period Japanese yōkai depicted as an old man with an elongated, gourd-shaped head, originally an obscure figure in yōkai picture scrolls, later popularised in twentieth-century media as a refined intruder and supreme commander of yōkai.",
+  "aliases": [
+    {
+      "name": "Nurarihyon",
+      "language": "Japanese",
+      "meaning": "From 'nurari' (to slip away) + 'hyon' (onomatopoeia for floating upward); written 滑瓢 ('slippery gourd')"
+    },
+    {
+      "name": "Nurihyon",
+      "language": "Japanese",
+      "region": "Edo-period scrolls"
+    },
+    {
+      "name": "Sea-monster nurarihyon",
+      "language": "Japanese",
+      "region": "Okayama Prefecture",
+      "meaning": "Globe-shaped umibōzu-like creature in the Seto Inland Sea"
+    }
+  ],
   "tags": [
-    "&-interpretation"
+    "yokai",
+    "japan",
+    "edo-period",
+    "folklore",
+    "humanoid-spirit",
+    "shapeshifter-adjacent",
+    "trickster"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "Akita Prefecture",
+    "Okayama Prefecture",
+    "Seto Inland Sea",
+    "Edo (modern Tokyo) — origin of the principal scrolls"
+  ],
+  "origin": "A pan-Japanese folklore figure; specific regional traditions in Akita Prefecture (as a member of the night parade) and Okayama Prefecture (sea-creature variant). Modern media-driven popularity is national.",
+  "first_reported": "c. 1700",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

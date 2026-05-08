@@ -1,17 +1,42 @@
 {
   "id": "chipekwe",
   "name": "Chipekwe",
-  "category": "of_dangerous_swamp_dwellers_that_includes_mokele-mbembe_and_other_cryptids.",
-  "description": "The Chipekwe is a large, rhinoceros-like aquatic cryptid reported in the swamps and rivers of Zambia and the Democratic Republic of Congo.",
-  "aliases": [],
-  "tags": [
-    "folklore",
-    "mythology"
+  "category": "cryptid",
+  "description": "The Chipekwe is a large, horned, hippo-killing aquatic cryptid reported from the swamps and rivers of Zambia and parts of the Democratic Republic of the Congo. Bemba-language sources describe it as a 'water rhinoceros' with smooth hairless skin and a single white horn.",
+  "aliases": [
+    {
+      "name": "Chimpelwi",
+      "language": "Bemba",
+      "region": "Lake Bangweulu, Zambia"
+    },
+    {
+      "name": "Water rhinoceros",
+      "region": "Northern Rhodesia (colonial-era Anglophone usage)"
+    },
+    {
+      "name": "Chipekwe of the Kafue Flats",
+      "region": "Lake Chirengwa / Kafue Flats, Zambia"
+    }
   ],
-  "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "tags": [
+    "africa",
+    "central-africa",
+    "zambia",
+    "cryptid",
+    "freshwater",
+    "horned",
+    "bemba-folklore"
+  ],
+  "status": "unverified",
+  "regions": [
+    "Lake Bangweulu",
+    "Bangweulu Swamps",
+    "Kafue Flats",
+    "Luapula River",
+    "Lake Mweru basin"
+  ],
+  "origin": "Centred on the wetlands of north-central and northeastern Zambia, particularly Lake Bangweulu and its associated swamps, the Kafue Flats, and the Luapula river system. Reports also extend into adjoining parts of the Democratic Republic of the Congo and to Lake Tanganyika in some 20th-century retellings.",
+  "first_reported": "1907",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

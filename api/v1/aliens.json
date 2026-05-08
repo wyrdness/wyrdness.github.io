@@ -1,126 +1,50 @@
 {
-  "meta": {
-    "version": "1.0.0",
-    "schema_version": "1.0.0",
-    "last_updated": "2026-02-13",
-    "repository": "https://github.com/wyrdness/aliens",
-    "maintainers": [
-      {
-        "name": "Wyrdness Team",
-        "github": "wyrdness",
-        "role": "maintainer"
-      }
-    ],
-    "license": {
-      "data": "CC0-1.0",
-      "content": "CC-BY-4.0"
+  "id": "aliens",
+  "name": "UFOs / UAPs and Alien Encounters",
+  "category": "ufo_uap",
+  "description": "The cluster of phenomena known as UFOs (unidentified flying objects) or UAPs (unidentified anomalous phenomena) covers reports of unexplained aerial, transmedium, and spaceborne objects, alongside alleged encounters with non-human intelligences. The modern era is conventionally dated to Kenneth Arnold's 1947 sighting; the US government formally established the All-domain Anomaly Resolution Office (AARO) in 2022.",
+  "aliases": [
+    {
+      "name": "UFO",
+      "language": "English",
+      "meaning": "Unidentified Flying Object"
+    },
+    {
+      "name": "UAP (current US usage)",
+      "language": "English",
+      "meaning": "Unidentified Anomalous Phenomena"
+    },
+    {
+      "name": "UAP (earlier usage)",
+      "language": "English",
+      "meaning": "Unidentified Aerial Phenomena"
+    },
+    {
+      "name": "Flying saucer",
+      "language": "English",
+      "meaning": "Popularised after the 1947 Kenneth Arnold sighting"
     }
-  },
-  "phenomenon": {
-    "id": "aliens",
-    "name": "UFOs/UAPs & Alien Encounters",
-    "aliases": [],
-    "category": "|_UFO_UAP_|",
-    "subcategory": "in Western encounters",
-    "tags": [
-      "folklore",
-      "mythology"
-    ],
-    "status": "documented",
-    "description": {
-      "summary": "The UFO/UAP phenomenon encompasses sightings of unidentified aerial objects and alleged encounters with non-human intelligences that have been reported throughout human history but gained prominence in the modern era beginning with the 1947 Kenneth Arnold sighting.",
-      "full": "The UFO/UAP phenomenon encompasses sightings of unidentified aerial objects and alleged encounters with non-human intelligences that have been reported throughout human history but gained prominence in the modern era beginning with the 1947 Kenneth Arnold sighting. The phenomenon includes simple sightings (Close Encounters of the First Kind), physical evidence cases (Second Kind), contact with occupants (Third Kind), abductions (Fourth Kind), and communication (Fifth Kind). In 2020, the US government officially acknowledged UAPs as a national security concern, releasing footage and establishing investigative offices. The phenomenon remains one of the most documented yet unexplained aspects of human experience, with thousands of credible witnesses including military personnel, pilots, and astronauts."
-    },
-    "etymology": {
-      "origin": "Unknown",
-      "meaning": "To be documented",
-      "first_use": "Unknown"
-    }
-  },
-  "classification": {
-    "taxonomy": {
-      "category": "|_UFO_UAP_|",
-      "type": "in Western encounters",
-      "subtype": "Unknown",
-      "variant": "Unknown"
-    },
-    "related_phenomena": []
-  },
-  "characteristics": {
-    "physical": {
-      "features": [],
-      "morphology": "See README.md for detailed physical description"
-    },
-    "abilities": [],
-    "behavior": {
-      "activity_period": "unknown",
-      "disposition": "unknown",
-      "habitat_preference": []
-    }
-  },
-  "distribution": {
-    "range": {
-      "description": "Unknown",
-      "continents": [],
-      "countries": [],
-      "regions": []
-    },
-    "hotspots": [],
-    "temporal": {
-      "first_recorded": {
-        "date": "Unknown",
-        "circa": true,
-        "source": "Traditional folklore"
-      }
-    }
-  },
-  "history": {
-    "origins": {
-      "cultural_roots": "Unknown",
-      "earliest_accounts": "See README.md for historical details",
-      "folklore_connections": "Unknown"
-    },
-    "timeline": []
-  },
-  "sightings": {
-    "statistics": {
-      "total_documented": 0,
-      "verified": 0,
-      "disputed": 0,
-      "debunked": 0
-    },
-    "notable": [],
-    "database_path": "./sightings/"
-  },
-  "evidence": {
-    "physical": [],
-    "photographic": [],
-    "video": [],
-    "audio": [],
-    "trace": []
-  },
-  "theories": {
-    "paranormal": [],
-    "scientific": [],
-    "skeptical": []
-  },
-  "cultural": {
-    "folklore": {
-      "traditions": [],
-      "stories": [],
-      "beliefs": "See README.md for cultural context"
-    },
-    "popular_culture": {
-      "literature": [],
-      "film_tv": [],
-      "games": [],
-      "other": []
-    }
-  },
-  "research": {
-    "researchers": [],
-    "organizations": [],
-    "ongoing_studies": "None documented"
-  },
-  "sources": []
+  ],
+  "tags": [
+    "ufo",
+    "uap",
+    "aerial-phenomena",
+    "government-investigation",
+    "contact",
+    "abduction",
+    "modern-folklore",
+    "national-security"
+  ],
+  "status": "active",
+  "regions": [
+    "American Southwest (New Mexico, Arizona, Nevada)",
+    "Pacific Northwest",
+    "Hessdalen, Norway",
+    "Belgian airspace (Belgian wave)",
+    "Brazilian Amazon and São Paulo state"
+  ],
+  "origin": "Worldwide distribution of reports, with reporting density correlated with population, military activity, and the existence of national reporting channels.",
+  "first_reported": "1947-06-24",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
 }

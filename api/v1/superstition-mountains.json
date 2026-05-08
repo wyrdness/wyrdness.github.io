@@ -1,17 +1,43 @@
 {
   "id": "superstition-mountains",
   "name": "Superstition Mountains",
-  "category": "|_count_|",
-  "description": "The Superstition Mountains are a rugged mountain range east of Phoenix, Arizona, that has become one of America's most legendary locations.",
-  "aliases": [],
-  "tags": [
-    "folklore",
-    "mythology"
+  "category": "location",
+  "description": "A rugged volcanic mountain range east of Phoenix, Arizona, famous for the Lost Dutchman's Gold Mine legend and a long sequence of disappearances and unexplained deaths within its wilderness.",
+  "aliases": [
+    {
+      "name": "Sierra de la Espuma",
+      "language": "Spanish",
+      "region": "Arizona",
+      "meaning": "'Foam Mountain' (early Spanish-language name)"
+    },
+    {
+      "name": "Wi:kchsawa",
+      "language": "Yavapai",
+      "region": "Arizona"
+    },
+    {
+      "name": "The Superstitions",
+      "region": "Arizona, United States"
+    }
   ],
-  "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "tags": [
+    "arizona",
+    "lost-mine",
+    "apache-folklore",
+    "yavapai",
+    "wilderness",
+    "lost-dutchman",
+    "disappearances",
+    "north-america"
+  ],
+  "status": "active",
+  "regions": [
+    "Arizona",
+    "Sonoran Desert",
+    "Basin and Range Province"
+  ],
+  "origin": "Volcanic mountain range east of Phoenix, Arizona, spanning Maricopa, Pinal, and Gila counties.",
+  "first_reported": "Pre-contact",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

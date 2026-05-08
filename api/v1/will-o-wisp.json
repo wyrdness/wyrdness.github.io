@@ -1,17 +1,84 @@
 {
   "id": "will-o-wisp",
-  "name": "Will-o'-Wisp",
-  "category": "of_unexplained_lights",
-  "description": "Will-o'-wisps are mysterious floating lights observed over bogs, swamps, marshes, and other wetlands at night.",
-  "aliases": [],
+  "name": "Will-o'-the-Wisp",
+  "category": "atmospheric_phenomenon",
+  "description": "A faint, drifting nocturnal light reported above bogs, marshes, and graveyards. Long woven into folklore as fairy lights, ghost candles, or treasure markers, and chiefly explained by modern science as the spontaneous combustion of swamp gases (methane, phosphine, diphosphane).",
+  "aliases": [
+    {
+      "name": "Ignis fatuus",
+      "language": "Latin",
+      "meaning": "'Foolish fire'"
+    },
+    {
+      "name": "Jack-o'-Lantern",
+      "region": "British Isles and North America"
+    },
+    {
+      "name": "Friar's Lantern",
+      "region": "England"
+    },
+    {
+      "name": "Hinkypunk",
+      "region": "South-west England"
+    },
+    {
+      "name": "Irrlicht",
+      "language": "German",
+      "region": "Germany"
+    },
+    {
+      "name": "Irrwisch",
+      "language": "German",
+      "region": "Germany"
+    },
+    {
+      "name": "Feu follet",
+      "language": "French",
+      "region": "France and French-speaking Canada"
+    },
+    {
+      "name": "Aleya",
+      "language": "Bengali",
+      "region": "Bengal (India / Bangladesh)"
+    },
+    {
+      "name": "Chir batti",
+      "region": "Banni grasslands of Kutch, India"
+    },
+    {
+      "name": "Min Min light",
+      "region": "Outback Australia"
+    },
+    {
+      "name": "Corpse candle",
+      "language": "English",
+      "region": "Wales / British Isles",
+      "meaning": "Light foretelling a death"
+    }
+  ],
   "tags": [
+    "atmospheric",
+    "swamp",
+    "marsh",
+    "bog",
     "folklore",
-    "mythology"
+    "light-phenomenon",
+    "ignis-fatuus",
+    "nocturnal"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "English Fens",
+    "Welsh marshes",
+    "Irish bogs",
+    "Louisiana bayous",
+    "Florida Everglades",
+    "Banni grasslands (Kutch, India)",
+    "West Bengal river deltas",
+    "Australian outback"
+  ],
+  "origin": "Reported worldwide wherever organic-rich wetlands or bogs occur, with strong concentrations in the British Isles, north-western Europe, North America, the Indian subcontinent, and Australia.",
+  "first_reported": "Antiquity",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

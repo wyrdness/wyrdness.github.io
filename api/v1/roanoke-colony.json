@@ -1,17 +1,35 @@
 {
   "id": "roanoke-colony",
-  "name": "Roanoke Colony (The Lost Colony)",
-  "category": "|_count_|_details_|",
-  "description": "The Roanoke Colony, famously known as **\\\"The Lost Colony,\\\"** represents one of America's oldest and most intriguing historical mysteries.",
-  "aliases": [],
-  "tags": [
-    "folklore",
-    "mythology"
+  "name": "Roanoke Colony",
+  "category": "location",
+  "description": "The Roanoke Colony, known as 'The Lost Colony,' was an English settlement of approximately 115–121 colonists established on Roanoke Island (present-day North Carolina) in 1587. When Governor John White returned in August 1590, the settlement was found completely abandoned, with only the word 'CROATOAN' carved into a post.",
+  "aliases": [
+    {
+      "name": "The Lost Colony",
+      "language": "English",
+      "region": "United States",
+      "meaning": "Common name for the 1587 English colony on Roanoke Island that disappeared by 1590"
+    }
   ],
-  "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "tags": [
+    "historical-mystery",
+    "colonial",
+    "north-carolina",
+    "united-states",
+    "1587",
+    "disappearance",
+    "croatoan",
+    "archaeology",
+    "english-colonization"
+  ],
+  "status": "historical",
+  "regions": [
+    "Roanoke Island, North Carolina",
+    "Hatteras Island, North Carolina",
+    "Dare County, North Carolina"
+  ],
+  "origin": "Roanoke Island, present-day Dare County, North Carolina, United States. Archaeological investigation has extended to Hatteras Island (Croatoan Island) and a site 50 miles inland ('Site X' in Bertie County).",
+  "first_reported": "1587-07-22",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

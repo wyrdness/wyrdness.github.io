@@ -1,17 +1,50 @@
 {
   "id": "ogopogo",
-  "name": "OGOPOGO",
+  "name": "Ogopogo",
   "category": "cryptid",
-  "description": "Ogopogo, also known as N'ha-a-itk in Syilx (Okanagan) tradition, is a legendary lake monster said to inhabit Okanagan Lake in British Columbia's scenic Okanagan Valley.",
-  "aliases": [],
-  "tags": [
-    "folklore",
-    "mythology"
+  "description": "A serpentine lake creature reported in Okanagan Lake, British Columbia, Canada. Rooted in the long-standing Nx̌ax̌aitkʷ tradition of the Syilx (Okanagan) people, it became a settler-era cryptid in the late 19th century and one of Canada's most famous lake monsters under the name 'Ogopogo' from 1926 onward.",
+  "aliases": [
+    {
+      "name": "Nx̌ax̌aitkʷ",
+      "language": "Nsyilxcən (Okanagan)",
+      "region": "Okanagan Valley",
+      "meaning": "Approximately 'sacred creature/spirit of the water', often translated 'water demon' or 'water god'"
+    },
+    {
+      "name": "N'ha-a-itk",
+      "language": "Anglicised Nsyilxcən",
+      "region": "Okanagan Valley"
+    },
+    {
+      "name": "Naitaka",
+      "language": "Anglicised Nsyilxcən",
+      "region": "Okanagan Valley"
+    },
+    {
+      "name": "Ogopogo",
+      "language": "English",
+      "region": "British Columbia, Canada",
+      "meaning": "Coined from a 1924 English music-hall song 'The Ogo-Pogo: The Funny Foxtrot'"
+    }
   ],
-  "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "tags": [
+    "lake-monster",
+    "cryptid",
+    "canada",
+    "british-columbia",
+    "okanagan-lake",
+    "indigenous-tradition",
+    "syilx",
+    "freshwater"
+  ],
+  "status": "active",
+  "regions": [
+    "Okanagan Valley",
+    "British Columbia",
+    "Pacific Northwest interior"
+  ],
+  "origin": "Reports are confined to Okanagan Lake (a 127-km-long fjord lake reaching 232 m / 762 ft depth) and immediately adjacent waters in the Okanagan Valley, British Columbia.",
+  "first_reported": "Pre-contact",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

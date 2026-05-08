@@ -1,16 +1,53 @@
 {
   "id": "revenant",
+  "name": "Revenant",
   "category": "undead",
-  "description": "No description available.",
-  "aliases": [],
-  "tags": [
-    "folklore",
-    "mythology"
+  "description": "A revenant is a spirit or animated corpse believed to have returned from death to haunt or harm the living, prominent in medieval European folklore from Celtic and Norse traditions through English and French accounts. Archaeologists have found revenant graves across Europe dating back 4,000 years.",
+  "aliases": [
+    {
+      "name": "revenant",
+      "language": "Old French",
+      "meaning": "One who returns; from revenir (to return)"
+    },
+    {
+      "name": "Draugr",
+      "language": "Old Norse",
+      "region": "Scandinavia",
+      "meaning": "Again-walker; animated corpse in Norse mythology"
+    },
+    {
+      "name": "Aptrgangr",
+      "language": "Old Norse",
+      "region": "Scandinavia",
+      "meaning": "After-goer; one who walks after death"
+    },
+    {
+      "name": "Haugbui",
+      "language": "Old Norse",
+      "region": "Scandinavia",
+      "meaning": "Barrow-dweller; a type of Norse revenant that remains near its burial mound"
+    }
   ],
-  "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "tags": [
+    "undead",
+    "ghost",
+    "medieval",
+    "europe",
+    "folklore",
+    "animated-corpse",
+    "vampire-precursor",
+    "celtic",
+    "norse"
+  ],
+  "status": "historical",
+  "regions": [
+    "England",
+    "Wales",
+    "Normandy",
+    "Scandinavia"
+  ],
+  "origin": "Revenant beliefs are documented across Europe, with the most detailed medieval accounts from England, Wales, and France. Archaeological evidence of anti-revenant burial practices spans Europe from the Bronze Age onward.",
+  "first_reported": "Pre-0100-01-01",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

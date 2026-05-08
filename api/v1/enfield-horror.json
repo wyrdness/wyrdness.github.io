@@ -2,16 +2,29 @@
   "id": "enfield-horror",
   "name": "Enfield Horror",
   "category": "cryptid",
-  "description": "The **Enfield Horror** is a cryptid creature reported from Enfield, Illinois, during a concentrated series of sightings in April and May 1973.",
-  "aliases": [],
-  "tags": [
-    "folklore",
-    "mythology"
+  "description": "An unidentified creature reported in and around Enfield, Illinois during a brief sighting cluster in late April and early May 1973, described as a roughly four-and-a-half-foot-tall, gray, three-legged entity with two short arms and pink eyes.",
+  "aliases": [
+    {
+      "name": "Enfield Monster",
+      "region": "Illinois, USA"
+    }
   ],
-  "status": "documented",
-  "regions": [],
-  "origin": "American (Illinois), 1973",
-  "first_reported": "Unknown",
+  "tags": [
+    "cryptid",
+    "illinois",
+    "1973",
+    "high-strangeness",
+    "single-incident",
+    "mass-panic",
+    "midwest"
+  ],
+  "status": "historical",
+  "regions": [
+    "White County, Illinois",
+    "southern Illinois"
+  ],
+  "origin": "Reports limited to a small area in and around Enfield, Illinois, during a six-week window in 1973; no documented reports outside this geographic and temporal cluster.",
+  "first_reported": "1973-04-25",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

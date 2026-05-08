@@ -1,17 +1,41 @@
 {
   "id": "patasola",
   "name": "La Patasola",
-  "category": "undead",
-  "description": "La Patasola (literally \\\"single foot\\\" or \\\"one leg\\\" in Spanish) is one of the most terrifying and enduring creatures in Colombian and Venezuelan folklore.",
-  "aliases": [],
+  "category": "entity_spirit",
+  "description": "La Patasola ('one foot') is a vampiric forest spirit of Colombian and wider Andean folklore who appears to lone men in the wilderness as a beautiful woman, then reveals her true one-legged, fanged form to feed on their blood and flesh.",
+  "aliases": [
+    {
+      "name": "Patasola",
+      "language": "Spanish",
+      "region": "Colombia, Venezuela, Ecuador",
+      "meaning": "'Single foot' / 'one leg', from pata ('foot/leg') + sola ('single', 'only')"
+    },
+    {
+      "name": "La Mujer de Una Sola Pata",
+      "language": "Spanish",
+      "region": "Andean Colombia",
+      "meaning": "'The woman with a single leg'"
+    }
+  ],
   "tags": [
-    "(removal-of-mobility",
-    "independence)"
+    "colombia",
+    "venezuela",
+    "andean",
+    "folklore",
+    "vampire",
+    "shapeshifter",
+    "forest-spirit",
+    "seductress"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "Andes",
+    "Amazonia",
+    "Orinoco basin",
+    "Colombian inter-Andean valleys"
+  ],
+  "origin": "La Patasola is a creature of Colombian folklore with related traditions in Venezuela and Ecuador. She is most strongly associated with Andean Colombia and adjacent Amazonian and inter-Andean valleys.",
+  "first_reported": "1800s",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

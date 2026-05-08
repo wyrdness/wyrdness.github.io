@@ -2,16 +2,42 @@
   "id": "el-cadejo",
   "name": "El Cadejo",
   "category": "entity_spirit",
-  "description": "El Cadejo is a legendary supernatural dog from Central American folklore, existing in two opposing forms: the White Cadejo (benevolent protector) and the Black Cadejo (malevolent attacker).",
-  "aliases": [],
-  "tags": [
-    "folklore",
-    "mythology"
+  "description": "A Central American spirit that takes the form of a large dog, appearing in two opposing variants: a benevolent white cadejo that protects nocturnal travellers and a malevolent black cadejo (sometimes identified with the Devil) that harms them.",
+  "aliases": [
+    {
+      "name": "Cadejo blanco",
+      "language": "Spanish",
+      "meaning": "white cadejo (benevolent variant)"
+    },
+    {
+      "name": "Cadejo negro",
+      "language": "Spanish",
+      "meaning": "black cadejo (malevolent variant)"
+    },
+    {
+      "name": "El Cadejos",
+      "region": "Costa Rica"
+    }
   ],
-  "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "tags": [
+    "central-america",
+    "dog",
+    "guardian-spirit",
+    "shapeshifter",
+    "nahual",
+    "syncretism",
+    "drunkards",
+    "night"
+  ],
+  "status": "active",
+  "regions": [
+    "Central America",
+    "Mesoamerica",
+    "Highland Maya region",
+    "Pacific lowlands of Central America"
+  ],
+  "origin": "Folkloric range across Central America (Guatemala, El Salvador, Honduras, Nicaragua, Costa Rica, Panama) with extensions into several Mexican states.",
+  "first_reported": "19th century",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

@@ -1,17 +1,42 @@
 {
   "id": "hydra",
-  "name": "Hydra",
+  "name": "Lernaean Hydra",
   "category": "mythological_creature",
-  "description": "The Hydra is a legendary multi-headed serpentine monster from Greek mythology, most famously known as the **Lernaean Hydra** that Hercules faced as his second labor.",
-  "aliases": [],
+  "description": "The Lernaean Hydra is a many-headed serpentine drakōn of Greek mythology, offspring of Typhon and Echidna, slain by Heracles as his second labor; its defining trait is the regrowth of two heads for each one severed.",
+  "aliases": [
+    {
+      "name": "Λερναῖα Ὕδρα (Lernaía Hýdra)",
+      "language": "Ancient Greek",
+      "meaning": "Hydra of Lerna"
+    },
+    {
+      "name": "Hydra Lernaea",
+      "language": "Latin"
+    },
+    {
+      "name": "Hydra of Lerna",
+      "language": "English"
+    }
+  ],
   "tags": [
-    "folklore",
-    "mythology"
+    "greek-mythology",
+    "drakon",
+    "serpent",
+    "labors-of-heracles",
+    "chthonic",
+    "regenerating",
+    "lake-monster",
+    "argolid"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "Argolid",
+    "Peloponnese",
+    "Lake Lerna",
+    "Spring of Amymone"
+  ],
+  "origin": "Mythological habitat is the marsh of Lerna, in the Argolid region of the Peloponnese, southern Greece, near a reputed entrance to the Underworld.",
+  "first_reported": "c. 700 BCE",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

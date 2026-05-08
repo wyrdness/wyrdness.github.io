@@ -2,16 +2,56 @@
   "id": "mara",
   "name": "Mara",
   "category": "entity_spirit",
-  "description": "The Mara is a female nightmare spirit from Slavic and Germanic folklore, representing the **etymological origin of the English word \\\"nightmare\\\"** (literally \\\"night-Mara\\\").",
-  "aliases": [],
+  "description": "A female nightmare spirit of Germanic and Slavic folklore who 'rides' sleepers and presses on their chests, producing the experience that gave English the word 'nightmare' (literally 'night-mara').",
+  "aliases": [
+    {
+      "name": "Mare",
+      "language": "Old English",
+      "region": "England"
+    },
+    {
+      "name": "Mara",
+      "language": "Old Norse",
+      "region": "Scandinavia"
+    },
+    {
+      "name": "Mara",
+      "language": "Swedish / Norwegian / Danish",
+      "region": "Scandinavia"
+    },
+    {
+      "name": "Zmora / Mora",
+      "language": "Polish",
+      "region": "Poland"
+    },
+    {
+      "name": "Můra",
+      "language": "Czech",
+      "region": "Czech lands"
+    },
+    {
+      "name": "Mora",
+      "language": "South Slavic",
+      "region": "Balkans"
+    }
+  ],
   "tags": [
-    "folklore",
-    "mythology"
+    "nightmare",
+    "sleep-paralysis",
+    "germanic-folklore",
+    "slavic-folklore",
+    "scandinavian-folklore",
+    "spirit",
+    "etymology"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "|",
-  "first_reported": "Unknown",
+  "regions": [
+    "Germanic Europe",
+    "Scandinavia",
+    "Slavic Europe"
+  ],
+  "origin": "Germanic-, Scandinavian-, and Slavic-speaking Europe, with strong continuity from medieval to modern times.",
+  "first_reported": "1230",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

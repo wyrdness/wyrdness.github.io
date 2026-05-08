@@ -1,17 +1,43 @@
 {
   "id": "jorogumo",
   "name": "Jorōgumo",
-  "category": "entity_spirit",
-  "description": "The Jorōgumo is a spider yokai from Japanese folklore that gains supernatural powers upon reaching 400 years of age.",
-  "aliases": [],
+  "category": "shapeshifter",
+  "description": "The Jorōgumo is a spider yōkai of Japanese folklore, traditionally said to be a Trichonephila clavata that has lived for centuries and gained the power to take the form of a beautiful woman, luring men to ensnare and devour. Famous as the haunt of Jōren Falls in the Izu Peninsula.",
+  "aliases": [
+    {
+      "name": "絡新婦",
+      "language": "Japanese (kanji)",
+      "meaning": "'Entangling bride / newlywed', the literary spelling"
+    },
+    {
+      "name": "女郎蜘蛛",
+      "language": "Japanese (kanji)",
+      "meaning": "'Whore spider' or 'woman spider', the entomological / vernacular spelling"
+    },
+    {
+      "name": "Jorō spider",
+      "language": "English",
+      "meaning": "Trichonephila clavata, the golden silk orb-weaver — the real spider lending its name to the yokai"
+    }
+  ],
   "tags": [
-    "folklore",
-    "mythology"
+    "japanese-folklore",
+    "yokai",
+    "shapeshifter",
+    "spider",
+    "edo-period",
+    "femme-fatale",
+    "joren-falls"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "Izu Peninsula",
+    "Tōhoku",
+    "Kansai",
+    "Kii Peninsula"
+  ],
+  "origin": "Native to Japanese folklore, with regional legends concentrated in central and western Honshu, especially the Izu Peninsula (Shizuoka), Kashikobuchi (Sendai, Miyagi), and the mountain forests of Kyoto and Kii.",
+  "first_reported": "1660",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

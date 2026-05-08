@@ -1,126 +1,33 @@
 {
-  "meta": {
-    "version": "1.0.0",
-    "schema_version": "1.0.0",
-    "last_updated": "2026-02-13",
-    "repository": "https://github.com/wyrdness/bennington-triangle",
-    "maintainers": [
-      {
-        "name": "Wyrdness Team",
-        "github": "wyrdness",
-        "role": "maintainer"
-      }
-    ],
-    "license": {
-      "data": "CC0-1.0",
-      "content": "CC-BY-4.0"
+  "id": "bennington-triangle",
+  "name": "Bennington Triangle",
+  "category": "location",
+  "description": "The Bennington Triangle is a term coined by author Joseph A. Citro for an area of southwestern Vermont, centered on Glastenbury Mountain, where five people disappeared under unexplained circumstances between 1945 and 1950.",
+  "aliases": [
+    {
+      "name": "Vermont's Vanishing Zone",
+      "language": "English",
+      "region": "Vermont, USA",
+      "meaning": "Popular press designation for the cluster of disappearances in the Glastenbury Mountain area"
     }
-  },
-  "phenomenon": {
-    "id": "bennington-triangle",
-    "name": "Bennington Triangle - Vermont's Vanishing Zone",
-    "aliases": [],
-    "category": "LOCATION_PHENOMENON",
-    "subcategory": "Unknown",
-    "tags": [
-      "folklore",
-      "mythology"
-    ],
-    "status": "documented",
-    "description": {
-      "summary": "This phenomenon has been documented extensively across multiple time periods and continues to generate interest from researchers, folklorists, and investigators.",
-      "full": "This phenomenon has been documented extensively across multiple time periods and continues to generate interest from researchers, folklorists, and investigators. The evidence includes eyewitness accounts, cultural traditions, and in some cases physical documentation."
-    },
-    "etymology": {
-      "origin": "Unknown",
-      "meaning": "To be documented",
-      "first_use": "Unknown"
-    }
-  },
-  "classification": {
-    "taxonomy": {
-      "category": "LOCATION_PHENOMENON",
-      "type": "Unknown",
-      "subtype": "Unknown",
-      "variant": "Unknown"
-    },
-    "related_phenomena": []
-  },
-  "characteristics": {
-    "physical": {
-      "features": [],
-      "morphology": "See README.md for detailed physical description"
-    },
-    "abilities": [],
-    "behavior": {
-      "activity_period": "unknown",
-      "disposition": "unknown",
-      "habitat_preference": []
-    }
-  },
-  "distribution": {
-    "range": {
-      "description": "Unknown",
-      "continents": [],
-      "countries": [],
-      "regions": []
-    },
-    "hotspots": [],
-    "temporal": {
-      "first_recorded": {
-        "date": "Unknown",
-        "circa": true,
-        "source": "Traditional folklore"
-      }
-    }
-  },
-  "history": {
-    "origins": {
-      "cultural_roots": "Unknown",
-      "earliest_accounts": "See README.md for historical details",
-      "folklore_connections": "Unknown"
-    },
-    "timeline": []
-  },
-  "sightings": {
-    "statistics": {
-      "total_documented": 0,
-      "verified": 0,
-      "disputed": 0,
-      "debunked": 0
-    },
-    "notable": [],
-    "database_path": "./sightings/"
-  },
-  "evidence": {
-    "physical": [],
-    "photographic": [],
-    "video": [],
-    "audio": [],
-    "trace": []
-  },
-  "theories": {
-    "paranormal": [],
-    "scientific": [],
-    "skeptical": []
-  },
-  "cultural": {
-    "folklore": {
-      "traditions": [],
-      "stories": [],
-      "beliefs": "See README.md for cultural context"
-    },
-    "popular_culture": {
-      "literature": [],
-      "film_tv": [],
-      "games": [],
-      "other": []
-    }
-  },
-  "research": {
-    "researchers": [],
-    "organizations": [],
-    "ongoing_studies": "None documented"
-  },
-  "sources": []
+  ],
+  "tags": [
+    "disappearances",
+    "vermont",
+    "glastenbury-mountain",
+    "unexplained",
+    "location",
+    "united-states",
+    "1940s-1950s"
+  ],
+  "status": "historical",
+  "regions": [
+    "Southwestern Vermont",
+    "Glastenbury Mountain area",
+    "Bennington County, Vermont"
+  ],
+  "origin": "The Bennington Triangle centers on Glastenbury Mountain in southwestern Vermont, encompassing parts of the towns of Bennington, Woodford, Shaftsbury, and Somerset.",
+  "first_reported": "1945-11-01",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
 }

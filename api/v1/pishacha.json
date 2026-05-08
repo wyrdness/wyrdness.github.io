@@ -1,17 +1,51 @@
 {
   "id": "pishacha",
   "name": "Pishacha",
-  "category": "hindu_mythology",
-  "description": "No description available.",
-  "aliases": [],
+  "category": "undead",
+  "description": "A class of flesh-eating demons in Hindu and Buddhist tradition, often grouped with bhutas and vetalas. Said to haunt cremation grounds, possess humans, and feed on energy and corpses. Considered among the lowest, most malevolent supernatural beings in classical Indian cosmology.",
+  "aliases": [
+    {
+      "name": "पिशाच",
+      "language": "Sanskrit",
+      "meaning": "eater of raw flesh"
+    },
+    {
+      "name": "Piśāca",
+      "language": "Sanskrit (IAST)"
+    },
+    {
+      "name": "Paisachi / Paisacha",
+      "language": "Sanskrit/Pali (relational forms)"
+    },
+    {
+      "name": "ปิศาจ (pisat)",
+      "language": "Thai",
+      "region": "Thailand",
+      "meaning": "ghost, demon (loanword from Pishacha)"
+    },
+    {
+      "name": "Pisaca",
+      "language": "Pali / English transliteration"
+    }
+  ],
   "tags": [
-    "folklore",
-    "mythology"
+    "hindu-mythology",
+    "buddhist-mythology",
+    "demon",
+    "flesh-eater",
+    "sanskrit",
+    "cremation-ground",
+    "shapeshifter",
+    "south-asia"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "South Asia",
+    "Himalayan / northwestern frontier",
+    "Southeast Asian Indic-influenced cultures"
+  ],
+  "origin": "Mythologically pan–South Asian, with a particular Vedic association with the northwestern frontier (Piśāca-deśa). Pishachas are referenced throughout Hindu and Buddhist literature wherever those traditions have spread, including Southeast Asia.",
+  "first_reported": "c. 1000 BC",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

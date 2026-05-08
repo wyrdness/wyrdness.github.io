@@ -1,17 +1,39 @@
 {
   "id": "hoopsnake",
-  "name": "Hoopsnake",
+  "name": "Hoop snake",
   "category": "cryptid",
-  "description": "The Hoopsnake is a creature from American frontier and lumberjack folklore, described as a snake that takes its tail in its mouth and rolls like a wheel or hoop to pursue prey at great speed.",
-  "aliases": [],
+  "description": "A legendary serpent of North American (and Australian) folklore that grasps its tail in its mouth and rolls like a wheel to chase prey, striking with a venomous stinger on its tail.",
+  "aliases": [
+    {
+      "name": "Hoop-snake",
+      "region": "United States, Canada"
+    },
+    {
+      "name": "Stinging snake",
+      "region": "American frontier folklore"
+    }
+  ],
   "tags": [
-    "folklore",
-    "mythology"
+    "fearsome-critter",
+    "serpent",
+    "frontier-folklore",
+    "tall-tale",
+    "north-america",
+    "australia",
+    "venomous-tail",
+    "lumberjack-folklore"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "Virginia",
+    "West Virginia",
+    "Minnesota–Wisconsin border",
+    "North Carolina",
+    "Prince Edward Island",
+    "British Columbia"
+  ],
+  "origin": "Reports cluster in the eastern and midwestern United States and parts of Canada, with Australian parallels.",
+  "first_reported": "1784",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

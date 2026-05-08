@@ -1,17 +1,59 @@
 {
   "id": "tokoloshe",
   "name": "Tokoloshe",
-  "category": "entity_spirit_/_cryptid",
-  "description": "The Tokoloshe (also Tikoloshe, Tokolosh) is a dwarf-like creature from Zulu and broader South African folklore, typically described as 2-3 feet tall, hairy, with a grotesque appearance.",
-  "aliases": [],
-  "tags": [
-    "folklore",
-    "mythology"
+  "category": "entity_spirit",
+  "description": "A dwarf-like water spirit of Nguni (Zulu, Xhosa) folklore in Southern Africa, traditionally summoned by witch doctors to harm enemies. Known for invisibility, biting sleeping victims, and aggressive nocturnal behavior.",
+  "aliases": [
+    {
+      "name": "Tikoloshe",
+      "language": "isiZulu",
+      "region": "Southern Africa"
+    },
+    {
+      "name": "Tikolosh",
+      "language": "isiXhosa",
+      "region": "Southern Africa"
+    },
+    {
+      "name": "Tokolosh",
+      "language": "Anglicized",
+      "region": "Southern Africa"
+    },
+    {
+      "name": "Tonkolosh",
+      "language": "Anglicized variant",
+      "region": "Southern Africa"
+    },
+    {
+      "name": "Hili",
+      "language": "isiXhosa",
+      "region": "Southern Africa"
+    },
+    {
+      "name": "Uthikoloshe",
+      "language": "isiZulu",
+      "region": "Southern Africa"
+    }
   ],
-  "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "tags": [
+    "southern-africa",
+    "zulu-folklore",
+    "xhosa-folklore",
+    "nguni-tradition",
+    "witch-familiar",
+    "water-spirit",
+    "dwarf-being"
+  ],
+  "status": "active",
+  "regions": [
+    "KwaZulu-Natal",
+    "Eastern Cape",
+    "Mpumalanga",
+    "Limpopo",
+    "Gauteng townships"
+  ],
+  "origin": "Reported throughout Southern Africa, especially among Nguni-speaking peoples (Zulu, Xhosa, Swazi, Ndebele) and into neighboring states.",
+  "first_reported": "Pre-colonial",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

@@ -1,17 +1,46 @@
 {
   "id": "chochinobake",
-  "name": "Chochinobake (提灯お化け)",
-  "category": "|_general_category_of_animated_objects_|",
-  "description": "Chochinobake (提灯お化け, \\\"lantern ghost\\\") is a beloved yokai from Japanese folklore, representing an old paper lantern that has gained sentience after 100 years of service.",
-  "aliases": [],
+  "name": "Chōchin-obake",
+  "category": "entity_spirit",
+  "description": "Chōchin-obake is a Japanese yōkai depicted as an old paper lantern (chōchin) that has split open along its bamboo ribs to reveal a single eye, a long protruding tongue, and a wide mouth — a classic example of a tsukumogami, an everyday object brought to life after long use.",
+  "aliases": [
+    {
+      "name": "提灯お化け",
+      "language": "Japanese",
+      "meaning": "lantern ghost / lantern monster"
+    },
+    {
+      "name": "Chōchin'obake",
+      "language": "Japanese (romanised)"
+    },
+    {
+      "name": "Bake-chōchin",
+      "language": "Japanese",
+      "meaning": "monster lantern"
+    },
+    {
+      "name": "Bura-bura",
+      "language": "Japanese",
+      "meaning": "literally 'dangle-dangle'; name used by Toriyama Sekien for a hanging lantern yōkai"
+    }
+  ],
   "tags": [
-    "folklore",
-    "mythology"
+    "japanese-folklore",
+    "yokai",
+    "tsukumogami",
+    "edo-period",
+    "lantern",
+    "harmless",
+    "picture-yokai"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "Edo (modern Tokyo) — primary publishing centre for the imagery",
+    "Kyoto and Osaka — kabuki and ukiyo-e production",
+    "Nationwide via mass-produced karuta, kusazōshi, and toy prints"
+  ],
+  "origin": "The chōchin-obake is a creature of the Japanese popular imagination, attested across the Japanese archipelago through printed illustration and stage drama, with no specific regional folk-legend tradition.",
+  "first_reported": "1781",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

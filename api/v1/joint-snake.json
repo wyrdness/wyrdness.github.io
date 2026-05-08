@@ -1,16 +1,47 @@
 {
   "id": "joint-snake",
+  "name": "Joint Snake",
   "category": "cryptid",
-  "description": "No description available.",
-  "aliases": [],
-  "tags": [
-    "folklore",
-    "mythology"
+  "description": "The Joint Snake is a creature from Southern US folklore said to shatter into pieces when struck, then reassemble itself; the legend is rooted in misidentification of legless lizards (glass lizards) that can autotomize their tails.",
+  "aliases": [
+    {
+      "name": "Glass snake",
+      "language": "English",
+      "region": "Southern United States",
+      "meaning": "Named for the 'glassy' skin texture described in folklore; also the common name for actual legless lizards (Ophisaurus spp.) that inspired the legend"
+    },
+    {
+      "name": "Hoop snake",
+      "language": "English",
+      "region": "United States / Canada / Australia",
+      "meaning": "Related legend of a snake that grasps its tail and rolls like a wheel; overlaps with joint-snake tradition"
+    }
   ],
-  "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "tags": [
+    "american-folklore",
+    "southern-us",
+    "tall-tale",
+    "snake",
+    "cryptid",
+    "reassembly",
+    "fearsome-critters",
+    "north-america"
+  ],
+  "status": "historical",
+  "regions": [
+    "Southern Virginia",
+    "North Carolina",
+    "South Carolina",
+    "Georgia",
+    "Alabama",
+    "Mississippi",
+    "Louisiana",
+    "Texas",
+    "Wisconsin",
+    "Iowa"
+  ],
+  "origin": "Southern United States from southern Virginia to Texas; range extends north to Wisconsin and Iowa in western areas. Hoop snake tradition extends to Canada and Australia.",
+  "first_reported": "1754-01-01",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

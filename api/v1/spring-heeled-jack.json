@@ -2,16 +2,42 @@
   "id": "spring-heeled-jack",
   "name": "Spring-Heeled Jack",
   "category": "urban_legend",
-  "description": "Spring-Heeled Jack stands as one of Victorian England's most enduring and enigmatic urban legends—a figure that terrorized London and surrounding regions for nearly seven decades.",
-  "aliases": [],
-  "tags": [
-    "folklore",
-    "mythology"
+  "description": "A leaping, claw-handed, sometimes flame-breathing figure reported in England from the late 1830s through the early 20th century. Initially a panic in suburban London, Spring-Heeled Jack became one of the foundational characters of Victorian urban legend and penny dreadful fiction.",
+  "aliases": [
+    {
+      "name": "Spring-heel'd Jack",
+      "language": "English",
+      "region": "Victorian Britain",
+      "meaning": "Original 1830s spelling"
+    },
+    {
+      "name": "Jack the Leaper",
+      "region": "England"
+    },
+    {
+      "name": "The Terror of London",
+      "region": "England"
+    }
   ],
-  "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "tags": [
+    "victorian",
+    "england",
+    "london",
+    "leaping",
+    "blue-flame",
+    "bogeyman",
+    "penny-dreadful"
+  ],
+  "status": "historical",
+  "regions": [
+    "Greater London",
+    "Hampshire",
+    "Lincolnshire",
+    "Midlands",
+    "Merseyside"
+  ],
+  "origin": "Concentrated initially in the suburbs of London (1837–1843), then in scattered reports across the English Midlands, the Home Counties, Lincolnshire, Hampshire (Aldershot Garrison, 1877), and northern England (Liverpool, 1888 and 1904).",
+  "first_reported": "1837",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

@@ -1,126 +1,61 @@
 {
-  "meta": {
-    "version": "1.0.0",
-    "schema_version": "1.0.0",
-    "last_updated": "2026-02-13",
-    "repository": "https://github.com/wyrdness/black-shuck",
-    "maintainers": [
-      {
-        "name": "Wyrdness Team",
-        "github": "wyrdness",
-        "role": "maintainer"
-      }
-    ],
-    "license": {
-      "data": "CC0-1.0",
-      "content": "CC-BY-4.0"
+  "id": "black-shuck",
+  "name": "Black Shuck",
+  "category": "cryptid",
+  "description": "Black Shuck is a spectral black dog from East Anglian folklore, associated with the coastlines and country roads of Norfolk, Suffolk, and neighboring counties, traditionally regarded as a death omen whose sighting presages death within a year.",
+  "aliases": [
+    {
+      "name": "Old Shuck",
+      "language": "English",
+      "region": "East Anglia, England",
+      "meaning": "A familiar/diminutive form; 'Old' as a respectful or fearful intensifier"
+    },
+    {
+      "name": "Shuck",
+      "language": "English",
+      "region": "East Anglia, England",
+      "meaning": "Short form; from Old English 'scucca' (devil, fiend)"
+    },
+    {
+      "name": "The Galleytrot",
+      "language": "English",
+      "region": "Suffolk, England",
+      "meaning": "A variant black dog of Suffolk tradition"
+    },
+    {
+      "name": "The Hateful Thing",
+      "language": "English",
+      "region": "Norfolk, England",
+      "meaning": "Local Norfolk designation for the spectral dog"
+    },
+    {
+      "name": "The Shug Monkey",
+      "language": "English",
+      "region": "Cambridgeshire, England",
+      "meaning": "A Cambridgeshire variant — sometimes described as dog-like, sometimes as simian"
     }
-  },
-  "phenomenon": {
-    "id": "black-shuck",
-    "name": "Black Shuck",
-    "aliases": [],
-    "category": "|_SPECTRAL_MANIFESTATIONS_|",
-    "subcategory": "Black Dog",
-    "tags": [
-      "folklore",
-      "mythology"
-    ],
-    "status": "documented",
-    "description": {
-      "summary": "Black Shuck is one of the most famous examples of British black dog folklore, a spectral hound that roams the coastlines and country roads of East Anglia, England.",
-      "full": "Black Shuck is one of the most famous examples of British black dog folklore, a spectral hound that roams the coastlines and country roads of East Anglia, England. Described as a **large black dog the size of a calf**, with shaggy fur and **blazing red or green eyes**, Black Shuck is primarily known as a **death omen**—seeing the creature portends death within a year. The most famous incident occurred in **1577 at Bungay church**, where a black dog reportedly burst through the doors during a thunderstorm, killed two parishioners, and caused church damage. Despite its fearsome reputation, Black Shuck is often reported as simply appearing and watching, sometimes even acting **protectively**. The legend inspired Arthur Conan Doyle's **\\\"The Hound of the Baskervilles\\\"** and represents a widespread tradition of spectral black dogs found throughout the British Isles."
-    },
-    "etymology": {
-      "origin": "Unknown",
-      "meaning": "To be documented",
-      "first_use": "Unknown"
-    }
-  },
-  "classification": {
-    "taxonomy": {
-      "category": "|_SPECTRAL_MANIFESTATIONS_|",
-      "type": "Black Dog",
-      "subtype": "Unknown",
-      "variant": "Unknown"
-    },
-    "related_phenomena": []
-  },
-  "characteristics": {
-    "physical": {
-      "features": [],
-      "morphology": "See README.md for detailed physical description"
-    },
-    "abilities": [],
-    "behavior": {
-      "activity_period": "unknown",
-      "disposition": "unknown",
-      "habitat_preference": []
-    }
-  },
-  "distribution": {
-    "range": {
-      "description": "Unknown",
-      "continents": [],
-      "countries": [],
-      "regions": []
-    },
-    "hotspots": [],
-    "temporal": {
-      "first_recorded": {
-        "date": "Unknown",
-        "circa": true,
-        "source": "Traditional folklore"
-      }
-    }
-  },
-  "history": {
-    "origins": {
-      "cultural_roots": "Unknown",
-      "earliest_accounts": "See README.md for historical details",
-      "folklore_connections": "Unknown"
-    },
-    "timeline": []
-  },
-  "sightings": {
-    "statistics": {
-      "total_documented": 0,
-      "verified": 0,
-      "disputed": 0,
-      "debunked": 0
-    },
-    "notable": [],
-    "database_path": "./sightings/"
-  },
-  "evidence": {
-    "physical": [],
-    "photographic": [],
-    "video": [],
-    "audio": [],
-    "trace": []
-  },
-  "theories": {
-    "paranormal": [],
-    "scientific": [],
-    "skeptical": []
-  },
-  "cultural": {
-    "folklore": {
-      "traditions": [],
-      "stories": [],
-      "beliefs": "See README.md for cultural context"
-    },
-    "popular_culture": {
-      "literature": [],
-      "film_tv": [],
-      "games": [],
-      "other": []
-    }
-  },
-  "research": {
-    "researchers": [],
-    "organizations": [],
-    "ongoing_studies": "None documented"
-  },
-  "sources": []
+  ],
+  "tags": [
+    "black-dog",
+    "east-anglia",
+    "england",
+    "spectral",
+    "death-omen",
+    "norfolk",
+    "suffolk",
+    "ghost-dog",
+    "british-folklore"
+  ],
+  "status": "active",
+  "regions": [
+    "Norfolk",
+    "Suffolk",
+    "Cambridgeshire",
+    "Essex",
+    "East Anglia (general)"
+  ],
+  "origin": "Black Shuck is associated primarily with the East Anglian counties of Norfolk, Suffolk, Cambridgeshire, and Essex. Related black dog traditions exist across the British Isles, and the phenomenon has been documented from the Highlands to the West Country, but Black Shuck is specifically the East Anglian form.",
+  "first_reported": "1577-08-04",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
 }

@@ -2,16 +2,60 @@
   "id": "gello",
   "name": "Gello",
   "category": "demon_angel",
-  "description": "Greek female demon who attacks pregnant women and children out of jealousy for dying childless This phenomenon represents an important part of Greek folklore and cultural heritage, with documented accounts and traditions spanning generations.",
-  "aliases": [],
+  "description": "A female demon of Greek and Byzantine tradition, attested as early as Sappho (6th century BC), said to attack pregnant women, newborns, and the unmarried, and the central target of a long-running corpus of apotropaic charms and exorcisms in the Greek-speaking world.",
+  "aliases": [
+    {
+      "name": "Gyllou",
+      "language": "Greek (Byzantine)",
+      "region": "Byzantine Empire"
+    },
+    {
+      "name": "Gylou",
+      "language": "Greek"
+    },
+    {
+      "name": "Gillo",
+      "language": "Greek"
+    },
+    {
+      "name": "Gelu",
+      "language": "Greek"
+    },
+    {
+      "name": "Gelloudes",
+      "language": "Greek (Byzantine)",
+      "meaning": "plural form denoting a class of demons"
+    },
+    {
+      "name": "Abyzou",
+      "language": "Greek",
+      "meaning": "from abyssos, 'the deep'; identified with Gello in late antiquity and Byzantine literature"
+    },
+    {
+      "name": "Baskania",
+      "language": "Greek",
+      "meaning": "evil eye"
+    }
+  ],
   "tags": [
-    "folklore",
-    "mythology"
+    "child-killer",
+    "greek-folklore",
+    "byzantine",
+    "female-demon",
+    "apotropaic",
+    "infant-death",
+    "lamia-tradition"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "| Greek |",
-  "first_reported": "Unknown",
+  "regions": [
+    "Aegean",
+    "Anatolia",
+    "Levant",
+    "Balkans",
+    "North Africa"
+  ],
+  "origin": "Originally a localized Greek tradition (attested for Sappho on Lesbos), the Gello / gelloudes complex spread throughout the Greek-speaking Byzantine world and, through the 'Legend of Saint Sisinnios', into Coptic, Ethiopic, Armenian, Romanian, Slavonic, Arabic, Syriac, and Hebrew manuscript traditions across the eastern Mediterranean and Near East.",
+  "first_reported": "Pre-6th century BC",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

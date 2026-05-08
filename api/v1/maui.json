@@ -1,17 +1,81 @@
 {
   "id": "maui",
   "name": "Māui",
-  "category": "of_semi-divine_beings",
-  "description": "Māui is one of the most celebrated figures in Polynesian mythology, a demigod and culture hero whose exploits are told across the Pacific—from Hawai'i to Aotearoa (New Zealand), from Tahiti to Samoa.",
-  "aliases": [],
+  "category": "mythological_creature",
+  "description": "Māui is the great culture-hero and trickster of Polynesian mythology, credited across the Pacific with snaring the sun, fishing up islands, securing fire for humanity, and ultimately dying in his attempt to defeat death.",
+  "aliases": [
+    {
+      "name": "Māui-tikitiki",
+      "language": "Māori",
+      "region": "Aotearoa (New Zealand)",
+      "meaning": "Māui of the top-knot"
+    },
+    {
+      "name": "Māui-tikitiki-a-Taranga",
+      "language": "Māori",
+      "region": "Aotearoa (New Zealand)",
+      "meaning": "Māui, the top-knot of Taranga"
+    },
+    {
+      "name": "Māui-pōtiki",
+      "language": "Māori",
+      "region": "Aotearoa (New Zealand)",
+      "meaning": "Māui the last-born"
+    },
+    {
+      "name": "Māui-kiʻikiʻi",
+      "language": "Hawaiian",
+      "region": "Hawaiʻi"
+    },
+    {
+      "name": "Māui-mua",
+      "language": "Hawaiian",
+      "region": "Hawaiʻi",
+      "meaning": "Māui the elder"
+    },
+    {
+      "name": "Māui-waena",
+      "language": "Hawaiian",
+      "region": "Hawaiʻi",
+      "meaning": "Māui the middle"
+    },
+    {
+      "name": "Māui-matavaru",
+      "language": "Mangarevan",
+      "region": "Mangareva",
+      "meaning": "Eight-eyed Māui"
+    },
+    {
+      "name": "Ti'iti'i-a-Talanga",
+      "language": "Samoan",
+      "region": "Samoa"
+    }
+  ],
   "tags": [
-    "folklore",
-    "mythology"
+    "polynesia",
+    "demigod",
+    "trickster",
+    "culture-hero",
+    "fishing-up-islands",
+    "snaring-the-sun",
+    "fire",
+    "māori",
+    "hawaiian",
+    "samoan"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "Aotearoa (New Zealand)",
+    "Hawaiian archipelago",
+    "Sāmoa",
+    "Tonga",
+    "Society Islands (Tahiti)",
+    "Marquesas Islands",
+    "Mangareva",
+    "Cook Islands"
+  ],
+  "origin": "The Māui cycle is told across virtually all of Polynesia. Wikipedia notes the tradition can be traced 'as far west as islands off New Guinea' and is found in Hawaiʻi, Aotearoa, Tonga, Sāmoa, Tahiti, Mangareva, the Marquesas, the New Hebrides (Vanuatu), and beyond.",
+  "first_reported": "Pre-contact",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

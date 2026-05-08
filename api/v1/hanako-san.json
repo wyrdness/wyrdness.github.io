@@ -1,17 +1,45 @@
 {
   "id": "hanako-san",
-  "name": "Hanako-san (花子さん)",
-  "category": "of_origin_stories:",
-  "description": "Hanako-san (花子さん), meaning \\\"Miss Hanako,\\\" is Japan's most famous school ghost and one of the most widespread urban legends among Japanese children.",
-  "aliases": [],
+  "name": "Hanako-san",
+  "category": "ghost_haunting",
+  "description": "Hanako-san is a Japanese school ghost said to inhabit the third stall of the third-floor girls' bathroom and to answer when summoned with a specific knocking ritual. She is one of the most widely circulated school-based urban legends in modern Japan.",
+  "aliases": [
+    {
+      "name": "Toire no Hanako-san",
+      "language": "Japanese",
+      "region": "Japan",
+      "meaning": "Hanako of the Toilet"
+    },
+    {
+      "name": "トイレの花子さん",
+      "language": "Japanese (kanji/kana)",
+      "region": "Japan"
+    },
+    {
+      "name": "Hanako-san of the Toilet",
+      "language": "English",
+      "meaning": "Common English rendering"
+    }
+  ],
   "tags": [
-    "folklore",
-    "mythology"
+    "ghost",
+    "yokai",
+    "yurei",
+    "urban-legend",
+    "japan",
+    "school",
+    "child-spirit",
+    "ritual-summoning"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Japanese (Post-WWII urban legend)",
-  "first_reported": "Unknown",
+  "regions": [
+    "Kantō (including Tokyo)",
+    "Kansai",
+    "Hokkaidō",
+    "Kyūshū"
+  ],
+  "origin": "Japan-wide schoolyard urban legend, with regional variants in nearly every prefecture. The legend has been exported through anime, manga, films, and the global creepypasta and J-horror communities.",
+  "first_reported": "1950",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

@@ -2,16 +2,29 @@
   "id": "roperite",
   "name": "Roperite",
   "category": "cryptid",
-  "description": "The Roperite is a menacing creature from American lumberjack folklore, known for its unique and deadly hunting method.",
-  "aliases": [],
+  "description": "A fearsome critter from American lumberjack tall tales, the Roperite is a pony-sized animal of the California Sierra foothills described as catching prey with a long, prehensile, rope-like beak that it uses as a lasso.",
+  "aliases": [
+    {
+      "name": "Lariat Snake",
+      "region": "California Sierras",
+      "meaning": "informal name in some retellings of Cox's account"
+    }
+  ],
   "tags": [
+    "fearsome-critter",
     "folklore",
-    "mythology"
+    "lumberjack-tall-tale",
+    "north-america",
+    "california",
+    "sierra-nevada"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "California",
+    "Sierra Nevada foothills"
+  ],
+  "origin": "Restricted in folklore to the foothills of the Sierra Nevada in California, particularly the Digger pine belt of the western slope.",
+  "first_reported": "1910",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

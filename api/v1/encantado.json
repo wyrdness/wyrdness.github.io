@@ -2,16 +2,44 @@
   "id": "encantado",
   "name": "Encantado",
   "category": "shapeshifter",
-  "description": "The Encantado are shapeshifting beings from Brazilian Amazon folklore who live as dolphins (usually pink river dolphins) but transform into beautiful humans at night.",
-  "aliases": [],
+  "description": "A shapeshifting being of Amazonian Brazilian folklore that lives by day as a pink river dolphin (boto cor-de-rosa) and emerges at night, especially during festivals, in the form of a tall, handsome, white-clad man who seduces women and lures the unwary into the underwater realm of Encante.",
+  "aliases": [
+    {
+      "name": "Boto cor-de-rosa",
+      "language": "Portuguese",
+      "region": "Brazilian Amazon",
+      "meaning": "'Pink boto'; the Amazon river dolphin in its mythical aspect"
+    },
+    {
+      "name": "Boto",
+      "language": "Portuguese",
+      "region": "Brazilian Amazon",
+      "meaning": "Common name for Inia geoffrensis, the Amazon river dolphin"
+    },
+    {
+      "name": "Bufeo colorado",
+      "language": "Spanish",
+      "region": "Peruvian and Colombian Amazon"
+    }
+  ],
   "tags": [
+    "shapeshifter",
+    "south-america",
+    "brazil",
+    "amazon",
+    "river-dolphin",
     "folklore",
-    "mythology"
+    "seducer"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "Amazon basin",
+    "Solimões–Amazon corridor",
+    "Rio Negro",
+    "Marajó region"
+  ],
+  "origin": "Concentrated in the Brazilian Amazon basin (states of Amazonas, Pará, Acre, Rondônia, Roraima, Amapá), with parallel traditions in adjacent Amazonian regions of Peru, Colombia, Bolivia, Venezuela, and the Guianas.",
+  "first_reported": "Pre-contact",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

@@ -1,17 +1,42 @@
 {
   "id": "marid",
   "name": "Marid",
-  "category": "|_alternative_spelling/broader_category_|",
-  "description": "Marid are the most powerful and rarest type of djinn in Islamic theology and Arabian folklore.",
-  "aliases": [],
+  "category": "entity_spirit",
+  "description": "A category of powerful, rebellious jinn in Islamic theology and Arabian folklore. The Quran (37:7) speaks of stars guarding the lowest heaven against the 'rebellious devils' (shayṭānin māridin), and later Arabic literature, including the Thousand and One Nights, treats the Marid as among the strongest classes of jinn.",
+  "aliases": [
+    {
+      "name": "مَارِد",
+      "language": "Arabic",
+      "meaning": "'rebellious', 'recalcitrant'"
+    },
+    {
+      "name": "Marīd",
+      "language": "Arabic (transliteration)"
+    },
+    {
+      "name": "Mārid",
+      "language": "Arabic (transliteration)"
+    }
+  ],
   "tags": [
-    "folklore",
-    "mythology"
+    "jinn",
+    "djinn",
+    "islamic-tradition",
+    "arabian-folklore",
+    "quran",
+    "one-thousand-and-one-nights",
+    "shaytan"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "Arabian Peninsula",
+    "Levant",
+    "Mesopotamia",
+    "North Africa",
+    "Islamic world"
+  ],
+  "origin": "Pan-Islamic — present wherever Islamic theology and Arabic folklore are transmitted; especially prominent in classical Arabic literature.",
+  "first_reported": "0610",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

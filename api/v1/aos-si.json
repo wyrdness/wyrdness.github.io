@@ -1,126 +1,63 @@
 {
-  "meta": {
-    "version": "1.0.0",
-    "schema_version": "1.0.0",
-    "last_updated": "2026-02-13",
-    "repository": "https://github.com/wyrdness/aos-si",
-    "maintainers": [
-      {
-        "name": "Wyrdness Team",
-        "github": "wyrdness",
-        "role": "maintainer"
-      }
-    ],
-    "license": {
-      "data": "CC0-1.0",
-      "content": "CC-BY-4.0"
+  "id": "aos-si",
+  "name": "Aos Sí",
+  "category": "fae_folklore",
+  "description": "A supernatural race in Irish (and broader Gaelic) folklore who dwell in fairy mounds and the Otherworld. Traditionally identified with the Tuatha Dé Danann who retreated underground after their defeat by the Milesians.",
+  "aliases": [
+    {
+      "name": "Aes Sídhe",
+      "language": "Old Irish",
+      "meaning": "Older spelling of aos sí"
+    },
+    {
+      "name": "Daoine Sídhe",
+      "language": "Irish",
+      "meaning": "'People of the mounds'"
+    },
+    {
+      "name": "Daoine Sí",
+      "language": "Modern Irish"
+    },
+    {
+      "name": "Sidhe",
+      "language": "Anglicized Irish",
+      "meaning": "Common English shorthand for the fairy mounds and their inhabitants"
+    },
+    {
+      "name": "The Good Folk",
+      "region": "Ireland and Scotland",
+      "meaning": "Euphemistic name used to avoid attracting their attention"
+    },
+    {
+      "name": "The Gentry",
+      "region": "Ireland",
+      "meaning": "Respectful euphemism"
+    },
+    {
+      "name": "Tuatha Dé Danann",
+      "language": "Old Irish",
+      "meaning": "'Peoples of the goddess Danu'; mythological ancestors of the aos sí"
     }
-  },
-  "phenomenon": {
-    "id": "aos-si",
-    "name": "",
-    "aliases": [],
-    "category": "FAE_FOLKLORE",
-    "subcategory": "Unknown",
-    "tags": [
-      "folklore",
-      "mythology"
-    ],
-    "status": "documented",
-    "description": {
-      "summary": "No description available.",
-      "full": ""
-    },
-    "etymology": {
-      "origin": "Unknown",
-      "meaning": "To be documented",
-      "first_use": "Unknown"
-    }
-  },
-  "classification": {
-    "taxonomy": {
-      "category": "FAE_FOLKLORE",
-      "type": "Unknown",
-      "subtype": "Unknown",
-      "variant": "Unknown"
-    },
-    "related_phenomena": []
-  },
-  "characteristics": {
-    "physical": {
-      "features": [],
-      "morphology": "See README.md for detailed physical description"
-    },
-    "abilities": [],
-    "behavior": {
-      "activity_period": "unknown",
-      "disposition": "unknown",
-      "habitat_preference": []
-    }
-  },
-  "distribution": {
-    "range": {
-      "description": "Unknown",
-      "continents": [],
-      "countries": [],
-      "regions": []
-    },
-    "hotspots": [],
-    "temporal": {
-      "first_recorded": {
-        "date": "Unknown",
-        "circa": true,
-        "source": "Traditional folklore"
-      }
-    }
-  },
-  "history": {
-    "origins": {
-      "cultural_roots": "Unknown",
-      "earliest_accounts": "See README.md for historical details",
-      "folklore_connections": "Unknown"
-    },
-    "timeline": []
-  },
-  "sightings": {
-    "statistics": {
-      "total_documented": 0,
-      "verified": 0,
-      "disputed": 0,
-      "debunked": 0
-    },
-    "notable": [],
-    "database_path": "./sightings/"
-  },
-  "evidence": {
-    "physical": [],
-    "photographic": [],
-    "video": [],
-    "audio": [],
-    "trace": []
-  },
-  "theories": {
-    "paranormal": [],
-    "scientific": [],
-    "skeptical": []
-  },
-  "cultural": {
-    "folklore": {
-      "traditions": [],
-      "stories": [],
-      "beliefs": "See README.md for cultural context"
-    },
-    "popular_culture": {
-      "literature": [],
-      "film_tv": [],
-      "games": [],
-      "other": []
-    }
-  },
-  "research": {
-    "researchers": [],
-    "organizations": [],
-    "ongoing_studies": "None documented"
-  },
-  "sources": []
+  ],
+  "tags": [
+    "irish-folklore",
+    "celtic",
+    "fairy",
+    "tuatha-de-danann",
+    "otherworld",
+    "fairy-mound",
+    "sidhe",
+    "gaelic"
+  ],
+  "status": "documented",
+  "regions": [
+    "Ireland (especially the west: Connacht, Kerry, Donegal)",
+    "Scottish Highlands and Hebrides",
+    "Isle of Man",
+    "Irish and Scottish diaspora communities"
+  ],
+  "origin": "The aos sí tradition is centred on Ireland and extends across the Gaelic-speaking world: Scotland (where the cognate term is sìth), the Isle of Man, and Irish and Scottish diaspora communities. Cognate fairy traditions exist throughout the broader Celtic world (Welsh tylwyth teg, Cornish pobel vean, Breton korrigans).",
+  "first_reported": "0700-01-01",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
 }

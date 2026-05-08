@@ -1,17 +1,75 @@
 {
   "id": "seneca-guns",
-  "name": "Seneca Guns - The Mysterious Coastal Booming Sounds",
+  "name": "Seneca Guns",
   "category": "atmospheric_phenomenon",
-  "description": "This phenomenon has been documented extensively across multiple time periods and continues to generate interest from researchers, folklorists, and investigators.",
-  "aliases": [],
+  "description": "The Seneca Guns are unexplained loud booming sounds, often resembling cannon fire or distant thunder, reported around Seneca and Cayuga Lakes in New York and along the coast of the Carolinas, with global cognates known as skyquakes, mistpouffers, Barisal Guns, and uminari. The booms are sometimes accompanied by ground or window-shaking but no consensus cause has been established.",
+  "aliases": [
+    {
+      "name": "Skyquakes",
+      "language": "English",
+      "meaning": "general modern term for unexplained sky-origin booms"
+    },
+    {
+      "name": "Barisal Guns",
+      "language": "English (after Bengali)",
+      "region": "Bay of Bengal / Bangladesh"
+    },
+    {
+      "name": "Mistpouffers",
+      "language": "Dutch / Flemish",
+      "region": "Netherlands and Belgium",
+      "meaning": "fog belches"
+    },
+    {
+      "name": "Uminari",
+      "language": "Japanese",
+      "region": "Japan",
+      "meaning": "cries from the sea"
+    },
+    {
+      "name": "Bombes de mer",
+      "language": "French",
+      "region": "France",
+      "meaning": "sea bombs"
+    },
+    {
+      "name": "Brontidi",
+      "language": "Italian",
+      "region": "Italy",
+      "meaning": "thunder-like (booms)"
+    },
+    {
+      "name": "Cielomoto",
+      "language": "Spanish",
+      "region": "Latin America / Spain",
+      "meaning": "skyquake"
+    },
+    {
+      "name": "Lake Gun (of Seneca)",
+      "language": "English",
+      "region": "Seneca Lake, New York"
+    }
+  ],
   "tags": [
-    "folklore",
-    "mythology"
+    "skyquake",
+    "atmospheric",
+    "acoustic",
+    "coastal",
+    "unexplained-sound",
+    "booms",
+    "global-distribution"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "Finger Lakes (New York)",
+    "Outer Banks",
+    "North Carolina coast",
+    "Bay of Fundy",
+    "Bay of Bengal",
+    "Coastal Japan"
+  ],
+  "origin": "A globally distributed family of phenomena reported on every inhabited continent. Best-known clusters in the United States are around Seneca and Cayuga Lakes (New York), the Outer Banks and coast of North Carolina, the South Carolina coast, the Florida coast, and northern Georgia. Major international cognates are reported in coastal Bangladesh and India, Japan, the Belgian and Dutch coasts, Lough Neagh in Northern Ireland, and many other regions.",
+  "first_reported": "1804",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

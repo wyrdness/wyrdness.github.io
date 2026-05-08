@@ -2,16 +2,55 @@
   "id": "possession",
   "name": "Possession",
   "category": "psychic_phenomena",
-  "description": "Possession is the belief that spirits, demons, or other entities can inhabit and control human bodies.",
-  "aliases": [],
-  "tags": [
-    "folklore",
-    "mythology"
+  "description": "Possession is the cross-cultural belief and reported experience that a human body and its functions can be controlled by an external agent — a spirit, ghost, demon, deity, or ancestor — producing dramatic changes in voice, behavior, language, and apparent identity. It is documented in 74% of 488 societies surveyed in a 1969 NIMH cross-cultural study.",
+  "aliases": [
+    {
+      "name": "Spirit possession",
+      "language": "English"
+    },
+    {
+      "name": "Demonic possession",
+      "language": "English",
+      "meaning": "Possession by a malevolent spirit, in Christian and Islamic frameworks"
+    },
+    {
+      "name": "Dybbuk possession",
+      "language": "Yiddish/Hebrew",
+      "region": "Jewish tradition",
+      "meaning": "Possession by a disembodied human soul"
+    },
+    {
+      "name": "Jinn possession (mass al-jinn)",
+      "language": "Arabic",
+      "region": "Islamic world"
+    },
+    {
+      "name": "Trance possession / spirit mediumship",
+      "region": "African and Afro-diasporic traditions"
+    }
   ],
-  "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "tags": [
+    "spirit",
+    "demon",
+    "exorcism",
+    "trance",
+    "altered-state",
+    "religion",
+    "cross-cultural",
+    "ritual",
+    "psychiatry"
+  ],
+  "status": "active",
+  "regions": [
+    "Pacific (highest documented prevalence)",
+    "Sub-Saharan Africa",
+    "South Asia",
+    "Middle East and North Africa",
+    "Latin America and the Caribbean",
+    "Europe (historical Christian cases)"
+  ],
+  "origin": "Beliefs in and reports of possession are found in the great majority of human societies. Bourguignon's 1969 cross-cultural survey identified some form of possession belief in 74% of 488 societies, with highest prevalence in the Pacific and lowest among Native American societies.",
+  "first_reported": "Antiquity",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

@@ -3,11 +3,14 @@ name: Aggregate API
 on:
   schedule:
     - cron: '0 */6 * * *'  # Every 6 hours
-  workflow_dispatch:  # Manual trigger
+  workflow_dispatch:
 
 permissions:
   contents: write
-  actions: write
+
+concurrency:
+  group: data-write
+  cancel-in-progress: false
 
 jobs:
   aggregate:
@@ -23,9 +26,10 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: '20'
+          cache: 'npm'
 
       - name: Install dependencies
-        run: npm install
+        run: npm ci || npm install
 
       - name: Run aggregation
         env:
@@ -42,11 +46,15 @@ jobs:
           git config --local user.name "GitHub Actions"
           git add api/
           if git diff --quiet && git diff --staged --quiet; then
-            echo "changes_made=false" >> $GITHUB_OUTPUT
+            echo "changes_made=false" >> "$GITHUB_OUTPUT"
           else
             git commit -m "Update API data"
-            git push
-            echo "changes_made=true" >> $GITHUB_OUTPUT
+            for i in 1 2 3; do
+              git pull --rebase origin main && git push && break
+              echo "Push attempt $i failed; retrying..."
+              sleep $((i * 5))
+            done
+            echo "changes_made=true" >> "$GITHUB_OUTPUT"
           fi
 
   generate-pages:
@@ -61,15 +69,16 @@ jobs:
           ref: main
 
       - name: Pull latest changes
-        run: git pull origin main
+        run: git pull --rebase origin main
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
           node-version: '20'
+          cache: 'npm'
 
       - name: Install dependencies
-        run: npm install
+        run: npm ci || npm install
 
       - name: Generate pages
         run: node scripts/generate-pages.js
@@ -79,5 +88,13 @@ jobs:
           git config --local user.email "actions@github.com"
           git config --local user.name "GitHub Actions"
           git add phenomena/
-          git diff --quiet && git diff --staged --quiet || git commit -m "Generate static pages [skip ci]"
-          git push
+          if git diff --quiet && git diff --staged --quiet; then
+            echo "No page changes to commit"
+            exit 0
+          fi
+          git commit -m "Generate static pages [skip ci]"
+          for i in 1 2 3; do
+            git pull --rebase origin main && git push && break
+            echo "Push attempt $i failed; retrying..."
+            sleep $((i * 5))
+          done

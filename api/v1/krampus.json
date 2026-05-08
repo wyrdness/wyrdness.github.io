@@ -2,16 +2,82 @@
   "id": "krampus",
   "name": "Krampus",
   "category": "entity_spirit",
-  "description": "Krampus is a horned, anthropomorphic figure from Alpine folklore who punishes misbehaving children during the Christmas season, contrasting with St.",
-  "aliases": [],
-  "tags": [
-    "folklore",
-    "mythology"
+  "description": "A horned, anthropomorphic figure from Central Alpine folklore who accompanies Saint Nicholas on December 5th (Krampusnacht), punishing misbehaving children with birch rods and threatening to carry the worst offenders away in a sack.",
+  "aliases": [
+    {
+      "name": "Krampusz",
+      "language": "Hungarian",
+      "region": "Hungary"
+    },
+    {
+      "name": "Kramper",
+      "language": "German (dialectal)",
+      "region": "Austria, Bavaria"
+    },
+    {
+      "name": "Klaubauf",
+      "language": "German",
+      "region": "Austria, Bavaria",
+      "meaning": "One who grabs up (children)"
+    },
+    {
+      "name": "Klaubaufmann",
+      "language": "German",
+      "region": "Bavaria"
+    },
+    {
+      "name": "Bartl",
+      "language": "German",
+      "region": "Bavaria"
+    },
+    {
+      "name": "Strohbart",
+      "language": "German",
+      "region": "Bavaria",
+      "meaning": "Straw beard"
+    },
+    {
+      "name": "Schmutzli",
+      "language": "German (Swiss)",
+      "region": "Switzerland",
+      "meaning": "Dirty one"
+    },
+    {
+      "name": "Père Fouettard",
+      "language": "French",
+      "region": "France, Belgium",
+      "meaning": "Father Whipper"
+    },
+    {
+      "name": "Parkelj",
+      "language": "Slovenian",
+      "region": "Slovenia",
+      "meaning": "Companion of Miklavž (Slovenian St. Nicholas)"
+    }
   ],
-  "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "tags": [
+    "alpine",
+    "christmas",
+    "folklore",
+    "central-europe",
+    "winter-festival",
+    "demon",
+    "shapeshifter",
+    "children",
+    "saint-nicholas"
+  ],
+  "status": "active",
+  "regions": [
+    "Austrian Alps",
+    "Bavaria",
+    "Tyrol",
+    "Styria",
+    "Carinthia",
+    "South Tyrol",
+    "Salzburg region"
+  ],
+  "origin": "Traditional range covers the Central and Eastern Alpine region. Active celebrations are found across Austria, Bavaria, Czech Republic, Slovakia, Slovenia, Croatia, Bosnia and Herzegovina, Hungary, Romania, Bulgaria, Northern Italy, and parts of the Low Countries. Since the late 20th century, Krampus traditions have spread to North America and globally.",
+  "first_reported": "1600-01-01",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

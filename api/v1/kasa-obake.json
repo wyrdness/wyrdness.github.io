@@ -1,17 +1,49 @@
 {
   "id": "kasa-obake",
-  "name": "Kasa-obake (傘お化け)",
-  "category": "|_general_category_of_animated_objects_|",
-  "description": "Kasa-obake (傘お化け, \\\"umbrella ghost\\\"), also known as karakasa-kozo, is one of the most recognizable and beloved yokai in Japanese folklore.",
-  "aliases": [],
+  "name": "Kasa-obake",
+  "category": "entity_spirit",
+  "description": "A whimsical Japanese yōkai depicted as an old paper umbrella that has come to life, characteristically bearing a single eye, a long lolling tongue, and a single sandaled leg on which it hops about.",
+  "aliases": [
+    {
+      "name": "傘お化け",
+      "language": "Japanese",
+      "meaning": "umbrella ghost / umbrella monster"
+    },
+    {
+      "name": "Karakasa-obake",
+      "language": "Japanese",
+      "meaning": "paper-umbrella ghost"
+    },
+    {
+      "name": "Karakasa-kozō",
+      "language": "Japanese",
+      "meaning": "umbrella boy / paper-umbrella lad"
+    },
+    {
+      "name": "Hone-karakasa",
+      "language": "Japanese",
+      "meaning": "skeleton/bone umbrella (variant)"
+    }
+  ],
   "tags": [
+    "yokai",
+    "tsukumogami",
+    "japan",
     "folklore",
-    "mythology"
+    "edo-period",
+    "umbrella",
+    "harmless",
+    "trickster"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "Edo (modern Tokyo)",
+    "Kyoto",
+    "Osaka",
+    "Japan generally"
+  ],
+  "origin": "Kasa-obake is a creature of Japanese popular folklore and art; it is not localized to a particular region but is associated broadly with Edo-period urban culture and tsukumogami traditions.",
+  "first_reported": "1700s",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

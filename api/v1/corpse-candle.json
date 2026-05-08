@@ -1,17 +1,63 @@
 {
   "id": "corpse-candle",
-  "name": "Corpse Candle (Canwyll Corff)",
-  "category": "atmospheric_phenomena",
-  "description": "The Corpse Candle (Welsh: *Canwyll Corff* or *Cannwyll Corph*) is a Welsh death omen consisting of mysterious pale blue, white, or ghostly lights seen flickering along paths, over fields, or near churches.",
-  "aliases": [],
+  "name": "Corpse Candle",
+  "category": "atmospheric_phenomenon",
+  "description": "The Corpse Candle (Welsh canwyll corff) is a Welsh death omen: a small, pale, blue or yellow flame seen drifting along country lanes, churchyards, and the route a forthcoming funeral will take, foretelling the death of someone in the household it visits.",
+  "aliases": [
+    {
+      "name": "Canwyll Corff",
+      "language": "Welsh",
+      "meaning": "'corpse candle'"
+    },
+    {
+      "name": "Cannwyll Corph",
+      "language": "Welsh",
+      "meaning": "Variant orthography of canwyll corff"
+    },
+    {
+      "name": "Fetch-light",
+      "language": "English (regional)",
+      "region": "Northern England and Welsh Marches"
+    },
+    {
+      "name": "Spunkie",
+      "language": "Scots",
+      "region": "Scotland",
+      "meaning": "Death-omen variant of will-o'-the-wisp"
+    },
+    {
+      "name": "Will-o'-the-wisp",
+      "language": "English",
+      "meaning": "Generic English term for similar atmospheric ghost lights"
+    },
+    {
+      "name": "Ignis fatuus",
+      "language": "Latin",
+      "meaning": "'Foolish fire'; learned name for the marsh-light phenomenon"
+    }
+  ],
   "tags": [
-    "folklore",
-    "mythology"
+    "wales",
+    "welsh-folklore",
+    "death-omen",
+    "ghost-light",
+    "ignis-fatuus",
+    "will-o-the-wisp",
+    "lych-way",
+    "british-folklore"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "South Wales",
+    "Mid Wales",
+    "Carmarthenshire",
+    "Pembrokeshire",
+    "Glamorgan",
+    "Monmouthshire",
+    "Welsh Marches"
+  ],
+  "origin": "Strongly localised to Wales, with secondary occurrences across the Welsh Marches, Cornwall, and parts of Ireland and Scotland; the broader 'death-omen ghost-light' complex extends to most of Northern Europe and to colonial diasporas in the Americas.",
+  "first_reported": "1656",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

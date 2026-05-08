@@ -1,17 +1,44 @@
 {
   "id": "screaming-skull",
   "name": "Screaming Skull",
-  "category": "ghost",
-  "description": "The Screaming Skull is a distinctive phenomenon in British and European folklore involving human skulls that allegedly possess supernatural properties, most notably emitting piercing screams or bringing misfortune when removed from their designated locations.",
-  "aliases": [],
-  "tags": [
-    "folklore",
-    "mythology"
+  "category": "ghost_haunting",
+  "description": "A screaming skull is a haunted human skull from British folklore believed to scream, cause poltergeist phenomena, or bring misfortune when removed from its home location — most commonly a historic English manor house, farm, or castle.",
+  "aliases": [
+    {
+      "name": "Fetch skull",
+      "region": "England",
+      "meaning": "A skull believed to 'fetch' or bring disaster when disturbed"
+    },
+    {
+      "name": "Guardian skull",
+      "region": "England",
+      "meaning": "A skull believed to guard the location it inhabits"
+    }
   ],
-  "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "tags": [
+    "british-folklore",
+    "english-folklore",
+    "skull",
+    "haunting",
+    "relic",
+    "manor-house",
+    "ghost",
+    "curse",
+    "undead",
+    "location-bound"
+  ],
+  "status": "active",
+  "regions": [
+    "Dorset",
+    "Derbyshire",
+    "East Yorkshire",
+    "Greater Manchester",
+    "Somerset",
+    "Cumbria",
+    "East Sussex"
+  ],
+  "origin": "Almost exclusively documented in England, with isolated cases in other English-speaking regions. The phenomenon is particularly concentrated in the north of England (Yorkshire, Derbyshire, Lancashire) and the south (Dorset, Somerset).",
+  "first_reported": "1600-01-01",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

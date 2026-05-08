@@ -2,16 +2,33 @@
   "id": "taos-hum",
   "name": "The Taos Hum",
   "category": "atmospheric_phenomenon",
-  "description": "The Taos Hum is a persistent, low-frequency sound phenomenon reported by residents of Taos, New Mexico, and surrounding areas since the early 1990s.",
-  "aliases": [],
+  "description": "A persistent low-frequency hum reported by a small minority of residents around Taos, New Mexico from the early 1990s onward, investigated by a 1993 university-led panel without identifying a specific source.",
+  "aliases": [
+    {
+      "name": "Taos Hum",
+      "region": "Taos, New Mexico, United States"
+    },
+    {
+      "name": "The Hum (Taos)",
+      "region": "Northern New Mexico"
+    }
+  ],
   "tags": [
-    "folklore",
-    "mythology"
+    "hum",
+    "low-frequency-sound",
+    "new-mexico",
+    "taos",
+    "acoustic-phenomenon",
+    "perception",
+    "north-america"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "New Mexico",
+    "Northern New Mexico"
+  ],
+  "origin": "Reports center on Taos and surrounding Taos County in northern New Mexico, with one early hearer reporting a perceived range of approximately 30 miles (48 km).",
+  "first_reported": "1991",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

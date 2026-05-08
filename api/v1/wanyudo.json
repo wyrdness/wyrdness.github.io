@@ -1,16 +1,51 @@
 {
   "id": "wanyudo",
+  "name": "Wanyūdō",
   "category": "entity_spirit",
-  "description": "No description available.",
-  "aliases": [],
+  "description": "A Japanese yōkai depicted as a flaming oxcart wheel with a tormented man's face at its hub, said to roll along roads at night, steal souls, and punish the curious in Edo-period folklore.",
+  "aliases": [
+    {
+      "name": "Wanyudo",
+      "language": "Japanese (romanization)"
+    },
+    {
+      "name": "Firewheel",
+      "language": "English (translation)"
+    },
+    {
+      "name": "Soultaker",
+      "language": "English (translation)"
+    },
+    {
+      "name": "輪入道",
+      "language": "Japanese (kanji)",
+      "meaning": "wheel monk / wheel priest"
+    },
+    {
+      "name": "Katawaguruma",
+      "language": "Japanese",
+      "meaning": "one-wheeled cart; closely related yokai often discussed alongside wanyūdō"
+    }
+  ],
   "tags": [
+    "yokai",
+    "japanese-folklore",
+    "fire",
+    "wheel",
+    "ghost",
+    "edo-period",
+    "asia",
     "folklore",
     "mythology"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "Kinai",
+    "Kyoto Prefecture",
+    "Kantō (through later transmission)"
+  ],
+  "origin": "Edo-period Japan, with strongest folk associations to Kyoto and the wider Kinai region; subsequently transmitted across Japan through kaidan literature and yōkai art.",
+  "first_reported": "1677",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

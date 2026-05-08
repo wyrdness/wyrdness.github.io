@@ -2,15 +2,62 @@
   "id": "phoenix",
   "name": "Phoenix",
   "category": "mythological_creature",
-  "description": "The phoenix is a legendary immortal bird that cyclically regenerates or is reborn from its own ashes after death.",
-  "aliases": [],
+  "description": "A long-lived bird of classical mythology that, at the end of its life, builds a nest, ignites, and is reborn from its own ashes. Frequently identified by ancient writers with the Egyptian Bennu and adopted across Roman, Christian, alchemical, and modern symbolism as an emblem of renewal.",
+  "aliases": [
+    {
+      "name": "φοῖνιξ (phoinix)",
+      "language": "Ancient Greek",
+      "meaning": "phoenix; possibly derived from a West Semitic word for the red dye 'madder'"
+    },
+    {
+      "name": "phoenīx",
+      "language": "Latin"
+    },
+    {
+      "name": "Bennu",
+      "language": "Egyptian",
+      "region": "Ancient Egypt",
+      "meaning": "Egyptian solar bird associated with creation and rebirth, often identified by classical authors with the Greek phoenix"
+    },
+    {
+      "name": "Fenghuang",
+      "language": "Chinese",
+      "region": "China",
+      "meaning": "Chinese 'phoenix' — a separate mythological bird often translated using the same English word"
+    },
+    {
+      "name": "Huma",
+      "language": "Persian",
+      "region": "Iran / Persia",
+      "meaning": "Persian mythological bird sometimes compared to the phoenix"
+    },
+    {
+      "name": "Anqa / Simurgh",
+      "language": "Arabic / Persian",
+      "region": "Middle East",
+      "meaning": "Other related Near Eastern mythological birds"
+    }
+  ],
   "tags": [
-    "|"
+    "mythology",
+    "greek",
+    "egyptian",
+    "roman",
+    "christian-symbolism",
+    "fire",
+    "rebirth",
+    "solar",
+    "immortality"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "Arabia",
+    "Egypt",
+    "Ethiopia",
+    "India (in some classical sources)"
+  ],
+  "origin": "Mythological — described in classical literature as native to Arabia, Egypt, Ethiopia, or India, depending on the author. The phoenix has no real geographic range.",
+  "first_reported": "c. 8th century BC",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

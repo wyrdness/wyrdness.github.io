@@ -2,16 +2,46 @@
   "id": "chullachaqui",
   "name": "Chullachaqui",
   "category": "entity_spirit",
-  "description": "Chullachaqui is a forest spirit from Peruvian Amazon indigenous folklore, particularly among the Shipibo-Conibo and other Amazonian groups.",
-  "aliases": [],
+  "description": "The Chullachaqui (Quechua chulla 'odd / unequal' + chaki 'foot') is a forest spirit of Peruvian and Brazilian Amazonia, depicted as a small humanoid with one mismatched foot — typically one human foot and one animal hoof — who shapeshifts into a familiar person to lead unwary travellers astray.",
+  "aliases": [
+    {
+      "name": "Chullachaki",
+      "language": "Quechua",
+      "meaning": "one foot / unequal foot"
+    },
+    {
+      "name": "Curupira",
+      "region": "Brazil",
+      "meaning": "Closely related Tupi-Guarani forest spirit, sometimes equated with the Chullachaqui"
+    },
+    {
+      "name": "Shapingo",
+      "region": "Peruvian Amazon (Loreto)",
+      "meaning": "Local variant name in mestizo folklore"
+    }
+  ],
   "tags": [
-    "folklore",
-    "mythology"
+    "amazon",
+    "peru",
+    "brazil",
+    "quechua-folklore",
+    "indigenous",
+    "shapeshifter",
+    "trickster",
+    "forest-guardian"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "Loreto (Peruvian Amazon)",
+    "Ucayali",
+    "San Martín",
+    "Madre de Dios",
+    "Pastaza and Napo (Ecuadorian Amazon)",
+    "Acre and western Amazonas (Brazil)",
+    "Putumayo (Colombia / Peru border)"
+  ],
+  "origin": "Western Amazon basin: lowland Peru (especially Loreto, Ucayali, San Martín, and Madre de Dios), eastern Ecuador (Pastaza, Napo), western Brazil (Acre, Amazonas), and the headwaters region of Colombia and Bolivia.",
+  "first_reported": "Pre-contact",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

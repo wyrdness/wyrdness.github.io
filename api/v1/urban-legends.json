@@ -2,16 +2,46 @@
   "id": "urban-legends",
   "name": "Urban Legends",
   "category": "urban_legend",
-  "description": "Urban legends are contemporary folklore stories presented as true events, often featuring moral lessons or warnings.",
-  "aliases": [],
+  "description": "A genre of contemporary folklore consisting of unusual, frightening, or humorous narratives told as true accounts about everyday life, typically attributed to a 'friend of a friend' and rarely verifiable.",
+  "aliases": [
+    {
+      "name": "Urban legend",
+      "language": "English"
+    },
+    {
+      "name": "Urban myth",
+      "language": "English"
+    },
+    {
+      "name": "Contemporary legend",
+      "language": "English",
+      "meaning": "academic preferred term in folklore studies"
+    },
+    {
+      "name": "Urban folklore",
+      "language": "English"
+    },
+    {
+      "name": "FOAFtale",
+      "language": "English",
+      "meaning": "'friend-of-a-friend' tale; coined by folklorists for the genre's signature attribution"
+    }
+  ],
   "tags": [
     "folklore",
-    "mythology"
+    "contemporary-legend",
+    "modern-myth",
+    "foaf",
+    "creepypasta",
+    "internet",
+    "narrative-genre"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "Worldwide"
+  ],
+  "origin": "Urban legends are a global phenomenon, with active traditions documented across the United States, the United Kingdom, continental Europe, Latin America, East and South Asia, Africa, and Oceania.",
+  "first_reported": "Pre-20th century",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

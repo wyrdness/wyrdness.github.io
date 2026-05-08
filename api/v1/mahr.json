@@ -2,16 +2,75 @@
   "id": "mahr",
   "name": "Mahr",
   "category": "demon_angel",
-  "description": "Germanic spirit that causes nightmares by sitting on sleepers' chests and stealing breath This phenomenon represents an important part of Germanic folklore and cultural heritage, with documented accounts and traditions spanning generations.",
-  "aliases": [],
-  "tags": [
-    "folklore",
-    "mythology"
+  "description": "A malicious entity in Germanic and Slavic folklore that sits on sleepers' chests during the night, causing nightmares, chest pressure, cold sweats, and sleep paralysis — the supernatural explanation for a cluster of experiences now understood as sleep paralysis.",
+  "aliases": [
+    {
+      "name": "Mare",
+      "language": "Old English / Old Norse",
+      "region": "Britain, Scandinavia",
+      "meaning": "From Proto-Germanic marōn; nightmare-causing spirit"
+    },
+    {
+      "name": "Mara",
+      "language": "High German / Old Norse",
+      "region": "Germany, Scandinavia"
+    },
+    {
+      "name": "Mahrt",
+      "language": "Low German",
+      "region": "Northern Germany, Pomerania"
+    },
+    {
+      "name": "Môr",
+      "language": "Low German",
+      "region": "Northern Germany"
+    },
+    {
+      "name": "Zmora",
+      "language": "Polish / Serbian",
+      "region": "Poland, Serbia"
+    },
+    {
+      "name": "Můra",
+      "language": "Czech",
+      "region": "Czech Republic"
+    },
+    {
+      "name": "Mora",
+      "language": "Croatian / Serbian",
+      "region": "Croatia, Serbia"
+    },
+    {
+      "name": "Mara",
+      "language": "Swedish / Norwegian / Danish",
+      "region": "Scandinavia"
+    },
+    {
+      "name": "Deattán",
+      "language": "Sámi",
+      "region": "Sápmi"
+    }
   ],
-  "status": "documented",
-  "regions": [],
-  "origin": "| Germanic |",
-  "first_reported": "Unknown",
+  "tags": [
+    "germanic",
+    "slavic",
+    "nightmare",
+    "sleep-paralysis",
+    "incubus",
+    "shapeshifter",
+    "nocturnal",
+    "folklore",
+    "northern-europe"
+  ],
+  "status": "historical",
+  "regions": [
+    "Germanic-speaking Central Europe",
+    "Scandinavia",
+    "Slavic Eastern Europe",
+    "British Isles (Old English mære tradition)"
+  ],
+  "origin": "Germanic and Slavic Europe, with the broadest distribution across Northern and Central Europe and Scandinavia. Related traditions with the same sleep-paralysis substrate exist globally.",
+  "first_reported": "1200-01-01",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

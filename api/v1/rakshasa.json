@@ -1,17 +1,67 @@
 {
   "id": "rakshasa",
   "name": "Rakshasa",
-  "category": "|_broader_category_of_malevolent_supernatural_beings_|",
-  "description": "Rakshasas are powerful supernatural beings from Hindu and Buddhist traditions, primarily known as demons or evil spirits, though their nature is complex and multifaceted.",
-  "aliases": [],
+  "category": "mythological_creature",
+  "description": "A class of powerful supernatural beings in Hindu, Buddhist, and Jain traditions, often depicted as malevolent shape-shifting demons but including morally complex and even virtuous individuals.",
+  "aliases": [
+    {
+      "name": "Rākṣasa",
+      "language": "Sanskrit",
+      "region": "Indian subcontinent",
+      "meaning": "demon, fiend, that which is to be guarded against"
+    },
+    {
+      "name": "Rakshasi",
+      "language": "Sanskrit",
+      "meaning": "female rakshasa"
+    },
+    {
+      "name": "Asura",
+      "language": "Sanskrit",
+      "meaning": "broader class of power-seeking beings, sometimes overlapping"
+    },
+    {
+      "name": "Nri-chakshas / Kravyad",
+      "language": "Sanskrit",
+      "meaning": "man-eater, flesh-eater (epithets)"
+    },
+    {
+      "name": "Raksasa / Raksasi",
+      "language": "Pali",
+      "region": "Theravada Buddhist countries"
+    },
+    {
+      "name": "Raksasa",
+      "language": "Indonesian/Malay",
+      "region": "Maritime Southeast Asia",
+      "meaning": "giant, gigantic being"
+    },
+    {
+      "name": "Yaksha (sometimes conflated)",
+      "language": "Sanskrit",
+      "meaning": "related class of nature spirits"
+    }
+  ],
   "tags": [
-    "folklore",
-    "mythology"
+    "hindu-mythology",
+    "buddhist-mythology",
+    "shape-shifter",
+    "demon",
+    "ramayana",
+    "mahabharata",
+    "south-asia",
+    "southeast-asia",
+    "anthropophagy"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "Indian subcontinent",
+    "Maritime Southeast Asia",
+    "Mainland Southeast Asia",
+    "Buddhist East Asia"
+  ],
+  "origin": "Rakshasa traditions span the entire Indic cultural sphere: South Asia (India, Nepal, Sri Lanka, Bangladesh), Buddhist East Asia by way of scripture, and Southeast Asia where the loanword 'raksasa' is widely used.",
+  "first_reported": "1500-01-01",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

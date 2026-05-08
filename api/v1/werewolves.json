@@ -1,17 +1,73 @@
 {
   "id": "werewolves",
-  "name": "Werewolves (Lycanthropy)",
+  "name": "Werewolf",
   "category": "shapeshifter",
-  "description": "Werewolves, also known as lycanthropes, are legendary humans capable of transforming into wolves or wolf-human hybrids.",
-  "aliases": [],
-  "tags": [
-    "folklore",
-    "mythology"
+  "description": "A human capable of transforming into a wolf or wolf-human hybrid, featuring in the folklore and mythology of many cultures, with the most developed European tradition producing historical trials and executions between the 1500s and 1700s.",
+  "aliases": [
+    {
+      "name": "Lycanthrope",
+      "language": "Greek (via Latin)",
+      "meaning": "From lukánthrōpos: lukos (wolf) + anthropos (man)"
+    },
+    {
+      "name": "Loup-garou",
+      "language": "French",
+      "region": "France, French Canada, Louisiana",
+      "meaning": "Wolf-werewolf; redundant compound from Old French"
+    },
+    {
+      "name": "Werwolf",
+      "language": "German",
+      "meaning": "Man-wolf; from Old High German"
+    },
+    {
+      "name": "Vukodlak",
+      "language": "Serbian",
+      "region": "Balkans",
+      "meaning": "Wolf-haired"
+    },
+    {
+      "name": "Vlkodlak",
+      "language": "Czech",
+      "region": "Central Europe",
+      "meaning": "Wolf-haired"
+    },
+    {
+      "name": "Rougarou",
+      "language": "French Creole",
+      "region": "Louisiana, Cajun",
+      "meaning": "Variant of loup-garou"
+    },
+    {
+      "name": "Lougawou",
+      "language": "Haitian Creole",
+      "region": "Haiti, Caribbean",
+      "meaning": "Shapeshifting blood-drinker; derived from loup-garou"
+    }
   ],
-  "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "tags": [
+    "shapeshifter",
+    "humanoid",
+    "wolf",
+    "european-folklore",
+    "mythology",
+    "witch-trials",
+    "transformation",
+    "historical-trials"
+  ],
+  "status": "historical",
+  "regions": [
+    "Holy Roman Empire",
+    "Electorate of Cologne",
+    "France (Burgundy, Auvergne)",
+    "Balkans",
+    "Transdanubia",
+    "Styria and Carinthia",
+    "Louisiana",
+    "French Canada"
+  ],
+  "origin": "Werewolf traditions are documented across Europe (with especially dense legal and trial records in France, Germany, Switzerland, and the Low Countries), Slavic Europe, the Caucasus, and, through colonial transmission, the Americas (particularly French Canada, Louisiana, and Haiti).",
+  "first_reported": "Pre-contact",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

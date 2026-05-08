@@ -2,16 +2,29 @@
   "id": "luferlang",
   "name": "Luferlang",
   "category": "cryptid",
-  "description": "The Luferlang represents the fearsome critter tradition's ultimate exaggeration.",
-  "aliases": [],
+  "description": "The Luferlang is a 'fearsome critter' of North American logging-camp tall tales, recorded in Henry H. Tryon's 1939 Fearsome Critters as a hideous equine beast with triple-jointed legs that allow it to run equally fast in any direction, a dark blue dorsal stripe, a swivel-jointed tail set in the middle of its back, and a single deadly bite delivered only once a year.",
+  "aliases": [
+    {
+      "name": "Lufferlang",
+      "region": "North American logging-camp folklore"
+    }
+  ],
   "tags": [
-    "folklore",
-    "mythology"
+    "fearsome-critter",
+    "tall-tale",
+    "lumberjack-folklore",
+    "north-america",
+    "great-lakes",
+    "equine"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "Great Lakes",
+    "Northeast United States",
+    "Pacific Northwest logging country"
+  ],
+  "origin": "A creature of the oral tradition of North American logging camps, with no fixed real-world range. Tryon (1939) places fearsome critters generally in the forests of the northern United States and Canada.",
+  "first_reported": "1939",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

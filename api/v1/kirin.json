@@ -1,16 +1,61 @@
 {
   "id": "kirin",
-  "name": "Kirin - The Sacred Beast of East Asia",
+  "name": "Kirin (Qilin)",
   "category": "mythological_creature",
-  "description": "The Kirin (Japanese: 麒麟, also Qilin in Chinese, Gilen in Korean) is one of East Asia's most revered mythological creatures - a chimeric beast that combines features of dragons, deer, oxen, and other animals to create a benevolent divine being symbolizing prosperity, serenity, and the arrival of wise rulers.",
-  "aliases": [],
+  "description": "An auspicious chimerical creature of East Asian mythology — qilin in Chinese, kirin in Japanese, girin in Korean, kỳ lân in Vietnamese — said to appear at the birth or death of a sage or just ruler, and so gentle that it will not tread on living grass or eat living things.",
+  "aliases": [
+    {
+      "name": "Qilin",
+      "language": "Mandarin Chinese",
+      "region": "China",
+      "meaning": "麒麟; the original Chinese name"
+    },
+    {
+      "name": "Kirin",
+      "language": "Japanese",
+      "region": "Japan",
+      "meaning": "麒麟"
+    },
+    {
+      "name": "Girin / Kirin",
+      "language": "Korean",
+      "region": "Korea",
+      "meaning": "기린"
+    },
+    {
+      "name": "Kỳ lân",
+      "language": "Vietnamese",
+      "region": "Vietnam"
+    },
+    {
+      "name": "Gilen",
+      "language": "Thai",
+      "region": "Thailand"
+    },
+    {
+      "name": "Chinese unicorn",
+      "region": "Western popular usage",
+      "meaning": "common but misleading translation"
+    }
+  ],
   "tags": [
-    "and-art-motifs\"-(1976)"
+    "east-asia",
+    "china",
+    "japan",
+    "korea",
+    "auspicious-omen",
+    "chimera",
+    "horned",
+    "confucianism",
+    "buddhism"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "East Asia",
+    "Sinosphere"
+  ],
+  "origin": "Throughout the East Asian cultural sphere — China, Japan, Korea, Vietnam — and in adjacent traditions of Mongolia, Tibet, and Thailand.",
+  "first_reported": "1000 BCE",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

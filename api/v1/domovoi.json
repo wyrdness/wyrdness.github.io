@@ -1,17 +1,64 @@
 {
   "id": "domovoi",
-  "name": "Domovoi",
+  "name": "Domovoy",
   "category": "fae_folklore",
-  "description": "The Domovoi is a core figure in Russian and Slavic folklore, representing the protective spirit of the household.",
-  "aliases": [],
+  "description": "The domovoy is the tutelary household spirit of Slavic folklore — a small old man, often bearded and grey, who lives behind the stove or under the threshold and guards the family, livestock, and prosperity of the home.",
+  "aliases": [
+    {
+      "name": "Domovoy",
+      "language": "Russian",
+      "region": "Russia",
+      "meaning": "From dom, 'house'"
+    },
+    {
+      "name": "Domovik",
+      "language": "Polish/Serbian",
+      "region": "Poland, Serbia"
+    },
+    {
+      "name": "Domovyk",
+      "language": "Ukrainian",
+      "region": "Ukraine"
+    },
+    {
+      "name": "Damavik",
+      "language": "Belarusian",
+      "region": "Belarus"
+    },
+    {
+      "name": "Děd",
+      "language": "Czech",
+      "meaning": "Grandfather"
+    },
+    {
+      "name": "Škrata",
+      "language": "Slovak",
+      "region": "Slovakia"
+    },
+    {
+      "name": "Skrzat",
+      "language": "Polish",
+      "region": "Poland"
+    }
+  ],
   "tags": [
-    "folklore",
-    "mythology"
+    "slavic-folklore",
+    "household-spirit",
+    "tutelary",
+    "ancestor-spirit",
+    "russia",
+    "ukraine",
+    "belarus",
+    "poland"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "East Slavic lands",
+    "West Slavic lands",
+    "South Slavic lands"
+  ],
+  "origin": "Across the Slavic world, with the densest tradition in Russia, Ukraine, and Belarus and parallel traditions in Poland, the Czech lands, Slovakia, and the South Slavic regions.",
+  "first_reported": "12th century",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

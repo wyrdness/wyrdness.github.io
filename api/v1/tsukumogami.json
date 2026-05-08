@@ -1,17 +1,39 @@
 {
   "id": "tsukumogami",
   "name": "Tsukumogami",
-  "category": "|_water_spirits_in_japanese_folklore_|",
-  "description": "Tsukumogami (付喪神) are a class of Japanese yokai where household items and tools gain sentience after reaching 100 years of age.",
-  "aliases": [],
+  "category": "entity_spirit",
+  "description": "Tsukumogami (付喪神) are a class of Japanese yokai in which household items and tools gain sentience and spiritual essence after approximately 100 years of existence; rooted in Shinto animism and Buddhist teachings, they can range from benign pranksters to vengeful spirits if discarded carelessly.",
+  "aliases": [
+    {
+      "name": "付喪神",
+      "language": "Japanese",
+      "meaning": "The kanji form: attached/grieving spirit of an object; read tsukumogami"
+    },
+    {
+      "name": "九十九神",
+      "language": "Japanese",
+      "meaning": "Alternate kanji: ninety-nine spirits; emphasizes great age (100 years) as the threshold for animation"
+    }
+  ],
   "tags": [
+    "japanese",
+    "yokai",
+    "shinto",
+    "animism",
+    "buddhism",
     "folklore",
-    "mythology"
+    "supernatural",
+    "japan",
+    "household-objects",
+    "spirit"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "Japan broadly",
+    "Particularly associated with the Heian-period (794–1185 CE) court culture where many of the originating texts were composed"
+  ],
+  "origin": "Japan; the tsukumogami concept is specific to Japanese culture and is rooted in Shinto animism and Japanese Buddhist traditions.",
+  "first_reported": "0900-01-01",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

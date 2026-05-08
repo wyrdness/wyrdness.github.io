@@ -1,17 +1,35 @@
 {
   "id": "man-monkey",
-  "name": "Man-Monkey - The Shropshire Canal Cryptid",
+  "name": "Man-Monkey",
   "category": "cryptid",
-  "description": "This phenomenon has been documented extensively across multiple time periods and continues to generate interest from researchers, folklorists, and investigators.",
-  "aliases": [],
+  "description": "A black, ape-like figure with large white eyes reported on the Shropshire Union Canal at Bridge 39, near Norbury Junction on the Staffordshire–Shropshire border. The original 1879 encounter was recorded by folklorist Charlotte Sophia Burne in 1883.",
+  "aliases": [
+    {
+      "name": "Man-Monkey of Bridge 39",
+      "region": "Shropshire / Staffordshire, England"
+    },
+    {
+      "name": "Man-Monkey of the Shropshire Union Canal",
+      "region": "England"
+    }
+  ],
   "tags": [
-    "folklore",
-    "mythology"
+    "cryptid",
+    "british-folklore",
+    "canal",
+    "shropshire",
+    "staffordshire",
+    "humanoid",
+    "ghost-or-cryptid"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "Shropshire",
+    "Staffordshire",
+    "English Midlands"
+  ],
+  "origin": "Reports are localized to the Shropshire Union Canal corridor near the Staffordshire–Shropshire border, especially the area around Norbury Junction and the canal bridge identified as Bridge 39.",
+  "first_reported": "1879-01-21",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

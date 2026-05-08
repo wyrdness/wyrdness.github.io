@@ -1,16 +1,54 @@
 {
   "id": "dames-blanches",
-  "category": "entity_spirit",
-  "description": "No description available.",
-  "aliases": [],
+  "name": "Dames Blanches",
+  "category": "fae_folklore",
+  "description": "Female fairy beings of French folklore, particularly recorded in Lorraine, Normandy, and the Pyrenees, who haunt liminal places — bridges, fords, ravines, forest paths — and confront travellers with a ritual challenge such as a dance.",
+  "aliases": [
+    {
+      "name": "White Ladies",
+      "language": "English"
+    },
+    {
+      "name": "Dame Blanche",
+      "language": "French",
+      "meaning": "White Lady (singular)"
+    },
+    {
+      "name": "Weiße Frauen",
+      "language": "German",
+      "meaning": "Cognate Germanic tradition"
+    },
+    {
+      "name": "Witte Wieven",
+      "language": "Dutch / Low Saxon",
+      "meaning": "Cognate Low-Countries tradition"
+    },
+    {
+      "name": "La Dame d'Aprigny",
+      "region": "Bayeux, Normandy",
+      "meaning": "Named local Dame Blanche"
+    }
+  ],
   "tags": [
-    "folklore",
-    "mythology"
+    "french-folklore",
+    "fairy",
+    "white-lady",
+    "bridges",
+    "normandy",
+    "lorraine",
+    "liminal-space",
+    "celtic-germanic"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "Lorraine",
+    "Normandy",
+    "Brittany",
+    "Pyrenees",
+    "Wallonia"
+  ],
+  "origin": "France, especially Lorraine, Normandy, and the Pyrenees; cognate traditions across the Germanic and Low-Countries area.",
+  "first_reported": "1882",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

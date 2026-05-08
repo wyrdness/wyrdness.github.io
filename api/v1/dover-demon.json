@@ -1,17 +1,25 @@
 {
   "id": "dover-demon",
   "name": "Dover Demon",
-  "category": "|_cryptid_|",
-  "description": "The Dover Demon is a cryptid reported during a brief 25-hour period in April 1977 in Dover, Massachusetts.",
+  "category": "cryptid",
+  "description": "A small, large-headed humanoid cryptid reportedly seen by three teenage witnesses in Dover, Massachusetts, on the nights of 21–22 April 1977; no further sightings have been recorded.",
   "aliases": [],
   "tags": [
-    "folklore",
-    "mythology"
+    "cryptid",
+    "humanoid",
+    "massachusetts",
+    "1977",
+    "single-event",
+    "north-america"
   ],
-  "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "status": "dormant",
+  "regions": [
+    "New England",
+    "Massachusetts",
+    "Norfolk County"
+  ],
+  "origin": "Three reported sightings in the town of Dover, Massachusetts, on Farm Street, Miller Hill Road, and Springdale Avenue, on the nights of 21–22 April 1977.",
+  "first_reported": "1977-04-21",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

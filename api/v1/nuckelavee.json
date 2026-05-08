@@ -2,15 +2,31 @@
   "id": "nuckelavee",
   "name": "Nuckelavee",
   "category": "entity_spirit",
-  "description": "The Nuckelavee is the most feared and malevolent creature in Orkney Islands folklore, described as a horrific nightmare from the sea.",
-  "aliases": [],
+  "description": "A skinless horse-and-rider demon of Orkney folklore, described as the most malevolent being in Orcadian tradition. Blamed for droughts, epidemics, and mortasheen, and repelled by fresh water.",
+  "aliases": [
+    {
+      "name": "Knoggelvi",
+      "language": "Orcadian",
+      "meaning": "'Devil of the Sea' (per Walter Traill Dennison)"
+    }
+  ],
   "tags": [
-    "&-themes"
+    "scotland",
+    "orkney",
+    "sea-demon",
+    "skinless",
+    "horse-and-human",
+    "mortasheen",
+    "celtic-norse",
+    "folklore"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "Orkney Islands",
+    "Northern Isles of Scotland"
+  ],
+  "origin": "Orkney Islands, off the north coast of Scotland.",
+  "first_reported": "Pre-modern",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

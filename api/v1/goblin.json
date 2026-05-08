@@ -2,16 +2,52 @@
   "id": "goblin",
   "name": "Goblin",
   "category": "fae_folklore",
-  "description": "Goblins are small supernatural creatures from European folklore, typically depicted as grotesque, mischievous, or malevolent beings.",
-  "aliases": [],
-  "tags": [
-    "folklore",
-    "mythology"
+  "description": "Goblins are small, grotesque, mischievous or malevolent supernatural beings from European folklore, first attested in the 12th century, ranging from household pranksters (brownies) to murderous territorial spirits (redcaps), and now archetypal monsters in modern fantasy.",
+  "aliases": [
+    {
+      "name": "Gobelin",
+      "language": "Anglo-Norman French",
+      "region": "Medieval France and England"
+    },
+    {
+      "name": "Gobelinus",
+      "language": "Medieval Latin",
+      "region": "Medieval Europe",
+      "meaning": "Demon or mischievous spirit"
+    },
+    {
+      "name": "Gobelyn",
+      "language": "Middle English",
+      "region": "England",
+      "meaning": "Early English spelling, c. 1330"
+    },
+    {
+      "name": "Goblin",
+      "language": "English",
+      "region": "Europe and worldwide"
+    }
   ],
-  "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "tags": [
+    "fae",
+    "folklore",
+    "europe",
+    "supernatural",
+    "trickster",
+    "small-humanoid",
+    "medieval",
+    "fantasy"
+  ],
+  "status": "historical",
+  "regions": [
+    "Yorkshire, England",
+    "Anglo-Scottish border",
+    "Normandy, France",
+    "Wales",
+    "Ireland",
+    "Évreux, France"
+  ],
+  "origin": "Goblin traditions are found across Europe, with the oldest documented examples from Norman France and England (12th century). Cognate traditions exist globally in Korea (dokkaebi), Africa (Zulu tokoloshe), and among Indigenous North American peoples (Wampanoag pukwudgie). The modern fantasy goblin has achieved global distribution through literature and gaming.",
+  "first_reported": "1140-01-01",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

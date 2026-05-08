@@ -1,17 +1,43 @@
 {
   "id": "helltown-ohio",
   "name": "Helltown, Ohio",
-  "category": "|_modern_folklore_and_legend_cycles_|",
-  "description": "\\\"Helltown\\\" refers to Boston Township in Summit County, Ohio, and a cluster of urban legends that developed around the area in the 1980s-1990s.",
-  "aliases": [],
+  "category": "location",
+  "description": "Helltown is an informal name for the abandoned village of Boston Mills in Boston Township, Summit County, Ohio, depopulated after a 1974 federal land acquisition for the Cuyahoga Valley National Recreation Area (now Cuyahoga Valley National Park). Empty homes, boarded-up structures, and a real toxic-waste cleanup at the Krejci Dump fed a cluster of urban legends from the 1980s onward.",
+  "aliases": [
+    {
+      "name": "Boston Mills",
+      "language": "English",
+      "region": "Summit County, Ohio",
+      "meaning": "Historic name of the village"
+    },
+    {
+      "name": "Boston, Ohio",
+      "language": "English",
+      "region": "Boston Township, Summit County, Ohio"
+    },
+    {
+      "name": "Ghost Town of Cuyahoga Valley",
+      "language": "English"
+    }
+  ],
   "tags": [
-    "folklore",
-    "mythology"
+    "ohio",
+    "boston-township",
+    "cuyahoga-valley",
+    "ghost-town",
+    "urban-legend",
+    "national-park-service",
+    "creepypasta",
+    "haunted-road"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "Ohio",
+    "Summit County",
+    "Cuyahoga Valley"
+  ],
+  "origin": "Boston Township, Summit County, Ohio, within Cuyahoga Valley National Park, between Akron and Cleveland.",
+  "first_reported": "1974-12-27",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

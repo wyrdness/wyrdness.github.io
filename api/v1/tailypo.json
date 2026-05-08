@@ -1,17 +1,33 @@
 {
   "id": "tailypo",
   "name": "Tailypo",
-  "category": "|_american_folklore_creatures_|",
-  "description": "The Tailypo is a creature from Appalachian folklore, best known through a cautionary tale told throughout the American South.",
-  "aliases": [],
+  "category": "cryptid",
+  "description": "An Appalachian folktale creature, dog- or cat-like with a long tail, that returns night after night to a hunter who cut off and ate its tail, demanding its return and ultimately killing him.",
+  "aliases": [
+    {
+      "name": "Taily-po",
+      "region": "Appalachia, United States"
+    },
+    {
+      "name": "Tailipoe",
+      "region": "American South"
+    }
+  ],
   "tags": [
-    "folklore",
-    "mythology"
+    "appalachia",
+    "american-south",
+    "folktale",
+    "cautionary-tale",
+    "nocturnal",
+    "north-america"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "Appalachia",
+    "American South"
+  ],
+  "origin": "Folktale concentrated in the Appalachian region and the broader American South. The tale also appears, with variations, in African-American Southern oral tradition and in 20th-century children's-literature retellings.",
+  "first_reported": "Late 19th–early 20th century",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

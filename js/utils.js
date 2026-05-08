@@ -124,7 +124,7 @@
       const features = {
         localStorage: 'localStorage' in window,
         fetch: 'fetch' in window,
-        intersection Observer: 'IntersectionObserver' in window,
+        intersectionObserver: 'IntersectionObserver' in window,
         serviceWorker: 'serviceWorker' in navigator
       };
       return features[feature] || false;

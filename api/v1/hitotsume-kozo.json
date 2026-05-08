@@ -1,17 +1,41 @@
 {
   "id": "hitotsume-kozo",
-  "name": "Hitotsume-Kozo - The One-Eyed Boy Yokai",
+  "name": "Hitotsume-kozō",
   "category": "entity_spirit",
-  "description": "The \\\"kozo\\\" (小僧) in the name refers to a young Buddhist acolyte or temple servant, connecting this yokai to Buddhist tradition:",
-  "aliases": [],
+  "description": "A Japanese yōkai depicted as a bald child-monk with a single large eye in the centre of its face; widely treated in folklore as comparatively harmless, surprising rather than injuring those who encounter it.",
+  "aliases": [
+    {
+      "name": "一つ目小僧",
+      "language": "Japanese (kanji)",
+      "meaning": "One-eyed young Buddhist acolyte"
+    },
+    {
+      "name": "Hitotsume-kozou",
+      "language": "Japanese (rōmaji variant)"
+    },
+    {
+      "name": "One-eyed monk-boy",
+      "language": "English gloss"
+    }
+  ],
   "tags": [
+    "yokai",
+    "japan",
     "folklore",
-    "mythology"
+    "one-eyed",
+    "buddhist",
+    "kanto-region",
+    "kotoyoka",
+    "harmless"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "Kantō region",
+    "Mount Hiei (Tendai tradition)",
+    "Central and eastern Honshū"
+  ],
+  "origin": "Reported across Japan in classical and regional folklore, with the densest tradition in the Kantō region. Notable strands of tradition link the figure to Mount Hiei (Shiga / Kyōto) and to local folklore in eastern and central Japan.",
+  "first_reported": "Edo period (18th century)",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

@@ -1,17 +1,65 @@
 {
   "id": "samjoko",
-  "name": "Samjoko (삼족오)",
+  "name": "Samjok-o",
   "category": "mythological_creature",
-  "description": "The Samjoko, also known as the Three-Legged Crow or Samjok-o, is a legendary three-legged crow from Korean mythology that resides within the sun.",
-  "aliases": [],
+  "description": "A three-legged crow that lives in the sun, central to East Asian solar mythology. In Korea, the Samjok-o was a Goguryeo-era emblem of imperial authority and the sun, attested on 6th–7th-century tomb murals; cognate figures are the Chinese Sanzuwu / Jinwu and the Japanese Yatagarasu.",
+  "aliases": [
+    {
+      "name": "삼족오",
+      "language": "Korean (hangul)",
+      "meaning": "three-legged crow"
+    },
+    {
+      "name": "三足烏",
+      "language": "Korean (hanja) / Chinese",
+      "meaning": "three-legged crow"
+    },
+    {
+      "name": "Samjok-o",
+      "language": "Korean (Revised Romanisation)"
+    },
+    {
+      "name": "Sanzuwu",
+      "language": "Mandarin Chinese",
+      "region": "China",
+      "meaning": "three-legged crow / sun crow"
+    },
+    {
+      "name": "Jinwu",
+      "language": "Mandarin Chinese",
+      "region": "China",
+      "meaning": "'golden crow' — common variant name for the sun crow"
+    },
+    {
+      "name": "Yangwu",
+      "language": "Mandarin Chinese",
+      "region": "China",
+      "meaning": "'sun crow'"
+    },
+    {
+      "name": "Yatagarasu",
+      "language": "Japanese",
+      "region": "Japan",
+      "meaning": "'eight-span crow' — Japanese counterpart, often three-legged in later art"
+    }
+  ],
   "tags": [
-    "in-korean-heritage\"-(national-folk-museum",
-    "2015)"
+    "korea",
+    "goguryeo",
+    "east-asia",
+    "solar-symbol",
+    "mythological-bird",
+    "tomb-mural",
+    "national-symbol"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Korean (East Asian influence)",
-  "first_reported": "Unknown",
+  "regions": [
+    "Goguryeo cultural sphere (Korean peninsula and southern Manchuria)",
+    "Han and post-Han China",
+    "Yamato Japan"
+  ],
+  "origin": "East Asian: China (Sanzuwu / Jinwu), Korea (Samjok-o, especially Goguryeo), and Japan (Yatagarasu).",
+  "first_reported": "Bronze Age",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

@@ -1,18 +1,54 @@
 {
   "id": "marozi",
-  "name": "Marozi (Spotted Lion)",
+  "name": "Marozi",
   "category": "cryptid",
-  "description": "The Marozi, also known as the spotted lion or Aberdare lion, is a cryptid felid reported from the mountainous regions of East Africa, particularly Kenya.",
-  "aliases": [],
-  "tags": [
-    "hidden-biodiversity",
-    "montane-mysteries",
-    "cryptozoology"
+  "description": "A reported small, highland-dwelling lion of East Africa with retained leopard-like spots into adulthood and a reduced or absent mane. Two specimens were shot in the Kenyan Aberdares in 1931 but no living example or accepted subspecies has been confirmed.",
+  "aliases": [
+    {
+      "name": "Spotted Lion",
+      "language": "English",
+      "region": "East Africa"
+    },
+    {
+      "name": "Aberdare Lion",
+      "language": "English",
+      "region": "Kenya, Aberdare Mountains"
+    },
+    {
+      "name": "Marozi",
+      "language": "Swahili",
+      "region": "Kenya / Tanzania"
+    },
+    {
+      "name": "Ikimizi",
+      "language": "Kinyarwanda",
+      "region": "Rwanda"
+    },
+    {
+      "name": "Ntararago",
+      "language": "Kinyarwanda",
+      "region": "Rwanda"
+    }
   ],
-  "status": "documented",
-  "regions": [],
-  "origin": "East African (Kenya, Tanzania)",
-  "first_reported": "Unknown",
+  "tags": [
+    "cryptid",
+    "felid",
+    "africa",
+    "kenya",
+    "montane",
+    "mystery-cat",
+    "lion",
+    "leopard-like-spots"
+  ],
+  "status": "historical",
+  "regions": [
+    "Aberdare Range",
+    "Kinangop Plateau",
+    "Mau Escarpment",
+    "Virunga Mountains"
+  ],
+  "origin": "Reports concentrated in the Kenyan central highlands — particularly the Aberdare Range, the Mau Escarpment edge, and the Kinangop Plateau — with neighbouring reports from highland Tanzania, Uganda, and the Virunga / Rwanda border (sometimes treated as the related ikimizi and ntararago).",
+  "first_reported": "1903",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

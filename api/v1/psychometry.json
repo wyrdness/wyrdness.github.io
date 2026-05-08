@@ -1,17 +1,37 @@
 {
   "id": "psychometry",
   "name": "Psychometry",
-  "category": "|_broader_category_of_claimed_paranormal_mental_abilities_|",
-  "description": "First named by American physiologist **Joseph R.",
-  "aliases": [],
-  "tags": [
-    "folklore",
-    "mythology"
+  "category": "psychic_phenomena",
+  "description": "Psychometry is the alleged paranormal ability to obtain information about an object's history — its past owners, locations, or events surrounding it — by physical contact. The term was coined by American physician Joseph Rodes Buchanan in 1842.",
+  "aliases": [
+    {
+      "name": "Token-object reading",
+      "language": "English (parapsychology)"
+    },
+    {
+      "name": "Object reading",
+      "language": "English"
+    },
+    {
+      "name": "Psychoscopy",
+      "language": "English (older parapsychology literature)"
+    }
   ],
-  "status": "documented",
+  "tags": [
+    "psi",
+    "esp",
+    "retrocognition",
+    "clairvoyance",
+    "spiritualism",
+    "mediumship",
+    "pseudoscience-classification",
+    "buchanan",
+    "denton"
+  ],
+  "status": "unverified",
   "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "origin": "Practised principally in 19th- and 20th-century Anglosphere Spiritualism and 20th-century European parapsychology, though similar 'reading-from-objects' practices appear in many divinatory traditions worldwide.",
+  "first_reported": "1842",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

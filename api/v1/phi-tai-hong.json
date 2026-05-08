@@ -1,17 +1,46 @@
 {
   "id": "phi-tai-hong",
-  "name": "Phi Tai Hong (ผีตายโหง)",
+  "name": "Phi Tai Hong",
   "category": "ghost_haunting",
-  "description": "Phi Tai Hong (Thai: ผีตายโหง, literally \\\"ghost of violent death\\\") is one of the most feared spirits in Thai supernatural belief.",
-  "aliases": [],
-  "tags": [
-    "folklore",
-    "mythology"
+  "description": "A vengeful ghost in Thai folklore arising from a person who died suddenly or violently — by murder, accident, drowning, suicide, or childbirth — and was unable to perform proper funeral rites, leaving the spirit angry and unwilling to depart.",
+  "aliases": [
+    {
+      "name": "ผีตายโหง",
+      "language": "Thai",
+      "region": "Thailand",
+      "meaning": "ghost of one who died a sudden, violent death"
+    },
+    {
+      "name": "Tai Hong",
+      "language": "Thai (short form)",
+      "region": "Thailand"
+    },
+    {
+      "name": "Tai Thang Klom",
+      "language": "Thai",
+      "region": "Thailand",
+      "meaning": "ghost of a pregnant woman who died with her unborn child; the most violent Phi Tai Hong variant"
+    },
+    {
+      "name": "Tai Thong Klom",
+      "language": "Thai (variant spelling)",
+      "region": "Thailand"
+    }
   ],
-  "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "tags": [
+    "thai-folklore",
+    "vengeful-ghost",
+    "violent-death",
+    "buddhist",
+    "southeast-asia",
+    "phi"
+  ],
+  "status": "active",
+  "regions": [
+    "Mainland Southeast Asia"
+  ],
+  "origin": "Thailand and culturally adjacent Tai-speaking regions of mainland Southeast Asia.",
+  "first_reported": "Ayutthaya period (17th century)",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

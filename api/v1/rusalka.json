@@ -2,16 +2,58 @@
   "id": "rusalka",
   "name": "Rusalka",
   "category": "undead",
-  "description": "Rusalki are female water spirits from Slavic folklore, believed to be the restless souls of women who died by drowning—whether through suicide, murder, or as unbaptized maidens.",
-  "aliases": [],
+  "description": "A female water spirit in East and West Slavic folklore, often understood as the restless soul of a drowned woman or unbaptized girl, who lures men into rivers and lakes during a seasonal week of activity around Pentecost.",
+  "aliases": [
+    {
+      "name": "Rusalki",
+      "language": "Russian",
+      "meaning": "plural form"
+    },
+    {
+      "name": "Mavka",
+      "language": "Ukrainian",
+      "region": "Ukraine",
+      "meaning": "forest/water spirit, partly synonymous with rusalka"
+    },
+    {
+      "name": "Vodyanitsa",
+      "language": "Russian",
+      "meaning": "'water maiden'"
+    },
+    {
+      "name": "Kupalka",
+      "language": "Russian",
+      "meaning": "'bather'"
+    },
+    {
+      "name": "Loskotukha",
+      "language": "Russian",
+      "meaning": "'tickler', after the killing method"
+    },
+    {
+      "name": "Shutovka",
+      "language": "Russian",
+      "meaning": "'joker / mocker'"
+    }
+  ],
   "tags": [
+    "slavic",
     "folklore",
-    "mythology"
+    "water-spirit",
+    "drowned",
+    "feminine-spirit",
+    "seasonal-festival",
+    "europe"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "East Slavic lands",
+    "Polesia",
+    "Carpathian foothills",
+    "Volga and Dnieper basins"
+  ],
+  "origin": "Widely attested across the East Slavic world (Russia, Ukraine, Belarus) and into Poland, Czech and Slovak lands; secondary attestations in Slovenia and parts of the Balkans.",
+  "first_reported": "Early modern period",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

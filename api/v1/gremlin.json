@@ -1,17 +1,46 @@
 {
   "id": "gremlin",
   "name": "Gremlin",
-  "category": "urban_legend",
-  "description": "Gremlins are small, imp-like creatures from modern folklore that are blamed for causing mechanical and technological malfunctions, particularly in aircraft.",
-  "aliases": [],
+  "category": "fae_folklore",
+  "description": "Gremlins are mischievous fairy-like creatures of 20th-century aviation folklore, blamed by Royal Air Force pilots from the 1920s onward for unexplained mechanical faults in aircraft.",
+  "aliases": [
+    {
+      "name": "Gremlins",
+      "language": "English (RAF slang)",
+      "meaning": "plural form, used since 1920s"
+    },
+    {
+      "name": "Fifinella",
+      "language": "English (RAF slang)",
+      "meaning": "female gremlin in Roald Dahl's 1943 book"
+    },
+    {
+      "name": "Widget",
+      "language": "English (RAF slang)",
+      "meaning": "male gremlin child (Dahl, 1943)"
+    },
+    {
+      "name": "Flibbertigibbet",
+      "language": "English (RAF slang)",
+      "meaning": "female gremlin child (Dahl, 1943)"
+    }
+  ],
   "tags": [
-    "folklore",
-    "mythology"
+    "modern-folklore",
+    "aviation",
+    "raf",
+    "world-war-ii",
+    "mischief-sprite",
+    "20th-century"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "Royal Air Force",
+    "Allied air forces of WWII",
+    "anglophone popular culture"
+  ],
+  "origin": "Originated in the British Royal Air Force in the 1920s and spread through Allied air forces during World War II; subsequently a global pop-culture motif.",
+  "first_reported": "1929-04-10",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

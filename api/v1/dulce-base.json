@@ -1,17 +1,32 @@
 {
   "id": "dulce-base",
   "name": "Dulce Base",
-  "category": "|_conspiracy_theory_/_ufo_uap_|",
-  "description": "Dulce Base is an alleged secret underground facility located beneath Archuleta Mesa near Dulce, New Mexico.",
-  "aliases": [],
-  "tags": [
-    "folklore",
-    "mythology"
+  "category": "conspiracy_theory",
+  "description": "An alleged secret underground facility beneath Archuleta Mesa near Dulce, New Mexico, said by conspiracy proponents to be a joint US-government / extraterrestrial laboratory. The story originated with the disinformation campaign that the US Air Force Office of Special Investigations directed against Albuquerque businessman Paul Bennewitz from 1980 onwards.",
+  "aliases": [
+    {
+      "name": "Archuleta Mesa Base",
+      "region": "New Mexico, USA"
+    }
   ],
-  "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "tags": [
+    "conspiracy-theory",
+    "ufo",
+    "underground-base",
+    "new-mexico",
+    "dulce",
+    "afosi-disinformation",
+    "paul-bennewitz"
+  ],
+  "status": "debunked",
+  "regions": [
+    "New Mexico",
+    "Rio Arriba County",
+    "Jicarilla Apache Nation",
+    "Archuleta Mesa"
+  ],
+  "origin": "Alleged location: Archuleta Mesa, near the town of Dulce in northwestern New Mexico, USA, on the Jicarilla Apache Nation.",
+  "first_reported": "1979-07-01",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

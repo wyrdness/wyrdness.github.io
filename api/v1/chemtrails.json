@@ -1,126 +1,32 @@
 {
-  "meta": {
-    "version": "1.0.0",
-    "schema_version": "1.0.0",
-    "last_updated": "2026-02-13",
-    "repository": "https://github.com/wyrdness/chemtrails",
-    "maintainers": [
-      {
-        "name": "Wyrdness Team",
-        "github": "wyrdness",
-        "role": "maintainer"
-      }
-    ],
-    "license": {
-      "data": "CC0-1.0",
-      "content": "CC-BY-4.0"
+  "id": "chemtrails",
+  "name": "Chemtrails (chemtrail conspiracy theory)",
+  "category": "conspiracy_theory",
+  "description": "A conspiracy theory, originating in the late 1990s, claiming that the long-lasting condensation trails (contrails) left by aircraft are in fact 'chemtrails' — chemical or biological agents being deliberately sprayed by governments or other actors for purposes such as population control, weather modification, or covert geoengineering. Atmospheric scientists, public-health agencies, and aviation regulators across many countries have rejected the theory as unsupported.",
+  "aliases": [
+    {
+      "name": "Chemtrail conspiracy theory",
+      "region": "Global, English-speaking"
+    },
+    {
+      "name": "Covert atmospheric spraying program (CASP)",
+      "region": "Conspiracy literature"
     }
-  },
-  "phenomenon": {
-    "id": "chemtrails",
-    "name": "Chemtrails",
-    "aliases": [],
-    "category": "CONSPIRACY_THEORY",
-    "subcategory": "| Claim | Reality |",
-    "tags": [
-      "folklore",
-      "mythology"
-    ],
-    "status": "documented",
-    "description": {
-      "summary": "The chemtrails conspiracy theory claims that the long-lasting condensation trails (contrails) left by aircraft are actually chemical or biological agents intentionally sprayed by governments for purposes such as population control, weather modification, mind control, or biological warfare.",
-      "full": "The chemtrails conspiracy theory claims that the long-lasting condensation trails (contrails) left by aircraft are actually chemical or biological agents intentionally sprayed by governments for purposes such as population control, weather modification, mind control, or biological warfare."
-    },
-    "etymology": {
-      "origin": "Unknown",
-      "meaning": "To be documented",
-      "first_use": "Unknown"
-    }
-  },
-  "classification": {
-    "taxonomy": {
-      "category": "CONSPIRACY_THEORY",
-      "type": "| Claim | Reality |",
-      "subtype": "Unknown",
-      "variant": "Unknown"
-    },
-    "related_phenomena": []
-  },
-  "characteristics": {
-    "physical": {
-      "features": [],
-      "morphology": "See README.md for detailed physical description"
-    },
-    "abilities": [],
-    "behavior": {
-      "activity_period": "unknown",
-      "disposition": "unknown",
-      "habitat_preference": []
-    }
-  },
-  "distribution": {
-    "range": {
-      "description": "Unknown",
-      "continents": [],
-      "countries": [],
-      "regions": []
-    },
-    "hotspots": [],
-    "temporal": {
-      "first_recorded": {
-        "date": "Unknown",
-        "circa": true,
-        "source": "Traditional folklore"
-      }
-    }
-  },
-  "history": {
-    "origins": {
-      "cultural_roots": "Unknown",
-      "earliest_accounts": "See README.md for historical details",
-      "folklore_connections": "Unknown"
-    },
-    "timeline": []
-  },
-  "sightings": {
-    "statistics": {
-      "total_documented": 0,
-      "verified": 0,
-      "disputed": 0,
-      "debunked": 0
-    },
-    "notable": [],
-    "database_path": "./sightings/"
-  },
-  "evidence": {
-    "physical": [],
-    "photographic": [],
-    "video": [],
-    "audio": [],
-    "trace": []
-  },
-  "theories": {
-    "paranormal": [],
-    "scientific": [],
-    "skeptical": []
-  },
-  "cultural": {
-    "folklore": {
-      "traditions": [],
-      "stories": [],
-      "beliefs": "See README.md for cultural context"
-    },
-    "popular_culture": {
-      "literature": [],
-      "film_tv": [],
-      "games": [],
-      "other": []
-    }
-  },
-  "research": {
-    "researchers": [],
-    "organizations": [],
-    "ongoing_studies": "None documented"
-  },
-  "sources": []
+  ],
+  "tags": [
+    "conspiracy-theory",
+    "aviation",
+    "contrails",
+    "geoengineering-claims",
+    "1990s-internet",
+    "debunked"
+  ],
+  "status": "debunked",
+  "regions": [
+    "Anglophone internet"
+  ],
+  "origin": "The chemtrail claim is a global Anglophone internet conspiracy theory with strongholds in the United States, Canada, the United Kingdom, Australia, and parts of continental Europe.",
+  "first_reported": "1996",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
 }

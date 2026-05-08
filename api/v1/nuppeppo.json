@@ -1,16 +1,42 @@
 {
   "id": "nuppeppo",
-  "name": "Nuppeppō (ぬっぺっぽう)",
-  "category": "entity",
-  "description": "The Nuppeppō (also written as Nuppefuhōfu or Nuppehō) is a grotesque yōkai from Japanese folklore described as a large, blob-like creature made of decomposing human flesh.",
-  "aliases": [],
+  "name": "Nuppeppō",
+  "category": "entity_spirit",
+  "description": "A blob-like Japanese yokai resembling a soft, wrinkled mass of flesh, said to wander abandoned temples and graveyards. Depicted in classic Edo-period yokai scrolls including Toriyama Sekien's Gazu Hyakki Yagyō (1776).",
+  "aliases": [
+    {
+      "name": "ぬっぺっぽう",
+      "language": "Japanese (hiragana)"
+    },
+    {
+      "name": "Nuppefuhōfu",
+      "language": "Japanese (variant reading)"
+    },
+    {
+      "name": "Nuppehō",
+      "language": "Japanese (variant reading)"
+    },
+    {
+      "name": "Nikujin (肉人)",
+      "language": "Japanese",
+      "meaning": "'Meat-person'; related figure recorded in 1609 at Sunpu Castle"
+    }
+  ],
   "tags": [
-    "(identity-vs.-decay)"
+    "japan",
+    "yokai",
+    "edo-period",
+    "toriyama-sekien",
+    "abandoned-temple",
+    "rotting-flesh",
+    "immortality"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "Japan (Edo-period yokai literature)"
+  ],
+  "origin": "Japan; an Edo-period yokai documented in classical Japanese yokai scrolls.",
+  "first_reported": "1700-01-01",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

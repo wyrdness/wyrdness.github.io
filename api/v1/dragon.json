@@ -1,16 +1,82 @@
 {
   "id": "dragon",
   "name": "Dragon",
-  "category": "cryptid/mythological_creature",
-  "description": "Dragons are legendary creatures appearing in the mythology of nearly every ancient culture.",
-  "aliases": [],
+  "category": "mythological_creature",
+  "description": "A class of large, serpentine or reptilian mythological creatures attested across virtually every culture, ranging from the auspicious water-and-rain dragons of East Asia to the fire-breathing, treasure-hoarding antagonists of European Christian and Norse tradition.",
+  "aliases": [
+    {
+      "name": "Drakōn",
+      "language": "Ancient Greek (δράκων)",
+      "meaning": "'Huge serpent'; from dérkomai, 'I see'"
+    },
+    {
+      "name": "Draco",
+      "language": "Latin",
+      "meaning": "Latin form of Greek drakōn"
+    },
+    {
+      "name": "Long / Lóng",
+      "language": "Chinese (龍/龙)",
+      "region": "China",
+      "meaning": "Chinese long, an auspicious water-and-rain deity"
+    },
+    {
+      "name": "Tatsu / Ryū",
+      "language": "Japanese (竜/龍)",
+      "region": "Japan"
+    },
+    {
+      "name": "Yong",
+      "language": "Korean (용)",
+      "region": "Korea"
+    },
+    {
+      "name": "Rồng",
+      "language": "Vietnamese",
+      "region": "Vietnam"
+    },
+    {
+      "name": "Zmey",
+      "language": "Slavic",
+      "region": "Eastern Europe"
+    },
+    {
+      "name": "Wyrm",
+      "language": "Old English",
+      "meaning": "Serpentine dragon, esp. limbless"
+    },
+    {
+      "name": "Lindworm / Lindwurm",
+      "language": "Germanic",
+      "meaning": "Two-legged or limbless serpentine dragon"
+    }
+  ],
   "tags": [
-    "of-chaos/nature"
+    "mythology",
+    "serpent",
+    "fire",
+    "water",
+    "treasure",
+    "cosmic-chaos",
+    "global"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "Mesopotamia",
+    "Ancient Egypt",
+    "Greek and Roman world",
+    "Iran",
+    "China",
+    "Japan",
+    "Korea",
+    "Vietnam",
+    "Slavic Europe",
+    "Norse and Germanic Europe",
+    "British Isles",
+    "Mesoamerica"
+  ],
+  "origin": "Dragon traditions are attested in nearly every culture and on every inhabited continent.",
+  "first_reported": "c. 2000 BCE",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

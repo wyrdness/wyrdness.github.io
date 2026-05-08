@@ -2,16 +2,45 @@
   "id": "curupira",
   "name": "Curupira",
   "category": "entity_spirit",
-  "description": "The Curupira is a powerful forest guardian spirit from Brazilian indigenous Tupi folklore, depicted as a child-like figure with bright red hair covering its entire body and distinctive backwards feet that face the opposite direction from its travel.",
-  "aliases": [],
+  "description": "A forest-protector spirit of Tupi-Guaraní tradition in Brazil and neighbouring countries, depicted as a small, red-haired figure with backward-facing feet that punishes hunters who take more than they need and rewards those who respect the forest.",
+  "aliases": [
+    {
+      "name": "Currupira",
+      "language": "Old Portuguese",
+      "region": "Brazil"
+    },
+    {
+      "name": "Korupira",
+      "language": "Tupi",
+      "meaning": "approximately 'covered in blisters' (etymology debated)"
+    },
+    {
+      "name": "Caapora",
+      "language": "Tupi",
+      "region": "Northeastern Brazil",
+      "meaning": "frequently conflated with Caipora"
+    }
+  ],
   "tags": [
-    "folklore",
-    "mythology"
+    "tupi-guarani",
+    "brazil",
+    "amazon",
+    "forest-protector",
+    "trickster",
+    "indigenous",
+    "south-america"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "Amazon basin",
+    "Mata Atlântica",
+    "Cerrado",
+    "São Paulo state",
+    "Pará",
+    "Amazonas"
+  ],
+  "origin": "Tupi-Guaraní cultural area: most of Brazil, with strong attestation in the Amazon basin, Atlantic forest, and Cerrado regions; cognate figures in Paraguay and the Guianas.",
+  "first_reported": "1560-05-31",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

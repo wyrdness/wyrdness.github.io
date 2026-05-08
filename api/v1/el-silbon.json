@@ -1,17 +1,41 @@
 {
   "id": "el-silbon",
   "name": "El Silbón",
-  "category": "ghost_/_entity_spirit",
-  "description": "His most distinctive and dangerous feature is **sound reversal**: when his whistling sounds close, he is actually far away, but when it sounds distant, he is dangerously near.",
-  "aliases": [],
-  "tags": [
-    "folklore",
-    "mythology"
+  "category": "ghost_haunting",
+  "description": "A cursed wandering spirit of the Venezuelan and Colombian Llanos who carries his murdered father's bones in a sack and whose whistle reverses with distance: close-sounding when far, distant-sounding when very near.",
+  "aliases": [
+    {
+      "name": "El Silbón",
+      "language": "Spanish",
+      "meaning": "the whistler"
+    },
+    {
+      "name": "Silbón Llanero",
+      "region": "Venezuelan and Colombian Llanos"
+    }
   ],
-  "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "tags": [
+    "venezuela",
+    "colombia",
+    "llanos",
+    "ghost",
+    "patricide",
+    "whistling",
+    "cursed-wanderer",
+    "rural-folklore"
+  ],
+  "status": "active",
+  "regions": [
+    "Llanos (Orinoquía)",
+    "Portuguesa State",
+    "Guárico State",
+    "Apure State",
+    "Eastern Llanos (Colombia)",
+    "Casanare Department",
+    "Meta Department"
+  ],
+  "origin": "Folkloric range across the Llanos savanna of Venezuela and the Eastern Llanos of Colombia, with the densest tradition in the Venezuelan state of Portuguesa.",
+  "first_reported": "19th century",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

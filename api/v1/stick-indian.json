@@ -1,16 +1,64 @@
 {
   "id": "stick-indian",
+  "name": "Stick Indian",
   "category": "entity_spirit",
-  "description": "No description available.",
-  "aliases": [],
-  "tags": [
-    "folklore",
-    "mythology"
+  "description": "A category of forest beings in the traditions of many Pacific Northwest Indigenous peoples (Salish, Yakama, Klickitat, Cayuse, Nez Perce, and others). Variously described as tall hairy giants or as small forest dwarves, they are most commonly known for whistling at travellers, leading people astray, and punishing those who disrespect the forest.",
+  "aliases": [
+    {
+      "name": "Tsiatko",
+      "language": "Lushootseed / Salish (general)",
+      "region": "Puget Sound"
+    },
+    {
+      "name": "Seatco",
+      "language": "Anglicized form (Salish)",
+      "region": "Pacific Northwest"
+    },
+    {
+      "name": "Siatco",
+      "language": "Salish",
+      "region": "Pacific Northwest"
+    },
+    {
+      "name": "Steta'l",
+      "language": "Lushootseed",
+      "meaning": "from ta'l, 'spear'"
+    },
+    {
+      "name": "Seeahtik / Seeahtkch",
+      "language": "Lummi",
+      "region": "Northwest Washington"
+    },
+    {
+      "name": "Stick Men",
+      "region": "Plateau, English-language usage"
+    },
+    {
+      "name": "Stick people",
+      "region": "Plateau, English-language usage"
+    }
   ],
-  "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "tags": [
+    "indigenous",
+    "pacific-northwest",
+    "forest-spirit",
+    "whistling",
+    "trickster",
+    "salish",
+    "yakama",
+    "plateau"
+  ],
+  "status": "active",
+  "regions": [
+    "Pacific Northwest",
+    "Puget Sound",
+    "Olympic Peninsula",
+    "Columbia Plateau",
+    "Yakama lands",
+    "Coast Salish territories"
+  ],
+  "origin": "Traditional homelands of Pacific Northwest peoples whose oral traditions include Stick Indian / tsiatko / seeahtik beings — including the Coast Salish region of present-day Washington and southwestern British Columbia, the Plateau (Yakama, Klickitat, Cayuse, Nez Perce, Wenatchi, Colville, Spokane), and the Olympic Peninsula.",
+  "first_reported": "Pre-contact",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

@@ -1,16 +1,53 @@
 {
   "id": "hantu-pontianak",
+  "name": "Pontianak",
   "category": "ghost_haunting",
-  "description": "No description available.",
-  "aliases": [],
+  "description": "Pontianak is the ghost of a woman who died during pregnancy or childbirth in Malay-Indonesian folklore. She appears as a beautiful long-haired woman in white whose form changes into a fanged, bloody monster when she attacks, and she primarily preys on men.",
+  "aliases": [
+    {
+      "name": "Hantu Pontianak",
+      "language": "Malay",
+      "region": "Malaysia, Singapore, Brunei"
+    },
+    {
+      "name": "Kuntilanak",
+      "language": "Indonesian",
+      "region": "Indonesia"
+    },
+    {
+      "name": "Matianak",
+      "language": "Malay (older form)",
+      "meaning": "child-death"
+    },
+    {
+      "name": "Boentianak",
+      "language": "Older Malay/Indonesian spelling"
+    },
+    {
+      "name": "Langsuir",
+      "language": "Malay",
+      "region": "Malaysia",
+      "meaning": "Closely related female ghost; in some traditions Pontianak is the stillborn child of Langsuir"
+    }
+  ],
   "tags": [
-    "folklore",
-    "mythology"
+    "female-ghost",
+    "childbirth",
+    "vampiric",
+    "malay-folklore",
+    "indonesian-folklore",
+    "shapeshifter",
+    "horror-cinema"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "Malay Peninsula",
+    "Java",
+    "Sumatra",
+    "Borneo (Kalimantan and East Malaysia)"
+  ],
+  "origin": "Throughout the Malay-Indonesian world: Malaysia, Indonesia, Singapore, Brunei, southern Thailand, and the Malay diaspora.",
+  "first_reported": "1900-01-01",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

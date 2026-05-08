@@ -1,18 +1,37 @@
 {
   "id": "nekomata",
-  "name": "Nekomata (猫又)",
+  "name": "Nekomata",
   "category": "entity_spirit",
-  "description": "Nekomata (猫又, \\\"forked cat\\\" or \\\"two-tailed cat\\\") is a powerful type of Japanese yokai—a supernatural cat spirit distinguished by its split or forked tail.",
-  "aliases": [],
+  "description": "A class of supernatural cat (yōkai) of Japanese folklore, distinguished by a forked tail and powers of necromancy and shapeshifting. Two principal subtypes are recognized: large mountain nekomata that prey on humans, and household cats that transform into nekomata with great age.",
+  "aliases": [
+    {
+      "name": "猫また / 猫又 / 猫股 / 猫胯",
+      "language": "Japanese",
+      "meaning": "forked-tail cat (variant kanji writings)"
+    },
+    {
+      "name": "Nekomata-yama (Mount Nekomata)",
+      "language": "Japanese",
+      "region": "Etchū Province (modern Toyama Prefecture)"
+    }
+  ],
   "tags": [
-    "the-necromantic-abilities-may-reflect-cultural-processing-of-death",
-    "loss",
-    "and-the-fear-of-the-dead-returning."
+    "yokai",
+    "japan",
+    "cat",
+    "shapeshifter",
+    "necromancy",
+    "folklore",
+    "edo-period",
+    "kamakura-period"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "Etchū Province / Toyama Prefecture",
+    "Mainland Japan (Honshū)"
+  ],
+  "origin": "The nekomata is a Japanese folkloric figure attested across the Japanese archipelago, with particular regional associations including Mount Nekomata (Nekomatayama) in Etchū Province (modern Toyama Prefecture).",
+  "first_reported": "1233",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

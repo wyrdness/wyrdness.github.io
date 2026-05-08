@@ -1,17 +1,39 @@
 {
   "id": "imp",
   "name": "Imp",
-  "category": "demon_angel_/_fae_folklore",
-  "description": "An imp is a small supernatural creature from European folklore with a dual nature depending on tradition.",
-  "aliases": [],
+  "category": "demon_angel",
+  "description": "An imp is a small, mischievous supernatural creature from European folklore — originally a fairy-like trickster spirit that was later reinterpreted by Christianity as a minor demon or witch's familiar.",
+  "aliases": [
+    {
+      "name": "Familiar spirit",
+      "language": "English",
+      "region": "Britain",
+      "meaning": "When bound to a witch or sorcerer"
+    },
+    {
+      "name": "Impa",
+      "language": "Old English",
+      "meaning": "Original form; meaning 'young shoot or scion'"
+    }
+  ],
   "tags": [
+    "european",
     "folklore",
-    "mythology"
+    "demon",
+    "familiar",
+    "witch",
+    "mischief",
+    "germanic",
+    "christian",
+    "medieval"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "Lincolnshire, England (Lincoln Imp)",
+    "German-speaking Central Europe"
+  ],
+  "origin": "European folklore tradition, primarily Germanic and British. Most documented specific accounts originate in England.",
+  "first_reported": "Pre-1400",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

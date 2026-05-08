@@ -1,16 +1,37 @@
 {
   "id": "deer-woman",
+  "name": "Deer Woman",
   "category": "entity_spirit",
-  "description": "No description available.",
-  "aliases": [],
+  "description": "A shapeshifting spirit from the traditions of multiple Indigenous nations of North America, appearing as a beautiful woman with deer hooves or a deer's lower body. She enforces social norms — particularly around the treatment of women — and has been embraced as a contemporary symbol in Missing and Murdered Indigenous Women advocacy.",
+  "aliases": [
+    {
+      "name": "Deer Lady",
+      "language": "English"
+    },
+    {
+      "name": "Apela / Apila woman",
+      "language": "Various Indigenous languages",
+      "region": "Plains and Eastern Woodlands"
+    }
+  ],
   "tags": [
-    "folklore",
-    "mythology"
+    "indigenous-north-america",
+    "shapeshifter",
+    "cautionary-figure",
+    "fertility",
+    "mmiw",
+    "native-american-folklore"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "Great Plains",
+    "Eastern Woodlands",
+    "Great Lakes",
+    "Southeastern Woodlands",
+    "Oklahoma"
+  ],
+  "origin": "Eastern Woodlands and central Plains of North America, with prominent traditions in the territories of nations from the upper Great Lakes to the southeastern United States and the Plains.",
+  "first_reported": "Pre-contact",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

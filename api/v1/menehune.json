@@ -1,17 +1,34 @@
 {
   "id": "menehune",
   "name": "Menehune",
-  "category": "|_fae_folklore_|",
-  "description": "The Menehune are a legendary race of small people in Hawaiian mythology who inhabited the Hawaiian Islands before the arrival of Polynesian settlers.",
-  "aliases": [],
+  "category": "fae_folklore",
+  "description": "A legendary race of small, industrious people in Hawaiian tradition, said to have inhabited the islands before Polynesian settlers and to have built stonework, fishponds, and heiau by night — most famously the Menehune (Alekoko) Fishpond and the Kīkīaola ditch on Kauaʻi.",
+  "aliases": [
+    {
+      "name": "Manahune",
+      "language": "Hawaiian / Tahitian",
+      "meaning": "'Lowly people' or 'commoner' — proposed root by Katharine Luomala"
+    }
+  ],
   "tags": [
-    "folklore",
-    "mythology"
+    "hawaiian",
+    "polynesia",
+    "small-people",
+    "craftsmen",
+    "stoneworkers",
+    "fishponds",
+    "kauai",
+    "nocturnal"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "Hawaiian archipelago",
+    "Kauaʻi",
+    "Oʻahu",
+    "Hawaiʻi (Big Island)"
+  ],
+  "origin": "The Menehune are a tradition of the Hawaiian Islands, with the densest cycle of stories on the island of Kauaʻi and adjacent Oʻahu.",
+  "first_reported": "Pre-contact",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

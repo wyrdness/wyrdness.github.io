@@ -1,17 +1,49 @@
 {
   "id": "patupaiarehe",
   "name": "Patupaiarehe",
-  "category": "|_fae_folklore_|",
-  "description": "Patupaiarehe (also called tūrehu) are fairy-like beings in Māori mythology—pale-skinned, light-haired supernatural people who dwell in mist-shrouded forests and mountaintops.",
-  "aliases": [],
+  "category": "fae_folklore",
+  "description": "In Maori tradition, the patupaiarehe (also called turehu or pakepakeha) are pale-skinned, fair- or red-haired supernatural people of the misty forests, mountains, and high country of Aotearoa / New Zealand, regarded as he iwi atua - a 'people of the gods' rather than ordinary humans.",
+  "aliases": [
+    {
+      "name": "Turehu",
+      "language": "Maori",
+      "region": "Aotearoa / New Zealand"
+    },
+    {
+      "name": "Pakepakeha",
+      "language": "Maori",
+      "region": "Aotearoa / New Zealand"
+    },
+    {
+      "name": "Heketoro",
+      "language": "Maori",
+      "region": "specific iwi traditions"
+    }
+  ],
   "tags": [
-    "folklore",
-    "mythology"
+    "maori",
+    "new-zealand",
+    "aotearoa",
+    "fairy-folk",
+    "forest",
+    "mountain",
+    "mist",
+    "supernatural-people"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "Aotearoa / New Zealand",
+    "North Island",
+    "South Island",
+    "Waikato",
+    "Coromandel",
+    "Te Urewera",
+    "Whanganui",
+    "Banks Peninsula",
+    "Fiordland and Takitimu Mountains"
+  ],
+  "origin": "Patupaiarehe traditions are known across Aotearoa / New Zealand, with named locations on both the North and South Islands.",
+  "first_reported": "Pre-European",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

@@ -1,17 +1,72 @@
 {
   "id": "jumbie",
   "name": "Jumbie",
-  "category": "|_flying_african_witch_head_from_plantation_era_|",
-  "description": "Unlike the narrow Western concept of \\\"ghost,\\\" jumbie represents a complex spiritual cosmology rooted in **West and Central African traditions** that recognizes multiple categories of supernatural entities: malevolent spirits of the dead, ancestral presences, nature spirits dwelling in trees and waters, protective house spirits, vengeful murdered souls, trickster entities, shapeshifters, and far more.",
-  "aliases": [],
-  "tags": [
-    "folklore",
-    "mythology"
+  "category": "ghost_haunting",
+  "description": "Jumbie (also jumbee) is a broad term from Caribbean folklore for supernatural entities — primarily spirits of the dead but also nature spirits, shapeshifters, and other beings — rooted in West and Central African traditions carried to the Caribbean through the transatlantic slave trade.",
+  "aliases": [
+    {
+      "name": "Jumbee",
+      "language": "English",
+      "region": "US Virgin Islands / Caribbean",
+      "meaning": "Variant spelling"
+    },
+    {
+      "name": "Duppy",
+      "language": "Akan-derived",
+      "region": "Jamaica / Barbados",
+      "meaning": "Cognate term used in Jamaica and Barbados for ancestral ghost spirits"
+    },
+    {
+      "name": "Zombi",
+      "language": "French Creole",
+      "region": "Guadeloupe / Martinique",
+      "meaning": "French Caribbean equivalent term"
+    },
+    {
+      "name": "Mendo",
+      "language": "Spanish",
+      "region": "Colombia / Venezuela",
+      "meaning": "Alternative name in Colombia and Venezuela"
+    },
+    {
+      "name": "Chongo",
+      "language": "Spanish",
+      "region": "Colombia / Venezuela",
+      "meaning": "Additional alternative name in Colombia and Venezuela"
+    },
+    {
+      "name": "Mocko Jumbie",
+      "language": "English",
+      "region": "British / US Virgin Islands",
+      "meaning": "Stilt-dancer figure associated with carnival; protective spirit embodiment"
+    }
   ],
-  "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "tags": [
+    "caribbean",
+    "african-diaspora",
+    "ghost",
+    "spirit",
+    "west-african",
+    "obeah",
+    "shapeshifter",
+    "guyana",
+    "trinidad",
+    "virgin-islands",
+    "bahamas",
+    "ancestry"
+  ],
+  "status": "active",
+  "regions": [
+    "English-speaking Caribbean broadly",
+    "Guyana",
+    "Trinidad",
+    "Antigua",
+    "The Bahamas",
+    "US Virgin Islands",
+    "British Virgin Islands"
+  ],
+  "origin": "English-speaking Caribbean territories, primarily those with British colonial history. Also present in Guyana and some South American territories. Related traditions in French Caribbean (zombi) and Jamaica/Barbados (duppy).",
+  "first_reported": "Pre-1800",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

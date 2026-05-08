@@ -1,17 +1,30 @@
 {
   "id": "jeff-the-killer",
   "name": "Jeff the Killer",
-  "category": "modern_internet_folklore",
-  "description": "Jeff the Killer became one of the \\\"big three\\\" creepypasta characters alongside Slenderman and the Rake:",
-  "aliases": [],
-  "tags": [
-    "folklore",
-    "mythology"
+  "category": "urban_legend",
+  "description": "Jeff the Killer is a creepypasta character who became one of the most widely spread internet horror figures, depicted as a disfigured pale-skinned young man with a permanent grin who sneaks into homes at night to kill, whispering 'Go to sleep.'",
+  "aliases": [
+    {
+      "name": "Jeffrey Woods",
+      "language": "English",
+      "region": "Internet",
+      "meaning": "Character's canonical given name in the story"
+    }
   ],
-  "status": "documented",
+  "tags": [
+    "creepypasta",
+    "internet",
+    "urban-legend",
+    "horror",
+    "slasher",
+    "modern-folklore",
+    "viral",
+    "2011"
+  ],
+  "status": "active",
   "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "origin": "An internet-born character with no geographic origin; the story is set in a generic American suburban context. The character's spread is global via internet platforms.",
+  "first_reported": "2006-01-01",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

@@ -1,16 +1,68 @@
 {
   "id": "djinn",
-  "name": "Djinn (Jinn)",
+  "name": "Djinn",
   "category": "entity_spirit",
-  "description": "Djinn possess **free will**, meaning they can choose to be good, evil, or neutral, and are morally accountable for their actions just as humans are.",
-  "aliases": [],
-  "tags": [
-    "&-meaning"
+  "description": "An order of supernatural beings in pre-Islamic Arabian religion and in Islam, created (according to the Quran) from smokeless fire. Jinn possess free will, can be Muslim or non-Muslim, and constitute one of the three created orders alongside humans and angels. Western 'genies' are a literary distortion of the tradition.",
+  "aliases": [
+    {
+      "name": "Jinn / جن",
+      "language": "Arabic",
+      "meaning": "concealed, hidden"
+    },
+    {
+      "name": "Genie",
+      "language": "English (via French génie, from jinnī)"
+    },
+    {
+      "name": "Marid / مارد",
+      "language": "Arabic",
+      "meaning": "powerful jinn class"
+    },
+    {
+      "name": "Ifrit / عفريت",
+      "language": "Arabic",
+      "meaning": "powerful, often malevolent jinn class"
+    },
+    {
+      "name": "Ghul / غول",
+      "language": "Arabic",
+      "meaning": "graveyard / wilderness jinn"
+    },
+    {
+      "name": "Si'la",
+      "language": "Arabic",
+      "meaning": "shape-shifting female jinn"
+    },
+    {
+      "name": "Jann / جان",
+      "language": "Arabic",
+      "meaning": "least powerful jinn class"
+    }
   ],
-  "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "tags": [
+    "islam",
+    "arabian",
+    "religious",
+    "supernatural",
+    "free-will",
+    "smokeless-fire",
+    "qur-anic",
+    "religious-belief"
+  ],
+  "status": "active",
+  "regions": [
+    "Arabian Peninsula",
+    "Levant",
+    "Maghreb",
+    "Sahel",
+    "Iran",
+    "Central Asia",
+    "South Asia",
+    "Southeast Asia",
+    "Balkans"
+  ],
+  "origin": "Belief in jinn is universal across the Islamic world and present in regions of pre-Islamic Arabian religious continuity. The jinn appear in folklore from the Maghreb to Southeast Asia.",
+  "first_reported": "c. 600",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

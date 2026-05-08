@@ -1,16 +1,64 @@
 {
   "id": "haetae",
-  "name": "Haetae (해태)",
+  "name": "Haetae",
   "category": "mythological_creature",
-  "description": "The Haetae (also spelled Haechi or Haetae) is a legendary lion-like guardian creature from Korean mythology that serves as a powerful symbol of justice, law, and protection.",
-  "aliases": [],
+  "description": "The Haetae (also Haechi) is a legendary guardian beast from Korean and Chinese mythology, depicted as a muscular lion-like creature with scales and a single horn, revered as a symbol of justice, law, and protection against fire.",
+  "aliases": [
+    {
+      "name": "Haechi",
+      "language": "Korean",
+      "region": "Korea",
+      "meaning": "Variant romanization of the same creature"
+    },
+    {
+      "name": "해태",
+      "language": "Korean",
+      "region": "Korea"
+    },
+    {
+      "name": "Xiezhi",
+      "language": "Chinese",
+      "region": "China",
+      "meaning": "獬豸; the Chinese source figure"
+    },
+    {
+      "name": "Kaichi",
+      "language": "Japanese",
+      "region": "Japan",
+      "meaning": "Japanese reading of 獬豸"
+    },
+    {
+      "name": "Giải trãi",
+      "language": "Vietnamese",
+      "region": "Vietnam"
+    },
+    {
+      "name": "Unicorn-lion",
+      "language": "English",
+      "region": "Western scholarship",
+      "meaning": "Descriptive English name referencing its single horn and leonine body"
+    }
+  ],
   "tags": [
-    "worldwide"
+    "korean",
+    "chinese",
+    "guardian",
+    "justice",
+    "fire-protection",
+    "palace-guardian",
+    "single-horn",
+    "leonine",
+    "east-asia"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Korean",
-  "first_reported": "Unknown",
+  "regions": [
+    "Korean Peninsula",
+    "Central China",
+    "Manchuria (mythological homeland per Korean records)",
+    "Japan"
+  ],
+  "origin": "Originating in Chinese mythology and adopted throughout East Asia. Most prominent in Korea, where haetae statues guard palace complexes. Also found in China, Japan, and Vietnam.",
+  "first_reported": "c. 80 CE",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

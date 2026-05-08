@@ -1,17 +1,39 @@
 {
   "id": "lizard-man-scape-ore",
   "name": "Lizard Man of Scape Ore Swamp",
-  "category": "|_broader_reptilian_humanoid_phenomena_|",
-  "description": "The Lizard Man of Scape Ore Swamp is a reptilian humanoid cryptid that captured national attention during the summer of 1988 in Lee County, South Carolina.",
-  "aliases": [],
-  "tags": [
-    "folklore",
-    "mythology"
+  "category": "cryptid",
+  "description": "The Lizard Man of Scape Ore Swamp is a reptilian humanoid cryptid reported around Bishopville, Lee County, South Carolina, after a 1988 encounter by a 17-year-old motorist named Christopher Davis. Subsequent reports of vehicle damage, footprints and brief follow-up sightings made it a national news story that summer.",
+  "aliases": [
+    {
+      "name": "Lizard Man",
+      "region": "Lee County, South Carolina, USA"
+    },
+    {
+      "name": "Bishopville Lizard Man",
+      "region": "Bishopville, South Carolina, USA"
+    },
+    {
+      "name": "Scape Ore Lizard Man",
+      "region": "Scape Ore Swamp, South Carolina, USA"
+    }
   ],
-  "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "tags": [
+    "cryptid",
+    "reptilian",
+    "humanoid",
+    "swamp",
+    "south-carolina",
+    "1988",
+    "regional-flap"
+  ],
+  "status": "dormant",
+  "regions": [
+    "South Carolina",
+    "Lee County",
+    "Pee Dee region"
+  ],
+  "origin": "Reports are tightly concentrated around Scape Ore Swamp and Browntown in Lee County, South Carolina, particularly along rural roads north of Bishopville.",
+  "first_reported": "1988",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

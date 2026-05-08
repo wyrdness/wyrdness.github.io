@@ -1,17 +1,29 @@
 {
   "id": "drop-bear",
   "name": "Drop Bear",
-  "category": "hoax",
-  "description": "The Drop Bear is a deliberately fabricated Australian creature, part of a long tradition of pranking tourists with tall tales about dangerous wildlife.",
-  "aliases": [],
-  "tags": [
-    "folklore",
-    "mythology"
+  "category": "urban_legend",
+  "description": "A wholly fictional Australian creature: an oversized, predatory koala that supposedly drops from eucalyptus trees onto unsuspecting passers-by, used as a long-standing in-joke to prank tourists.",
+  "aliases": [
+    {
+      "name": "Thylarctos plummetus",
+      "language": "Mock Latin",
+      "meaning": "Pseudo-binomial coined by the Australian Museum for the drop bear"
+    }
   ],
-  "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "tags": [
+    "australia",
+    "hoax",
+    "tourist-prank",
+    "fearsome-critter",
+    "urban-legend",
+    "humor"
+  ],
+  "status": "debunked",
+  "regions": [
+    "All Australian states and territories (within the joke)"
+  ],
+  "origin": "Joke localised to Australia, particularly its eucalyptus forests; told primarily to international tourists.",
+  "first_reported": "1967",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

@@ -2,16 +2,61 @@
   "id": "draugr",
   "name": "Draugr",
   "category": "undead",
-  "description": "The Draugr is a corporeal undead creature from Norse mythology and Icelandic sagas, distinguished from ghosts by its physical, animated body.",
-  "aliases": [],
+  "description": "A corporeal revenant of Old Norse and Icelandic tradition, the draugr is an animated corpse with superhuman strength, magical abilities, and a violent jealousy toward the living, most often encountered as a guardian of treasure in a burial mound or as a re-walking neighbour terrorizing a farmstead.",
+  "aliases": [
+    {
+      "name": "Draugur",
+      "language": "Modern Icelandic"
+    },
+    {
+      "name": "Haugbúi",
+      "language": "Old Norse",
+      "meaning": "Mound-dweller — draugr who remains in the burial mound"
+    },
+    {
+      "name": "Aptrgǫngur",
+      "language": "Old Norse",
+      "meaning": "After-walkers / re-walkers"
+    },
+    {
+      "name": "Dreygur",
+      "language": "Faroese",
+      "region": "Faroe Islands"
+    },
+    {
+      "name": "Draug",
+      "language": "Norwegian",
+      "region": "Norway"
+    },
+    {
+      "name": "Sjødraug / havdraug",
+      "language": "Norwegian",
+      "region": "Norway",
+      "meaning": "Sea-draug"
+    },
+    {
+      "name": "Hogboon / Hogboy",
+      "language": "Orcadian English (from haugbúi)",
+      "region": "Orkney"
+    }
+  ],
   "tags": [
-    "folklore",
-    "mythology"
+    "norse-mythology",
+    "icelandic-sagas",
+    "undead",
+    "revenant",
+    "burial-mound",
+    "scandinavia"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "Iceland (Icelandic sagas)",
+    "Norway (sjødraug tradition)",
+    "Faroe Islands (dreygur)",
+    "Northern Isles of Scotland (hogboon)"
+  ],
+  "origin": "Old Norse and post-Norse Scandinavia: Iceland, Norway, the Faroe Islands, with related traditions in Sweden, Denmark, and the Northern Isles of Britain (Orkney, Shetland).",
+  "first_reported": "c. 1200",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

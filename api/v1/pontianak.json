@@ -1,17 +1,49 @@
 {
   "id": "pontianak",
   "name": "Pontianak",
-  "category": "undead_ghost",
-  "description": "The pontianak (known as **kuntilanak** in Indonesia) is one of the most feared supernatural beings in Malay and Indonesian folklore.",
-  "aliases": [],
-  "tags": [
-    "folklore",
-    "mythology"
+  "category": "undead",
+  "description": "The Pontianak (known as Kuntilanak in Indonesia) is a vengeful female vampire spirit in Malay and Indonesian folklore, originating from women who died during pregnancy or childbirth. She appears as a beautiful woman in white to lure victims before revealing her monstrous true form.",
+  "aliases": [
+    {
+      "name": "Kuntilanak",
+      "language": "Indonesian",
+      "region": "Indonesia",
+      "meaning": "Indonesian variant name; derived from the same root"
+    },
+    {
+      "name": "Matianak",
+      "language": "Malay",
+      "meaning": "Alternative Malay spelling/variant"
+    },
+    {
+      "name": "Kunti",
+      "language": "Indonesian",
+      "region": "Indonesia",
+      "meaning": "Colloquial abbreviation used in Indonesian popular culture"
+    }
   ],
-  "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "tags": [
+    "ghost",
+    "undead",
+    "vampire",
+    "malay",
+    "indonesia",
+    "southeast-asia",
+    "childbirth",
+    "female-spirit",
+    "folklore",
+    "nocturnal"
+  ],
+  "status": "active",
+  "regions": [
+    "Malay Peninsula",
+    "Kalimantan",
+    "Java",
+    "Sumatra",
+    "Borneo"
+  ],
+  "origin": "Pontianak / Kuntilanak beliefs are widespread throughout the Malay Archipelago, including Malaysia, Indonesia (especially Kalimantan, Java, and Sumatra), Singapore, and Brunei.",
+  "first_reported": "Pre-colonial",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

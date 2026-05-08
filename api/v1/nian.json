@@ -1,17 +1,45 @@
 {
   "id": "nian",
-  "name": "Nian (年獸)",
-  "category": "|_mythological_creature_|",
-  "description": "The Nian (年獸, \\\"Year Beast\\\") is a fearsome mythological creature from Chinese folklore that emerges at the end of each lunar year to terrorize villages.",
-  "aliases": [],
+  "name": "Nian",
+  "category": "mythological_creature",
+  "description": "A beast of Chinese folklore said to emerge at the end of each lunar year to attack villages, scared off by the colour red, fire, and loud noises — the etiological story for many Chinese New Year traditions.",
+  "aliases": [
+    {
+      "name": "年獸",
+      "language": "Chinese (Traditional)",
+      "meaning": "Year Beast"
+    },
+    {
+      "name": "年兽",
+      "language": "Chinese (Simplified)",
+      "meaning": "Year Beast"
+    },
+    {
+      "name": "Niánshòu",
+      "language": "Mandarin (pinyin)"
+    },
+    {
+      "name": "Year Beast",
+      "language": "English"
+    }
+  ],
   "tags": [
-    "the-power-of-cultural-symbols-(colors",
-    "sounds)"
+    "china",
+    "chinese-new-year",
+    "lunar-new-year",
+    "festival",
+    "lion-like",
+    "red",
+    "firecrackers",
+    "folklore"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "Greater China",
+    "Chinese diaspora communities worldwide"
+  ],
+  "origin": "Greater China and the global Chinese diaspora; the Nian is a pan-Chinese folkloric figure attached to Lunar New Year customs.",
+  "first_reported": "Early 20th century",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

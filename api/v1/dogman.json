@@ -1,17 +1,36 @@
 {
   "id": "dogman",
-  "name": "Dogman",
+  "name": "Michigan Dogman",
   "category": "cryptid",
-  "description": "Dogman is a cryptid reportedly seen primarily in the Great Lakes region of North America, particularly Michigan and Wisconsin.",
-  "aliases": [],
-  "tags": [
-    "folklore",
-    "mythology"
+  "description": "A bipedal, dog-headed humanoid cryptid reported primarily in the northwestern Lower Peninsula of Michigan, popularized by a 1987 radio prank song by disc jockey Steve Cook of WTCM-FM in Traverse City.",
+  "aliases": [
+    {
+      "name": "Dogman",
+      "region": "Great Lakes, USA"
+    },
+    {
+      "name": "Wexford County Dogman",
+      "region": "Northern Michigan"
+    }
   ],
-  "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "tags": [
+    "cryptid",
+    "humanoid",
+    "canine",
+    "bipedal",
+    "great-lakes",
+    "michigan",
+    "north-america"
+  ],
+  "status": "active",
+  "regions": [
+    "Michigan",
+    "Northern Lower Peninsula",
+    "Manistee River basin",
+    "Great Lakes region"
+  ],
+  "origin": "Reports cluster in the northwestern Lower Peninsula of Michigan, particularly around the Manistee River and historically Odawa lands; occasional reports extend into other Great Lakes states.",
+  "first_reported": "1887",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

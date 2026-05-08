@@ -2,16 +2,53 @@
   "id": "impundulu",
   "name": "Impundulu",
   "category": "entity_spirit",
-  "description": "The **Impundulu**, or **Lightning Bird**, is a creature from Zulu, Xhosa, and Pondo folklore in South Africa.",
-  "aliases": [],
-  "tags": [
-    "folklore",
-    "mythology"
+  "description": "The Impundulu (Lightning Bird) is a supernatural creature from Zulu, Xhosa, and Pondo folklore in South Africa that serves as a witch's familiar, summons lightning, and is said to possess vampiric qualities and the ability to take human form.",
+  "aliases": [
+    {
+      "name": "Lightning Bird",
+      "language": "English",
+      "region": "South Africa",
+      "meaning": "Descriptive translation"
+    },
+    {
+      "name": "Thekwane",
+      "language": "Zulu",
+      "region": "South Africa"
+    },
+    {
+      "name": "Izulu",
+      "language": "Zulu",
+      "region": "South Africa",
+      "meaning": "Sky / lightning"
+    },
+    {
+      "name": "Inyoni yezulu",
+      "language": "Zulu",
+      "region": "South Africa",
+      "meaning": "Bird of the sky/lightning"
+    }
   ],
-  "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "tags": [
+    "south-african",
+    "zulu",
+    "xhosa",
+    "pondo",
+    "witchcraft",
+    "familiar",
+    "bird",
+    "lightning",
+    "vampiric",
+    "shapeshifter",
+    "africa"
+  ],
+  "status": "active",
+  "regions": [
+    "KwaZulu-Natal",
+    "Eastern Cape",
+    "South African coastal and interior regions"
+  ],
+  "origin": "South Africa; primarily associated with Zulu, Xhosa, and Pondo peoples of the eastern and southeastern regions.",
+  "first_reported": "Pre-colonial",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

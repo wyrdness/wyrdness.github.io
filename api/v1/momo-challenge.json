@@ -1,17 +1,35 @@
 {
   "id": "momo-challenge",
-  "name": "Momo Challenge",
-  "category": "|_hoax_|",
-  "description": "> The Momo Challenge was an internet hoax and media-driven moral panic.",
-  "aliases": [],
-  "tags": [
-    "folklore",
-    "mythology"
+  "name": "Momo Challenge hoax",
+  "category": "urban_legend",
+  "description": "The 'Momo Challenge' was a 2018-2019 internet hoax and media-driven moral panic alleging that a sinister character named 'Momo' contacted children via WhatsApp and YouTube and instructed them to perform self-harm; investigators, platforms and child-safety organisations found no evidence of any such challenge.",
+  "aliases": [
+    {
+      "name": "Momo Challenge",
+      "region": "Global, English-language internet"
+    },
+    {
+      "name": "Momo",
+      "region": "Used as the avatar image of the hoax"
+    }
   ],
-  "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "tags": [
+    "hoax",
+    "internet",
+    "moral-panic",
+    "social-media",
+    "urban-legend",
+    "2018",
+    "2019"
+  ],
+  "status": "debunked",
+  "regions": [
+    "WhatsApp messaging networks",
+    "YouTube and YouTube Kids",
+    "Mainstream tabloid news media"
+  ],
+  "origin": "Global, on the English-language internet, with substantial coverage in Latin America, India, Europe and North America.",
+  "first_reported": "2018-07",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

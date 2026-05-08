@@ -1,17 +1,42 @@
 {
   "id": "taniwha",
   "name": "Taniwha",
-  "category": "|_mythological_creature_|",
-  "description": "Taniwha are supernatural beings in Māori mythology that dwell in deep water—oceans, rivers, lakes, and caves.",
-  "aliases": [],
-  "tags": [
-    "folklore",
-    "mythology"
+  "category": "mythological_creature",
+  "description": "Supernatural beings in Māori tradition that inhabit deep pools, rivers, harbours, caves, and dangerous coastal waters of Aotearoa (New Zealand), acting as both guardians (kaitiaki) and monstrous threats.",
+  "aliases": [
+    {
+      "name": "*tanifa",
+      "language": "Proto-Oceanic",
+      "meaning": "reconstructed ancestor of the word, referring to a dangerous shark species"
+    },
+    {
+      "name": "Tanifa / Tanifoa",
+      "language": "Tongan, Samoan",
+      "region": "Polynesia",
+      "meaning": "cognate terms for large or dangerous sharks"
+    }
   ],
-  "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "tags": [
+    "maori",
+    "new-zealand",
+    "polynesia",
+    "water",
+    "guardian",
+    "kaitiaki",
+    "serpent",
+    "shapeshifter"
+  ],
+  "status": "active",
+  "regions": [
+    "North Island",
+    "South Island",
+    "Hauraki Gulf",
+    "Hokianga",
+    "Whanganui River",
+    "Waikato River"
+  ],
+  "origin": "Taniwha are particular to Aotearoa (New Zealand), with cognate water beings throughout Polynesia.",
+  "first_reported": "Pre-contact",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

@@ -2,16 +2,75 @@
   "id": "jinn",
   "name": "Jinn",
   "category": "entity_spirit",
-  "description": "Jinn (Arabic: جن, also romanized as Djinn) are supernatural beings in pre-Islamic Arabian religious traditions and Islamic theology.",
-  "aliases": [],
+  "description": "The jinn are sapient, invisible beings of pre-Islamic Arabian religion and Islamic theology, said to be created by God from smokeless fire. The Quran devotes Surah 72 (Al-Jinn) to them; belief in jinn remains widespread across the Muslim world.",
+  "aliases": [
+    {
+      "name": "جن (jinn)",
+      "language": "Arabic",
+      "meaning": "'Hidden / concealed beings'"
+    },
+    {
+      "name": "Djinn",
+      "language": "French / English transliteration"
+    },
+    {
+      "name": "Genie",
+      "language": "English (via Latin genius)",
+      "meaning": "Anglicization, popularized by 18th-century French translations of the One Thousand and One Nights"
+    },
+    {
+      "name": "Ifrit (عفريت)",
+      "language": "Arabic",
+      "meaning": "Class of powerful, often malevolent jinn"
+    },
+    {
+      "name": "Marid (مارد)",
+      "language": "Arabic",
+      "meaning": "Class of especially powerful jinn, often associated with the sea"
+    },
+    {
+      "name": "Ghul (غول)",
+      "language": "Arabic",
+      "meaning": "Cannibalistic, shape-shifting jinn of desolate places"
+    },
+    {
+      "name": "Si'lat (سعلاة)",
+      "language": "Arabic"
+    },
+    {
+      "name": "Shaytan (شيطان)",
+      "language": "Arabic",
+      "meaning": "Satan; in Islamic theology the rebellious jinn Iblis and his progeny"
+    },
+    {
+      "name": "Pari (پری)",
+      "language": "Persian",
+      "region": "Iranian world",
+      "meaning": "Beautiful winged spirit, often paralleled with jinn"
+    }
+  ],
   "tags": [
-    "folklore",
-    "mythology"
+    "islamic",
+    "arabian",
+    "spirit",
+    "shapeshifter",
+    "smokeless-fire",
+    "religious-tradition",
+    "middle-east",
+    "north-africa"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "Arabian Peninsula",
+    "Maghreb",
+    "Mashriq",
+    "Iranian world",
+    "South Asia",
+    "Southeast Asia",
+    "Sahel"
+  ],
+  "origin": "Conceptually present throughout the Islamic world, with strong continuity with pre-Islamic Arabian religion and parallels in Persian, Turkic, Berber, Swahili, and Malay cultures.",
+  "first_reported": "Pre-Islamic Arabia (pre-7th century CE)",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

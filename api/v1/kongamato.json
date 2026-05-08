@@ -2,16 +2,46 @@
   "id": "kongamato",
   "name": "Kongamato",
   "category": "cryptid",
-  "description": "The kongamato is a cryptid reported from the swamps and rivers of Central and Southern Africa, particularly in Zambia and Zimbabwe.",
-  "aliases": [],
-  "tags": [
-    "folklore",
-    "mythology"
+  "description": "A reported flying creature of the swamps of north-western Zambia, eastern Angola, and the southern Democratic Republic of the Congo, said by Kaonde and Lunda informants to attack boats and inflict severe wounds, and frequently described in cryptozoological literature as resembling a pterosaur — a long-beaked, leathery-winged, toothed flying reptile.",
+  "aliases": [
+    {
+      "name": "Kongamato",
+      "language": "Kaonde (Bantu)",
+      "region": "Zambia / DRC borderlands",
+      "meaning": "approximately 'overturner / breaker of boats'"
+    },
+    {
+      "name": "Olitiau",
+      "region": "Cameroon",
+      "meaning": "another African pterosaur-like cryptid sometimes grouped with the kongamato in cryptozoological literature"
+    },
+    {
+      "name": "African pterodactyl",
+      "meaning": "popular cryptozoological framing"
+    }
   ],
-  "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "tags": [
+    "africa",
+    "zambia",
+    "drc",
+    "angola",
+    "cryptid",
+    "pterosaur",
+    "swamp",
+    "kaonde",
+    "shoebill",
+    "cryptozoology"
+  ],
+  "status": "unverified",
+  "regions": [
+    "Mwinilunga District",
+    "Bangweulu wetlands",
+    "Jiundu Swamp",
+    "Kafue floodplain",
+    "Caprivi Strip"
+  ],
+  "origin": "North-western Zambia (Mwinilunga District and adjacent swamps), the Bangweulu wetlands of north-eastern Zambia, eastern Angola, and the southern Democratic Republic of the Congo, with secondary reports from Zimbabwe and Cameroon (where similar cryptids are reported under other names).",
+  "first_reported": "1923",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

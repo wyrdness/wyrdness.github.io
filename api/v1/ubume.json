@@ -1,17 +1,53 @@
 {
   "id": "ubume",
   "name": "Ubume",
-  "category": "undead",
-  "description": "Ubume is a tragic yokai - the ghost of a woman who died during childbirth or while pregnant.",
-  "aliases": [],
+  "category": "entity_spirit",
+  "description": "A Japanese yōkai of a woman who died in or shortly after childbirth, who appears at night carrying a baby and tries to pass it to a passerby; the bundle then turns to leaves, stones, or grows unbearably heavy.",
+  "aliases": [
+    {
+      "name": "産女",
+      "language": "Japanese",
+      "meaning": "'birthing woman' — main written form"
+    },
+    {
+      "name": "姑獲鳥",
+      "language": "Japanese",
+      "meaning": "'kokakuchō' — the Chinese-derived name; literally 'wench-snatching bird'"
+    },
+    {
+      "name": "Ugume",
+      "language": "Japanese",
+      "region": "Saga and Kumamoto"
+    },
+    {
+      "name": "Obo",
+      "language": "Japanese",
+      "region": "Fukushima"
+    },
+    {
+      "name": "Unme / Uume",
+      "language": "Japanese",
+      "region": "Iki Island, Nagasaki Prefecture"
+    }
+  ],
   "tags": [
-    "folklore",
-    "mythology"
+    "yokai",
+    "yurei",
+    "ghost",
+    "japan",
+    "childbirth",
+    "maternal-spirit",
+    "asia"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "Honshu",
+    "Kyushu (Saga, Kumamoto, Nagasaki)",
+    "Tōhoku (Fukushima)",
+    "Iki Island"
+  ],
+  "origin": "Found across Japan with regional variants and overlaps with Chinese-derived bird-spirit traditions.",
+  "first_reported": "c. 1120",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

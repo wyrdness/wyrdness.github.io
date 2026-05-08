@@ -2,16 +2,37 @@
   "id": "jersey-devil",
   "name": "Jersey Devil",
   "category": "cryptid",
-  "description": "The Jersey Devil is a legendary creature said to inhabit the Pine Barrens of South Jersey.",
-  "aliases": [],
-  "tags": [
-    "folklore",
-    "mythology"
+  "description": "The Jersey Devil is a legendary winged, bipedal creature of the New Jersey Pine Barrens, traditionally said to be the cursed thirteenth child of 'Mother Leeds' born in 1735. Its most famous burst of activity was a week of mass sightings across South Jersey and Philadelphia in January 1909.",
+  "aliases": [
+    {
+      "name": "Leeds Devil",
+      "region": "New Jersey, USA",
+      "meaning": "Earlier name connecting the legend to the Leeds family of colonial New Jersey"
+    },
+    {
+      "name": "Devil of the Pine Barrens",
+      "region": "South Jersey, USA"
+    }
   ],
-  "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "tags": [
+    "winged",
+    "bipedal",
+    "horse-headed",
+    "pine-barrens",
+    "new-jersey",
+    "north-america",
+    "colonial-folklore",
+    "cryptid"
+  ],
+  "status": "active",
+  "regions": [
+    "Pine Barrens",
+    "South Jersey",
+    "Delaware Valley",
+    "Philadelphia metropolitan area"
+  ],
+  "origin": "The Jersey Devil is a distinctly regional cryptid associated with the Pine Barrens of southern New Jersey and adjacent areas of southeastern Pennsylvania and the Delaware Valley.",
+  "first_reported": "1735",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

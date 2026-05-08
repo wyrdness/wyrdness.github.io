@@ -1,126 +1,80 @@
 {
-  "meta": {
-    "version": "1.0.0",
-    "schema_version": "1.0.0",
-    "last_updated": "2026-02-13",
-    "repository": "https://github.com/wyrdness/aurora-phenomena",
-    "maintainers": [
-      {
-        "name": "Wyrdness Team",
-        "github": "wyrdness",
-        "role": "maintainer"
-      }
-    ],
-    "license": {
-      "data": "CC0-1.0",
-      "content": "CC-BY-4.0"
+  "id": "aurora-phenomena",
+  "name": "Aurora Phenomena (Northern and Southern Lights Folklore)",
+  "category": "atmospheric_phenomenon",
+  "description": "Aurora phenomena — the Aurora Borealis (Northern Lights) and Aurora Australis (Southern Lights) — are natural light displays in Earth's upper atmosphere caused by charged solar particles interacting with the magnetosphere, and have inspired rich and varied supernatural traditions across polar and sub-polar cultures worldwide.",
+  "aliases": [
+    {
+      "name": "Aurora Borealis",
+      "language": "Latin",
+      "region": "Northern Hemisphere",
+      "meaning": "Northern dawn — from Aurora (Roman goddess of dawn) and Boreas (Greek north wind)"
+    },
+    {
+      "name": "Aurora Australis",
+      "language": "Latin",
+      "region": "Southern Hemisphere",
+      "meaning": "Southern dawn — from Aurora and Auster (Latin south wind)"
+    },
+    {
+      "name": "Northern Lights",
+      "language": "English",
+      "region": "Global (northern hemisphere usage)"
+    },
+    {
+      "name": "Southern Lights",
+      "language": "English",
+      "region": "Global (southern hemisphere usage)"
+    },
+    {
+      "name": "Guovssahas",
+      "language": "Sami",
+      "region": "Northern Scandinavia",
+      "meaning": "The light you can hear — reflects Sami belief that the aurora makes a rustling sound"
+    },
+    {
+      "name": "Tahunui-a-rangi",
+      "language": "Maori",
+      "region": "Aotearoa / New Zealand",
+      "meaning": "Great torches in the sky"
+    },
+    {
+      "name": "Revontulet",
+      "language": "Finnish",
+      "region": "Finland",
+      "meaning": "Fox fires — from the legend of a cosmic fox running across the sky, its tail brushing sparks"
+    },
+    {
+      "name": "Bifrost",
+      "language": "Old Norse",
+      "region": "Scandinavia",
+      "meaning": "Trembling or shimmering road — the bridge connecting the world of the living to Asgard (sometimes identified with the aurora in Norse tradition)"
     }
-  },
-  "phenomenon": {
-    "id": "aurora-phenomena",
-    "name": "Aurora Phenomena (Northern Lights Folklore)",
-    "aliases": [],
-    "category": "ATMOSPHERIC_PHENOMENA",
-    "subcategory": "Unknown",
-    "tags": [
-      "folklore",
-      "mythology"
-    ],
-    "status": "documented",
-    "description": {
-      "summary": "Aurora phenomena—primarily the Aurora Borealis (Northern Lights) and Aurora Australis (Southern Lights)—represent one of nature's most spectacular displays: shimmering curtains of colored light dancing across the polar skies.",
-      "full": "Aurora phenomena—primarily the Aurora Borealis (Northern Lights) and Aurora Australis (Southern Lights)—represent one of nature's most spectacular displays: shimmering curtains of colored light dancing across the polar skies. While modern science understands auroras as the result of solar wind particles interacting with Earth's magnetosphere, cultures throughout history have developed rich mythologies and supernatural beliefs to explain these mysterious celestial displays."
-    },
-    "etymology": {
-      "origin": "Unknown",
-      "meaning": "To be documented",
-      "first_use": "Unknown"
-    }
-  },
-  "classification": {
-    "taxonomy": {
-      "category": "ATMOSPHERIC_PHENOMENA",
-      "type": "Unknown",
-      "subtype": "Unknown",
-      "variant": "Unknown"
-    },
-    "related_phenomena": []
-  },
-  "characteristics": {
-    "physical": {
-      "features": [],
-      "morphology": "See README.md for detailed physical description"
-    },
-    "abilities": [],
-    "behavior": {
-      "activity_period": "unknown",
-      "disposition": "unknown",
-      "habitat_preference": []
-    }
-  },
-  "distribution": {
-    "range": {
-      "description": "Unknown",
-      "continents": [],
-      "countries": [],
-      "regions": []
-    },
-    "hotspots": [],
-    "temporal": {
-      "first_recorded": {
-        "date": "Unknown",
-        "circa": true,
-        "source": "Traditional folklore"
-      }
-    }
-  },
-  "history": {
-    "origins": {
-      "cultural_roots": "Unknown",
-      "earliest_accounts": "See README.md for historical details",
-      "folklore_connections": "Unknown"
-    },
-    "timeline": []
-  },
-  "sightings": {
-    "statistics": {
-      "total_documented": 0,
-      "verified": 0,
-      "disputed": 0,
-      "debunked": 0
-    },
-    "notable": [],
-    "database_path": "./sightings/"
-  },
-  "evidence": {
-    "physical": [],
-    "photographic": [],
-    "video": [],
-    "audio": [],
-    "trace": []
-  },
-  "theories": {
-    "paranormal": [],
-    "scientific": [],
-    "skeptical": []
-  },
-  "cultural": {
-    "folklore": {
-      "traditions": [],
-      "stories": [],
-      "beliefs": "See README.md for cultural context"
-    },
-    "popular_culture": {
-      "literature": [],
-      "film_tv": [],
-      "games": [],
-      "other": []
-    }
-  },
-  "research": {
-    "researchers": [],
-    "organizations": [],
-    "ongoing_studies": "None documented"
-  },
-  "sources": []
+  ],
+  "tags": [
+    "atmospheric",
+    "natural-phenomenon",
+    "folklore",
+    "mythology",
+    "polar-regions",
+    "sami",
+    "norse",
+    "indigenous",
+    "aurora-borealis",
+    "aurora-australis"
+  ],
+  "status": "documented",
+  "regions": [
+    "Arctic Circle",
+    "Northern Scandinavia (Lapland)",
+    "Northern Canada",
+    "Alaska",
+    "Siberia",
+    "Antarctica",
+    "Southern Ocean regions"
+  ],
+  "origin": "Aurora borealis occurs in a ring around the Arctic (auroral oval), centered on the geomagnetic pole. During strong geomagnetic storms it can be seen as far south as the northern United States, central Europe, and occasionally further. Aurora australis similarly occurs around the Antarctic. Both appear year-round but require darkness and clear skies to be visible.",
+  "first_reported": "Pre-contact",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
 }

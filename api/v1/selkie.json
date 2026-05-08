@@ -2,15 +2,84 @@
   "id": "selkie",
   "name": "Selkie",
   "category": "shapeshifter",
-  "description": "Selkies are mythological beings from Scottish, Irish, and Faroese folklore who live as seals in the ocean but can shed their skins to become beautiful humans on land.",
-  "aliases": [],
+  "description": "Selkies are shapeshifting beings of Northern Isles, Faroese, Icelandic, and Irish folklore who live as seals in the sea but can shed their sealskins to take human form on land. They are best known for stories in which a human steals and hides a selkie's skin, trapping the selkie in human form.",
+  "aliases": [
+    {
+      "name": "Silkie",
+      "language": "Scots",
+      "region": "Orkney and Shetland",
+      "meaning": "alternate spelling of selkie"
+    },
+    {
+      "name": "Selchie",
+      "language": "Scots",
+      "region": "Scotland",
+      "meaning": "alternate spelling"
+    },
+    {
+      "name": "Sylkie",
+      "language": "Scots",
+      "region": "Scotland"
+    },
+    {
+      "name": "Selkie folk",
+      "language": "English",
+      "region": "Northern Isles"
+    },
+    {
+      "name": "Seal-folk",
+      "language": "English",
+      "region": "Scotland and Ireland"
+    },
+    {
+      "name": "Kópakonan",
+      "language": "Faroese",
+      "region": "Faroe Islands",
+      "meaning": "the seal woman"
+    },
+    {
+      "name": "Selshamur",
+      "language": "Icelandic",
+      "region": "Iceland",
+      "meaning": "the seal-skin"
+    },
+    {
+      "name": "Maighdean-mhara",
+      "language": "Scottish Gaelic",
+      "region": "Scotland",
+      "meaning": "sea maiden (overlapping use)"
+    },
+    {
+      "name": "Roane",
+      "language": "Irish",
+      "region": "Ireland",
+      "meaning": "seal (used for selkie-like beings in Irish folklore)"
+    }
+  ],
   "tags": [
-    "&-themes"
+    "shapeshifter",
+    "seal",
+    "scottish-folklore",
+    "irish-folklore",
+    "faroese-folklore",
+    "orkney",
+    "shetland",
+    "celtic",
+    "norse",
+    "marriage-folklore",
+    "swan-maiden-type"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "Orkney",
+    "Shetland",
+    "Outer Hebrides",
+    "North-west Ireland",
+    "Kalsoy (Faroe Islands)",
+    "Western Iceland"
+  ],
+  "origin": "Selkie traditions cluster in the Northern Isles of Scotland (Orkney and Shetland) and along the Hebridean and northern Scottish coasts, with cognate traditions in coastal Ireland, the Faroe Islands, and Iceland. The cultural distribution corresponds closely to the historic range of Norse settlement and the grey seal's North Atlantic range.",
+  "first_reported": "1641",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

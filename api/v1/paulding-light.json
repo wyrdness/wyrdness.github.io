@@ -2,16 +2,33 @@
   "id": "paulding-light",
   "name": "Paulding Light",
   "category": "atmospheric_phenomenon",
-  "description": "The Paulding Light is a light phenomenon visible from Power Line Road (also called Robbins Pond Road) near Paulding, Michigan in the Upper Peninsula.",
-  "aliases": [],
+  "description": "The Paulding Light is a recurring nocturnal light visible from Robbins Pond Road (also known as Old US 45) outside Paulding, Michigan, in the Upper Peninsula. A 2010 Michigan Tech investigation identified the light as headlights from vehicles on US 45 viewed through an atmospheric inversion duct.",
+  "aliases": [
+    {
+      "name": "Dog Meadow Light",
+      "region": "Paulding, Michigan"
+    },
+    {
+      "name": "Mystery Light of Watersmeet",
+      "region": "Watersmeet / Paulding, Michigan"
+    }
+  ],
   "tags": [
-    "folklore",
-    "mythology"
+    "ghost-light",
+    "spook-light",
+    "atmospheric",
+    "optical-phenomenon",
+    "refraction",
+    "michigan",
+    "upper-peninsula"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "Upper Peninsula of Michigan",
+    "Ontonagon County"
+  ],
+  "origin": "The phenomenon is observed from a single, well-defined viewing area on Robbins Pond Road (Old US 45) near Paulding, Michigan, in the Upper Peninsula.",
+  "first_reported": "1966-01-01",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

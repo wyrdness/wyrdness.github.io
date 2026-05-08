@@ -2,16 +2,35 @@
   "id": "come-at-a-body",
   "name": "Come-at-a-Body",
   "category": "cryptid",
-  "description": "The Come-at-a-Body is a fearsome critter defined by its direct, aggressive behavior.",
-  "aliases": [],
+  "description": "The Come-at-a-Body is a fearsome critter of early 20th-century American lumberjack folklore, described by William T. Cox in 1910 as a small, woodchuck-sized animal with soft kitten-like fur that suddenly charges out of the brush at New Hampshire travellers and stops abruptly inches away to startle them.",
+  "aliases": [
+    {
+      "name": "Come-At-A-Body",
+      "language": "English (American dialect)"
+    },
+    {
+      "name": "Apparitio camatabodi",
+      "language": "Mock-Latin",
+      "meaning": "Pseudo-scientific binomial supplied by George B. Sudworth in Cox's 1910 book"
+    }
+  ],
   "tags": [
-    "folklore",
-    "mythology"
+    "fearsome-critters",
+    "lumberjack-folklore",
+    "north-america",
+    "new-hampshire",
+    "white-mountains",
+    "tall-tale",
+    "humorous-cryptid"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "White Mountains",
+    "Northern New Hampshire",
+    "Maine and Vermont logging country (by extension in later compilations)"
+  ],
+  "origin": "Strictly localised to the White Mountains of northern New Hampshire in Cox's account, with secondary references in 20th-century compilations covering the wider Northern New England logging country.",
+  "first_reported": "1910",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

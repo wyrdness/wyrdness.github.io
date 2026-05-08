@@ -1,17 +1,60 @@
 {
   "id": "yama-uba",
-  "name": "Yama-Uba",
+  "name": "Yamauba",
   "category": "entity_spirit",
-  "description": "Yama-Uba, the \\\"Mountain Hag,\\\" is an ambiguous yokai in Japanese folklore.",
-  "aliases": [],
+  "description": "A morally ambivalent yokai in Japanese folklore — an elderly mountain woman who may shelter and aid travelers or devour them. She is most famous as the mother of the folk hero Kintaro and is a major subject of Noh theater. She embodies the dual nature of the wild mountain: nurturing yet consuming, maternal yet dangerous.",
+  "aliases": [
+    {
+      "name": "Yama-uba",
+      "language": "Japanese",
+      "meaning": "Mountain hag / mountain old woman; from yama (mountain) + uba (old woman, wet nurse)"
+    },
+    {
+      "name": "山姥",
+      "language": "Japanese",
+      "meaning": "Primary kanji rendering: mountain (山) + hag/old woman (姥)"
+    },
+    {
+      "name": "山女郎",
+      "language": "Japanese",
+      "meaning": "Alternative kanji: mountain woman/courtesan"
+    },
+    {
+      "name": "山うば",
+      "language": "Japanese",
+      "meaning": "Mixed hiragana rendering"
+    },
+    {
+      "name": "Yamahime",
+      "language": "Japanese",
+      "region": "Miyazaki Prefecture",
+      "meaning": "Mountain princess; a regional variant name for a related mountain woman figure"
+    }
+  ],
   "tags": [
-    "folklore",
-    "mythology"
+    "japanese-folklore",
+    "yokai",
+    "mountain",
+    "hag",
+    "shapeshifter",
+    "cannibalism",
+    "kintaro",
+    "noh-theater",
+    "maternal-archetype",
+    "japan"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "Throughout Japan",
+    "Miyazaki Prefecture (yamahime variant)",
+    "Hokkaido (protective maternal variant)",
+    "Shikoku",
+    "Kyushu",
+    "Kagawa Prefecture (kawajoro river variant)",
+    "Kochi Prefecture (deified household protective variant)"
+  ],
+  "origin": "Found throughout Japanese folklore, with documented regional variants across Honshu, Hokkaido, Shikoku, and Kyushu. Particularly associated with the mountainous interior of Japan and mountain-pass routes historically traveled by merchants and ox-drivers.",
+  "first_reported": "1400-01-01",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

@@ -2,16 +2,42 @@
   "id": "owlman",
   "name": "Owlman",
   "category": "cryptid",
-  "description": "The Owlman of Cornwall is a winged humanoid cryptid reported near the village of Mawnan in Cornwall, England, primarily during the years 1976-1978.",
-  "aliases": [],
-  "tags": [
-    "folklore",
-    "mythology"
+  "description": "A winged humanoid cryptid reported around the parish church of St Mawnan and St Stephen in Cornwall, England, in 1976 and a handful of subsequent years. The case is heavily entangled with the self-described wizard and showman Tony 'Doc' Shiels, and is widely considered a hoax or folkloric construction.",
+  "aliases": [
+    {
+      "name": "Owlman of Mawnan",
+      "language": "English",
+      "region": "Cornwall, England"
+    },
+    {
+      "name": "Cornish Owlman",
+      "language": "English",
+      "region": "Cornwall, England"
+    },
+    {
+      "name": "Morgawr's cousin",
+      "language": "English",
+      "region": "Cornwall (popular usage by Tony Shiels)"
+    }
   ],
-  "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "tags": [
+    "winged-humanoid",
+    "cornwall",
+    "mawnan",
+    "1970s",
+    "uk",
+    "cryptid",
+    "hoax-disputed",
+    "doc-shiels"
+  ],
+  "status": "unverified",
+  "regions": [
+    "Cornwall",
+    "South-west England",
+    "Helford River / Falmouth Bay area"
+  ],
+  "origin": "Confined to the immediate vicinity of the parish church of St Mawnan and St Stephen, near Mawnan Smith on the Helford River in south Cornwall, England.",
+  "first_reported": "1976-04-17",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

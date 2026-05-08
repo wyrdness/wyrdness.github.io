@@ -1,16 +1,57 @@
 {
   "id": "iara",
+  "name": "Iara",
   "category": "mythological_creature",
-  "description": "No description available.",
-  "aliases": [],
+  "description": "The Iara is a beautiful freshwater siren of Brazilian folklore, especially associated with the Amazon basin, who lures men into rivers to drown them or condemn them to lasting madness.",
+  "aliases": [
+    {
+      "name": "Uiara",
+      "language": "Portuguese",
+      "region": "Brazil"
+    },
+    {
+      "name": "Yara",
+      "language": "Portuguese",
+      "region": "Brazil"
+    },
+    {
+      "name": "Hiara",
+      "language": "Portuguese",
+      "region": "Brazil"
+    },
+    {
+      "name": "Mãe d'água",
+      "language": "Portuguese",
+      "region": "Brazil",
+      "meaning": "Mother of the Waters"
+    },
+    {
+      "name": "iiyara",
+      "language": "Nheengatu",
+      "meaning": "lord/lady of the water (ií 'water' + yara 'lord/lady')"
+    }
+  ],
   "tags": [
+    "water-spirit",
+    "siren",
+    "mermaid",
+    "amazon",
+    "brazil",
+    "tupi",
     "folklore",
-    "mythology"
+    "south-america"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "Amazon basin",
+    "Amazonas",
+    "Pará",
+    "Maranhão",
+    "Northern Brazil",
+    "Central Brazil"
+  ],
+  "origin": "The Iara figure is distributed across the freshwater systems of Brazil, particularly the Amazon basin and the rivers of the north and central regions. It is largely a Brazilian phenomenon with diffusion through Lusophone South America.",
+  "first_reported": "1851",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

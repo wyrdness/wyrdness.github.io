@@ -1,16 +1,55 @@
 {
   "id": "likho",
+  "name": "Likho",
   "category": "entity_spirit",
-  "description": "No description available.",
-  "aliases": [],
+  "description": "Likho is the Slavic personification of bad luck and evil fate, most often depicted as a one-eyed gaunt old woman in black or, more rarely, as a male forest goblin. It is a fairy-tale figure rather than a major mythological deity, woven into proverbs warning against tempting fate.",
+  "aliases": [
+    {
+      "name": "Лихо",
+      "language": "Russian",
+      "meaning": "evil, misfortune"
+    },
+    {
+      "name": "Лихо",
+      "language": "Ukrainian",
+      "meaning": "evil, misfortune"
+    },
+    {
+      "name": "Лі́ха",
+      "language": "Belarusian"
+    },
+    {
+      "name": "Licho",
+      "language": "Polish"
+    },
+    {
+      "name": "Liho"
+    },
+    {
+      "name": "Lykho"
+    },
+    {
+      "name": "One-eyed Likho",
+      "language": "Russian",
+      "meaning": "Лихо одноглазое — single-eyed personification of misfortune"
+    }
+  ],
   "tags": [
     "folklore",
-    "mythology"
+    "slavic",
+    "fairy-tale",
+    "misfortune",
+    "one-eyed",
+    "personification",
+    "eastern-europe"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "Eastern Europe",
+    "Central Europe"
+  ],
+  "origin": "Likho is a figure of East and West Slavic folklore, most prominent in Russian, Ukrainian, Belarusian, and Polish tradition. The figure is woven into proverbs and fairy tales rather than tied to a specific landscape.",
+  "first_reported": "Pre-modern",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

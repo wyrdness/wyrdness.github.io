@@ -2,16 +2,37 @@
   "id": "loch-ness-monster",
   "name": "Loch Ness Monster",
   "category": "cryptid",
-  "description": "The Loch Ness Monster, affectionately known as \\\"Nessie,\\\" is a cryptid reported to inhabit Loch Ness, a large freshwater lake in the Scottish Highlands.",
-  "aliases": [],
-  "tags": [
-    "folklore",
-    "mythology"
+  "description": "A large aquatic cryptid said to inhabit Loch Ness, a deep freshwater lake in the Scottish Highlands. The most reported lake monster in the world, with a continuous record of sightings since the 1930s and a distant precursor in the 6th-century Life of St. Columba.",
+  "aliases": [
+    {
+      "name": "Nessie",
+      "language": "English",
+      "region": "Scotland",
+      "meaning": "Affectionate diminutive in widespread use from the 1940s onwards"
+    },
+    {
+      "name": "Niseag",
+      "language": "Scottish Gaelic",
+      "region": "Scotland",
+      "meaning": "Gaelic equivalent of 'Nessie'"
+    }
   ],
-  "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "tags": [
+    "lake-monster",
+    "aquatic",
+    "scotland",
+    "freshwater",
+    "long-necked",
+    "europe"
+  ],
+  "status": "active",
+  "regions": [
+    "Scottish Highlands",
+    "Great Glen",
+    "Inverness-shire"
+  ],
+  "origin": "Reports are confined to Loch Ness in the Scottish Highlands, with a minor secondary tradition (the Morag) in the nearby Loch Morar.",
+  "first_reported": "565 CE",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

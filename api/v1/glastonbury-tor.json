@@ -1,17 +1,42 @@
 {
   "id": "glastonbury-tor",
   "name": "Glastonbury Tor",
-  "category": "sacred_site",
-  "description": "Glastonbury Tor is a 158-meter (518-foot) hill that dominates the Somerset Levels landscape in southwest England.",
-  "aliases": [],
-  "tags": [
-    "folklore",
-    "mythology"
+  "category": "location",
+  "description": "A 158-metre (518-foot) conical hill near Glastonbury, Somerset, England, topped by the roofless 14th-century tower of St Michael's Church. Long associated with Arthurian Avalon, with Celtic Otherworld traditions, and with modern earth-mysteries and pilgrimage culture; now a National Trust property.",
+  "aliases": [
+    {
+      "name": "Ynys Wydrin",
+      "language": "Welsh",
+      "meaning": "Isle of Glass"
+    },
+    {
+      "name": "Ynys Gutrin",
+      "language": "Welsh",
+      "meaning": "Isle of Glass"
+    },
+    {
+      "name": "Avalon",
+      "language": "Arthurian tradition",
+      "meaning": "associated by Gerald of Wales (12th century) with Glastonbury and the Tor"
+    }
   ],
-  "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "tags": [
+    "sacred-site",
+    "pilgrimage",
+    "arthurian",
+    "avalon",
+    "ley-lines",
+    "england",
+    "national-trust",
+    "somerset"
+  ],
+  "status": "active",
+  "regions": [
+    "Somerset",
+    "South West England"
+  ],
+  "origin": "A single, fixed location near Glastonbury, Somerset, southwestern England. Cultural and pilgrimage 'distribution' extends across the British Isles and to international neopagan, Goddess-movement, and New Age communities.",
+  "first_reported": "Pre-history",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

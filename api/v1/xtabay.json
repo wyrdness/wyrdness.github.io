@@ -2,16 +2,43 @@
   "id": "xtabay",
   "name": "Xtabay",
   "category": "entity_spirit",
-  "description": "Mayan spirit of a beautiful woman who lures men to their death in the jungle This phenomenon represents an important part of Mayan folklore and cultural heritage, with documented accounts and traditions spanning generations.",
-  "aliases": [],
-  "tags": [
-    "folklore",
-    "mythology"
+  "description": "A Yucatec Maya female spirit said to lurk near ceiba trees at night, appearing as a beautiful woman with very long black hair and luring unfaithful or drunken men to madness, injury, or death deep in the forest.",
+  "aliases": [
+    {
+      "name": "X'tabay",
+      "language": "Yucatec Maya",
+      "region": "Yucatán Peninsula"
+    },
+    {
+      "name": "Xtabai",
+      "language": "Yucatec Maya"
+    },
+    {
+      "name": "La Xtabay",
+      "language": "Spanish",
+      "region": "Yucatán, Quintana Roo, Campeche"
+    }
   ],
-  "status": "documented",
-  "regions": [],
-  "origin": "| Mayan |",
-  "first_reported": "Unknown",
+  "tags": [
+    "maya",
+    "yucatan",
+    "folklore",
+    "seductress-spirit",
+    "ceiba",
+    "moral-tale",
+    "mexico",
+    "central-america"
+  ],
+  "status": "active",
+  "regions": [
+    "Yucatán",
+    "Quintana Roo",
+    "Campeche",
+    "Northern Belize",
+    "Petén"
+  ],
+  "origin": "Yucatec Maya cultural area: the Yucatán Peninsula of Mexico (states of Yucatán, Quintana Roo, Campeche) with extensions into northern Belize and the Petén region of Guatemala.",
+  "first_reported": "Pre-contact",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

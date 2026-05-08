@@ -2,16 +2,35 @@
   "id": "minhocao",
   "name": "Minhocão",
   "category": "cryptid",
-  "description": "The Minhocão (Portuguese for \\\"giant earthworm\\\") is one of Brazil's most enigmatic cryptozoological mysteries—a creature described as an enormous subterranean worm or serpent that allegedly creates tunnels, trenches, and dramatic landscape alterations throughout southern Brazil.",
-  "aliases": [],
-  "tags": [
-    "folklore",
-    "mythology"
+  "description": "A 19th-century Brazilian cryptid reported chiefly in southern Brazil — described as a vast subterranean black-scaled worm or eel-like creature blamed for tunnels, trenches, and toppled trees — investigated by Auguste de Saint-Hilaire (1846) and Fritz Müller (1877–1878) and now generally treated as a folkloric explanation of soil-erosion and slumping events.",
+  "aliases": [
+    {
+      "name": "Minhocão",
+      "language": "Portuguese",
+      "meaning": "'Big earthworm' — augmentative of minhoca ('earthworm')"
+    }
   ],
-  "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "tags": [
+    "cryptid",
+    "south-america",
+    "brazil",
+    "subterranean",
+    "giant-worm",
+    "lungfish",
+    "19th-century",
+    "saint-hilaire",
+    "fritz-muller"
+  ],
+  "status": "historical",
+  "regions": [
+    "Santa Catarina",
+    "Paraná",
+    "São Paulo",
+    "Goiás",
+    "Rio Grande do Sul"
+  ],
+  "origin": "Reports concentrate in southern Brazil (especially Santa Catarina and Paraná around Curitibanos), with secondary reports in Goiás and São Paulo; Saint-Hilaire's accounts also included locations such as Padre Aranda and Lake Feia.",
+  "first_reported": "1846-12-01",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

@@ -1,17 +1,37 @@
 {
   "id": "cropsey",
-  "name": "Cropsey: The Staten Island Boogeyman",
+  "name": "Cropsey",
   "category": "urban_legend",
-  "description": "Cropsey is one of New York's most chilling urban legends—a boogeyman figure who allegedly haunted the abandoned buildings and woods of Staten Island, kidnapping and murdering children.",
-  "aliases": [],
+  "description": "Cropsey is a New York urban legend about a boogeyman figure — originally an escaped mental patient from the abandoned Willowbrook State School — who haunted Staten Island and kidnapped children, later converging with the real crimes of convicted child kidnapper Andre Rand.",
+  "aliases": [
+    {
+      "name": "The Cropsey Maniac",
+      "region": "New York, USA"
+    },
+    {
+      "name": "The Staten Island Boogeyman",
+      "region": "Staten Island, New York, USA"
+    }
+  ],
   "tags": [
-    "folklore",
-    "mythology"
+    "urban-legend",
+    "boogeyman",
+    "new-york",
+    "staten-island",
+    "true-crime",
+    "willowbrook",
+    "serial-killer",
+    "campfire-story",
+    "ostension"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "Staten Island, New York",
+    "Upstate New York",
+    "New York City"
+  ],
+  "origin": "The Cropsey legend is centered on Staten Island, New York, and is also found in upstate New York summer camp traditions. It is primarily a New York regional legend.",
+  "first_reported": "1960-01-01",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

@@ -1,16 +1,56 @@
 {
   "id": "gumiho",
-  "name": "Gumiho (구미호)",
-  "category": "mythological_creature",
-  "description": "The gumiho is a legendary nine-tailed fox from Korean mythology, distinct from its Chinese (huli jing) and Japanese (kitsune) counterparts.",
-  "aliases": [],
+  "name": "Gumiho",
+  "category": "shapeshifter",
+  "description": "The gumiho is a nine-tailed fox spirit of Korean folklore, typically depicted as a shapeshifting woman who feeds on humans — particularly their livers or hearts — to sustain or transform her supernatural existence.",
+  "aliases": [
+    {
+      "name": "구미호",
+      "language": "Korean (Hangul)",
+      "meaning": "'nine-tailed fox'"
+    },
+    {
+      "name": "九尾狐",
+      "language": "Korean (Hanja)",
+      "meaning": "literally 'nine-tail fox'"
+    },
+    {
+      "name": "Kumiho",
+      "language": "Korean (McCune–Reischauer romanization)"
+    },
+    {
+      "name": "Huli jing",
+      "language": "Chinese",
+      "region": "China",
+      "meaning": "Chinese counterpart fox spirit"
+    },
+    {
+      "name": "Kitsune",
+      "language": "Japanese",
+      "region": "Japan",
+      "meaning": "Japanese counterpart fox spirit"
+    },
+    {
+      "name": "Hồ ly tinh",
+      "language": "Vietnamese",
+      "region": "Vietnam",
+      "meaning": "Vietnamese counterpart fox spirit"
+    }
+  ],
   "tags": [
-    "and-themes"
+    "korean-folklore",
+    "fox-spirit",
+    "nine-tailed-fox",
+    "shapeshifter",
+    "east-asian-mythology",
+    "feminine-supernatural"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Korean",
-  "first_reported": "Unknown",
+  "regions": [
+    "Korean Peninsula"
+  ],
+  "origin": "Korean cultural sphere — Korean Peninsula and the Korean diaspora.",
+  "first_reported": "12th–13th century",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

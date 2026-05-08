@@ -1,17 +1,77 @@
 {
   "id": "wild-hunt",
   "name": "Wild Hunt",
-  "category": "|_broader_spirit_category_|",
-  "description": "The **Wild Hunt** is one of the most widespread and enduring supernatural phenomena in European folklore.",
-  "aliases": [],
+  "category": "mythological_creature",
+  "description": "A widespread northern and central European folk motif of a spectral troop of hunters, hounds, and horses tearing through the night sky or wild lands, led by a mythological or legendary figure and often regarded as an omen of war, plague, or death.",
+  "aliases": [
+    {
+      "name": "Wilde Jagd",
+      "language": "German",
+      "region": "Germany"
+    },
+    {
+      "name": "Wütendes Heer",
+      "language": "German",
+      "region": "Germany",
+      "meaning": "Furious Host"
+    },
+    {
+      "name": "Oskoreia",
+      "language": "Norwegian",
+      "region": "Norway",
+      "meaning": "Often interpreted as 'Asgard Ride'"
+    },
+    {
+      "name": "Mesnée d'Hellequin",
+      "language": "Old French",
+      "region": "Northern France"
+    },
+    {
+      "name": "Herlaþing",
+      "language": "Old English",
+      "region": "England",
+      "meaning": "Herla's Assembly / Host"
+    },
+    {
+      "name": "Estantigua",
+      "language": "Spanish",
+      "region": "Iberian Peninsula"
+    },
+    {
+      "name": "Santa Compaña",
+      "language": "Galician",
+      "region": "Galicia, Spain"
+    },
+    {
+      "name": "Cŵn Annwn",
+      "language": "Welsh",
+      "region": "Wales",
+      "meaning": "Hounds of Annwn — the Welsh hellhound counterpart"
+    }
+  ],
   "tags": [
     "folklore",
-    "mythology"
+    "germanic",
+    "celtic",
+    "european",
+    "ghost-host",
+    "spectral-hunt",
+    "death-omen",
+    "winter"
   ],
-  "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "status": "historical",
+  "regions": [
+    "Alps",
+    "Black Forest",
+    "Harz Mountains",
+    "Scandinavian highlands",
+    "Friuli (Benandanti tradition)",
+    "Welsh borderlands",
+    "Galicia",
+    "Brittany"
+  ],
+  "origin": "The Wild Hunt motif spans most of northern, central, and parts of southern Europe, with distinct regional families in Germanic-speaking lands, Scandinavia, the British Isles, France, and Iberia.",
+  "first_reported": "1127",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

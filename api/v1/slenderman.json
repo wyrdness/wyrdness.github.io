@@ -1,17 +1,39 @@
 {
   "id": "slenderman",
-  "name": "Slenderman",
-  "category": "|_broader_category_of_digitally-native_legends_|",
-  "description": "Slenderman is a fictional supernatural entity created on June 10, 2009, by Eric Knudsen (username \\\"Victor Surge\\\") for a Something Awful forum contest challenging users to create paranormal images.",
-  "aliases": [],
+  "name": "Slender Man",
+  "category": "urban_legend",
+  "description": "Slender Man is a fictional supernatural character created by Eric Knudsen ('Victor Surge') on the Something Awful forums on June 10, 2009. He is depicted as an unnaturally tall, thin, faceless figure in a black suit and is one of the foundational figures of digital folklore.",
+  "aliases": [
+    {
+      "name": "Slenderman",
+      "region": "Common single-word spelling"
+    },
+    {
+      "name": "The Operator",
+      "region": "Marble Hornets continuity"
+    },
+    {
+      "name": "Der Großmann",
+      "language": "German (in-fiction)",
+      "meaning": "'The Tall Man' — fictional German backstory invented by users"
+    }
+  ],
   "tags": [
-    "folklore",
-    "mythology"
+    "creepypasta",
+    "internet-folklore",
+    "digital-folklore",
+    "fictional-entity",
+    "horror",
+    "stalker",
+    "tall-thin"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "Internet (Something Awful, 4chan, YouTube, ARG communities)",
+    "Anglophone fan-fiction communities"
+  ],
+  "origin": "As an internet-native fictional entity, Slender Man's 'distribution' is global wherever the anglophone internet reaches. The originating community is North American, but the character has become a globally recognised piece of digital folklore.",
+  "first_reported": "2009-06-10",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

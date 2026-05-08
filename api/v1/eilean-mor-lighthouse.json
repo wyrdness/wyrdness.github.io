@@ -1,17 +1,39 @@
 {
   "id": "eilean-mor-lighthouse",
-  "name": "Eilean Mor Lighthouse Mystery",
+  "name": "Eilean Mòr Lighthouse Mystery",
   "category": "location",
-  "description": "The Eilean Mor Lighthouse mystery is one of the most enduring unsolved disappearances in maritime history.",
-  "aliases": [],
+  "description": "The 1900 disappearance of three lighthouse keepers from the Flannan Isles Lighthouse on Eilean Mòr in the Outer Hebrides, Scotland — most plausibly attributable to a rogue wave during a severe storm.",
+  "aliases": [
+    {
+      "name": "Flannan Isles Lighthouse Mystery",
+      "region": "Scotland"
+    },
+    {
+      "name": "Disappearance of the Flannan Isles keepers"
+    },
+    {
+      "name": "Eilean Mòr disappearance",
+      "language": "Scottish Gaelic"
+    }
+  ],
   "tags": [
-    "folklore",
-    "mythology"
+    "scotland",
+    "lighthouse",
+    "missing-persons",
+    "1900",
+    "outer-hebrides",
+    "maritime-history",
+    "rogue-wave"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "Scotland",
+    "Outer Hebrides",
+    "Flannan Isles",
+    "Western Isles"
+  ],
+  "origin": "Single location: Eilean Mòr (the largest of the Flannan Isles), about 32 km west of the Isle of Lewis in the Outer Hebrides of Scotland.",
+  "first_reported": "1900-12-15",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

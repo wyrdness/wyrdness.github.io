@@ -2,16 +2,45 @@
   "id": "st-elmos-fire",
   "name": "St. Elmo's Fire",
   "category": "atmospheric_phenomenon",
-  "description": "St.",
-  "aliases": [],
+  "description": "A bright blue or violet glow appearing as a brushlike or pointed flame on tall, sharp objects (ship masts, aircraft, lightning rods, mountain peaks) during strong atmospheric electric fields. Long mistaken for a supernatural sign, it is now understood as a corona discharge of ionized air.",
+  "aliases": [
+    {
+      "name": "Corposant",
+      "language": "Portuguese",
+      "meaning": "from corpo santo, 'holy body'"
+    },
+    {
+      "name": "Castor and Pollux",
+      "language": "Latin",
+      "meaning": "Twin flames, the Dioscuri; classical name when seen in pairs"
+    },
+    {
+      "name": "Helena's fire",
+      "language": "Greek",
+      "meaning": "Single flame considered an ill omen in classical sources"
+    },
+    {
+      "name": "Witch fire",
+      "region": "Northern Europe"
+    },
+    {
+      "name": "Hermes' fire",
+      "language": "Greek"
+    }
+  ],
   "tags": [
-    "folklore",
-    "mythology"
+    "atmospheric",
+    "electrical",
+    "plasma",
+    "maritime",
+    "aviation",
+    "thunderstorm",
+    "natural-phenomenon"
   ],
   "status": "documented",
   "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "origin": "Global. Anywhere strong atmospheric electric fields develop near pointed grounded conductors — open ocean storms, thunderstorm cells over land, volcanic plumes, and high-altitude flight.",
+  "first_reported": "1st century AD",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

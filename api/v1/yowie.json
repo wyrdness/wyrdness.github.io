@@ -2,16 +2,95 @@
   "id": "yowie",
   "name": "Yowie",
   "category": "cryptid",
-  "description": "The Yowie is a large, ape-like bipedal creature reported throughout Australia, particularly in eastern regions.",
-  "aliases": [],
-  "tags": [
-    "folklore",
-    "mythology"
+  "description": "The Yowie is an Australian hairy bipedal hominid cryptid with deep roots in Aboriginal oral tradition and a continuous record of European-language sightings stretching back to the 19th century. It is widely treated as the Australian counterpart of Bigfoot.",
+  "aliases": [
+    {
+      "name": "Yō-wī",
+      "language": "Gamilaraay",
+      "region": "northern New South Wales",
+      "meaning": "a spirit that roams the earth at night (rec. Ridley 1875)"
+    },
+    {
+      "name": "Quinkin",
+      "language": "Aboriginal Australian (Cape York)",
+      "region": "Queensland"
+    },
+    {
+      "name": "Joogabinna",
+      "region": "Queensland"
+    },
+    {
+      "name": "Doolaga / Doolagahl",
+      "region": "New South Wales"
+    },
+    {
+      "name": "Ghindaring",
+      "region": "New South Wales"
+    },
+    {
+      "name": "Jurrawarra",
+      "region": "New South Wales"
+    },
+    {
+      "name": "Myngawin",
+      "region": "New South Wales"
+    },
+    {
+      "name": "Puttikan",
+      "region": "New South Wales"
+    },
+    {
+      "name": "Gulaga",
+      "region": "New South Wales"
+    },
+    {
+      "name": "Thoolagal",
+      "region": "New South Wales"
+    },
+    {
+      "name": "Tjangara",
+      "region": "Aboriginal Australia"
+    },
+    {
+      "name": "Pangkarlangu",
+      "region": "Aboriginal Australia"
+    },
+    {
+      "name": "Jimbra",
+      "region": "Western Australia"
+    },
+    {
+      "name": "Wawee"
+    },
+    {
+      "name": "Noocoonah"
+    },
+    {
+      "name": "Yahoo",
+      "region": "Colonial-era English-language press, southeastern Australia"
+    }
   ],
-  "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "tags": [
+    "cryptid",
+    "humanoid",
+    "bipedal",
+    "hominid",
+    "australia",
+    "outback",
+    "aboriginal",
+    "wildman"
+  ],
+  "status": "active",
+  "regions": [
+    "Queensland (Gold Coast hinterland, Springbrook, Gympie, Cape York)",
+    "New South Wales (Blue Mountains, NSW south coast, north coast)",
+    "Australian Capital Territory (Brindabella Ranges)",
+    "Northern Territory (Acacia Hills)",
+    "Victoria",
+    "Western Australia"
+  ],
+  "origin": "Reports occur across most of mainland Australia, with the heaviest contemporary clustering in southeast Queensland (notably the Gold Coast hinterland and Springbrook), the Blue Mountains and Brindabella Ranges of New South Wales and the Australian Capital Territory, and pockets of the Northern Territory. Aboriginal traditions of comparable beings are recorded across the continent.",
+  "first_reported": "1875",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

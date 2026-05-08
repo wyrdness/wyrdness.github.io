@@ -1,17 +1,36 @@
 {
   "id": "haarp",
-  "name": "HAARP - High-frequency Active Auroral Research Program Conspiracy Theories",
+  "name": "HAARP Conspiracy Theories",
   "category": "conspiracy_theory",
-  "description": "HAARP (High-frequency Active Auroral Research Program) is a real scientific research facility in Gakona, Alaska, that has become the subject of numerous conspiracy theories claiming it serves as a secret weapon for weather modification, mind control, earthquake generation, or other nefarious purposes.",
-  "aliases": [],
-  "tags": [
-    "folklore",
-    "mythology"
+  "description": "HAARP is a real ionospheric research facility near Gakona, Alaska, but it has become the focus of a long-running set of conspiracy theories that allege it is a secret weather-modification, mind-control, or earthquake-generation weapon.",
+  "aliases": [
+    {
+      "name": "HAARP",
+      "language": "English (acronym)",
+      "meaning": "High-frequency Active Auroral Research Program"
+    },
+    {
+      "name": "the Gakona Array",
+      "region": "Alaska, USA"
+    }
   ],
-  "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "tags": [
+    "conspiracy-theory",
+    "ionosphere",
+    "weather-modification",
+    "mind-control",
+    "darpa",
+    "alaska",
+    "united-states",
+    "pseudoscience"
+  ],
+  "status": "active",
+  "regions": [
+    "Gakona, Alaska (real)",
+    "global online conspiracy networks"
+  ],
+  "origin": "Conspiracy theory primarily anglophone with substantial Latin American (Spanish), Russian, and Chinese-language uptake. Real facility is in Alaska.",
+  "first_reported": "1995",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

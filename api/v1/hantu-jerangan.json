@@ -1,17 +1,28 @@
 {
   "id": "hantu-jerangan",
-  "name": "Hantu Jerangan: The Fishing Net Ghost of Malaysia",
-  "category": "of_hantu_(spirits_or_ghosts),_specifically_those_associated_with_water_and_the_sea._malaysian_folklore_recognizes_numerous_types_of_hantu,_each_with_specific_characteristics,_habitats,_and_behaviors._water-related_hantu_are_particularly_significant_in_a_nation_where_fishing_and_maritime_trade_have_been_central_to_culture_and_economy_for_millennia._the_hantu_jerangan_specifically_embodies_the_treacherous_nature_of_fishing—an_occupation_that,",
-  "description": "The Hantu Jerangan represents one of the most distinctive and feared supernatural entities in Malaysian coastal folklore, embodying the dangers of the sea and the perils faced by fishing communities.",
-  "aliases": [],
+  "name": "Hantu Jerangan",
+  "category": "entity_spirit",
+  "description": "Hantu Jerangan is a regional Malay fishing-community spirit said to be associated with fishing nets and unexplained drownings at sea. It is a relatively obscure figure within the broader hantu taxonomy and is documented mainly in coastal Malaysian oral tradition rather than in major published ethnographies.",
+  "aliases": [
+    {
+      "name": "Fishing-net ghost",
+      "language": "English",
+      "meaning": "Common English gloss"
+    }
+  ],
   "tags": [
-    "folklore",
-    "mythology"
+    "malay-folklore",
+    "maritime",
+    "fishing",
+    "hantu",
+    "regional-tradition"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "Coastal Peninsular Malaysia"
+  ],
+  "origin": "Coastal Malaysian fishing communities; not well documented in academic sources outside this region.",
+  "first_reported": "Modern oral tradition",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

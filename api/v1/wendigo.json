@@ -2,16 +2,67 @@
   "id": "wendigo",
   "name": "Wendigo",
   "category": "entity_spirit",
-  "description": "The Wendigo (also spelled Windigo, Witiko, Wiindigoo) is a malevolent spirit or supernatural being central to the spiritual traditions of Algonquian-speaking peoples, including the Ojibwe, Cree, Innu, Algonquin, and related nations of northern North America.",
-  "aliases": [],
+  "description": "A malevolent spirit-being central to the traditions of Algonquian-speaking peoples of northern North America, embodying winter, famine, greed, and the gravest taboo of cannibalism; humans who break that taboo are said to risk transformation into a wendigo.",
+  "aliases": [
+    {
+      "name": "Windigo",
+      "language": "Anishinaabemowin / English (variant)",
+      "region": "Ojibwe regions"
+    },
+    {
+      "name": "Wiindigoo",
+      "language": "Anishinaabemowin (Ojibwe)",
+      "region": "Ojibwe homelands"
+    },
+    {
+      "name": "Wīhtikōw",
+      "language": "Cree",
+      "region": "Cree territories"
+    },
+    {
+      "name": "Witiko",
+      "language": "Cree (variant transliteration)",
+      "region": "Cree territories"
+    },
+    {
+      "name": "Wetiko",
+      "language": "Cree (variant)",
+      "region": "Cree territories"
+    },
+    {
+      "name": "Atchen / Atshen",
+      "language": "Innu (Naskapi/Montagnais)",
+      "region": "Quebec/Labrador"
+    }
+  ],
   "tags": [
+    "algonquian",
+    "ojibwe",
+    "cree",
+    "innu",
+    "north-america",
+    "winter",
+    "cannibal",
+    "spirit",
     "folklore",
-    "mythology"
+    "mythology",
+    "indigenous"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "Boreal forest / taiga",
+    "Ontario",
+    "Manitoba",
+    "Quebec",
+    "Labrador",
+    "Saskatchewan",
+    "Alberta",
+    "Minnesota",
+    "Wisconsin",
+    "Michigan (Upper Peninsula)"
+  ],
+  "origin": "Pan-Algonquian, with strongest presence in the boreal-forest territories of the Ojibwe, Cree, Innu, Algonquin, and Saulteaux peoples across central and eastern Canada and the upper Midwest of the United States.",
+  "first_reported": "Pre-contact",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

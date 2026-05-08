@@ -1,17 +1,64 @@
 {
   "id": "succubus-incubus",
-  "name": "Succubus/Incubus",
-  "category": "|_general_demonic_entities_|",
-  "description": "Succubus (female) and Incubus (male) are demons from medieval Christian demonology that seduce humans during sleep, drain life force through sexual encounters, and sometimes steal semen or impregnate victims.",
-  "aliases": [],
+  "name": "Succubus / Incubus",
+  "category": "demon_angel",
+  "description": "In medieval Christian demonology, the succubus (female) and incubus (male) are demons that seduce humans during sleep through sexual encounters, draining their life force; the tradition appears globally under various names and is now understood to be closely associated with sleep paralysis and hypnagogic hallucinations.",
+  "aliases": [
+    {
+      "name": "Succuba",
+      "language": "Latin",
+      "meaning": "paramour; one who lies beneath"
+    },
+    {
+      "name": "Incubus",
+      "language": "Latin",
+      "meaning": "one who lies on top"
+    },
+    {
+      "name": "Lilith",
+      "language": "Hebrew",
+      "region": "Near East",
+      "meaning": "night demon associated with sexual predation"
+    },
+    {
+      "name": "Mara",
+      "language": "Old Norse / Germanic",
+      "region": "Northern Europe",
+      "meaning": "nightmare spirit that rides sleeping persons"
+    },
+    {
+      "name": "Alp",
+      "language": "German",
+      "region": "Central Europe",
+      "meaning": "nightmare demon; elf"
+    },
+    {
+      "name": "Cambion",
+      "language": "Medieval Latin",
+      "meaning": "offspring of a demon and human"
+    }
+  ],
   "tags": [
+    "demon",
+    "nocturnal",
     "folklore",
-    "mythology"
+    "medieval",
+    "sleep-paralysis",
+    "sexual-entity",
+    "shapeshifter",
+    "europe",
+    "demonology"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "Western Europe (medieval demonological tradition)",
+    "Central Europe (Alp tradition)",
+    "Scandinavia (Mara tradition)",
+    "Near East (Lilith tradition)",
+    "West Africa (incubus analogues)"
+  ],
+  "origin": "The succubus/incubus tradition is found throughout medieval Europe and has functional analogues in cultures worldwide. The specific Christian demonological framework is primarily European (especially Western and Central Europe), but similar nocturnal sexual demon traditions appear across the Middle East, Africa, and Asia.",
+  "first_reported": "Ancient",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

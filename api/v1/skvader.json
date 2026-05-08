@@ -1,16 +1,31 @@
 {
   "id": "skvader",
+  "name": "Skvader",
   "category": "cryptid",
-  "description": "No description available.",
-  "aliases": [],
+  "description": "The skvader is a Swedish fictional taxidermy creature combining the front half of a European hare with the back, wings, and tail of a female western capercaillie (wood grouse). It originated in a tall tale by Håkan Dahlmark and was constructed by taxidermist Rudolf Granberg in 1918.",
+  "aliases": [
+    {
+      "name": "Tetrao lepus pseudo-hybridus rarissimus",
+      "language": "Latin (joke binomial)",
+      "meaning": "Mock scientific name given to the taxidermy specimen"
+    }
+  ],
   "tags": [
-    "folklore",
-    "mythology"
+    "swedish-folklore",
+    "taxidermy",
+    "tall-tale",
+    "hare",
+    "wood-grouse",
+    "sundsvall",
+    "hoax-tradition"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "Medelpad",
+    "Sundsvall"
+  ],
+  "origin": "The skvader is a place-bound cultural artefact of the Medelpad province in central Sweden, with the original specimen on permanent display at the Norra Berget museum in Sundsvall.",
+  "first_reported": "1874",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

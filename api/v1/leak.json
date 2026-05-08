@@ -1,17 +1,42 @@
 {
   "id": "leak",
-  "name": "Leak - The Balinese Witch-Spirit",
-  "category": "spirit_/_supernatural",
-  "description": "The **leak** (pronounced \\\"LAY-ahk,\\\" also spelled **leyak** or **liak**) is one of Bali's most feared and fascinating supernatural entities.",
-  "aliases": [],
-  "tags": [
-    "folklore",
-    "mythology"
+  "name": "Leak",
+  "category": "undead",
+  "description": "The Leak (Balinese: Leyak) is a flying-head witch-spirit of Balinese folklore: a practitioner of black magic whose head detaches at night from her body, trailing entrails, to hunt blood — particularly that of pregnant women and newborns. The Leyak serve the witch-queen Rangda.",
+  "aliases": [
+    {
+      "name": "Leyak",
+      "language": "Balinese",
+      "region": "Bali, Indonesia"
+    },
+    {
+      "name": "Leya",
+      "language": "Balinese (older spelling)"
+    },
+    {
+      "name": "ᬮᬾᬬᬓ᭄",
+      "language": "Balinese script"
+    }
   ],
-  "status": "documented",
-  "regions": [],
-  "origin": "| Balinese primarily | Malay/Javanese |",
-  "first_reported": "Unknown",
+  "tags": [
+    "bali",
+    "indonesia",
+    "balinese",
+    "black-magic",
+    "witch",
+    "flying-head",
+    "rangda",
+    "barong",
+    "vampiric"
+  ],
+  "status": "active",
+  "regions": [
+    "Bali",
+    "Lombok",
+    "Java"
+  ],
+  "origin": "Centred in Bali, Indonesia, with extension to Lombok and Java; the wider Southeast Asian female-vampire complex (Krasue, Penanggalan, Manananggal) shares the detached-head motif.",
+  "first_reported": "Pre-modern",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

@@ -1,17 +1,42 @@
 {
   "id": "grey-lady",
   "name": "Grey Lady",
-  "category": "ghost",
-  "description": "The Grey Lady is a widespread archetype of ghost appearing throughout European and American folklore, characterized by a female apparition dressed in grey or silver garments.",
-  "aliases": [],
+  "category": "ghost_haunting",
+  "description": "'Grey Lady' is a recurring archetype in British, North American, and broader anglophone ghost-lore: a female apparition dressed in grey, usually associated with a specific historic building and a tragic backstory.",
+  "aliases": [
+    {
+      "name": "Gray Lady",
+      "language": "American English",
+      "meaning": "spelling variant"
+    },
+    {
+      "name": "The Grey Lady",
+      "region": "British Isles",
+      "meaning": "common definite-article form"
+    },
+    {
+      "name": "Lady in Grey",
+      "language": "English"
+    }
+  ],
   "tags": [
-    "folklore",
-    "mythology"
+    "ghost",
+    "apparition",
+    "female",
+    "haunted-location",
+    "british-folklore",
+    "americana"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "England",
+    "Scotland",
+    "Northern Ireland",
+    "New England and the Midwest US",
+    "Otago"
+  ],
+  "origin": "Anglophone world, with concentrations in the British Isles and North America. The Wikipedia disambiguation page lists Grey Lady ghosts in England, Northern Ireland, Malta, New Zealand, and the United States.",
+  "first_reported": "19th century",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

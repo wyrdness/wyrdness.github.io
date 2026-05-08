@@ -2,16 +2,69 @@
   "id": "skyquakes",
   "name": "Skyquakes",
   "category": "atmospheric_phenomenon",
-  "description": "Skyquakes are unexplained loud booming sounds that seem to come from the sky or horizon, reported throughout human history and across all inhabited continents.",
-  "aliases": [],
-  "tags": [
-    "folklore",
-    "mythology"
+  "description": "Skyquakes are unexplained loud booming sounds, often resembling cannon fire or thunder, reported around the world — typically in clear weather, with no obvious source, and frequently along coastlines and large bodies of water.",
+  "aliases": [
+    {
+      "name": "Mistpouffers",
+      "language": "Dutch / Flemish",
+      "region": "North Sea coast (Belgium, Netherlands)"
+    },
+    {
+      "name": "Barisal Guns",
+      "region": "Ganges Delta, Bangladesh / India"
+    },
+    {
+      "name": "Uminari",
+      "language": "Japanese",
+      "region": "Coastal Japan",
+      "meaning": "'cries from the sea'"
+    },
+    {
+      "name": "Seneca Guns",
+      "region": "Seneca Lake, New York and the Carolinas, USA"
+    },
+    {
+      "name": "Bombes de mer / Canons de mer",
+      "language": "French",
+      "region": "France"
+    },
+    {
+      "name": "Brontidi / Marina / Balza",
+      "language": "Italian",
+      "region": "Italy"
+    },
+    {
+      "name": "Cielomoto",
+      "language": "Spanish",
+      "region": "Latin America and Spain",
+      "meaning": "'sky-quake'"
+    },
+    {
+      "name": "Dentuman",
+      "language": "Indonesian",
+      "region": "Indonesia"
+    }
   ],
-  "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "tags": [
+    "atmospheric",
+    "acoustic",
+    "boom",
+    "global",
+    "unexplained-sounds",
+    "infrasound"
+  ],
+  "status": "active",
+  "regions": [
+    "North Sea coast",
+    "Ganges Delta",
+    "Finger Lakes (New York)",
+    "Carolina coast (USA)",
+    "Bay of Fundy",
+    "Lough Neagh",
+    "Coastal Japan"
+  ],
+  "origin": "Reported globally on all inhabited continents, with notable historical clusters along the North Sea, the Ganges Delta of Bangladesh, the Finger Lakes and U.S. East Coast, coastal Japan, and parts of Italy and Indonesia.",
+  "first_reported": "1804",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

@@ -1,17 +1,36 @@
 {
   "id": "mary-celeste",
-  "name": "The Mary Celeste: The Abandoned Ship Mystery",
-  "category": "3:_most_likely_explanation",
-  "description": "The Mary Celeste is one of maritime history's most enduring mysteries.",
-  "aliases": [],
-  "tags": [
-    "folklore",
-    "mythology"
+  "name": "Mary Celeste",
+  "category": "anomaly",
+  "description": "An American brigantine found drifting in good order but completely abandoned in the Atlantic east of the Azores on 4 December 1872; her ten-person company — Captain Benjamin Briggs, his wife and infant daughter, and seven crew — were never seen again.",
+  "aliases": [
+    {
+      "name": "Marie Celeste",
+      "language": "English",
+      "meaning": "Misspelling popularised by Arthur Conan Doyle's 1884 short story 'J. Habakuk Jephson's Statement'"
+    },
+    {
+      "name": "Amazon",
+      "language": "English",
+      "meaning": "Original name of the brigantine before her 1868 sale and renaming"
+    }
   ],
-  "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "tags": [
+    "ghost-ship",
+    "maritime",
+    "atlantic",
+    "1872",
+    "abandoned-vessel",
+    "azores",
+    "unsolved"
+  ],
+  "status": "historical",
+  "regions": [
+    "North Atlantic Ocean",
+    "Azores"
+  ],
+  "origin": "The events occurred in the central North Atlantic, with the abandonment somewhere east of the Azores. The ship was found at approximately 38°20′N 17°15′W, midway between the Azores and the Portuguese coast.",
+  "first_reported": "1872-12-04",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

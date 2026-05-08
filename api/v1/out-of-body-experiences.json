@@ -1,17 +1,48 @@
 {
   "id": "out-of-body-experiences",
   "name": "Out-of-Body Experiences",
-  "category": "psychic_phenomena_/_consciousness",
-  "description": "Out-of-Body Experiences (OBEs) are sensations of consciousness separating from the physical body, allowing perception from an external vantage point.",
-  "aliases": [],
+  "category": "psychic_phenomena",
+  "description": "Out-of-body experiences (OBEs) are sensations in which a person perceives their consciousness to have separated from the physical body, allowing perception from an external vantage point. Roughly one in ten people report at least one OBE during their lifetime.",
+  "aliases": [
+    {
+      "name": "OBE",
+      "language": "English",
+      "meaning": "Abbreviation for Out-of-Body Experience"
+    },
+    {
+      "name": "OOBE",
+      "language": "English",
+      "meaning": "Out-Of-Body Experience (variant abbreviation)"
+    },
+    {
+      "name": "Astral projection",
+      "language": "English",
+      "meaning": "Paranormal framing: the soul or astral body voluntarily leaving the physical body"
+    },
+    {
+      "name": "Autoscopy",
+      "language": "Medical/English",
+      "meaning": "Clinical term for seeing one's own body from an external vantage point"
+    },
+    {
+      "name": "Bilocation",
+      "language": "English",
+      "meaning": "Reported experience of being in two places simultaneously"
+    }
+  ],
   "tags": [
-    "folklore",
-    "mythology"
+    "consciousness",
+    "altered-state",
+    "neuroscience",
+    "near-death",
+    "sleep-paralysis",
+    "psychic",
+    "global"
   ],
   "status": "documented",
   "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "origin": "Reported across all human cultures and throughout recorded history. Cross-cultural survey data suggest approximately 10% of the global population reports at least one OBE.",
+  "first_reported": "Pre-modern",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

@@ -2,16 +2,36 @@
   "id": "spontaneous-human-combustion",
   "name": "Spontaneous Human Combustion",
   "category": "anomaly",
-  "description": "Spontaneous Human Combustion (SHC) refers to reported cases where human bodies have allegedly burned without an apparent external ignition source.",
-  "aliases": [],
-  "tags": [
-    "folklore",
-    "mythology"
+  "description": "Reported deaths in which a human body is severely burned, often reduced to ash, with little damage to the surroundings and no obvious external ignition source. Modern forensic science treats these cases as conventional fires propagated by the 'wick effect'.",
+  "aliases": [
+    {
+      "name": "SHC",
+      "meaning": "Common abbreviation"
+    },
+    {
+      "name": "Preternatural combustibility",
+      "meaning": "Older medical literature term, 19th century"
+    }
   ],
-  "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "tags": [
+    "fire",
+    "death",
+    "forensic",
+    "wick-effect",
+    "victorian",
+    "pseudoscience"
+  ],
+  "status": "debunked",
+  "regions": [
+    "United Kingdom",
+    "Ireland",
+    "Italy",
+    "France",
+    "Germany",
+    "United States"
+  ],
+  "origin": "Reported cases cluster in Europe (especially Britain, Ireland, France, Italy, Germany) and North America from the 17th century onward; isolated cases elsewhere.",
+  "first_reported": "1731",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

@@ -2,15 +2,55 @@
   "id": "illuminati",
   "name": "Illuminati",
   "category": "conspiracy_theory",
-  "description": "The Illuminati conspiracy theory claims that a secret elite society controls world governments, finance, media, and entertainment.",
-  "aliases": [],
-  "tags": [
-    "for-aesthetic/provocative-purposes"
+  "description": "The Illuminati refers both to a real secret society founded in Bavaria in 1776 (suppressed by 1785) and to the enduring conspiracy theory claiming that organization secretly survived to control world governments, finance, and media.",
+  "aliases": [
+    {
+      "name": "Bavarian Illuminati",
+      "language": "English",
+      "region": "Global",
+      "meaning": "Historical secret society founded in Bavaria in 1776"
+    },
+    {
+      "name": "Illuminatenorden",
+      "language": "German",
+      "region": "Bavaria",
+      "meaning": "Order of the Illuminated Ones"
+    },
+    {
+      "name": "Bund der Perfektibilisten",
+      "language": "German",
+      "region": "Bavaria",
+      "meaning": "Covenant of Perfectibility (original name, 1776–1778)"
+    },
+    {
+      "name": "The Order",
+      "language": "English",
+      "region": "Global",
+      "meaning": "Shorthand used in conspiracy literature"
+    }
   ],
-  "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "tags": [
+    "conspiracy",
+    "secret-society",
+    "bavaria",
+    "18th-century",
+    "new-world-order",
+    "historical",
+    "weishaupt",
+    "freemasonry",
+    "french-revolution"
+  ],
+  "status": "historical",
+  "regions": [
+    "Bavaria",
+    "Ingolstadt",
+    "Munich",
+    "Vienna",
+    "Warsaw",
+    "Milan"
+  ],
+  "origin": "The historical society operated in Bavaria and spread to central Europe. The conspiracy theory is globally distributed.",
+  "first_reported": "1776-05-01",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

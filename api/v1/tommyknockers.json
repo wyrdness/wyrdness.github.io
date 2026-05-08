@@ -2,16 +2,51 @@
   "id": "tommyknockers",
   "name": "Tommyknockers",
   "category": "fae_folklore",
-  "description": "Tommyknockers are American mine spirits, an Americanization of the Cornish \\\"knockers\\\" brought to the United States by Cornish immigrant miners in the 19th century.",
-  "aliases": [],
+  "description": "An American mining spirit of Cornish origin, brought to the United States by Welsh and Cornish immigrant miners in the 19th century. Described as a small, bearded, mining-clothed figure whose knocking on mine walls warns miners of collapse or guides them to ore.",
+  "aliases": [
+    {
+      "name": "Knocker",
+      "language": "Cornish English",
+      "region": "Cornwall and Devon, England",
+      "meaning": "Mine-dwelling spirit knocking on rock"
+    },
+    {
+      "name": "Knacker",
+      "language": "Cornish English",
+      "region": "Cornwall, England"
+    },
+    {
+      "name": "Bucca",
+      "language": "Cornish",
+      "region": "Cornwall, England"
+    },
+    {
+      "name": "Coblyn",
+      "language": "Welsh",
+      "region": "Wales"
+    }
+  ],
   "tags": [
-    "folklore",
-    "mythology"
+    "mining-folklore",
+    "cornish-tradition",
+    "american-mining",
+    "knocker",
+    "underground-spirit",
+    "industrial-folklore"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "Cornwall",
+    "Devon",
+    "Wales",
+    "Pennsylvania anthracite region",
+    "Colorado",
+    "Nevada",
+    "California",
+    "Michigan Upper Peninsula"
+  ],
+  "origin": "Original tradition in Cornwall and Devon, England, and Wales; carried by Cornish and Welsh immigrant miners to the eastern United States from the 1820s and to the American West following gold and silver rushes.",
+  "first_reported": "Pre-19th century",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

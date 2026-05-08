@@ -1,17 +1,40 @@
 {
   "id": "sundel-bolong",
-  "name": "Sundel Bolong - The Hollow-Backed Ghost of Indonesian Folklore",
+  "name": "Sundel Bolong",
   "category": "ghost_haunting",
-  "description": "The **sundel bolong** (also written as **sundal bolong** or **sondel bolong**) is one of Indonesia's most terrifying and distinctive female ghosts.",
-  "aliases": [],
+  "description": "The Sundel Bolong is a female ghost from Indonesian (primarily Javanese) folklore, defined by a large hole in her back; she is the spirit of a woman who died pregnant or in childbirth under shameful circumstances and takes revenge on men and abducts infants.",
+  "aliases": [
+    {
+      "name": "Sundal Bolong",
+      "language": "Indonesian/Javanese",
+      "meaning": "alternate spelling; 'sundal' (prostitute/whore) + 'bolong' (hole)"
+    },
+    {
+      "name": "Sondel Bolong",
+      "language": "Indonesian",
+      "meaning": "dialectal variant spelling"
+    }
+  ],
   "tags": [
+    "ghost",
+    "female-spirit",
+    "indonesia",
+    "java",
     "folklore",
-    "mythology"
+    "undead",
+    "pregnancy",
+    "southeast-asia",
+    "vengeful-spirit"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Indonesian (particularly Java, Sumatra, and throughout the archipelago)",
-  "first_reported": "Unknown",
+  "regions": [
+    "Java",
+    "Sumatra",
+    "Kalimantan",
+    "Indonesian archipelago broadly"
+  ],
+  "origin": "Indonesian folklore, centered in Java but present throughout the archipelago including Sumatra, Kalimantan, and other islands.",
+  "first_reported": "Pre-modern",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

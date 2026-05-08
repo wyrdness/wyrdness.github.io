@@ -2,16 +2,73 @@
   "id": "siguanaba",
   "name": "La Siguanaba",
   "category": "ghost_haunting",
-  "description": "Ghostly woman who appears beautiful from behind but has a horrific face, punishing unfaithful men This phenomenon represents an important part of Central American folklore and cultural heritage, with documented accounts and traditions spanning generations.",
-  "aliases": [],
+  "description": "La Siguanaba is a shapeshifting female spirit of Central American folklore who appears to lone travellers — typically unfaithful or wayward men — as a beautiful long-haired woman seen from behind, then turns to reveal a horrifying face (a horse skull or a death's head). She lures her victims to ravines or rivers, where they may be driven mad or killed.",
+  "aliases": [
+    {
+      "name": "Siguanaba",
+      "language": "Spanish",
+      "region": "El Salvador, Guatemala"
+    },
+    {
+      "name": "Sihuanaba",
+      "language": "Spanish (alt.)",
+      "region": "El Salvador, Guatemala"
+    },
+    {
+      "name": "Ciguanaba",
+      "language": "Spanish (alt.)",
+      "region": "El Salvador"
+    },
+    {
+      "name": "Sihuehuet",
+      "language": "Nahuat (Pipil)",
+      "region": "El Salvador (Cuscatlán)",
+      "meaning": "'beautiful woman' — her original name in Salvadoran Cuscatleca tradition"
+    },
+    {
+      "name": "Cigua",
+      "language": "Spanish (from Nahuatl cihuatl 'woman')",
+      "region": "Honduras and Nicaragua"
+    },
+    {
+      "name": "Cegua",
+      "language": "Spanish",
+      "region": "Costa Rica"
+    },
+    {
+      "name": "La Sucia",
+      "language": "Spanish",
+      "region": "Honduras",
+      "meaning": "'the dirty one'"
+    },
+    {
+      "name": "Macihuatli",
+      "language": "Nahuatl",
+      "region": "parts of Mexico"
+    }
+  ],
   "tags": [
+    "central-america",
     "folklore",
-    "mythology"
+    "shapeshifter",
+    "vengeful-spirit",
+    "el-salvador",
+    "guatemala",
+    "honduras",
+    "nicaragua",
+    "costa-rica",
+    "nahuat-pipil"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "| Central American |",
-  "first_reported": "Unknown",
+  "regions": [
+    "Cuscatlán (El Salvador)",
+    "Pacific Guatemala",
+    "rural Honduras",
+    "rural Nicaragua",
+    "Costa Rican countryside"
+  ],
+  "origin": "Central American folklore from southern Mexico to Costa Rica, with regional variants in El Salvador, Guatemala, Honduras, Nicaragua, and Costa Rica.",
+  "first_reported": "Pre-Columbian (oral)",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

@@ -1,17 +1,33 @@
 {
   "id": "mandela-effect",
   "name": "Mandela Effect",
-  "category": "|_individual_false_memories_(studied_since_1970s)_|",
-  "description": "The **Mandela Effect** is a phenomenon where large groups of people share identical false memories of events, facts, or details that differ from documented reality.",
-  "aliases": [],
+  "category": "psychic_phenomena",
+  "description": "A phenomenon in which large numbers of people share a confidently held but factually incorrect memory. Named by Fiona Broome in 2009 after the widespread false memory of Nelson Mandela having died in prison in the 1980s — Mandela was in fact released in 1990 and died in 2013.",
+  "aliases": [
+    {
+      "name": "Collective false memory",
+      "language": "English"
+    },
+    {
+      "name": "Shared confabulation",
+      "language": "English"
+    }
+  ],
   "tags": [
-    "folklore",
-    "mythology"
+    "memory",
+    "false-memory",
+    "internet-culture",
+    "psychology",
+    "confabulation",
+    "parallel-universes",
+    "mandela"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "Internet-mediated cultural sphere"
+  ],
+  "origin": "Reported globally wherever there is a shared culture and a strong online discussion community; most documentation is in English-language media.",
+  "first_reported": "2009",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

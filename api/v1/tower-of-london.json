@@ -1,17 +1,41 @@
 {
   "id": "tower-of-london",
-  "name": "Tower of London - Britain's Most Haunted Fortress",
+  "name": "Tower of London",
   "category": "location",
-  "description": "The **Tower of London** is a historic castle on the north bank of the River Thames in central London, England.",
-  "aliases": [],
-  "tags": [
-    "folklore",
-    "mythology"
+  "description": "A historic royal castle on the north bank of the Thames in London, founded in 1066 by William the Conqueror. With a millennium of executions, imprisonments, and political violence, it is among the most-reported haunted sites in the United Kingdom.",
+  "aliases": [
+    {
+      "name": "His Majesty's Royal Palace and Fortress of the Tower of London",
+      "language": "English",
+      "meaning": "Full official name"
+    },
+    {
+      "name": "The Tower",
+      "language": "English"
+    },
+    {
+      "name": "White Tower",
+      "language": "English",
+      "meaning": "Original Norman keep at the centre of the complex"
+    }
   ],
-  "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "tags": [
+    "haunted-location",
+    "england",
+    "london",
+    "royal-fortress",
+    "execution-site",
+    "unesco",
+    "anne-boleyn",
+    "ghost-history"
+  ],
+  "status": "active",
+  "regions": [
+    "England",
+    "Greater London"
+  ],
+  "origin": "A single fixed historic site of approximately 12 acres on the north bank of the Thames, central London.",
+  "first_reported": "1066",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

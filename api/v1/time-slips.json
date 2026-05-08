@@ -2,16 +2,39 @@
   "id": "time-slips",
   "name": "Time Slips",
   "category": "anomaly",
-  "description": "Time slips are reported anomalous experiences where individuals claim to have temporarily experienced a different time period, typically the past.",
-  "aliases": [],
-  "tags": [
-    "folklore",
-    "mythology"
+  "description": "An anomalous experience in which a percipient apparently perceives, or briefly enters, a different time period (most often the past) before returning to the present without the passage of normal time.",
+  "aliases": [
+    {
+      "name": "Retrocognition",
+      "language": "English",
+      "meaning": "Apparent perception of a past event"
+    },
+    {
+      "name": "Temporal Anomaly",
+      "language": "English"
+    },
+    {
+      "name": "Time Slip Experience",
+      "language": "English"
+    }
   ],
-  "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "tags": [
+    "temporal-anomaly",
+    "retrocognition",
+    "psychical-research",
+    "anomalous-experience",
+    "haunting",
+    "consciousness"
+  ],
+  "status": "unverified",
+  "regions": [
+    "England",
+    "Île-de-France",
+    "American Southwest",
+    "Northeastern United States"
+  ],
+  "origin": "Reported worldwide; the largest published clusters are in the United Kingdom (Versailles in France, Liverpool, Wiltshire, Norfolk) and the United States.",
+  "first_reported": "1901-08-10",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

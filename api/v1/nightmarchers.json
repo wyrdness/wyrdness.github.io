@@ -1,17 +1,41 @@
 {
   "id": "nightmarchers",
   "name": "Night Marchers",
-  "category": "|_broader_spirit_category_|",
-  "description": "The **Night Marchers** (Hawaiian: **Huaka'i pō**, \\\"spirit procession\\\") are ghostly processions of ancient Hawaiian warriors' spirits who march from dusk to dawn along sacred paths throughout the Hawaiian Islands.",
-  "aliases": [],
+  "category": "ghost_haunting",
+  "description": "Spectral processions of ancient Hawaiian warriors said to march along ancient trails in the islands at night, escorting deceased aliʻi and dangerous to mortals who look upon them.",
+  "aliases": [
+    {
+      "name": "Huakaʻi pō",
+      "language": "Hawaiian",
+      "meaning": "'Procession of the night'"
+    },
+    {
+      "name": "ʻOiʻo",
+      "language": "Hawaiian",
+      "meaning": "'Spirit Ranks'"
+    },
+    {
+      "name": "Nā Huakaʻi o ka Pō",
+      "language": "Hawaiian",
+      "meaning": "'The processions of the night'"
+    }
+  ],
   "tags": [
-    "folklore",
-    "mythology"
+    "hawaii",
+    "polynesia",
+    "ghost-procession",
+    "ancestor-spirits",
+    "warriors",
+    "torches",
+    "drums",
+    "nocturnal"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "Hawaiian Islands"
+  ],
+  "origin": "Reports are concentrated on the Hawaiian Islands, particularly along ancient trails, near heiau, and at recorded battlefields.",
+  "first_reported": "Pre-contact",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

@@ -2,16 +2,47 @@
   "id": "hollow-earth",
   "name": "Hollow Earth",
   "category": "conspiracy_theory",
-  "description": "The Hollow Earth theory proposes that Earth is hollow with openings at the North and South poles, potentially containing an inner sun and advanced civilizations such as Agartha or Shambhala.",
-  "aliases": [],
-  "tags": [
-    "folklore",
-    "mythology"
+  "description": "The proposition that the Earth is partly or entirely hollow, with one or more habitable inner surfaces and openings (often at the poles) — historically a serious scientific hypothesis, now firmly debunked but persistent as a conspiracy and esoteric tradition.",
+  "aliases": [
+    {
+      "name": "Inner Earth",
+      "region": "Modern English usage"
+    },
+    {
+      "name": "Subterranean world",
+      "region": "General fictional / mythic usage"
+    },
+    {
+      "name": "Concave Earth / Cellular Cosmogony",
+      "region": "Cyrus Teed's Koreshan tradition"
+    },
+    {
+      "name": "Agartha",
+      "language": "Sanskrit-derived",
+      "meaning": "Legendary subterranean kingdom"
+    },
+    {
+      "name": "Shambhala",
+      "language": "Sanskrit",
+      "meaning": "Buddhist mythical kingdom often associated in modern Western occultism with an inner Earth"
+    }
   ],
-  "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "tags": [
+    "pseudoscience",
+    "conspiracy-theory",
+    "esotericism",
+    "polar-openings",
+    "agartha",
+    "shambhala",
+    "symmes",
+    "byrd"
+  ],
+  "status": "debunked",
+  "regions": [
+    "Global"
+  ],
+  "origin": "A theoretical claim about the entire Earth; major proponents and movements have been concentrated in the United Kingdom (Halley), the United States (Symmes, Teed, Gardner, modern conspiracists), and Russia / continental Europe (Ossendowski, Theosophy).",
+  "first_reported": "1692",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

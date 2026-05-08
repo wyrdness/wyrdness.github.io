@@ -2,16 +2,37 @@
   "id": "ropen",
   "name": "Ropen",
   "category": "cryptid",
-  "description": "Purported living pterosaur with bioluminescent glow reported in Papua New Guinea This phenomenon represents an important part of Papua New Guinean folklore and cultural heritage, with documented accounts and traditions spanning generations.",
-  "aliases": [],
-  "tags": [
-    "folklore",
-    "mythology"
+  "description": "The Ropen is a large nocturnal flying cryptid reported from Papua New Guinea, described by witnesses as a featherless, bat-winged creature with a long tail and bioluminescent glow, and interpreted by some cryptozoologists as a surviving pterosaur.",
+  "aliases": [
+    {
+      "name": "Duwas",
+      "language": "Kovai (local language)",
+      "region": "Umboi Island, Papua New Guinea"
+    },
+    {
+      "name": "Wawanar",
+      "language": "Local dialect",
+      "region": "Papua New Guinea"
+    }
   ],
-  "status": "documented",
-  "regions": [],
-  "origin": "| Papua New Guinean |",
-  "first_reported": "Unknown",
+  "tags": [
+    "cryptid",
+    "flying-creature",
+    "pterosaur",
+    "bioluminescent",
+    "papua-new-guinea",
+    "pacific",
+    "nocturnal",
+    "creationist-cryptozoology"
+  ],
+  "status": "unverified",
+  "regions": [
+    "Umboi Island",
+    "Finschhafen area",
+    "Southwest Pacific islands"
+  ],
+  "origin": "Reports concentrate on Umboi Island and surrounding areas of Papua New Guinea, with some claims from the broader Solomon Islands region and Indonesian Papua.",
+  "first_reported": "1935-01-01",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

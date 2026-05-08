@@ -1,17 +1,23 @@
 {
   "id": "rake",
   "name": "The Rake",
-  "category": "|_internet_folklore_|",
-  "description": "The Rake is an internet-born creepypasta character that first appeared in 2005-2006 on the /b/ board of 4chan as a collaborative fiction project.",
+  "category": "urban_legend",
+  "description": "The Rake is an internet-born fictional entity originating from 4chan's /b/ board around 2005–2006, described as a pale, emaciated humanoid that crouches at the foot of beds or crawls on all fours. Though explicitly created as collaborative fiction, the character has since generated claimed real-world encounter reports.",
   "aliases": [],
   "tags": [
-    "folklore",
-    "mythology"
+    "creepypasta",
+    "internet-folklore",
+    "humanoid",
+    "horror",
+    "fictional",
+    "4chan",
+    "nocturnal",
+    "pale-humanoid"
   ],
-  "status": "documented",
+  "status": "active",
   "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "origin": "As an internet-born legend, the Rake has no geographic origin. Claimed encounter reports (post-fictional-origin) come primarily from English-speaking internet communities.",
+  "first_reported": "2006-01-01",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

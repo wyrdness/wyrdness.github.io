@@ -2,15 +2,35 @@
   "id": "douen",
   "name": "Douen",
   "category": "entity_spirit",
-  "description": "The Douen (pronounced \\\"dwen\\\" or \\\"doo-EN\\\") are among the most haunting and culturally significant figures in Trinidad and Tobago folklore—the spirits of children who died before receiving baptism, condemned to wander the forests eternally as lost souls.",
-  "aliases": [],
+  "description": "In the folklore of Trinidad and Tobago and other parts of the Eastern Caribbean, the douen is the spirit of a child who died before being baptized; depicted as a small, faceless figure with backward-facing feet and a wide straw hat, said to lure other children into the forest.",
+  "aliases": [
+    {
+      "name": "Dwen",
+      "language": "Saint Lucian Creole / French Creole",
+      "region": "Saint Lucia"
+    },
+    {
+      "name": "Douen",
+      "region": "Trinidad and Tobago"
+    }
+  ],
   "tags": [
-    "|"
+    "trinidad-and-tobago",
+    "caribbean",
+    "afro-caribbean",
+    "spirit-child",
+    "folklore",
+    "saint-lucia"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "Eastern Caribbean",
+    "Trinidad",
+    "Tobago",
+    "Saint Lucia"
+  ],
+  "origin": "Folklore primarily of Trinidad and Tobago, with the related dwen of Saint Lucia and parallels across the broader Eastern Caribbean.",
+  "first_reported": "19th century",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

@@ -1,16 +1,57 @@
 {
   "id": "each-uisge",
-  "name": "Each-Uisge",
-  "category": "|_broader_celtic_water_horse_spirits_|",
-  "description": "The each-uisge (pronounced \\\"ech-ooshkya\\\") is considered the most malevolent and dangerous of the Scottish water horses.",
-  "aliases": [],
+  "name": "Each-uisge",
+  "category": "mythological_creature",
+  "description": "A shapeshifting Celtic water horse of Scottish and Irish folklore, considered the fiercest of all water horses; lures riders into sea lochs and freshwater lochs and devours all but their livers.",
+  "aliases": [
+    {
+      "name": "each-uisge",
+      "language": "Scottish Gaelic",
+      "meaning": "water horse"
+    },
+    {
+      "name": "each-uisce",
+      "language": "Irish",
+      "region": "Ireland",
+      "meaning": "water horse"
+    },
+    {
+      "name": "aughisky",
+      "language": "Irish (anglicized)",
+      "region": "Ireland"
+    },
+    {
+      "name": "ech-ushkya",
+      "language": "Irish (anglicized)"
+    },
+    {
+      "name": "cabyll-ushtey",
+      "language": "Manx",
+      "region": "Isle of Man",
+      "meaning": "water horse"
+    }
+  ],
   "tags": [
-    "&-themes"
+    "celtic",
+    "scottish-folklore",
+    "irish-folklore",
+    "water-horse",
+    "shapeshifter",
+    "loch",
+    "sea-loch",
+    "highland"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "Scottish Highlands",
+    "Hebrides",
+    "Argyll",
+    "Inverness-shire",
+    "Skye",
+    "Western Isles"
+  ],
+  "origin": "Folkloric range across the Scottish Highlands and Hebrides, with cognates in Ireland (each-uisce / aughisky) and the Isle of Man (cabyll-ushtey).",
+  "first_reported": "19th century",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

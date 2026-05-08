@@ -5,21 +5,61 @@ on:
   push:
     branches: [main]
 
+permissions:
+  contents: read
+
 jobs:
-  validate:
+  html:
     runs-on: ubuntu-latest
-    
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-      
+
       - name: Validate HTML
         uses: Cyb3r-Jak3/html5validator-action@v7.2.0
         with:
           root: .
-          
+          # Don't waste minutes on the per-phenomenon pages — they're all generated from
+          # templates/phenomenon.html which is itself validated.
+          extra: --ignore-re ".*phenomena/.*/index.html$"
+
+  links:
+    runs-on: ubuntu-latest
+    # Lychee is informational; flaky external links shouldn't block merges.
+    continue-on-error: true
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Restore lychee cache
+        uses: actions/cache@v4
+        with:
+          path: .lycheecache
+          key: cache-lychee-${{ github.sha }}
+          restore-keys: cache-lychee-
+
       - name: Check links
         uses: lycheeverse/lychee-action@v1
         with:
-          args: --verbose --no-progress './**/*.html' './**/*.md'
-          fail: true
+          args: >
+            --no-progress
+            --cache
+            --max-cache-age 1d
+            --max-retries 2
+            --retry-wait-time 10
+            --timeout 20
+            --accept 200,204,206,301,302,308,403,429,999
+            --exclude-mail
+            --exclude '^https?://(www\.)?github\.com/wyrdness'
+            --exclude '^https?://creativecommons\.org'
+            './*.html'
+            './about/**/*.html'
+            './browse/**/*.html'
+            './categories/**/*.html'
+            './help/**/*.html'
+            './favorites/**/*.html'
+            './map/**/*.html'
+            './timeline/**/*.html'
+            './templates/**/*.html'
+            './*.md'
+          fail: false

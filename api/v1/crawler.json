@@ -2,16 +2,45 @@
   "id": "crawler",
   "name": "Crawler",
   "category": "cryptid",
-  "description": "The Crawler is a modern cryptid described as an extremely pale, emaciated humanoid creature that moves primarily on all fours with unsettling speed and flexibility.",
-  "aliases": [],
-  "tags": [
-    "folklore",
-    "mythology"
+  "description": "The Crawler (or Pale Crawler) is a 21st-century cryptid of internet folklore: an emaciated, hairless, ghostly-pale humanoid that moves rapidly on all fours with elongated limbs and reverse-bending joints, reported chiefly through anonymous trail-camera photographs, doorbell-camera videos, and YouTube and Reddit testimonies from rural North America.",
+  "aliases": [
+    {
+      "name": "Pale Crawler",
+      "language": "English",
+      "region": "United States"
+    },
+    {
+      "name": "The Crawler",
+      "language": "English"
+    },
+    {
+      "name": "Pale Skitter",
+      "language": "English (Appalachia)",
+      "region": "Southern Appalachia"
+    }
   ],
-  "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "tags": [
+    "internet-folklore",
+    "creepypasta",
+    "north-america",
+    "pale-humanoid",
+    "trail-camera",
+    "appalachia",
+    "modern-cryptid"
+  ],
+  "status": "unverified",
+  "regions": [
+    "Southern Appalachia",
+    "Pennsylvania Wilds",
+    "West Virginia",
+    "Eastern Tennessee",
+    "Northern Georgia",
+    "Ozarks",
+    "Southern Ohio",
+    "Internet (global propagation)"
+  ],
+  "origin": "Reports concentrate in the eastern and central United States, particularly forested mountain country (Appalachians, Pennsylvania Wilds, Ozarks), with secondary clusters in rural Canada and isolated Texas and California incidents propagated through viral video. Internet propagation has carried the figure worldwide.",
+  "first_reported": "2005",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

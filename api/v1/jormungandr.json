@@ -2,15 +2,45 @@
   "id": "jormungandr",
   "name": "Jörmungandr",
   "category": "mythological_creature",
-  "description": "Jörmungandr (the Midgard Serpent or World Serpent) is an enormous sea serpent in Norse mythology, so large it encircles the entire world (Midgard) and grasps its own tail.",
-  "aliases": [],
+  "description": "Jörmungandr is the colossal sea serpent of Norse mythology, son of Loki and Angrboða, sibling of Fenrir and Hel, who encircles the world (Midgard) biting his own tail. He is the cosmic adversary of the thunder god Thor, whom he kills and is killed by at Ragnarök.",
+  "aliases": [
+    {
+      "name": "Jǫrmungandr",
+      "language": "Old Norse",
+      "meaning": "'Huge monster' / 'mighty wand'; from jǫrmun- ('huge, vast') + gandr ('staff / monster / magic')"
+    },
+    {
+      "name": "Miðgarðsormr",
+      "language": "Old Norse",
+      "meaning": "'Midgard Serpent'"
+    },
+    {
+      "name": "Midgard Serpent",
+      "language": "English",
+      "meaning": "Calque of Old Norse Miðgarðsormr"
+    },
+    {
+      "name": "World Serpent",
+      "language": "English"
+    }
+  ],
   "tags": [
-    "in-various-contexts"
+    "norse-mythology",
+    "ragnarok",
+    "sea-serpent",
+    "cosmic",
+    "ouroboros",
+    "loki-offspring",
+    "thor-adversary"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "Scandinavia",
+    "North Atlantic",
+    "Norse world"
+  ],
+  "origin": "Mythological. Within Norse cosmology, Jörmungandr inhabits the world-ocean encircling Midgard. Cultural distribution covers the Viking Age and post-Viking Norse-speaking world (Scandinavia, Iceland, the British Isles, parts of the North Atlantic).",
+  "first_reported": "Pre-Viking oral tradition; Eddic poetry compiled 13th century",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

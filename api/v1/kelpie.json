@@ -2,15 +2,73 @@
   "id": "kelpie",
   "name": "Kelpie",
   "category": "shapeshifter",
-  "description": "The kelpie is a malevolent water spirit from Scottish folklore that typically manifests as a beautiful black horse near rivers and lochs.",
-  "aliases": [],
+  "description": "A shape-shifting water spirit of Scottish folklore, most often appearing as a horse near rivers and lochs, that lures victims onto its back and drags them underwater to drown.",
+  "aliases": [
+    {
+      "name": "Water-kelpie",
+      "language": "Scots",
+      "region": "Scotland"
+    },
+    {
+      "name": "Each-uisge",
+      "language": "Scottish Gaelic",
+      "region": "Scottish Highlands and Islands",
+      "meaning": "'water horse' — the loch-dwelling cousin of the river kelpie"
+    },
+    {
+      "name": "Each-uisce",
+      "language": "Irish Gaelic",
+      "region": "Ireland",
+      "meaning": "Irish counterpart"
+    },
+    {
+      "name": "Cabyll-ushtey",
+      "language": "Manx",
+      "region": "Isle of Man",
+      "meaning": "'water horse'"
+    },
+    {
+      "name": "Ceffyl Dŵr",
+      "language": "Welsh",
+      "region": "Wales",
+      "meaning": "'water horse'"
+    },
+    {
+      "name": "Nuggle",
+      "language": "Shetland Scots",
+      "region": "Shetland",
+      "meaning": "Shetland water-horse variant"
+    },
+    {
+      "name": "Tangie",
+      "language": "Orcadian Scots",
+      "region": "Orkney",
+      "meaning": "seaweed-haired Orkney water-horse"
+    }
+  ],
   "tags": [
-    "&-themes"
+    "scotland",
+    "celtic-folklore",
+    "water-spirit",
+    "shapeshifter",
+    "horse",
+    "loch",
+    "river",
+    "drowning"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "Scottish Highlands",
+    "Scottish Lowlands",
+    "Hebrides",
+    "Orkney",
+    "Shetland",
+    "Wales",
+    "Ireland",
+    "Isle of Man"
+  ],
+  "origin": "Scotland, particularly the Highlands and the major river systems and lochs; cognate water-horse traditions across Ireland, the Isle of Man, Wales, the Hebrides, Orkney, and Shetland.",
+  "first_reported": "1700s",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

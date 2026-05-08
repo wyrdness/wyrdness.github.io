@@ -1,17 +1,62 @@
 {
   "id": "jiangshi",
-  "name": "Jiangshi (僵尸)",
+  "name": "Jiangshi",
   "category": "undead",
-  "description": "The jiangshi (僵尸, \\\"stiff corpse\\\") is a unique form of undead creature from Chinese folklore, distinct from Western vampires and zombies.",
-  "aliases": [],
+  "description": "The jiangshi (僵尸, 'stiff corpse') is a reanimated corpse from Chinese folklore, depicted in modern popular culture in Qing dynasty official garb, hopping with arms outstretched, and draining the qi (life force) of the living. It is repelled by Taoist talismans, mirrors, and other ritual implements.",
+  "aliases": [
+    {
+      "name": "僵尸 (jiāngshī)",
+      "language": "Mandarin Chinese",
+      "meaning": "'Stiff corpse'"
+    },
+    {
+      "name": "Geungsi",
+      "language": "Cantonese (Jyutping: goeng1 si1)",
+      "region": "Hong Kong / Cantonese cinema"
+    },
+    {
+      "name": "Cương thi",
+      "language": "Vietnamese",
+      "region": "Vietnam"
+    },
+    {
+      "name": "Gangshi (강시)",
+      "language": "Korean",
+      "region": "Korea"
+    },
+    {
+      "name": "Kyonshī (キョンシー)",
+      "language": "Japanese",
+      "region": "Japan"
+    },
+    {
+      "name": "Hopping vampire",
+      "language": "English",
+      "meaning": "Western popular term for the jiangshi"
+    },
+    {
+      "name": "Chinese hopping vampire",
+      "language": "English"
+    }
+  ],
   "tags": [
-    "folklore",
-    "mythology"
+    "undead",
+    "vampiric",
+    "chinese-folklore",
+    "qing-dynasty",
+    "taoist",
+    "qi-draining",
+    "hopping",
+    "talisman"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "Xiangxi (Western Hunan)",
+    "Southern China",
+    "Sinosphere"
+  ],
+  "origin": "Native to Han Chinese folklore, with strong regional roots in southern China (especially Western Hunan / Xiangxi). The jiangshi spread throughout the Sinosphere — Hong Kong, Taiwan, Vietnam, Korea, and Japan — primarily through Hong Kong cinema in the 1980s.",
+  "first_reported": "Pre-Qing oral tradition; 18th century literary",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

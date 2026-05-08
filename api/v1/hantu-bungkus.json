@@ -1,17 +1,50 @@
 {
   "id": "hantu-bungkus",
   "name": "Hantu Bungkus",
-  "category": "ghost",
-  "description": "The **hantu bungkus** (literally \\\"wrapped ghost\\\" in Malay) is the restless spirit of a deceased person whose soul remains trapped within their white Islamic burial shroud (kain kafan).",
-  "aliases": [],
+  "category": "undead",
+  "description": "Hantu Bungkus (Malay 'wrapped ghost'), known in Indonesian as Pocong, is the restless spirit of a deceased Muslim whose burial shroud (kain kafan) was not properly untied at burial. It is depicted as a body still wrapped in white cloth that hops or floats at night.",
+  "aliases": [
+    {
+      "name": "Pocong",
+      "language": "Indonesian / Javanese",
+      "region": "Indonesia, Malaysia",
+      "meaning": "Wrapped (in shroud)"
+    },
+    {
+      "name": "Hantu Pocong",
+      "language": "Malay",
+      "region": "Malaysia, Brunei"
+    },
+    {
+      "name": "Wrapped Ghost",
+      "language": "English",
+      "meaning": "Direct translation"
+    },
+    {
+      "name": "Kafan ghost",
+      "language": "Indonesian/Malay",
+      "meaning": "After kain kafan, the Islamic burial shroud"
+    }
+  ],
   "tags": [
-    "folklore",
-    "mythology"
+    "shroud",
+    "burial",
+    "islamic-folklore",
+    "malay",
+    "indonesian",
+    "revenant",
+    "hopping-ghost",
+    "kain-kafan"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "Java",
+    "Sumatra",
+    "Malay Peninsula",
+    "Borneo"
+  ],
+  "origin": "Predominantly the Malay-Indonesian Muslim cultural sphere: Indonesia, Malaysia, Brunei, Singapore, southern Thailand, and the Malay diaspora.",
+  "first_reported": "Pre-modern",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

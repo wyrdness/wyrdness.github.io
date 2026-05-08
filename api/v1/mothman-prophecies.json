@@ -1,16 +1,35 @@
 {
   "id": "mothman-prophecies",
-  "category": "literary_work",
-  "description": "No description available.",
-  "aliases": [],
+  "name": "The Mothman Prophecies",
+  "category": "cultural_artifact",
+  "description": "The Mothman Prophecies is a 1975 nonfiction book by John Keel investigating the Mothman sightings around Point Pleasant, West Virginia (1966-1967), the December 1967 Silver Bridge collapse, and associated UFO and 'ultraterrestrial' phenomena, later adapted into a 2002 film directed by Mark Pellington.",
+  "aliases": [
+    {
+      "name": "The Mothman Prophecies (book)",
+      "region": "United States"
+    },
+    {
+      "name": "The Mothman Prophecies (film)",
+      "region": "United States, 2002 Mark Pellington adaptation"
+    }
+  ],
   "tags": [
-    "folklore",
-    "mythology"
+    "book",
+    "film",
+    "mothman",
+    "point-pleasant",
+    "silver-bridge",
+    "john-keel",
+    "ufo",
+    "men-in-black"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "Point Pleasant, West Virginia (subject matter)",
+    "American paranormal publishing"
+  ],
+  "origin": "Published worldwide as paranormal nonfiction; the 2002 film had global theatrical and home-media distribution.",
+  "first_reported": "1975",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

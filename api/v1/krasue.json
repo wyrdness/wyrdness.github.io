@@ -1,17 +1,77 @@
 {
   "id": "krasue",
   "name": "Krasue",
-  "category": "entity_vampire_ghost",
-  "description": "The Krasue (กระสือ in Thai, also Krahang, Kasu, or Ap) represents one of the most terrifying and viscerally disturbing entities in Southeast Asian supernatural tradition—a vampiric spirit manifesting as a beautiful woman by day whose head detaches at night, trailing luminous entrails as it floats through darkness seeking blood, raw flesh, and human waste to consume.",
-  "aliases": [],
-  "tags": [
-    "folklore",
-    "mythology"
+  "category": "undead",
+  "description": "A female nocturnal spirit of mainland Southeast Asian folklore, manifesting as a floating disembodied woman's head from which the heart, stomach and other internal organs trail. Belief in the Krasue remains active in rural Thailand, Laos and Cambodia.",
+  "aliases": [
+    {
+      "name": "Phi Krasue",
+      "language": "Thai",
+      "region": "Thailand",
+      "meaning": "the Krasue ghost"
+    },
+    {
+      "name": "Ahp",
+      "language": "Khmer",
+      "region": "Cambodia",
+      "meaning": "from Sanskrit āpyati, 'to cause to suffer'"
+    },
+    {
+      "name": "Kasu",
+      "language": "Lao",
+      "region": "Laos"
+    },
+    {
+      "name": "Kuyang",
+      "language": "Indonesian",
+      "region": "Indonesia"
+    },
+    {
+      "name": "Penanggal",
+      "language": "Malay",
+      "region": "Malaysia and Borneo"
+    },
+    {
+      "name": "Ma lai",
+      "language": "Vietnamese",
+      "region": "Vietnam"
+    },
+    {
+      "name": "Manananggal",
+      "language": "Filipino",
+      "region": "Philippines"
+    },
+    {
+      "name": "Leyak",
+      "language": "Balinese",
+      "region": "Bali, Indonesia"
+    }
   ],
-  "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "tags": [
+    "southeast-asia",
+    "thailand",
+    "cambodia",
+    "laos",
+    "vampire",
+    "detached-head",
+    "nocturnal",
+    "female-spirit",
+    "folklore",
+    "vampiric-spirit"
+  ],
+  "status": "active",
+  "regions": [
+    "Isan (northeastern Thailand)",
+    "Central Thailand",
+    "Northern Thailand",
+    "Cambodia",
+    "Laos",
+    "Malay Peninsula",
+    "Java and Bali",
+    "Philippine archipelago"
+  ],
+  "origin": "Belief in the Krasue and its cognates spans mainland Southeast Asia and the Malay Archipelago, with the strongest contemporary tradition in rural Thailand, Laos and Cambodia. Closely related figures are reported throughout Malaysia, Indonesia (including Bali), the Philippines and parts of Vietnam.",
+  "first_reported": "Pre-modern",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

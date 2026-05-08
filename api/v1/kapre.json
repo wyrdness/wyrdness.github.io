@@ -2,15 +2,42 @@
   "id": "kapre",
   "name": "Kapre",
   "category": "entity_spirit",
-  "description": "The Kapre is a towering creature from Filipino folklore, described as a tall (7-9 feet), dark-skinned, hairy, and muscular giant that dwells in large trees, particularly balete and acacia trees.",
-  "aliases": [],
+  "description": "The Kapre is a giant, dark-skinned, tobacco-smoking tree-dwelling spirit of Philippine folklore, traditionally associated with large balete, acacia, and mango trees. Generally non-hostile but mischievous and territorial, the kapre is regarded as a guardian of its tree.",
+  "aliases": [
+    {
+      "name": "Kapre",
+      "language": "Tagalog (loanword from Spanish cafre / Arabic kāfir)",
+      "meaning": "From Spanish cafre, ultimately Arabic kāfir ('non-believer'); colonial-era pejorative reapplied to a folkloric giant"
+    },
+    {
+      "name": "Agta",
+      "language": "Bikolano / Visayan",
+      "meaning": "'Black one' / dark-skinned forest giant; regional analogue of the kapre"
+    },
+    {
+      "name": "Chapri",
+      "language": "Spanish (Pigafetta, 1521)",
+      "meaning": "Earliest Spanish-language attestation, recorded by Antonio Pigafetta during the Magellan expedition"
+    }
+  ],
   "tags": [
-    "&-interpretation"
+    "philippine-folklore",
+    "tree-spirit",
+    "giant",
+    "smoking",
+    "balete-tree",
+    "forest-guardian",
+    "engkanto"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "Luzon",
+    "Visayas",
+    "Mindanao",
+    "Bicol Region"
+  ],
+  "origin": "Found throughout the Philippine archipelago, especially in lowland forests, rural barangays, and old agricultural land where balete and other large trees survive.",
+  "first_reported": "1521",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

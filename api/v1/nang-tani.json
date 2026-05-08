@@ -1,16 +1,39 @@
 {
   "id": "nang-tani",
   "name": "Nang Tani",
-  "category": "|_ghosts_of_violent/untimely_death_|",
-  "description": "Nang Tani (นางตานี), also romanized as Nang Ta-khian or Mae Tani, represents one of Thailand's most beloved and enduring spirit traditions—the ghost of a beautiful young woman who dwells within banana trees, particularly the *tani* variety (*Musa sapientum* var.",
-  "aliases": [],
+  "category": "entity_spirit",
+  "description": "A female tree spirit of Thai (and Lao and Cambodian) folklore, believed to inhabit clumps of the wild banana Musa acuminata (kluai tani). She is one of the best-known Nang Mai (tree spirits) and is generally benevolent, though said to harm men who have wronged women.",
+  "aliases": [
+    {
+      "name": "นางตานี",
+      "language": "Thai",
+      "meaning": "Lady of Tani"
+    },
+    {
+      "name": "Phi Tani",
+      "language": "Thai",
+      "meaning": "Ghost of Tani (ผีตานี)"
+    },
+    {
+      "name": "Phrai Tani",
+      "language": "Thai",
+      "meaning": "Nymph of Tani (พรายตานี)"
+    }
+  ],
   "tags": [
+    "thailand",
+    "tree-spirit",
+    "banana",
     "folklore",
-    "mythology"
+    "female-spirit",
+    "nang-mai",
+    "southeast-asia"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
+  "regions": [
+    "Mainland Southeast Asia"
+  ],
+  "origin": "Folklore of Nang Tani is concentrated in Thailand and extends to neighboring Laos and Cambodia.",
   "first_reported": "Unknown",
   "danger_level": "unknown",
   "evidence_level": "unknown"

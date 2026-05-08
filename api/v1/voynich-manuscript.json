@@ -1,17 +1,41 @@
 {
   "id": "voynich-manuscript",
   "name": "Voynich Manuscript",
-  "category": "historical_mystery_/_undeciphered_text",
-  "description": "The **Voynich Manuscript** is a 15th century illustrated codex written in an unknown script that has never been successfully deciphered.",
-  "aliases": [],
+  "category": "cultural_artifact",
+  "description": "An illustrated 15th-century codex written in an unidentified script and held since 1969 at Yale University's Beinecke Rare Book and Manuscript Library as MS 408; its language and meaning have not been deciphered despite more than a century of expert study.",
+  "aliases": [
+    {
+      "name": "Beinecke MS 408",
+      "language": "Cataloging",
+      "meaning": "Yale University Beinecke Library shelfmark"
+    },
+    {
+      "name": "MS 408",
+      "language": "Cataloging"
+    },
+    {
+      "name": "Voynichese",
+      "meaning": "Informal name for the manuscript's unidentified script and language"
+    }
+  ],
   "tags": [
-    "folklore",
-    "mythology"
+    "manuscript",
+    "cryptography",
+    "undeciphered",
+    "vellum",
+    "fifteenth-century",
+    "europe",
+    "linguistics",
+    "yale-beinecke"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "New Haven, Connecticut (current location)",
+    "Prague (Rudolfine and post-Rudolfine ownership)",
+    "Frascati / Villa Mondragone (Jesuit ownership)"
+  ],
+  "origin": "A single physical artifact whose ownership and physical location have moved across central Europe and the United States; the surrounding research community is global.",
+  "first_reported": "1404-1438",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

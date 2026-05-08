@@ -2,16 +2,46 @@
   "id": "kidney-thieves",
   "name": "Kidney Thieves Urban Legend",
   "category": "urban_legend",
-  "description": "The \\\"kidney thieves\\\" urban legend represents one of the most pervasive and geographically widespread contemporary legends of the late 20th and early 21st centuries.",
-  "aliases": [],
-  "tags": [
-    "folklore",
-    "mythology"
+  "description": "A widely circulated late-20th-century urban legend in which a traveler, often male, is drugged by a stranger and wakes in a bathtub of ice with a fresh surgical incision and a note instructing them to call 911 because their kidney has been removed for the black market.",
+  "aliases": [
+    {
+      "name": "The Kidney Heist",
+      "region": "United States",
+      "meaning": "common pop-culture name"
+    },
+    {
+      "name": "Bathtub of Ice",
+      "region": "United States",
+      "meaning": "from the central image of the legend"
+    },
+    {
+      "name": "Stolen Kidney",
+      "meaning": "generic name in folklore studies"
+    },
+    {
+      "name": "Organ-theft urban legend",
+      "meaning": "academic framing"
+    }
   ],
-  "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "tags": [
+    "urban-legend",
+    "organ-theft",
+    "modern-folklore",
+    "bathtub-of-ice",
+    "1990s",
+    "snopes",
+    "viral-email",
+    "moral-panic"
+  ],
+  "status": "debunked",
+  "regions": [
+    "United States (esp. New Orleans, Las Vegas, New York)",
+    "Latin America",
+    "Europe",
+    "South Asia"
+  ],
+  "origin": "Originated in the United States and spread worldwide via email and social media; localized variants exist in many countries.",
+  "first_reported": "1991",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

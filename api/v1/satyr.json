@@ -2,16 +2,54 @@
   "id": "satyr",
   "name": "Satyr",
   "category": "mythological_creature",
-  "description": "Satyrs are characterized by their **hedonistic behavior**, including: They represent uninhibited natural instincts, fertility, and wild sexuality.",
-  "aliases": [],
-  "tags": [
-    "folklore",
-    "mythology"
+  "description": "Satyrs are male nature spirits from Greek mythology, depicted as hybrid humanoids combining human torsos with horse or goat features, and characterized by exuberant sexuality, love of wine and music, and mischievous behavior in the retinue of the god Dionysus.",
+  "aliases": [
+    {
+      "name": "Sátyros",
+      "language": "Ancient Greek",
+      "meaning": "Etymology disputed; proposed connections to thērion (wild animal), or a root meaning 'the full ones' (alluding to sexual arousal), or the root sat- (to sow)"
+    },
+    {
+      "name": "Silenos / Silenus",
+      "language": "Ancient Greek / Latin",
+      "meaning": "Elder form of satyr; name of Dionysus's tutor"
+    },
+    {
+      "name": "Faun",
+      "language": "Latin",
+      "region": "Roman mythology",
+      "meaning": "Roman counterpart; from Faunus, woodland deity"
+    },
+    {
+      "name": "Satiro",
+      "language": "Italian"
+    },
+    {
+      "name": "Satyre",
+      "language": "French"
+    }
   ],
-  "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "tags": [
+    "greek-mythology",
+    "roman-mythology",
+    "humanoid",
+    "hybrid",
+    "nature-spirit",
+    "dionysian",
+    "woodland",
+    "ancient",
+    "theatrical",
+    "fertility"
+  ],
+  "status": "historical",
+  "regions": [
+    "Ancient Greece",
+    "Hellenistic world",
+    "Roman Empire",
+    "Later European culture through Renaissance"
+  ],
+  "origin": "A pan-Mediterranean mythological figure, originating in ancient Greece and spreading through Hellenistic culture across the Mediterranean world and into Roman civilization.",
+  "first_reported": "0600-01-01",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

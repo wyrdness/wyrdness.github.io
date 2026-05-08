@@ -2,16 +2,69 @@
   "id": "duende",
   "name": "Duende",
   "category": "fae_folklore",
-  "description": "Duende (plural: duendes) are small humanoid creatures deeply embedded in Spanish and Latin American folklore.",
-  "aliases": [],
+  "description": "Duendes are small humanoid folkloric beings of Iberian, Latin American, and Filipino tradition, ranging from helpful or mischievous house-sprites to dangerous forest dwellers said to lure children astray; in 1933 Federico García Lorca repurposed the word as an aesthetic concept for the dark vital force of art.",
+  "aliases": [
+    {
+      "name": "Duwende",
+      "language": "Tagalog / Filipino",
+      "region": "Philippines"
+    },
+    {
+      "name": "Tata Duende",
+      "language": "Spanish / Belizean Creole",
+      "region": "Belize, Guatemala"
+    },
+    {
+      "name": "Trasgo",
+      "language": "Asturian / Spanish",
+      "region": "Spain"
+    },
+    {
+      "name": "Anjana / Xana",
+      "language": "Cantabrian / Asturian",
+      "region": "Northern Spain"
+    },
+    {
+      "name": "Nubero",
+      "language": "Cantabrian",
+      "region": "Spain",
+      "meaning": "Cloud-form duende"
+    },
+    {
+      "name": "Busgoso",
+      "language": "Asturian",
+      "region": "Spain"
+    },
+    {
+      "name": "Nunò sa punsó",
+      "language": "Tagalog",
+      "region": "Philippines",
+      "meaning": "Mound-dwelling duwende"
+    }
+  ],
   "tags": [
-    "folklore",
-    "mythology"
+    "iberian-folklore",
+    "latin-america",
+    "philippines",
+    "house-spirit",
+    "forest-spirit",
+    "small-humanoid",
+    "spanish",
+    "fae"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "Cantabria and Asturias",
+    "Galicia",
+    "Andalusia",
+    "Yucatán Peninsula",
+    "Oaxaca cloud forests",
+    "Belizean Cayo and Toledo districts",
+    "Andean cloud forests",
+    "Philippine archipelago"
+  ],
+  "origin": "Iberian Peninsula, Latin America (especially Mexico, Central America, and Andean countries), the Philippines, and the Mariana Islands; with parallels and overlaps with regional Indigenous traditions.",
+  "first_reported": "Medieval",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

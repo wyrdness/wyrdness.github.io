@@ -1,17 +1,74 @@
 {
   "id": "vampires",
   "name": "Vampires",
-  "category": "|_folklore_entity_|",
-  "description": "Vampires are undead or supernatural beings that survive by consuming the blood or life force of the living.",
-  "aliases": [],
+  "category": "undead",
+  "description": "Vampires are undead or supernatural beings from predominantly Eastern European folklore that survive by feeding on the blood of the living; the modern concept emerged primarily from 18th-century Slavic vampire panics and was transformed into the aristocratic Gothic figure through 19th-century literature.",
+  "aliases": [
+    {
+      "name": "Vampir",
+      "language": "Serbian",
+      "meaning": "vampire; possibly from Old Slavic onpyr"
+    },
+    {
+      "name": "Upyr / Upir",
+      "language": "Russian/Ukrainian",
+      "meaning": "Slavic cognate term for vampire"
+    },
+    {
+      "name": "Wąpierz",
+      "language": "Polish",
+      "meaning": "Polish cognate"
+    },
+    {
+      "name": "Strigoi",
+      "language": "Romanian",
+      "meaning": "Romanian vampire/undead; from Latin strix (owl/night bird)"
+    },
+    {
+      "name": "Vrykolakas",
+      "language": "Greek",
+      "meaning": "Greek revenant/vampire figure"
+    },
+    {
+      "name": "Nosferatu",
+      "language": "Romanian (archaic)",
+      "meaning": "Possibly 'not dead' or 'plague-carrier'; popularized by the 1922 film"
+    },
+    {
+      "name": "Jiangshi",
+      "language": "Chinese",
+      "meaning": "Chinese hopping vampire/undead; reanimated corpse"
+    },
+    {
+      "name": "Penanggalan",
+      "language": "Malay",
+      "meaning": "Malay vampire variant; a detached flying female head with dangling organs"
+    }
+  ],
   "tags": [
+    "undead",
     "folklore",
-    "mythology"
+    "slavic",
+    "romanian",
+    "eastern-europe",
+    "blood",
+    "nocturnal",
+    "shapeshifter",
+    "historical-panics",
+    "gothic"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "Southeastern Europe (Balkans) — primary folkloric region",
+    "Eastern Europe (Poland, Russia, Ukraine)",
+    "Romania and Transylvania",
+    "Southeast Asia (Malay penanggalan, Philippine mandurugo)",
+    "China (jiangshi tradition)",
+    "West Africa (Ashanti asanbosam, Ewe adze)",
+    "Caribbean (soucouyant, Haitian folklore)"
+  ],
+  "origin": "The vampire tradition is most strongly associated with Eastern and Southeastern Europe (Serbia, Romania, Bulgaria, Greece, Poland, Russia), but blood-drinking supernatural beings appear in folklore worldwide.",
+  "first_reported": "Ancient",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

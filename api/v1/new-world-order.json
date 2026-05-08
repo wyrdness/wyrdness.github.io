@@ -2,16 +2,40 @@
   "id": "new-world-order",
   "name": "New World Order",
   "category": "conspiracy_theory",
-  "description": "The New World Order (NWO) conspiracy theory claims that a secretive elite cabal is working to establish a totalitarian world government that would eliminate national sovereignty, individual freedoms, and traditional institutions.",
-  "aliases": [],
-  "tags": [
-    "folklore",
-    "mythology"
+  "description": "A family of conspiracy theories alleging that a secretive power-elite is conspiring to establish an authoritarian one-world government, displacing democratic nation-states. Mainstream scholarship treats it as an unfounded conspiracy narrative rather than as a description of any actual coordinated plot.",
+  "aliases": [
+    {
+      "name": "NWO",
+      "language": "English",
+      "meaning": "abbreviation in conspiracy literature"
+    },
+    {
+      "name": "One-World Government conspiracy",
+      "language": "English"
+    },
+    {
+      "name": "Globalist conspiracy",
+      "language": "English"
+    }
   ],
-  "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "tags": [
+    "conspiracy-theory",
+    "globalism",
+    "illuminati",
+    "freemasonry",
+    "bilderberg",
+    "cold-war",
+    "post-cold-war",
+    "right-wing"
+  ],
+  "status": "active",
+  "regions": [
+    "North America",
+    "Anglophone world",
+    "Online conspiracy networks"
+  ],
+  "origin": "Belief in the New World Order is concentrated in Anglophone right-wing political subcultures, especially in the United States, with significant uptake in Canada, the United Kingdom, Australia, and across the European far right; online distribution has globalized the discourse.",
+  "first_reported": "Cold War era",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

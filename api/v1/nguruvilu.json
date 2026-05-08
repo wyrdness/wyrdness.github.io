@@ -1,17 +1,52 @@
 {
   "id": "nguruvilu",
-  "name": "Nguruvilu - The Chilean Fox-Snake Water Demon - **ENTRY #500!** 🎉",
+  "name": "Nguruvilu",
   "category": "cryptid",
-  "description": "Starting from ancient demons to modern mysteries, from Japanese yokai to Chilean cryptids, we have now documented:",
-  "aliases": [],
+  "description": "A serpentine water creature of Mapuche folklore in Chile and Argentina with a fox-like head and snake-like body, blamed for drownings in lakes, rivers, and treacherous fords.",
+  "aliases": [
+    {
+      "name": "Guruvilu",
+      "language": "Mapudungun (variant transliteration)"
+    },
+    {
+      "name": "Guirivilu",
+      "language": "Mapudungun (variant transliteration)"
+    },
+    {
+      "name": "Nirivilo",
+      "language": "Mapudungun (variant transliteration)"
+    },
+    {
+      "name": "Ngarrafilu",
+      "language": "Mapudungun",
+      "region": "Neuquén Province, Argentina (Limay River, Aluminé Lake)"
+    },
+    {
+      "name": "Lord of the water",
+      "language": "English (circumlocution)",
+      "meaning": "Euphemism used to avoid speaking the creature's true name"
+    }
+  ],
   "tags": [
-    "folklore",
-    "mythology"
+    "mapuche",
+    "chile",
+    "argentina",
+    "water-spirit",
+    "fox",
+    "snake",
+    "river",
+    "south-america",
+    "folklore"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "Araucanía",
+    "Los Lagos",
+    "Los Ríos",
+    "Neuquén Province (Limay River, Aluminé Lake)"
+  ],
+  "origin": "Lakes, rivers, and water crossings in Mapuche cultural territory across southern Chile and southwestern Argentina.",
+  "first_reported": "Pre-contact",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

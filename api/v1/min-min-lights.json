@@ -1,17 +1,35 @@
 {
   "id": "min-min-lights",
-  "name": "Min Min Lights",
+  "name": "Min Min Light",
   "category": "atmospheric_phenomenon",
-  "description": "The Min Min Lights are a mysterious light phenomenon reported in the Australian outback, particularly in the Channel Country region of Queensland near Boulia.",
-  "aliases": [],
+  "description": "An anomalous light phenomenon reported across the Australian outback — most famously near Boulia in Queensland's Channel Country — and now widely attributed by physicist Jack Pettigrew (2003) to an inferior-mirage Fata Morgana effect over cool, still inland air.",
+  "aliases": [
+    {
+      "name": "Min Min",
+      "language": "English",
+      "region": "Australian outback"
+    }
+  ],
   "tags": [
-    "folklore",
-    "mythology"
+    "australia",
+    "outback",
+    "queensland",
+    "atmospheric-phenomenon",
+    "mirage",
+    "fata-morgana",
+    "ghost-light",
+    "unexplained-lights"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "Channel Country (western Queensland)",
+    "Outback Queensland",
+    "Western New South Wales",
+    "South Australia",
+    "Pilbara, Western Australia"
+  ],
+  "origin": "Reports range across outback Australia from western New South Wales (Brewarrina) north to Boulia in northern Queensland, with additional sightings in Yunta (South Australia) and the Pilbara (Western Australia). The classic location is the Channel Country of western Queensland.",
+  "first_reported": "Pre-contact (Aboriginal traditions); reported in European-language sources from the late 19th c.",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

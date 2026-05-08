@@ -1,17 +1,61 @@
 {
   "id": "dullahan",
   "name": "Dullahan",
-  "category": "undead_/_entity_spirit",
-  "description": "The **Dullahan** (Irish: *Dulachán*, meaning \\\"dark man\\\") is one of the most feared figures in Irish folklore—a headless horseman who serves as a death omen and messenger.",
-  "aliases": [],
+  "category": "undead",
+  "description": "A headless rider of Irish folklore who appears as a harbinger of death, riding a black horse and carrying his own severed head.",
+  "aliases": [
+    {
+      "name": "Dubhlachan",
+      "language": "Irish",
+      "meaning": "dark, sullen person"
+    },
+    {
+      "name": "Dulachan",
+      "language": "Irish",
+      "region": "Ireland"
+    },
+    {
+      "name": "Durrachan",
+      "language": "Irish",
+      "region": "Ireland"
+    },
+    {
+      "name": "Gan Ceann",
+      "language": "Irish",
+      "meaning": "without a head"
+    },
+    {
+      "name": "Coiste Bodhar",
+      "language": "Irish",
+      "meaning": "deaf or silent coach (the death coach)"
+    },
+    {
+      "name": "Far Dorocha",
+      "language": "Irish",
+      "region": "Ireland",
+      "meaning": "the dark man (related figure)"
+    }
+  ],
   "tags": [
-    "folklore",
-    "mythology"
+    "headless",
+    "horseman",
+    "death-omen",
+    "irish-folklore",
+    "psychopomp",
+    "fairy",
+    "celtic"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "Munster",
+    "County Cork",
+    "County Kerry",
+    "County Sligo",
+    "County Galway",
+    "Connacht"
+  ],
+  "origin": "Folkloric range across the island of Ireland, with the densest narrative tradition in the southern counties documented by Crofton Croker and the western counties documented by Yeats and later folklorists.",
+  "first_reported": "1825",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

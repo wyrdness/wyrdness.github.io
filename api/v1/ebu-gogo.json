@@ -1,17 +1,39 @@
 {
   "id": "ebu-gogo",
   "name": "Ebu Gogo",
-  "category": "entity_cryptid",
-  "description": "Ebu Gogo (\\\"grandmother who eats everything\\\" in the Nage language) represents one of the most scientifically intriguing cryptid traditions in anthropology—small, hairy humanoid creatures standing approximately 3-4 feet tall, described in the oral traditions of the Nage people of central Flores Island, Indonesia.",
-  "aliases": [],
+  "category": "cryptid",
+  "description": "A small, hairy, humanoid creature in the oral traditions of the Nage people of central Flores, Indonesia, often discussed in connection with the discovery of Homo floresiensis at Liang Bua in 2003.",
+  "aliases": [
+    {
+      "name": "Ebu",
+      "language": "Nage",
+      "meaning": "grandparent / elder"
+    },
+    {
+      "name": "Gogo",
+      "language": "Nage",
+      "meaning": "one who eats anything"
+    }
+  ],
   "tags": [
-    "folklore",
-    "mythology"
+    "indonesia",
+    "flores",
+    "homo-floresiensis",
+    "humanoid",
+    "diminutive",
+    "nage",
+    "indigenous-folklore",
+    "wild-man"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "Flores Island",
+    "Central Flores",
+    "Ngada Regency",
+    "Nusa Tenggara Timur"
+  ],
+  "origin": "Folkloric range confined to central Flores Island, Indonesia, particularly the area around the Nage village of Boawae and the volcanic massif of Ebulobo.",
+  "first_reported": "20th century",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

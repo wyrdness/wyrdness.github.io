@@ -1,17 +1,60 @@
 {
   "id": "kappa",
   "name": "Kappa",
-  "category": "|",
-  "description": "The **kappa** (河童, \\\"river child\\\") is one of the most famous yokai in Japanese folklore.",
-  "aliases": [],
+  "category": "entity_spirit",
+  "description": "The kappa (河童, 'river child') is one of the most famous yōkai in Japanese folklore: a child-sized amphibious water-spirit with a turtle-like shell, beaked face, and a water-filled dish (sara) on its head whose drying or spilling renders it powerless.",
+  "aliases": [
+    {
+      "name": "河童",
+      "language": "Japanese (kanji)",
+      "meaning": "'River child'"
+    },
+    {
+      "name": "Kawatarō (川太郎)",
+      "language": "Japanese",
+      "meaning": "'River boy'"
+    },
+    {
+      "name": "Kawako (川子)",
+      "language": "Japanese",
+      "meaning": "'River child'"
+    },
+    {
+      "name": "Garappa",
+      "language": "Japanese (Kyushu dialect)",
+      "region": "Kyushu"
+    },
+    {
+      "name": "Suiko (水虎)",
+      "language": "Japanese / Sino-Japanese",
+      "meaning": "'Water tiger'; an aggressive kappa-class water-yokai"
+    },
+    {
+      "name": "Hyōsube",
+      "region": "Kyushu (especially Saga)",
+      "meaning": "Regional kappa-related yokai"
+    }
+  ],
   "tags": [
-    "folklore",
-    "mythology"
+    "japanese-folklore",
+    "yokai",
+    "water-spirit",
+    "amphibious",
+    "river",
+    "edo-period",
+    "shirikodama",
+    "cucumber"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "Kyushu",
+    "Tōhoku (Iwate, especially Tōno)",
+    "Kantō",
+    "Kansai",
+    "Shikoku"
+  ],
+  "origin": "Found throughout Japanese folklore, with strong regional concentrations in Kyushu (garappa, hyōsube) and Tōhoku (Tōno).",
+  "first_reported": "1712",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

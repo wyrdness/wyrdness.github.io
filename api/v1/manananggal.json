@@ -1,16 +1,39 @@
 {
   "id": "manananggal",
   "name": "Manananggal",
-  "category": "of_filipino_shapeshifting_creatures_|",
-  "description": "The Manananggal is a terrifying creature from Filipino folklore, particularly prominent in the Visayas region.",
-  "aliases": [],
+  "category": "shapeshifter",
+  "description": "A creature of Filipino folklore, especially in the Visayan regions, that appears as a woman by day and at night separates her upper torso from her lower body, sprouting bat-like wings and flying in search of pregnant women, infants, and lovers, on whom she preys with an elongated proboscis-like tongue.",
+  "aliases": [
+    {
+      "name": "Tanggal",
+      "language": "Visayan / Tagalog",
+      "meaning": "to remove or separate"
+    },
+    {
+      "name": "Aswang Manananggal",
+      "language": "Filipino",
+      "region": "Philippines"
+    }
+  ],
   "tags": [
-    "&-interpretation"
+    "philippines",
+    "filipino-folklore",
+    "vampire",
+    "aswang",
+    "shapeshifter",
+    "visayas",
+    "self-segmenting"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "Visayas",
+    "Capiz",
+    "Iloilo",
+    "Antique",
+    "Bohol"
+  ],
+  "origin": "Throughout the Philippines, but most strongly associated with the Visayan region — particularly the provinces of Capiz, Iloilo, Antique, and Bohol — which is also the cultural heartland of the broader aswang tradition.",
+  "first_reported": "1589",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

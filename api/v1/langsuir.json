@@ -1,17 +1,43 @@
 {
   "id": "langsuir",
   "name": "Langsuir",
-  "category": "supernatural_entity",
-  "description": "The **langsuir** (also spelled *langsuyar* or *lang suir*) is one of the most feared and culturally significant supernatural entities in Malay folklore.",
-  "aliases": [],
-  "tags": [
-    "folklore",
-    "mythology"
+  "category": "entity_spirit",
+  "description": "The Langsuir is a female revenant of Malay folklore, the ghost of a woman who died in or shortly after childbirth, who flies as a beautiful long-haired woman or as a floating head trailing entrails and feeds on the blood of newborns through a hole in the back of her neck.",
+  "aliases": [
+    {
+      "name": "Langsuyar",
+      "language": "Malay",
+      "region": "Malay Peninsula"
+    },
+    {
+      "name": "Lang Suir",
+      "language": "Malay (older spelling)"
+    },
+    {
+      "name": "Hantu Langsuir",
+      "language": "Malay",
+      "meaning": "Langsuir spirit"
+    }
   ],
-  "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "tags": [
+    "malay",
+    "malaysia",
+    "indonesia",
+    "vampire",
+    "female-revenant",
+    "childbirth",
+    "blood-drinker",
+    "folklore"
+  ],
+  "status": "active",
+  "regions": [
+    "Malay Peninsula",
+    "Sumatra",
+    "Java",
+    "Borneo"
+  ],
+  "origin": "Belief in the Langsuir is found throughout the Malay world: peninsular Malaysia, Indonesia, Singapore, Brunei, parts of southern Thailand and the southern Philippines.",
+  "first_reported": "1900",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

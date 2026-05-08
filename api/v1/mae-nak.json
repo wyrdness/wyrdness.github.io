@@ -2,16 +2,41 @@
   "id": "mae-nak",
   "name": "Mae Nak Phra Khanong",
   "category": "ghost_haunting",
-  "description": "Famous Thai ghost story of a woman who died in childbirth and continues to haunt as a loving wife This phenomenon represents an important part of Thai folklore and cultural heritage, with documented accounts and traditions spanning generations.",
-  "aliases": [],
+  "description": "Mae Nak Phra Khanong ('Lady Nak of Phra Khanong') is the most popular ghost of Thai folklore: a young woman of the Phra Khanong canal who died with her child in childbirth and returned as a phi tai thang klom to live with her unsuspecting husband Mak. Her shrine at Wat Mahabut in Bangkok remains a major pilgrimage site.",
+  "aliases": [
+    {
+      "name": "Mae Nak",
+      "language": "Thai",
+      "meaning": "'Lady Nak' / 'Mother Nak'"
+    },
+    {
+      "name": "Nang Nak",
+      "language": "Thai",
+      "meaning": "'Madam Nak'"
+    },
+    {
+      "name": "Amdaeng Nak",
+      "language": "Thai",
+      "meaning": "Earlier Thai title used in 19th-century newspaper accounts"
+    }
+  ],
   "tags": [
-    "folklore",
-    "mythology"
+    "thai-folklore",
+    "ghost",
+    "phra-khanong",
+    "phi-tai-thang-klom",
+    "wat-mahabut",
+    "rama-iv",
+    "bangkok"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "| Thai |",
-  "first_reported": "Unknown",
+  "regions": [
+    "Bangkok",
+    "Phra Khanong",
+    "Suan Luang"
+  ],
+  "origin": "Mae Nak's narrative and devotional practice are concentrated in Bangkok, particularly in the Phra Khanong / Suan Luang area, but her cultural reach extends throughout Thailand and across the Thai-speaking diaspora.",
+  "first_reported": "1899",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

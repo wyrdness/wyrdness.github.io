@@ -2,15 +2,47 @@
   "id": "vanishing-hitchhiker",
   "name": "Vanishing Hitchhiker",
   "category": "urban_legend",
-  "description": "The Vanishing Hitchhiker is one of the most widespread and enduring urban legends worldwide.",
-  "aliases": [],
+  "description": "The Vanishing Hitchhiker is one of the world's most widespread urban legends, in which a driver picks up a hitchhiker who subsequently disappears from the moving vehicle; the driver later learns the hitchhiker died years earlier, often at or near the pickup location.",
+  "aliases": [
+    {
+      "name": "Phantom Hitchhiker",
+      "language": "English",
+      "meaning": "Ghost or apparition encountered hitchhiking on a road"
+    },
+    {
+      "name": "Ghost Hitchhiker",
+      "language": "English",
+      "meaning": "Common descriptive term"
+    },
+    {
+      "name": "Resurrection Mary",
+      "region": "Chicago, Illinois, USA",
+      "meaning": "Most famous named American vanishing hitchhiker — a young blonde woman reportedly seen near Resurrection Cemetery, Justice, Illinois"
+    }
+  ],
   "tags": [
-    "&-meaning"
+    "urban-legend",
+    "ghost",
+    "hitchhiker",
+    "contemporary-legend",
+    "folklore",
+    "worldwide",
+    "road",
+    "apparition",
+    "jan-harold-brunvand"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "Chicago area (Resurrection Mary — most famous American version)",
+    "Midwest United States",
+    "Southern United States",
+    "United Kingdom",
+    "Scandinavian (early Swedish manuscript)",
+    "Korea",
+    "Sub-Saharan Africa"
+  ],
+  "origin": "Worldwide — one of the most geographically widespread urban legends documented by folklorists. Versions have been recorded across the Americas, Europe, Africa, Asia, and among diaspora communities worldwide.",
+  "first_reported": "1602-01-01",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

@@ -6,34 +6,48 @@ on:
     paths:
       - 'api/**'
       - 'templates/**'
+      - 'scripts/generate-pages.js'
   workflow_dispatch:
 
 permissions:
   contents: write
 
+concurrency:
+  group: data-write
+  cancel-in-progress: false
+
 jobs:
   generate:
     runs-on: ubuntu-latest
-    
+
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-      
+
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
           node-version: '20'
-      
+          cache: 'npm'
+
       - name: Install dependencies
-        run: npm install
-      
+        run: npm ci || npm install
+
       - name: Generate pages
         run: node scripts/generate-pages.js
-      
+
       - name: Commit changes
         run: |
           git config --local user.email "actions@github.com"
           git config --local user.name "GitHub Actions"
           git add phenomena/
-          git diff --quiet && git diff --staged --quiet || git commit -m "Generate static pages [skip ci]"
-          git push
+          if git diff --quiet && git diff --staged --quiet; then
+            echo "No page changes to commit"
+            exit 0
+          fi
+          git commit -m "Generate static pages [skip ci]"
+          for i in 1 2 3; do
+            git pull --rebase origin main && git push && break
+            echo "Push attempt $i failed; retrying..."
+            sleep $((i * 5))
+          done

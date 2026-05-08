@@ -1,17 +1,42 @@
 {
   "id": "poltergeist",
   "name": "Poltergeist",
-  "category": "|_poltergeists_traditionally_classified_as_haunting_type_|",
-  "description": "Poltergeist phenomena represent one of the most dramatic and controversial forms of alleged paranormal activity.",
-  "aliases": [],
-  "tags": [
-    "folklore",
-    "mythology"
+  "category": "ghost_haunting",
+  "description": "A pattern of paranormal disturbance — knockings, object movement, breaking glass, occasional spontaneous fires — typically centered on a specific household and frequently on a single 'agent', often an adolescent. Documented in European sources for over a millennium and theorized in modern parapsychology as Recurrent Spontaneous Psychokinesis (RSPK).",
+  "aliases": [
+    {
+      "name": "Polter Geist",
+      "language": "German",
+      "meaning": "noisy ghost; literally 'rumble-spirit'"
+    },
+    {
+      "name": "Noisy ghost",
+      "language": "English (loan-translation)"
+    },
+    {
+      "name": "Recurrent Spontaneous Psychokinesis (RSPK)",
+      "language": "English (parapsychological term)",
+      "meaning": "William Roll's parapsychological re-naming of the phenomenon"
+    }
   ],
-  "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "tags": [
+    "ghost",
+    "haunting",
+    "psychokinesis",
+    "rspk",
+    "parapsychology",
+    "german-folklore",
+    "european-tradition",
+    "object-movement"
+  ],
+  "status": "active",
+  "regions": [
+    "Western and Central Europe",
+    "Anglophone North America",
+    "Brazil"
+  ],
+  "origin": "Reported essentially worldwide; the type-cases are heavily European and North American, but extensive cases are documented in Brazil, Japan, Australia, and elsewhere.",
+  "first_reported": "1st century AD",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

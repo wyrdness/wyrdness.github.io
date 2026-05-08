@@ -1,17 +1,37 @@
 {
   "id": "gettysburg-battlefield",
-  "name": "Gettysburg Battlefield: America's Most Haunted Military Site",
-  "category": "haunted_location",
-  "description": "Gettysburg Battlefield, site of the bloodiest battle of the American Civil War, has been considered one of the most haunted locations in the United States for over 160 years.",
-  "aliases": [],
-  "tags": [
-    "folklore",
-    "mythology"
+  "name": "Gettysburg Battlefield",
+  "category": "location",
+  "description": "Site of the July 1–3, 1863 Battle of Gettysburg, the bloodiest engagement of the American Civil War. The battlefield and adjacent town are among the most extensively reported haunted locations in the United States, with ghost lore dating back to the immediate aftermath of the battle and a major commercial ghost-tour industry from the 1990s onward.",
+  "aliases": [
+    {
+      "name": "Gettysburg National Military Park",
+      "region": "Pennsylvania, USA"
+    },
+    {
+      "name": "Ghosts of Gettysburg",
+      "region": "Pennsylvania, USA",
+      "meaning": "popular name for the cluster of paranormal traditions associated with the battlefield"
+    }
   ],
-  "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "tags": [
+    "haunted-location",
+    "battlefield",
+    "civil-war",
+    "ghosts",
+    "pennsylvania",
+    "united-states",
+    "residual-haunting",
+    "apparition"
+  ],
+  "status": "active",
+  "regions": [
+    "Pennsylvania",
+    "Adams County",
+    "Mid-Atlantic"
+  ],
+  "origin": "Reports are concentrated within the roughly 6,000-acre Gettysburg National Military Park, the borough of Gettysburg, and immediately surrounding farmland in Adams County, Pennsylvania.",
+  "first_reported": "1863-07",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

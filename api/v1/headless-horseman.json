@@ -1,17 +1,62 @@
 {
   "id": "headless-horseman",
   "name": "Headless Horseman",
-  "category": "ghost/urban_legend",
-  "description": "The Headless Horseman is one of America's most iconic ghost stories, popularized by Washington Irving's 1820 tale \\\"The Legend of Sleepy Hollow.",
-  "aliases": [],
+  "category": "ghost_haunting",
+  "description": "The Headless Horseman is a transcultural folk figure of a decapitated rider on horseback. The most famous American version is Washington Irving's Galloping Hessian of the Hollow in 'The Legend of Sleepy Hollow' (1820), but headless horseman figures appear in earlier Irish, Scottish, German, and Welsh folklore.",
+  "aliases": [
+    {
+      "name": "Galloping Hessian of the Hollow",
+      "language": "English",
+      "region": "Sleepy Hollow, New York",
+      "meaning": "Washington Irving's name for the figure"
+    },
+    {
+      "name": "Dullahan",
+      "language": "Irish",
+      "region": "Ireland",
+      "meaning": "'Dark man' — Irish headless rider"
+    },
+    {
+      "name": "Gan Ceann",
+      "language": "Irish",
+      "meaning": "'Without a head'"
+    },
+    {
+      "name": "Ewen of the Little Head",
+      "language": "Scottish Gaelic",
+      "region": "Isle of Mull, Scotland",
+      "meaning": "Local Scottish legend"
+    },
+    {
+      "name": "El Muerto",
+      "language": "Spanish",
+      "region": "Texas, USA",
+      "meaning": "'The Dead One' — South Texas headless rider"
+    }
+  ],
   "tags": [
-    "folklore",
-    "mythology"
+    "revenant",
+    "headless",
+    "rider",
+    "sleepy-hollow",
+    "washington-irving",
+    "irish-folklore",
+    "german-folklore",
+    "american-folklore",
+    "halloween"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "Sleepy Hollow / Tarrytown, New York",
+    "Isle of Mull, Scotland",
+    "Cape Breton, Nova Scotia",
+    "Rhineland, Germany",
+    "Wales (multiple)",
+    "Dartmoor, England",
+    "South Texas (El Muerto)"
+  ],
+  "origin": "Pan-European folk traditions (Irish, Scottish, English, Welsh, German) and their North American descendants. The most famous geographic locus is Sleepy Hollow (Tarrytown), New York.",
+  "first_reported": "Pre-modern",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

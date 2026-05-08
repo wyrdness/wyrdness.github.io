@@ -1,16 +1,42 @@
 {
   "id": "tamamo-no-mae",
-  "name": "Tamamo-no-Mae (玉藻前)",
-  "category": "nine-tailed_fox_(kyūbi_no_kitsune)",
-  "description": "Tamamo-no-Mae (玉藻前), meaning \\\"Lady Duckweed\\\" or \\\"Jeweled Maiden,\\\" is one of the most notorious and powerful shapeshifting fox spirits in Japanese folklore.",
-  "aliases": [],
+  "name": "Tamamo-no-Mae",
+  "category": "shapeshifter",
+  "description": "A legendary Japanese nine-tailed fox spirit who, disguised as a beautiful court lady, infiltrated the Heian Imperial court and bewitched the Emperor before being exposed and slain on the Nasu plain.",
+  "aliases": [
+    {
+      "name": "玉藻前",
+      "language": "Japanese (kanji)",
+      "meaning": "literally 'Lady Duckweed' or 'Jeweled Maiden'"
+    },
+    {
+      "name": "Tamamo-no-Mae",
+      "language": "Japanese (rōmaji)"
+    },
+    {
+      "name": "Hakumen Konmō Kyūbi no Kitsune",
+      "language": "Japanese",
+      "meaning": "'White-Faced Golden-Haired Nine-Tailed Fox' — title used in some otogizōshi"
+    }
+  ],
   "tags": [
-    "and-themes"
+    "japan",
+    "kitsune",
+    "nine-tailed-fox",
+    "yokai",
+    "heian-period",
+    "muromachi-period",
+    "killing-stone",
+    "shapeshifter"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Japanese with Chinese and Indian influences",
-  "first_reported": "Unknown",
+  "regions": [
+    "Kantō",
+    "Tochigi prefecture",
+    "Nasu plain"
+  ],
+  "origin": "The legend is centered in Japan, with the climactic events on the Nasu plain in modern Tochigi prefecture. Earlier 'lives' of the fox spirit are set in China (Shang court) and India.",
+  "first_reported": "Muromachi period",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

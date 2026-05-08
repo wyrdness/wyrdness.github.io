@@ -1,126 +1,63 @@
 {
-  "meta": {
-    "version": "1.0.0",
-    "schema_version": "1.0.0",
-    "last_updated": "2026-02-13",
-    "repository": "https://github.com/wyrdness/alp",
-    "maintainers": [
-      {
-        "name": "Wyrdness Team",
-        "github": "wyrdness",
-        "role": "maintainer"
-      }
-    ],
-    "license": {
-      "data": "CC0-1.0",
-      "content": "CC-BY-4.0"
+  "id": "alp",
+  "name": "Alp",
+  "category": "entity_spirit",
+  "description": "A male nightmare spirit of German and Austrian folklore that sits on the chests of sleepers, causing oppressive dreams, sleep paralysis, and breathlessness; closely related to the female Mara of broader Germanic tradition.",
+  "aliases": [
+    {
+      "name": "Alb",
+      "language": "German"
+    },
+    {
+      "name": "Trud",
+      "language": "German",
+      "region": "Southern Germany"
+    },
+    {
+      "name": "Mar",
+      "language": "German"
+    },
+    {
+      "name": "Mart",
+      "language": "German"
+    },
+    {
+      "name": "Mahr",
+      "language": "German"
+    },
+    {
+      "name": "Schrat",
+      "language": "German",
+      "region": "Alpine regions"
+    },
+    {
+      "name": "Walrider",
+      "language": "Low German"
+    },
+    {
+      "name": "Nachtmahr",
+      "language": "German",
+      "meaning": "night-mare"
     }
-  },
-  "phenomenon": {
-    "id": "alp",
-    "name": "Alp",
-    "aliases": [],
-    "category": "ENTITY_SPIRIT",
-    "subcategory": "Germanic Male Mare",
-    "tags": [
-      "folklore",
-      "mythology"
-    ],
-    "status": "documented",
-    "description": {
-      "summary": "The Alp is a creature from German and Austrian folklore, representing the male version of the nightmare spirit.",
-      "full": "The Alp is a creature from German and Austrian folklore, representing the male version of the nightmare spirit. Traditionally depicted as a small male entity wearing a magic hat called a **tarnkappe** that grants invisibility and supernatural powers, the Alp attacks sleepers by sitting on their chests, causing nightmares, sleep paralysis, and difficulty breathing. The Alp is also known for shapeshifting abilities, appearing as various animals including cats, pigs, birds, dogs, and snakes. In folklore, Alps are born from difficult births, children of witches, or sometimes represent the returning spirits of those who died unbaptized. The entity particularly targets women and children, and is said to drink blood or breast milk. Like other sleep paralysis entities, the Alp represents a cultural interpretation of the universal human experience of sleep paralysis."
-    },
-    "etymology": {
-      "origin": "| Germany, Austria |",
-      "meaning": "To be documented",
-      "first_use": "Unknown"
-    }
-  },
-  "classification": {
-    "taxonomy": {
-      "category": "ENTITY_SPIRIT",
-      "type": "Germanic Male Mare",
-      "subtype": "Unknown",
-      "variant": "Unknown"
-    },
-    "related_phenomena": []
-  },
-  "characteristics": {
-    "physical": {
-      "features": [],
-      "morphology": "See README.md for detailed physical description"
-    },
-    "abilities": [],
-    "behavior": {
-      "activity_period": "unknown",
-      "disposition": "unknown",
-      "habitat_preference": []
-    }
-  },
-  "distribution": {
-    "range": {
-      "description": "| Germany, Austria |",
-      "continents": [],
-      "countries": [],
-      "regions": []
-    },
-    "hotspots": [],
-    "temporal": {
-      "first_recorded": {
-        "date": "Unknown",
-        "circa": true,
-        "source": "Traditional folklore"
-      }
-    }
-  },
-  "history": {
-    "origins": {
-      "cultural_roots": "| Germany, Austria |",
-      "earliest_accounts": "See README.md for historical details",
-      "folklore_connections": "Unknown"
-    },
-    "timeline": []
-  },
-  "sightings": {
-    "statistics": {
-      "total_documented": 0,
-      "verified": 0,
-      "disputed": 0,
-      "debunked": 0
-    },
-    "notable": [],
-    "database_path": "./sightings/"
-  },
-  "evidence": {
-    "physical": [],
-    "photographic": [],
-    "video": [],
-    "audio": [],
-    "trace": []
-  },
-  "theories": {
-    "paranormal": [],
-    "scientific": [],
-    "skeptical": []
-  },
-  "cultural": {
-    "folklore": {
-      "traditions": [],
-      "stories": [],
-      "beliefs": "See README.md for cultural context"
-    },
-    "popular_culture": {
-      "literature": [],
-      "film_tv": [],
-      "games": [],
-      "other": []
-    }
-  },
-  "research": {
-    "researchers": [],
-    "organizations": [],
-    "ongoing_studies": "None documented"
-  },
-  "sources": []
+  ],
+  "tags": [
+    "german-folklore",
+    "nightmare",
+    "sleep-paralysis",
+    "shapeshifter",
+    "night-spirit",
+    "europe"
+  ],
+  "status": "documented",
+  "regions": [
+    "Bavaria",
+    "Tyrol",
+    "Swabia",
+    "Saxony",
+    "Alpine Europe"
+  ],
+  "origin": "Alp belief is concentrated in German-speaking Europe (Germany, Austria, German-speaking Switzerland) with overlapping traditions in neighbouring regions sharing the broader Mara complex.",
+  "first_reported": "Old High German period (8th–11th c.)",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
 }

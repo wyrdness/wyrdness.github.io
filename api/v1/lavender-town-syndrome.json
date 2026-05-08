@@ -1,17 +1,37 @@
 {
   "id": "lavender-town-syndrome",
   "name": "Lavender Town Syndrome",
-  "category": "|_internet_folklore_|",
-  "description": "Lavender Town Syndrome is an **internet urban legend and creepypasta** claiming that the music from Lavender Town in the original Pokémon Red and Green games (1996, Japan) caused mass illness and deaths among Japanese children.",
-  "aliases": [],
-  "tags": [
-    "folklore",
-    "mythology"
+  "category": "urban_legend",
+  "description": "Lavender Town Syndrome is a creepypasta — an explicitly fictional internet horror story — first posted in February 2010 alleging that the music of Lavender Town in 1996's Pokémon Red and Green caused suicides and illness in Japanese children. No newspaper records or epidemiological evidence support the claim.",
+  "aliases": [
+    {
+      "name": "Lavender Town Tone",
+      "language": "English"
+    },
+    {
+      "name": "LTS",
+      "language": "English",
+      "meaning": "common abbreviation in creepypasta circles"
+    }
   ],
-  "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "tags": [
+    "creepypasta",
+    "video-game-folklore",
+    "pokemon",
+    "japan",
+    "internet-folklore",
+    "moral-panic",
+    "debunked"
+  ],
+  "status": "debunked",
+  "regions": [
+    "Pastebin",
+    "4chan /x/",
+    "creepypasta wikis",
+    "YouTube"
+  ],
+  "origin": "Internet-native phenomenon distributed through English- and Japanese-language creepypasta and Pokémon fan communities, with in-game setting in fictional Kanto, Japan.",
+  "first_reported": "2010-02-21",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

@@ -2,16 +2,53 @@
   "id": "mohan",
   "name": "El Mohán",
   "category": "entity_spirit",
-  "description": "El Mohán (also known as Mohán, Poira, or Moján) is one of Colombia's most iconic and widespread mythological figures—a powerful river spirit who inhabits the waterways, caves, and rocky outcrops of the Andean regions.",
-  "aliases": [],
+  "description": "El Mohán is a Colombian folk figure — a hairy, long-bearded river spirit and shamanic ancestor associated with the Magdalena River and the rivers of Tolima and Huila — said to seduce young women, harass fishermen, and guard hidden treasures.",
+  "aliases": [
+    {
+      "name": "Mohán",
+      "language": "Spanish",
+      "region": "Colombia"
+    },
+    {
+      "name": "Muan",
+      "language": "Spanish",
+      "region": "Colombia"
+    },
+    {
+      "name": "Moán",
+      "language": "Spanish",
+      "region": "Colombia"
+    },
+    {
+      "name": "Poira",
+      "language": "Spanish",
+      "region": "Cerro del Pacandé, Tolima, Colombia"
+    },
+    {
+      "name": "Mohanes",
+      "language": "Spanish (plural)",
+      "region": "Colombia and parts of South and Central America"
+    }
+  ],
   "tags": [
-    "folklore",
-    "mythology"
+    "river-spirit",
+    "colombian-folklore",
+    "indigenous",
+    "pijao",
+    "panche",
+    "magdalena-river",
+    "shamanic"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "Tolima",
+    "Huila",
+    "Magdalena River basin",
+    "Andean Colombia",
+    "Cerro del Pacandé"
+  ],
+  "origin": "Strongest in the Magdalena River basin and the central Andean Colombian departments of Tolima and Huila. Variants of the figure (Muan, Moan, Poira, Mohanes) appear across Colombia and into other parts of South and Central America.",
+  "first_reported": "Pre-Columbian",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

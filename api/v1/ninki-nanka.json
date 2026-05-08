@@ -2,16 +2,35 @@
   "id": "ninki-nanka",
   "name": "Ninki Nanka",
   "category": "cryptid",
-  "description": "The Ninki Nanka is a legendary dragon-like cryptid from West African folklore, particularly prominent in Gambian and Senegalese traditions.",
-  "aliases": [],
-  "tags": [
-    "folklore",
-    "mythology"
+  "description": "A dragon-like cryptid of West African folklore, particularly in the Gambia and Senegal, said to inhabit swamps and rivers and feared as a deadly omen. Investigated in 2006 by the Centre for Fortean Zoology.",
+  "aliases": [
+    {
+      "name": "Dragon",
+      "language": "Mandinka (translation)",
+      "meaning": "Per Mandinka tradition the name simply translates as 'dragon' or 'great serpent'"
+    },
+    {
+      "name": "Great Serpent",
+      "language": "English (translation)"
+    }
   ],
-  "status": "documented",
-  "regions": [],
-  "origin": "West African (Gambia, Senegal)",
-  "first_reported": "Unknown",
+  "tags": [
+    "west-africa",
+    "gambia",
+    "senegal",
+    "dragon",
+    "river",
+    "swamp",
+    "cryptid",
+    "mandinka"
+  ],
+  "status": "active",
+  "regions": [
+    "Lower Gambia",
+    "Senegambia"
+  ],
+  "origin": "West Africa, with the strongest concentration of accounts in the Gambia, Senegal, and surrounding Mandinka-speaking areas.",
+  "first_reported": "Pre-colonial",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

@@ -52,7 +52,12 @@
   <footer class="site-footer" role="contentinfo">
     <div class="container">
       <div class="site-footer__bottom">
-        <p class="text-muted text-center">&copy; 2026 Wyrdness Project</p>
+        <p class="text-muted text-center">
+          Comprehensive documentation of paranormal phenomena from cultures worldwide.
+        </p>
+        <p class="text-muted text-center">
+          &copy; 2026 Wyrdness Project. All phenomenon data is freely available.
+        </p>
       </div>
     </div>
   </footer>
@@ -84,17 +89,37 @@
         loading.style.display = 'none';
         grid.style.display = 'grid';
         
+        const emojiMap = {
+          cryptid: '🦍', ghost: '👻', ghost_haunting: '👻',
+          mythological_creature: '🐲', mythological: '🐲',
+          demon_angel: '😈', demon: '😈',
+          alien: '👽', ufo_uap: '🛸',
+          urban_legend: '🏙️', modern_internet_folklore: '💻', internet_folklore: '💻',
+          paranormal: '✨', psychic_phenomena: '🔮',
+          yokai: '👹', fae_folklore: '🧚',
+          folklore: '📖', monster: '👾',
+          spirit: '🌟', entity_spirit: '🌟',
+          supernatural: '🔮', undead: '🧟',
+          conspiracy_theory: '🕵️', anomaly: '❔',
+          atmospheric_phenomenon: '🌩️', atmospheric_phenomena: '🌩️',
+          location: '📍', haunted_location: '🏚️', location_phenomenon: '📍',
+          shapeshifter_undead: '🐺', uncategorized: '❓'
+        };
+
+        function prettyName(key) {
+          if (!key || key === 'uncategorized') return 'Uncategorized';
+          return key.replace(/[_|]/g, ' ').replace(/\s+/g, ' ').trim()
+            .toLowerCase().replace(/\b\w/g, l => l.toUpperCase());
+        }
+
         grid.innerHTML = sortedCategories.map(([name, data]) => {
-          const emoji = {
-            cryptid: '🦍', ghost: '👻', mythological: '🐲', demon: '😈',
-            alien: '��', urban_legend: '🏙️', paranormal: '✨', yokai: '👹',
-            folklore: '📖', monster: '👾', spirit: '🌟', supernatural: '��'
-          }[name] || '❓';
-          
+          const emoji = emojiMap[name] || '❓';
+          const label = prettyName(name);
+
           return `
             <div style="background: var(--bg-secondary); padding: var(--space-lg); border-radius: var(--radius-lg); border: 1px solid var(--border-color);">
               <div style="font-size: var(--font-3xl); text-align: center; margin-bottom: var(--space-sm);">${emoji}</div>
-              <h3 style="text-align: center; margin-bottom: var(--space-xs);">${name.replace('_', ' ').replace(/\b\w/g, l => l.toUpperCase())}</h3>
+              <h3 style="text-align: center; margin-bottom: var(--space-xs);">${label}</h3>
               <p class="text-muted text-center mb-md">${data.count} phenomena</p>
               <details>
                 <summary style="cursor: pointer; color: var(--accent-purple);">View all</summary>

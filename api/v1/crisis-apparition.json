@@ -1,17 +1,41 @@
 {
   "id": "crisis-apparition",
   "name": "Crisis Apparition",
-  "category": "psychic",
-  "description": "A Crisis Apparition is a specific type of apparition in which a person appears to friends, family, or loved ones at the moment of—or shortly before or after—their death, serious injury, or extreme distress, despite being physically distant from the witness.",
-  "aliases": [],
-  "tags": [
-    "folklore",
-    "mythology"
+  "category": "psychic_phenomena",
+  "description": "A crisis apparition is an apparition of a living person that appears to friends or family at the moment of — or within approximately 12 hours of — that person's death, serious injury, or extreme distress, despite the person being physically distant from the witness.",
+  "aliases": [
+    {
+      "name": "Veridical apparition",
+      "language": "English",
+      "meaning": "An apparition that conveys truthful information about an event at a distance"
+    },
+    {
+      "name": "Death wraith",
+      "language": "English",
+      "region": "British Isles",
+      "meaning": "Apparition of a dying person appearing to loved ones"
+    },
+    {
+      "name": "Fetch",
+      "language": "English",
+      "region": "Ireland and Scotland",
+      "meaning": "Double or apparition of a living person, seen at time of crisis or death"
+    }
   ],
-  "status": "documented",
+  "tags": [
+    "apparition",
+    "psychic",
+    "telepathy",
+    "death",
+    "crisis",
+    "SPR",
+    "psychical-research",
+    "ghost"
+  ],
+  "status": "active",
   "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "origin": "Crisis apparitions have been reported globally across all cultures and historical periods. Systematic collection has focused heavily on the British Isles and Europe from the 1880s onward, with cases documented in North America, Australia, and other countries.",
+  "first_reported": "Pre-modern",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

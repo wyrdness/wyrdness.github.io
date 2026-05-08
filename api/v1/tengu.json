@@ -2,15 +2,58 @@
   "id": "tengu",
   "name": "Tengu",
   "category": "entity_spirit",
-  "description": "Tengu are one of the most iconic creatures in Japanese folklore, supernatural beings that inhabit mountains and forests.",
-  "aliases": [],
-  "tags": [
-    "and-meaning"
+  "description": "Japanese mountain spirits, classed as both yōkai and kami, ranging from lesser bird-like kotengu to high-ranking long-nosed daitengu, originally portrayed as Buddhist demons but later re-imagined as protective mountain guardians and martial-arts mentors.",
+  "aliases": [
+    {
+      "name": "天狗",
+      "language": "Japanese (kanji)",
+      "meaning": "literally 'heavenly dog'"
+    },
+    {
+      "name": "Karasu-tengu",
+      "language": "Japanese",
+      "meaning": "'crow tengu' — bird-headed type"
+    },
+    {
+      "name": "Konoha-tengu",
+      "language": "Japanese",
+      "meaning": "'leaf tengu' — humanoid long-nosed type"
+    },
+    {
+      "name": "Yamabushi-tengu",
+      "language": "Japanese",
+      "meaning": "'mountain-ascetic tengu' — high-ranking humanoid form"
+    },
+    {
+      "name": "Daitengu",
+      "language": "Japanese",
+      "meaning": "'great tengu' — leaders/chiefs"
+    },
+    {
+      "name": "Kotengu",
+      "language": "Japanese",
+      "meaning": "'small tengu' — lesser, more bird-like beings"
+    }
   ],
-  "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "tags": [
+    "japan",
+    "yokai",
+    "kami",
+    "shinto",
+    "buddhist-folklore",
+    "mountain-spirit",
+    "shapeshifter",
+    "yamabushi"
+  ],
+  "status": "active",
+  "regions": [
+    "Honshu",
+    "Kansai (Mount Kurama, Mount Atago, Mount Hiei)",
+    "Tōhoku",
+    "Chūbu"
+  ],
+  "origin": "Tengu are exclusively associated with Japan and concentrated in the country's mountainous interior, especially central Honshu.",
+  "first_reported": "0720-01-01",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

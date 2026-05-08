@@ -2,16 +2,48 @@
   "id": "skunk-ape",
   "name": "Skunk Ape",
   "category": "cryptid",
-  "description": "The **Skunk Ape** is a cryptid hominid reported primarily from the swamps, forests, and wetlands of Florida and the southeastern United States.",
-  "aliases": [],
-  "tags": [
-    "folklore",
-    "mythology"
+  "description": "The Skunk Ape is a bipedal, ape-like cryptid reported primarily in the swamps and forests of Florida and the wider southeastern United States, named for the strong, foul odor associated with its reported encounters.",
+  "aliases": [
+    {
+      "name": "Florida Bigfoot",
+      "region": "Florida, USA"
+    },
+    {
+      "name": "Swamp Ape",
+      "region": "Florida, USA"
+    },
+    {
+      "name": "Bardin Booger",
+      "region": "Bardin, Putnam County, Florida, USA"
+    },
+    {
+      "name": "Esti Capcaki",
+      "language": "Reported as Seminole/Miccosukee",
+      "region": "Florida, USA",
+      "meaning": "Reported as 'Furry Tall Man' / 'Hairy Giant'"
+    }
   ],
-  "status": "documented",
-  "regions": [],
-  "origin": "American (Florida), 1960s-present",
-  "first_reported": "Unknown",
+  "tags": [
+    "humanoid",
+    "bipedal",
+    "cryptid",
+    "florida",
+    "swamp",
+    "southeastern-united-states",
+    "bigfoot-variant",
+    "foul-odor"
+  ],
+  "status": "active",
+  "regions": [
+    "Florida",
+    "Everglades",
+    "Big Cypress National Preserve",
+    "Georgia",
+    "Alabama",
+    "Southeastern United States"
+  ],
+  "origin": "Reports concentrate in central and southern Florida, with secondary clusters across Georgia, Alabama, and the wider southeastern coastal plain. According to coverage cited on the English Wikipedia article, sightings have been reported from 48 of Florida's 67 counties since 2010.",
+  "first_reported": "1818",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

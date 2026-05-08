@@ -1,16 +1,50 @@
 {
   "id": "strzyga",
-  "name": "Strzyga - The Polish Demon-Vampire",
-  "category": "in_vampire_folklore:_a_living_vampire_whose_demonic_nature_is_integral_from_birth_rather_than_acquired_through_death._this_creature_bridges_the_gap_between_human_and_monster,_never_fully_belonging_to_either_world.",
-  "description": "The **strzyga** (also spelled *strzygi*, *striga*, or *strzygoń*) is a terrifying undead creature from Polish folklore—a demon-vampire hybrid born with two souls, one human and one demonic.",
-  "aliases": [],
-  "tags": [
-    "in-folklore."
+  "name": "Strzyga",
+  "category": "undead",
+  "description": "The strzyga is a usually female demon from Polish Slavic folklore — a dual-souled being born with two hearts and two rows of teeth, whose demonic soul leaves the body after death to prey on the living by drinking blood and consuming organs.",
+  "aliases": [
+    {
+      "name": "Strzygi",
+      "language": "Polish",
+      "meaning": "Plural form"
+    },
+    {
+      "name": "Strzygoń",
+      "language": "Polish",
+      "meaning": "Masculine form used in some regional traditions"
+    },
+    {
+      "name": "Striga",
+      "language": "Latin / Polish variant",
+      "meaning": "Latin root; a screech-owl or blood-drinking demon; source of the Polish term"
+    },
+    {
+      "name": "Strigă",
+      "language": "Romanian",
+      "meaning": "Romanian cognate; related but distinct vampire tradition"
+    }
   ],
-  "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "tags": [
+    "polish",
+    "slavic",
+    "vampire",
+    "folklore",
+    "undead",
+    "demon",
+    "dual-soul",
+    "nocturnal",
+    "owl",
+    "eastern-europe",
+    "rural-folklore"
+  ],
+  "status": "historical",
+  "regions": [
+    "Rural Poland",
+    "Broadly: Eastern Europe and former Polish-Lithuanian Commonwealth territories"
+  ],
+  "origin": "Primarily Polish folklore, with cognate traditions in Romanian, Albanian, and Hungarian folk belief. The broader strix tradition extends throughout the ancient and medieval Mediterranean and Eastern European world.",
+  "first_reported": "1200-01-01",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

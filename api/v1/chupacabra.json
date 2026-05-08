@@ -1,17 +1,49 @@
 {
   "id": "chupacabra",
   "name": "Chupacabra",
-  "category": "|_cryptid_|",
-  "description": "The Chupacabra (Spanish for \\\"goat-sucker\\\") is a cryptid that emerged in Puerto Rico in 1995 and quickly spread through Latin America and the southern United States.",
-  "aliases": [],
-  "tags": [
-    "folklore",
-    "mythology"
+  "category": "cryptid",
+  "description": "A modern livestock-predator cryptid first widely reported in Puerto Rico in 1995. Two distinct forms dominate: an upright, spined, alien-like Puerto Rican type and a hairless, dog-like type reported in Mexico and the southwestern United States.",
+  "aliases": [
+    {
+      "name": "Chupacabras",
+      "language": "Spanish",
+      "meaning": "Goat-sucker (plural of cabra in 'chupa-cabras')"
+    },
+    {
+      "name": "El Chupacabras",
+      "language": "Spanish",
+      "region": "Latin America"
+    },
+    {
+      "name": "Goat-sucker",
+      "language": "English",
+      "meaning": "Direct translation"
+    },
+    {
+      "name": "El Vampiro de Moca",
+      "language": "Spanish",
+      "region": "Puerto Rico",
+      "meaning": "'The vampire of Moca'; 1970s livestock-killing precursor to the modern Chupacabra"
+    }
   ],
-  "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "tags": [
+    "vampire",
+    "livestock",
+    "puerto-rico",
+    "latin-america",
+    "americas",
+    "modern-cryptid"
+  ],
+  "status": "active",
+  "regions": [
+    "Caribbean",
+    "Latin America",
+    "Southwestern United States",
+    "Texas",
+    "Yucatán Peninsula"
+  ],
+  "origin": "Reports originated in Puerto Rico in 1995 and within a few years spread across Latin America and into the southwestern and southern United States. Sightings have been reported in Mexico, Argentina, Bolivia, Brazil, Chile, Colombia, the Dominican Republic, Nicaragua, Panama, Peru, Texas, New Mexico, Arizona, Maine, and Russia (rare).",
+  "first_reported": "1995-03",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

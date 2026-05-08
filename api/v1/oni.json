@@ -1,17 +1,59 @@
 {
   "id": "oni",
   "name": "Oni",
-  "category": "of_japanese_supernatural_entities_|",
-  "description": "Oni are supernatural demons or ogres from Japanese folklore, Buddhist mythology, and Shinto traditions.",
-  "aliases": [],
+  "category": "demon_angel",
+  "description": "Oni are demons or ogres of Japanese folklore and Buddhist mythology, typically depicted as horned, fanged, brightly-coloured humanoids in tiger-skin loincloths who carry iron clubs (kanabō). They guard the Buddhist hells, punish the wicked, and are warded off by the Setsubun bean-throwing ritual.",
+  "aliases": [
+    {
+      "name": "Oni (鬼)",
+      "language": "Japanese",
+      "meaning": "Demon, ogre; from on/onu (隠), 'to hide, conceal'"
+    },
+    {
+      "name": "Ki / Gui (鬼)",
+      "language": "Chinese",
+      "meaning": "Spirit of the dead; the kanji adopted into Japanese"
+    },
+    {
+      "name": "Akaoni",
+      "language": "Japanese",
+      "meaning": "Red oni"
+    },
+    {
+      "name": "Aooni",
+      "language": "Japanese",
+      "meaning": "Blue (or green) oni"
+    },
+    {
+      "name": "Yamauba / Yamababa (mountain demoness, related)",
+      "language": "Japanese"
+    },
+    {
+      "name": "Namahage",
+      "language": "Japanese",
+      "region": "Oga Peninsula, Akita Prefecture",
+      "meaning": "New Year ritual figures with oni-like masks"
+    }
+  ],
   "tags": [
+    "japan",
+    "yokai",
+    "demon",
+    "buddhism",
+    "shinto",
     "folklore",
-    "mythology"
+    "horns",
+    "mythological-creature"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "Mount Ōe (Tango Province, modern Kyoto Prefecture) — Shuten-dōji legend",
+    "Oga Peninsula, Akita Prefecture — Namahage",
+    "Mount Iozan / Beppu — onsen demon imagery",
+    "Tokyo (Sensō-ji) — onigawara roof tiles"
+  ],
+  "origin": "A pan-Japanese supernatural figure with regional concentrations of legend (Mount Ōe, Akita's Oga Peninsula). Imagery has spread internationally through manga and anime.",
+  "first_reported": "713",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

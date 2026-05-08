@@ -2,15 +2,40 @@
   "id": "nang-kwak",
   "name": "Nang Kwak",
   "category": "entity_spirit",
-  "description": "Thai spirit goddess who beckons customers and brings prosperity to merchants This phenomenon represents an important part of Thai folklore and cultural heritage, with documented accounts and traditions spanning generations.",
-  "aliases": [],
+  "description": "A benevolent female household deity of Thai folk religion, regarded as the patron of merchants and a bringer of customers and prosperity. Depicted as a beautiful woman in red Thai dress, kneeling, with her right hand raised in a beckoning gesture.",
+  "aliases": [
+    {
+      "name": "นางกวัก",
+      "language": "Thai",
+      "meaning": "Lady of Beckoning"
+    },
+    {
+      "name": "Mae Nang Kwak",
+      "language": "Thai",
+      "meaning": "Mother / Lady Nang Kwak"
+    },
+    {
+      "name": "Nang Supawadee",
+      "language": "Thai",
+      "meaning": "name in the Buddhist origin legend"
+    }
+  ],
   "tags": [
-    "folklore",
-    "mythology"
+    "thailand",
+    "deity",
+    "fortune",
+    "merchant",
+    "buddhist",
+    "household",
+    "amulet",
+    "southeast-asia"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "| Thai |",
+  "regions": [
+    "Mainland Southeast Asia",
+    "Thai diaspora communities"
+  ],
+  "origin": "Veneration is centered in Thailand and extends to ethnic-Thai and Chinese-Thai communities across Southeast Asia, with documented presence in Hong Kong.",
   "first_reported": "Unknown",
   "danger_level": "unknown",
   "evidence_level": "unknown"

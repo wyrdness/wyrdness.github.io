@@ -2,16 +2,61 @@
   "id": "soucouyant",
   "name": "Soucouyant",
   "category": "undead",
-  "description": "The **Soucouyant** (also spelled *Soucouyan*, *Soucriant*) is one of the most terrifying and enduring figures in Caribbean folklore—a vampire witch who sheds her skin at night, transforms into a ball of fire, and soars through the darkness seeking victims to drain of blood.",
-  "aliases": [],
+  "description": "The soucouyant is a figure of Caribbean folklore: an old woman by day who at night sheds her skin, transforms into a ball of fire, and flies in search of victims whose blood she drains. She is defeated by finding her shed skin and salting it so she cannot return to human form before sunrise.",
+  "aliases": [
+    {
+      "name": "Soucriant",
+      "language": "French Creole",
+      "region": "Trinidad, Saint Lucia, Louisiana"
+    },
+    {
+      "name": "Soukouyan",
+      "language": "Grenadian Creole",
+      "region": "Grenada"
+    },
+    {
+      "name": "Soukougnan / Soukounian",
+      "language": "French Creole",
+      "region": "Guadeloupe, Martinique, Suriname"
+    },
+    {
+      "name": "Loogaroo",
+      "language": "Caribbean English (from French loup-garou)",
+      "region": "Caribbean diaspora"
+    },
+    {
+      "name": "Ole Higue / Ol' Higue / Ole Haig",
+      "region": "Guyana, Belize, Jamaica"
+    },
+    {
+      "name": "Asema",
+      "region": "Suriname"
+    },
+    {
+      "name": "Hag",
+      "region": "Bahamas, Barbados"
+    }
+  ],
   "tags": [
-    "folklore",
-    "mythology"
+    "caribbean",
+    "vampire",
+    "shapeshifter",
+    "witch",
+    "fireball",
+    "blood-drinker",
+    "afro-caribbean",
+    "folklore"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Christian syncretism",
-  "first_reported": "Unknown",
+  "regions": [
+    "Caribbean",
+    "French Caribbean",
+    "Anglophone Caribbean",
+    "Surinamese Caribbean",
+    "Caribbean diaspora communities"
+  ],
+  "origin": "Across the Caribbean, including Anglophone, Francophone, and Dutch-speaking territories, with diaspora reach into the United States (notably Louisiana) and Canada.",
+  "first_reported": "Pre-19th century",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

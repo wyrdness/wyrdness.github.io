@@ -1,126 +1,58 @@
 {
-  "meta": {
-    "version": "1.0.0",
-    "schema_version": "1.0.0",
-    "last_updated": "2026-02-13",
-    "repository": "https://github.com/wyrdness/banshee",
-    "maintainers": [
-      {
-        "name": "Wyrdness Team",
-        "github": "wyrdness",
-        "role": "maintainer"
-      }
-    ],
-    "license": {
-      "data": "CC0-1.0",
-      "content": "CC-BY-4.0"
+  "id": "banshee",
+  "name": "Banshee",
+  "category": "entity_spirit",
+  "description": "A female supernatural figure of Irish folklore — the bean sí, 'woman of the fairy mound' — whose mourning cry, the keen, foretells the death of a member of certain Irish families.",
+  "aliases": [
+    {
+      "name": "Bean sí / Bean sídhe",
+      "language": "Modern Irish / Old Irish",
+      "meaning": "'Woman of the fairy mound' (síd / síde)"
+    },
+    {
+      "name": "Bean nighe",
+      "language": "Scottish Gaelic",
+      "region": "Scottish Highlands",
+      "meaning": "'Washerwoman' — Scottish counterpart, a death-omen washing grave-clothes at a ford"
+    },
+    {
+      "name": "Caoineag",
+      "language": "Scottish Gaelic",
+      "region": "Scottish Highlands",
+      "meaning": "'Weeper' — Scottish lamenting fairy"
+    },
+    {
+      "name": "Cyhyraeth",
+      "language": "Welsh",
+      "region": "Wales",
+      "meaning": "Welsh death-wailing spirit"
+    },
+    {
+      "name": "Badhbh chaointe",
+      "language": "Irish",
+      "meaning": "'Keening crow / hag' — variant or related figure"
     }
-  },
-  "phenomenon": {
-    "id": "banshee",
-    "name": "Banshee",
-    "aliases": [],
-    "category": "|_ENTITY_SPIRIT_|",
-    "subcategory": "| Folklore and cultural tradition |",
-    "tags": [
-      "folklore",
-      "mythology"
-    ],
-    "status": "documented",
-    "description": {
-      "summary": "The **banshee** (Irish: *bean sí*, meaning \\\"woman of the fairy mound\\\") is one of the most famous figures in Irish folklore.",
-      "full": "The **banshee** (Irish: *bean sí*, meaning \\\"woman of the fairy mound\\\") is one of the most famous figures in Irish folklore. She is a female spirit whose appearance or wailing cry announces that a member of a certain family is about to die. The banshee is traditionally attached to **specific Irish families**, particularly those with surnames beginning with 'O' or 'Mac' (ancient Gaelic nobility). She appears in various forms: Her most distinctive feature is her **wail**—a supernatural cry of mourning called *keening* that strikes terror and sorrow in those who hear it. The banshee is **not malevolent**; rather, she serves as a family guardian whose role is to mourn the passing of family members. The banshee tradition remains part of **living Irish folk culture**, with modern claimed experiences continuing to be reported."
-    },
-    "etymology": {
-      "origin": "Unknown",
-      "meaning": "To be documented",
-      "first_use": "Unknown"
-    }
-  },
-  "classification": {
-    "taxonomy": {
-      "category": "|_ENTITY_SPIRIT_|",
-      "type": "| Folklore and cultural tradition |",
-      "subtype": "Unknown",
-      "variant": "Unknown"
-    },
-    "related_phenomena": []
-  },
-  "characteristics": {
-    "physical": {
-      "features": [],
-      "morphology": "See README.md for detailed physical description"
-    },
-    "abilities": [],
-    "behavior": {
-      "activity_period": "unknown",
-      "disposition": "unknown",
-      "habitat_preference": []
-    }
-  },
-  "distribution": {
-    "range": {
-      "description": "Unknown",
-      "continents": [],
-      "countries": [],
-      "regions": []
-    },
-    "hotspots": [],
-    "temporal": {
-      "first_recorded": {
-        "date": "Unknown",
-        "circa": true,
-        "source": "Traditional folklore"
-      }
-    }
-  },
-  "history": {
-    "origins": {
-      "cultural_roots": "Unknown",
-      "earliest_accounts": "See README.md for historical details",
-      "folklore_connections": "Unknown"
-    },
-    "timeline": []
-  },
-  "sightings": {
-    "statistics": {
-      "total_documented": 0,
-      "verified": 0,
-      "disputed": 0,
-      "debunked": 0
-    },
-    "notable": [],
-    "database_path": "./sightings/"
-  },
-  "evidence": {
-    "physical": [],
-    "photographic": [],
-    "video": [],
-    "audio": [],
-    "trace": []
-  },
-  "theories": {
-    "paranormal": [],
-    "scientific": [],
-    "skeptical": []
-  },
-  "cultural": {
-    "folklore": {
-      "traditions": [],
-      "stories": [],
-      "beliefs": "See README.md for cultural context"
-    },
-    "popular_culture": {
-      "literature": [],
-      "film_tv": [],
-      "games": [],
-      "other": []
-    }
-  },
-  "research": {
-    "researchers": [],
-    "organizations": [],
-    "ongoing_studies": "None documented"
-  },
-  "sources": []
+  ],
+  "tags": [
+    "irish-folklore",
+    "celtic",
+    "fairy",
+    "death-omen",
+    "keening",
+    "wailing-woman",
+    "family-spirit"
+  ],
+  "status": "documented",
+  "regions": [
+    "Connacht",
+    "Munster",
+    "Ulster",
+    "Leinster",
+    "Scottish Highlands (cognate)",
+    "Wales (cognate)"
+  ],
+  "origin": "Native to Ireland; cognate figures across the Celtic-speaking world (Scotland, Wales, Isle of Man). With the Irish diaspora the banshee tradition has been carried to North America, Australia, and other Anglophone regions.",
+  "first_reported": "c. 1380",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
 }

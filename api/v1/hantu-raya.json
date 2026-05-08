@@ -1,17 +1,38 @@
 {
   "id": "hantu-raya",
   "name": "Hantu Raya",
-  "category": "|_broad_category_of_servant_spirits_across_cultures_|",
-  "description": "Hantu Raya, meaning \\\"Great Ghost\\\" or \\\"Grand Spirit,\\\" is one of the most powerful supernatural entities in Malay folklore and Islamic mysticism as practiced in Southeast Asia.",
-  "aliases": [],
+  "category": "entity_spirit",
+  "description": "Hantu Raya ('Great Ghost') is a powerful Malay familiar spirit said to be bound to a human master — typically a bomoh (shaman) or pawang — for whom it serves as a strength-augmenting double. It demands strict ritual offerings and is inherited within families as hantu pusaka.",
+  "aliases": [
+    {
+      "name": "Great Ghost",
+      "language": "English",
+      "meaning": "Direct translation"
+    },
+    {
+      "name": "Hantu Pusaka",
+      "language": "Malay",
+      "region": "Malaysia",
+      "meaning": "Heirloom spirit, when inherited within a family lineage"
+    }
+  ],
   "tags": [
-    "folklore",
-    "mythology"
+    "familiar-spirit",
+    "bomoh",
+    "malay-folklore",
+    "black-magic",
+    "shapeshifter",
+    "doppelganger",
+    "ancak",
+    "hereditary-spirit"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "Malay Peninsula",
+    "East Malaysia (Sabah, Sarawak)"
+  ],
+  "origin": "Malay-Islamic cultural sphere of Maritime Southeast Asia: peninsular Malaysia in particular, with belief extending into Singapore, Brunei, southern Thailand, and parts of Indonesia.",
+  "first_reported": "Pre-Islamic Malay animism",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

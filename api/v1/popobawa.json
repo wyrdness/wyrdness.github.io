@@ -1,17 +1,40 @@
 {
   "id": "popobawa",
   "name": "Popobawa",
-  "category": "entity_spirit_/_demon_angel",
-  "description": "The popobawa is notorious for **sexually assaulting its victims, primarily men**, during nocturnal attacks.",
-  "aliases": [],
-  "tags": [
-    "folklore",
-    "mythology"
+  "category": "demon_angel",
+  "description": "A shapeshifting evil spirit of Zanzibari Swahili tradition, blamed for waves of nocturnal sexual assaults on Pemba Island, Unguja, and the Tanzanian coast. Major panics occurred in 1965, the 1970s, 1995, and 2007.",
+  "aliases": [
+    {
+      "name": "Popo Bawa",
+      "language": "Swahili",
+      "region": "Zanzibar"
+    },
+    {
+      "name": "Mapopobawa",
+      "language": "Swahili",
+      "meaning": "Plural form (multiple Popobawa)"
+    }
   ],
-  "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "tags": [
+    "shapeshifter",
+    "swahili",
+    "zanzibar",
+    "tanzania",
+    "incubus",
+    "nocturnal",
+    "moral-panic",
+    "sleep-paralysis"
+  ],
+  "status": "active",
+  "regions": [
+    "Zanzibar",
+    "Pemba Island",
+    "Unguja",
+    "Dar es Salaam",
+    "Swahili Coast"
+  ],
+  "origin": "Concentrated in the Zanzibar archipelago — particularly Pemba Island and Unguja — with episodic outbreaks reaching the Tanzanian mainland (Dar es Salaam) and elsewhere on the Swahili coast.",
+  "first_reported": "1965",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

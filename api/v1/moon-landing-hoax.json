@@ -1,17 +1,35 @@
 {
   "id": "moon-landing-hoax",
-  "name": "Moon Landing Hoax Conspiracy Theory - DEBUNKED",
-  "category": "conspiracy_theory_(debunked)",
-  "description": "The Moon Landing Hoax conspiracy theory falsely claims that some or all of the Apollo Moon landings (1969-1972) were faked by NASA and the U.",
-  "aliases": [],
-  "tags": [
-    "folklore",
-    "mythology"
+  "name": "Moon landing conspiracy theories",
+  "category": "conspiracy_theory",
+  "description": "Moon landing conspiracy theories claim that NASA's six crewed Apollo lunar landings between 1969 and 1972 were faked; the claims have been examined and rebutted by scientists, engineers, multiple independent national space agencies, and physical evidence on the Moon itself.",
+  "aliases": [
+    {
+      "name": "Apollo Moon hoax",
+      "region": "United States and worldwide"
+    },
+    {
+      "name": "We Never Went to the Moon",
+      "region": "Title of Bill Kaysing's 1976 book"
+    }
   ],
-  "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "tags": [
+    "conspiracy",
+    "apollo",
+    "nasa",
+    "1969",
+    "debunked",
+    "space-program",
+    "cold-war"
+  ],
+  "status": "debunked",
+  "regions": [
+    "American conspiracy media",
+    "Russian-language media",
+    "Online conspiracy communities"
+  ],
+  "origin": "Originated in the United States, with significant followings in Russia, the United Kingdom and elsewhere; the conspiracy theory circulates globally on the internet.",
+  "first_reported": "1976",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

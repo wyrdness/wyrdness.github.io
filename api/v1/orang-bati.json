@@ -1,17 +1,34 @@
 {
   "id": "orang-bati",
   "name": "Orang Bati",
-  "category": "of_ghosts_and_spirits_in_malay_culture",
-  "description": "Orang Bati (\\\"men with wings\\\" in Indonesian/Malay) represents one of Southeast Asia's most compelling cryptozoological enigmas—winged humanoid creatures allegedly inhabiting the remote mountainous interior of Seram Island in Indonesia's Maluku (Molucca) Islands.",
-  "aliases": [],
-  "tags": [
-    "folklore",
-    "mythology"
+  "category": "cryptid",
+  "description": "A reported winged humanoid creature from Seram Island in the Maluku (Molucca) Islands of eastern Indonesia, described as approximately five feet tall with bat-like black wings and red skin, said to emerge from caves on Mount Kairatu to abduct children from remote villages at night.",
+  "aliases": [
+    {
+      "name": "Orang-bati",
+      "language": "Malay/Indonesian",
+      "region": "Seram Island, Maluku, Indonesia",
+      "meaning": "Men with wings"
+    }
   ],
-  "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "tags": [
+    "indonesia",
+    "seram",
+    "maluku",
+    "winged-humanoid",
+    "nocturnal",
+    "southeast-asia",
+    "cryptid",
+    "flying-creature",
+    "island-folklore"
+  ],
+  "status": "unverified",
+  "regions": [
+    "Seram Island, Maluku Province, Indonesia",
+    "Mount Kairatu (Gunung Binaiya) area"
+  ],
+  "origin": "Reported exclusively from Seram Island (Ceram), Maluku (Molucca) Islands, eastern Indonesia. The creature is specifically associated with the interior mountains, particularly Mount Kairatu (Gunung Binaiya).",
+  "first_reported": "1500-01-01",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

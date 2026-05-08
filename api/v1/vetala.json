@@ -1,16 +1,55 @@
 {
   "id": "vetala",
+  "name": "Vetala",
   "category": "undead",
-  "description": "No description available.",
-  "aliases": [],
+  "description": "A class of spirit-beings in Hindu mythology that inhabits and animates corpses, traditionally associated with cremation grounds, fortune-telling, and the riddle-cycle of Vikramaditya in the Vetala Panchavimshati.",
+  "aliases": [
+    {
+      "name": "Vetal",
+      "language": "Hindi",
+      "region": "North India"
+    },
+    {
+      "name": "Betal",
+      "language": "Hindi/Marathi",
+      "region": "South Asia"
+    },
+    {
+      "name": "Baital",
+      "language": "Hindi",
+      "region": "North India",
+      "meaning": "form used in Baital Pachisi"
+    },
+    {
+      "name": "Vetoba",
+      "language": "Konkani",
+      "region": "Konkan, western India"
+    },
+    {
+      "name": "Vetāla",
+      "language": "Sanskrit",
+      "meaning": "spirit inhabiting corpses"
+    }
+  ],
   "tags": [
+    "hindu-mythology",
+    "sanskrit",
+    "spirit",
+    "corpse",
+    "south-asia",
     "folklore",
     "mythology"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "South Asia",
+    "Konkan coast",
+    "Goa",
+    "Maharashtra",
+    "Karnataka"
+  ],
+  "origin": "The vetala is a feature of Hindu mythology and South Asian folklore, with the strongest literary and cultic tradition in India and Nepal. Regional veneration of Vetoba/Betal is concentrated in the Konkan coastal region of western India.",
+  "first_reported": "11th century",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

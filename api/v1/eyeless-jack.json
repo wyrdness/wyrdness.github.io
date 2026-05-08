@@ -1,17 +1,22 @@
 {
   "id": "eyeless-jack",
   "name": "Eyeless Jack",
-  "category": "|_internet_folklore_|",
-  "description": "Eyeless Jack is a **fictional character** from internet creepypasta stories, typically depicted as a figure in a black hoodie with empty, tar-dripping eye sockets who breaks into homes at night to harvest human organs—particularly kidneys—which he eats.",
+  "category": "urban_legend",
+  "description": "Eyeless Jack is a fictional character from internet creepypasta fiction, depicted as a figure in a black hoodie and blue mask with empty, black-fluid-leaking eye sockets who breaks into homes to harvest and eat human organs — particularly kidneys.",
   "aliases": [],
   "tags": [
-    "folklore",
-    "mythology"
+    "creepypasta",
+    "internet-folklore",
+    "urban-legend",
+    "horror",
+    "fictional-character",
+    "organ-harvesting",
+    "2010s"
   ],
   "status": "documented",
   "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "origin": "As an internet-based fictional character, Eyeless Jack has no geographic distribution in the traditional sense. The character circulates globally through English-language and translated creepypasta communities.",
+  "first_reported": "2012-02-25",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

@@ -1,17 +1,52 @@
 {
   "id": "remote-viewing",
   "name": "Remote Viewing",
-  "category": "|_broader_category_of_claimed_paranormal_mental_abilities_|",
-  "description": "The most famous of these programs, the **Stargate Project**, ran from the 1970s through 1995 and cost approximately $20 million.",
-  "aliases": [],
-  "tags": [
-    "folklore",
-    "mythology"
+  "category": "psychic_phenomena",
+  "description": "A claimed psychic ability to perceive distant or unseen targets, studied in U.S. government-funded research programmes from 1972 to 1995 and concluded by independent review to lack reliable evidence.",
+  "aliases": [
+    {
+      "name": "RV",
+      "language": "English"
+    },
+    {
+      "name": "Coordinate Remote Viewing (CRV)",
+      "language": "English",
+      "meaning": "Ingo Swann's structured protocol used at SRI"
+    },
+    {
+      "name": "Extended Remote Viewing (ERV)",
+      "language": "English",
+      "meaning": "Variant developed within the U.S. Army programmes"
+    },
+    {
+      "name": "Stargate Project",
+      "language": "English",
+      "meaning": "Umbrella name for the U.S. government remote-viewing programmes from 1991"
+    },
+    {
+      "name": "Sun Streak / Center Lane / Grill Flame / Gondola Wish",
+      "language": "English",
+      "meaning": "Earlier classified codenames for the same lineage of programmes"
+    }
   ],
-  "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "tags": [
+    "parapsychology",
+    "stargate-project",
+    "sri-international",
+    "cia",
+    "dia",
+    "cold-war",
+    "pseudoscience",
+    "psi"
+  ],
+  "status": "debunked",
+  "regions": [
+    "California (SRI International, Menlo Park)",
+    "Maryland (Fort Meade, U.S. Army INSCOM)",
+    "Princeton, New Jersey (PEAR lab)"
+  ],
+  "origin": "Research has been conducted primarily in the United States, with related parapsychological work in the United Kingdom, the Netherlands, the former Soviet Union, and elsewhere. Government interest is documented for the United States and (in declassified records) for the Soviet Union.",
+  "first_reported": "1971-12-01",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

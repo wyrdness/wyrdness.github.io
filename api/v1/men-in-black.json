@@ -2,16 +2,38 @@
   "id": "men-in-black",
   "name": "Men in Black",
   "category": "ufo_uap",
-  "description": "Men in Black (MIB) are mysterious individuals dressed in dark suits who allegedly appear after UFO sightings to intimidate, threaten, or warn witnesses into silence.",
-  "aliases": [],
-  "tags": [
-    "folklore",
-    "mythology"
+  "description": "Mysterious figures in dark suits who, in modern UFO lore beginning with Albert K. Bender (1953), allegedly visit witnesses of UFO sightings to intimidate them into silence; the tradition was popularised in print by Gray Barker and John Keel and has since become deeply embedded in popular culture.",
+  "aliases": [
+    {
+      "name": "MIB",
+      "language": "English",
+      "meaning": "Acronym used in UFO literature"
+    },
+    {
+      "name": "Three Men in Black",
+      "language": "English",
+      "meaning": "Phrasing used by Albert K. Bender in his 1962 account"
+    }
   ],
-  "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "tags": [
+    "ufo",
+    "ufology",
+    "contactee",
+    "1950s",
+    "albert-bender",
+    "gray-barker",
+    "john-keel",
+    "intimidation",
+    "conspiracy"
+  ],
+  "status": "active",
+  "regions": [
+    "New England",
+    "American Midwest and Mid-Atlantic",
+    "Pacific Northwest"
+  ],
+  "origin": "Reports are concentrated in the United States, with secondary reports in the United Kingdom, continental Europe, and Latin America.",
+  "first_reported": "1947-06-21",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

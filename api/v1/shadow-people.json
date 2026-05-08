@@ -1,17 +1,45 @@
 {
   "id": "shadow-people",
   "name": "Shadow People",
-  "category": "of_reports_involving_dark_humanoid_figures_seen_in_peripheral_vision_that_vanish_when_looked_at_directly._witnesses_describe_seeing_movement_or_presence_at_the_edge_of_their_vision,_turning_to_look,_and_seeing_a_shadow_figure_that_immediately_disappears_or_moves_rapidly_away.",
-  "description": "Shadow People are dark humanoid silhouettes typically observed in peripheral vision, often associated with feelings of dread and frequently reported during sleep paralysis episodes.",
-  "aliases": [],
+  "category": "urban_legend",
+  "description": "Shadow people are perceived dark, human-shaped silhouettes — often glimpsed in peripheral vision, in bedrooms during sleep paralysis, or at thresholds — and frequently associated with feelings of dread. Modern folklore consolidates a recognisable 'Hat Man' variant. Mainstream research attributes the experience to sleep paralysis, hypnagogic hallucination, and pareidolia rather than to external entities.",
+  "aliases": [
+    {
+      "name": "Shadow person",
+      "language": "English"
+    },
+    {
+      "name": "Shadow figures",
+      "language": "English"
+    },
+    {
+      "name": "Shadow beings",
+      "language": "English"
+    },
+    {
+      "name": "Hat Man",
+      "language": "English",
+      "meaning": "shadow person variant in a wide-brimmed hat or fedora"
+    },
+    {
+      "name": "Black mass",
+      "language": "English",
+      "meaning": "amorphous variant"
+    }
+  ],
   "tags": [
-    "folklore",
-    "mythology"
+    "sleep-paralysis",
+    "hypnagogia",
+    "hat-man",
+    "modern-folklore",
+    "internet-folklore",
+    "urban-legend",
+    "coast-to-coast-am"
   ],
   "status": "documented",
   "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "origin": "Reported worldwide. The modern internet-era reporting cluster is heavily English-language (United States, Canada, United Kingdom, Australia), but accounts have been collected from every inhabited continent. The phenomenon is a domestic-interior one; it is not concentrated in particular landscapes.",
+  "first_reported": "Late 20th century (modern term)",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

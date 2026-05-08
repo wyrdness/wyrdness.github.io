@@ -1,17 +1,42 @@
 {
   "id": "rokurokubi",
-  "name": "Rokurokubi (轆轤首)",
+  "name": "Rokurokubi",
   "category": "entity_spirit",
-  "description": "The **Rokurokubi** is a fascinating Japanese yokai that exists in **two distinct forms**, both involving transformation of the neck and head:",
-  "aliases": [],
-  "tags": [
-    "folklore",
-    "mythology"
+  "description": "A rokurokubi is a Japanese yōkai that appears nearly human but possesses a neck that stretches to extraordinary lengths; a related subtype called nukekubi has a head that fully detaches and floats independently at night.",
+  "aliases": [
+    {
+      "name": "轆轤首",
+      "language": "Japanese",
+      "meaning": "pulley neck; neck that extends like a rotating mechanical device"
+    },
+    {
+      "name": "ろくろ首",
+      "language": "Japanese",
+      "meaning": "Hiragana form of the same name"
+    },
+    {
+      "name": "Nukekubi",
+      "language": "Japanese",
+      "meaning": "detachable head; a related subtype whose head fully separates from the body"
+    }
   ],
-  "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "tags": [
+    "japanese",
+    "yokai",
+    "shape-shifter",
+    "nocturnal",
+    "humanoid",
+    "elongating-neck",
+    "detachable-head",
+    "folklore",
+    "east-asia"
+  ],
+  "status": "historical",
+  "regions": [
+    "All regions of Japan historically; origin traditions also present in China and Southeast Asia"
+  ],
+  "origin": "A creature of Japanese folklore, with analogous traditions distributed across East and Southeast Asia, suggesting shared or parallel origin traditions.",
+  "first_reported": "1663",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

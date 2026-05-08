@@ -1,126 +1,42 @@
 {
-  "meta": {
-    "version": "1.0.0",
-    "schema_version": "1.0.0",
-    "last_updated": "2026-02-13",
-    "repository": "https://github.com/wyrdness/ben-drowned",
-    "maintainers": [
-      {
-        "name": "Wyrdness Team",
-        "github": "wyrdness",
-        "role": "maintainer"
-      }
-    ],
-    "license": {
-      "data": "CC0-1.0",
-      "content": "CC-BY-4.0"
+  "id": "ben-drowned",
+  "name": "BEN Drowned",
+  "category": "urban_legend",
+  "description": "A multimedia online horror narrative and alternate reality game by Alexander D. Hall ('Jadusable') begun on 4chan's /x/ board on 7 September 2010, framed as a haunted Nintendo 64 cartridge of The Legend of Zelda: Majora's Mask possessed by an entity called BEN.",
+  "aliases": [
+    {
+      "name": "Haunted Majora's Mask Cartridge",
+      "language": "English",
+      "region": "4chan / online",
+      "meaning": "Original title of the 4chan post"
+    },
+    {
+      "name": "Jadusable's Majora's Mask story",
+      "language": "English",
+      "region": "Internet"
+    },
+    {
+      "name": "Ben (entity)",
+      "language": "English",
+      "region": "Internet"
     }
-  },
-  "phenomenon": {
-    "id": "ben-drowned",
-    "name": "BEN Drowned",
-    "aliases": [],
-    "category": "MODERN_INTERNET_FOLKLORE",
-    "subcategory": "Unknown",
-    "tags": [
-      "folklore",
-      "mythology"
-    ],
-    "status": "documented",
-    "description": {
-      "summary": "This approach transformed creepypasta from passive reading to active participation, creating deeper engagement and sense of reality despite known fictional status.",
-      "full": "This approach transformed creepypasta from passive reading to active participation, creating deeper engagement and sense of reality despite known fictional status."
-    },
-    "etymology": {
-      "origin": "Unknown",
-      "meaning": "To be documented",
-      "first_use": "Unknown"
-    }
-  },
-  "classification": {
-    "taxonomy": {
-      "category": "MODERN_INTERNET_FOLKLORE",
-      "type": "Unknown",
-      "subtype": "Unknown",
-      "variant": "Unknown"
-    },
-    "related_phenomena": []
-  },
-  "characteristics": {
-    "physical": {
-      "features": [],
-      "morphology": "See README.md for detailed physical description"
-    },
-    "abilities": [],
-    "behavior": {
-      "activity_period": "unknown",
-      "disposition": "unknown",
-      "habitat_preference": []
-    }
-  },
-  "distribution": {
-    "range": {
-      "description": "Unknown",
-      "continents": [],
-      "countries": [],
-      "regions": []
-    },
-    "hotspots": [],
-    "temporal": {
-      "first_recorded": {
-        "date": "Unknown",
-        "circa": true,
-        "source": "Traditional folklore"
-      }
-    }
-  },
-  "history": {
-    "origins": {
-      "cultural_roots": "Unknown",
-      "earliest_accounts": "See README.md for historical details",
-      "folklore_connections": "Unknown"
-    },
-    "timeline": []
-  },
-  "sightings": {
-    "statistics": {
-      "total_documented": 0,
-      "verified": 0,
-      "disputed": 0,
-      "debunked": 0
-    },
-    "notable": [],
-    "database_path": "./sightings/"
-  },
-  "evidence": {
-    "physical": [],
-    "photographic": [],
-    "video": [],
-    "audio": [],
-    "trace": []
-  },
-  "theories": {
-    "paranormal": [],
-    "scientific": [],
-    "skeptical": []
-  },
-  "cultural": {
-    "folklore": {
-      "traditions": [],
-      "stories": [],
-      "beliefs": "See README.md for cultural context"
-    },
-    "popular_culture": {
-      "literature": [],
-      "film_tv": [],
-      "games": [],
-      "other": []
-    }
-  },
-  "research": {
-    "researchers": [],
-    "organizations": [],
-    "ongoing_studies": "None documented"
-  },
-  "sources": []
+  ],
+  "tags": [
+    "creepypasta",
+    "internet-folklore",
+    "urban-legend",
+    "alternate-reality-game",
+    "video-games",
+    "majoras-mask",
+    "haunted-media",
+    "21st-century"
+  ],
+  "status": "documented",
+  "regions": [
+    "Anglophone internet horror community"
+  ],
+  "origin": "Internet-native phenomenon; primarily distributed via 4chan's /x/ board, YouTube, and Jadusable's hosted website. Audience is global English-speaking internet users.",
+  "first_reported": "2010-09-07",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
 }

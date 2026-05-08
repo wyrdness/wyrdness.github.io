@@ -2,16 +2,36 @@
   "id": "snallygaster",
   "name": "Snallygaster",
   "category": "cryptid",
-  "description": "The Snallygaster is a dragon-like creature from Maryland folklore, particularly associated with Frederick County and the Blue Ridge Mountains.",
-  "aliases": [],
+  "description": "The Snallygaster is a dragon-like creature of central-Maryland folklore — particularly Frederick County and the South Mountain area — whose name derives from the Pennsylvania German 'schneller geist' ('quick spirit'). The creature became a newspaper sensation in 1909 when the Middletown Valley Register published a series of sensational reports.",
+  "aliases": [
+    {
+      "name": "Schneller Geist",
+      "language": "Pennsylvania German / German",
+      "region": "Frederick County, Maryland",
+      "meaning": "'quick spirit / quick ghost'"
+    }
+  ],
   "tags": [
-    "folklore",
-    "mythology"
+    "maryland",
+    "cryptid",
+    "german-american",
+    "frederick-county",
+    "newspaper-hoax",
+    "dragon",
+    "appalachian"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "Maryland",
+    "Frederick County",
+    "Middletown Valley",
+    "South Mountain",
+    "Blue Ridge",
+    "Berkeley County, West Virginia",
+    "Washington, D.C. metro area"
+  ],
+  "origin": "Concentrated in central and western Maryland (especially Frederick County), with secondary reports in the Washington, D.C. metro area and Berkeley County, West Virginia.",
+  "first_reported": "1735",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

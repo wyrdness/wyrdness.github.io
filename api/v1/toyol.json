@@ -1,17 +1,55 @@
 {
   "id": "toyol",
   "name": "Toyol",
-  "category": "supernatural_entity",
-  "description": "The **toyol** (also spelled *tuyul*) is one of Southeast Asia's most infamous supernatural entities—an undead infant spirit bound through black magic to serve as a thieving familiar.",
-  "aliases": [],
-  "tags": [
-    "folklore",
-    "mythology"
+  "category": "entity_spirit",
+  "description": "An undead infant familiar in Malay and Indonesian folklore, kept by a shaman or owner to steal money and small valuables for its master. Belief remains widespread across the Malay Archipelago.",
+  "aliases": [
+    {
+      "name": "Tuyul",
+      "language": "Indonesian",
+      "region": "Indonesia"
+    },
+    {
+      "name": "Thuyul",
+      "language": "Javanese",
+      "region": "Java"
+    },
+    {
+      "name": "Kecit",
+      "language": "Sundanese",
+      "region": "West Java"
+    },
+    {
+      "name": "Kwee Kia",
+      "language": "Hokkien",
+      "region": "Chinese-Indonesian / Chinese-Malaysian community"
+    },
+    {
+      "name": "Kuman Thong (cf.)",
+      "language": "Thai",
+      "region": "Thailand",
+      "meaning": "Related Thai child-spirit familiar; not identical"
+    }
   ],
-  "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "tags": [
+    "southeast-asia",
+    "malay-folklore",
+    "indonesian-folklore",
+    "child-spirit",
+    "familiar",
+    "black-magic",
+    "necromancy"
+  ],
+  "status": "active",
+  "regions": [
+    "Peninsular Malaysia",
+    "Java",
+    "Sumatra",
+    "Borneo",
+    "Riau Archipelago"
+  ],
+  "origin": "Belief is found throughout the Malay Archipelago and the Malay-Chinese diaspora, including Malaysia, Indonesia, Singapore, Brunei, and southern Thailand.",
+  "first_reported": "Pre-colonial",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

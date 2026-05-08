@@ -2,16 +2,35 @@
   "id": "stone-tape-theory",
   "name": "Stone Tape Theory",
   "category": "anomaly",
-  "description": "The Stone Tape Theory is a paranormal hypothesis suggesting that buildings and other physical materials can absorb and store energy from traumatic or emotionally charged events, later \\\"replaying\\\" these recordings as ghosts or hauntings.",
-  "aliases": [],
+  "description": "A pseudoscientific hypothesis that strong emotional or traumatic events are 'recorded' onto the surrounding stone, masonry, or other materials of a location, and replayed under suitable conditions as a haunting. Popularised by Nigel Kneale's 1972 BBC television play The Stone Tape; the underlying idea has older roots in 19th- and 20th-century parapsychology.",
+  "aliases": [
+    {
+      "name": "Residual haunting hypothesis",
+      "meaning": "Modern parapsychological term for the same idea"
+    },
+    {
+      "name": "Place memory",
+      "meaning": "T. C. Lethbridge's term for emotional energy stored in the landscape"
+    }
+  ],
   "tags": [
-    "folklore",
-    "mythology"
+    "parapsychology",
+    "haunting",
+    "residual",
+    "stone-tape",
+    "pseudoscience",
+    "psychometry"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "United Kingdom",
+    "Ireland",
+    "United States",
+    "Canada",
+    "Australia"
+  ],
+  "origin": "As an interpretive framework rather than a localised phenomenon, the theory is invoked worldwide. Its strongest cultural footprint is in the United Kingdom, where it originated, and in English-language paranormal media generally.",
+  "first_reported": "1972-12-25",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

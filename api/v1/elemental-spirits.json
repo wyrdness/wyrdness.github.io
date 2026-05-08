@@ -1,17 +1,52 @@
 {
   "id": "elemental-spirits",
   "name": "Elemental Spirits",
-  "category": "|_entity_spirit_|",
-  "description": "Elemental spirits are supernatural beings associated with the four classical elements: **earth, air, fire, and water**.",
-  "aliases": [],
+  "category": "entity_spirit",
+  "description": "The four classes of nature spirits — gnomes (earth), undines (water), sylphs (air), and salamanders (fire) — codified in the 16th-century writings of Paracelsus and elaborated through Rosicrucian, Theosophical, and modern occult traditions.",
+  "aliases": [
+    {
+      "name": "Elementals",
+      "language": "English"
+    },
+    {
+      "name": "Sagani",
+      "language": "Latin (Paracelsus)",
+      "meaning": "Paracelsus's collective term for the four elementals (De Meteoris)"
+    },
+    {
+      "name": "Gnome",
+      "meaning": "Earth elemental in Paracelsus's classification"
+    },
+    {
+      "name": "Undine",
+      "language": "Latin",
+      "meaning": "Water elemental, from unda ('wave')"
+    },
+    {
+      "name": "Sylph",
+      "meaning": "Air elemental in Paracelsus's classification"
+    },
+    {
+      "name": "Salamander",
+      "meaning": "Fire elemental in Paracelsus's classification"
+    }
+  ],
   "tags": [
-    "folklore",
-    "mythology"
+    "occult",
+    "alchemy",
+    "paracelsus",
+    "four-elements",
+    "renaissance",
+    "european-folklore",
+    "esoteric"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "Western Europe",
+    "global Western occult community"
+  ],
+  "origin": "Conceptually global — wherever earth, water, air, or fire is found — but the systematic classification originates in Western European Renaissance occultism and has spread globally through Rosicrucian, Theosophical, and modern esoteric currents.",
+  "first_reported": "1566-01-01",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

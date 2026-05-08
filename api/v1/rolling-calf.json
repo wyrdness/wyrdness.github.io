@@ -2,16 +2,33 @@
   "id": "rolling-calf",
   "name": "Rolling Calf",
   "category": "undead",
-  "description": "The **Rolling Calf** is one of Jamaica's most terrifying and uniquely local supernatural entities—a massive undead bull that haunts crossroads and lonely roads at night, dragging heavy chains that clank and spark against the ground, eyes blazing like red-hot coals, and fire or smoke billowing from its nostrils.",
-  "aliases": [],
-  "tags": [
-    "profound-inversion—oppressor's-weapon-reclaimed-as-defense",
-    "but-only-without-the-lash-(violence-removed)"
+  "description": "The Rolling Calf is one of the most feared duppies (spirits) in Jamaican folklore — a shape-shifting supernatural entity that most often appears as a large calf or bull with blazing red eyes, fire from its nostrils, and a dragging iron chain, haunting lonely roads and crossroads at night.",
+  "aliases": [
+    {
+      "name": "Runnin' Calf",
+      "language": "Jamaican Patois",
+      "region": "Jamaica"
+    }
   ],
-  "status": "documented",
-  "regions": [],
-  "origin": "African-derived spiritual protection",
-  "first_reported": "Unknown",
+  "tags": [
+    "jamaican",
+    "caribbean",
+    "folklore",
+    "duppy",
+    "spirit",
+    "undead",
+    "animal-spirit",
+    "nocturnal",
+    "crossroads",
+    "west-african-derived"
+  ],
+  "status": "active",
+  "regions": [
+    "Rural Jamaica",
+    "Caribbean"
+  ],
+  "origin": "Primarily a Jamaican tradition, with parallel duppy beliefs across the broader Caribbean.",
+  "first_reported": "1929-01-01",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

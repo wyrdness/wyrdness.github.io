@@ -1,16 +1,38 @@
 {
   "id": "ittan-momen",
-  "name": "Ittan-momen (一反木綿)",
-  "category": "|",
-  "description": "Ittan-momen (一反木綿, \\\"one-tan of cotton\\\") is a dangerous yokai from southern Japan, particularly associated with Kagoshima Prefecture on Kyushu island.",
-  "aliases": [],
+  "name": "Ittan-momen",
+  "category": "entity_spirit",
+  "description": "Ittan-momen (一反木綿, 'one bolt of cotton') is a dangerous yokai from Kagoshima Prefecture in southern Japan, appearing as a long white strip of cotton cloth that flies through the night sky and kills humans by wrapping around their heads and necks.",
+  "aliases": [
+    {
+      "name": "一反木綿",
+      "language": "Japanese",
+      "region": "Kagoshima Prefecture",
+      "meaning": "One bolt of cotton / one tan of cotton cloth"
+    }
+  ],
   "tags": [
-    "&-themes"
+    "japanese",
+    "yokai",
+    "kagoshima",
+    "kyushu",
+    "animated-object",
+    "cloth",
+    "nocturnal",
+    "suffocation",
+    "japan"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "Kagoshima Prefecture (primary)",
+    "Kimotsuki District, Kagoshima",
+    "Fukuoka Prefecture",
+    "Kyushu broadly",
+    "Tokyo (Higashi-Kōenji Station, Ogikubo)",
+    "Shizuoka Prefecture"
+  ],
+  "origin": "Originating in Kōyama, Kimotsuki District, Kagoshima Prefecture, southern Kyushu. Modern sightings reported more broadly across Kyushu, Tokyo, and Shizuoka.",
+  "first_reported": "Pre-modern",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

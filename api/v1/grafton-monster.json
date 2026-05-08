@@ -2,16 +2,32 @@
   "id": "grafton-monster",
   "name": "Grafton Monster",
   "category": "cryptid",
-  "description": "The **Grafton Monster** is a cryptid entity reported from Grafton, West Virginia, primarily known from a single dramatic encounter in 1964.",
-  "aliases": [],
-  "tags": [
-    "folklore",
-    "mythology"
+  "description": "A pale, headless humanoid creature reportedly seen by a local journalist near Grafton, West Virginia, on the night of 16 June 1964. The legend rests on this single newspaper-published account.",
+  "aliases": [
+    {
+      "name": "Headless Monster of Grafton",
+      "region": "Grafton, West Virginia, USA"
+    },
+    {
+      "name": "Riverside Drive Monster",
+      "region": "Grafton, West Virginia, USA"
+    }
   ],
-  "status": "documented",
-  "regions": [],
-  "origin": "American (West Virginia), 1964",
-  "first_reported": "Unknown",
+  "tags": [
+    "cryptid",
+    "appalachia",
+    "west-virginia",
+    "humanoid",
+    "1960s",
+    "single-witness"
+  ],
+  "status": "historical",
+  "regions": [
+    "West Virginia",
+    "Appalachia"
+  ],
+  "origin": "Restricted to a single sighting near Grafton, Taylor County, West Virginia.",
+  "first_reported": "1964-06-16",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

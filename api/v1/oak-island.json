@@ -1,17 +1,41 @@
 {
   "id": "oak-island",
   "name": "Oak Island Money Pit",
-  "category": "historical_mystery",
-  "description": "Oak Island is a 140-acre island in Mahone Bay, Nova Scotia, Canada, that has been the subject of treasure hunting expeditions since allegedly 1795.",
-  "aliases": [],
-  "tags": [
-    "folklore",
-    "mythology"
+  "category": "location",
+  "description": "Oak Island is a 57-hectare (140-acre) tree-covered island in Mahone Bay, Nova Scotia, the focus of one of the longest-running treasure hunts in history. Since 1795, expeditions have excavated the so-called 'Money Pit' in search of buried treasure, with multiple deaths but no verified treasure recovered.",
+  "aliases": [
+    {
+      "name": "The Money Pit",
+      "language": "English",
+      "region": "Oak Island, Nova Scotia, Canada"
+    },
+    {
+      "name": "Oak Island Mystery",
+      "language": "English"
+    },
+    {
+      "name": "Oak Island Treasure",
+      "language": "English"
+    }
   ],
-  "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "tags": [
+    "nova-scotia",
+    "treasure-hunt",
+    "money-pit",
+    "history-channel",
+    "mahone-bay",
+    "north-america",
+    "cold-case",
+    "maritime"
+  ],
+  "status": "active",
+  "regions": [
+    "Mahone Bay",
+    "Lunenburg County",
+    "Nova Scotia"
+  ],
+  "origin": "A single island in Mahone Bay, Nova Scotia, Canada, accessed from the village of Western Shore by a causeway constructed in 1965.",
+  "first_reported": "1795",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

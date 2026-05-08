@@ -1,16 +1,36 @@
 {
   "id": "nue",
-  "name": "Nue (鵺)",
+  "name": "Nue",
   "category": "mythological_creature",
-  "description": "The Nue is one of Japan's most fearsome yokai, described as a chimeric creature combining parts from multiple animals.",
-  "aliases": [],
+  "description": "A chimeric yokai of Japanese legend with a monkey's head, a tanuki's body, a tiger's limbs, and a snake-tail; famous for the Heian-period account of the warrior Minamoto no Yorimasa shooting it down to cure Emperor Konoe.",
+  "aliases": [
+    {
+      "name": "鵺",
+      "language": "Japanese (kanji)"
+    },
+    {
+      "name": "ぬえ",
+      "language": "Japanese (hiragana)"
+    }
+  ],
   "tags": [
-    "&-cultural-significance"
+    "japan",
+    "yokai",
+    "heian-period",
+    "chimera",
+    "tale-of-the-heike",
+    "minamoto-no-yorimasa",
+    "emperor-konoe",
+    "scaly-thrush"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "Kyoto",
+    "Hyōgo Prefecture",
+    "Osaka Prefecture"
+  ],
+  "origin": "Japan; the canonical narrative is set at the imperial palace in Heian-kyō (modern Kyoto). Sites associated with the Nuezuka (Nue burial mounds) and Yorimasa relics are scattered across Japan, including Hyōgo and Osaka prefectures.",
+  "first_reported": "Heian period (12th century)",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

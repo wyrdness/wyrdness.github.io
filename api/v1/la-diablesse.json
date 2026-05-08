@@ -2,16 +2,43 @@
   "id": "la-diablesse",
   "name": "La Diablesse",
   "category": "entity_spirit",
-  "description": "La Diablesse (French Creole: \\\"The She-Devil\\\") is one of the most iconic and enduring figures in Trinidad and Tobago folklore.",
-  "aliases": [],
-  "tags": [
-    "folklore",
-    "mythology"
+  "description": "La Diablesse ('the She-Devil') is a Caribbean folkloric demoness, especially associated with Trinidad and Tobago, who appears as a beautiful woman in old-fashioned dress with one human leg and one cloven cow-hoof, luring men into the forest where they become lost and die.",
+  "aliases": [
+    {
+      "name": "Lajables",
+      "language": "Trinidadian Creole",
+      "region": "Trinidad and Tobago"
+    },
+    {
+      "name": "La Jablesse",
+      "language": "Trinidadian Creole",
+      "region": "Trinidad and Tobago"
+    },
+    {
+      "name": "She-Devil",
+      "language": "English",
+      "meaning": "literal English gloss of la diablesse"
+    }
   ],
-  "status": "documented",
-  "regions": [],
-  "origin": "|",
-  "first_reported": "Unknown",
+  "tags": [
+    "caribbean",
+    "trinidad-and-tobago",
+    "grenada",
+    "she-devil",
+    "shapeshifter",
+    "shapeshifting",
+    "moral-warning",
+    "creole-folklore"
+  ],
+  "status": "active",
+  "regions": [
+    "Trinidad",
+    "Tobago",
+    "Grenada",
+    "French-Creole Caribbean"
+  ],
+  "origin": "Trinidad and Tobago is the heartland of the La Diablesse tradition, with cognate figures in Grenada, Saint Lucia, Dominica and other French-Creole Caribbean islands.",
+  "first_reported": "Pre-modern",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

@@ -1,17 +1,40 @@
 {
   "id": "mystery-airships",
-  "name": "Mystery Airships",
-  "category": "|_anomaly/ufo_uap_|",
-  "description": "The Mystery Airships represent one of the most significant mass sighting events in pre-modern aviation history.",
-  "aliases": [],
-  "tags": [
-    "folklore",
-    "mythology"
+  "name": "Mystery Airships (1896-1897)",
+  "category": "ufo_uap",
+  "description": "The 'Mystery Airships' wave of 1896-1897 was a major pre-aviation mass sighting episode in which thousands of Americans reported large cigar-shaped craft with searchlights and propellers crossing the night sky, beginning over Sacramento, California in November 1896 and spreading across much of the United States by April 1897.",
+  "aliases": [
+    {
+      "name": "1896-1897 airship wave",
+      "region": "United States"
+    },
+    {
+      "name": "Great Airship Mystery",
+      "region": "United States"
+    }
   ],
-  "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "tags": [
+    "ufo-precursor",
+    "1896",
+    "1897",
+    "airship",
+    "mass-sighting",
+    "yellow-journalism",
+    "california",
+    "midwest"
+  ],
+  "status": "historical",
+  "regions": [
+    "California",
+    "Pacific Northwest",
+    "Midwest",
+    "Texas",
+    "Kansas",
+    "Nebraska",
+    "Michigan"
+  ],
+  "origin": "Reports spread across California beginning in November 1896, reached Arizona Territory, Nevada, Oregon, Washington and British Columbia, and then jumped to the Midwest (Nebraska, Kansas, Missouri, Texas, Oklahoma, Arkansas, Wisconsin, Michigan, Minnesota) in February-April 1897, with thousands of reported sightings.",
+  "first_reported": "1896-11-17",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

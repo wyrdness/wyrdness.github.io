@@ -1,18 +1,33 @@
 {
   "id": "eloko",
-  "name": "Eloko (Biloko)",
+  "name": "Eloko",
   "category": "entity_spirit",
-  "description": "The Eloko (plural: Biloko) are dangerous dwarf spirits from the folklore of the Nkundo and Mongo peoples of the Democratic Republic of Congo.",
-  "aliases": [],
+  "description": "A dangerous dwarf-like forest spirit of the Mongo-Nkundo peoples of the Congo Basin, said to dwell in hollow trees, dressed in leaves with a beard of grass, carrying enchanting bells and possessing claws and a wide-opening mouth. Often understood as the spirit of an ancestor who died in the forest under unjust circumstances.",
+  "aliases": [
+    {
+      "name": "Biloko",
+      "language": "Mongo-Nkundo (Bantu)",
+      "region": "Democratic Republic of the Congo",
+      "meaning": "Plural form of 'eloko'"
+    }
+  ],
   "tags": [
-    "forest-protection",
-    "wilderness-danger",
-    "natural-boundaries"
+    "africa",
+    "congo",
+    "rainforest",
+    "dwarf-spirit",
+    "ancestral",
+    "mongo-nkundo",
+    "folklore"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Congolese (Nkundo, Mongo peoples)",
-  "first_reported": "Unknown",
+  "regions": [
+    "Congo Basin",
+    "central DRC",
+    "Mongo-Nkundo cultural area"
+  ],
+  "origin": "Confined to the rainforests of the central Congo Basin, particularly the territory of the Mongo-Nkundo peoples of the Democratic Republic of the Congo.",
+  "first_reported": "Pre-contact",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

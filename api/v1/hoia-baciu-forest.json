@@ -1,17 +1,42 @@
 {
   "id": "hoia-baciu-forest",
   "name": "Hoia-Baciu Forest",
-  "category": "|_location_(haunted_forest)_|",
-  "description": "Hoia-Baciu Forest is a 250-hectare woodland on the western edge of Cluj-Napoca, Romania, that has gained international notoriety as one of the world's most haunted forests.",
-  "aliases": [],
+  "category": "location",
+  "description": "An oak forest west of Cluj-Napoca in Transylvania, Romania, internationally known as a hotspot of paranormal claims — UFO sightings, ghost reports, missing-person legends, and an alleged 'dead zone' clearing — and the subject of paranormal-tourism interest.",
+  "aliases": [
+    {
+      "name": "Pădurea Hoia-Baciu",
+      "language": "Romanian",
+      "region": "Cluj County, Romania",
+      "meaning": "Hoia-Baciu Forest"
+    },
+    {
+      "name": "Bermuda Triangle of Transylvania",
+      "region": "Romania (popular nickname)"
+    },
+    {
+      "name": "Bermuda Triangle of Romania",
+      "region": "Romania (popular nickname)"
+    }
+  ],
   "tags": [
-    "folklore",
-    "mythology"
+    "haunted-forest",
+    "romania",
+    "transylvania",
+    "ufo",
+    "paranormal-location",
+    "missing-persons-folklore",
+    "ghost-stories",
+    "tourist-destination"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "Transylvania",
+    "Cluj County",
+    "Cluj-Napoca"
+  ],
+  "origin": "A specific location: an oak forest of approximately 250–295 hectares on the western outskirts of Cluj-Napoca, Cluj County, Transylvania, Romania.",
+  "first_reported": "Late 1950s",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

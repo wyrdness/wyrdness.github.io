@@ -1,16 +1,75 @@
 {
   "id": "tylwyth-teg",
+  "name": "Tylwyth Teg",
   "category": "fae_folklore",
-  "description": "No description available.",
-  "aliases": [],
+  "description": "The Tylwyth Teg ('Fair Family') are the principal fairy folk of Welsh folklore, parallel to the Aos Sí of Ireland and the fairies of English and Continental tradition.",
+  "aliases": [
+    {
+      "name": "Y Tylwyth Teg",
+      "language": "Welsh",
+      "meaning": "the Fair Family"
+    },
+    {
+      "name": "Bendith y Mamau",
+      "language": "Welsh",
+      "meaning": "Blessing of the Mothers",
+      "region": "Glamorgan and South Wales"
+    },
+    {
+      "name": "Gwyllion",
+      "language": "Welsh",
+      "meaning": "wild ones / mountain hags"
+    },
+    {
+      "name": "Ellyllon",
+      "language": "Welsh",
+      "meaning": "elves / sprites"
+    },
+    {
+      "name": "Coblynau",
+      "language": "Welsh",
+      "meaning": "mine fairies"
+    },
+    {
+      "name": "Bwbachod",
+      "language": "Welsh",
+      "meaning": "household fairies, akin to brownies"
+    },
+    {
+      "name": "Gwragedd Annwn",
+      "language": "Welsh",
+      "meaning": "Wives of the Otherworld; lake fairies"
+    },
+    {
+      "name": "Plant Annwn",
+      "language": "Welsh",
+      "meaning": "Children of Annwn"
+    }
+  ],
   "tags": [
-    "folklore",
-    "mythology"
+    "fairy",
+    "fae",
+    "welsh",
+    "celtic",
+    "uk",
+    "wales",
+    "british-isles",
+    "changeling",
+    "iron-aversion",
+    "lake-fairies"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "Wales",
+    "Snowdonia / Eryri",
+    "South Wales",
+    "Glamorgan",
+    "Carmarthenshire",
+    "Pembrokeshire",
+    "Welsh Marches"
+  ],
+  "origin": "Tylwyth Teg traditions are found across Wales, with regional variations in name and emphasis. They are part of the broader Brythonic Celtic fairy tradition shared with Cornwall and Brittany.",
+  "first_reported": "12th century",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

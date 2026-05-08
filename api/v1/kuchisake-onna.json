@@ -2,15 +2,37 @@
   "id": "kuchisake-onna",
   "name": "Kuchisake-onna",
   "category": "urban_legend",
-  "description": "The legend describes a woman wearing a surgical mask who approaches victims—often children—and asks: > **\\\"Watashi, kirei?",
-  "aliases": [],
-  "tags": [
-    "&-themes"
+  "description": "A malevolent female figure of Japanese urban legend who covers her mouth with a surgical mask and asks 'Am I beautiful?' before revealing a mouth slit ear-to-ear. The modern legend caused a documented school-route panic across Japan in 1979.",
+  "aliases": [
+    {
+      "name": "Slit-Mouthed Woman",
+      "language": "English"
+    },
+    {
+      "name": "口裂け女",
+      "language": "Japanese",
+      "meaning": "slit-mouthed woman"
+    }
   ],
-  "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "tags": [
+    "japan",
+    "urban-legend",
+    "yokai",
+    "onryo",
+    "1979-panic",
+    "slit-mouth",
+    "scissors",
+    "schoolchildren"
+  ],
+  "status": "active",
+  "regions": [
+    "Gifu Prefecture",
+    "Kanto",
+    "Kansai",
+    "nationwide Japan"
+  ],
+  "origin": "Originated in Gifu Prefecture, Japan, in late 1978 and spread nationally through Japan in 1979. Subsequent transmission carried the legend to South Korea and into the worldwide horror-media imaginary.",
+  "first_reported": "1978-12",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

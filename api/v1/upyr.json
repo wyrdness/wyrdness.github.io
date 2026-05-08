@@ -1,17 +1,60 @@
 {
   "id": "upyr",
-  "name": "Upyr - The Slavic Vampire",
+  "name": "Upyr",
   "category": "undead",
-  "description": "The **upyr** (also spelled *upir*, *upior*, or *wampir*) is an ancient Slavic undead creature that serves as the direct precursor to the modern Western vampire.",
-  "aliases": [],
+  "description": "The upyr is the Slavic revenant or blood-drinking undead from which the modern Western 'vampire' concept is descended; a corpse that rises from the grave to attack family, livestock, and community.",
+  "aliases": [
+    {
+      "name": "Upiór",
+      "language": "Polish",
+      "region": "Poland and Ukraine"
+    },
+    {
+      "name": "Upir",
+      "language": "Old East Slavic",
+      "region": "Kievan Rus'"
+    },
+    {
+      "name": "Упырь (Upyr')",
+      "language": "Russian"
+    },
+    {
+      "name": "Упир (Upyr)",
+      "language": "Ukrainian"
+    },
+    {
+      "name": "Wąpierz / Wampir",
+      "language": "Polish"
+    },
+    {
+      "name": "Wieszczy",
+      "language": "Polish (Kashubian)",
+      "region": "Pomerania"
+    },
+    {
+      "name": "Vampir",
+      "language": "Serbian/Bulgarian",
+      "meaning": "borrowing source for English 'vampire'"
+    }
+  ],
   "tags": [
-    "folklore",
-    "mythology"
+    "vampire",
+    "slavic",
+    "undead",
+    "eastern-europe",
+    "revenant",
+    "blood-drinking",
+    "folklore"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "East Slavic Rus'",
+    "Polish-Lithuanian Commonwealth lands",
+    "Habsburg Military Frontier (18th-century vampire-epidemic zone)",
+    "Balkans"
+  ],
+  "origin": "Upyr traditions are found across the Slavic world and adjacent regions, from East Slavic (Russian, Ukrainian, Belarusian) through West Slavic (Polish, Czech, Slovak, Sorbian) to South Slavic (Serbian, Bulgarian, Macedonian) cultures. Closely related traditions exist among Romanians (strigoi), Greeks (vrykolakas), Albanians (shtriga), and Turkic-speaking peoples (ubir).",
+  "first_reported": "1047-01-01",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

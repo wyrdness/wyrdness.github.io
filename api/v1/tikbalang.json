@@ -2,16 +2,57 @@
   "id": "tikbalang",
   "name": "Tikbalang",
   "category": "entity_spirit",
-  "description": "The Tikbalang is a prominent creature in Filipino folklore, depicted as a tall humanoid with the head and hooves of a horse.",
-  "aliases": [],
-  "tags": [
-    "folklore",
-    "mythology"
+  "description": "A creature of Philippine folklore depicted as a tall, gaunt humanoid with the head and hooves of a horse, known for leading travelers astray in remote forested or rural areas.",
+  "aliases": [
+    {
+      "name": "Tigbalang",
+      "language": "Tagalog",
+      "region": "Philippines"
+    },
+    {
+      "name": "Tigbalan",
+      "language": "Tagalog",
+      "region": "Philippines"
+    },
+    {
+      "name": "Tikbalan",
+      "language": "Tagalog",
+      "region": "Philippines"
+    },
+    {
+      "name": "Tigbolan",
+      "language": "Visayan",
+      "region": "Visayas (Philippines)"
+    },
+    {
+      "name": "Werehorse",
+      "language": "English",
+      "region": "Translation in colonial sources"
+    },
+    {
+      "name": "Multo / bibit",
+      "language": "Spanish-era Tagalog",
+      "region": "Philippines",
+      "meaning": "Earlier Spanish colonial terms ('ghost', 'spirit') used for the same forest phantom"
+    }
   ],
-  "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "tags": [
+    "philippine-folklore",
+    "trickster",
+    "humanoid-equine",
+    "forest-spirit",
+    "southeast-asia",
+    "cultural-tradition"
+  ],
+  "status": "active",
+  "regions": [
+    "Luzon",
+    "Visayas",
+    "Sierra Madre",
+    "Cordillera Central"
+  ],
+  "origin": "Reported throughout the Philippine archipelago, particularly in mountainous and forested provinces of Luzon and the Visayas.",
+  "first_reported": "Pre-Hispanic",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

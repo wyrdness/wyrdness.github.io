@@ -2,16 +2,49 @@
   "id": "saci",
   "name": "Saci",
   "category": "entity_spirit",
-  "description": "The Saci is a beloved trickster figure from Brazilian folklore, depicted as a black or dark-skinned boy with only one leg who wears a magical red cap and smokes a pipe.",
-  "aliases": [],
+  "description": "A one-legged black or dark-skinned boy from Brazilian folklore who wears a magical red cap, smokes a pipe, and travels in whirlwinds, playing pranks but rarely causing serious harm. October 31 is officially Saci Day in Brazil.",
+  "aliases": [
+    {
+      "name": "Saci-pererê",
+      "language": "Brazilian Portuguese",
+      "region": "Brazil",
+      "meaning": "the canonical one-legged Black trickster form"
+    },
+    {
+      "name": "Saci-trique",
+      "language": "Brazilian Portuguese",
+      "region": "Brazil",
+      "meaning": "milder, often biracial variant"
+    },
+    {
+      "name": "Saci-saçurá",
+      "language": "Brazilian Portuguese",
+      "region": "Brazil",
+      "meaning": "red-eyed variant"
+    },
+    {
+      "name": "Çaci",
+      "language": "Tupi",
+      "meaning": "from Tupinambá 'çaci' meaning 'sick eye' or 'evil eye'"
+    }
+  ],
   "tags": [
+    "brazil",
     "folklore",
-    "mythology"
+    "trickster",
+    "afro-brazilian",
+    "tupi-guarani",
+    "south-america",
+    "household-spirit"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "Southeast Brazil",
+    "South Brazil",
+    "Centre-West Brazil"
+  ],
+  "origin": "Found across Brazil; particularly strongly attested in the Southeast (São Paulo, Minas Gerais, Rio de Janeiro), the South (Paraná, Santa Catarina, Rio Grande do Sul) and the Centre-West, with regional variants throughout the country.",
+  "first_reported": "Pre-contact",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

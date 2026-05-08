@@ -1,17 +1,53 @@
 {
   "id": "ifrit",
   "name": "Ifrit",
-  "category": "|_alternative_term_for_jinn_|",
-  "description": "The **Ifrit** (Arabic: عفريت, *'ifrīt*) is a powerful and typically malevolent class of jinn in Islamic tradition and Middle Eastern folklore.",
-  "aliases": [],
+  "category": "entity_spirit",
+  "description": "An ifrit is a powerful, often malevolent class of jinn in Arabic and Islamic tradition, frequently associated with fire, the underworld, and the spirits of the violently slain.",
+  "aliases": [
+    {
+      "name": "عفريت ('ifrīt)",
+      "language": "Arabic",
+      "meaning": "powerful demonic jinn"
+    },
+    {
+      "name": "عفاريت ('afārīt)",
+      "language": "Arabic",
+      "meaning": "plural of ifrit"
+    },
+    {
+      "name": "Efreet",
+      "language": "English (variant)"
+    },
+    {
+      "name": "Afrit",
+      "language": "English (variant)"
+    },
+    {
+      "name": "Afreet",
+      "language": "English (variant)"
+    }
+  ],
   "tags": [
-    "folklore",
-    "mythology"
+    "islamic-folklore",
+    "jinn",
+    "arabic",
+    "middle-east",
+    "north-africa",
+    "fire-spirit",
+    "underworld",
+    "quran"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "| Arabic/Middle Eastern |",
-  "first_reported": "Unknown",
+  "regions": [
+    "Arabian Peninsula",
+    "Mashriq",
+    "Maghreb",
+    "Egypt",
+    "Levant",
+    "Persian world"
+  ],
+  "origin": "Ifrit belief is distributed across the Arabic-speaking world and the broader Islamic cultural sphere, including the Mashriq, Egypt, North Africa, the Persian world, and parts of South and Southeast Asia.",
+  "first_reported": "7th c. CE",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

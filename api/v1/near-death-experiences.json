@@ -1,17 +1,33 @@
 {
   "id": "near-death-experiences",
   "name": "Near-Death Experiences",
-  "category": "psychic_phenomena_/_consciousness",
-  "description": "Near-Death Experiences (NDEs) are profound psychological events that occur during clinical death or close brushes with death.",
-  "aliases": [],
+  "category": "psychic_phenomena",
+  "description": "Profound personal experiences associated with death or impending death, often reported by survivors of cardiac arrest and other life-threatening events. Common features include out-of-body sensations, passage through a tunnel, encounters with light and deceased relatives, and life review.",
+  "aliases": [
+    {
+      "name": "NDE",
+      "language": "English",
+      "meaning": "Near-Death Experience"
+    },
+    {
+      "name": "Recalled Experience of Death (RED)",
+      "language": "English",
+      "meaning": "2022 terminology proposed by NDE researchers for rigorous distinction"
+    }
+  ],
   "tags": [
-    "folklore",
-    "mythology"
+    "consciousness",
+    "out-of-body",
+    "clinical-death",
+    "cardiac-arrest",
+    "psychology",
+    "neuroscience",
+    "spirituality"
   ],
   "status": "documented",
   "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "origin": "NDEs are reported worldwide and cross-culturally, with documented research in North America, Europe, and Asia.",
+  "first_reported": "1892",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

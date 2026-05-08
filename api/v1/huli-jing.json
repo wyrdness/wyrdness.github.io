@@ -1,17 +1,72 @@
 {
   "id": "huli-jing",
-  "name": "Huli Jing (狐狸精)",
-  "category": "|_spirit_|",
-  "description": "Huli jing (狐狸精) are supernatural fox spirits deeply rooted in Chinese mythology and folklore.",
-  "aliases": [],
+  "name": "Huli jing",
+  "category": "shapeshifter",
+  "description": "Huli jing are supernatural fox spirits in Chinese mythology and folklore capable of shapeshifting into human form, ranging from benevolent fox immortals (huxian) to malevolent fox demons (huyao) that drain life essence from human victims.",
+  "aliases": [
+    {
+      "name": "狐狸精",
+      "language": "Chinese",
+      "meaning": "fox spirit"
+    },
+    {
+      "name": "Huxian (狐仙)",
+      "language": "Chinese",
+      "meaning": "fox immortal"
+    },
+    {
+      "name": "Hushen (狐神)",
+      "language": "Chinese",
+      "meaning": "fox god"
+    },
+    {
+      "name": "Huyao (狐妖)",
+      "language": "Chinese",
+      "meaning": "fox demon"
+    },
+    {
+      "name": "Jiuweihu (九尾狐)",
+      "language": "Chinese",
+      "meaning": "nine-tailed fox"
+    },
+    {
+      "name": "Kitsune",
+      "language": "Japanese",
+      "region": "Japan"
+    },
+    {
+      "name": "Kumiho (구미호)",
+      "language": "Korean",
+      "region": "Korea"
+    },
+    {
+      "name": "Hồ ly tinh",
+      "language": "Vietnamese",
+      "region": "Vietnam"
+    }
+  ],
   "tags": [
-    "folklore",
-    "mythology"
+    "fox-spirit",
+    "shapeshifter",
+    "chinese-folklore",
+    "taoist",
+    "yaoguai",
+    "nine-tailed-fox",
+    "east-asia",
+    "trickster"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "Northern China",
+    "Hebei",
+    "Shandong",
+    "Shanxi",
+    "Manchuria",
+    "East Asia",
+    "Sinosphere"
+  ],
+  "origin": "Fox spirit traditions are distributed across the Sinosphere. The core tradition is Han Chinese, with strong fox-cult belief historically concentrated in northern China (Hebei, Shandong, Shanxi, Manchuria). Cognate traditions extend to Korea (kumiho), Japan (kitsune), and Vietnam (hồ ly tinh).",
+  "first_reported": "c. 4th–1st century BCE",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

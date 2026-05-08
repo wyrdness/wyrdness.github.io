@@ -2,16 +2,110 @@
   "id": "night-hag",
   "name": "Night Hag",
   "category": "entity_spirit",
-  "description": "The Night Hag is a supernatural entity reported across nearly every human culture, believed to cause the phenomenon of sleep paralysis.",
-  "aliases": [],
+  "description": "A supernatural figure reported in folk traditions worldwide as the cause of sleep paralysis: a malevolent presence that sits, presses, or 'rides' on the chest of a paralyzed sleeper.",
+  "aliases": [
+    {
+      "name": "Old Hag",
+      "language": "English (Newfoundland)",
+      "region": "Newfoundland and Labrador, Canada"
+    },
+    {
+      "name": "Mara",
+      "language": "Old Norse / Scandinavian",
+      "meaning": "Female demon that 'rides' sleepers"
+    },
+    {
+      "name": "Mære",
+      "language": "Old English"
+    },
+    {
+      "name": "Kanashibari",
+      "language": "Japanese",
+      "meaning": "'Bound in metal'"
+    },
+    {
+      "name": "Gawi nulim",
+      "language": "Korean",
+      "meaning": "'Being pressed by something scary'"
+    },
+    {
+      "name": "Gui ya shen / 鬼壓身",
+      "language": "Chinese",
+      "meaning": "'Ghost pressing on body'"
+    },
+    {
+      "name": "Ja-thoom",
+      "language": "Arabic",
+      "meaning": "'What sits heavily'"
+    },
+    {
+      "name": "Karabasan",
+      "language": "Turkish",
+      "meaning": "'Dark presser'"
+    },
+    {
+      "name": "Bakhtak",
+      "language": "Persian / Pakistani Urdu"
+    },
+    {
+      "name": "Ogun Oru",
+      "language": "Yoruba",
+      "region": "Nigeria",
+      "meaning": "'Nocturnal warfare'"
+    },
+    {
+      "name": "Kaboos",
+      "language": "Egyptian Arabic",
+      "meaning": "'Compressor'"
+    },
+    {
+      "name": "Jinamizi",
+      "language": "Swahili",
+      "meaning": "'Strangled by jinn'"
+    },
+    {
+      "name": "Pisadeira",
+      "language": "Portuguese",
+      "region": "Brazil",
+      "meaning": "'She who steps'"
+    },
+    {
+      "name": "Pesanta",
+      "language": "Catalan"
+    },
+    {
+      "name": "Ammuttadori",
+      "language": "Sardinian"
+    },
+    {
+      "name": "Dab tsog",
+      "language": "Hmong"
+    },
+    {
+      "name": "Phǐǐ am",
+      "language": "Thai/Lao"
+    },
+    {
+      "name": "Subirse el muerto",
+      "language": "Spanish (Mexico)",
+      "meaning": "'Dead person on you'"
+    }
+  ],
   "tags": [
+    "sleep-paralysis",
+    "nocturnal",
+    "incubus",
+    "succubus",
+    "global",
     "folklore",
-    "mythology"
+    "REM-atonia"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "|",
-  "first_reported": "Unknown",
+  "regions": [
+    "Global"
+  ],
+  "origin": "Reports of night-hag-type sleep paralysis encounters are documented in nearly every studied human culture.",
+  "first_reported": "Antiquity",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

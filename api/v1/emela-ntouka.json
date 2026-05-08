@@ -2,16 +2,47 @@
   "id": "emela-ntouka",
   "name": "Emela-ntouka",
   "category": "cryptid",
-  "description": "Emela-ntouka, meaning \\\"elephant killer\\\" in Lingala, is a cryptid reported from the Congo Basin, particularly the Likouala swamp region.",
-  "aliases": [],
-  "tags": [
-    "folklore",
-    "mythology"
+  "description": "An elephant-sized, single-horned, semi-aquatic cryptid reported from the Likouala swamps of the Republic of the Congo and elsewhere in the Congo Basin; its Lingala name means 'killer of elephants'.",
+  "aliases": [
+    {
+      "name": "Aseka-moke",
+      "region": "Congo Basin"
+    },
+    {
+      "name": "Njago-gunda",
+      "region": "Congo Basin"
+    },
+    {
+      "name": "Ngamba-namae",
+      "region": "Congo Basin"
+    },
+    {
+      "name": "Chipekwe",
+      "region": "Zambia / Bangweulu Swamps"
+    },
+    {
+      "name": "Irizima",
+      "region": "Eastern DRC / Lake Edward"
+    }
   ],
-  "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "tags": [
+    "cryptid",
+    "africa",
+    "congo-basin",
+    "rhinoceros-like",
+    "ceratopsian-hypothesis",
+    "semi-aquatic",
+    "lingala"
+  ],
+  "status": "unverified",
+  "regions": [
+    "Likouala swamps",
+    "Congo River basin",
+    "Bangweulu Swamps (as Chipekwe)",
+    "Lake Edward (as Irizima)"
+  ],
+  "origin": "Reports concentrate in the Likouala swamp region of the Republic of the Congo, with adjacent reports from the Democratic Republic of the Congo, Cameroon, and (under different names) Zambia and east-central Africa.",
+  "first_reported": "1954-01-01",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

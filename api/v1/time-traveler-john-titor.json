@@ -1,16 +1,36 @@
 {
   "id": "time-traveler-john-titor",
+  "name": "John Titor",
   "category": "urban_legend",
-  "description": "No description available.",
-  "aliases": [],
-  "tags": [
-    "folklore",
-    "mythology"
+  "description": "An anonymous online persona who, between 1998 and 2001, claimed to be an American soldier from the year 2036 sent back to 1975 to retrieve an IBM 5100 computer. Widely regarded as one of the most elaborate early-internet hoaxes.",
+  "aliases": [
+    {
+      "name": "TimeTravel_0",
+      "language": "English",
+      "meaning": "Username used on the Time Travel Institute forum, late 2000"
+    },
+    {
+      "name": "John Titor",
+      "language": "English",
+      "meaning": "Username used on the Art Bell BBS forum, 2001"
+    }
   ],
-  "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "tags": [
+    "internet-folklore",
+    "time-travel",
+    "hoax",
+    "early-internet",
+    "art-bell",
+    "y2038",
+    "ibm-5100"
+  ],
+  "status": "debunked",
+  "regions": [
+    "Florida",
+    "American internet culture"
+  ],
+  "origin": "Posts originated through online forums based primarily in the United States.",
+  "first_reported": "1998-07-29",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

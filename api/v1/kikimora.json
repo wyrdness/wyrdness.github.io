@@ -2,16 +2,54 @@
   "id": "kikimora",
   "name": "Kikimora",
   "category": "fae_folklore",
-  "description": "The Kikimora is a female household spirit from Slavic folklore, particularly prominent in Russian traditions.",
-  "aliases": [],
+  "description": "A female house spirit of Slavic — especially Russian — folklore, often paired with the male domovoi, who keeps the household clean and reasonable when respected but punishes lazy or neglectful families with broken dishes, tangled yarn, sleepless nights, and the tickling of children.",
+  "aliases": [
+    {
+      "name": "Кикимора",
+      "language": "Russian",
+      "meaning": "house spirit / nightly spirit"
+    },
+    {
+      "name": "Кікімара",
+      "language": "Belarusian"
+    },
+    {
+      "name": "Kikimora domowa",
+      "language": "Polish",
+      "meaning": "household kikimora"
+    },
+    {
+      "name": "Kikimora bolotnaya",
+      "language": "Russian",
+      "region": "Russia",
+      "meaning": "swamp kikimora — the wetland-dwelling variant married to the leshy"
+    },
+    {
+      "name": "Shishimora",
+      "language": "Russian",
+      "region": "northern Russia",
+      "meaning": "regional variant"
+    }
+  ],
   "tags": [
+    "slavic",
+    "russia",
     "folklore",
-    "mythology"
+    "house-spirit",
+    "domovoi",
+    "leshy",
+    "swamp",
+    "nightmare"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "European Russia",
+    "Northern Russia",
+    "Belarus",
+    "Polesia"
+  ],
+  "origin": "Concentrated in East Slavic territory — Russia, Belarus, parts of Ukraine and Poland — with related figures across the wider Slavic world.",
+  "first_reported": "1500s",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

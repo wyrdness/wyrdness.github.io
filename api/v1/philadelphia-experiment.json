@@ -1,17 +1,38 @@
 {
   "id": "philadelphia-experiment",
   "name": "Philadelphia Experiment",
-  "category": "|_conspiracy_theory_/_urban_legend_|",
-  "description": "The Philadelphia Experiment is an alleged U.",
-  "aliases": [],
-  "tags": [
-    "folklore",
-    "mythology"
+  "category": "conspiracy_theory",
+  "description": "An alleged 1943 U.S. Navy experiment said to have rendered the destroyer escort USS Eldridge invisible — and briefly teleported it from Philadelphia to Norfolk — based on Einstein's unified field theory. The story is widely regarded as a hoax originating with letters by Carl M. Allen in 1955–56.",
+  "aliases": [
+    {
+      "name": "Project Rainbow",
+      "region": "United States",
+      "meaning": "Name used in conspiracy literature for the alleged experiment"
+    },
+    {
+      "name": "USS Eldridge invisibility experiment",
+      "region": "United States"
+    }
   ],
-  "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "tags": [
+    "us-navy",
+    "wwii",
+    "1943",
+    "uss-eldridge",
+    "invisibility",
+    "teleportation",
+    "hoax",
+    "conspiracy",
+    "carl-allen",
+    "morris-jessup"
+  ],
+  "status": "debunked",
+  "regions": [
+    "Pennsylvania",
+    "Virginia"
+  ],
+  "origin": "The alleged event is associated with two real U.S. locations — the Philadelphia Naval Shipyard, Pennsylvania, and Norfolk, Virginia — but the story has no verified geographic occurrence.",
+  "first_reported": "1955",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

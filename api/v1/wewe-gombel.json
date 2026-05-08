@@ -2,16 +2,32 @@
   "id": "wewe-gombel",
   "name": "Wewe Gombel",
   "category": "ghost_haunting",
-  "description": "Ghost of a woman who kidnaps neglected children to care for them, protecting them from abusive parents This phenomenon represents an important part of Javanese folklore and cultural heritage, with documented accounts and traditions spanning generations.",
-  "aliases": [],
+  "description": "A Javanese ghost figure — the spirit of a tragically wronged woman — who abducts neglected or mistreated children, caring for them protectively until their parents repent. She is a cautionary figure in Javanese child-rearing tradition, originating from the Bukit Gombel area of Semarang, Central Java.",
+  "aliases": [
+    {
+      "name": "Wewegombel",
+      "language": "Javanese",
+      "region": "Central Java, Indonesia",
+      "meaning": "Compound of wewe (woman/widow) and Gombel (a scrubby hill in Semarang)"
+    }
+  ],
   "tags": [
-    "folklore",
-    "mythology"
+    "javanese-folklore",
+    "ghost",
+    "child-protection",
+    "indonesia",
+    "central-java",
+    "semarang",
+    "supernatural"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "| Javanese |",
-  "first_reported": "Unknown",
+  "regions": [
+    "Central Java",
+    "Semarang",
+    "East Java (broader Javanese cultural area)"
+  ],
+  "origin": "Central Java, Indonesia; the legend is most strongly associated with Semarang and the surrounding Bukit Gombel area, though it is known across Javanese-speaking communities in Central and East Java.",
+  "first_reported": "1500-01-01",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

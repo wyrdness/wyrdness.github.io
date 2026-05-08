@@ -2,16 +2,30 @@
   "id": "gillygaloo",
   "name": "Gillygaloo",
   "category": "cryptid",
-  "description": "The Gillygaloo is a humorous bird from American lumberjack folklore, famous for one remarkable adaptation: it lays perfectly square or cubic eggs.",
-  "aliases": [],
+  "description": "A fearsome critter from North American lumberjack tall-tale tradition: a hillside-dwelling bird famous for laying square or cubic eggs that will not roll downhill. Documented as a piece of camp folklore rather than a claimed real animal.",
+  "aliases": [
+    {
+      "name": "Gilly Galloo",
+      "language": "English",
+      "region": "North American lumberwoods"
+    }
+  ],
   "tags": [
-    "folklore",
-    "mythology"
+    "fearsome-critter",
+    "lumberjack-folklore",
+    "tall-tale",
+    "bird",
+    "north-america",
+    "humor"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "Great Lakes lumberwoods",
+    "New England",
+    "Pacific Northwest"
+  ],
+  "origin": "A folkloric creature 'reported' across the geography of the North American lumberjack tradition: the Great Lakes states (Michigan, Wisconsin, Minnesota), New England (Maine), the Pacific Northwest, and Canada.",
+  "first_reported": "1900-01-01",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

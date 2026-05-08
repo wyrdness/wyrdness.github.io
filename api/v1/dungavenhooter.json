@@ -2,16 +2,31 @@
   "id": "dungavenhooter",
   "name": "Dungavenhooter",
   "category": "cryptid",
-  "description": "The Dungavenhooter is one of the darkest and most absurdly tragic creatures from American lumberjack folklore.",
-  "aliases": [],
+  "description": "A fearsome critter of North American lumberjack folklore: a mouthless, alligator-like swamp creature that pounds its victims to vapor with its tail and inhales them through its enormous nostrils.",
+  "aliases": [
+    {
+      "name": "Dunganvenhooter",
+      "region": "United States"
+    }
+  ],
   "tags": [
-    "folklore",
-    "mythology"
+    "fearsome-critter",
+    "american-folklore",
+    "lumberwoods",
+    "tall-tale",
+    "north-america",
+    "swamp"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "New England",
+    "Maine",
+    "Upper Great Lakes",
+    "Michigan",
+    "Wisconsin"
+  ],
+  "origin": "Folkloric range across the swampy lumberwoods of the northeastern United States and the upper Great Lakes, broadly between Maine and Michigan as recorded in Tryon's 1939 catalogue.",
+  "first_reported": "1939",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

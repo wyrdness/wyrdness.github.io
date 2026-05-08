@@ -2,15 +2,40 @@
   "id": "gashadokuro",
   "name": "Gashadokuro",
   "category": "undead",
-  "description": "These terrifying creatures possess the ability to **turn invisible** and are **indestructible** by conventional means.",
-  "aliases": [],
-  "tags": [
-    "&-themes"
+  "description": "Gashadokuro is a colossal skeletal Japanese yokai standing 10 or more meters tall, formed from the accumulated bones and rage of those who died of starvation, that prowls at night hunting travelers to devour.",
+  "aliases": [
+    {
+      "name": "餓者髑髏",
+      "language": "Japanese",
+      "meaning": "Starving skeleton skull"
+    },
+    {
+      "name": "Gasha-dokuro",
+      "language": "Japanese"
+    },
+    {
+      "name": "Odokuro",
+      "language": "Japanese",
+      "meaning": "Great skeleton"
+    }
   ],
-  "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "tags": [
+    "yokai",
+    "japan",
+    "undead",
+    "skeleton",
+    "vengeful-spirit",
+    "giant",
+    "starvation",
+    "nocturnal"
+  ],
+  "status": "historical",
+  "regions": [
+    "Kanto region",
+    "Tokyo area (formerly Shibasaki / Edo)"
+  ],
+  "origin": "A creature of Japanese mythology associated with the Kanto region and with sites of historical mass starvation or battlefield death. Most strongly associated with events in the Kanto area related to Taira no Masakado.",
+  "first_reported": "1966-01-01",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

@@ -1,17 +1,36 @@
 {
   "id": "kunekune",
-  "name": "Kunekune (くねくね)",
-  "category": "perception-based_anomalous_phenomenon",
-  "description": "Kunekune (くねくね) is a modern Japanese urban legend that emerged in the late 1990s through early internet forums and message boards.",
-  "aliases": [],
-  "tags": [
-    "folklore",
-    "mythology"
+  "name": "Kunekune",
+  "category": "urban_legend",
+  "description": "Kunekune is an internet-born Japanese urban legend describing a slender, white humanoid figure said to appear at midday in summer rice fields, writhing in the wind. Looking at it closely is said to drive the observer insane.",
+  "aliases": [
+    {
+      "name": "くねくね",
+      "language": "Japanese",
+      "meaning": "wiggling, writhing"
+    },
+    {
+      "name": "Kunekune-sama",
+      "language": "Japanese"
+    }
   ],
-  "status": "documented",
-  "regions": [],
-  "origin": "Japanese Internet Culture (1990s-2000s)",
-  "first_reported": "Unknown",
+  "tags": [
+    "japan",
+    "urban-legend",
+    "creepypasta",
+    "internet-folklore",
+    "2channel",
+    "rural",
+    "rice-field",
+    "summer"
+  ],
+  "status": "active",
+  "regions": [
+    "rural Japan",
+    "rice-growing prefectures"
+  ],
+  "origin": "A Japanese internet-born legend; locations are narrative rather than mapped, but the canonical setting is the rural Japanese rice paddy.",
+  "first_reported": "2001",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

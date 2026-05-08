@@ -2,16 +2,59 @@
   "id": "inugami",
   "name": "Inugami",
   "category": "entity_spirit",
-  "description": "Inugami, literally \\\"dog god,\\\" is one of the darker entities in Japanese folklore—a powerful spirit familiar created through a horrifically cruel ritual and bound to serve a sorcerer or family for generations.",
-  "aliases": [],
-  "tags": [
-    "folklore",
-    "mythology"
+  "description": "Inugami ('dog god') is a powerful and dangerous spirit familiar from Japanese folklore, created through a ritual sacrifice of a dog and bound to serve a sorcerer or family line across generations, capable of possession, curse, illness, and divination.",
+  "aliases": [
+    {
+      "name": "犬神",
+      "language": "Japanese",
+      "region": "Japan",
+      "meaning": "Dog god / dog spirit"
+    },
+    {
+      "name": "狗神",
+      "language": "Japanese",
+      "region": "Japan",
+      "meaning": "Alternate kanji for dog god"
+    },
+    {
+      "name": "Ingami",
+      "language": "Japanese",
+      "region": "Miyazaki and Kumamoto prefectures",
+      "meaning": "Regional pronunciation"
+    },
+    {
+      "name": "Irigami",
+      "language": "Japanese",
+      "region": "Tanegashima",
+      "meaning": "Regional pronunciation"
+    }
   ],
-  "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "tags": [
+    "japanese",
+    "yokai",
+    "shinto",
+    "dog",
+    "familiar",
+    "curse",
+    "possession",
+    "kyushu",
+    "shikoku",
+    "hereditary",
+    "japan"
+  ],
+  "status": "active",
+  "regions": [
+    "Kyushu",
+    "Eastern Ōita Prefecture",
+    "Shimane Prefecture",
+    "Northern Shikoku (Kōchi Prefecture)",
+    "Yamaguchi Prefecture",
+    "Tanegashima",
+    "Satsunan Islands",
+    "Okinawa Prefecture"
+  ],
+  "origin": "Concentrated in western Japan, particularly Kyushu, Shikoku, and associated island chains. Belief strongest in eastern Ōita, Shimane, northern Shikoku (Kōchi), Yamaguchi, all of Kyushu, and the Satsunan Islands through Okinawa.",
+  "first_reported": "794-01-01",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

@@ -1,17 +1,35 @@
 {
   "id": "lusca",
   "name": "Lusca",
-  "category": "sea_cryptid",
-  "description": "The Lusca is a legendary Caribbean sea cryptid described as a massive octopus-shark hybrid creature said to inhabit the blue holes of the Bahamas and surrounding waters.",
-  "aliases": [],
-  "tags": [
-    "folklore",
-    "mythology"
+  "category": "cryptid",
+  "description": "The Lusca is a marine cryptid of Bahamian and Caribbean folklore, said to inhabit the blue holes of Andros Island and surrounding waters. It is most often described as a gigantic octopus or a half-octopus, half-shark or half-dragon hybrid, and is blamed locally for the deaths of swimmers, divers and small craft drawn into blue-hole tidal currents.",
+  "aliases": [
+    {
+      "name": "Giant Bahamian octopus",
+      "region": "Bahamas"
+    },
+    {
+      "name": "Him of the hairy hands",
+      "region": "Bahamas / Caribbean folklore"
+    }
   ],
-  "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "tags": [
+    "cryptid",
+    "marine",
+    "octopus",
+    "bahamas",
+    "blue-hole",
+    "andros",
+    "caribbean"
+  ],
+  "status": "unverified",
+  "regions": [
+    "Andros Island",
+    "Bahamas Banks",
+    "Caribbean Sea"
+  ],
+  "origin": "Lusca legends are concentrated on Andros Island, Bahamas, and extend through the Bahamas and the wider Caribbean wherever blue holes and cave systems exist.",
+  "first_reported": "20th century",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

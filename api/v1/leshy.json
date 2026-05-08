@@ -2,16 +2,105 @@
   "id": "leshy",
   "name": "Leshy",
   "category": "entity_spirit",
-  "description": "The Leshy is a male woodland spirit from Slavic folklore who acts as protector and ruler of the forest.",
-  "aliases": [],
-  "tags": [
-    "folklore",
-    "mythology"
+  "description": "A male woodland spirit from Slavic folklore who serves as supernatural guardian and ruler of the forest, capable of changing size and shape, leading travelers astray, and abducting children who venture too deep into the woods.",
+  "aliases": [
+    {
+      "name": "Леший",
+      "language": "Russian",
+      "region": "Russia"
+    },
+    {
+      "name": "Leshak",
+      "language": "Russian (variant)",
+      "region": "Russia"
+    },
+    {
+      "name": "Lesovik",
+      "language": "Russian (variant)",
+      "region": "Russia"
+    },
+    {
+      "name": "Lesnik",
+      "language": "Russian (variant)",
+      "region": "Russia"
+    },
+    {
+      "name": "Lesun",
+      "language": "Russian (variant)",
+      "region": "Russia"
+    },
+    {
+      "name": "Borovoi",
+      "language": "Russian",
+      "region": "Russia",
+      "meaning": "Of the pine barrens"
+    },
+    {
+      "name": "Gayevoi",
+      "language": "Russian",
+      "region": "Russia",
+      "meaning": "Of the grove"
+    },
+    {
+      "name": "Lesnoi dedushka",
+      "language": "Russian (euphemism)",
+      "region": "Russia",
+      "meaning": "Forest grandfather"
+    },
+    {
+      "name": "Lesnoi khozyain",
+      "language": "Russian (euphemism)",
+      "region": "Russia",
+      "meaning": "Forest master"
+    },
+    {
+      "name": "Leszy",
+      "language": "Polish",
+      "region": "Poland"
+    },
+    {
+      "name": "Borowy",
+      "language": "Polish",
+      "region": "Poland",
+      "meaning": "Of the forest/pine barrens"
+    },
+    {
+      "name": "Lisovyk",
+      "language": "Ukrainian",
+      "region": "Ukraine"
+    },
+    {
+      "name": "Miškinis",
+      "language": "Lithuanian",
+      "region": "Lithuania"
+    },
+    {
+      "name": "Mežainis",
+      "language": "Latvian",
+      "region": "Latvia"
+    }
   ],
-  "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "tags": [
+    "slavic",
+    "forest-spirit",
+    "shapeshifter",
+    "guardian",
+    "russia",
+    "eastern-europe",
+    "nature-deity",
+    "trickster",
+    "abductor"
+  ],
+  "status": "historical",
+  "regions": [
+    "Russian taiga and northern forests",
+    "Belarus forests",
+    "Ukrainian Carpathian forests",
+    "Polish forests",
+    "Eastern European boreal zone"
+  ],
+  "origin": "Slavic forest regions of Eastern Europe. Leshy beliefs are most densely documented in the northern forest zones of Russia, Belarus, and Ukraine, extending into Poland and other Slavic territories wherever dense old-growth forest was central to peasant economy.",
+  "first_reported": "1600-01-01",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

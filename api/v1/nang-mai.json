@@ -1,15 +1,35 @@
 {
   "id": "nang-mai",
+  "name": "Nang Mai",
   "category": "entity_spirit",
-  "description": "No description available.",
-  "aliases": [],
+  "description": "A general Thai folkloric category of female spirits that inhabit large trees. Specific named tree spirits — including Nang Tani and Nang Ta-khian — are types of Nang Mai. The male equivalent is the Rukkhadeva.",
+  "aliases": [
+    {
+      "name": "นางไม้",
+      "language": "Thai",
+      "meaning": "Lady of the Tree / Wood Lady"
+    },
+    {
+      "name": "Rukkhadeva",
+      "language": "Thai (Pali-derived)",
+      "meaning": "tree deity (male equivalent)"
+    }
+  ],
   "tags": [
+    "thailand",
+    "tree-spirit",
     "folklore",
-    "mythology"
+    "buddhist",
+    "animism",
+    "southeast-asia",
+    "female-spirit"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
+  "regions": [
+    "Mainland Southeast Asia",
+    "Theravada Buddhist cultural sphere"
+  ],
+  "origin": "Nang Mai veneration is found throughout Thailand and in adjacent Theravada-Buddhist Southeast Asia.",
   "first_reported": "Unknown",
   "danger_level": "unknown",
   "evidence_level": "unknown"

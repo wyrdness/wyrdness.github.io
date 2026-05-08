@@ -2,16 +2,41 @@
   "id": "flat-earth",
   "name": "Flat Earth",
   "category": "conspiracy_theory",
-  "description": "The Flat Earth belief claims that Earth is a flat plane rather than the scientifically proven oblate spheroid (slightly flattened sphere).",
-  "aliases": [],
-  "tags": [
-    "folklore",
-    "mythology"
+  "description": "Flat Earth is a modern conspiracy belief that the Earth is a flat plane (typically a disc with the Arctic at the centre and Antarctica as a perimeter ice wall) rather than the oblate spheroid established by more than two millennia of observational and physical evidence.",
+  "aliases": [
+    {
+      "name": "Zetetic Astronomy",
+      "language": "English",
+      "region": "United Kingdom",
+      "meaning": "the 19th-century system of Samuel Rowbotham, from Greek zetein 'to seek'"
+    },
+    {
+      "name": "Modern Flat Earth movement",
+      "region": "Global, online"
+    },
+    {
+      "name": "Flat Earth Society",
+      "language": "English",
+      "region": "International"
+    }
   ],
-  "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "tags": [
+    "conspiracy-theory",
+    "pseudoscience",
+    "cosmology",
+    "denialism",
+    "youtube-era",
+    "flat-earth-society",
+    "zetetic"
+  ],
+  "status": "debunked",
+  "regions": [
+    "Online (YouTube, TikTok, Telegram)",
+    "Lancaster, California (Charles K. Johnson era)",
+    "Dover, England (Samuel Shenton era)"
+  ],
+  "origin": "The modern Flat Earth movement is a global, primarily English-speaking online community with concentrations in the United States, the United Kingdom, Brazil, and parts of Africa and South Asia, and with significant enclaves in Russian and Spanish-speaking communities.",
+  "first_reported": "1838-01-01",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

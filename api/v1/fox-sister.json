@@ -1,16 +1,49 @@
 {
   "id": "fox-sister",
-  "name": "Fox Sister (여우 누이/狐姐)",
+  "name": "Fox Sister (여우 누이)",
   "category": "shapeshifter",
-  "description": "The Fox Sister (여우 누이, yeowoо nui; or 狐姐 in Hanja) represents a uniquely Korean supernatural entity within the broader East Asian tradition of fox spirits.",
-  "aliases": [],
+  "description": "The Fox Sister is a figure of Korean folklore in which a kumiho (nine-tailed fox spirit) takes the form of a young girl and infiltrates a family as their long-lost daughter, secretly devouring livestock and family members until exposed by an older brother.",
+  "aliases": [
+    {
+      "name": "여우 누이",
+      "language": "Korean",
+      "region": "Korea",
+      "meaning": "Fox Sister (folktale title)"
+    },
+    {
+      "name": "Yeowoo Nui",
+      "language": "Korean (revised romanization)",
+      "region": "Korea"
+    },
+    {
+      "name": "Kumiho / Gumiho (구미호)",
+      "language": "Korean",
+      "region": "Korea",
+      "meaning": "Nine-tailed fox"
+    },
+    {
+      "name": "九尾狐",
+      "language": "Hanja (Sino-Korean)",
+      "region": "Korea",
+      "meaning": "Nine-tailed fox"
+    }
+  ],
   "tags": [
-    "and-interpretation"
+    "korean-folklore",
+    "fox-spirit",
+    "shapeshifter",
+    "kumiho",
+    "east-asian",
+    "vengeful-spirit",
+    "joseon"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "Korean peninsula",
+    "Korean diaspora communities"
+  ],
+  "origin": "Korean folktale tradition (Korean peninsula and the wider Korean diaspora). The kumiho is part of the East Asian fox-spirit complex but the specific 'fox sister' motif is distinctively Korean.",
+  "first_reported": "1200-01-01",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

@@ -1,17 +1,35 @@
 {
   "id": "pelesit",
   "name": "Pelesit",
-  "category": "|_islamic_spirit_classification_|",
-  "description": "The Pelesit represents one of the most insidious and feared entities within Malay supernatural tradition—a tiny familiar spirit resembling a cricket or grasshopper, created through dark magical practices and used by sorcerers (*bomoh* or *pawang*) to attack, possess, and torment victims.",
-  "aliases": [],
+  "category": "entity_spirit",
+  "description": "The pelesit is a familiar spirit of Malay folk magic, manifesting as a cricket or grasshopper (sometimes with a human head) and traditionally owned by women, who keep it in a bottle and use it to attack victims at the command of its master and its companion spirit, the polong.",
+  "aliases": [
+    {
+      "name": "Belalang Pelesit",
+      "language": "Malay",
+      "region": "Malay world",
+      "meaning": "'Pelesit grasshopper'"
+    }
+  ],
   "tags": [
-    "folklore",
-    "mythology"
+    "malay",
+    "malaysia",
+    "indonesia",
+    "familiar-spirit",
+    "black-magic",
+    "cricket",
+    "grasshopper",
+    "kedah",
+    "polong"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "Malay world (alam Melayu)",
+    "Peninsular Malaysia",
+    "Kedah"
+  ],
+  "origin": "The pelesit is part of Malay folk magic across Peninsular Malaysia, Indonesia, Brunei, and Singapore. The tradition is particularly strongly associated with Kedah in northern Peninsular Malaysia.",
+  "first_reported": "1800s",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

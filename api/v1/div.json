@@ -1,17 +1,53 @@
 {
   "id": "div",
-  "name": "Div - Persian Demon",
+  "name": "Div",
   "category": "demon_angel",
-  "description": "Div (also spelled Daeva, Dīv, or Dēw) are malevolent supernatural entities in Persian mythology, representing demons, evil spirits, and forces of chaos and destruction.",
-  "aliases": [],
+  "description": "A class of demons of Iranian and broader Persianate mythology, descended from the Avestan daēvas demonised under Zoroastrianism. Most famous as the divs of Ferdowsi's Shāhnāmeh — gigantic, horned, monstrous beings, including Div-e Sefid (the White Div) and Akvan Div — who oppose the hero Rostam.",
+  "aliases": [
+    {
+      "name": "Dīv / دیو",
+      "language": "Persian",
+      "meaning": "demon, ogre"
+    },
+    {
+      "name": "Daēva",
+      "language": "Avestan",
+      "meaning": "false god, demon (in Zoroastrian doctrine)"
+    },
+    {
+      "name": "Dēw",
+      "language": "Middle Persian (Pahlavi)"
+    },
+    {
+      "name": "Div-e Sefīd",
+      "language": "Persian",
+      "meaning": "White Div, antagonist of the hero Rostam"
+    },
+    {
+      "name": "Akvān Div",
+      "language": "Persian",
+      "meaning": "demon defeated by Rostam"
+    }
+  ],
   "tags": [
-    "folklore",
-    "mythology"
+    "persian-mythology",
+    "iranian-folklore",
+    "zoroastrianism",
+    "shahnameh",
+    "demon",
+    "central-asia",
+    "caucasus"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Persia/Iran (Zoroastrian and Islamic traditions)",
-  "first_reported": "Unknown",
+  "regions": [
+    "Greater Iran",
+    "Mazandaran",
+    "Caucasus",
+    "Central Asia",
+    "Persianate South Asia"
+  ],
+  "origin": "The Iranian and Persianate cultural sphere, including Iran, Tajikistan, Afghanistan, the Kurdish-speaking areas of Iraq and Turkey, the South Caucasus, and parts of South Asia influenced by Persian literary culture.",
+  "first_reported": "c. 1000 BCE",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

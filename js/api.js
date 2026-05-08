@@ -2,6 +2,36 @@
 (function() {
   'use strict';
 
+  // Flatten nested {meta, phenomenon, classification, distribution, ...} into the
+  // flat shape (id, name, category, description, regions, ...) that the UI expects.
+  function normalizePhenomenon(raw) {
+    if (!raw || typeof raw !== 'object') return raw;
+    if (raw.id && raw.name && !raw.phenomenon) return raw;
+
+    const p = raw.phenomenon || {};
+    const distribution = raw.distribution || {};
+    const range = distribution.range || {};
+    const firstRecorded = distribution.temporal && distribution.temporal.first_recorded || {};
+    const desc = p.description || {};
+    const yearMatch = typeof firstRecorded.date === 'string' ? firstRecorded.date.match(/-?\d{3,4}/) : null;
+
+    return {
+      id: p.id,
+      name: p.name,
+      aliases: p.aliases || [],
+      category: (p.category || '').toLowerCase(),
+      subcategory: p.subcategory,
+      tags: p.tags || [],
+      status: p.status,
+      description: typeof desc === 'string' ? desc : (desc.summary || desc.full || ''),
+      region: range.description || (raw.history && raw.history.origins && raw.history.origins.cultural_roots) || '',
+      regions: range.regions || range.countries || [],
+      first_reported: yearMatch ? yearMatch[0] : null,
+      danger_level: p.danger_level,
+      _raw: raw
+    };
+  }
+
   const API = {
     baseUrl: '/api/v1',
     cache: new Map(),
@@ -17,11 +47,11 @@
 
       try {
         const response = await fetch(`${this.baseUrl}/${endpoint}`);
-        
+
         if (!response.ok){
           throw new Error(`HTTP error! status: ${response.status}`);
         }
-        
+
         const data = await response.json();
         this.cache.set(endpoint, data);
         return data;
@@ -32,17 +62,23 @@
     },
 
     /**
-     * Get all phenomena index
+     * Get all phenomena index (normalized)
      */
     async getAllPhenomena() {
-      return this.fetch('index.json');
+      const data = await this.fetch('index.json');
+      const list = Array.isArray(data) ? data : (data.phenomena || []);
+      return {
+        ...(Array.isArray(data) ? {} : data),
+        phenomena: list.map(normalizePhenomenon)
+      };
     },
 
     /**
-     * Get single phenomenon
+     * Get single phenomenon (normalized, with raw under ._raw)
      */
     async getPhenomenon(id) {
-      return this.fetch(`${id}.json`);
+      const raw = await this.fetch(`${id}.json`);
+      return normalizePhenomenon(raw);
     },
 
     /**

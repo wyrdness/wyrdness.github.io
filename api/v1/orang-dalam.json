@@ -1,17 +1,52 @@
 {
   "id": "orang-dalam",
-  "name": "Orang Dalam - The Hidden Forest People",
+  "name": "Orang Dalam",
   "category": "cryptid",
-  "description": "This phenomenon has been documented extensively across multiple time periods and continues to generate interest from researchers, folklorists, and investigators.",
-  "aliases": [],
-  "tags": [
-    "folklore",
-    "mythology"
+  "description": "A large, bipedal, black-furred humanoid creature reported from the jungles of Johor, Malaysia, and sometimes Singapore, described as standing 2.4–3 meters tall and known by the alternative name Orang Mawas.",
+  "aliases": [
+    {
+      "name": "Orang Mawas",
+      "language": "Malay",
+      "region": "Johor, Malaysia",
+      "meaning": "Person of the forest / forest orangutan-person; 'mawas' is a regional name for orangutan"
+    },
+    {
+      "name": "Mawas",
+      "language": "Malay",
+      "region": "Johor, Malaysia / Sumatra, Indonesia"
+    },
+    {
+      "name": "Hantu Jarang Gigi",
+      "language": "Malay (Orang Asli term)",
+      "region": "Malaysia",
+      "meaning": "Snaggle-toothed ghost"
+    },
+    {
+      "name": "Johor Bigfoot",
+      "language": "English",
+      "region": "Johor, Malaysia",
+      "meaning": "Media term for the creature following 2005–2006 media coverage"
+    }
   ],
-  "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "tags": [
+    "malaysia",
+    "johor",
+    "humanoid",
+    "hominid",
+    "bipedal",
+    "forest-dwelling",
+    "southeast-asia",
+    "cryptid",
+    "tropical"
+  ],
+  "status": "unverified",
+  "regions": [
+    "Johor, Malaysia",
+    "Endau-Rompin National Park area, Johor",
+    "Singapore (occasional reports)"
+  ],
+  "origin": "Reported from the jungles of Johor, Malaysia's southernmost state, and occasionally from Singapore. Related creature (Muwa) reported from the Philippines; a related tradition (Butnak) from southern Thailand. In Sumatra, 'mawas' is used as a name for orangutans.",
+  "first_reported": "1871-01-01",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

@@ -1,17 +1,42 @@
 {
   "id": "denver-airport",
   "name": "Denver International Airport Conspiracy Theories",
-  "category": "conspiracy_theory_/_location",
-  "description": "Denver International Airport (DEN/DIA) has become the subject of numerous interconnected conspiracy theories since its opening in 1995.",
-  "aliases": [],
-  "tags": [
-    "folklore",
-    "mythology"
+  "category": "conspiracy_theory",
+  "description": "A cluster of conspiracy theories surrounding Denver International Airport (opened 28 February 1995), including claims of secret underground bunkers, Illuminati or New World Order activity, hidden symbolism in Leo Tanguma's murals, the Blue Mustang sculpture ('Blucifer') by Luis Jiménez, and a dedication capstone inscribed 'New World Airport Commission' (1994).",
+  "aliases": [
+    {
+      "name": "DIA Conspiracy",
+      "language": "English"
+    },
+    {
+      "name": "DEN Conspiracy",
+      "language": "English"
+    },
+    {
+      "name": "New World Airport Commission conspiracy",
+      "language": "English",
+      "meaning": "After the dedication-capstone inscription"
+    }
   ],
-  "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "tags": [
+    "conspiracy-theory",
+    "airport",
+    "denver",
+    "blucifer",
+    "tanguma-murals",
+    "freemasonry",
+    "new-world-order",
+    "illuminati",
+    "underground-bunkers"
+  ],
+  "status": "active",
+  "regions": [
+    "Colorado",
+    "Adams County",
+    "Front Range Urban Corridor"
+  ],
+  "origin": "The airport is in Adams County, Colorado, USA. The conspiracy-theory phenomenon itself is global through Internet circulation.",
+  "first_reported": "1995-02-28",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

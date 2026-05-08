@@ -1,16 +1,60 @@
 {
   "id": "supay",
-  "name": "Supay: The Andean Lord of Death",
-  "category": "demon",
-  "description": "Supay (also spelled Çupay, Zupay, or Supai) is one of the most significant supernatural entities in Andean mythology, serving as the god of death and ruler of the underworld realm known as Ukhu Pacha.",
-  "aliases": [],
+  "name": "Supay",
+  "category": "demon_angel",
+  "description": "Supay is a significant deity in Andean (Inca/Quechua) mythology who rules the underworld realm Ukhu Pacha; originally an ambivalent god of death, he was recast by Spanish colonial missionaries as equivalent to the Christian devil, a syncretic transformation that persists in modern Andean culture.",
+  "aliases": [
+    {
+      "name": "Zupay",
+      "language": "Quechua",
+      "meaning": "alternate spelling; shadow, soul, death"
+    },
+    {
+      "name": "Çupay",
+      "language": "Colonial Spanish / Quechua",
+      "meaning": "early colonial spelling used by Spanish chroniclers"
+    },
+    {
+      "name": "Supai",
+      "language": "Quechua",
+      "meaning": "variant spelling"
+    },
+    {
+      "name": "El Tío",
+      "language": "Spanish",
+      "region": "Bolivia (mining communities)",
+      "meaning": "The Uncle — syncretic mining deity identified with Supay"
+    },
+    {
+      "name": "China Supay",
+      "language": "Quechua/Spanish",
+      "region": "Bolivia/Peru",
+      "meaning": "Female Supay; she-devil in the Diablada dance"
+    }
+  ],
   "tags": [
-    "sometimes-associated-with-underground-or-nocturnal-creatures-like-bats-and-serpents"
+    "andean",
+    "inca",
+    "quechua",
+    "underworld",
+    "death-deity",
+    "syncretism",
+    "south-america",
+    "bolivia",
+    "peru",
+    "mining-folklore",
+    "carnival"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "Bolivian Altiplano",
+    "Peruvian Andes",
+    "Lake Titicaca region",
+    "Oruro, Bolivia (Carnaval de Oruro)",
+    "Andean mining communities broadly"
+  ],
+  "origin": "The Andean region of South America, encompassing the territories of the pre-Columbian Inca Empire. Strongest contemporary presence in mining communities of Bolivia and Peru.",
+  "first_reported": "Pre-Columbian",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

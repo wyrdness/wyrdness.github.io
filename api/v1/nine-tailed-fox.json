@@ -1,16 +1,54 @@
 {
   "id": "nine-tailed-fox",
   "name": "Nine-Tailed Fox",
-  "category": "|_general_chinese_fox_spirits;_nine-tailed_fox_is_the_most_powerful_variant_|",
-  "description": "The Nine-Tailed Fox (Chinese: 九尾狐 *jiuweihu*; Korean: 구미호 *gumiho*) is one of the most iconic and complex creatures in East Asian mythology.",
-  "aliases": [],
+  "category": "shapeshifter",
+  "description": "A powerful fox spirit of East Asian mythology, distinguished by nine tails. It can live for centuries, accumulate spiritual power, and shapeshift into a beautiful human — beneficent in early Chinese tradition, often seductive and dangerous in later accounts.",
+  "aliases": [
+    {
+      "name": "九尾狐",
+      "language": "Chinese (Traditional)",
+      "meaning": "'Nine-tailed fox'"
+    },
+    {
+      "name": "Jiǔwěihú",
+      "language": "Mandarin (pinyin)"
+    },
+    {
+      "name": "구미호 (Gumiho)",
+      "language": "Korean"
+    },
+    {
+      "name": "九尾の狐 (Kyūbi no kitsune)",
+      "language": "Japanese"
+    },
+    {
+      "name": "Hồ ly tinh",
+      "language": "Vietnamese"
+    },
+    {
+      "name": "Cáo chín đuôi",
+      "language": "Vietnamese",
+      "meaning": "'Nine-tailed fox'"
+    }
+  ],
   "tags": [
-    "over-millennia"
+    "china",
+    "korea",
+    "japan",
+    "vietnam",
+    "fox-spirit",
+    "shapeshifter",
+    "shanhaijing",
+    "celestial",
+    "demoness"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "| East Asian (Chinese/Korean) |",
-  "first_reported": "Unknown",
+  "regions": [
+    "East Asia",
+    "Sinosphere"
+  ],
+  "origin": "East Asia: China, Korea, Japan, and Vietnam.",
+  "first_reported": "Pre-Han period",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

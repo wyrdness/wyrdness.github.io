@@ -1,17 +1,34 @@
 {
   "id": "momo",
-  "name": "Momo",
+  "name": "Momo the Missouri Monster",
   "category": "cryptid",
-  "description": "Momo, short for Missouri Monster, is a Bigfoot-like creature reported primarily in and around Louisiana, Missouri during 1971-1972.",
-  "aliases": [],
-  "tags": [
-    "folklore",
-    "mythology"
+  "description": "Momo (the Missouri Monster) is a Bigfoot-type cryptid reportedly seen near Louisiana, Missouri in the early 1970s, most famously during a brief 'monster flap' in July 1972.",
+  "aliases": [
+    {
+      "name": "Momo",
+      "region": "Louisiana, Missouri, USA"
+    },
+    {
+      "name": "Missouri Monster",
+      "region": "Missouri, USA"
+    }
   ],
-  "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "tags": [
+    "humanoid",
+    "bipedal",
+    "missouri",
+    "1972",
+    "monster-flap",
+    "bigfoot-type"
+  ],
+  "status": "historical",
+  "regions": [
+    "Missouri",
+    "Pike County",
+    "Louisiana, Missouri"
+  ],
+  "origin": "Highly localised to the area around Louisiana, Missouri, in Pike County, Missouri, along the Mississippi River.",
+  "first_reported": "1945",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

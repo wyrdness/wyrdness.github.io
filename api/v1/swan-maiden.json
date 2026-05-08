@@ -1,16 +1,50 @@
 {
   "id": "swan-maiden",
+  "name": "Swan Maiden",
   "category": "mythological_creature",
-  "description": "No description available.",
-  "aliases": [],
+  "description": "A widespread folktale motif in which a supernatural woman able to transform into a swan (or other bird) is captured by a man who steals her feather-cloak, forced into marriage, and eventually escapes when she recovers it.",
+  "aliases": [
+    {
+      "name": "Schwanjungfrau",
+      "language": "German"
+    },
+    {
+      "name": "Bird Maiden",
+      "meaning": "Generic English term for shapeshifting bird-women across folklore"
+    },
+    {
+      "name": "Apsara (related)",
+      "language": "Sanskrit",
+      "region": "South and Southeast Asia",
+      "meaning": "Celestial maidens often involved in similar 'stolen garment' tales"
+    },
+    {
+      "name": "Selkie (analogous)",
+      "language": "Scots",
+      "region": "Scotland, Ireland, Faroe Islands",
+      "meaning": "Seal-skin counterpart of the swan-feather motif"
+    }
+  ],
   "tags": [
-    "folklore",
-    "mythology"
+    "folktale",
+    "shapeshifter",
+    "bird-woman",
+    "stolen-garment",
+    "atu-400",
+    "comparative-folklore"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "Scandinavia",
+    "Celtic world",
+    "Slavic Europe",
+    "Siberia",
+    "East Asia",
+    "South Asia",
+    "Northern North America"
+  ],
+  "origin": "The swan-maiden motif is one of the most widely distributed folktale types in Eurasia and adjacent regions, with attested variants from Western Europe through Siberia, East Asia, the Indian subcontinent, and into Indigenous North America.",
+  "first_reported": "4th century CE",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

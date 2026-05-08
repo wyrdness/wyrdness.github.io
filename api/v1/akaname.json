@@ -1,126 +1,40 @@
 {
-  "meta": {
-    "version": "1.0.0",
-    "schema_version": "1.0.0",
-    "last_updated": "2026-02-13",
-    "repository": "https://github.com/wyrdness/akaname",
-    "maintainers": [
-      {
-        "name": "Wyrdness Team",
-        "github": "wyrdness",
-        "role": "maintainer"
-      }
-    ],
-    "license": {
-      "data": "CC0-1.0",
-      "content": "CC-BY-4.0"
+  "id": "akaname",
+  "name": "Akaname",
+  "category": "entity_spirit",
+  "description": "Akaname ('filth-licker') is a small Japanese yokai recorded in Edo-period bestiaries that emerges in dirty, neglected bathrooms and bathhouses to lick the grime off tubs and floors with its long red tongue. It functions in folklore as a moral spur to keep bathrooms clean.",
+  "aliases": [
+    {
+      "name": "垢嘗",
+      "language": "Japanese (kanji)",
+      "meaning": "filth-licker"
+    },
+    {
+      "name": "Akaneburi",
+      "language": "Japanese (older variant)",
+      "meaning": "filth-licking"
+    },
+    {
+      "name": "Filth-licker",
+      "language": "English (descriptive)"
     }
-  },
-  "phenomenon": {
-    "id": "akaname",
-    "name": "Akaname",
-    "aliases": [],
-    "category": "ENTITY_SPIRIT",
-    "subcategory": "Domestic spirit",
-    "tags": [
-      "folklore",
-      "mythology"
-    ],
-    "status": "documented",
-    "description": {
-      "summary": "Akaname, whose name literally means \\\"filth licker,\\\" is a distinctive yokai from Japanese folklore that inhabits dirty, neglected bathrooms.",
-      "full": "Akaname, whose name literally means \\\"filth licker,\\\" is a distinctive yokai from Japanese folklore that inhabits dirty, neglected bathrooms. This small humanoid creature appears at night in bathrooms that have been left unclean, using its characteristically long tongue to lick filth, grime, mold, and accumulated dirt from walls, floors, and fixtures. Depicted with grimy skin, disheveled hair, and a generally grotesque appearance, Akaname is nonetheless harmless to humans—its presence serves more as a consequence and reminder of poor hygiene than as a genuine threat. The yokai embodies a practical folk belief designed to encourage cleanliness and proper maintenance of bathrooms, particularly traditional Japanese baths. The simple prevention is maintaining cleanliness—Akaname will not appear in a well-kept bathroom."
-    },
-    "etymology": {
-      "origin": "Unknown",
-      "meaning": "To be documented",
-      "first_use": "Unknown"
-    }
-  },
-  "classification": {
-    "taxonomy": {
-      "category": "ENTITY_SPIRIT",
-      "type": "Domestic spirit",
-      "subtype": "Unknown",
-      "variant": "Unknown"
-    },
-    "related_phenomena": []
-  },
-  "characteristics": {
-    "physical": {
-      "features": [],
-      "morphology": "See README.md for detailed physical description"
-    },
-    "abilities": [],
-    "behavior": {
-      "activity_period": "unknown",
-      "disposition": "unknown",
-      "habitat_preference": []
-    }
-  },
-  "distribution": {
-    "range": {
-      "description": "Unknown",
-      "continents": [],
-      "countries": [],
-      "regions": []
-    },
-    "hotspots": [],
-    "temporal": {
-      "first_recorded": {
-        "date": "Unknown",
-        "circa": true,
-        "source": "Traditional folklore"
-      }
-    }
-  },
-  "history": {
-    "origins": {
-      "cultural_roots": "Unknown",
-      "earliest_accounts": "See README.md for historical details",
-      "folklore_connections": "Unknown"
-    },
-    "timeline": []
-  },
-  "sightings": {
-    "statistics": {
-      "total_documented": 0,
-      "verified": 0,
-      "disputed": 0,
-      "debunked": 0
-    },
-    "notable": [],
-    "database_path": "./sightings/"
-  },
-  "evidence": {
-    "physical": [],
-    "photographic": [],
-    "video": [],
-    "audio": [],
-    "trace": []
-  },
-  "theories": {
-    "paranormal": [],
-    "scientific": [],
-    "skeptical": []
-  },
-  "cultural": {
-    "folklore": {
-      "traditions": [],
-      "stories": [],
-      "beliefs": "See README.md for cultural context"
-    },
-    "popular_culture": {
-      "literature": [],
-      "film_tv": [],
-      "games": [],
-      "other": []
-    }
-  },
-  "research": {
-    "researchers": [],
-    "organizations": [],
-    "ongoing_studies": "None documented"
-  },
-  "sources": []
+  ],
+  "tags": [
+    "japan",
+    "yokai",
+    "edo-period",
+    "toriyama-sekien",
+    "bathroom-folklore",
+    "domestic-spirit",
+    "filth",
+    "cleanliness"
+  ],
+  "status": "documented",
+  "regions": [
+    "Old urban bathhouses and private bathrooms across Japan"
+  ],
+  "origin": "A figure of Japanese yokai art and folklore, distributed wherever Edo-period and modern Japanese bathing culture is observed.",
+  "first_reported": "1686",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
 }

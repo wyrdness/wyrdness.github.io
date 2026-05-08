@@ -2,16 +2,33 @@
   "id": "rumtifusel",
   "name": "Rumtifusel",
   "category": "cryptid",
-  "description": "The Rumtifusel is the most elusive of all fearsome critters, defined entirely by what cannot be known about it.",
-  "aliases": [],
+  "description": "A fearsome critter from American lumberjack tall tales, the Rumtifusel is a flat, mink-pelted predator that drapes itself over a stump like an abandoned fur coat to lure greedy passers-by, then drains them through suckers on its underside.",
+  "aliases": [
+    {
+      "name": "Rumptifusel",
+      "meaning": "common alternate spelling"
+    },
+    {
+      "name": "Fur-coat critter",
+      "meaning": "informal description for the creature's lure"
+    }
+  ],
   "tags": [
+    "fearsome-critter",
     "folklore",
-    "mythology"
+    "lumberjack-tall-tale",
+    "north-america",
+    "predator",
+    "lure"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "Great Lakes lumber country",
+    "Pacific Northwest",
+    "New England"
+  ],
+  "origin": "Within the lumberjack tall-tale tradition, the Rumtifusel is associated with the broad logging country of the northern United States and Canada — the same generic 'lumberwoods' setting that hosts most fearsome critters.",
+  "first_reported": "1939",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

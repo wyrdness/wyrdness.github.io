@@ -1,126 +1,72 @@
 {
-  "meta": {
-    "version": "1.0.0",
-    "schema_version": "1.0.0",
-    "last_updated": "2026-02-13",
-    "repository": "https://github.com/wyrdness/asmodeus",
-    "maintainers": [
-      {
-        "name": "Wyrdness Team",
-        "github": "wyrdness",
-        "role": "maintainer"
-      }
-    ],
-    "license": {
-      "data": "CC0-1.0",
-      "content": "CC-BY-4.0"
+  "id": "asmodeus",
+  "name": "Asmodeus",
+  "category": "demon_angel",
+  "description": "A king of the demons in Jewish, Christian, and Islamic traditions, best known as the antagonist of the Book of Tobit, as a builder-figure in Talmudic legends of King Solomon, and as the goetic king Asmoday of the Lesser Key of Solomon.",
+  "aliases": [
+    {
+      "name": "Asmodaios",
+      "language": "Koine Greek",
+      "meaning": "Form used in the Septuagint Book of Tobit"
+    },
+    {
+      "name": "Ashmedai",
+      "language": "Aramaic / Hebrew (Talmudic)",
+      "meaning": "Talmudic form, king of the demons"
+    },
+    {
+      "name": "Asmoday",
+      "meaning": "Form used in the Lesser Key of Solomon (Ars Goetia, no. 32)"
+    },
+    {
+      "name": "Asmodai",
+      "meaning": "Variant transliteration in grimoiric texts"
+    },
+    {
+      "name": "Sidonay / Sydonay",
+      "meaning": "Name used in Pseudomonarchia Daemonum (no. 35)"
+    },
+    {
+      "name": "Sakhr",
+      "language": "Arabic",
+      "region": "Islamic tradition",
+      "meaning": "'Rock'; demon imprisoned in stone in Islamic legend"
+    },
+    {
+      "name": "Aēšma-daēva",
+      "language": "Avestan",
+      "meaning": "Possible Zoroastrian source: 'demon of wrath'"
+    },
+    {
+      "name": "Hashmedai",
+      "language": "Hebrew",
+      "meaning": "Hebrew rendering"
     }
-  },
-  "phenomenon": {
-    "id": "asmodeus",
-    "name": "Asmodeus",
-    "aliases": [],
-    "category": "|_DEMON_ANGEL_|",
-    "subcategory": "Unknown",
-    "tags": [
-      "folklore",
-      "mythology"
-    ],
-    "status": "documented",
-    "description": {
-      "summary": "Asmodeus (also Asmodai, Ashmedai) is one of the most prominent demons in Jewish, Christian, and Islamic demonology, typically associated with **lust, wrath, and revenge**.",
-      "full": "Asmodeus (also Asmodai, Ashmedai) is one of the most prominent demons in Jewish, Christian, and Islamic demonology, typically associated with **lust, wrath, and revenge**. Appearing in the Book of Tobit and later elaborated in the Talmud, grimoires, and Christian demonology, Asmodeus is often counted among the seven princes of Hell, specifically ruling over the sin of lust. In Jewish tradition (Talmud), Asmodeus is sometimes portrayed almost sympathetically as a powerful jinn or demon with complex motivations, even possessing wisdom and serving as a reluctant helper to King Solomon. In Christian demonology, especially in medieval grimoires like the Lesser Key of Solomon, he appears as one of the 72 demons with specific powers over lust, gambling, and discord in marriages."
-    },
-    "etymology": {
-      "origin": "Unknown",
-      "meaning": "To be documented",
-      "first_use": "Unknown"
-    }
-  },
-  "classification": {
-    "taxonomy": {
-      "category": "|_DEMON_ANGEL_|",
-      "type": "Unknown",
-      "subtype": "Unknown",
-      "variant": "Unknown"
-    },
-    "related_phenomena": []
-  },
-  "characteristics": {
-    "physical": {
-      "features": [],
-      "morphology": "See README.md for detailed physical description"
-    },
-    "abilities": [],
-    "behavior": {
-      "activity_period": "unknown",
-      "disposition": "unknown",
-      "habitat_preference": []
-    }
-  },
-  "distribution": {
-    "range": {
-      "description": "Unknown",
-      "continents": [],
-      "countries": [],
-      "regions": []
-    },
-    "hotspots": [],
-    "temporal": {
-      "first_recorded": {
-        "date": "Unknown",
-        "circa": true,
-        "source": "Traditional folklore"
-      }
-    }
-  },
-  "history": {
-    "origins": {
-      "cultural_roots": "Unknown",
-      "earliest_accounts": "See README.md for historical details",
-      "folklore_connections": "Unknown"
-    },
-    "timeline": []
-  },
-  "sightings": {
-    "statistics": {
-      "total_documented": 0,
-      "verified": 0,
-      "disputed": 0,
-      "debunked": 0
-    },
-    "notable": [],
-    "database_path": "./sightings/"
-  },
-  "evidence": {
-    "physical": [],
-    "photographic": [],
-    "video": [],
-    "audio": [],
-    "trace": []
-  },
-  "theories": {
-    "paranormal": [],
-    "scientific": [],
-    "skeptical": []
-  },
-  "cultural": {
-    "folklore": {
-      "traditions": [],
-      "stories": [],
-      "beliefs": "See README.md for cultural context"
-    },
-    "popular_culture": {
-      "literature": [],
-      "film_tv": [],
-      "games": [],
-      "other": []
-    }
-  },
-  "research": {
-    "researchers": [],
-    "organizations": [],
-    "ongoing_studies": "None documented"
-  },
-  "sources": []
+  ],
+  "tags": [
+    "demonology",
+    "judaism",
+    "christianity",
+    "islam",
+    "goetia",
+    "lesser-key-of-solomon",
+    "tobit",
+    "talmud",
+    "avestan",
+    "zoroastrian-origin",
+    "demon-of-lust"
+  ],
+  "status": "documented",
+  "regions": [
+    "Ancient Near East",
+    "Mesopotamia / Babylonia (Talmudic context)",
+    "Levant",
+    "Iranian world (Avestan source)",
+    "Christian Europe (medieval and early-modern grimoiric tradition)",
+    "Islamic world (Sakhr tradition)"
+  ],
+  "origin": "A textual phenomenon distributed across the literatures of the Abrahamic world: the Hebrew Bible deuterocanon, Talmud and midrash, Christian demonology, Islamic Quranic commentary and the Arabian Nights, and Western occult grimoires. Veneration / invocation occurs only in marginal occult or magical contexts.",
+  "first_reported": "0200 BCE",
+  "danger_level": "unknown",
+  "evidence_level": "unknown"
 }

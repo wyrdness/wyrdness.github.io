@@ -2,16 +2,37 @@
   "id": "hessdalen-lights",
   "name": "Hessdalen Lights",
   "category": "atmospheric_phenomenon",
-  "description": "The Hessdalen Lights are unexplained light phenomena occurring in the Hessdalen valley of central Norway.",
-  "aliases": [],
+  "description": "Recurring unexplained luminous phenomena observed in the Hessdalen valley of central Norway, instrumentally recorded since the early 1980s and the subject of a long-running scientific monitoring programme.",
+  "aliases": [
+    {
+      "name": "Hessdalslysene",
+      "language": "Norwegian",
+      "region": "Hessdalen, Norway",
+      "meaning": "The Hessdalen lights"
+    },
+    {
+      "name": "Hessdalen phenomenon",
+      "region": "International scientific literature"
+    }
+  ],
   "tags": [
-    "folklore",
-    "mythology"
+    "ghost-lights",
+    "plasma",
+    "norway",
+    "scandinavia",
+    "atmospheric-anomaly",
+    "instrumentally-recorded",
+    "scientifically-monitored",
+    "earthlights"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "Sør-Trøndelag",
+    "Holtålen",
+    "Hessdalen valley"
+  ],
+  "origin": "The phenomenon is concentrated almost entirely within the Hessdalen valley (Holtålen municipality) in Sør-Trøndelag, central Norway, with occasional reports from neighbouring valleys.",
+  "first_reported": "1930s",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

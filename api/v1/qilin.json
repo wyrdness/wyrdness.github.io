@@ -1,16 +1,58 @@
 {
   "id": "qilin",
-  "name": "Qilin - Chinese Auspicious Beast",
+  "name": "Qilin",
   "category": "mythological_creature",
-  "description": "The Qilin (Chinese: 麒麟, pronounced \\\"chee-lin\\\") is the Chinese variant and original form of the East Asian sacred beast known as Kirin in Japan.",
-  "aliases": [],
-  "tags": [
-    "and-art-motifs\"-4th-ed.-(1976)"
+  "description": "The Qilin (麒麟) is the most auspicious terrestrial creature of Chinese mythology, a chimeric divine beast whose appearance heralds the reign of a virtuous ruler or the birth of a great sage. It is said to walk so gently it does not bend a blade of grass.",
+  "aliases": [
+    {
+      "name": "麒麟",
+      "language": "Chinese",
+      "meaning": "The Chinese characters for qilin; qi (麒) denotes the male, lin (麟) denotes the female"
+    },
+    {
+      "name": "Kirin",
+      "language": "Japanese",
+      "region": "Japan",
+      "meaning": "Japanese adaptation of the Chinese qilin"
+    },
+    {
+      "name": "Girin",
+      "language": "Korean",
+      "region": "Korea",
+      "meaning": "Korean variant; also called Giraffe in modern Korean"
+    },
+    {
+      "name": "Gilen",
+      "language": "Thai",
+      "region": "Thailand",
+      "meaning": "Thai variant incorporated into Himapant forest mythology"
+    },
+    {
+      "name": "Lân",
+      "language": "Vietnamese",
+      "region": "Vietnam",
+      "meaning": "Vietnamese variant; one of the four sacred creatures alongside the dragon, phoenix, and tortoise"
+    }
   ],
-  "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "tags": [
+    "chinese",
+    "mythology",
+    "auspicious",
+    "east-asia",
+    "divine-beast",
+    "chimera",
+    "confucian",
+    "imperial",
+    "japan",
+    "korea"
+  ],
+  "status": "historical",
+  "regions": [
+    "East Asia",
+    "Southeast Asia"
+  ],
+  "origin": "The qilin is a mythological creature of Chinese origin, with related variants across East and Southeast Asia. As a mythological being, it has no geographic range in the literal sense; accounts of appearances are concentrated in Chinese historical texts set in China.",
+  "first_reported": "Pre-0700-01-01",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

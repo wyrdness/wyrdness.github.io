@@ -1,17 +1,37 @@
 {
   "id": "mamlambo",
-  "name": "Mamlambo - The River Goddess of South Africa",
+  "name": "Mamlambo",
   "category": "entity_spirit",
-  "description": "Mamlambo is a powerful and enigmatic water deity from South African mythology, particularly prominent in Xhosa and Zulu traditional beliefs.",
-  "aliases": [],
+  "description": "A river goddess and serpent water spirit of South African (especially Zulu and Xhosa) tradition, said to grant wealth to those who keep her — and to take a heavy toll from those who do.",
+  "aliases": [
+    {
+      "name": "uMamlambo",
+      "language": "Zulu",
+      "region": "Southern Africa"
+    },
+    {
+      "name": "Brain Sucker",
+      "language": "English",
+      "region": "Eastern Cape, South Africa",
+      "meaning": "Local nickname coined during the 1997 Mzintlava River reports"
+    }
+  ],
   "tags": [
-    "folklore",
-    "mythology"
+    "water-spirit",
+    "river-goddess",
+    "serpent",
+    "south-africa",
+    "zulu",
+    "xhosa",
+    "wealth-granter"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "South Africa (Xhosa, Zulu, and other Nguni peoples)",
-  "first_reported": "Unknown",
+  "regions": [
+    "KwaZulu-Natal",
+    "Eastern Cape"
+  ],
+  "origin": "Eastern and southern South Africa, particularly within Zulu and Xhosa cultural areas; the most widely reported modern episode centred on the Mzintlava River near Mount Ayliff in the Eastern Cape (1997).",
+  "first_reported": "Pre-colonial",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

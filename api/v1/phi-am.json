@@ -1,16 +1,36 @@
 {
   "id": "phi-am",
+  "name": "Phi Am",
   "category": "ghost_haunting",
-  "description": "No description available.",
-  "aliases": [],
-  "tags": [
-    "folklore",
-    "mythology"
+  "description": "A nocturnal spirit in Thai folklore said to sit on a sleeper's chest, paralyzing them and causing breathing difficulty. The name is used colloquially in Thailand for the experience of sleep paralysis itself.",
+  "aliases": [
+    {
+      "name": "ผีอำ",
+      "language": "Thai",
+      "region": "Thailand",
+      "meaning": "the ghost that holds/presses down"
+    },
+    {
+      "name": "Phii Am",
+      "language": "Thai (Romanization)",
+      "region": "Thailand"
+    }
   ],
-  "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "tags": [
+    "thai-folklore",
+    "sleep-paralysis",
+    "nocturnal",
+    "southeast-asia",
+    "night-hag",
+    "incubus-analogue",
+    "phi"
+  ],
+  "status": "active",
+  "regions": [
+    "Mainland Southeast Asia"
+  ],
+  "origin": "Thailand, with cognate traditions throughout mainland Southeast Asia. Phi Am is part of the broader Thai phi cosmology and reflects a worldwide pattern of sleep-paralysis folklore.",
+  "first_reported": "Traditional",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

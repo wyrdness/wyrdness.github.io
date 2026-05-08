@@ -1,17 +1,65 @@
 {
   "id": "poludnitsa",
-  "name": "Poludnitsa - The Noon Demon",
-  "category": "of_field_demons",
-  "description": "The poludnitsa appears as either a beautiful young woman in white or a haggard old crone, both forms equally dangerous.",
-  "aliases": [],
+  "name": "Poludnitsa",
+  "category": "entity_spirit",
+  "description": "A noon-time demon of Slavic folklore, said to roam the boundaries of grain fields at the height of summer heat. She tests workers with riddles, demands they dance, and afflicts those who fail with heatstroke, madness, or death. Personifies the very real danger of midday sun for agricultural labor.",
+  "aliases": [
+    {
+      "name": "Lady Midday",
+      "language": "English (calque)"
+    },
+    {
+      "name": "Noonwraith",
+      "language": "English (calque)"
+    },
+    {
+      "name": "Noon witch",
+      "language": "English (calque)"
+    },
+    {
+      "name": "Полудница",
+      "language": "Russian"
+    },
+    {
+      "name": "Полудниця",
+      "language": "Ukrainian"
+    },
+    {
+      "name": "Południca",
+      "language": "Polish"
+    },
+    {
+      "name": "Polednice",
+      "language": "Czech"
+    },
+    {
+      "name": "Poludnica",
+      "language": "Slovak / South Slavic"
+    },
+    {
+      "name": "Pscipolnitsa",
+      "language": "Wendish (Sorbian)",
+      "region": "Lusatia"
+    }
+  ],
   "tags": [
-    "in-slavic-folk-tradition).-moscow",
-    "1997."
+    "slavic-folklore",
+    "field-spirit",
+    "noon",
+    "agricultural",
+    "heatstroke",
+    "nature-spirit",
+    "demonic",
+    "europe"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "Eastern Europe",
+    "Central Europe",
+    "Slavic-speaking Lusatia"
+  ],
+  "origin": "Slavic folklore across Eastern, Central, and parts of Southern Europe — Russia, Ukraine, Belarus, Poland, Czechia, Slovakia, Lusatia (Sorbs), and parts of the South Slavic regions.",
+  "first_reported": "Pre-Christian Slavic",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

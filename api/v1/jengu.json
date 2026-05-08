@@ -1,17 +1,55 @@
 {
   "id": "jengu",
-  "name": "Jengu - Cameroonian Water Spirit",
+  "name": "Jengu",
   "category": "entity_spirit",
-  "description": "The Jengu (plural: Miengu) are beautiful water spirits from the folklore of the Sawa peoples of Cameroon's coastal and riverine regions, particularly among the Duala, Bakweri, Malimba, Subu, and related ethnic groups.",
-  "aliases": [],
-  "tags": [
-    "folklore",
-    "mythology"
+  "description": "The Jengu (plural Miengu) are beautiful, mermaid-like water spirits from the folklore of the Sawa peoples of Cameroon's coastal and riverine regions, venerated for healing, protection, and mediation between the living and the ancestral world.",
+  "aliases": [
+    {
+      "name": "Miengu",
+      "language": "Duala",
+      "region": "Cameroon",
+      "meaning": "Plural form of jengu"
+    },
+    {
+      "name": "Liengu",
+      "language": "Bakweri",
+      "region": "Cameroon",
+      "meaning": "Bakweri singular form"
+    },
+    {
+      "name": "Maengu",
+      "language": "Bakweri",
+      "region": "Cameroon",
+      "meaning": "Bakweri plural form"
+    },
+    {
+      "name": "Bisima",
+      "language": "Sawa languages",
+      "region": "Cameroon",
+      "meaning": "Alternative name used among Sawa-speaking peoples"
+    }
   ],
-  "status": "documented",
-  "regions": [],
-  "origin": "Cameroon (Sawa peoples of coastal regions)",
-  "first_reported": "Unknown",
+  "tags": [
+    "cameroonian",
+    "sawa",
+    "duala",
+    "bakweri",
+    "water-spirit",
+    "mermaid",
+    "healing",
+    "divination",
+    "africa",
+    "central-africa"
+  ],
+  "status": "active",
+  "regions": [
+    "Littoral Province, Cameroon",
+    "Southwest Province, Cameroon",
+    "Wouri River and estuary",
+    "Douala"
+  ],
+  "origin": "Cameroonian coast and river regions, particularly the Wouri River, its tributaries, the Wouri estuary, and nearby islands. Veneration persists in Cameroon's Littoral and Southwest Provinces.",
+  "first_reported": "Pre-1800",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

@@ -1,17 +1,38 @@
 {
   "id": "nurikabe",
   "name": "Nurikabe",
-  "category": "|_broader_category_of_japanese_supernatural_entities_|",
-  "description": "The nurikabe is a peculiar yokai from Japanese folklore that appears as an invisible barrier in the paths of nighttime travelers.",
-  "aliases": [],
+  "category": "entity_spirit",
+  "description": "A Japanese yōkai of folklore from northern Kyushu that manifests as an invisible barrier blocking the path of nighttime travelers. Defeating it traditionally requires sweeping a stick along its base.",
+  "aliases": [
+    {
+      "name": "Nurikabe",
+      "language": "Japanese",
+      "meaning": "From nuru ('to plaster, paint') + kabe ('wall'); 'plastered wall'"
+    },
+    {
+      "name": "Nurikabe (塗壁)",
+      "language": "Japanese",
+      "region": "Standard kanji"
+    }
+  ],
   "tags": [
+    "yokai",
+    "japan",
+    "kyushu",
     "folklore",
-    "mythology"
+    "nocturnal",
+    "obstruction",
+    "edo-period"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "Kyushu",
+    "Fukuoka Prefecture",
+    "Ōita Prefecture",
+    "Onga County (former Chikuzen Province)"
+  ],
+  "origin": "Indigenous folk tradition is concentrated in northern Kyushu, especially Fukuoka Prefecture (former Chikuzen Province) and Ōita Prefecture. The figure is now nationally and internationally recognised through Mizuki Shigeru's manga.",
+  "first_reported": "c. 1660",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

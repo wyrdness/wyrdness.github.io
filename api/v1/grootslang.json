@@ -1,17 +1,35 @@
 {
   "id": "grootslang",
   "name": "Grootslang",
-  "category": "elephantopython_hypotheticus_(informal_designation)",
-  "description": "The Grootslang (Afrikaans: \\\"great snake\\\" or \\\"big serpent\\\") represents one of Southern Africa's most intriguing cryptozoological legends—a colossal hybrid creature combining elephantine and serpentine characteristics, said to dwell in deep caverns beneath the Richtersveld region of South Africa's Northern Cape.",
-  "aliases": [],
+  "category": "cryptid",
+  "description": "The Grootslang is a giant serpent of South African folklore, said to inhabit a deep cave (the 'Wonder Hole') in the Richtersveld and to guard a hoard of diamonds.",
+  "aliases": [
+    {
+      "name": "Grootslang",
+      "language": "Afrikaans / Dutch",
+      "meaning": "'great snake' or 'big serpent'"
+    },
+    {
+      "name": "The Wonder Hole serpent",
+      "region": "Richtersveld, South Africa"
+    }
+  ],
   "tags": [
-    "folklore",
-    "mythology"
+    "cryptid",
+    "south-africa",
+    "richtersveld",
+    "serpent",
+    "diamond",
+    "folklore"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "Northern Cape",
+    "Richtersveld",
+    "lower Orange River"
+  ],
+  "origin": "South African folklore confined to the Richtersveld region of the Northern Cape, especially the cave called the Wonder Hole.",
+  "first_reported": "1920",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

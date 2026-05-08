@@ -2,15 +2,40 @@
   "id": "qallupilluk",
   "name": "Qallupilluk",
   "category": "entity_spirit",
-  "description": "Qallupilluk is a humanoid creature from Inuit folklore that lives under the ice and in cold Arctic waters.",
-  "aliases": [],
-  "tags": [
-    "&-themes"
+  "description": "Qallupilluk is a water-dwelling humanoid being from Inuit folklore that lurks beneath Arctic sea ice to abduct children who wander too close to the water's edge, functioning as a cautionary tradition protecting children from the real dangers of Arctic ice.",
+  "aliases": [
+    {
+      "name": "Qalupalik",
+      "language": "Inuktitut",
+      "region": "Nunavut, Canada",
+      "meaning": "Variant spelling in common usage"
+    },
+    {
+      "name": "Qallupilluit",
+      "language": "Inuktitut",
+      "meaning": "Plural form of Qallupilluk"
+    }
   ],
-  "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "tags": [
+    "inuit",
+    "arctic",
+    "water-spirit",
+    "child-snatcher",
+    "cautionary-tale",
+    "folklore",
+    "canada",
+    "alaska",
+    "nunavut"
+  ],
+  "status": "active",
+  "regions": [
+    "Nunavut",
+    "Alaska",
+    "Arctic Canada",
+    "Northwest Territories"
+  ],
+  "origin": "The Qallupilluk tradition is documented in Inuit communities across Arctic Canada (especially Nunavut) and Alaska.",
+  "first_reported": "Pre-contact",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

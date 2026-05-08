@@ -1,16 +1,62 @@
 {
   "id": "shtriga",
+  "name": "Shtriga",
   "category": "entity_spirit",
-  "description": "No description available.",
-  "aliases": [],
+  "description": "The shtriga is a vampiric witch in Albanian folklore who feeds on the blood of sleeping infants. After feeding she can transform into a flying insect, and the only sure cure for her victims is a remedy obtained from the shtriga herself. Apotropaic protections include garlic, salt, the sign of the cross, and a cross of pig bone placed at a church door on Easter Sunday.",
+  "aliases": [
+    {
+      "name": "Shtrigë",
+      "language": "Albanian",
+      "region": "Albania, Kosovo"
+    },
+    {
+      "name": "Strix",
+      "language": "Latin",
+      "meaning": "owl-witch; ancient ancestor of the term"
+    },
+    {
+      "name": "Striga",
+      "language": "Late Latin / Romance",
+      "meaning": "witch (cognate)"
+    },
+    {
+      "name": "Strega",
+      "language": "Italian",
+      "meaning": "witch (cognate)"
+    },
+    {
+      "name": "Strigă",
+      "language": "Romanian",
+      "meaning": "witch / vampiric being (cognate)"
+    },
+    {
+      "name": "Strzyga",
+      "language": "Polish",
+      "meaning": "vampiric undead being (cognate)"
+    },
+    {
+      "name": "Štriga",
+      "language": "Croatian / Serbian",
+      "meaning": "witch (cognate)"
+    }
+  ],
   "tags": [
-    "folklore",
-    "mythology"
+    "albanian-folklore",
+    "vampiric",
+    "witch",
+    "shape-shifter",
+    "infants-targeted",
+    "balkans"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "Northern Albanian Alps",
+    "Malësia",
+    "Dukagjin",
+    "Shkodër region"
+  ],
+  "origin": "Northern Albanian highlands, Kosovo, and Albanian-speaking communities of North Macedonia and Montenegro; with a wider Balkan continuum of cognate figures.",
+  "first_reported": "Mid-19th century (printed)",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

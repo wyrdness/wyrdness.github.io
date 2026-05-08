@@ -2,16 +2,34 @@
   "id": "splintercat",
   "name": "Splintercat",
   "category": "cryptid",
-  "description": "The Splintercat is a fearsome critter from American lumberjack folklore, described as a flying cat-like creature with an incredibly tough forehead.",
-  "aliases": [],
-  "tags": [
-    "folklore",
-    "mythology"
+  "description": "The Splintercat is a fearsome critter from American lumberjack and woodcraft folklore — a nocturnal flying feline creature with an impossibly hard forehead that hunts by flying headfirst into trees at tremendous speed, smashing them to splinters to expose raccoons and bee hives for food.",
+  "aliases": [
+    {
+      "name": "Splinter Cat",
+      "language": "English",
+      "meaning": "Two-word alternate spelling used in some sources"
+    }
   ],
-  "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "tags": [
+    "fearsome-critter",
+    "american-folklore",
+    "lumberjack",
+    "tall-tale",
+    "pacific-northwest",
+    "feline",
+    "humorous-folklore",
+    "oregon",
+    "nova-scotia"
+  ],
+  "status": "historical",
+  "regions": [
+    "Pacific Northwest",
+    "Oregon",
+    "Great Lakes region",
+    "Nova Scotia"
+  ],
+  "origin": "A creature of American lumberjack folklore distributed wherever the tradition was carried — primarily the Pacific Northwest, Great Lakes region, and northeastern United States and Canada. A Nova Scotia variant is documented. Splintercat Creek in Oregon's northern Cascade Range is named for the creature.",
+  "first_reported": "1910-01-01",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

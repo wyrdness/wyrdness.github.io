@@ -2,16 +2,27 @@
   "id": "goofang",
   "name": "Goofang",
   "category": "cryptid",
-  "description": "The Goofang is an aquatic fearsome critter from Minnesota with one defining limitation: it can only move backwards.",
+  "description": "The Goofang is a fictional fish from North American lumberjack tall tale folklore, described as swimming exclusively backward to keep water out of its eyes, and listed in the Paul Bunyan Natural History tradition.",
   "aliases": [],
   "tags": [
-    "folklore",
-    "mythology"
+    "fearsome-critter",
+    "tall-tale",
+    "north-america",
+    "lumberjack-folklore",
+    "fish",
+    "minnesota",
+    "paul-bunyan",
+    "humor",
+    "fictional"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "Minnesota",
+    "Wisconsin",
+    "Great Lakes region"
+  ],
+  "origin": "Associated with the Great Lakes lumberjack camp tradition, particularly Minnesota and Wisconsin. As a fictional tall tale creature, it has no real geographic distribution.",
+  "first_reported": "1935-01-01",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

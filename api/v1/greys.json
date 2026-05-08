@@ -1,17 +1,47 @@
 {
   "id": "greys",
   "name": "Grey Aliens (Greys)",
-  "category": "|_greys_subset_of_alien_encounters_|",
-  "description": "Grey aliens, or \\\"Greys,\\\" represent the most iconic and widely reported type of alleged extraterrestrial entity in modern UFO literature.",
-  "aliases": [],
-  "tags": [
-    "folklore",
-    "mythology"
+  "category": "ufo_uap",
+  "description": "Greys are the most commonly reported alleged extraterrestrial entity in modern UFO and abduction literature: small, hairless humanoids with disproportionately large heads and large black eyes, central to the Betty and Barney Hill case (1961) and Whitley Strieber's Communion (1987).",
+  "aliases": [
+    {
+      "name": "Greys",
+      "language": "English",
+      "meaning": "common short form"
+    },
+    {
+      "name": "Gray Aliens",
+      "language": "American English",
+      "meaning": "spelling variant"
+    },
+    {
+      "name": "Zeta Reticulans",
+      "language": "English (UFO subculture)",
+      "meaning": "after the 'Zeta Reticuli star map' from the Hill case"
+    },
+    {
+      "name": "The Visitors",
+      "language": "English",
+      "meaning": "term used by Whitley Strieber in Communion (1987)"
+    }
   ],
-  "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "tags": [
+    "ufo",
+    "abduction",
+    "extraterrestrial",
+    "humanoid",
+    "20th-century",
+    "ufology"
+  ],
+  "status": "unverified",
+  "regions": [
+    "northeastern United States",
+    "American Southwest",
+    "rural Britain",
+    "Australian outback"
+  ],
+  "origin": "Reports concentrated in the United States, with significant numbers in the United Kingdom, Australia, Canada, and continental Europe. Per C. D. B. Bryan's review, Greys account for ~73% of US alien-encounter reports, ~50% in Australia, ~48% in continental Europe, and ~12% in the UK.",
+  "first_reported": "1961-09-19",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

@@ -1,17 +1,64 @@
 {
   "id": "clurichaun",
   "name": "Clurichaun",
-  "category": "|_broader_irish_fairy_folk_|",
-  "description": "The clurichaun is a fairy from Irish folklore, closely related to the leprechaun and sometimes considered its nighttime form.",
-  "aliases": [],
+  "category": "fae_folklore",
+  "description": "The clurichaun is a solitary fairy of Irish folklore: a small, red-faced, perpetually drunk male sprite who haunts wine cellars, breweries, and pubs, protecting the household's drink if respected and souring it if mistreated.",
+  "aliases": [
+    {
+      "name": "Clúrachán",
+      "language": "Irish",
+      "meaning": "Standard Irish-language form"
+    },
+    {
+      "name": "Cluricaun",
+      "language": "English (Hiberno-)",
+      "meaning": "Common 19th-century anglicisation"
+    },
+    {
+      "name": "Cluricaune",
+      "language": "English",
+      "meaning": "Variant spelling used by T. Crofton Croker"
+    },
+    {
+      "name": "Cluracan",
+      "language": "English",
+      "meaning": "Variant spelling"
+    },
+    {
+      "name": "Lurigadawne",
+      "language": "Irish (regional)",
+      "region": "Tipperary"
+    },
+    {
+      "name": "Naggeneen",
+      "language": "Hiberno-English",
+      "region": "Munster",
+      "meaning": "Pet-name from naigín, 'noggin' (a small drinking measure)"
+    }
+  ],
   "tags": [
-    "folklore",
-    "mythology"
+    "ireland",
+    "celtic-folklore",
+    "fairy",
+    "solitary-fairy",
+    "drink",
+    "cellar-spirit",
+    "trickster"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "Munster",
+    "Leinster",
+    "Ulster",
+    "Connacht",
+    "Tipperary",
+    "Cork",
+    "Waterford",
+    "Kildare",
+    "Donegal"
+  ],
+  "origin": "Reports cluster in the southern half of Ireland — particularly Munster (Cork, Tipperary, Limerick, Waterford) — but regional variants are recorded across Leinster, parts of Ulster, and west into Connacht.",
+  "first_reported": "1825",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

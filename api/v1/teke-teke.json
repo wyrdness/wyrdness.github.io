@@ -1,19 +1,39 @@
 {
   "id": "teke-teke",
-  "name": "Teke Teke (テケテケ)",
+  "name": "Teke Teke",
   "category": "ghost_haunting",
-  "description": "Emerging prominently in the 1980s and reaching peak cultural saturation in the 1990s, the Teke Teke legend represents the intersection of Japan's rapid modernization, railway infrastructure expansion, and deep-seated anxieties about violent death, bodily integrity, and vengeful spirits.",
-  "aliases": [],
-  "tags": [
-    "katakana-script-marks-the-sound-as-mechanical",
-    "unnatural",
-    "and-potentially-foreign",
-    "contrasting-with-the-organic-nature-of-traditional-ghost-appearances."
+  "description": "A Japanese urban-legend onryō: the spirit of a young woman or schoolgirl bisected by a train who travels on her hands or elbows, making a 'teke-teke' scratching sound, and bisects those she catches.",
+  "aliases": [
+    {
+      "name": "テケテケ",
+      "language": "Japanese (katakana)",
+      "meaning": "Onomatopoeic 'teke teke' for the scratching/scuttling sound she makes"
+    },
+    {
+      "name": "Kashima Reiko",
+      "language": "Japanese",
+      "region": "Hokkaidō",
+      "meaning": "Closely related Japanese urban-legend figure of a girl whose legs were severed by a train, often treated as a precursor to the Teke Teke legend"
+    }
   ],
-  "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "tags": [
+    "japan",
+    "urban-legend",
+    "ghost",
+    "onryo",
+    "yurei",
+    "railway",
+    "1980s",
+    "1990s"
+  ],
+  "status": "active",
+  "regions": [
+    "Hokkaidō (Kashima Reiko origin)",
+    "Honshū",
+    "Japanese urban areas generally"
+  ],
+  "origin": "Originally a Japanese schoolyard / tabloid urban legend; widely diffused since the 2000s through Japanese horror media and English-language internet culture.",
+  "first_reported": "1980s",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

@@ -1,17 +1,36 @@
 {
   "id": "montauk-project",
   "name": "Montauk Project",
-  "category": "|_conspiracy_theory_|",
-  "description": "The Montauk Project refers to alleged secret US government experiments conducted at Montauk Air Force Station (Camp Hero) in Montauk, New York, during the 1970s and 1980s.",
-  "aliases": [],
-  "tags": [
-    "folklore",
-    "mythology"
+  "category": "conspiracy_theory",
+  "description": "The Montauk Project is a conspiracy theory alleging that secret U.S. government experiments in time travel, teleportation, mind control and contact with extraterrestrials were conducted at Camp Hero / Montauk Air Force Station on Long Island, New York; the claims, originating with Preston Nichols and Peter Moon in the early 1990s, are widely characterised as fiction.",
+  "aliases": [
+    {
+      "name": "Montauk Project",
+      "region": "United States"
+    },
+    {
+      "name": "Camp Hero conspiracy",
+      "region": "Montauk, Long Island, New York"
+    }
   ],
-  "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "tags": [
+    "conspiracy",
+    "long-island",
+    "camp-hero",
+    "time-travel",
+    "mind-control",
+    "preston-nichols",
+    "philadelphia-experiment",
+    "stranger-things-influence"
+  ],
+  "status": "debunked",
+  "regions": [
+    "Long Island, New York",
+    "Suffolk County",
+    "Montauk Point"
+  ],
+  "origin": "Allegedly centred at Camp Hero / Montauk Air Force Station on the eastern tip of Long Island, New York. As a conspiracy theory it has spread globally through Nichols' and Moon's books and subsequent media adaptations.",
+  "first_reported": "1980s",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

@@ -2,16 +2,52 @@
   "id": "mare",
   "name": "Mare",
   "category": "entity_spirit",
-  "description": "The Mare is the generic European term for nightmare spirits found across Germanic, Slavic, and Scandinavian cultures.",
-  "aliases": [],
+  "description": "The pan-European nightmare spirit — the 'mare' from which English 'nightmare' (literally 'night-mare') is derived. A malicious entity, typically female, in Germanic and Slavic folklore that 'rides' people's chests at night.",
+  "aliases": [
+    {
+      "name": "Mære",
+      "language": "Old English"
+    },
+    {
+      "name": "Mara",
+      "language": "Old Norse / Old High German"
+    },
+    {
+      "name": "Mahr",
+      "language": "German"
+    },
+    {
+      "name": "Cauchemar",
+      "language": "French",
+      "meaning": "'pressing-mare' = nightmare"
+    },
+    {
+      "name": "Mareridt / Mareritt",
+      "language": "Danish / Norwegian",
+      "meaning": "'mare-ride' = nightmare"
+    },
+    {
+      "name": "Mara",
+      "language": "Swedish"
+    }
+  ],
   "tags": [
-    "folklore",
-    "mythology"
+    "nightmare",
+    "sleep-paralysis",
+    "germanic-folklore",
+    "scandinavian-folklore",
+    "english-folklore",
+    "etymology",
+    "spirit"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "Germanic Europe",
+    "Scandinavia",
+    "Slavic Europe"
+  ],
+  "origin": "Across Germanic-, Scandinavian-, and Slavic-speaking Europe, with cognates and continuations into modern French (cauchemar) and many other languages.",
+  "first_reported": "Early medieval",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

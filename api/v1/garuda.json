@@ -2,16 +2,60 @@
   "id": "garuda",
   "name": "Garuda",
   "category": "mythological_creature",
-  "description": "Garuda is a divine bird creature central to Hindu and Buddhist mythology.",
-  "aliases": [],
-  "tags": [
-    "folklore",
-    "mythology"
+  "description": "Garuda is a divine eagle-like bird in Hindu and Buddhist mythology, the mount (vahana) of Vishnu, king of birds, and eternal enemy of the nagas (serpents); it serves as the national symbol of Indonesia and Thailand.",
+  "aliases": [
+    {
+      "name": "Garuḍa",
+      "language": "Sanskrit",
+      "meaning": "Possibly from verb gri (to speak); also associated with the sun"
+    },
+    {
+      "name": "Garula",
+      "language": "Pali",
+      "region": "Buddhist tradition"
+    },
+    {
+      "name": "Khrut",
+      "language": "Thai",
+      "region": "Thailand"
+    },
+    {
+      "name": "Garuda Pancasila",
+      "language": "Indonesian",
+      "region": "Indonesia",
+      "meaning": "National emblem Garuda"
+    },
+    {
+      "name": "Tarkshya",
+      "language": "Sanskrit",
+      "region": "Hindu tradition"
+    },
+    {
+      "name": "Vainateya",
+      "language": "Sanskrit",
+      "region": "Hindu tradition",
+      "meaning": "Son of Vinata"
+    }
   ],
-  "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "tags": [
+    "hindu",
+    "buddhist",
+    "mythology",
+    "bird-deity",
+    "vishnu",
+    "south-asia",
+    "southeast-asia",
+    "national-symbol",
+    "naga-enemy"
+  ],
+  "status": "historical",
+  "regions": [
+    "Indian subcontinent",
+    "Southeast Asia",
+    "Buddhist world"
+  ],
+  "origin": "Garuda is a central figure in Hinduism, Buddhism, and Jainism, giving him cultural presence across South Asia (India, Nepal), Southeast Asia (Indonesia, Thailand, Cambodia, Myanmar), and anywhere these religions have spread.",
+  "first_reported": "1200-01-01",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

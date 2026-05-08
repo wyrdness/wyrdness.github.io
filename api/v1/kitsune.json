@@ -1,17 +1,76 @@
 {
   "id": "kitsune",
   "name": "Kitsune",
-  "category": "|_global_shapeshifting_beings_and_traditions_|",
-  "description": "Kitsune are intelligent fox spirits from Japanese folklore with magical abilities and shapeshifting powers.",
-  "aliases": [],
+  "category": "shapeshifter",
+  "description": "A Japanese fox spirit possessing intelligence, longevity, magical powers, and the ability to shapeshift — most often into a beautiful woman — and serving in folklore as either a benevolent messenger of the Shinto deity Inari or as a tricksterous, sometimes dangerous wild fox.",
+  "aliases": [
+    {
+      "name": "狐",
+      "language": "Japanese",
+      "meaning": "fox"
+    },
+    {
+      "name": "Kyūbi no kitsune",
+      "language": "Japanese",
+      "meaning": "九尾の狐 — nine-tailed fox"
+    },
+    {
+      "name": "Zenko",
+      "language": "Japanese",
+      "meaning": "善狐, benevolent foxes serving Inari"
+    },
+    {
+      "name": "Yako / Nogitsune",
+      "language": "Japanese",
+      "meaning": "野狐, wild/malicious foxes"
+    },
+    {
+      "name": "Byakko",
+      "language": "Japanese",
+      "meaning": "白狐, white fox (auspicious)"
+    },
+    {
+      "name": "Tenko",
+      "language": "Japanese",
+      "meaning": "天狐, celestial fox"
+    },
+    {
+      "name": "Kuda-gitsune",
+      "language": "Japanese",
+      "meaning": "管狐, pipe-fox spirit"
+    },
+    {
+      "name": "Húli jīng",
+      "language": "Mandarin Chinese",
+      "region": "China",
+      "meaning": "狐狸精 — Chinese fox spirit, the cultural ancestor"
+    },
+    {
+      "name": "Kumiho",
+      "language": "Korean",
+      "region": "Korea",
+      "meaning": "구미호, nine-tailed fox"
+    }
+  ],
   "tags": [
-    "folklore",
-    "mythology"
+    "japan",
+    "shinto",
+    "yokai",
+    "fox",
+    "shapeshifter",
+    "inari",
+    "nine-tailed",
+    "trickster",
+    "possession"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "Kansai region (Kyoto)",
+    "Tohoku region",
+    "Japan generally"
+  ],
+  "origin": "Throughout Japan, with particularly dense lore in central Honshū around Kyoto and Inari shrines; cognate fox-spirit traditions extend across China (huli jing), Korea (kumiho), and Vietnam.",
+  "first_reported": "0794-01-01",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

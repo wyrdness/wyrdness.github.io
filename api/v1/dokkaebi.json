@@ -1,17 +1,62 @@
 {
   "id": "dokkaebi",
-  "name": "Dokkaebi (도깨비)",
-  "category": "that_celebrates_korean_animistic_heritage_while_teaching_important_lessons_about_waste,_respect,_and_the_interconnection_of_material_and_spiritual_worlds.",
-  "description": "The dokkaebi (도깨비) stands as one of the most distinctive and beloved supernatural entities in Korean folklore, representing a uniquely Korean mythological tradition that differs significantly from similar creatures in neighboring East Asian cultures.",
-  "aliases": [],
+  "name": "Dokkaebi",
+  "category": "entity_spirit",
+  "description": "Dokkaebi are legendary creatures of Korean folklore, often loosely translated as 'goblins' but distinct from East Asian demons; they arise from the spiritual possession of inanimate objects and are known for mischief, supernatural strength, and the magical club known as the dokkaebi bangmangi.",
+  "aliases": [
+    {
+      "name": "도깨비",
+      "language": "Korean",
+      "region": "Korea",
+      "meaning": "Native Korean term, often loosely translated as 'goblin' or 'ogre'"
+    },
+    {
+      "name": "Tokkaebi",
+      "language": "Korean (McCune-Reischauer)",
+      "region": "Korea"
+    },
+    {
+      "name": "Cham dokkaebi",
+      "language": "Korean",
+      "meaning": "Mischievous variety"
+    },
+    {
+      "name": "Gae dokkaebi",
+      "language": "Korean",
+      "meaning": "Evil variety"
+    },
+    {
+      "name": "Oedari dokkaebi",
+      "language": "Korean",
+      "meaning": "One-legged ssireum-loving variety"
+    },
+    {
+      "name": "Oenun dokkaebi",
+      "language": "Korean",
+      "meaning": "One-eyed variety"
+    },
+    {
+      "name": "Nat dokkaebi",
+      "language": "Korean",
+      "meaning": "Daytime-appearing variety"
+    }
+  ],
   "tags": [
-    "folklore",
-    "mythology"
+    "korean-folklore",
+    "spirit",
+    "mischief",
+    "fortune",
+    "shamanism",
+    "east-asia"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "Korean Peninsula",
+    "Jeju (regional dokkaebi traditions)",
+    "Korean diaspora worldwide"
+  ],
+  "origin": "Korean Peninsula, with strong presence across both modern South Korea and North Korea, and within Korean diaspora communities globally.",
+  "first_reported": "Pre-13th century",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

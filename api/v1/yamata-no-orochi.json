@@ -1,16 +1,49 @@
 {
   "id": "yamata-no-orochi",
-  "name": "Yamata-no-Orochi (ヤマタノオロチ)",
+  "name": "Yamata no Orochi",
   "category": "mythological_creature",
-  "description": "The creature's mythology is preserved in Japan's oldest written texts, the *Kojiki* (712 CE) and *Nihon Shoki* (720 CE), making it one of the foundational narratives of Japanese culture and national identity.",
-  "aliases": [],
-  "tags": [
-    "purification-and-renewal"
+  "description": "An eight-headed, eight-tailed giant serpent of Japanese mythology, slain by the storm god Susanoo no Mikoto in the Hi River valley of Izumo Province. The creature's defeat yielded the Kusanagi-no-Tsurugi sword, one of Japan's three Imperial Regalia, making the Orochi myth one of the most consequential narratives in Japanese culture.",
+  "aliases": [
+    {
+      "name": "ヤマタノオロチ",
+      "language": "Japanese",
+      "meaning": "Standard katakana rendering"
+    },
+    {
+      "name": "八岐大蛇",
+      "language": "Japanese",
+      "meaning": "Eight-branching great serpent; the kanji rendering combining eight (八), branch/fork (岐), great (大), serpent (蛇)"
+    },
+    {
+      "name": "八俣遠呂知",
+      "language": "Japanese",
+      "meaning": "Alternative archaic kanji rendering found in the Kojiki"
+    },
+    {
+      "name": "Orochi",
+      "language": "Japanese",
+      "meaning": "Great serpent; the short form used independently in later tradition"
+    }
   ],
-  "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "tags": [
+    "japanese-mythology",
+    "kojiki",
+    "nihon-shoki",
+    "serpent",
+    "dragon",
+    "susanoo",
+    "kusanagi",
+    "izumo",
+    "imperial-regalia"
+  ],
+  "status": "historical",
+  "regions": [
+    "Izumo Province (Shimane Prefecture)",
+    "Hii River valley",
+    "Nita District (associated with iron production)"
+  ],
+  "origin": "The myth is geographically anchored to the Hi River (now the Hii River) in Izumo Province (modern Shimane Prefecture), western Honshu, Japan. The narrative is national in significance but locally specific in setting.",
+  "first_reported": "0712-01-01",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

@@ -1,16 +1,63 @@
 {
   "id": "simurgh",
-  "name": "Simurgh (سیمرغ)",
+  "name": "Simurgh",
   "category": "mythological_creature",
-  "description": "The Simurgh (also spelled Simorgh, Simorg, or Simurgh) is one of the most magnificent and benevolent creatures in Persian mythology, depicted as an enormous mythical bird with the wisdom of ages and the power to heal.",
-  "aliases": [],
+  "description": "The Simurgh is a benevolent mythical bird of Iranian tradition — wise, ancient, and immense — said to nest atop the Alborz Mountains. It is most famous for raising the hero Zal in Ferdowsi's Shahnameh and for serving in Attar of Nishapur's Sufi poem 'Conference of the Birds' as the goal of a spiritual journey whose surprise is the discovery that the seekers themselves (sī murğ, 'thirty birds') are the Simurgh.",
+  "aliases": [
+    {
+      "name": "سیمرغ",
+      "language": "Persian (script)",
+      "meaning": "Simurgh"
+    },
+    {
+      "name": "Simorgh",
+      "language": "Persian (alt. romanization)"
+    },
+    {
+      "name": "Simorg",
+      "language": "Persian (alt. romanization)"
+    },
+    {
+      "name": "Sēnmurw",
+      "language": "Middle Persian (Pahlavi)",
+      "meaning": "Sēn-bird"
+    },
+    {
+      "name": "Saēna meregha",
+      "language": "Avestan",
+      "region": "Pre-Islamic Iran",
+      "meaning": "the bird Saēna"
+    },
+    {
+      "name": "Sī murğ",
+      "language": "Persian (folk etymology)",
+      "meaning": "'thirty birds' — a Persian pun central to Attar's poem"
+    },
+    {
+      "name": "Anqa",
+      "language": "Arabic",
+      "meaning": "in some Islamic contexts conflated with the Simurgh"
+    }
+  ],
   "tags": [
-    "universal-life-force-and-renewal"
+    "persian-mythology",
+    "iranian",
+    "zoroastrian",
+    "shahnameh",
+    "bird",
+    "wisdom",
+    "healing",
+    "sufi",
+    "alborz-mountains"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Persian/Iranian",
-  "first_reported": "Unknown",
+  "regions": [
+    "Greater Iran",
+    "Persianate world",
+    "Alborz mountain region"
+  ],
+  "origin": "Iranian cultural zone, including modern Iran, Tajikistan, Afghanistan, Iraqi Kurdistan, and the broader Persianate world (Central Asia, the Caucasus, the Indian subcontinent under Mughal influence, and the Ottoman world).",
+  "first_reported": "Mid-1st millennium BCE (Avestan)",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

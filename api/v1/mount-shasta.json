@@ -1,17 +1,41 @@
 {
   "id": "mount-shasta",
   "name": "Mount Shasta",
-  "category": "sacred_site",
-  "description": "Mount Shasta is a massive stratovolcano rising 14,179 feet above sea level in Northern California's Cascade Range.",
-  "aliases": [],
-  "tags": [
-    "folklore",
-    "mythology"
+  "category": "location",
+  "description": "Mount Shasta is a 14,179-foot (4,322 m) stratovolcano in the southern Cascade Range of Siskiyou County, California, sacred to multiple Indigenous nations (Shasta, Karuk, Modoc, Wintu, Klamath) and a focal point of modern paranormal traditions including the legend of the hidden Lemurian city of Telos and Guy Ballard's 'I AM' Activity.",
+  "aliases": [
+    {
+      "name": "Waka-nunee-Tuki-wuki",
+      "language": "Shasta",
+      "region": "Northern California"
+    },
+    {
+      "name": "Úytaahkoo",
+      "language": "Karuk",
+      "region": "Northern California",
+      "meaning": "'White Mountain'"
+    }
   ],
-  "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "tags": [
+    "stratovolcano",
+    "sacred-site",
+    "indigenous",
+    "lemuria",
+    "telos",
+    "i-am-activity",
+    "ufo",
+    "new-age",
+    "california"
+  ],
+  "status": "active",
+  "regions": [
+    "Northern California",
+    "Cascade Range",
+    "Siskiyou County",
+    "Shasta-Trinity National Forest"
+  ],
+  "origin": "Single mountain in Siskiyou County, northern California, with cultural and paranormal influence felt across the western United States and globally through New Age and UFO-religion networks.",
+  "first_reported": "Pre-contact",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

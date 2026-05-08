@@ -1,16 +1,76 @@
 {
   "id": "zmey",
-  "name": "Zmey - The Slavic Dragon",
+  "name": "Zmey (Slavic Dragon)",
   "category": "mythological_creature",
-  "description": "The **zmey** (also spelled *zmiy*, *zmaj*, or *żmij*) is a multi-headed dragon from Slavic mythology, distinct from Western European dragons in both appearance and behavior.",
-  "aliases": [],
+  "description": "The zmey (Russian zmei, Ukrainian zmiy, Polish żmij, Serbian/Croatian/Slovenian zmaj, Bulgarian zmei) is the dragon of Slavic mythology — a flying, often multi-headed, fire-breathing serpent that shapeshifts between dragon and human form, with sharply different moral roles in East Slavic and South Slavic traditions.",
+  "aliases": [
+    {
+      "name": "Zmei",
+      "language": "Russian (змей)",
+      "region": "Russia",
+      "meaning": "serpent / dragon"
+    },
+    {
+      "name": "Zmiy",
+      "language": "Ukrainian (змій)",
+      "region": "Ukraine"
+    },
+    {
+      "name": "Żmij",
+      "language": "Polish",
+      "region": "Poland"
+    },
+    {
+      "name": "Zmaj",
+      "language": "Serbian / Croatian (змај)",
+      "region": "Western Balkans"
+    },
+    {
+      "name": "Zmey (Змей)",
+      "language": "Bulgarian",
+      "region": "Bulgaria"
+    },
+    {
+      "name": "Zmaj",
+      "language": "Slovenian",
+      "region": "Slovenia"
+    },
+    {
+      "name": "Zmey Gorynych",
+      "language": "Russian (Змей Горыныч)",
+      "region": "Russia / Ukraine",
+      "meaning": "the Serpent Gorynych — multi-headed dragon of the bylinas"
+    },
+    {
+      "name": "Zmeyitsa / Zmeitsa",
+      "language": "South Slavic",
+      "meaning": "female zmey"
+    },
+    {
+      "name": "Chudo-Yudo",
+      "language": "Russian",
+      "meaning": "multi-headed water-dwelling dragon of folktales"
+    }
+  ],
   "tags": [
-    "studies-of-chaos-monsters-across-cultures."
+    "dragon",
+    "mythology",
+    "slavic",
+    "serpent",
+    "folklore",
+    "shapeshifter",
+    "multi-headed",
+    "europe"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "East Slavic lands (Russian and Ukrainian folktale and bylina traditions)",
+    "Western Balkans (Serbian, Croatian, Slovenian zmaj traditions)",
+    "Bulgaria and North Macedonia (zmei and lamia traditions)",
+    "Poland (żmij and the Wawel Dragon of Kraków)"
+  ],
+  "origin": "Pan-Slavic. The zmey is documented across the Slavic-speaking world: East Slavic (Russia, Ukraine, Belarus), South Slavic (Bulgaria, Serbia, Croatia, North Macedonia, Slovenia), and West Slavic (Poland, Czech, Slovak) traditions, with related figures in Romania.",
+  "first_reported": "Medieval Slavic period",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

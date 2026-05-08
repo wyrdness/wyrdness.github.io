@@ -2,16 +2,94 @@
   "id": "fairies",
   "name": "Fairies / Fae Folk",
   "category": "fae_folklore",
-  "description": "Fairies (also known as the Fae or Sidhe) are supernatural beings deeply rooted in Celtic mythology and European folklore.",
-  "aliases": [],
+  "description": "Fairies are a class of supernatural beings in European folklore, particularly Celtic, Germanic and English traditions, dwelling in an Otherworld that overlaps with our own and capable of magic, abduction, and exchange of changelings.",
+  "aliases": [
+    {
+      "name": "Aos Sí",
+      "language": "Irish",
+      "region": "Ireland",
+      "meaning": "folk of the fairy mounds"
+    },
+    {
+      "name": "Daoine Sídhe",
+      "language": "Irish",
+      "region": "Ireland"
+    },
+    {
+      "name": "Daoine Sìth",
+      "language": "Scottish Gaelic",
+      "region": "Scotland"
+    },
+    {
+      "name": "Tylwyth Teg",
+      "language": "Welsh",
+      "region": "Wales",
+      "meaning": "the fair family"
+    },
+    {
+      "name": "The Good Neighbours",
+      "language": "English",
+      "region": "British Isles",
+      "meaning": "euphemism to avoid offending the Fae"
+    },
+    {
+      "name": "The Fair Folk",
+      "language": "English",
+      "region": "British Isles",
+      "meaning": "euphemism"
+    },
+    {
+      "name": "The Wee Folk",
+      "region": "Scotland and Ireland"
+    },
+    {
+      "name": "People of Peace",
+      "region": "Scotland"
+    },
+    {
+      "name": "Seelie Court",
+      "language": "Scots",
+      "region": "Scotland",
+      "meaning": "benevolent fairies"
+    },
+    {
+      "name": "Unseelie Court",
+      "language": "Scots",
+      "region": "Scotland",
+      "meaning": "malicious fairies"
+    },
+    {
+      "name": "Sídhe",
+      "language": "Irish",
+      "region": "Ireland",
+      "meaning": "fairy mound"
+    }
+  ],
   "tags": [
     "folklore",
-    "mythology"
+    "fae",
+    "celtic",
+    "european",
+    "otherworld",
+    "changeling",
+    "fairy-mound",
+    "shapeshifting",
+    "supernatural"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "Ireland",
+    "Highlands and Islands of Scotland",
+    "Wales",
+    "Cornwall",
+    "Isle of Man",
+    "Brittany",
+    "Iceland",
+    "Newfoundland",
+    "Appalachia"
+  ],
+  "origin": "Fairy belief is centred in the Celtic-speaking regions of Ireland, Scotland, the Isle of Man, Wales, Cornwall, and Brittany, with extensive parallel traditions across Germanic and Scandinavian Europe and surviving Anglo-American folk belief in Newfoundland and Appalachia.",
+  "first_reported": "0700-01-01",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

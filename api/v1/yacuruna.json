@@ -1,17 +1,41 @@
 {
   "id": "yacuruna",
-  "name": "Yacuruna: The Amazonian Water Spirit",
+  "name": "Yacuruna",
   "category": "entity_spirit",
-  "description": "The **Yacuruna** (also spelled Yakuruna, Yacuruna, or Yakumama) are powerful water spirits in the mythology of various Indigenous peoples of the Amazon basin, particularly the Shipibo-Conibo, Cocama, and other riverine cultures.",
-  "aliases": [],
+  "description": "Powerful water spirits in the mythology of various Indigenous peoples of the Amazon basin, particularly Quechua-speaking and riverine cultures. The Yacuruna inhabit underwater cities beneath Amazonian rivers and lakes, riding black crocodiles by night and shapeshifting into Amazon river dolphins to interact with humans.",
+  "aliases": [
+    {
+      "name": "Yakuruna",
+      "language": "Quechua",
+      "region": "Amazon basin",
+      "meaning": "Water people; from yaku (water) + runa (man/people)"
+    },
+    {
+      "name": "Yaku Runa",
+      "language": "Quechua",
+      "region": "Amazon basin",
+      "meaning": "Literal Quechua form: water people"
+    }
+  ],
   "tags": [
-    "of-the-tukano-indians.-university-of-chicago-press",
-    "1971."
+    "amazonian-indigenous",
+    "water-spirit",
+    "shapeshifter",
+    "south-america",
+    "quechua",
+    "shipibo-conibo",
+    "shamanic",
+    "underwater-city"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "Amazon basin",
+    "Upper Amazon (Peru)",
+    "Loreto region, Peru",
+    "Ucayali region, Peru"
+  ],
+  "origin": "The Yacuruna tradition is documented across the Amazonian basin, particularly among Quechua-speaking peoples of Peru and adjacent riverine cultures (Cocama, and others). The belief complex extends across the broader Amazonian cultural area where the boto (Amazon river dolphin) is ecologically present.",
+  "first_reported": "Pre-contact",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

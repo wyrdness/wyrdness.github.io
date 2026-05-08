@@ -2,16 +2,65 @@
   "id": "loup-garou",
   "name": "Loup-Garou",
   "category": "shapeshifter",
-  "description": "The **Loup-Garou** (Louisiana French: *Rougarou*; Haitian Creole: *Lougarou*) is a werewolf figure born from the collision of three worlds: medieval French folklore, West African shapeshifting traditions, and Catholic moral enforcement.",
-  "aliases": [],
+  "description": "The Loup-Garou is the French-language werewolf, transplanted by French settlers into Louisiana (where it became the Rougarou of the bayous), into Haitian and Caribbean Creole cultures (Lougarou, Loogaroo), and into French Canadian / Métis tradition. It is typically a human cursed to transform into a wolf-like or hybrid form by breaking Catholic Lenten observance.",
+  "aliases": [
+    {
+      "name": "Loup-garou",
+      "language": "French",
+      "meaning": "'wolf-werewolf' — werewolf"
+    },
+    {
+      "name": "Rougarou",
+      "language": "Louisiana French",
+      "region": "Louisiana, USA"
+    },
+    {
+      "name": "Roux-ga-roux",
+      "language": "Louisiana French",
+      "region": "Louisiana, USA"
+    },
+    {
+      "name": "Rugaroo",
+      "region": "Louisiana / Métis communities"
+    },
+    {
+      "name": "Rugaru",
+      "region": "Métis / Ojibwe communities, Great Lakes"
+    },
+    {
+      "name": "Lougarou",
+      "language": "Haitian Creole",
+      "region": "Haiti"
+    },
+    {
+      "name": "Loogaroo",
+      "language": "Caribbean English Creole",
+      "region": "Trinidad and the wider Caribbean"
+    }
+  ],
   "tags": [
-    "folklore",
-    "mythology"
+    "werewolf",
+    "shapeshifter",
+    "french-folklore",
+    "louisiana",
+    "cajun",
+    "haitian",
+    "caribbean",
+    "lent",
+    "catholic-folklore"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "| French-African Creole | Indigenous Algonquian |",
-  "first_reported": "Unknown",
+  "regions": [
+    "Continental France",
+    "Quebec",
+    "Acadia / Maritimes",
+    "Louisiana (Acadiana, Greater New Orleans)",
+    "Haiti",
+    "Caribbean Creole world",
+    "Great Lakes (Métis, Ojibwe)"
+  ],
+  "origin": "The loup-garou tradition is found wherever French and French-Creole communities settled: continental France (especially rural Catholic regions), French Canada, Louisiana (Acadiana and Greater New Orleans), Haiti, and the wider Francophone Caribbean. Métis and Ojibwe communities of the Great Lakes have a related rugaru figure.",
+  "first_reported": "12th century",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

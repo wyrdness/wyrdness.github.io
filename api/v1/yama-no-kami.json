@@ -2,16 +2,49 @@
   "id": "yama-no-kami",
   "name": "Yama-no-kami",
   "category": "entity_spirit",
-  "description": "Yama-no-kami, the mountain god or deity, is a significant kami (deity/spirit) in Japanese Shinto tradition and folklore.",
-  "aliases": [],
+  "description": "A Shinto kami (divine spirit) of the mountains revered across Japan, who rules over mountains and forests in winter and descends to become Ta-no-kami (rice-field god) in spring. Worshipped by hunters, woodcutters, and farmers, Yama-no-kami is accompanied by strict taboos and is generally depicted as a female deity.",
+  "aliases": [
+    {
+      "name": "山の神",
+      "language": "Japanese",
+      "meaning": "Mountain kami; the standard kanji rendering"
+    },
+    {
+      "name": "Yamagami",
+      "language": "Japanese",
+      "meaning": "Alternative reading of the characters 山神; mountain god/spirit"
+    },
+    {
+      "name": "Ta-no-kami",
+      "language": "Japanese",
+      "meaning": "Rice-field god; the seasonal alter ego of Yama-no-kami, who descends from the mountain in spring"
+    },
+    {
+      "name": "Sansin",
+      "language": "Korean",
+      "region": "Korea",
+      "meaning": "Mountain spirit; East Asian cognate deity"
+    }
+  ],
   "tags": [
-    "folklore",
-    "mythology"
+    "shinto",
+    "japanese-mythology",
+    "kami",
+    "mountain-deity",
+    "agriculture",
+    "nature-spirit",
+    "japan",
+    "seasonal-transformation"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "Throughout Japan",
+    "Particularly prominent in central Honshu",
+    "Significant tradition on Mount Hiei (Oyamakui no Kami)",
+    "Mount Fuji associated with Ōyamatsumi worship"
+  ],
+  "origin": "Worshipped throughout Japan, with active shrines in all mountainous regions. The tradition is most prominent in rural agricultural and forestry communities. Cognate traditions extend across East Asia (Korea's Sansin, China's Shanshen, Vietnam's Son than).",
+  "first_reported": "0712-01-01",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

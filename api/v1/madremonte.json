@@ -2,16 +2,64 @@
   "id": "madremonte",
   "name": "Madremonte",
   "category": "entity_spirit",
-  "description": "Madremonte, also known as \\\"Marimonda,\\\" \\\"Madre Monte,\\\" \\\"Madre de Monte,\\\" or \\\"Madre del Monte\\\" (Mother of the Mountain/Forest), is one of the most powerful and revered supernatural figures in Colombian folklore.",
-  "aliases": [],
+  "description": "Madremonte (Madre Monte, 'Mother Mountain' or 'Mother of the Forest') is a powerful female nature-spirit in Colombian folklore — protector of forests, rivers, and animals — who punishes those who damage the environment and is recognised across Andean Colombia and parts of the Caribbean coast.",
+  "aliases": [
+    {
+      "name": "Madre Monte",
+      "language": "Spanish",
+      "meaning": "'Mother Mountain' / 'Mother of the Forest'"
+    },
+    {
+      "name": "Madre de Monte",
+      "language": "Spanish"
+    },
+    {
+      "name": "Madre del Monte",
+      "language": "Spanish"
+    },
+    {
+      "name": "Marimonda",
+      "language": "Spanish",
+      "region": "Caribbean Colombia / Barranquilla Carnival"
+    },
+    {
+      "name": "Fantasma del Monte",
+      "language": "Spanish",
+      "region": "Argentina",
+      "meaning": "'Ghost of the Forest'"
+    },
+    {
+      "name": "Madre Selva",
+      "language": "Spanish",
+      "region": "Brazil / wider South America",
+      "meaning": "'Mother Jungle'"
+    },
+    {
+      "name": "Madre de los Cerros",
+      "language": "Spanish",
+      "region": "Paraguay",
+      "meaning": "'Mother of the Hills'"
+    }
+  ],
   "tags": [
-    "folklore",
-    "mythology"
+    "colombian-folklore",
+    "nature-spirit",
+    "forest-guardian",
+    "andean",
+    "mestizo",
+    "indigenous-influence",
+    "feminine-spirit"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "Colombian Andes",
+    "Antioquia",
+    "Eje Cafetero",
+    "Magdalena valley",
+    "Valle del Cauca"
+  ],
+  "origin": "Madremonte is most prominent in the Andean regions of Colombia — including Antioquia, the central and western Andes, the Eje Cafetero coffee-growing zones, and the Magdalena and Valle del Cauca river basins. Closely related figures (Fantasma del Monte, Madre Selva, Madre de los Cerros) appear in Argentina, Brazil and Paraguay.",
+  "first_reported": "Pre-Hispanic",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

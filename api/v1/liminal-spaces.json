@@ -2,16 +2,39 @@
   "id": "liminal-spaces",
   "name": "Liminal Spaces",
   "category": "anomaly",
-  "description": "Liminal spaces represent a modern internet-originated aesthetic and psychological phenomenon characterized by transitional or \\\"in-between\\\" locations that evoke feelings of eeriness, nostalgia, emptiness, and uncanny familiarity.",
-  "aliases": [],
-  "tags": [
-    "folklore",
-    "mythology"
+  "description": "Liminal spaces are an internet-born aesthetic of empty, transitional or transitionary built environments — corridors, hotel hallways, abandoned malls, stairwells — photographed without people, where the absence of human presence makes a familiar place feel uncanny, eerie, and dreamlike.",
+  "aliases": [
+    {
+      "name": "Liminal space (aesthetic)",
+      "region": "Internet / Anglophone web"
+    },
+    {
+      "name": "Threshold space"
+    },
+    {
+      "name": "Backrooms aesthetic",
+      "meaning": "Closely related internet-mythology offshoot"
+    },
+    {
+      "name": "Weirdcore",
+      "meaning": "Adjacent low-fidelity online aesthetic often paired with liminal imagery"
+    }
   ],
-  "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "tags": [
+    "internet-folklore",
+    "aesthetic",
+    "uncanny",
+    "psychogeography",
+    "creepypasta",
+    "modern-myth",
+    "uncanny-valley"
+  ],
+  "status": "active",
+  "regions": [
+    "Internet (Reddit, Twitter, TikTok, 4chan, Tumblr, YouTube)"
+  ],
+  "origin": "Global, networked phenomenon: imagery is sourced from buildings worldwide but circulates almost entirely online via Anglophone social-media platforms.",
+  "first_reported": "2018",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

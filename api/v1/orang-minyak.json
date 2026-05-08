@@ -1,17 +1,40 @@
 {
   "id": "orang-minyak",
-  "name": "Orang Minyak (The Oily Man)",
-  "category": "urban_legend_/_moral_panic",
-  "description": "The **Orang Minyak** (Malay: \\\"Oily Man\\\") represents one of Southeast Asia's most disturbing and complex urban legends—a phenomenon that exists at the intersection of traditional folklore, criminal activity, moral panic, and gendered violence.",
-  "aliases": [],
-  "tags": [
-    "folklore",
-    "mythology"
+  "name": "Orang Minyak",
+  "category": "entity_spirit",
+  "description": "A figure from Malay folklore and urban legend described as a naked man covered entirely in black oil who breaks into homes to assault women, associated with a 1950s–1970s moral panic in Malaysia and Singapore and depicted in multiple films.",
+  "aliases": [
+    {
+      "name": "Orang Minyak",
+      "language": "Malay",
+      "region": "Malaysia, Singapore",
+      "meaning": "Oily man"
+    },
+    {
+      "name": "The Oily Man",
+      "language": "English",
+      "region": "Malaysia, Singapore"
+    }
   ],
-  "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "tags": [
+    "malaysia",
+    "singapore",
+    "malay",
+    "urban-legend",
+    "moral-panic",
+    "nocturnal",
+    "folklore",
+    "southeast-asia",
+    "supernatural-criminal"
+  ],
+  "status": "unverified",
+  "regions": [
+    "Selangor, Malaysia",
+    "Various Malaysian states",
+    "Singapore"
+  ],
+  "origin": "Reported from Malaysia and Singapore, with the legend originating in the Malay-speaking communities of both countries. Specific modern incident reports from Gombak, Selangor, Malaysia (2012).",
+  "first_reported": "1957-10-12",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

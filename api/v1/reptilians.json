@@ -1,17 +1,48 @@
 {
   "id": "reptilians",
-  "name": "Reptilians",
+  "name": "Reptilian Conspiracy Theory",
   "category": "conspiracy_theory",
-  "description": "The Reptilian conspiracy theory alleges that reptilian humanoid aliens secretly control Earth and humanity.",
-  "aliases": [],
-  "tags": [
-    "folklore",
-    "mythology"
+  "description": "A modern conspiracy theory that alleges shape-shifting reptilian humanoid beings secretly control Earth's institutions, popularised by British conspiracy author David Icke from the late 1990s onwards.",
+  "aliases": [
+    {
+      "name": "Reptoids",
+      "language": "English"
+    },
+    {
+      "name": "Lizard People",
+      "language": "English"
+    },
+    {
+      "name": "Draconians",
+      "language": "English",
+      "meaning": "alleged origin in the Alpha Draconis star system"
+    },
+    {
+      "name": "Anunnaki (in some syntheses)",
+      "language": "English",
+      "meaning": "drawn from Zecharia Sitchin's pseudohistorical writing"
+    },
+    {
+      "name": "Saurians",
+      "language": "English"
+    }
   ],
-  "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "tags": [
+    "conspiracy-theory",
+    "david-icke",
+    "shape-shifter",
+    "new-world-order",
+    "pseudoscience",
+    "antisemitic-tropes",
+    "ufology",
+    "post-1990"
+  ],
+  "status": "debunked",
+  "regions": [
+    "English-speaking online conspiracist communities"
+  ],
+  "origin": "As a conspiracy belief, the theory has audiences in over 40 countries, with English-language strongholds in the UK, US, Canada, Australia, and online communities globally. Belief has been measured most directly in the United States.",
+  "first_reported": "1929-08-01",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

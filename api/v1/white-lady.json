@@ -1,16 +1,75 @@
 {
   "id": "white-lady",
   "name": "White Lady",
-  "category": "ghost",
-  "description": "The White Lady is one of the most widespread ghost archetypes found across cultures worldwide.",
-  "aliases": [],
-  "tags": [
-    "&-meaning"
+  "category": "ghost_haunting",
+  "description": "A globally recurring ghost archetype: a female apparition in white clothing tied to a specific location and a story of tragic, often violent death — most commonly suicide, murder, accident, or death in childbirth.",
+  "aliases": [
+    {
+      "name": "Dama Branca",
+      "language": "Portuguese",
+      "region": "Brazil"
+    },
+    {
+      "name": "Mulher de Branco",
+      "language": "Portuguese",
+      "region": "Brazil"
+    },
+    {
+      "name": "Weiße Frau",
+      "language": "German",
+      "region": "Germany"
+    },
+    {
+      "name": "Witte Wieven",
+      "language": "Dutch / Low Saxon",
+      "region": "Netherlands and surrounding Low Saxon area"
+    },
+    {
+      "name": "Y Ladi Wen",
+      "language": "Welsh",
+      "region": "Wales",
+      "meaning": "The White Lady"
+    },
+    {
+      "name": "Lady in White",
+      "region": "Anglophone usage"
+    },
+    {
+      "name": "Lady of the Lake (Rochester)",
+      "region": "Durand-Eastman Park, Rochester, New York, USA"
+    },
+    {
+      "name": "Balete Drive White Lady",
+      "region": "Quezon City, Philippines"
+    },
+    {
+      "name": "La Llorona (related)",
+      "language": "Spanish",
+      "region": "Latin America",
+      "meaning": "The Weeping Woman; a related but distinct white-clad female-ghost archetype"
+    }
   ],
-  "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "tags": [
+    "ghost",
+    "female-spirit",
+    "tragic-death",
+    "haunted-locations",
+    "global-archetype",
+    "folklore",
+    "urban-legend"
+  ],
+  "status": "active",
+  "regions": [
+    "Bohemia",
+    "Brandenburg",
+    "English country houses",
+    "Welsh borderlands",
+    "Low Saxon Netherlands",
+    "Northeastern United States",
+    "Quezon City, Metro Manila"
+  ],
+  "origin": "The White Lady is a globally distributed archetype with attested local traditions across Europe (Germany, Czech Republic, England, Wales, Ireland, Netherlands, Switzerland, Hungary, Estonia, Russia, Serbia), the Americas (United States, Brazil), and parts of Asia (Philippines, Thailand).",
+  "first_reported": "1429",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

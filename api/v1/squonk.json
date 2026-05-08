@@ -2,16 +2,29 @@
   "id": "squonk",
   "name": "Squonk",
   "category": "cryptid",
-  "description": "The Squonk is the saddest fearsome critter - a hideously ugly creature with warty, saggy skin that weeps constantly over its appearance.",
-  "aliases": [],
-  "tags": [
-    "folklore",
-    "mythology"
+  "description": "A 'fearsome critter' of North American lumberjack folklore, said to inhabit the hemlock forests of northern Pennsylvania. The squonk is famously ugly, weeps continuously, and is said to dissolve into its own tears when cornered.",
+  "aliases": [
+    {
+      "name": "Lacrimacorpus dissolvens",
+      "language": "Latin (mock-scientific)",
+      "meaning": "'Tear-body that dissolves itself'; coined by William T. Cox (1910)"
+    }
   ],
-  "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "tags": [
+    "fearsome-critter",
+    "lumberwoods",
+    "pennsylvania",
+    "folklore",
+    "north-america",
+    "tall-tale"
+  ],
+  "status": "historical",
+  "regions": [
+    "Pennsylvania",
+    "Allegheny Plateau"
+  ],
+  "origin": "Confined in lumberjack folklore to the hemlock forests of northern Pennsylvania, USA. Cox notes a possible secondary range in adjacent forested mountain country.",
+  "first_reported": "1910",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

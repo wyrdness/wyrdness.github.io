@@ -2,16 +2,42 @@
   "id": "electronic-voice-phenomena",
   "name": "Electronic Voice Phenomena (EVP)",
   "category": "psychic_phenomena",
-  "description": "Electronic Voice Phenomena (EVP) is the claimed communication with spirits through electronic audio recordings.",
-  "aliases": [],
+  "description": "Sounds present on electronic recordings that are interpreted as the voices of the dead or other discarnate entities; mainstream science treats EVP as auditory pareidolia and radio/equipment artifact, while paranormal investigators continue to record and catalogue alleged messages.",
+  "aliases": [
+    {
+      "name": "EVP",
+      "meaning": "Standard English-language abbreviation"
+    },
+    {
+      "name": "Raudive Voices",
+      "region": "United Kingdom and Europe",
+      "meaning": "Named after Konstantin Raudive, who popularized the practice"
+    },
+    {
+      "name": "Instrumental Trans-Communication (ITC)",
+      "meaning": "Broader term coined by Ernst Senkowski covering EVP and other electronic 'spirit communication' methods"
+    },
+    {
+      "name": "Spirit voices",
+      "meaning": "Common popular-media term"
+    }
+  ],
   "tags": [
-    "folklore",
-    "mythology"
+    "audio",
+    "ghost-hunting",
+    "parapsychology",
+    "pareidolia",
+    "spiritualism",
+    "20th-century",
+    "pseudoscience"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "Western Europe",
+    "North America"
+  ],
+  "origin": "EVP recording is a global phenomenon practiced across Europe, the Americas, and Asia, originating in mid-20th-century Sweden, Latvia, and the United States and spreading widely with consumer audio recorders and the internet.",
+  "first_reported": "1959-06-12",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

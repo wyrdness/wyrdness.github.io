@@ -2,18 +2,43 @@
   "id": "minotaur",
   "name": "Minotaur",
   "category": "mythological_creature",
-  "description": "The Minotaur was a monstrous hybrid with a **bull's head** and a **human body**, born from the union of Pasiphaë (wife of King Minos of Crete) and a sacred bull sent by Poseidon.",
-  "aliases": [],
+  "description": "In Greek mythology, the bull-headed son of Pasiphaë and the Cretan Bull, kept by King Minos in Daedalus's Labyrinth at Knossos and slain by the Athenian hero Theseus with the help of Ariadne and her thread.",
+  "aliases": [
+    {
+      "name": "Asterion",
+      "language": "Ancient Greek",
+      "meaning": "'Starry one' — the creature's true name in Pseudo-Apollodorus"
+    },
+    {
+      "name": "Asterius",
+      "language": "Latin / Greek (variant)",
+      "meaning": "Latinised form of Asterion"
+    },
+    {
+      "name": "Minotauros",
+      "language": "Ancient Greek",
+      "meaning": "'Bull of Minos' — Μῑνώταυρος, from Μίνως (Minos) + ταῦρος (bull)"
+    }
+  ],
   "tags": [
-    "confusion",
-    "complexity",
-    "the-journey-inward",
-    "facing-one's-demons"
+    "greek-mythology",
+    "crete",
+    "knossos",
+    "labyrinth",
+    "minos",
+    "theseus",
+    "ariadne",
+    "daedalus",
+    "hybrid-creature"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "Crete",
+    "Aegean",
+    "Italian peninsula (through Roman reception)"
+  ],
+  "origin": "The Minotaur is a figure of ancient Cretan and pan-Hellenic Greek mythology, transmitted across the Greek and Roman Mediterranean and into the wider European tradition.",
+  "first_reported": "c. 700 BCE",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

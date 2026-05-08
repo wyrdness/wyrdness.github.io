@@ -1,17 +1,42 @@
 {
   "id": "sedona-vortexes",
   "name": "Sedona Vortexes",
-  "category": "sacred_site",
-  "description": "The Sedona Vortexes are specific geographic locations in Sedona, Arizona, believed by New Age practitioners to contain swirling centers of energy conducive to healing, meditation, and spiritual experiences.",
-  "aliases": [],
-  "tags": [
-    "folklore",
-    "mythology"
+  "category": "location",
+  "description": "The Sedona Vortexes are specific geographic locations in Sedona, Arizona, believed by New Age practitioners to be swirling centers of earth energy conducive to healing, meditation, and spiritual transformation, drawing approximately 3 million visitors annually.",
+  "aliases": [
+    {
+      "name": "Sedona Vortices",
+      "language": "English",
+      "meaning": "Alternative plural; both 'vortexes' and 'vortices' are used"
+    },
+    {
+      "name": "Energy vortexes",
+      "region": "Sedona, Arizona",
+      "meaning": "Colloquial New Age term"
+    }
   ],
-  "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "tags": [
+    "sedona",
+    "arizona",
+    "new-age",
+    "spiritual",
+    "energy",
+    "vortex",
+    "healing",
+    "meditation",
+    "native-american",
+    "tourism",
+    "psychic-phenomena",
+    "red-rock"
+  ],
+  "status": "active",
+  "regions": [
+    "Sedona, Arizona",
+    "Verde Valley",
+    "Coconino and Yavapai Counties, Arizona"
+  ],
+  "origin": "Concentrated within approximately 10 miles of central Sedona, Arizona, United States.",
+  "first_reported": "1980-01-01",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

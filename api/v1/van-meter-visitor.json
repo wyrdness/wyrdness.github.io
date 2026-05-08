@@ -2,16 +2,31 @@
   "id": "van-meter-visitor",
   "name": "Van Meter Visitor",
   "category": "cryptid",
-  "description": "The **Van Meter Visitor** is one of America's most peculiar and well-documented cryptid encounters, occurring over five consecutive nights in September 1903 in the small town of Van Meter, Iowa.",
-  "aliases": [],
-  "tags": [
-    "folklore",
-    "mythology"
+  "description": "The Van Meter Visitor is a winged creature reported by multiple witnesses in Van Meter, Iowa over five consecutive nights in late September to early October 1903; witnesses described a large, dark, winged humanoid with a bioluminescent horn projecting from its forehead and a powerful offensive odor.",
+  "aliases": [
+    {
+      "name": "Van Meter Monster",
+      "region": "Van Meter, Iowa, USA",
+      "meaning": "Common alternate name used in local and cryptozoological sources"
+    }
   ],
-  "status": "documented",
-  "regions": [],
-  "origin": "American (Iowa), September 29 - October 3, 1903",
-  "first_reported": "Unknown",
+  "tags": [
+    "winged-humanoid",
+    "iowa",
+    "cryptid",
+    "1903",
+    "bioluminescent",
+    "multiple-witnesses",
+    "coal-mine",
+    "historical",
+    "united-states"
+  ],
+  "status": "historical",
+  "regions": [
+    "Van Meter, Dallas County, Iowa"
+  ],
+  "origin": "Single location: Van Meter, Iowa, USA. No other sightings documented in the area before or after the 1903 incidents.",
+  "first_reported": "1903-09-29",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

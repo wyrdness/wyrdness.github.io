@@ -2,16 +2,47 @@
   "id": "fenrir",
   "name": "Fenrir",
   "category": "mythological_creature",
-  "description": "Fenrir (also called Fenrisúlfr) is a gigantic and monstrous wolf in Norse mythology, son of the trickster god Loki and the jötunn Angrboða.",
-  "aliases": [],
+  "description": "Fenrir is a monstrous wolf in Norse mythology, son of Loki and the jötunn Angrboða, bound by the gods with the magical fetter Gleipnir and prophesied to break free at Ragnarök and slay Odin.",
+  "aliases": [
+    {
+      "name": "Fenrisúlfr",
+      "language": "Old Norse",
+      "meaning": "Fenrir's wolf / the wolf of Fenrir"
+    },
+    {
+      "name": "Hróðvitnir",
+      "language": "Old Norse",
+      "meaning": "fame-wolf"
+    },
+    {
+      "name": "Vánagandr",
+      "language": "Old Norse",
+      "meaning": "monster of the (river) Ván"
+    },
+    {
+      "name": "Fenrisulven",
+      "language": "Modern Scandinavian (Danish/Norwegian)"
+    }
+  ],
   "tags": [
-    "folklore",
-    "mythology"
+    "norse-mythology",
+    "wolf",
+    "giant",
+    "ragnarok",
+    "loki",
+    "binding",
+    "apocalyptic",
+    "germanic"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "Ásgarðr",
+    "Jötunheimr (place of his upbringing in some accounts)",
+    "Ámsvartnir / Lyngvi (place of binding)",
+    "Vígríðr (battlefield of Ragnarök)"
+  ],
+  "origin": "Fenrir is a figure of the cosmological geography of Old Norse mythology rather than a being of the historical world. He is bound on the island of Lyngvi in the lake Ámsvartnir, and reaches Vígríðr at Ragnarök.",
+  "first_reported": "0900-01-01",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

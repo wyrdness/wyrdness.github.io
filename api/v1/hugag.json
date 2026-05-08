@@ -2,16 +2,33 @@
   "id": "hugag",
   "name": "Hugag",
   "category": "cryptid",
-  "description": "The Hugag is an enormous moose-like creature with a fatal design flaw: its legs are completely stiff and jointless.",
-  "aliases": [],
-  "tags": [
-    "folklore",
-    "mythology"
+  "description": "The Hugag is a large moose-like creature from American lumberjack tall-tale tradition, distinguished by jointless legs that prevent it from lying down, forcing it to sleep standing up while leaning against trees.",
+  "aliases": [
+    {
+      "name": "Hew-gag",
+      "language": "English",
+      "region": "Northern United States",
+      "meaning": "Variant spelling from 1900 documentation"
+    }
   ],
-  "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "tags": [
+    "american-folklore",
+    "lumberjack",
+    "fearsome-critters",
+    "tall-tale",
+    "moose-like",
+    "north-america",
+    "minnesota",
+    "wisconsin"
+  ],
+  "status": "historical",
+  "regions": [
+    "Northern Minnesota",
+    "Western Wisconsin",
+    "Canadian wilderness (Hudson Bay region)"
+  ],
+  "origin": "Northern Minnesota, western Wisconsin, and the Canadian wilderness toward Hudson Bay, according to lumberjack tall-tale tradition.",
+  "first_reported": "1900-01-01",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

@@ -1,16 +1,58 @@
 {
   "id": "hungry-ghost",
-  "name": "Hungry Ghost (餓鬼/饿鬼)",
+  "name": "Hungry ghost",
   "category": "ghost_haunting",
-  "description": "The Hungry Ghost (Chinese: 餓鬼/饿鬼 è guǐ; Japanese: 餓鬼 gaki; Sanskrit: preta) represents one of the most enduring and widespread supernatural concepts in East Asian Buddhist and folk traditions.",
-  "aliases": [],
+  "description": "Hungry ghosts (Sanskrit preta; Chinese e gui; Japanese gaki) are beings of one of the six Buddhist realms of rebirth, characterized by insatiable hunger and thirst caused by past karma of greed and attachment.",
+  "aliases": [
+    {
+      "name": "Preta (प्रेत)",
+      "language": "Sanskrit",
+      "meaning": "departed one; gone forth"
+    },
+    {
+      "name": "餓鬼 (è guǐ)",
+      "language": "Chinese",
+      "meaning": "hungry ghost"
+    },
+    {
+      "name": "餓鬼 (gaki)",
+      "language": "Japanese",
+      "meaning": "hungry ghost"
+    },
+    {
+      "name": "ཡི་དྭགས་ (yi dwags)",
+      "language": "Tibetan"
+    },
+    {
+      "name": "Peta",
+      "language": "Pali"
+    },
+    {
+      "name": "Ma đói",
+      "language": "Vietnamese"
+    }
+  ],
   "tags": [
-    "and-teachings"
+    "buddhism",
+    "preta",
+    "east-asia",
+    "south-asia",
+    "ghost-festival",
+    "obon",
+    "karma",
+    "afterlife"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Stories",
-  "first_reported": "Unknown",
+  "regions": [
+    "South Asia",
+    "East Asia",
+    "Southeast Asia",
+    "Tibetan plateau",
+    "Sinosphere",
+    "Theravāda Buddhist countries"
+  ],
+  "origin": "Hungry-ghost belief follows the geographic spread of Buddhism. Doctrinally rooted in South Asia (India, Nepal, Sri Lanka), it became a major popular tradition across China, Taiwan, Japan, Korea, Vietnam, Tibet, Mongolia, and Southeast Asia (Thailand, Myanmar, Cambodia, Laos).",
+  "first_reported": "c. 1st c. BCE",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

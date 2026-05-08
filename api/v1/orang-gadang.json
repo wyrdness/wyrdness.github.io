@@ -2,16 +2,33 @@
   "id": "orang-gadang",
   "name": "Orang Gadang",
   "category": "cryptid",
-  "description": "Indonesian giant humanoid cryptid reported in Sumatra's forests This phenomenon represents an important part of Indonesian folklore and cultural heritage, with documented accounts and traditions spanning generations.",
-  "aliases": [],
-  "tags": [
-    "folklore",
-    "mythology"
+  "description": "A giant humanoid cryptid reported from the forests of Sumatra, Indonesia, described as standing 7.5–12 feet tall, covered in dark bushy hair, and leaving very large footprints; sometimes called the Sumatran Bigfoot.",
+  "aliases": [
+    {
+      "name": "Orang Besar",
+      "language": "Malay/Indonesian",
+      "region": "Sumatra, Indonesia",
+      "meaning": "Large person / giant person"
+    }
   ],
-  "status": "documented",
-  "regions": [],
-  "origin": "| Indonesian |",
-  "first_reported": "Unknown",
+  "tags": [
+    "indonesia",
+    "sumatra",
+    "giant",
+    "humanoid",
+    "bipedal",
+    "forest-dwelling",
+    "southeast-asia",
+    "cryptid",
+    "hominid"
+  ],
+  "status": "unverified",
+  "regions": [
+    "Rokan area, Riau province, Sumatra",
+    "Sumatran highlands"
+  ],
+  "origin": "Reported from Sumatra, Indonesia, particularly the Rokan area of Riau province. May extend into other forested mountainous areas of Sumatra.",
+  "first_reported": "1375-01-01",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

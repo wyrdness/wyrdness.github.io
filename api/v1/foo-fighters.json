@@ -1,17 +1,44 @@
 {
   "id": "foo-fighters",
   "name": "Foo Fighters",
-  "category": "ufo/uap",
-  "description": "Foo Fighters were mysterious aerial phenomena encountered by Allied and Axis pilots during World War II, primarily from 1943-1945.",
-  "aliases": [],
-  "tags": [
-    "folklore",
-    "mythology"
+  "category": "ufo_uap",
+  "description": "Foo fighters were luminous aerial objects reported pacing Allied (and some Axis) aircraft over Europe and the Pacific in the final years of World War II, particularly in 1944–45, and treated by the postwar Robertson Panel as the first major case-set of military UAP.",
+  "aliases": [
+    {
+      "name": "Foo-fighter",
+      "language": "English (US military slang)",
+      "region": "European Theater",
+      "meaning": "from the Smokey Stover comic strip catchphrase 'where there's foo, there's fire'"
+    },
+    {
+      "name": "Kraut fireballs",
+      "language": "English",
+      "region": "European Theater"
+    },
+    {
+      "name": "Feuerball",
+      "language": "German (postwar speculation)",
+      "meaning": "'fireball', proposed but unsubstantiated Nazi-secret-weapon name"
+    }
   ],
-  "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "tags": [
+    "ufo",
+    "uap",
+    "world-war-ii",
+    "aviation",
+    "1944-1945",
+    "415th-night-fighter-squadron",
+    "european-theater",
+    "pacific-theater"
+  ],
+  "status": "historical",
+  "regions": [
+    "Western Front airspace (Alsace, Rhineland, Hungary)",
+    "Mediterranean Theater",
+    "Pacific Theater (Marianas, Japanese home islands)"
+  ],
+  "origin": "Reports cluster in the European Theater of Operations (Western Front airspace 1944–45) and the Pacific Theater (Mariana Islands, Japanese home islands airspace 1944–45), with isolated 1941–43 antecedents in the Indian Ocean and Mediterranean.",
+  "first_reported": "1941-09-01",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

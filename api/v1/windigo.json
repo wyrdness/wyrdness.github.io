@@ -1,17 +1,67 @@
 {
   "id": "windigo",
-  "name": "Windigo (Ojibwe)",
-  "category": "|_entity_spirit/demon_angel_|",
-  "description": "The Windigo (Ojibwe: Wiindigo, also Witiko) is a sacred spiritual being in Ojibwe and Anishinaabe traditions representing a cannibalistic spirit associated with ice, winter, and a heart turned to ice.",
-  "aliases": [],
-  "tags": [
-    "folklore",
-    "mythology"
+  "name": "Windigo",
+  "category": "entity_spirit",
+  "description": "A spirit-being of Algonquian-language traditions — Ojibwe wiindigoo, Cree wīhtikōw — embodying the moral horror of cannibalism, of insatiable greed, and of the heart turned to ice. Both a being met in story and a name for a culturally specific psychological transformation.",
+  "aliases": [
+    {
+      "name": "Wendigo",
+      "language": "English (Algonquian-derived)",
+      "meaning": "Anglicised form popularised by Algernon Blackwood (1910)"
+    },
+    {
+      "name": "Wiindigoo",
+      "language": "Ojibwe",
+      "region": "Anishinaabe territories"
+    },
+    {
+      "name": "Wīhtikōw",
+      "language": "Cree",
+      "region": "Cree territories"
+    },
+    {
+      "name": "Witiko",
+      "language": "Cree (alternative transliteration)"
+    },
+    {
+      "name": "Wechuge",
+      "language": "Dane-zaa (Beaver)",
+      "region": "Northwestern Subarctic",
+      "meaning": "Closely related but distinct cannibal-spirit figure"
+    },
+    {
+      "name": "Atchen / Atshen",
+      "language": "Innu",
+      "region": "Eastern Subarctic"
+    }
   ],
-  "status": "documented",
-  "regions": [],
-  "origin": "| Ojibwe/Anishinaabe Nations |",
-  "first_reported": "Unknown",
+  "tags": [
+    "algonquian",
+    "ojibwe",
+    "anishinaabe",
+    "cree",
+    "cannibal-spirit",
+    "winter",
+    "indigenous-folklore",
+    "north-america"
+  ],
+  "status": "active",
+  "regions": [
+    "Boreal forest",
+    "Subarctic Canada",
+    "Great Lakes region",
+    "Northern Ontario",
+    "Northern Quebec",
+    "Manitoba",
+    "Saskatchewan",
+    "Alberta",
+    "Labrador",
+    "Minnesota",
+    "Wisconsin",
+    "Michigan"
+  ],
+  "origin": "The Windigo is a being of the boreal forest of northern North America, associated specifically with the territories of Algonquian-speaking peoples — Ojibwe / Anishinaabe, Cree, Innu, Naskapi, Atikamekw, Saulteaux — across present-day Canada and the northern United States.",
+  "first_reported": "Pre-contact",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

@@ -2,16 +2,80 @@
   "id": "yeti",
   "name": "Yeti",
   "category": "cryptid",
-  "description": "The Yeti, also known as the Abominable Snowman, is a legendary ape-like creature purported to inhabit the Himalayan mountain range of Asia.",
-  "aliases": [],
-  "tags": [
-    "folklore",
-    "mythology"
+  "description": "An ape-like humanoid cryptid said to inhabit the high Himalayas of Nepal, Tibet, Bhutan, and adjacent regions. Central to Sherpa, Tibetan, and Lepcha tradition long before Western contact, the Yeti became a global cryptozoological icon after 20th-century mountaineering expeditions reported tracks and encounters.",
+  "aliases": [
+    {
+      "name": "Abominable Snowman",
+      "language": "English",
+      "meaning": "Popularized 1921 by columnist Henry Newman as a translation of metoh-kangmi"
+    },
+    {
+      "name": "Meh-teh",
+      "language": "Tibetan",
+      "meaning": "Man-bear"
+    },
+    {
+      "name": "Metoh-kangmi",
+      "language": "Tibetan",
+      "meaning": "Man-bear of the snows"
+    },
+    {
+      "name": "Michê",
+      "language": "Tibetan",
+      "meaning": "Man-bear"
+    },
+    {
+      "name": "Dzu-teh",
+      "language": "Tibetan/Sherpa",
+      "meaning": "Cattle bear; usually identified with the Himalayan brown bear"
+    },
+    {
+      "name": "Migoi",
+      "language": "Tibetan/Bhutanese",
+      "meaning": "Wild man"
+    },
+    {
+      "name": "Mi-go",
+      "language": "Tibetan",
+      "meaning": "Wild man"
+    },
+    {
+      "name": "Kang Admi",
+      "language": "Hindi/Urdu",
+      "region": "Northern India",
+      "meaning": "Snow man"
+    },
+    {
+      "name": "Jungli Admi",
+      "language": "Hindi/Urdu",
+      "region": "Northern India",
+      "meaning": "Wild man"
+    }
   ],
-  "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "tags": [
+    "humanoid",
+    "bipedal",
+    "primate",
+    "high-altitude",
+    "himalayas",
+    "asia",
+    "mountain-dwelling",
+    "hominid"
+  ],
+  "status": "active",
+  "regions": [
+    "Himalayas",
+    "Khumbu",
+    "Mustang",
+    "Makalu-Barun",
+    "Tibet",
+    "Sikkim",
+    "Bhutan",
+    "Karakoram fringes",
+    "Pamirs"
+  ],
+  "origin": "The Yeti is reported across the Himalayan and adjacent ranges, particularly in Nepal (Khumbu, Solu, Mustang, Makalu-Barun), the Tibet Autonomous Region of China, Bhutan (where the migoi is the national cryptid), Sikkim and other northern Indian states, and parts of southern Siberia where related 'wild man' traditions exist.",
+  "first_reported": "Pre-19th century",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

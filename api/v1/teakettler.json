@@ -2,16 +2,30 @@
   "id": "teakettler",
   "name": "Teakettler",
   "category": "cryptid",
-  "description": "The Teakettler is a small armored creature from lumberjack folklore that runs backwards at high speed while making teakettle whistling sounds and emitting steam.",
-  "aliases": [],
-  "tags": [
-    "folklore",
-    "mythology"
+  "description": "A small, behaviorally defined fearsome critter of North American lumberjack folklore that produces a teakettle-like whistling sound. First catalogued in William T. Cox's 1910 'Fearsome Creatures of the Lumberwoods'.",
+  "aliases": [
+    {
+      "name": "Teakettler",
+      "region": "U.S. and Canadian lumber camps"
+    }
   ],
-  "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "tags": [
+    "fearsome-critter",
+    "lumberjack-folklore",
+    "north-america",
+    "tall-tale",
+    "william-t-cox",
+    "minor-cryptid"
+  ],
+  "status": "historical",
+  "regions": [
+    "Great Lakes states",
+    "New England",
+    "Pacific Northwest",
+    "Eastern Canada"
+  ],
+  "origin": "Folklore current in the lumber-camp belt of the northern United States and Canada in the late 19th and early 20th century.",
+  "first_reported": "1910",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

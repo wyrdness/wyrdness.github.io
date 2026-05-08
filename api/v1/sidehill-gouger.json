@@ -2,16 +2,69 @@
   "id": "sidehill-gouger",
   "name": "Sidehill Gouger",
   "category": "cryptid",
-  "description": "The Sidehill Gouger is a fearsome critter from American lumberjack folklore, distinguished by having legs shorter on one side of its body than the other.",
-  "aliases": [],
+  "description": "The Sidehill Gouger is a fearsome critter of American lumberjack folklore: a hoofed, hill-dwelling beast with legs shorter on one side than the other, perfectly adapted to walk a steep slope but only in one direction around a hill. It belongs to the humorous tall-tale tradition of the North American logging camps and is not a creature anyone was ever expected to believe in.",
+  "aliases": [
+    {
+      "name": "Sidehill Hoofer",
+      "language": "English (US)",
+      "region": "Lumberwoods of the United States"
+    },
+    {
+      "name": "Sidehill Dodger",
+      "language": "English (US)"
+    },
+    {
+      "name": "Sidehill Wowser",
+      "language": "English (US)"
+    },
+    {
+      "name": "Sidehill Gazink",
+      "language": "English (US)"
+    },
+    {
+      "name": "Sidehill Winder",
+      "language": "English (US)"
+    },
+    {
+      "name": "Wampahoofus",
+      "language": "English (US)",
+      "region": "Vermont"
+    },
+    {
+      "name": "Gwinter",
+      "language": "English (US)",
+      "region": "Appalachia"
+    },
+    {
+      "name": "Cutter Cuss",
+      "language": "English (US)"
+    },
+    {
+      "name": "Rickaboo Racker",
+      "language": "English (US)"
+    }
+  ],
   "tags": [
-    "folklore",
-    "mythology"
+    "fearsome-critter",
+    "tall-tale",
+    "lumberjack-folklore",
+    "north-america",
+    "humor",
+    "asymmetric-anatomy",
+    "appalachia",
+    "new-england"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "New England",
+    "Vermont (Mount Mansfield as Wampahoofus)",
+    "Appalachian Mountains",
+    "Great Lakes lumber country",
+    "Driftless Area (Wisconsin)",
+    "Pacific Northwest"
+  ],
+  "origin": "Reported in tall-tale tradition across the lumberwoods of the northern and western United States and adjacent Canada, particularly New England, the Adirondacks and Appalachians, the Great Lakes states, the Driftless Area of Wisconsin, the northern Rockies, and the Pacific Northwest.",
+  "first_reported": "1910",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

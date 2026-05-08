@@ -1,17 +1,62 @@
 {
   "id": "el-sisimite",
-  "name": "El Sisimite: The Central American Forest Giant",
-  "category": "for_multiple_different_phenomena—some_genuine_unknown_animals,_some_misidentifications,_some_pure_folklore,_some_hoaxes—all_labeled_together.",
-  "description": "The Sisimite tradition represents a fascinating convergence of Indigenous mythology, colonial-era folklore, and modern cryptozoology.",
-  "aliases": [],
-  "tags": [
-    "folklore",
-    "mythology"
+  "name": "Sisimite",
+  "category": "cryptid",
+  "description": "The Sisimite is a large, bipedal, ape-like humanoid from Central American folklore — particularly Belize and Honduras — described as covered in black or dark brown fur with four-fingered hands and backward-facing feet, known for its ferocity and alleged abduction of humans.",
+  "aliases": [
+    {
+      "name": "El Sisimite",
+      "language": "Spanish",
+      "region": "Central America",
+      "meaning": "The Sisimite"
+    },
+    {
+      "name": "Sisimito",
+      "language": "Spanish",
+      "region": "Belize and Honduras"
+    },
+    {
+      "name": "Sisimita",
+      "language": "Spanish",
+      "region": "Guatemala"
+    },
+    {
+      "name": "Súkara",
+      "region": "Central America"
+    },
+    {
+      "name": "Itacayo",
+      "region": "Central America"
+    },
+    {
+      "name": "Sismidu",
+      "language": "Garifuna",
+      "region": "Belize and Honduras"
+    }
   ],
-  "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "tags": [
+    "cryptid",
+    "humanoid",
+    "central-america",
+    "belize",
+    "honduras",
+    "guatemala",
+    "bigfoot-type",
+    "forest-creature",
+    "indigenous-folklore"
+  ],
+  "status": "active",
+  "regions": [
+    "Toledo District, Belize",
+    "Mountain regions of Honduras",
+    "Guatemalan highlands",
+    "Campeche, Mexico",
+    "Chiapas, Mexico",
+    "Quintana Roo, Mexico",
+    "Darien, Colombia"
+  ],
+  "origin": "Found in the folklore of Belize, Honduras, Guatemala, and Nicaragua. Related reports extend into southern Mexico (Campeche, Chiapas, Quintana Roo) and reportedly as far south as Colombia, where it is called the 'Darien Monster.'",
+  "first_reported": "Pre-contact",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

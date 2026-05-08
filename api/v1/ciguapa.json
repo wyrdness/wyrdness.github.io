@@ -2,15 +2,39 @@
   "id": "ciguapa",
   "name": "Ciguapa",
   "category": "entity_spirit",
-  "description": "The Ciguapa is a legendary creature from Dominican Republic folklore, depicted as a beautiful woman with long, dark hair that covers her entire body and distinctive backwards feet that point opposite to her direction of travel.",
-  "aliases": [],
+  "description": "The Ciguapa is a creature of Dominican folklore: a small, beautiful (or in some tellings hideous) woman with smooth, dark or bronze skin, very long flowing hair that covers her body, and feet that point backward, allowing her to leave tracks that mislead anyone who tries to follow her into the mountains.",
+  "aliases": [
+    {
+      "name": "La Ciguapa",
+      "language": "Spanish (Dominican)",
+      "region": "Dominican Republic"
+    },
+    {
+      "name": "Cigüapa",
+      "language": "Spanish",
+      "meaning": "Variant orthography"
+    }
+  ],
   "tags": [
-    "of-cultural-resistance-and-survival"
+    "dominican-republic",
+    "caribbean",
+    "folklore",
+    "wild-woman",
+    "backward-feet",
+    "shapeshifter",
+    "mountain"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "Cordillera Central",
+    "Cordillera Septentrional",
+    "Sierra de Bahoruco",
+    "Cibao Valley",
+    "San Cristóbal Province",
+    "Constanza and Jarabacoa highlands"
+  ],
+  "origin": "Strongly identified with the Dominican Republic and the wider island of Hispaniola, particularly its mountainous interior. Variants and references occur throughout the Hispanic Caribbean diaspora.",
+  "first_reported": "1866",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

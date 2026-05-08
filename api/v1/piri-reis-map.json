@@ -1,17 +1,36 @@
 {
   "id": "piri-reis-map",
   "name": "Piri Reis Map",
-  "category": "|_anomalous_artifact_|",
-  "description": "> *\\\"A fascinating historical document - and a cautionary tale about jumping to extraordinary conclusions.",
-  "aliases": [],
+  "category": "cultural_artifact",
+  "description": "A 1513 world map by the Ottoman admiral and cartographer Piri Reis, of which roughly one third survives at Topkapı Palace, Istanbul. The map gained global attention after its 1929 rediscovery and became famous in fringe-history literature for the disputed claim that it depicts an ice-free Antarctic coast.",
+  "aliases": [
+    {
+      "name": "Piri Reis Haritası",
+      "language": "Turkish",
+      "region": "Turkey",
+      "meaning": "Piri Reis's map"
+    },
+    {
+      "name": "Piri Reis World Map of 1513",
+      "region": "Ottoman Empire"
+    }
+  ],
   "tags": [
-    "folklore",
-    "mythology"
+    "ottoman",
+    "cartography",
+    "1513",
+    "antarctica-controversy",
+    "fringe-history",
+    "topkapi",
+    "piri-reis",
+    "hapgood"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "Istanbul"
+  ],
+  "origin": "A single physical artifact; held at the Topkapı Palace Museum in Istanbul, Turkey.",
+  "first_reported": "1513",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

@@ -2,16 +2,46 @@
   "id": "mngwa",
   "name": "Mngwa",
   "category": "cryptid",
-  "description": "The **Mngwa** (also known as **Nunda**) is a cryptid feline reported primarily in the coastal regions of Tanzania, East Africa.",
-  "aliases": [],
-  "tags": [
-    "folklore",
-    "mythology"
+  "description": "A large, grey-brindled mystery cat reported from the coastal regions of Tanzania and Zanzibar, East Africa, described as significantly larger than a lion with tabby-like markings and held responsible for a series of human fatalities investigated by British officials in the 1920s.",
+  "aliases": [
+    {
+      "name": "Nunda",
+      "language": "Swahili",
+      "region": "East Africa",
+      "meaning": "Fierce animal; cruel man; something heavy"
+    },
+    {
+      "name": "Nunda, Eater of People",
+      "language": "Swahili",
+      "region": "Zanzibar / East African coast",
+      "meaning": "Fierce man-eating creature (from the fairy tale collected by Steere, 1870)"
+    },
+    {
+      "name": "Mu-nwga",
+      "language": "Swahili (root form)",
+      "region": "Tanzania",
+      "meaning": "Strange one"
+    }
   ],
-  "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "tags": [
+    "africa",
+    "tanzania",
+    "zanzibar",
+    "big-cat",
+    "feline",
+    "cryptid",
+    "east-africa",
+    "swahili",
+    "mystery-animal"
+  ],
+  "status": "unverified",
+  "regions": [
+    "Lindi region, coastal Tanzania",
+    "Mchinga area, coastal Tanzania",
+    "Zanzibar (folklore tradition)"
+  ],
+  "origin": "Reported from the coastal regions of mainland Tanzania and the island of Zanzibar; tradition associated with Swahili-speaking peoples of the East African coast.",
+  "first_reported": "1870-01-01",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

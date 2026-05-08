@@ -2,16 +2,41 @@
   "id": "ijiraq",
   "name": "Ijiraq",
   "category": "entity_spirit",
-  "description": "The Ijiraq is a shape-shifting spirit from Inuit mythology that kidnaps children and hides them away in the Arctic wilderness.",
-  "aliases": [],
+  "description": "The ijiraq is a shapeshifting being of Inuit religion and oral tradition, said to live between the worlds of the living and the dead, glimpsed only at the edge of vision and known to take and hide away children.",
+  "aliases": [
+    {
+      "name": "Ijirait",
+      "language": "Inuktitut",
+      "meaning": "plural form"
+    },
+    {
+      "name": "Ijiraat",
+      "language": "Inuktitut"
+    },
+    {
+      "name": "Shape Shifter",
+      "language": "English (gloss in North Baffin dialects)"
+    }
+  ],
   "tags": [
-    "folklore",
-    "mythology"
+    "inuit",
+    "arctic",
+    "shapeshifter",
+    "nunavut",
+    "indigenous-folklore",
+    "liminal-spirit",
+    "north-america"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "Nunavut",
+    "Baffin Island",
+    "High Arctic",
+    "Inuit Nunangat",
+    "Bathurst Island"
+  ],
+  "origin": "The ijiraq is part of Inuit religion and folklore, especially among the Inuit of the eastern Canadian Arctic, the central Arctic islands, and the high Arctic. The term is well-attested in North Baffin Inuktitut.",
+  "first_reported": "Pre-contact",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

@@ -2,16 +2,46 @@
   "id": "telepathy",
   "name": "Telepathy",
   "category": "psychic_phenomena",
-  "description": "Telepathy is the purported ability to transmit thoughts, feelings, mental images, or information directly from one mind to another without using any known physical means of communication.",
-  "aliases": [],
-  "tags": [
-    "folklore",
-    "mythology"
+  "description": "The purported direct transmission of information from one mind to another without using any known sensory channel. Coined as a scientific term by Frederic W. H. Myers in 1882; treated by mainstream science as not demonstrated.",
+  "aliases": [
+    {
+      "name": "Mind reading",
+      "language": "English",
+      "meaning": "Popular term for purported direct mind-to-mind communication"
+    },
+    {
+      "name": "Thought transference",
+      "language": "English (19th c.)",
+      "meaning": "Earlier 19th-century term used by SPR researchers before Myers coined 'telepathy'"
+    },
+    {
+      "name": "Mental Radio",
+      "language": "English",
+      "meaning": "Title of Upton Sinclair's 1930 book; popular nickname for telepathy in the 1930s–40s"
+    }
   ],
-  "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "tags": [
+    "psi",
+    "esp",
+    "parapsychology",
+    "society-for-psychical-research",
+    "ganzfeld",
+    "zener-cards",
+    "rhine",
+    "frederic-myers"
+  ],
+  "status": "debunked",
+  "regions": [
+    "United Kingdom",
+    "United States",
+    "Russia",
+    "France",
+    "Germany",
+    "Netherlands",
+    "Japan"
+  ],
+  "origin": "Telepathy is reported and researched globally; experimental and theoretical work has been concentrated in the UK, USA, USSR/Russia, and continental Europe.",
+  "first_reported": "1882",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

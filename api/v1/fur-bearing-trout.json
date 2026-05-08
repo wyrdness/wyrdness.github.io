@@ -2,16 +2,50 @@
   "id": "fur-bearing-trout",
   "name": "Fur-Bearing Trout",
   "category": "cryptid",
-  "description": "The Fur-Bearing Trout is a creature from American and Canadian folklore, described as a species of trout covered in thick white fur to survive frigid northern waters.",
-  "aliases": [],
-  "tags": [
-    "folklore",
-    "mythology"
+  "description": "The fur-bearing trout is a legendary fish, North American and Icelandic in origin, said to grow a thick coat of fur to survive cold northern waters; in practice it is a long-running tall tale and taxidermy hoax in which a real trout is mounted with rabbit fur attached.",
+  "aliases": [
+    {
+      "name": "Furry Trout",
+      "language": "English",
+      "region": "United States and Canada"
+    },
+    {
+      "name": "Beaver Trout",
+      "language": "English",
+      "region": "Northern North America"
+    },
+    {
+      "name": "Loðsilungur",
+      "language": "Icelandic",
+      "region": "Iceland",
+      "meaning": "shaggy/hairy trout"
+    },
+    {
+      "name": "Sabre-toothed trout",
+      "language": "English (variant tall tale)",
+      "region": "Arkansas, USA"
+    }
   ],
-  "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "tags": [
+    "tall-tale",
+    "hoax",
+    "taxidermy",
+    "north-america",
+    "iceland",
+    "fishing-folklore",
+    "tourist-curiosity"
+  ],
+  "status": "debunked",
+  "regions": [
+    "Colorado (Arkansas River folklore)",
+    "Montana",
+    "Lake Superior region",
+    "Ontario, Canada",
+    "Alberta, Canada",
+    "Iceland"
+  ],
+  "origin": "The fur-bearing trout is a folkloric and tourist tradition of North America (especially the northern Rockies, the Great Lakes region, and Canada) and a folktale tradition of Iceland. There is no real biological range.",
+  "first_reported": "1854-01-01",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

@@ -1,17 +1,40 @@
 {
   "id": "curse-of-the-pharaohs",
   "name": "Curse of the Pharaohs",
-  "category": "legend",
-  "description": "The Curse of the Pharaohs refers to an alleged supernatural curse believed to afflict anyone who disturbs the tomb or mummy of an ancient Egyptian pharaoh or high-ranking individual.",
-  "aliases": [],
-  "tags": [
-    "folklore",
-    "mythology"
+  "category": "urban_legend",
+  "description": "The popular belief that those who disturb the tomb of an ancient Egyptian pharaoh, especially Tutankhamun, suffer misfortune or death. The legend coalesced in 1922–1923 around the death of Lord Carnarvon and was sustained by sensational press reporting; statistical study has found no excess mortality.",
+  "aliases": [
+    {
+      "name": "Curse of Tutankhamun",
+      "region": "Anglophone press"
+    },
+    {
+      "name": "Mummy's Curse",
+      "region": "Popular culture"
+    },
+    {
+      "name": "Tutankhamun Curse",
+      "region": "Anglophone press"
+    }
   ],
-  "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "tags": [
+    "egyptology",
+    "tutankhamun",
+    "curse",
+    "media-history",
+    "archaeology",
+    "1920s",
+    "press-sensation"
+  ],
+  "status": "debunked",
+  "regions": [
+    "Valley of the Kings",
+    "Cairo",
+    "London",
+    "New York"
+  ],
+  "origin": "The curse is centred on the Theban necropolis (Valley of the Kings) and on museums holding pharaonic remains, but the legend itself is global through Anglophone press and cinema.",
+  "first_reported": "1923",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

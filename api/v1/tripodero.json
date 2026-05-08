@@ -2,16 +2,24 @@
   "id": "tripodero",
   "name": "Tripodero",
   "category": "cryptid",
-  "description": "The Tripodero is a fearsome critter with three telescopic legs and a blowgun-like snout that shoots clay pellets to stun prey.",
+  "description": "A fearsome critter of North American lumberjack folklore, native to the Californian chaparral. First described by William T. Cox in 1910 as a small, kangaroo-tailed creature with two telescopic legs and a blowgun-like snout that fires mud pellets at prey.",
   "aliases": [],
   "tags": [
-    "folklore",
-    "mythology"
+    "fearsome-critters",
+    "lumberjack-folklore",
+    "north-america",
+    "tall-tale",
+    "california",
+    "humorous-folklore",
+    "chaparral"
   ],
-  "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "status": "historical",
+  "regions": [
+    "California chaparral",
+    "Sierra Nevada foothills"
+  ],
+  "origin": "Cox locates the Tripodero in the Californian chaparral and the foothills of the Sierra Nevada.",
+  "first_reported": "1910",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

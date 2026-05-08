@@ -1,17 +1,31 @@
 {
   "id": "polybius",
   "name": "Polybius",
-  "category": "|_internet_folklore_|",
-  "description": "Polybius is an **urban legend** about an arcade game allegedly released in Portland, Oregon in 1981, supposedly causing severe psychological effects in players before mysteriously disappearing.",
-  "aliases": [],
-  "tags": [
-    "folklore",
-    "mythology"
+  "category": "urban_legend",
+  "description": "Polybius is an urban legend about a fictional arcade game allegedly deployed in Portland, Oregon in 1981, said to cause severe psychological effects in players before being removed by government agents. No cabinet, ROM, or contemporary documentation has ever been found.",
+  "aliases": [
+    {
+      "name": "Sinneslöschen",
+      "language": "German",
+      "meaning": "Claimed name of the fictional arcade game's manufacturer; translates roughly to 'sense extinguisher' or 'sense deletion'"
+    }
   ],
-  "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "tags": [
+    "urban-legend",
+    "video-game",
+    "portland",
+    "government-conspiracy",
+    "internet-folklore",
+    "1980s",
+    "creepypasta",
+    "arcade"
+  ],
+  "status": "debunked",
+  "regions": [
+    "Portland, Oregon"
+  ],
+  "origin": "According to the legend, limited to Portland, Oregon arcades in 1981. As an internet legend, the story has global reach.",
+  "first_reported": "2000-01-01",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

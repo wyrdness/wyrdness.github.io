@@ -2,16 +2,55 @@
   "id": "doppelganger",
   "name": "Doppelgänger",
   "category": "anomaly",
-  "description": "A doppelgänger (German for \\\"double-goer\\\" or \\\"double-walker\\\") is the apparitional double or duplicate of a living person.",
-  "aliases": [],
+  "description": "The apparitional double of a living person, reported across many cultures and historical periods, sometimes seen by the person themselves and sometimes witnessed by others; modern neuroscience associates some experiences with autoscopy and heautoscopy linked to disturbances of the temporoparietal junction.",
+  "aliases": [
+    {
+      "name": "Doppelgaenger",
+      "language": "German"
+    },
+    {
+      "name": "Double",
+      "language": "English"
+    },
+    {
+      "name": "Fetch",
+      "language": "English / Irish folklore",
+      "meaning": "Wraith-like double whose appearance can foretell death"
+    },
+    {
+      "name": "Vardøger",
+      "language": "Norwegian",
+      "meaning": "Premonitory spirit precursor performing actions before the person"
+    },
+    {
+      "name": "Ka",
+      "language": "Ancient Egyptian",
+      "meaning": "Tangible spirit double"
+    },
+    {
+      "name": "Qarin",
+      "language": "Arabic",
+      "meaning": "Spirit double of the same sex and temperament in Islamic tradition"
+    }
+  ],
   "tags": [
-    "folklore",
-    "mythology"
+    "apparition",
+    "double",
+    "bilocation",
+    "autoscopy",
+    "heautoscopy",
+    "psychic-phenomena",
+    "anomaly"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "Northern Europe (vardøger, fetch traditions)",
+    "Germany (modern term)",
+    "Ancient Egypt (ka tradition)",
+    "Islamic world (qarin tradition)"
+  ],
+  "origin": "Reported worldwide across cultures and historical periods.",
+  "first_reported": "Pre-modern",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

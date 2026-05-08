@@ -2,15 +2,49 @@
   "id": "golem",
   "name": "Golem",
   "category": "entity_spirit",
-  "description": "The golem is an animated anthropomorphic being in Jewish folklore, created entirely from inanimate matter such as clay or mud.",
-  "aliases": [],
-  "tags": [
-    "&-interpretation"
+  "description": "The golem is an animated anthropomorphic being of Jewish folklore, created from inanimate matter such as clay or mud through Kabbalistic ritual use of sacred Hebrew names, most famously the Golem of Prague attributed to Rabbi Judah Loew ben Bezalel in the 16th century.",
+  "aliases": [
+    {
+      "name": "גולם",
+      "language": "Hebrew",
+      "meaning": "Raw material; unfinished human being; also 'dumb' or 'helpless' in Modern Hebrew"
+    },
+    {
+      "name": "Goylem",
+      "language": "Yiddish",
+      "meaning": "Lethargic or stuporous person; the Yiddish borrowing from Hebrew golem"
+    },
+    {
+      "name": "Golem of Prague",
+      "region": "Czech Republic / Prague",
+      "meaning": "The most famous specific golem, attributed to Rabbi Loew"
+    },
+    {
+      "name": "Yossele",
+      "language": "Yiddish",
+      "region": "Prague",
+      "meaning": "Diminutive of Josef; the name given to the Golem of Prague in some traditions"
+    }
   ],
-  "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "tags": [
+    "jewish-folklore",
+    "kabbalistic",
+    "artificial-life",
+    "clay",
+    "prague",
+    "medieval",
+    "europe",
+    "animated-construct",
+    "protective-spirit"
+  ],
+  "status": "historical",
+  "regions": [
+    "Prague (Jewish ghetto / Josefov)",
+    "Chelm, Poland",
+    "Vilna (Vilnius), Lithuania"
+  ],
+  "origin": "Golem legends are rooted in Jewish communities of medieval and early modern Europe, particularly in Central and Eastern Europe (Poland, Czech Republic, Germany). The Prague legend is the most geographically specific. The concept has since spread globally through popular culture.",
+  "first_reported": "1200-01-01",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

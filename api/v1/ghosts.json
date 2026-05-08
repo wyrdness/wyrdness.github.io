@@ -1,17 +1,89 @@
 {
   "id": "ghosts",
-  "name": "Ghosts & Hauntings",
-  "category": "|_ghost_haunting_|",
-  "description": "Ghosts represent one of humanity's oldest and most universal paranormal beliefs, found in virtually every culture throughout history.",
-  "aliases": [],
-  "tags": [
-    "folklore",
-    "mythology"
+  "name": "Ghosts and Hauntings",
+  "category": "ghost_haunting",
+  "description": "Ghosts are alleged manifestations of the dead — visual apparitions, voices, sounds, and physical effects — reported across virtually every human culture from Mesopotamia to the present. Mainstream science treats them as folklore and misperception; parapsychology and Spiritualism continue to study them as a possible class of phenomena.",
+  "aliases": [
+    {
+      "name": "Apparition",
+      "language": "English"
+    },
+    {
+      "name": "Spectre / Specter",
+      "language": "English / French (spectre)",
+      "meaning": "appearance, vision"
+    },
+    {
+      "name": "Phantom",
+      "language": "English / Greek (phantasma)",
+      "meaning": "appearance, image"
+    },
+    {
+      "name": "Wraith",
+      "language": "Scots / English"
+    },
+    {
+      "name": "Shade",
+      "language": "English (after Latin umbra)"
+    },
+    {
+      "name": "Revenant",
+      "language": "French",
+      "meaning": "one who returns"
+    },
+    {
+      "name": "Poltergeist",
+      "language": "German",
+      "meaning": "noisy ghost"
+    },
+    {
+      "name": "Eidolon",
+      "language": "Greek",
+      "meaning": "image, phantom of the dead"
+    },
+    {
+      "name": "Manes / Lemures / Larvae",
+      "language": "Latin",
+      "region": "Roman world"
+    },
+    {
+      "name": "Yūrei",
+      "language": "Japanese",
+      "region": "Japan"
+    },
+    {
+      "name": "Bhoot / Pret",
+      "language": "Hindi / Sanskrit",
+      "region": "South Asia"
+    },
+    {
+      "name": "Gui (鬼)",
+      "language": "Chinese",
+      "region": "China and East Asia"
+    }
   ],
-  "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "tags": [
+    "ghost",
+    "haunting",
+    "apparition",
+    "poltergeist",
+    "spirit",
+    "afterlife",
+    "spiritualism",
+    "parapsychology",
+    "cross-cultural"
+  ],
+  "status": "active",
+  "regions": [
+    "British Isles",
+    "New England",
+    "Old South (USA)",
+    "East Asia",
+    "South Asia",
+    "Latin America"
+  ],
+  "origin": "Ghost beliefs are virtually universal across human cultures, attested from at least the third millennium BC (Mesopotamian texts) to the present. Reports occur worldwide; concentrations of widely-publicized cases exist in the British Isles, the United States, Japan, China, and Latin America.",
+  "first_reported": "c. 2000 BC",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

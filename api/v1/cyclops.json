@@ -2,16 +2,56 @@
   "id": "cyclops",
   "name": "Cyclops",
   "category": "mythological_creature",
-  "description": "The **Cyclopes** (singular: Cyclops) are one-eyed giants from Greek mythology, characterized by a single large eye in the center of their forehead and enormous size and strength.",
-  "aliases": [],
+  "description": "A class of one-eyed giants in Greek mythology. Hesiod's three primordial Cyclopes are divine smiths who forge Zeus' thunderbolts; Homer's Cyclopes are lawless cave-dwelling shepherds, most famously Polyphemus, blinded by Odysseus.",
+  "aliases": [
+    {
+      "name": "Cyclopes",
+      "language": "Greek (plural)",
+      "meaning": "round-eyed"
+    },
+    {
+      "name": "Kyklōps / Κύκλωψ",
+      "language": "Ancient Greek"
+    },
+    {
+      "name": "Polyphemus",
+      "language": "Greek",
+      "meaning": "named cyclops of Homer's Odyssey"
+    },
+    {
+      "name": "Brontes",
+      "language": "Greek",
+      "meaning": "Thunderer; Hesiodic divine smith"
+    },
+    {
+      "name": "Steropes",
+      "language": "Greek",
+      "meaning": "Lightning-maker; Hesiodic divine smith"
+    },
+    {
+      "name": "Arges",
+      "language": "Greek",
+      "meaning": "Bright; Hesiodic divine smith"
+    }
+  ],
   "tags": [
-    "folklore",
-    "mythology"
+    "greek-mythology",
+    "giant",
+    "one-eyed",
+    "homer",
+    "hesiod",
+    "odyssey",
+    "smith"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "Sicily",
+    "Mount Etna",
+    "Argolid (Mycenae, Tiryns)",
+    "Aeolian Islands"
+  ],
+  "origin": "Mythologically situated across the Greek world: the island of the Cyclopes in the Odyssey (often identified by ancient and modern commentators with Sicily), the volcanic forges beneath Mount Etna, and the Mycenaean citadels of the Argolid.",
+  "first_reported": "c. 700 BCE",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

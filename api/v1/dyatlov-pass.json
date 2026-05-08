@@ -1,17 +1,38 @@
 {
   "id": "dyatlov-pass",
   "name": "Dyatlov Pass Incident",
-  "category": "iii\"—the_most_difficult_classification_in_soviet_mountaineering._all_participants_were_experienced_outdoor_enthusiasts,_with_igor_dyatlov,_a_23-year-old_radio_engineering_student,_as_the_expedition_leader.",
-  "description": "The Dyatlov Pass Incident is one of the most famous mysteries of the 20th century—now conclusively solved.",
-  "aliases": [],
+  "category": "location",
+  "description": "The 1959 deaths of nine experienced Soviet ski-hikers on the eastern slope of Kholat Syakhl in the northern Urals, long unexplained and now most plausibly attributed to a small delayed slab avalanche.",
+  "aliases": [
+    {
+      "name": "Pereval Dyatlova",
+      "language": "Russian",
+      "meaning": "Dyatlov Pass"
+    },
+    {
+      "name": "Death Mountain incident",
+      "region": "Western media",
+      "meaning": "after Kholat Syakhl, glossed locally as 'Dead Mountain'"
+    }
+  ],
   "tags": [
-    "folklore",
-    "mythology"
+    "soviet-union",
+    "ural-mountains",
+    "1959",
+    "unexplained-deaths",
+    "avalanche",
+    "cold-war",
+    "mountaineering",
+    "infrasound"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "Northern Ural Mountains",
+    "Sverdlovsk Oblast",
+    "Mansi territory"
+  ],
+  "origin": "The incident occurred on the eastern shoulder of Kholat Syakhl in the Northern Urals, in what was then Sverdlovsk Oblast (RSFSR, Soviet Union); now in Sverdlovsk Oblast, Russian Federation.",
+  "first_reported": "1959-02-01",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

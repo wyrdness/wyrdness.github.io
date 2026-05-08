@@ -1,16 +1,55 @@
 {
   "id": "shuten-doji",
-  "name": "Shuten-doji (酒呑童子)",
+  "name": "Shuten-dōji",
   "category": "demon_angel",
-  "description": "During the mid-Heian period (approximately 990 CE), the capital of Kyoto was plagued by mysterious disappearances of young nobles, particularly beautiful court ladies.",
-  "aliases": [],
+  "description": "Shuten-dōji ('sake-drinking lad') is a legendary oni (demon) of Japanese folklore who, set in the reign of Emperor Ichijō (986–1011), is said to have led a band of demons from a fortress on Mount Ōe and abducted nobles of the capital. He was defeated by the warrior Minamoto no Yorimitsu (Raikō) and his Four Heavenly Kings, who infiltrated his stronghold disguised as yamabushi and gave him a poisoned sake.",
+  "aliases": [
+    {
+      "name": "酒呑童子",
+      "language": "Japanese (kanji)",
+      "meaning": "sake-drinking lad / sake-drinking boy"
+    },
+    {
+      "name": "Shuten Dōji",
+      "language": "Japanese (romanized)"
+    },
+    {
+      "name": "Shutendōji",
+      "language": "Japanese (alternate romanization)"
+    },
+    {
+      "name": "Shuten-doji of Mount Ōe",
+      "language": "English",
+      "region": "Mount Ōe, Tango / Tamba border"
+    },
+    {
+      "name": "Ibukidōji",
+      "language": "Japanese",
+      "region": "Ibukiyama variant",
+      "meaning": "Mount Ibuki version of the legend"
+    }
+  ],
   "tags": [
-    "and-interpretation"
+    "japanese-folklore",
+    "oni",
+    "heian-era",
+    "minamoto-no-yorimitsu",
+    "raiko",
+    "mount-oe",
+    "sake",
+    "otogizoshi",
+    "noh",
+    "kabuki"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "Tango Province (Kyoto Prefecture)",
+    "Tamba Province",
+    "Ōmi Province",
+    "Mino Province"
+  ],
+  "origin": "Mountain regions north and northwest of the Heian capital (Kyoto): Mount Ōe (Ōeyama) on the border of Tango and Tamba provinces; Mount Ibuki on the Ōmi–Mino border; and the southern Ōe area near Kameoka in modern Kyoto Prefecture.",
+  "first_reported": "14th century",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

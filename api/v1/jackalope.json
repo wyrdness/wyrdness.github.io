@@ -2,16 +2,53 @@
   "id": "jackalope",
   "name": "Jackalope",
   "category": "cryptid",
-  "description": "The Jackalope is a mythical creature consisting of a jackrabbit with antelope or deer antlers, created as a taxidermy hoax in Douglas, Wyoming in the 1930s by brothers Douglas and Ralph Herrick.",
-  "aliases": [],
-  "tags": [
-    "folklore",
-    "mythology"
+  "description": "The jackalope is a mythical North American hare with antelope or deer antlers, originating as a 1930s taxidermy creation by the Herrick brothers in Douglas, Wyoming. It is the most famous American example of an old global folkloric tradition of horned hares.",
+  "aliases": [
+    {
+      "name": "Antelabbit",
+      "region": "American West"
+    },
+    {
+      "name": "Aunt Benny",
+      "region": "American West"
+    },
+    {
+      "name": "Lepus cornutus",
+      "language": "Latin (pseudoscientific)",
+      "meaning": "Horned hare; pre-modern European cryptozoological label for horned rabbits"
+    },
+    {
+      "name": "Wolpertinger",
+      "language": "German",
+      "region": "Bavaria, Germany",
+      "meaning": "Bavarian taxidermy chimera analogous to the jackalope"
+    },
+    {
+      "name": "Al-mi'raj",
+      "language": "Arabic",
+      "region": "Persian / Arabic mythology",
+      "meaning": "Single-horned hare from medieval Islamic bestiaries"
+    }
   ],
-  "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "tags": [
+    "lagomorph",
+    "horned-rabbit",
+    "taxidermy",
+    "tall-tale",
+    "wyoming",
+    "american-west",
+    "hoax",
+    "folklore"
+  ],
+  "status": "debunked",
+  "regions": [
+    "American West",
+    "Wyoming",
+    "Great Plains",
+    "Bavaria"
+  ],
+  "origin": "Folklore range covers the American West, especially Wyoming, with secondary tall-tale presence across Nebraska, South Dakota, Montana, and Colorado. The wider 'horned hare' tradition is global, with European (wolpertinger, lepus cornutus) and Middle Eastern (al-mi'raj) analogues.",
+  "first_reported": "1932",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

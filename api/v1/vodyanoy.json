@@ -2,16 +2,62 @@
   "id": "vodyanoy",
   "name": "Vodyanoy",
   "category": "entity_spirit",
-  "description": "Vodyanoy is a male water spirit from Slavic folklore, particularly prominent in Russian traditions.",
-  "aliases": [],
+  "description": "A male water spirit of Slavic folklore, especially Russian, Czech, and Slovak traditions, said to inhabit rivers, lakes, mill-pools, and marshes; capricious, sometimes drowning humans and livestock, sometimes blessing fishermen and millers in return for offerings.",
+  "aliases": [
+    {
+      "name": "Vodyanoi",
+      "language": "Russian (transliteration)"
+    },
+    {
+      "name": "Vodianoi",
+      "language": "Russian (transliteration)"
+    },
+    {
+      "name": "Vodník",
+      "language": "Czech/Slovak",
+      "region": "Czech Republic, Slovakia"
+    },
+    {
+      "name": "Vodeni mož",
+      "language": "Slovene",
+      "region": "Slovenia"
+    },
+    {
+      "name": "Topielec",
+      "language": "Polish",
+      "region": "Poland",
+      "meaning": "drowner"
+    },
+    {
+      "name": "Wassermann",
+      "language": "German",
+      "region": "Germanic-Slavic borderlands"
+    },
+    {
+      "name": "Bolotnik",
+      "language": "Russian",
+      "meaning": "swamp variant"
+    }
+  ],
   "tags": [
+    "slavic",
+    "water-spirit",
+    "russian-folklore",
+    "guardian",
+    "river",
+    "lake",
     "folklore",
     "mythology"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "European Russia",
+    "Bohemia and Moravia",
+    "Carpathians",
+    "Western Slavic lands"
+  ],
+  "origin": "Vodyanoy and his counterparts are attested across the Slavic-speaking world: Russia, Belarus, Ukraine, Poland, Czech Republic, Slovakia, Slovenia, and parts of the Balkans.",
+  "first_reported": "19th century",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

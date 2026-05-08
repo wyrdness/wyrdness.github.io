@@ -2,15 +2,32 @@
   "id": "sleipnir",
   "name": "Sleipnir",
   "category": "mythological_creature",
-  "description": "Sleipnir is the eight-legged grey horse of Odin, the Allfather in Norse mythology.",
-  "aliases": [],
+  "description": "In Norse mythology, Sleipnir is the eight-legged grey horse of Odin, son of the trickster god Loki and the stallion Svaðilfari. He is described as the best of horses and is attested in both the Poetic Edda and the Prose Edda.",
+  "aliases": [
+    {
+      "name": "Sleipnir",
+      "language": "Old Norse",
+      "meaning": "'the slipper' / 'the slipping one' (related to slippy/glide)"
+    }
+  ],
   "tags": [
-    "—-journey-between-worlds"
+    "norse-mythology",
+    "horse",
+    "odin",
+    "eight-legged",
+    "shamanic",
+    "scandinavia",
+    "asgard"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "Asgard (mythological)",
+    "Hel (mythological)",
+    "Gotland",
+    "Medieval Iceland"
+  ],
+  "origin": "As a mythological figure, Sleipnir 'inhabits' the cosmological geography of Old Norse religion. The textual and material attestations are concentrated in medieval Iceland and in Viking-Age Scandinavia (especially Gotland).",
+  "first_reported": "0700",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

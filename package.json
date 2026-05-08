@@ -3,14 +3,17 @@
   "version": "1.0.0",
   "description": "Wyrdness Paranormal Phenomena Database - Frontend",
   "scripts": {
-    "aggregate": "node scripts/aggregate-api.js",
-    "aggregate:local": "node scripts/aggregate-local.js",
-    "generate:categories": "node scripts/generate-categories.js",
-    "generate:stats": "node scripts/generate-stats.js",
-    "generate:pages": "node scripts/generate-pages.js",
-    "generate:all": "node scripts/generate-index.js",
-    "build:local": "npm run aggregate:local && npm run generate:categories && npm run generate:stats && npm run generate:pages",
-    "dev": "python3 -m http.server 8000"
+    "aggregate": "make aggregate",
+    "aggregate:local": "make aggregate-local",
+    "generate:categories": "make categories",
+    "generate:stats": "make stats",
+    "generate:pages": "make pages",
+    "build:local": "make build",
+    "dev": "make dev",
+    "validate:schema": "make validate-schema",
+    "research": "make research",
+    "research:batch": "make research-batch",
+    "repo-docs": "make repo-docs"
   },
   "repository": {
     "type": "git",

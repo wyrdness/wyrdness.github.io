@@ -1,16 +1,48 @@
 {
   "id": "easter-island",
-  "category": "archaeological_mystery",
-  "description": "No description available.",
-  "aliases": [],
+  "name": "Easter Island",
+  "category": "location",
+  "description": "A Chilean Polynesian island in the southeastern Pacific, world-famous for its 887 monumental moai statues and as one of archaeology's most-studied cases of cultural development and ecological change.",
+  "aliases": [
+    {
+      "name": "Rapa Nui",
+      "language": "Rapa Nui",
+      "meaning": "literally 'Big Rapa'; the modern Polynesian name for the island and its people"
+    },
+    {
+      "name": "Isla de Pascua",
+      "language": "Spanish",
+      "meaning": "Easter Island"
+    },
+    {
+      "name": "Te Pito o Te Henua",
+      "language": "Rapa Nui",
+      "meaning": "'The navel of the world' (a traditional name)"
+    },
+    {
+      "name": "Mata ki te rangi",
+      "language": "Rapa Nui",
+      "meaning": "'Eyes looking to the sky' (poetic name)"
+    }
+  ],
   "tags": [
-    "folklore",
-    "mythology"
+    "polynesian",
+    "archaeology",
+    "moai",
+    "rongorongo",
+    "tangata-manu",
+    "world-heritage",
+    "chile",
+    "south-pacific"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "Polynesia (eastern)",
+    "Valparaíso Region",
+    "Hanga Roa (capital)"
+  ],
+  "origin": "A single island in the southeastern Pacific, 3,512 km west of continental Chile and ~2,075 km east of the Pitcairn Islands.",
+  "first_reported": "1722-04-05",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

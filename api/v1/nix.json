@@ -1,16 +1,76 @@
 {
   "id": "nix",
-  "category": "mythological_creature",
-  "description": "No description available.",
-  "aliases": [],
+  "name": "Nix",
+  "category": "fae_folklore",
+  "description": "A shapeshifting water spirit of Germanic and Scandinavian folklore that lures victims with enchanting music — often violin — and drowns them, with regional male and female forms.",
+  "aliases": [
+    {
+      "name": "Nixe",
+      "language": "German",
+      "meaning": "Female nixie"
+    },
+    {
+      "name": "Nixie",
+      "language": "English (from German Nixe)"
+    },
+    {
+      "name": "Näck / Näcken",
+      "language": "Swedish"
+    },
+    {
+      "name": "Nøkk / Nøkke",
+      "language": "Norwegian Bokmål / Danish"
+    },
+    {
+      "name": "Näkki",
+      "language": "Finnish"
+    },
+    {
+      "name": "Näkk",
+      "language": "Estonian"
+    },
+    {
+      "name": "Nykur",
+      "language": "Icelandic / Faroese"
+    },
+    {
+      "name": "Nicor",
+      "language": "Old English"
+    },
+    {
+      "name": "Fossegrim",
+      "language": "Norwegian",
+      "meaning": "Waterfall-grim; musical male water spirit"
+    },
+    {
+      "name": "Strömkarlen",
+      "language": "Swedish",
+      "meaning": "'River-man'; musical male water spirit"
+    },
+    {
+      "name": "Bäckahäst",
+      "language": "Swedish",
+      "meaning": "'Brook horse'; the nix's horse-form"
+    }
+  ],
   "tags": [
-    "folklore",
-    "mythology"
+    "germanic",
+    "scandinavian",
+    "water-spirit",
+    "shapeshifter",
+    "music",
+    "violin",
+    "drowning",
+    "folklore"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "Germanic Europe",
+    "Scandinavia",
+    "Baltic"
+  ],
+  "origin": "Germanic and Nordic Europe, including England (as the Old English nicor and its descendants), Germany, the Low Countries, Scandinavia, Finland, and Estonia.",
+  "first_reported": "Early medieval",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

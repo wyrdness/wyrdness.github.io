@@ -1,16 +1,57 @@
 {
   "id": "nachtkrapp",
+  "name": "Nachtkrapp",
   "category": "entity_spirit",
-  "description": "No description available.",
-  "aliases": [],
+  "description": "A folkloric nocturnal bird-like creature of Germanic and Central European tradition, invoked chiefly to frighten children into obedience and bed. Reports cluster in southern Germany and Austria, with related figures across northern Germany, Hungary, Poland, and Sweden.",
+  "aliases": [
+    {
+      "name": "Nachtrabe",
+      "language": "German",
+      "meaning": "night raven"
+    },
+    {
+      "name": "Eiserner Vogel",
+      "language": "German",
+      "region": "Northern Germany",
+      "meaning": "iron bird"
+    },
+    {
+      "name": "Wütender Nachtkrapp",
+      "language": "German",
+      "meaning": "angry night raven"
+    },
+    {
+      "name": "Guter Nachtkrapp",
+      "language": "German",
+      "meaning": "good night raven"
+    },
+    {
+      "name": "Nattramn",
+      "language": "Swedish",
+      "region": "Sweden",
+      "meaning": "night raven; ghost of an unbaptized child or unholy burial"
+    }
+  ],
   "tags": [
     "folklore",
-    "mythology"
+    "germanic",
+    "bird",
+    "nocturnal",
+    "child-frightener",
+    "central-europe",
+    "raven",
+    "bogey"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "Bavaria",
+    "Tyrol",
+    "Northern Germany",
+    "Central Europe",
+    "Scandinavia"
+  ],
+  "origin": "Primarily attested in southern Germany and Austria, with cognate figures across northern Germany, Central Europe (Hungary, Poland), and Sweden.",
+  "first_reported": "1810",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

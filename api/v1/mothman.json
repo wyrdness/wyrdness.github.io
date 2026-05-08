@@ -2,16 +2,42 @@
   "id": "mothman",
   "name": "Mothman",
   "category": "cryptid",
-  "description": "The Mothman is a cryptid that reportedly appeared in Point Pleasant, West Virginia and surrounding areas between November 1966 and December 1967.",
-  "aliases": [],
-  "tags": [
-    "folklore",
-    "mythology"
+  "description": "A large winged humanoid creature with glowing red eyes reported in and around Point Pleasant, West Virginia from November 1966 through December 1967. Sightings clustered near the abandoned 'TNT area' of a former World War II munitions plant. The phenomenon culminated, in popular culture, in the December 15, 1967 collapse of the Silver Bridge.",
+  "aliases": [
+    {
+      "name": "Bird",
+      "region": "Point Pleasant, West Virginia (early 1966 newspaper headlines)",
+      "meaning": "How witnesses initially described it before 'Mothman' was coined"
+    },
+    {
+      "name": "Big Bird (early WV reporting)",
+      "region": "Point Pleasant, West Virginia, USA"
+    },
+    {
+      "name": "Cornstalk's Curse (folkloric framing)",
+      "region": "Point Pleasant, West Virginia, USA",
+      "meaning": "Local folklore tying the entity to a curse on Point Pleasant attributed to the Shawnee chief Cornstalk after his 1777 murder"
+    }
   ],
-  "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "tags": [
+    "winged-humanoid",
+    "cryptid",
+    "ohio-river-valley",
+    "harbinger",
+    "1966-1967",
+    "appalachia",
+    "tnt-area",
+    "silver-bridge"
+  ],
+  "status": "historical",
+  "regions": [
+    "West Virginia",
+    "Ohio",
+    "Ohio River Valley",
+    "Appalachia"
+  ],
+  "origin": "Sightings centered on Point Pleasant, West Virginia and the immediate Ohio River Valley (Mason County, WV; Gallia County, OH; Meigs County, OH). A small number of contemporaneous reports came from elsewhere in the eastern United States but the canonical wave is local.",
+  "first_reported": "1966-11-12",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

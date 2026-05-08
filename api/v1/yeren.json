@@ -2,16 +2,59 @@
   "id": "yeren",
   "name": "Yeren",
   "category": "cryptid",
-  "description": "Yeren, meaning \\\"wild man\\\" in Chinese, is a humanoid cryptid reported primarily from the Shennongjia Forestry District in Hubei Province, China, though reports exist from other remote mountain forests.",
-  "aliases": [],
-  "tags": [
-    "folklore",
-    "mythology"
+  "description": "The Yeren (Chinese: 野人, 'wild man') is a hairy bipedal hominid cryptid reported from the remote mountain forests of central China, most famously the Shennongjia Forestry District of Hubei Province. It is the principal Chinese counterpart to Bigfoot and the Yeti.",
+  "aliases": [
+    {
+      "name": "野人",
+      "language": "Chinese (Standard)",
+      "meaning": "wild man"
+    },
+    {
+      "name": "Yěrén",
+      "language": "Mandarin (pinyin)",
+      "meaning": "wild man"
+    },
+    {
+      "name": "Chinese Wildman",
+      "region": "English-language sources"
+    },
+    {
+      "name": "Shennongjia Wildman",
+      "region": "Hubei, China"
+    },
+    {
+      "name": "Xingxing",
+      "language": "Classical Chinese",
+      "meaning": "early-text term often grouped with wildman / orang-utan-like beings"
+    },
+    {
+      "name": "Feifei",
+      "language": "Classical Chinese",
+      "meaning": "fast-moving wild creature in early Chinese texts"
+    }
   ],
-  "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "tags": [
+    "cryptid",
+    "humanoid",
+    "bipedal",
+    "hominid",
+    "china",
+    "shennongjia",
+    "wildman",
+    "asia"
+  ],
+  "status": "active",
+  "regions": [
+    "Shennongjia Forestry District",
+    "Hubei Province",
+    "Fang County",
+    "Shaanxi Province",
+    "Yunnan Province",
+    "Daba Mountains",
+    "Qinling Mountains"
+  ],
+  "origin": "Reports concentrate in the rugged, forested mountains of central China, especially the Shennongjia Forestry District in northwestern Hubei Province and adjacent Fang County. Additional reports come from Shaanxi (notably referenced in Yuan Mei's 1788 Zibuyu) and from a 1962 Chinese Academy of Sciences investigation in the Xishuangbanna Dai Autonomous Prefecture of Yunnan.",
+  "first_reported": "circa 340 BCE",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

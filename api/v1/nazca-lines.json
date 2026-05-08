@@ -1,17 +1,38 @@
 {
   "id": "nazca-lines",
   "name": "Nazca Lines",
-  "category": "ancient_geoglyphs",
-  "description": "The **Nazca Lines** are ancient geoglyphs in southern Peru created by the Nazca culture between 500 BCE and 500 CE.",
-  "aliases": [],
+  "category": "cultural_artifact",
+  "description": "An extensive group of pre-Columbian geoglyphs scratched into the desert pampa between the towns of Nazca and Palpa in southern Peru, created by the Paracas and Nazca cultures roughly between 500 BCE and 500 CE. Inscribed as a UNESCO World Heritage Site in 1994.",
+  "aliases": [
+    {
+      "name": "Líneas de Nazca",
+      "language": "Spanish",
+      "region": "Peru"
+    },
+    {
+      "name": "Pampas de Jumana geoglyphs",
+      "region": "Nazca-Palpa region, Peru"
+    }
+  ],
   "tags": [
-    "folklore",
-    "mythology"
+    "geoglyphs",
+    "peru",
+    "pre-columbian",
+    "nazca-culture",
+    "paracas-culture",
+    "unesco-world-heritage",
+    "archaeology",
+    "south-america"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "Ica Region",
+    "Nazca Province",
+    "Palpa Province",
+    "Pampas de Jumana"
+  ],
+  "origin": "Concentrated in the arid Pampas de Jumana plateau between Nazca and Palpa in southern Peru, approximately 400 km south of Lima.",
+  "first_reported": "1927",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

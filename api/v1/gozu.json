@@ -1,17 +1,39 @@
 {
   "id": "gozu",
-  "name": "Gozu (牛頭)",
-  "category": "urban_legend_/_meta_narrative",
-  "description": "The legend typically describes a scenario from the **1980s** where a teacher on a school bus trip began telling students a story called \\\"Gozu.",
-  "aliases": [],
+  "name": "Gozu (Cow Head)",
+  "category": "urban_legend",
+  "description": "Gozu ('Cow Head') is a Japanese urban legend about a story so terrifying that anyone who hears it is said to die or fall gravely ill. The full text of the story is itself never told.",
+  "aliases": [
+    {
+      "name": "Cow Head",
+      "language": "English",
+      "meaning": "literal translation of 牛の首"
+    },
+    {
+      "name": "牛の首",
+      "language": "Japanese",
+      "meaning": "Ushi no Kubi, 'Cow's Head'"
+    },
+    {
+      "name": "Gozu",
+      "language": "Japanese (romaji)",
+      "meaning": "alternate reading of 牛頭"
+    }
+  ],
   "tags": [
-    "folklore",
-    "mythology"
+    "japanese-folklore",
+    "urban-legend",
+    "cursed-story",
+    "meta-narrative",
+    "horror"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "Japan",
+    "Japanese-language internet"
+  ],
+  "origin": "Originated and primarily circulated in Japan; now diffused globally through internet 'creepypasta' and horror communities.",
+  "first_reported": "20th century",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

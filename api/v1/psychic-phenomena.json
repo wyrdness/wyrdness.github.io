@@ -2,16 +2,51 @@
   "id": "psychic-phenomena",
   "name": "Psychic Phenomena",
   "category": "psychic_phenomena",
-  "description": "Psychic phenomena encompass a range of purported mental abilities that operate beyond normal sensory channels and known physical laws.",
-  "aliases": [],
-  "tags": [
-    "folklore",
-    "mythology"
+  "description": "Psychic phenomena (psi) are alleged mental abilities — telepathy, clairvoyance, precognition, and psychokinesis — that operate outside known sensory channels and physical mechanisms. The mainstream scientific community classifies the field as pseudoscience.",
+  "aliases": [
+    {
+      "name": "Psi",
+      "language": "English (technical, parapsychology)",
+      "meaning": "Greek letter ψ used as the field's umbrella term"
+    },
+    {
+      "name": "Extrasensory perception (ESP)",
+      "language": "English",
+      "meaning": "Information-receptive psi"
+    },
+    {
+      "name": "Psychokinesis (PK)",
+      "language": "English",
+      "meaning": "Mind-influencing-matter psi"
+    },
+    {
+      "name": "Anomalous cognition / anomalous perturbation",
+      "language": "English",
+      "meaning": "Stargate-era and later technical terms for psi"
+    },
+    {
+      "name": "Parapsychology",
+      "language": "English",
+      "meaning": "The discipline that studies psi"
+    }
   ],
-  "status": "documented",
+  "tags": [
+    "esp",
+    "psi",
+    "parapsychology",
+    "telepathy",
+    "clairvoyance",
+    "precognition",
+    "psychokinesis",
+    "ganzfeld",
+    "stargate",
+    "remote-viewing",
+    "pseudoscience-classification"
+  ],
+  "status": "unverified",
   "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "origin": "Belief in psi is documented across most cultures and historical periods. Laboratory study has been concentrated in the United States, the United Kingdom, Western Europe, and the former Soviet Union.",
+  "first_reported": "Antiquity",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

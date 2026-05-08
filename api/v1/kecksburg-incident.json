@@ -1,17 +1,45 @@
 {
   "id": "kecksburg-incident",
-  "name": "Kecksburg Incident - Pennsylvania's UFO Mystery",
+  "name": "Kecksburg UFO Incident",
   "category": "ufo_uap",
-  "description": "The Kecksburg Incident refers to the reported crash of an unidentified object in the woods near Kecksburg, Pennsylvania on December 9, 1965.",
-  "aliases": [],
-  "tags": [
-    "folklore",
-    "mythology"
+  "description": "On 9 December 1965 a brilliant fireball was observed across at least six U.S. states and parts of Canada; eyewitnesses near Kecksburg, Pennsylvania reported a metallic, acorn-shaped object coming to rest in the woods, where U.S. military personnel are said to have cordoned the area before removing something on a flatbed truck.",
+  "aliases": [
+    {
+      "name": "Pennsylvania's Roswell",
+      "region": "United States",
+      "meaning": "popular nickname comparing it to the 1947 Roswell incident"
+    },
+    {
+      "name": "The Kecksburg Acorn",
+      "region": "Pennsylvania, USA",
+      "meaning": "from the acorn-shaped object reportedly recovered"
+    },
+    {
+      "name": "December 9, 1965 Great Lakes fireball",
+      "meaning": "scientific framing as a wide-area fireball event"
+    }
   ],
-  "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "tags": [
+    "ufo",
+    "uap",
+    "1965",
+    "pennsylvania",
+    "crash-retrieval",
+    "cold-war",
+    "kosmos-96",
+    "fireball",
+    "freedom-of-information"
+  ],
+  "status": "unverified",
+  "regions": [
+    "Western Pennsylvania",
+    "Westmoreland County",
+    "Ohio",
+    "Michigan",
+    "Ontario"
+  ],
+  "origin": "The fireball was visible from Michigan, Ohio, Pennsylvania, Indiana, New York, and parts of Canada. The recovery and military activity reports center on Kecksburg, Pennsylvania.",
+  "first_reported": "1965-12-09",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

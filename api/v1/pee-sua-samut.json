@@ -1,17 +1,51 @@
 {
   "id": "pee-sua-samut",
-  "name": "Pee Sua Samut",
-  "category": "shapeshifter",
-  "description": "Thai shapeshifter that transforms from human to tiger, protecting villages or seeking revenge This phenomenon represents an important part of Thai folklore and cultural heritage, with documented accounts and traditions spanning generations.",
-  "aliases": [],
+  "name": "Phisuea Samut",
+  "category": "entity_spirit",
+  "description": "Phisuea Samut, often romanized 'Pee Sua Samut', is a sea ogress from the Thai epic poem Phra Aphai Mani by Sunthorn Phu, who falls in love with the prince-hero Aphai Mani, takes him to her undersea cave, and is ultimately killed by heartbreak when he escapes.",
+  "aliases": [
+    {
+      "name": "Pee Sua Samut",
+      "language": "Thai (romanization)",
+      "region": "Thailand",
+      "meaning": "Common alternative romanization"
+    },
+    {
+      "name": "Phi Suea Samut",
+      "language": "Thai (romanization)",
+      "region": "Thailand"
+    },
+    {
+      "name": "Nang Phisuea Samut",
+      "language": "Thai",
+      "region": "Thailand",
+      "meaning": "'Lady Phisuea Samut'"
+    },
+    {
+      "name": "Sea Butterfly",
+      "language": "English",
+      "region": "Thailand",
+      "meaning": "Conventional gloss; the 'butterfly' element actually derives from a Thai term meaning 'ancestral ghost' rather than the insect"
+    }
+  ],
   "tags": [
-    "folklore",
-    "mythology"
+    "thai",
+    "thailand",
+    "sea",
+    "ogress",
+    "shapeshifter",
+    "literature",
+    "phra-aphai-mani",
+    "folklore"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "| Thai |",
-  "first_reported": "Unknown",
+  "regions": [
+    "Gulf of Thailand",
+    "Rayong Province",
+    "Ko Samet"
+  ],
+  "origin": "Phisuea Samut is a literary figure rooted in the Thai epic tradition; cultic and tourist veneration is concentrated on Ko Samet in Rayong Province, Thailand.",
+  "first_reported": "1820s",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

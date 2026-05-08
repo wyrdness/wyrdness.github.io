@@ -1,17 +1,36 @@
 {
   "id": "waverly-hills",
-  "name": "Waverly Hills Sanatorium: America's Most Haunted Hospital",
-  "category": "haunted_location",
-  "description": "Waverly Hills Sanatorium stands as one of the most famous haunted locations in the United States and possibly the world.",
-  "aliases": [],
-  "tags": [
-    "folklore",
-    "mythology"
+  "name": "Waverly Hills Sanatorium",
+  "category": "location",
+  "description": "A former tuberculosis sanatorium in Louisville, Kentucky (opened 1910, expanded 1926, closed 1961) widely reputed to be haunted; among the most heavily investigated 'haunted hospital' locations in the United States.",
+  "aliases": [
+    {
+      "name": "Waverly Hills Tuberculosis Hospital",
+      "region": "Louisville, Kentucky"
+    },
+    {
+      "name": "Woodhaven Geriatric Center",
+      "region": "Louisville, Kentucky",
+      "meaning": "Name from 1962–1980 geriatric phase"
+    }
   ],
-  "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "tags": [
+    "haunted-location",
+    "tuberculosis",
+    "kentucky",
+    "louisville",
+    "twentieth-century",
+    "abandoned-hospital",
+    "ghost",
+    "north-america"
+  ],
+  "status": "active",
+  "regions": [
+    "Louisville, Kentucky",
+    "Jefferson County, Kentucky"
+  ],
+  "origin": "A single fixed location: the Waverly Hills Sanatorium complex on Paralee Drive, Louisville, Kentucky.",
+  "first_reported": "1910-01-01",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

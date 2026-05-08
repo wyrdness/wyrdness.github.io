@@ -2,16 +2,64 @@
   "id": "puca",
   "name": "Púca",
   "category": "fae_folklore",
-  "description": "The Púca is a shapeshifting creature from Irish folklore, considered one of the most feared and respected of the fairy folk.",
-  "aliases": [],
+  "description": "The Púca is a shapeshifting fairy creature of Irish, Welsh, Cornish, Manx, and Scottish Gaelic folklore — most famously a black horse with luminous golden eyes. Its character is ambiguous: it can be a dangerous trickster or a beneficent helper, and is closely associated with Samhain (1 November).",
+  "aliases": [
+    {
+      "name": "Pooka",
+      "language": "English (Hiberno-English)",
+      "region": "Ireland"
+    },
+    {
+      "name": "Phouka",
+      "language": "English / older spelling",
+      "region": "Ireland"
+    },
+    {
+      "name": "Púka",
+      "language": "Old Irish"
+    },
+    {
+      "name": "Pwca",
+      "language": "Welsh",
+      "region": "Wales"
+    },
+    {
+      "name": "Bucca",
+      "language": "Cornish",
+      "region": "Cornwall"
+    },
+    {
+      "name": "Bocan / Bòcan",
+      "language": "Scottish Gaelic",
+      "region": "Scotland"
+    },
+    {
+      "name": "Puck",
+      "language": "English",
+      "meaning": "Cognate appearing in English folklore (e.g. Robin Goodfellow / Puck in Shakespeare)"
+    }
+  ],
   "tags": [
-    "folklore",
-    "mythology"
+    "fae",
+    "celtic",
+    "irish",
+    "welsh",
+    "cornish",
+    "shapeshifter",
+    "horse-form",
+    "samhain",
+    "trickster"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "Ireland",
+    "Wales",
+    "Cornwall",
+    "Isle of Man",
+    "Scottish Highlands"
+  ],
+  "origin": "The Púca and its direct cognates are found across the Celtic fringe of the British Isles and Ireland, with the strongest tradition in Ireland (especially Munster, Leinster, and parts of Connacht), and counterparts in Wales (Pwca), Cornwall (Bucca), and the Scottish Highlands (Bòcan).",
+  "first_reported": "Early medieval Ireland",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

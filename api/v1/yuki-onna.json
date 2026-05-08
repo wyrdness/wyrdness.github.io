@@ -1,17 +1,62 @@
 {
   "id": "yuki-onna",
-  "name": "Yuki-Onna",
+  "name": "Yuki-onna",
   "category": "entity_spirit",
-  "description": "Yuki-Onna, the \\\"Snow Woman,\\\" is a prominent yokai in Japanese folklore.",
-  "aliases": [],
+  "description": "Yuki-onna ('snow woman') is a yokai of Japanese folklore who appears on snowy nights as a tall, pale, beautiful woman in a white kimono. She personifies winter and death by hypothermia, and is famous in the West through Lafcadio Hearn's 'Kwaidan' (1904).",
+  "aliases": [
+    {
+      "name": "雪女",
+      "language": "Japanese",
+      "meaning": "snow woman"
+    },
+    {
+      "name": "Yuki-musume",
+      "language": "Japanese",
+      "meaning": "snow daughter"
+    },
+    {
+      "name": "Yukihime",
+      "language": "Japanese",
+      "meaning": "snow princess"
+    },
+    {
+      "name": "Yuki-onba",
+      "language": "Japanese",
+      "region": "Ehime Prefecture",
+      "meaning": "snow granny / snow nanny"
+    },
+    {
+      "name": "Tsurara-onna",
+      "language": "Japanese",
+      "meaning": "icicle woman"
+    },
+    {
+      "name": "Koshi-musume",
+      "language": "Japanese",
+      "region": "Fukui Prefecture",
+      "meaning": "passing girl"
+    }
+  ],
   "tags": [
+    "yokai",
+    "yurei",
+    "japan",
+    "winter",
+    "snow",
     "folklore",
-    "mythology"
+    "nature-spirit",
+    "supernatural-female"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "Tōhoku (Aomori, Yamagata, Akita, Iwate, Miyagi, Fukushima)",
+    "Hokuriku (Niigata, Fukui)",
+    "Kantō (Gunma, Ibaraki)",
+    "Shikoku (Ehime)",
+    "Echigo Province (historical, modern Niigata)"
+  ],
+  "origin": "Yuki-onna traditions are concentrated in the snow-country of northern and central Japan, especially in prefectures with heavy winter snowfall: Niigata (the historical Echigo Province), Aomori, Yamagata, Akita, Miyagi, Fukushima, Iwate, Gunma, Fukui, Ibaraki, and Ehime, among others.",
+  "first_reported": "Muromachi period",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

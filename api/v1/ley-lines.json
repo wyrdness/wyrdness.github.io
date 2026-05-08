@@ -1,17 +1,48 @@
 {
   "id": "ley-lines",
   "name": "Ley Lines",
-  "category": "pseudoarchaeology",
-  "description": "Ley lines represent a thoroughly debunked pseudoarchaeological concept with no evidence supporting either the original trackway theory or later mystical interpretations.",
-  "aliases": [],
-  "tags": [
-    "folklore",
-    "mythology"
+  "category": "anomaly",
+  "description": "A claim, originating with Alfred Watkins in the 1920s, that prehistoric sites across Britain are aligned in straight lines. Later mystical reinterpretations proposed invisible energy conduits running through the Earth. The concept has been comprehensively rejected by archaeology and physics.",
+  "aliases": [
+    {
+      "name": "Heilige Linien",
+      "language": "German",
+      "region": "Germany",
+      "meaning": "Holy lines — term used by Wilhelm Teudt (1909)"
+    },
+    {
+      "name": "Leys",
+      "language": "English",
+      "region": "United Kingdom",
+      "meaning": "Old English for cleared space; adopted by Alfred Watkins as the name for aligned ancient trackways"
+    },
+    {
+      "name": "Lung mei",
+      "language": "Chinese",
+      "region": "China",
+      "meaning": "Dragon veins — Chinese geomantic concept incorrectly equated with ley lines by John Michell"
+    }
   ],
-  "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "tags": [
+    "pseudoarchaeology",
+    "earth-mysteries",
+    "new-age",
+    "united-kingdom",
+    "sacred-sites",
+    "dowsing",
+    "geomancy",
+    "debunked"
+  ],
+  "status": "debunked",
+  "regions": [
+    "Herefordshire, England",
+    "West Penwith, Cornwall, England",
+    "Wiltshire, England (Avebury, Stonehenge area)",
+    "Malvern Hills, Herefordshire",
+    "Germany (Wilhelm Teudt's Heilige Linien)"
+  ],
+  "origin": "Claimed in the British Isles (primary focus), Germany, France, and globally in New Age tradition. Watkins's original claims centered on Herefordshire and the wider British Isles. John Michell's later work focused particularly on West Penwith, Cornwall, and Wiltshire.",
+  "first_reported": "1922-01-01",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

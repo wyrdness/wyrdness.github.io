@@ -2,16 +2,31 @@
   "id": "gumberoo",
   "name": "Gumberoo",
   "category": "cryptid",
-  "description": "The Gumberoo is a huge bear-like creature with hairless rubbery black skin from Pacific Northwest lumberjack folklore.",
-  "aliases": [],
+  "description": "The Gumberoo is a fearsome critter of Pacific Northwest lumberjack folklore — a hairless bear-shaped creature with a hide so tough that bullets bounce off, but which explodes when set on fire.",
+  "aliases": [
+    {
+      "name": "Megalogaster repercussus",
+      "language": "Mock Latin",
+      "meaning": "fanciful Latin classification given by William T. Cox (1910)"
+    }
+  ],
   "tags": [
-    "folklore",
-    "mythology"
+    "fearsome-critters",
+    "lumberjack-folklore",
+    "pacific-northwest",
+    "tall-tale",
+    "early-20th-century",
+    "north-america"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "Pacific Northwest",
+    "Oregon",
+    "Washington",
+    "British Columbia"
+  ],
+  "origin": "Confined in folklore to the Pacific Northwest of North America — the heavy-timber districts of Oregon, Washington, northern California, and coastal British Columbia.",
+  "first_reported": "1910",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

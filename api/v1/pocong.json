@@ -1,17 +1,45 @@
 {
   "id": "pocong",
-  "name": "Pocong - The Shrouded Ghost of Indonesian Folklore",
-  "category": "of_modern_pocong_stories",
-  "description": "The **pocong** (also known as **hantu pocong**, or \\\"shroud ghost\\\") is one of the most iconic and widely recognized supernatural entities in Indonesian folklore.",
-  "aliases": [],
-  "tags": [
-    "folklore",
-    "mythology"
+  "name": "Pocong",
+  "category": "undead",
+  "description": "An Indonesian and Malay ghost that takes the form of a body still wrapped in its Islamic burial shroud (kain kafan), said to arise when the shroud's knots are not untied at burial. Because the feet are bound, the pocong moves by hopping rather than walking.",
+  "aliases": [
+    {
+      "name": "Hantu Pocong",
+      "language": "Indonesian / Malay",
+      "meaning": "the shroud ghost"
+    },
+    {
+      "name": "Hantu Bungkus",
+      "language": "Malay",
+      "region": "Malaysia / Brunei",
+      "meaning": "the wrapped ghost"
+    },
+    {
+      "name": "Pocongan",
+      "language": "Javanese"
+    }
   ],
-  "status": "documented",
-  "regions": [],
-  "origin": "Indonesian (particularly Java, Sumatra, and throughout the archipelago)",
-  "first_reported": "Unknown",
+  "tags": [
+    "indonesian-folklore",
+    "malay-folklore",
+    "islamic-funerary",
+    "kain-kafan",
+    "hopping-dead",
+    "javanese",
+    "southeast-asia",
+    "shroud"
+  ],
+  "status": "active",
+  "regions": [
+    "Java",
+    "Sumatra",
+    "Borneo / Kalimantan",
+    "Malay Peninsula",
+    "Sulawesi"
+  ],
+  "origin": "Pervasive across Indonesia, Malaysia, Brunei, and Malay-speaking regions of Singapore and southern Thailand. Strongly associated with Javanese, Sundanese, and Malay Muslim communities.",
+  "first_reported": "Traditional",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

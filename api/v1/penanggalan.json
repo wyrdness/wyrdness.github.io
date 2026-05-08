@@ -2,16 +2,41 @@
   "id": "penanggalan",
   "name": "Penanggalan",
   "category": "undead",
-  "description": "The **Penanggalan** is one of Southeast Asia's most horrifying supernatural creatures—a female vampire whose **head detaches from her body at night**, trailing her **exposed spine, intestines, stomach, and other internal organs** as she flies through the darkness seeking blood.",
-  "aliases": [],
+  "description": "The penanggalan is a vampiric female undead of Malay folklore: by day a normal-seeming woman, by night her head detaches and flies through the dark trailing her stomach, lungs, and intestines, hunting the blood of women in childbirth and newborns.",
+  "aliases": [
+    {
+      "name": "Penanggal",
+      "language": "Malay",
+      "region": "Peninsular Malaysia"
+    },
+    {
+      "name": "Hantu Penanggalan",
+      "language": "Malay",
+      "region": "Malay world"
+    }
+  ],
   "tags": [
-    "folklore",
-    "mythology"
+    "malay",
+    "malaysia",
+    "indonesia",
+    "vampire",
+    "undead",
+    "detached-head",
+    "blood-drinker",
+    "pregnancy",
+    "newborn",
+    "southeast-asia"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "Malay world (alam Melayu)",
+    "Peninsular Malaysia",
+    "Sumatra",
+    "Borneo",
+    "Java"
+  ],
+  "origin": "The penanggalan tradition is centred in the Malay Peninsula and the Malay Archipelago, with directly related variants attested across mainland and maritime Southeast Asia.",
+  "first_reported": "1845",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

@@ -1,16 +1,70 @@
 {
   "id": "dobhar-chu",
-  "name": "Dobhar-chú (Irish Water Hound)",
+  "name": "Dobhar-chú",
   "category": "cryptid",
-  "description": "The dobhar-chú (pronounced \\\"dower-hoo\\\" or \\\"dur-a-khoo\\\"), meaning \\\"water hound\\\" in Irish Gaelic, is a fearsome cryptid from Irish folklore described as a massive, otter-like creature with canine characteristics.",
-  "aliases": [],
-  "tags": [
-    "of-period"
+  "description": "The Dobhar-chú is a fearsome Irish cryptid described as a massive otter-like creature approximately 10–15 feet long with a white pelt and a black cross on its back, known for extreme ferocity and territorial aggression toward humans.",
+  "aliases": [
+    {
+      "name": "Dobarcu",
+      "language": "Irish Gaelic",
+      "region": "Ireland"
+    },
+    {
+      "name": "Doyarchu",
+      "language": "Irish Gaelic",
+      "region": "Ireland"
+    },
+    {
+      "name": "Dhuragoo",
+      "language": "Irish Gaelic",
+      "region": "Ireland"
+    },
+    {
+      "name": "Dorraghow",
+      "language": "Irish Gaelic",
+      "region": "Ireland"
+    },
+    {
+      "name": "Anchu",
+      "language": "Irish Gaelic",
+      "region": "Ireland"
+    },
+    {
+      "name": "King Otter",
+      "language": "English",
+      "region": "Ireland",
+      "meaning": "Ruler or master of otters"
+    },
+    {
+      "name": "Master Otter",
+      "language": "English",
+      "region": "Ireland"
+    },
+    {
+      "name": "Water Hound",
+      "language": "English",
+      "region": "Ireland",
+      "meaning": "Direct translation of dobhar-chú"
+    }
   ],
-  "status": "documented",
-  "regions": [],
-  "origin": "Irish",
-  "first_reported": "Unknown",
+  "tags": [
+    "cryptid",
+    "water-creature",
+    "ireland",
+    "celtic",
+    "otter",
+    "lake-monster",
+    "ireland-folklore",
+    "aggressive"
+  ],
+  "status": "active",
+  "regions": [
+    "County Leitrim",
+    "Connemara, County Galway",
+    "Northwest Ireland"
+  ],
+  "origin": "Found in Irish folklore associated with lakes and rivers throughout Ireland, particularly in the northwest. Most accounts concentrate in County Leitrim. A 2003 sighting report came from Omey Island, Connemara, County Galway.",
+  "first_reported": "1722-01-01",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

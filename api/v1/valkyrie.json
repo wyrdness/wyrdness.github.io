@@ -2,15 +2,57 @@
   "id": "valkyrie",
   "name": "Valkyrie",
   "category": "mythological_creature",
-  "description": "Valkyries are female figures in Norse mythology who serve Odin, the Allfather.",
-  "aliases": [],
+  "description": "Valkyries are female figures in Norse mythology who serve Odin, choosing which warriors die in battle and escorting the chosen slain (einherjar) to Valhalla; their name derives from Old Norse valkyrja meaning 'chooser of the slain.'",
+  "aliases": [
+    {
+      "name": "Valkyrja",
+      "language": "Old Norse",
+      "meaning": "Chooser of the slain"
+    },
+    {
+      "name": "Valkyrjur",
+      "language": "Old Norse",
+      "meaning": "Plural form: choosers of the slain"
+    },
+    {
+      "name": "Wælcyrge",
+      "language": "Old English",
+      "meaning": "Old English cognate; slaughter-chooser or battle-spirit"
+    },
+    {
+      "name": "Walküre",
+      "language": "German",
+      "meaning": "German form; most familiar through Wagner's opera Die Walküre (1870)"
+    },
+    {
+      "name": "Skjaldmær",
+      "language": "Old Norse",
+      "region": "Norse tradition",
+      "meaning": "Shield-maiden; related but distinct category of mortal female warrior sometimes conflated with valkyries"
+    }
+  ],
   "tags": [
-    "&-interpretation"
+    "norse",
+    "mythology",
+    "female",
+    "warrior",
+    "odin",
+    "valhalla",
+    "death",
+    "battle",
+    "shapeshifter",
+    "scandinavia",
+    "germanic"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "Scandinavia (primary literary tradition)",
+    "Iceland (primary manuscript tradition)",
+    "Anglo-Saxon England (Old English cognate wælcyrge)",
+    "Germanic Europe broadly"
+  ],
+  "origin": "Norse and Germanic mythology across Scandinavia and the broader Germanic cultural sphere. Primary textual sources are Old Norse (Iceland, Norway); Old English cognates appear in Anglo-Saxon manuscripts.",
+  "first_reported": "0800-01-01",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

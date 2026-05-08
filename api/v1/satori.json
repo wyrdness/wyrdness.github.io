@@ -1,17 +1,42 @@
 {
   "id": "satori",
-  "name": "Satori - The Mind-Reading Yokai",
+  "name": "Satori",
   "category": "entity_spirit",
-  "description": "A woodcutter in Hida mountains encounters satori.",
-  "aliases": [],
+  "description": "A Japanese mountain yokai shaped like an ape-like man, said to inhabit the mountains of Hida and Mino (modern Gifu Prefecture). The Satori reads a person's thoughts and speaks them aloud, but is paradoxically driven off by something genuinely unexpected.",
+  "aliases": [
+    {
+      "name": "覺",
+      "language": "Japanese (kanji)",
+      "meaning": "'awareness, awakening' — name used by Toriyama Sekien"
+    },
+    {
+      "name": "Satori",
+      "language": "Japanese",
+      "meaning": "'understanding', 'awareness'"
+    },
+    {
+      "name": "Yamako",
+      "language": "Japanese (玃)",
+      "meaning": "Chinese-origin precursor figure: an ape-man of mountain folklore"
+    }
+  ],
   "tags": [
+    "japan",
+    "yokai",
     "folklore",
-    "mythology"
+    "mind-reading",
+    "mountains",
+    "edo-period",
+    "toriyama-sekien"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "Hida Province (modern northern Gifu)",
+    "Mino Province (modern southern Gifu)",
+    "Chūbu region"
+  ],
+  "origin": "Folkloric range is the mountainous interior of central Honshu, particularly the historical provinces of Hida and Mino (modern Gifu Prefecture).",
+  "first_reported": "1781",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

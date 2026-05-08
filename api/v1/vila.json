@@ -2,16 +2,57 @@
   "id": "vila",
   "name": "Vila",
   "category": "fae_folklore",
-  "description": "Vile are female nature spirits from South Slavic folklore, characterized by their ethereal beauty, long flowing hair, and white garments.",
-  "aliases": [],
+  "description": "Female nature-spirits of Slavic, especially South Slavic, folklore, often described as beautiful long-haired women in white who dance in mountain meadows and possess powers over weather, healing, and prophecy.",
+  "aliases": [
+    {
+      "name": "Vile",
+      "language": "Serbian/Croatian",
+      "meaning": "plural of vila"
+    },
+    {
+      "name": "Samovila",
+      "language": "Bulgarian/Macedonian",
+      "region": "Bulgaria, North Macedonia"
+    },
+    {
+      "name": "Samodiva",
+      "language": "Bulgarian",
+      "region": "Bulgaria"
+    },
+    {
+      "name": "Diva",
+      "language": "Bulgarian",
+      "region": "Bulgaria"
+    },
+    {
+      "name": "Víla",
+      "language": "Czech/Slovak",
+      "region": "Czech Republic, Slovakia"
+    },
+    {
+      "name": "Wiła",
+      "language": "Polish",
+      "region": "Poland"
+    }
+  ],
   "tags": [
+    "slavic",
+    "south-slavic",
+    "fairy",
+    "nymph",
+    "nature-spirit",
     "folklore",
-    "mythology"
+    "mythology",
+    "europe"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "Balkans",
+    "South Slavic lands",
+    "Central Europe"
+  ],
+  "origin": "Strongest attestation in South Slavic folklore (Serbia, Croatia, Bosnia and Herzegovina, North Macedonia, Bulgaria, Slovenia, Montenegro), with regional variants in Czech, Slovak, and Polish tradition. Russian attestation is disputed in scholarship.",
+  "first_reported": "Medieval",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

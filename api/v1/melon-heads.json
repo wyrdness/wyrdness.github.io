@@ -2,16 +2,36 @@
   "id": "melon-heads",
   "name": "Melon Heads",
   "category": "urban_legend",
-  "description": "Melon Heads are creatures from American urban legend, reported primarily in Michigan, Ohio, and Connecticut.",
-  "aliases": [],
+  "description": "Regional American urban legends — concentrated in Michigan, Ohio and Connecticut — describing small humanoid beings with grossly enlarged heads who emerge at night from forested back roads, asylum sites, or rural mansions to attack trespassers.",
+  "aliases": [
+    {
+      "name": "Wobbleheads",
+      "language": "English",
+      "region": "Michigan, USA"
+    },
+    {
+      "name": "Melonheads",
+      "language": "English"
+    }
+  ],
   "tags": [
-    "folklore",
-    "mythology"
+    "urban-legend",
+    "united-states",
+    "michigan",
+    "ohio",
+    "connecticut",
+    "asylum-legend",
+    "hydrocephalus",
+    "feral-humanoid"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "Lower Michigan",
+    "Northeast Ohio",
+    "Western Connecticut"
+  ],
+  "origin": "Three principal regional clusters in the United States: Michigan (especially the Felt Mansion area in Saugatuck Township, Allegan County), Ohio (Kirtland in Lake County and Chardon Township in Geauga County), and Connecticut (southern Litchfield County, central/eastern Fairfield County, western New Haven County).",
+  "first_reported": "Late 20th century",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

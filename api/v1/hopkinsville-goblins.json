@@ -1,17 +1,40 @@
 {
   "id": "hopkinsville-goblins",
   "name": "Hopkinsville Goblins",
-  "category": "|_ufo_uap_/_cryptid_|",
-  "description": "The Hopkinsville Goblins incident occurred on the night of August 21-22, 1955, at the Sutton farmhouse between Kelly and Hopkinsville, Kentucky.",
-  "aliases": [],
+  "category": "ufo_uap",
+  "description": "A 1955 close-encounter case in which the Sutton family and visitor Billy Ray Taylor reported, near Kelly, Kentucky, a landed object and small humanoid creatures who besieged a farmhouse for several hours, in one of the most-investigated UFO incidents of the period.",
+  "aliases": [
+    {
+      "name": "Kelly–Hopkinsville encounter",
+      "region": "Christian County, Kentucky, USA"
+    },
+    {
+      "name": "Kelly Little Green Men",
+      "region": "Popular usage, USA"
+    },
+    {
+      "name": "Sutton farmhouse incident",
+      "region": "Christian County, Kentucky, USA"
+    }
+  ],
   "tags": [
-    "folklore",
-    "mythology"
+    "ufo",
+    "close-encounter",
+    "kentucky",
+    "1955",
+    "project-blue-book",
+    "humanoid-entities",
+    "little-green-men"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "Kentucky",
+    "Christian County",
+    "Kelly",
+    "Hopkinsville"
+  ],
+  "origin": "A single, geographically localised incident at the Sutton/Lankford farm between Kelly and Hopkinsville in Christian County, Kentucky.",
+  "first_reported": "1955-08-21",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

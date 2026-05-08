@@ -2,16 +2,58 @@
   "id": "duppy",
   "name": "Duppy",
   "category": "ghost_haunting",
-  "description": "The **Duppy** is the most pervasive and powerful supernatural entity in Jamaican folklore—the spirit or ghost of a deceased person, deeply rooted in West African (particularly **Akan/Ashanti**) ancestral traditions and intimately woven into the fabric of Jamaican culture.",
-  "aliases": [],
-  "tags": [
-    "folklore",
-    "mythology"
+  "description": "A spirit of the dead in Jamaican and wider Caribbean folklore, of West African (especially Ga and Akan) origin, generally regarded as malevolent and haunting at night.",
+  "aliases": [
+    {
+      "name": "Duffy",
+      "region": "Caribbean (variant spelling)"
+    },
+    {
+      "name": "Adope",
+      "language": "Ga",
+      "region": "Ghana",
+      "meaning": "dwarf / spirit"
+    },
+    {
+      "name": "Jumbie",
+      "region": "Lesser Antilles",
+      "meaning": "general term for ghost / spirit"
+    },
+    {
+      "name": "Rolling Calf",
+      "region": "Jamaica",
+      "meaning": "specific malevolent duppy in the form of a chained calf"
+    },
+    {
+      "name": "Three-Foot Horse",
+      "region": "Jamaica",
+      "meaning": "a particular duppy form"
+    },
+    {
+      "name": "Ol' Hige",
+      "region": "Caribbean",
+      "meaning": "old-woman blood-sucking duppy (cognate of soucouyant)"
+    }
   ],
-  "status": "documented",
-  "regions": [],
-  "origin": "| Akan/Ashanti (Ghana) → Jamaican synthesis |",
-  "first_reported": "Unknown",
+  "tags": [
+    "ghost",
+    "ancestral-spirit",
+    "afro-caribbean",
+    "jamaica",
+    "obeah",
+    "akan",
+    "ga",
+    "diaspora-folklore"
+  ],
+  "status": "active",
+  "regions": [
+    "Greater Antilles",
+    "Bahamas",
+    "Caribbean coast of Central America",
+    "Gold Coast (historic, present-day Ghana)"
+  ],
+  "origin": "Jamaican folklore is the densest locus of duppy tradition; cognate beliefs span the Anglophone Caribbean (Bahamas, Barbados, the Caymans, Belize, Guyana) and the wider Caribbean diaspora in the United Kingdom, United States, and Canada. The tradition has antecedents in the Ga and Akan cosmologies of present-day Ghana.",
+  "first_reported": "18th century",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

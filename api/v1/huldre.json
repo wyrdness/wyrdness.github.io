@@ -1,16 +1,63 @@
 {
   "id": "huldre",
+  "name": "Hulder",
   "category": "fae_folklore",
-  "description": "No description available.",
-  "aliases": [],
+  "description": "The Hulder (Huldra) is a seductive and beautiful supernatural woman from Scandinavian folklore who conceals her true nature — a hollow back like a rotted tree and an animal's tail — beneath her alluring appearance.",
+  "aliases": [
+    {
+      "name": "Huldra",
+      "language": "Norwegian",
+      "region": "Norway",
+      "meaning": "The hidden/secret one (feminine)"
+    },
+    {
+      "name": "Huldrekall",
+      "language": "Norwegian",
+      "region": "Norway",
+      "meaning": "Male hulder"
+    },
+    {
+      "name": "Skogsrå",
+      "language": "Swedish",
+      "region": "Sweden",
+      "meaning": "Forest spirit / forest guardian"
+    },
+    {
+      "name": "Tallemaja",
+      "language": "Swedish",
+      "region": "Sweden",
+      "meaning": "Pine tree Mary"
+    },
+    {
+      "name": "Ulda",
+      "language": "Sámi",
+      "region": "Sápmi",
+      "meaning": "Sámi cognate of the same hidden folk"
+    }
+  ],
   "tags": [
-    "folklore",
-    "mythology"
+    "scandinavian",
+    "norse",
+    "fae",
+    "forest-spirit",
+    "shapeshifter",
+    "seduction",
+    "norway",
+    "sweden",
+    "sapmi",
+    "hidden-folk"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "Norway",
+    "Sweden",
+    "Sápmi",
+    "Karlsøya (Hulderheim)",
+    "Hinnøya (Hulderhusan)",
+    "Djursland, Denmark (Huldremose bog)"
+  ],
+  "origin": "Scandinavian Peninsula and Sámi territories. Documented primarily in Norway, Sweden, and Sápmi. Regional naming variants reflect local linguistic traditions.",
+  "first_reported": "Pre-1800",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

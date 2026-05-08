@@ -1,17 +1,32 @@
 {
   "id": "russian-sleep-experiment",
   "name": "The Russian Sleep Experiment",
-  "category": "internet_folklore",
-  "description": "The fictional narrative describes the subjects' gradual descent into madness, self-mutilation, and horrific violence.",
-  "aliases": [],
-  "tags": [
-    "folklore",
-    "mythology"
+  "category": "urban_legend",
+  "description": "A widely-shared internet horror story, posted to the Creepypasta Wiki on 10 August 2010, framed as a declassified record of a Soviet experiment in which prisoners kept awake for 15 days by a stimulant gas descend into psychotic violence. It is fiction; investigations by Snopes and others have repeatedly confirmed there is no such Soviet experiment.",
+  "aliases": [
+    {
+      "name": "Soviet Sleep Experiment"
+    },
+    {
+      "name": "Orange Soda story",
+      "meaning": "after the original Creepypasta Wiki author handle"
+    }
   ],
-  "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "tags": [
+    "creepypasta",
+    "internet-folklore",
+    "horror-fiction",
+    "soviet-setting",
+    "sleep-deprivation",
+    "hoax",
+    "viral-story"
+  ],
+  "status": "debunked",
+  "regions": [
+    "English-language internet horror communities"
+  ],
+  "origin": "Internet-native phenomenon: originated on the Creepypasta Wiki and spread through English-language forums, Reddit, YouTube and Tumblr; subsequently translated into many languages.",
+  "first_reported": "2010-08-10",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

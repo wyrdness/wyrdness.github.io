@@ -2,16 +2,34 @@
   "id": "glitch-in-matrix",
   "name": "Glitch in the Matrix",
   "category": "anomaly",
-  "description": "Glitch in the Matrix is a modern phenomenon popularized by the 1999 film *The Matrix*, referring to experiences where reality appears to temporarily malfunction or \\\"glitch.",
-  "aliases": [],
-  "tags": [
-    "folklore",
-    "mythology"
+  "description": "An umbrella term, popularized by the 1999 film 'The Matrix', for first-person experiences in which reality appears momentarily to malfunction — déjà vu, objects appearing or disappearing, duplicate strangers, sudden timeline mismatches — and which the experiencer interprets as evidence that the world is a computer simulation.",
+  "aliases": [
+    {
+      "name": "Reality glitch",
+      "language": "English"
+    },
+    {
+      "name": "Simulation glitch",
+      "language": "English",
+      "meaning": "framed in terms of the simulation hypothesis"
+    }
   ],
-  "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "tags": [
+    "simulation-hypothesis",
+    "internet-folklore",
+    "anomaly",
+    "deja-vu",
+    "memory",
+    "reddit",
+    "modern",
+    "matrix"
+  ],
+  "status": "active",
+  "regions": [
+    "Anglophone internet"
+  ],
+  "origin": "A globally distributed, internet-mediated phenomenon, most heavily reported in English-speaking online communities (United States, United Kingdom, Canada, Australia) but with active counterparts in many languages.",
+  "first_reported": "1999-03-31",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

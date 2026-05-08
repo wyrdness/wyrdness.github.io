@@ -1,17 +1,61 @@
 {
   "id": "wendigo-cree",
   "name": "Wendigo (Cree)",
-  "category": "|_entity_spirit/demon_angel_|",
-  "description": "The Wendigo (Cree: Wìhtikòw, also Wetiko) is a sacred spiritual being in Cree and Algonquian traditions that embodies the ultimate transgressions: cannibalism and the greed that drives it.",
-  "aliases": [],
+  "category": "shapeshifter",
+  "description": "The Wendigo (Cree: Wīhtikōw; Ojibwe: Wiindigoo) is a supernatural being in Cree, Ojibwe, and related Algonquian traditions that embodies the ultimate transgression — cannibalism driven by greed — and the spiritual and physical transformation that results; associated with winter, cold, and insatiable hunger.",
+  "aliases": [
+    {
+      "name": "Wīhtikōw",
+      "language": "Cree",
+      "meaning": "The Cree-language name for the wendigo; the primary indigenous term"
+    },
+    {
+      "name": "Wiindigoo",
+      "language": "Ojibwe",
+      "meaning": "The Ojibwe-language name; source of the English 'wendigo'"
+    },
+    {
+      "name": "Wetiko",
+      "language": "Cree (variant)",
+      "meaning": "Variant spelling of the Cree term; used in contemporary indigenous scholarship as a metaphor for colonial and capitalist exploitation"
+    },
+    {
+      "name": "Windigo",
+      "language": "English (alternate)",
+      "meaning": "Alternate English spelling; used in ICD-10 for the culture-bound syndrome"
+    },
+    {
+      "name": "Witiko",
+      "language": "Cree (variant)",
+      "meaning": "Further variant spelling"
+    }
+  ],
   "tags": [
-    "folklore",
-    "mythology"
+    "algonquian",
+    "cree",
+    "ojibwe",
+    "indigenous",
+    "canada",
+    "cannibalism",
+    "winter",
+    "boreal-forest",
+    "spiritual",
+    "culture-bound-syndrome",
+    "north-america",
+    "shapeshifter"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "| Cree/Algonquian Nations |",
-  "first_reported": "Unknown",
+  "regions": [
+    "Northern Ontario",
+    "Northern Manitoba",
+    "Northern Quebec",
+    "Northern Alberta (Swift Runner case)",
+    "Wisconsin and Minnesota (Ojibwe/Saulteaux territory)",
+    "Labrador and Quebec (Innu/Naskapi territory)",
+    "Boreal forest regions of Canada generally"
+  ],
+  "origin": "The boreal forest regions of Canada and the northern United States, corresponding to the traditional territories of Algonquian-speaking peoples. Strongest tradition among the Cree, Ojibwe, Saulteaux, Naskapi, and Innu peoples.",
+  "first_reported": "Pre-Columbian",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

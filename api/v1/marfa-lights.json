@@ -2,16 +2,34 @@
   "id": "marfa-lights",
   "name": "Marfa Lights",
   "category": "atmospheric_phenomenon",
-  "description": "The Marfa Lights are mysterious colored lights observed near Marfa, Texas, particularly visible from Mitchell Flat east of the town.",
-  "aliases": [],
-  "tags": [
-    "folklore",
-    "mythology"
+  "description": "Anomalous nocturnal lights observed on Mitchell Flat east of Marfa, Texas, since at least 1883. The lights typically appear as glowing, drifting orbs that hover, split, merge, and move erratically; a 2004 University of Texas at Dallas physics study attributed many modern observations to refracted headlights from U.S. Highway 67 between Marfa and Presidio.",
+  "aliases": [
+    {
+      "name": "Marfa Ghost Lights",
+      "region": "Texas, USA"
+    },
+    {
+      "name": "Marfa Mystery Lights",
+      "region": "Texas, USA"
+    }
   ],
-  "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "tags": [
+    "ghost-lights",
+    "atmospheric-phenomena",
+    "texas",
+    "marfa",
+    "mirage",
+    "headlight-refraction",
+    "ufo-adjacent"
+  ],
+  "status": "active",
+  "regions": [
+    "Texas",
+    "Trans-Pecos",
+    "Presidio County"
+  ],
+  "origin": "Mitchell Flat, east of Marfa, Texas, in the Trans-Pecos region.",
+  "first_reported": "1883",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

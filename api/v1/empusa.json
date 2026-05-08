@@ -2,16 +2,44 @@
   "id": "empusa",
   "name": "Empusa",
   "category": "demon_angel",
-  "description": "Greek demon with flaming hair and bronze leg who seduces and feeds on young men's blood This phenomenon represents an important part of Greek folklore and cultural heritage, with documented accounts and traditions spanning generations.",
-  "aliases": [],
+  "description": "A shape-shifting female phantom of Greek mythology, associated with the goddess Hecate, said to possess one leg of bronze and one of donkey-form, and to seduce and devour young men.",
+  "aliases": [
+    {
+      "name": "Empousa",
+      "language": "Ancient Greek (ἔμπουσα)"
+    },
+    {
+      "name": "Empousai",
+      "language": "Ancient Greek",
+      "meaning": "Plural form, attested as a class of phantoms in late antiquity"
+    },
+    {
+      "name": "Onokole",
+      "language": "Ancient Greek",
+      "meaning": "'Donkey-footed', an epithet of Empusa"
+    },
+    {
+      "name": "Onoskelis",
+      "language": "Ancient Greek",
+      "meaning": "'Donkey-legged', alternative epithet"
+    }
+  ],
   "tags": [
-    "folklore",
-    "mythology"
+    "greek-mythology",
+    "hecate",
+    "phantom",
+    "shapeshifter",
+    "vampiric",
+    "antiquity",
+    "demon"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "| Greek |",
-  "first_reported": "Unknown",
+  "regions": [
+    "Attica",
+    "Hellenistic eastern Mediterranean"
+  ],
+  "origin": "Ancient Greek mythological geography: encountered in Greece (Attica) and the broader Hellenistic world; transmitted through Greek and Roman literary culture.",
+  "first_reported": "0405-01-01",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

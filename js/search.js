@@ -16,7 +16,7 @@
       this.searchInput.addEventListener('input', (e) => this.handleSearch(e));
       this.searchInput.addEventListener('keydown', (e) => {
         if (e.key === 'Escape') {
-          this.clear Results();
+          this.clearResults();
         }
       });
     },

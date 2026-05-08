@@ -2,15 +2,56 @@
   "id": "peri",
   "name": "Peri",
   "category": "fae_folklore",
-  "description": "They are generally **benevolent spirits** who protect humans from evil forces, guide lost travelers, and oppose the malevolent **divs** (daevas) — the evil spirits of Persian mythology.",
-  "aliases": [],
+  "description": "The peri (Persian: pari) is a winged supernatural being of immense beauty in Persian and wider Persianate folklore, originally an ambivalent or malevolent class of spirits in pre-Islamic Iranian belief and later reinterpreted as a generally benevolent fairy-like being who opposes the malevolent divs.",
+  "aliases": [
+    {
+      "name": "Pari",
+      "language": "Persian (modern transliteration)",
+      "region": "Iran, Afghanistan, Tajikistan"
+    },
+    {
+      "name": "Pari",
+      "language": "Urdu / Hindi",
+      "region": "South Asia"
+    },
+    {
+      "name": "Peri",
+      "language": "Turkish, Azerbaijani",
+      "region": "Anatolia, Caucasus, Central Asia"
+    },
+    {
+      "name": "Parig",
+      "language": "Middle Persian (Pahlavi)",
+      "region": "Sasanian Iran"
+    },
+    {
+      "name": "Pairika",
+      "language": "Avestan",
+      "region": "Ancient Iran"
+    }
+  ],
   "tags": [
-    "&-meaning"
+    "persian",
+    "iranian",
+    "central-asia",
+    "south-asia",
+    "winged",
+    "fairy",
+    "supernatural",
+    "shahnameh",
+    "div"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "Iranian Plateau",
+    "Caucasus",
+    "Anatolia",
+    "Central Asia",
+    "Hindu Kush",
+    "South Asia"
+  ],
+  "origin": "Peri / pari traditions span the Persianate cultural world: Iran, Afghanistan, Tajikistan, the Kurdish regions, Pakistan, parts of India, the Caucasus, Anatolia, and Central Asia.",
+  "first_reported": "1000 BCE",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }

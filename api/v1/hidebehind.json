@@ -2,16 +2,36 @@
   "id": "hidebehind",
   "name": "Hidebehind",
   "category": "cryptid",
-  "description": "The Hidebehind is a fearsome critter from American lumberjack folklore, notable for being impossible to see directly.",
-  "aliases": [],
+  "description": "A fearsome critter from American lumberjack folklore that always hides behind the nearest object, making it impossible to observe directly; used to explain unexplained disappearances of loggers in the deep woods.",
+  "aliases": [
+    {
+      "name": "Hide-behind",
+      "region": "North American lumber camps"
+    },
+    {
+      "name": "Behinder",
+      "region": "Appalachian variants"
+    }
+  ],
   "tags": [
-    "folklore",
-    "mythology"
+    "fearsome-critter",
+    "lumberjack-folklore",
+    "north-america",
+    "tall-tale",
+    "occupational-folklore",
+    "forest-dwelling",
+    "elusive"
   ],
   "status": "documented",
-  "regions": [],
-  "origin": "Unknown",
-  "first_reported": "Unknown",
+  "regions": [
+    "Upper Midwest",
+    "Pacific Northwest",
+    "New England",
+    "Appalachian Mountains",
+    "Boreal forest"
+  ],
+  "origin": "Reported throughout the lumber-camp belt of North America: the upper Midwest (Michigan, Wisconsin, Minnesota), the Pacific Northwest, New England, and adjacent parts of Canada.",
+  "first_reported": "Late 19th century",
   "danger_level": "unknown",
   "evidence_level": "unknown"
 }
