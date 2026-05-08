@@ -1,110 +1,5184 @@
 {
   "version": "1.0.0",
-  "generated": "2026-05-08T07:21:20.482Z",
-  "total": 1,
+  "generated": "2026-05-08T13:20:03.730Z",
+  "total": 16,
   "categories": {
-    "uncategorized": {
-      "name": "uncategorized",
-      "count": 98,
+    "mythological_creature": {
+      "name": "mythological_creature",
+      "count": 63,
       "phenomena": [
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {},
-        {}
+        {
+          "id": "abada",
+          "name": "Abada",
+          "regions": [
+            "Kongo cultural area",
+            "Central Africa",
+            "Lower Congo basin"
+          ]
+        },
+        {
+          "id": "ahuizotl",
+          "name": "Ahuizotl",
+          "regions": [
+            "Valley of Mexico",
+            "Lake Texcoco",
+            "central Mexican lake system"
+          ]
+        },
+        {
+          "id": "al-miraj",
+          "name": "Al-Mi'raj",
+          "regions": [
+            "Jazīrat al-Tinnīn (Dragon Island) of medieval Arabic cosmography",
+            "Indian Ocean of the marvels tradition"
+          ]
+        },
+        {
+          "id": "amarok",
+          "name": "Amarok",
+          "regions": [
+            "Greenland",
+            "Nunavut",
+            "Nunavik",
+            "Alaska"
+          ]
+        },
+        {
+          "id": "ammit",
+          "name": "Ammit",
+          "regions": [
+            "Nile Valley",
+            "Theban necropolis"
+          ]
+        },
+        {
+          "id": "anansi",
+          "name": "Anansi",
+          "regions": [
+            "Akan cultural area",
+            "Caribbean",
+            "Suriname / Guianas",
+            "American South"
+          ]
+        },
+        {
+          "id": "anubis",
+          "name": "Anubis",
+          "regions": [
+            "Nile Valley",
+            "Hardai / Cynopolis"
+          ]
+        },
+        {
+          "id": "bai-ze",
+          "name": "Bai Ze",
+          "regions": [
+            "Sinosphere",
+            "East Asia"
+          ]
+        },
+        {
+          "id": "baku",
+          "name": "Baku",
+          "regions": [
+            "Sinosphere"
+          ]
+        },
+        {
+          "id": "basilisco-chilote",
+          "name": "Basilisco Chilote",
+          "regions": [
+            "Chiloé Archipelago",
+            "Los Lagos Region",
+            "Southern Chile"
+          ]
+        },
+        {
+          "id": "basilisk",
+          "name": "Basilisk",
+          "regions": [
+            "Cyrenaica",
+            "Mediterranean",
+            "Central Europe",
+            "Cantabria"
+          ]
+        },
+        {
+          "id": "bulgae",
+          "name": "Bulgae",
+          "regions": [
+            "Korean Peninsula"
+          ]
+        },
+        {
+          "id": "buraq",
+          "name": "Al-Burāq",
+          "regions": [
+            "Hejaz",
+            "Levant",
+            "Jerusalem (Haram al-Sharif)"
+          ]
+        },
+        {
+          "id": "ceasg",
+          "name": "Ceasg",
+          "regions": [
+            "Scottish Highlands",
+            "Outer Hebrides",
+            "Inner Hebrides",
+            "Argyll",
+            "West Coast of Scotland"
+          ]
+        },
+        {
+          "id": "centaur",
+          "name": "Centaur",
+          "regions": [
+            "Thessaly",
+            "Mount Pelion",
+            "Mount Othrys",
+            "Foloi (Elis)",
+            "Magnesia"
+          ]
+        },
+        {
+          "id": "cerberus",
+          "name": "Cerberus",
+          "regions": [
+            "Hades / the Greek underworld",
+            "Cape Tainaron (Laconia)",
+            "Lake Avernus (Campania)"
+          ]
+        },
+        {
+          "id": "cheollima",
+          "name": "Cheollima",
+          "regions": [
+            "East Asia",
+            "Korean Peninsula"
+          ]
+        },
+        {
+          "id": "chimera",
+          "name": "Chimera",
+          "regions": [
+            "Lycia",
+            "Mount Chimaera (Yanartaş)",
+            "Cilicia (in some late traditions)",
+            "Asia Minor"
+          ]
+        },
+        {
+          "id": "cockatrice",
+          "name": "Cockatrice",
+          "regions": [
+            "Western and Central Europe",
+            "British Isles",
+            "Holy Roman Empire"
+          ]
+        },
+        {
+          "id": "cyclops",
+          "name": "Cyclops",
+          "regions": [
+            "Sicily",
+            "Mount Etna",
+            "Argolid (Mycenae, Tiryns)",
+            "Aeolian Islands"
+          ]
+        },
+        {
+          "id": "dragon",
+          "name": "Dragon",
+          "regions": [
+            "Mesopotamia",
+            "Ancient Egypt",
+            "Greek and Roman world",
+            "Iran",
+            "China",
+            "Japan",
+            "Korea",
+            "Vietnam",
+            "Slavic Europe",
+            "Norse and Germanic Europe",
+            "British Isles",
+            "Mesoamerica"
+          ]
+        },
+        {
+          "id": "each-uisge",
+          "name": "Each-uisge",
+          "regions": [
+            "Scottish Highlands",
+            "Hebrides",
+            "Argyll",
+            "Inverness-shire",
+            "Skye",
+            "Western Isles"
+          ]
+        },
+        {
+          "id": "fenrir",
+          "name": "Fenrir",
+          "regions": [
+            "Ásgarðr",
+            "Jötunheimr (place of his upbringing in some accounts)",
+            "Ámsvartnir / Lyngvi (place of binding)",
+            "Vígríðr (battlefield of Ragnarök)"
+          ]
+        },
+        {
+          "id": "garuda",
+          "name": "Garuda",
+          "regions": [
+            "Indian subcontinent",
+            "Southeast Asia",
+            "Buddhist world"
+          ]
+        },
+        {
+          "id": "gorgon",
+          "name": "Gorgon",
+          "regions": [
+            "Aegean",
+            "Magna Graecia",
+            "Etruria",
+            "Roman provinces",
+            "North Africa (Lake Tritonis tradition)"
+          ]
+        },
+        {
+          "id": "griffin",
+          "name": "Griffin",
+          "regions": [
+            "Ancient Near East",
+            "Aegean and Greek world",
+            "Scythia (Central Asia)",
+            "medieval Europe",
+            "modern heraldic Europe"
+          ]
+        },
+        {
+          "id": "haetae",
+          "name": "Haetae",
+          "regions": [
+            "Korean Peninsula",
+            "Central China",
+            "Manchuria (mythological homeland per Korean records)",
+            "Japan"
+          ]
+        },
+        {
+          "id": "harpy",
+          "name": "Harpy",
+          "regions": [
+            "Ancient Greece",
+            "Ancient Rome",
+            "Thrace",
+            "Strophades islands (Ionian Sea)"
+          ]
+        },
+        {
+          "id": "hydra",
+          "name": "Lernaean Hydra",
+          "regions": [
+            "Argolid",
+            "Peloponnese",
+            "Lake Lerna",
+            "Spring of Amymone"
+          ]
+        },
+        {
+          "id": "iara",
+          "name": "Iara",
+          "regions": [
+            "Amazon basin",
+            "Amazonas",
+            "Pará",
+            "Maranhão",
+            "Northern Brazil",
+            "Central Brazil"
+          ]
+        },
+        {
+          "id": "jormungandr",
+          "name": "Jörmungandr",
+          "regions": [
+            "Scandinavia",
+            "North Atlantic",
+            "Norse world"
+          ]
+        },
+        {
+          "id": "kirin",
+          "name": "Kirin (Qilin)",
+          "regions": [
+            "East Asia",
+            "Sinosphere"
+          ]
+        },
+        {
+          "id": "lamassu",
+          "name": "Lamassu",
+          "regions": [
+            "Mesopotamia",
+            "Assyria",
+            "Achaemenid Persia"
+          ]
+        },
+        {
+          "id": "lindworm",
+          "name": "Lindworm",
+          "regions": [
+            "Scandinavia",
+            "Central Europe",
+            "British Isles",
+            "Low Countries"
+          ]
+        },
+        {
+          "id": "manticore",
+          "name": "Manticore",
+          "regions": [
+            "Achaemenid Persia",
+            "South Asia"
+          ]
+        },
+        {
+          "id": "maui",
+          "name": "Māui",
+          "regions": [
+            "Aotearoa (New Zealand)",
+            "Hawaiian archipelago",
+            "Sāmoa",
+            "Tonga",
+            "Society Islands (Tahiti)",
+            "Marquesas Islands",
+            "Mangareva",
+            "Cook Islands"
+          ]
+        },
+        {
+          "id": "medusa",
+          "name": "Medusa",
+          "regions": [
+            "Mediterranean basin",
+            "Mythic 'far west' beyond Ocean (in archaic geography)"
+          ]
+        },
+        {
+          "id": "minotaur",
+          "name": "Minotaur",
+          "regions": [
+            "Crete",
+            "Aegean",
+            "Italian peninsula (through Roman reception)"
+          ]
+        },
+        {
+          "id": "mo-o",
+          "name": "Mo'o",
+          "regions": [
+            "Oʻahu — particularly Kawainui Marsh (windward) and Waialua",
+            "Maui — Mokuhinia fishpond, Kamalō Ridge",
+            "Molokaʻi — windward cliffs",
+            "Hawaii Island — various streams and pools",
+            "Kauaʻi — streams and coastal areas"
+          ]
+        },
+        {
+          "id": "naga",
+          "name": "Naga",
+          "regions": [
+            "South Asia",
+            "Southeast Asia",
+            "Mekong River basin",
+            "Himalayas",
+            "Indonesian archipelago"
+          ]
+        },
+        {
+          "id": "nian",
+          "name": "Nian",
+          "regions": [
+            "Greater China",
+            "Chinese diaspora communities worldwide"
+          ]
+        },
+        {
+          "id": "nue",
+          "name": "Nue",
+          "regions": [
+            "Kyoto",
+            "Hyōgo Prefecture",
+            "Osaka Prefecture"
+          ]
+        },
+        {
+          "id": "pegasus",
+          "name": "Pegasus",
+          "regions": [
+            "Boeotia (Mount Helicon)",
+            "Corinth and the Corinthian Gulf",
+            "Lycia"
+          ]
+        },
+        {
+          "id": "phoenix",
+          "name": "Phoenix",
+          "regions": [
+            "Arabia",
+            "Egypt",
+            "Ethiopia",
+            "India (in some classical sources)"
+          ]
+        },
+        {
+          "id": "qilin",
+          "name": "Qilin",
+          "regions": [
+            "East Asia",
+            "Southeast Asia"
+          ]
+        },
+        {
+          "id": "raiju",
+          "name": "Raiju",
+          "regions": [
+            "Kantō",
+            "Tōhoku",
+            "Chūbu",
+            "Kinki",
+            "East Japan"
+          ]
+        },
+        {
+          "id": "rakshasa",
+          "name": "Rakshasa",
+          "regions": [
+            "Indian subcontinent",
+            "Maritime Southeast Asia",
+            "Mainland Southeast Asia",
+            "Buddhist East Asia"
+          ]
+        },
+        {
+          "id": "roc",
+          "name": "Roc",
+          "regions": [
+            "Indian Ocean",
+            "Arabian Sea",
+            "East African coast (Madagascar region)"
+          ]
+        },
+        {
+          "id": "samjoko",
+          "name": "Samjok-o",
+          "regions": [
+            "Goguryeo cultural sphere (Korean peninsula and southern Manchuria)",
+            "Han and post-Han China",
+            "Yamato Japan"
+          ]
+        },
+        {
+          "id": "satyr",
+          "name": "Satyr",
+          "regions": [
+            "Ancient Greece",
+            "Hellenistic world",
+            "Roman Empire",
+            "Later European culture through Renaissance"
+          ]
+        },
+        {
+          "id": "simurgh",
+          "name": "Simurgh",
+          "regions": [
+            "Greater Iran",
+            "Persianate world",
+            "Alborz mountain region"
+          ]
+        },
+        {
+          "id": "siren",
+          "name": "Siren",
+          "regions": [
+            "Tyrrhenian Sea",
+            "Sorrentine Peninsula",
+            "Bay of Naples",
+            "Campania"
+          ]
+        },
+        {
+          "id": "sleipnir",
+          "name": "Sleipnir",
+          "regions": [
+            "Asgard (mythological)",
+            "Hel (mythological)",
+            "Gotland",
+            "Medieval Iceland"
+          ]
+        },
+        {
+          "id": "sphinx",
+          "name": "Sphinx",
+          "regions": [
+            "Giza Plateau",
+            "Thebes",
+            "Karnak",
+            "Memphis",
+            "Ancient Mediterranean",
+            "South and Southeast Asia"
+          ]
+        },
+        {
+          "id": "swan-maiden",
+          "name": "Swan Maiden",
+          "regions": [
+            "Scandinavia",
+            "Celtic world",
+            "Slavic Europe",
+            "Siberia",
+            "East Asia",
+            "South Asia",
+            "Northern North America"
+          ]
+        },
+        {
+          "id": "taniwha",
+          "name": "Taniwha",
+          "regions": [
+            "North Island",
+            "South Island",
+            "Hauraki Gulf",
+            "Hokianga",
+            "Whanganui River",
+            "Waikato River"
+          ]
+        },
+        {
+          "id": "unicorn",
+          "name": "Unicorn",
+          "regions": [
+            "Mediterranean classical world",
+            "Medieval Europe",
+            "Persia and the Arab world (karkadann)",
+            "East Asia (qilin/kirin tradition)"
+          ]
+        },
+        {
+          "id": "ushi-oni",
+          "name": "Ushi-oni",
+          "regions": [
+            "Ehime Prefecture (Shikoku)",
+            "Wakayama Prefecture",
+            "Shimane Prefecture (Izumo region)",
+            "Coastal areas of western Japan generally",
+            "Seto Inland Sea coastal communities"
+          ]
+        },
+        {
+          "id": "valkyrie",
+          "name": "Valkyrie",
+          "regions": [
+            "Scandinavia (primary literary tradition)",
+            "Iceland (primary manuscript tradition)",
+            "Anglo-Saxon England (Old English cognate wælcyrge)",
+            "Germanic Europe broadly"
+          ]
+        },
+        {
+          "id": "wild-hunt",
+          "name": "Wild Hunt",
+          "regions": [
+            "Alps",
+            "Black Forest",
+            "Harz Mountains",
+            "Scandinavian highlands",
+            "Friuli (Benandanti tradition)",
+            "Welsh borderlands",
+            "Galicia",
+            "Brittany"
+          ]
+        },
+        {
+          "id": "yamata-no-orochi",
+          "name": "Yamata no Orochi",
+          "regions": [
+            "Izumo Province (Shimane Prefecture)",
+            "Hii River valley",
+            "Nita District (associated with iron production)"
+          ]
+        },
+        {
+          "id": "yara-ma-yha-who",
+          "name": "Yara-ma-yha-who",
+          "regions": [
+            "Southeastern Australia",
+            "New South Wales",
+            "Victoria"
+          ]
+        },
+        {
+          "id": "zmey",
+          "name": "Zmey (Slavic Dragon)",
+          "regions": [
+            "East Slavic lands (Russian and Ukrainian folktale and bylina traditions)",
+            "Western Balkans (Serbian, Croatian, Slovenian zmaj traditions)",
+            "Bulgaria and North Macedonia (zmei and lamia traditions)",
+            "Poland (żmij and the Wawel Dragon of Kraków)"
+          ]
+        }
+      ]
+    },
+    "entity_spirit": {
+      "name": "entity_spirit",
+      "count": 103,
+      "phenomena": [
+        {
+          "id": "abumi-guchi",
+          "name": "Abumi-guchi",
+          "regions": [
+            "Historic samurai battlefields of the Japanese archipelago"
+          ]
+        },
+        {
+          "id": "akaname",
+          "name": "Akaname",
+          "regions": [
+            "Old urban bathhouses and private bathrooms across Japan"
+          ]
+        },
+        {
+          "id": "al-khidr",
+          "name": "Al-Khidr",
+          "regions": [
+            "Middle East",
+            "Maghreb",
+            "Central Asia",
+            "South Asia",
+            "Southeast Asia",
+            "Balkans"
+          ]
+        },
+        {
+          "id": "alp",
+          "name": "Alp",
+          "regions": [
+            "Bavaria",
+            "Tyrol",
+            "Swabia",
+            "Saxony",
+            "Alpine Europe"
+          ]
+        },
+        {
+          "id": "ankou",
+          "name": "Ankou",
+          "regions": [
+            "Brittany",
+            "Lower Brittany",
+            "Finistère",
+            "Côtes-d'Armor",
+            "Morbihan",
+            "Cornwall",
+            "Wales"
+          ]
+        },
+        {
+          "id": "ap",
+          "name": "Ap (Apas)",
+          "regions": [
+            "Sapta-Sindhu (the historical Vedic homeland in the northwest Indian subcontinent)",
+            "Greater India",
+            "Iranian plateau (Avestan Apąm Napāt parallel)"
+          ]
+        },
+        {
+          "id": "bakeneko",
+          "name": "Bakeneko",
+          "regions": [
+            "Saga Prefecture (Hizen)",
+            "Edo / Tokyo region",
+            "Nationwide Japan"
+          ]
+        },
+        {
+          "id": "banaspati",
+          "name": "Banaspati",
+          "regions": [
+            "Central Java",
+            "East Java",
+            "West Java (Sundanese cognates)",
+            "Bali",
+            "Madura"
+          ]
+        },
+        {
+          "id": "bannik",
+          "name": "Bannik",
+          "regions": [
+            "European Russia",
+            "Russian North",
+            "Siberia (Russian peasant settler regions)",
+            "East Slavic peasant cultural area"
+          ]
+        },
+        {
+          "id": "banshee",
+          "name": "Banshee",
+          "regions": [
+            "Connacht",
+            "Munster",
+            "Ulster",
+            "Leinster",
+            "Scottish Highlands (cognate)",
+            "Wales (cognate)"
+          ]
+        },
+        {
+          "id": "basket-woman",
+          "name": "Basket Woman",
+          "regions": [
+            "British Columbia coast",
+            "Vancouver Island",
+            "Pacific Northwest",
+            "Olympic Peninsula",
+            "Oregon Coast"
+          ]
+        },
+        {
+          "id": "berchta",
+          "name": "Berchta",
+          "regions": [
+            "Bavaria",
+            "Tyrol",
+            "Salzburg",
+            "Carinthia",
+            "Switzerland (Alemannic regions)",
+            "Styria",
+            "Slovenia"
+          ]
+        },
+        {
+          "id": "berserker",
+          "name": "Berserker",
+          "regions": [
+            "Scandinavia",
+            "North Atlantic Norse colonies",
+            "Iceland"
+          ]
+        },
+        {
+          "id": "betobeto-san",
+          "name": "Betobeto-san",
+          "regions": [
+            "Nara Prefecture (Uda-gun)",
+            "Shizuoka Prefecture",
+            "Fukui Prefecture (related variant)"
+          ]
+        },
+        {
+          "id": "black-eyed-children",
+          "name": "Black-Eyed Children",
+          "regions": [
+            "Texas (Abilene)",
+            "Pacific Northwest",
+            "United Kingdom (Cannock Chase, Staffordshire)"
+          ]
+        },
+        {
+          "id": "bogeyman",
+          "name": "Bogeyman",
+          "regions": [
+            "Global"
+          ]
+        },
+        {
+          "id": "caipora",
+          "name": "Caipora",
+          "regions": [
+            "Amazon Basin",
+            "Bahia",
+            "Ceará",
+            "Ilhéus",
+            "Minas Gerais",
+            "Rio Grande do Sul",
+            "Santa Catarina"
+          ]
+        },
+        {
+          "id": "caoineag",
+          "name": "Caoineag",
+          "regions": [
+            "Scottish Highlands",
+            "Hebrides",
+            "Lochaber",
+            "Argyll",
+            "Islay"
+          ]
+        },
+        {
+          "id": "chaneque",
+          "name": "Chaneque",
+          "regions": [
+            "Veracruz",
+            "Puebla",
+            "Oaxaca",
+            "Tabasco",
+            "Hidalgo",
+            "Sierra Norte de Puebla",
+            "Gulf Coast lowlands"
+          ]
+        },
+        {
+          "id": "chochinobake",
+          "name": "Chōchin-obake",
+          "regions": [
+            "Edo (modern Tokyo) — primary publishing centre for the imagery",
+            "Kyoto and Osaka — kabuki and ukiyo-e production",
+            "Nationwide via mass-produced karuta, kusazōshi, and toy prints"
+          ]
+        },
+        {
+          "id": "chullachaqui",
+          "name": "Chullachaqui",
+          "regions": [
+            "Loreto (Peruvian Amazon)",
+            "Ucayali",
+            "San Martín",
+            "Madre de Dios",
+            "Pastaza and Napo (Ecuadorian Amazon)",
+            "Acre and western Amazonas (Brazil)",
+            "Putumayo (Colombia / Peru border)"
+          ]
+        },
+        {
+          "id": "ciguapa",
+          "name": "Ciguapa",
+          "regions": [
+            "Cordillera Central",
+            "Cordillera Septentrional",
+            "Sierra de Bahoruco",
+            "Cibao Valley",
+            "San Cristóbal Province",
+            "Constanza and Jarabacoa highlands"
+          ]
+        },
+        {
+          "id": "curupira",
+          "name": "Curupira",
+          "regions": [
+            "Amazon basin",
+            "Mata Atlântica",
+            "Cerrado",
+            "São Paulo state",
+            "Pará",
+            "Amazonas"
+          ]
+        },
+        {
+          "id": "deer-woman",
+          "name": "Deer Woman",
+          "regions": [
+            "Great Plains",
+            "Eastern Woodlands",
+            "Great Lakes",
+            "Southeastern Woodlands",
+            "Oklahoma"
+          ]
+        },
+        {
+          "id": "djinn",
+          "name": "Djinn",
+          "regions": [
+            "Arabian Peninsula",
+            "Levant",
+            "Maghreb",
+            "Sahel",
+            "Iran",
+            "Central Asia",
+            "South Asia",
+            "Southeast Asia",
+            "Balkans"
+          ]
+        },
+        {
+          "id": "dokkaebi",
+          "name": "Dokkaebi",
+          "regions": [
+            "Korean Peninsula",
+            "Jeju (regional dokkaebi traditions)",
+            "Korean diaspora worldwide"
+          ]
+        },
+        {
+          "id": "douen",
+          "name": "Douen",
+          "regions": [
+            "Eastern Caribbean",
+            "Trinidad",
+            "Tobago",
+            "Saint Lucia"
+          ]
+        },
+        {
+          "id": "el-cadejo",
+          "name": "El Cadejo",
+          "regions": [
+            "Central America",
+            "Mesoamerica",
+            "Highland Maya region",
+            "Pacific lowlands of Central America"
+          ]
+        },
+        {
+          "id": "elemental-spirits",
+          "name": "Elemental Spirits",
+          "regions": [
+            "Western Europe",
+            "global Western occult community"
+          ]
+        },
+        {
+          "id": "eloko",
+          "name": "Eloko",
+          "regions": [
+            "Congo Basin",
+            "central DRC",
+            "Mongo-Nkundo cultural area"
+          ]
+        },
+        {
+          "id": "enenra",
+          "name": "Enenra",
+          "regions": [
+            "Edo-period Japan (broad)"
+          ]
+        },
+        {
+          "id": "futakuchi-onna",
+          "name": "Futakuchi-onna",
+          "regions": []
+        },
+        {
+          "id": "golem",
+          "name": "Golem",
+          "regions": [
+            "Prague (Jewish ghetto / Josefov)",
+            "Chelm, Poland",
+            "Vilna (Vilnius), Lithuania"
+          ]
+        },
+        {
+          "id": "hantu-air",
+          "name": "Hantu Air",
+          "regions": [
+            "Malay Peninsula",
+            "East Coast of Peninsular Malaysia",
+            "Borneo",
+            "Sumatra",
+            "Java",
+            "Riau Archipelago"
+          ]
+        },
+        {
+          "id": "hantu-jerangan",
+          "name": "Hantu Jerangan",
+          "regions": [
+            "Coastal Peninsular Malaysia"
+          ]
+        },
+        {
+          "id": "hantu-raya",
+          "name": "Hantu Raya",
+          "regions": [
+            "Malay Peninsula",
+            "East Malaysia (Sabah, Sarawak)"
+          ]
+        },
+        {
+          "id": "hantu-tetek",
+          "name": "Hantu Tetek",
+          "regions": [
+            "Peninsular Malaysia",
+            "Borneo (Sabah, Sarawak)",
+            "Sumatra",
+            "Java"
+          ]
+        },
+        {
+          "id": "hitotsume-kozo",
+          "name": "Hitotsume-kozō",
+          "regions": [
+            "Kantō region",
+            "Mount Hiei (Tendai tradition)",
+            "Central and eastern Honshū"
+          ]
+        },
+        {
+          "id": "ibaraki-doji",
+          "name": "Ibaraki-dōji",
+          "regions": [
+            "Kyoto",
+            "Settsu",
+            "Echigo / Niigata",
+            "Mount Ōe",
+            "Tanba",
+            "Honshu"
+          ]
+        },
+        {
+          "id": "ifrit",
+          "name": "Ifrit",
+          "regions": [
+            "Arabian Peninsula",
+            "Mashriq",
+            "Maghreb",
+            "Egypt",
+            "Levant",
+            "Persian world"
+          ]
+        },
+        {
+          "id": "ijiraq",
+          "name": "Ijiraq",
+          "regions": [
+            "Nunavut",
+            "Baffin Island",
+            "High Arctic",
+            "Inuit Nunangat",
+            "Bathurst Island"
+          ]
+        },
+        {
+          "id": "impundulu",
+          "name": "Impundulu",
+          "regions": [
+            "KwaZulu-Natal",
+            "Eastern Cape",
+            "South African coastal and interior regions"
+          ]
+        },
+        {
+          "id": "inugami",
+          "name": "Inugami",
+          "regions": [
+            "Kyushu",
+            "Eastern Ōita Prefecture",
+            "Shimane Prefecture",
+            "Northern Shikoku (Kōchi Prefecture)",
+            "Yamaguchi Prefecture",
+            "Tanegashima",
+            "Satsunan Islands",
+            "Okinawa Prefecture"
+          ]
+        },
+        {
+          "id": "ittan-momen",
+          "name": "Ittan-momen",
+          "regions": [
+            "Kagoshima Prefecture (primary)",
+            "Kimotsuki District, Kagoshima",
+            "Fukuoka Prefecture",
+            "Kyushu broadly",
+            "Tokyo (Higashi-Kōenji Station, Ogikubo)",
+            "Shizuoka Prefecture"
+          ]
+        },
+        {
+          "id": "jengu",
+          "name": "Jengu",
+          "regions": [
+            "Littoral Province, Cameroon",
+            "Southwest Province, Cameroon",
+            "Wouri River and estuary",
+            "Douala"
+          ]
+        },
+        {
+          "id": "jinn",
+          "name": "Jinn",
+          "regions": [
+            "Arabian Peninsula",
+            "Maghreb",
+            "Mashriq",
+            "Iranian world",
+            "South Asia",
+            "Southeast Asia",
+            "Sahel"
+          ]
+        },
+        {
+          "id": "kappa",
+          "name": "Kappa",
+          "regions": [
+            "Kyushu",
+            "Tōhoku (Iwate, especially Tōno)",
+            "Kantō",
+            "Kansai",
+            "Shikoku"
+          ]
+        },
+        {
+          "id": "kapre",
+          "name": "Kapre",
+          "regions": [
+            "Luzon",
+            "Visayas",
+            "Mindanao",
+            "Bicol Region"
+          ]
+        },
+        {
+          "id": "kasa-obake",
+          "name": "Kasa-obake",
+          "regions": [
+            "Edo (modern Tokyo)",
+            "Kyoto",
+            "Osaka",
+            "Japan generally"
+          ]
+        },
+        {
+          "id": "kawa-no-kami",
+          "name": "Kawa-no-Kami",
+          "regions": [
+            "all of Japan",
+            "rural agricultural regions especially"
+          ]
+        },
+        {
+          "id": "krampus",
+          "name": "Krampus",
+          "regions": [
+            "Austrian Alps",
+            "Bavaria",
+            "Tyrol",
+            "Styria",
+            "Carinthia",
+            "South Tyrol",
+            "Salzburg region"
+          ]
+        },
+        {
+          "id": "la-diablesse",
+          "name": "La Diablesse",
+          "regions": [
+            "Trinidad",
+            "Tobago",
+            "Grenada",
+            "French-Creole Caribbean"
+          ]
+        },
+        {
+          "id": "langsuir",
+          "name": "Langsuir",
+          "regions": [
+            "Malay Peninsula",
+            "Sumatra",
+            "Java",
+            "Borneo"
+          ]
+        },
+        {
+          "id": "leshy",
+          "name": "Leshy",
+          "regions": [
+            "Russian taiga and northern forests",
+            "Belarus forests",
+            "Ukrainian Carpathian forests",
+            "Polish forests",
+            "Eastern European boreal zone"
+          ]
+        },
+        {
+          "id": "likho",
+          "name": "Likho",
+          "regions": [
+            "Eastern Europe",
+            "Central Europe"
+          ]
+        },
+        {
+          "id": "madremonte",
+          "name": "Madremonte",
+          "regions": [
+            "Colombian Andes",
+            "Antioquia",
+            "Eje Cafetero",
+            "Magdalena valley",
+            "Valle del Cauca"
+          ]
+        },
+        {
+          "id": "mama-dlo",
+          "name": "Mama Dlo",
+          "regions": [
+            "Lesser Antilles",
+            "Caribbean"
+          ]
+        },
+        {
+          "id": "mamlambo",
+          "name": "Mamlambo",
+          "regions": [
+            "KwaZulu-Natal",
+            "Eastern Cape"
+          ]
+        },
+        {
+          "id": "mara",
+          "name": "Mara",
+          "regions": [
+            "Germanic Europe",
+            "Scandinavia",
+            "Slavic Europe"
+          ]
+        },
+        {
+          "id": "mare",
+          "name": "Mare",
+          "regions": [
+            "Germanic Europe",
+            "Scandinavia",
+            "Slavic Europe"
+          ]
+        },
+        {
+          "id": "marid",
+          "name": "Marid",
+          "regions": [
+            "Arabian Peninsula",
+            "Levant",
+            "Mesopotamia",
+            "North Africa",
+            "Islamic world"
+          ]
+        },
+        {
+          "id": "mogwai",
+          "name": "Mogwai",
+          "regions": [
+            "Chinese-speaking world",
+            "Cantonese-speaking regions",
+            "Sinosphere (Vietnam, Korea, Japan via Buddhist transmission)"
+          ]
+        },
+        {
+          "id": "mohan",
+          "name": "El Mohán",
+          "regions": [
+            "Tolima",
+            "Huila",
+            "Magdalena River basin",
+            "Andean Colombia",
+            "Cerro del Pacandé"
+          ]
+        },
+        {
+          "id": "nachtkrapp",
+          "name": "Nachtkrapp",
+          "regions": [
+            "Bavaria",
+            "Tyrol",
+            "Northern Germany",
+            "Central Europe",
+            "Scandinavia"
+          ]
+        },
+        {
+          "id": "nang-kwak",
+          "name": "Nang Kwak",
+          "regions": [
+            "Mainland Southeast Asia",
+            "Thai diaspora communities"
+          ]
+        },
+        {
+          "id": "nang-mai",
+          "name": "Nang Mai",
+          "regions": [
+            "Mainland Southeast Asia",
+            "Theravada Buddhist cultural sphere"
+          ]
+        },
+        {
+          "id": "nang-tani",
+          "name": "Nang Tani",
+          "regions": [
+            "Mainland Southeast Asia"
+          ]
+        },
+        {
+          "id": "nekomata",
+          "name": "Nekomata",
+          "regions": [
+            "Etchū Province / Toyama Prefecture",
+            "Mainland Japan (Honshū)"
+          ]
+        },
+        {
+          "id": "night-hag",
+          "name": "Night Hag",
+          "regions": [
+            "Global"
+          ]
+        },
+        {
+          "id": "nightmare",
+          "name": "Nightmare",
+          "regions": [
+            "Germanic Europe",
+            "Slavic Europe"
+          ]
+        },
+        {
+          "id": "nuckelavee",
+          "name": "Nuckelavee",
+          "regions": [
+            "Orkney Islands",
+            "Northern Isles of Scotland"
+          ]
+        },
+        {
+          "id": "nuppeppo",
+          "name": "Nuppeppō",
+          "regions": [
+            "Japan (Edo-period yokai literature)"
+          ]
+        },
+        {
+          "id": "nurarihyon",
+          "name": "Nurarihyon",
+          "regions": [
+            "Akita Prefecture",
+            "Okayama Prefecture",
+            "Seto Inland Sea",
+            "Edo (modern Tokyo) — origin of the principal scrolls"
+          ]
+        },
+        {
+          "id": "nurikabe",
+          "name": "Nurikabe",
+          "regions": [
+            "Kyushu",
+            "Fukuoka Prefecture",
+            "Ōita Prefecture",
+            "Onga County (former Chikuzen Province)"
+          ]
+        },
+        {
+          "id": "orang-minyak",
+          "name": "Orang Minyak",
+          "regions": [
+            "Selangor, Malaysia",
+            "Various Malaysian states",
+            "Singapore"
+          ]
+        },
+        {
+          "id": "papa-bois",
+          "name": "Papa Bois",
+          "regions": [
+            "Lesser Antilles",
+            "Caribbean",
+            "West Indies"
+          ]
+        },
+        {
+          "id": "patasola",
+          "name": "La Patasola",
+          "regions": [
+            "Andes",
+            "Amazonia",
+            "Orinoco basin",
+            "Colombian inter-Andean valleys"
+          ]
+        },
+        {
+          "id": "pee-sua-samut",
+          "name": "Phisuea Samut",
+          "regions": [
+            "Gulf of Thailand",
+            "Rayong Province",
+            "Ko Samet"
+          ]
+        },
+        {
+          "id": "pelesit",
+          "name": "Pelesit",
+          "regions": [
+            "Malay world (alam Melayu)",
+            "Peninsular Malaysia",
+            "Kedah"
+          ]
+        },
+        {
+          "id": "poludnitsa",
+          "name": "Poludnitsa",
+          "regions": [
+            "Eastern Europe",
+            "Central Europe",
+            "Slavic-speaking Lusatia"
+          ]
+        },
+        {
+          "id": "qallupilluk",
+          "name": "Qallupilluk",
+          "regions": [
+            "Nunavut",
+            "Alaska",
+            "Arctic Canada",
+            "Northwest Territories"
+          ]
+        },
+        {
+          "id": "rokurokubi",
+          "name": "Rokurokubi",
+          "regions": [
+            "All regions of Japan historically; origin traditions also present in China and Southeast Asia"
+          ]
+        },
+        {
+          "id": "saci",
+          "name": "Saci",
+          "regions": [
+            "Southeast Brazil",
+            "South Brazil",
+            "Centre-West Brazil"
+          ]
+        },
+        {
+          "id": "satori",
+          "name": "Satori",
+          "regions": [
+            "Hida Province (modern northern Gifu)",
+            "Mino Province (modern southern Gifu)",
+            "Chūbu region"
+          ]
+        },
+        {
+          "id": "shtriga",
+          "name": "Shtriga",
+          "regions": [
+            "Northern Albanian Alps",
+            "Malësia",
+            "Dukagjin",
+            "Shkodër region"
+          ]
+        },
+        {
+          "id": "stick-indian",
+          "name": "Stick Indian",
+          "regions": [
+            "Pacific Northwest",
+            "Puget Sound",
+            "Olympic Peninsula",
+            "Columbia Plateau",
+            "Yakama lands",
+            "Coast Salish territories"
+          ]
+        },
+        {
+          "id": "tengu",
+          "name": "Tengu",
+          "regions": [
+            "Honshu",
+            "Kansai (Mount Kurama, Mount Atago, Mount Hiei)",
+            "Tōhoku",
+            "Chūbu"
+          ]
+        },
+        {
+          "id": "tikbalang",
+          "name": "Tikbalang",
+          "regions": [
+            "Luzon",
+            "Visayas",
+            "Sierra Madre",
+            "Cordillera Central"
+          ]
+        },
+        {
+          "id": "tokoloshe",
+          "name": "Tokoloshe",
+          "regions": [
+            "KwaZulu-Natal",
+            "Eastern Cape",
+            "Mpumalanga",
+            "Limpopo",
+            "Gauteng townships"
+          ]
+        },
+        {
+          "id": "toyol",
+          "name": "Toyol",
+          "regions": [
+            "Peninsular Malaysia",
+            "Java",
+            "Sumatra",
+            "Borneo",
+            "Riau Archipelago"
+          ]
+        },
+        {
+          "id": "tsukumogami",
+          "name": "Tsukumogami",
+          "regions": [
+            "Japan broadly",
+            "Particularly associated with the Heian-period (794–1185 CE) court culture where many of the originating texts were composed"
+          ]
+        },
+        {
+          "id": "tunda",
+          "name": "La Tunda",
+          "regions": [
+            "Pacific coast of Colombia",
+            "Chocó",
+            "Valle del Cauca",
+            "Cauca",
+            "Nariño",
+            "Esmeraldas (Ecuador)"
+          ]
+        },
+        {
+          "id": "ubume",
+          "name": "Ubume",
+          "regions": [
+            "Honshu",
+            "Kyushu (Saga, Kumamoto, Nagasaki)",
+            "Tōhoku (Fukushima)",
+            "Iki Island"
+          ]
+        },
+        {
+          "id": "vodyanoy",
+          "name": "Vodyanoy",
+          "regions": [
+            "European Russia",
+            "Bohemia and Moravia",
+            "Carpathians",
+            "Western Slavic lands"
+          ]
+        },
+        {
+          "id": "wanyudo",
+          "name": "Wanyūdō",
+          "regions": [
+            "Kinai",
+            "Kyoto Prefecture",
+            "Kantō (through later transmission)"
+          ]
+        },
+        {
+          "id": "wendigo",
+          "name": "Wendigo",
+          "regions": [
+            "Boreal forest / taiga",
+            "Ontario",
+            "Manitoba",
+            "Quebec",
+            "Labrador",
+            "Saskatchewan",
+            "Alberta",
+            "Minnesota",
+            "Wisconsin",
+            "Michigan (Upper Peninsula)"
+          ]
+        },
+        {
+          "id": "windigo",
+          "name": "Windigo",
+          "regions": [
+            "Boreal forest",
+            "Subarctic Canada",
+            "Great Lakes region",
+            "Northern Ontario",
+            "Northern Quebec",
+            "Manitoba",
+            "Saskatchewan",
+            "Alberta",
+            "Labrador",
+            "Minnesota",
+            "Wisconsin",
+            "Michigan"
+          ]
+        },
+        {
+          "id": "xtabay",
+          "name": "Xtabay",
+          "regions": [
+            "Yucatán",
+            "Quintana Roo",
+            "Campeche",
+            "Northern Belize",
+            "Petén"
+          ]
+        },
+        {
+          "id": "yacuruna",
+          "name": "Yacuruna",
+          "regions": [
+            "Amazon basin",
+            "Upper Amazon (Peru)",
+            "Loreto region, Peru",
+            "Ucayali region, Peru"
+          ]
+        },
+        {
+          "id": "yama-no-kami",
+          "name": "Yama-no-kami",
+          "regions": [
+            "Throughout Japan",
+            "Particularly prominent in central Honshu",
+            "Significant tradition on Mount Hiei (Oyamakui no Kami)",
+            "Mount Fuji associated with Ōyamatsumi worship"
+          ]
+        },
+        {
+          "id": "yama-oroshi",
+          "name": "Yama-oroshi",
+          "regions": [
+            "Japan (mountain regions)"
+          ]
+        },
+        {
+          "id": "yama-uba",
+          "name": "Yamauba",
+          "regions": [
+            "Throughout Japan",
+            "Miyazaki Prefecture (yamahime variant)",
+            "Hokkaido (protective maternal variant)",
+            "Shikoku",
+            "Kyushu",
+            "Kagawa Prefecture (kawajoro river variant)",
+            "Kochi Prefecture (deified household protective variant)"
+          ]
+        },
+        {
+          "id": "yuki-onna",
+          "name": "Yuki-onna",
+          "regions": [
+            "Tōhoku (Aomori, Yamagata, Akita, Iwate, Miyagi, Fukushima)",
+            "Hokuriku (Niigata, Fukui)",
+            "Kantō (Gunma, Ibaraki)",
+            "Shikoku (Ehime)",
+            "Echigo Province (historical, modern Niigata)"
+          ]
+        }
+      ]
+    },
+    "cryptid": {
+      "name": "cryptid",
+      "count": 102,
+      "phenomena": [
+        {
+          "id": "adlet",
+          "name": "Adlet",
+          "regions": [
+            "Greenland",
+            "Baffin Island",
+            "Labrador",
+            "Hudson Bay coast",
+            "eastern Canadian Arctic"
+          ]
+        },
+        {
+          "id": "agropelter",
+          "name": "Agropelter",
+          "regions": [
+            "Maine",
+            "Great Lakes states",
+            "Pacific Northwest",
+            "Oregon",
+            "Adirondacks",
+            "Appalachian Mountains",
+            "Rocky Mountains"
+          ]
+        },
+        {
+          "id": "ahool",
+          "name": "Ahool",
+          "regions": [
+            "Java",
+            "West Java",
+            "Salak Mountains",
+            "Halimun-Salak National Park",
+            "Banten"
+          ]
+        },
+        {
+          "id": "almas",
+          "name": "Almas",
+          "regions": [
+            "Caucasus Mountains",
+            "Pamir Mountains",
+            "Tian Shan",
+            "Altai Mountains",
+            "Mongolian highlands",
+            "Kabardino-Balkaria",
+            "Abkhazia"
+          ]
+        },
+        {
+          "id": "altamaha-ha",
+          "name": "Altamaha-ha",
+          "regions": [
+            "Georgia",
+            "McIntosh County",
+            "Altamaha River basin"
+          ]
+        },
+        {
+          "id": "argopelter",
+          "name": "Argopelter",
+          "regions": [
+            "Maine",
+            "Upper Midwest (Wisconsin, Minnesota, Michigan)",
+            "Pacific Northwest (Oregon, Washington)",
+            "Boreal and northern conifer forests"
+          ]
+        },
+        {
+          "id": "atmospheric-beasts",
+          "name": "Atmospheric Beasts",
+          "regions": [
+            "Upper atmosphere (global)"
+          ]
+        },
+        {
+          "id": "axehandle-hound",
+          "name": "Axehandle Hound",
+          "regions": [
+            "Wisconsin",
+            "Minnesota",
+            "Great Lakes region",
+            "Upper Midwest"
+          ]
+        },
+        {
+          "id": "batsquatch",
+          "name": "Batsquatch",
+          "regions": [
+            "Pacific Northwest",
+            "Washington State",
+            "Cascade Range"
+          ]
+        },
+        {
+          "id": "batutut",
+          "name": "Batutut",
+          "regions": [
+            "Annamite Range (Trường Sơn)",
+            "Vu Quang",
+            "Central Highlands of Vietnam"
+          ]
+        },
+        {
+          "id": "beast-of-bray-road",
+          "name": "Beast of Bray Road",
+          "regions": [
+            "Upper Midwest",
+            "Wisconsin",
+            "Walworth County"
+          ]
+        },
+        {
+          "id": "beast-of-gevaudan",
+          "name": "Beast of Gévaudan",
+          "regions": [
+            "Gévaudan",
+            "Lozère",
+            "Haute-Loire",
+            "Margeride Mountains",
+            "Auvergne (modern)"
+          ]
+        },
+        {
+          "id": "bessie",
+          "name": "Bessie",
+          "regions": [
+            "Lake Erie",
+            "Sandusky Bay",
+            "Lake Erie Islands (Ohio)",
+            "Crystal Beach / Fort Erie (Ontario)",
+            "Buffalo–Toledo shipping lane"
+          ]
+        },
+        {
+          "id": "bigfoot",
+          "name": "Bigfoot",
+          "regions": [
+            "Pacific Northwest",
+            "Northern California",
+            "British Columbia",
+            "Cascadia",
+            "Ohio River Valley",
+            "Appalachian Mountains",
+            "Florida Everglades",
+            "Pacific Coast Range",
+            "Olympic Peninsula"
+          ]
+        },
+        {
+          "id": "billdad",
+          "name": "Billdad",
+          "regions": [
+            "Maine",
+            "Northern Maine lumberwoods",
+            "Boundary Pond"
+          ]
+        },
+        {
+          "id": "black-dog",
+          "name": "Black Dog",
+          "regions": [
+            "East Anglia (Norfolk, Suffolk, Essex)",
+            "Yorkshire",
+            "Lancashire",
+            "Cornwall and Devon (West Country)",
+            "Scottish Highlands",
+            "Isle of Man",
+            "Wales (Cŵn Annwn — closely related)"
+          ]
+        },
+        {
+          "id": "black-shuck",
+          "name": "Black Shuck",
+          "regions": [
+            "Norfolk",
+            "Suffolk",
+            "Cambridgeshire",
+            "Essex",
+            "East Anglia (general)"
+          ]
+        },
+        {
+          "id": "bunyip",
+          "name": "Bunyip",
+          "regions": [
+            "Murray–Darling Basin",
+            "Victoria",
+            "New South Wales",
+            "South Australia",
+            "Tasmania",
+            "Queensland"
+          ]
+        },
+        {
+          "id": "cactus-cat",
+          "name": "Cactus Cat",
+          "regions": [
+            "Arizona",
+            "New Mexico",
+            "Texas",
+            "Sonoran Desert",
+            "Chihuahuan Desert"
+          ]
+        },
+        {
+          "id": "caddy",
+          "name": "Cadborosaurus",
+          "regions": [
+            "British Columbia",
+            "Vancouver Island",
+            "Strait of Georgia",
+            "Puget Sound",
+            "Washington",
+            "Oregon",
+            "Alaska",
+            "Northern California"
+          ]
+        },
+        {
+          "id": "champ",
+          "name": "Champ",
+          "regions": [
+            "Vermont",
+            "New York",
+            "Quebec",
+            "Champlain Valley"
+          ]
+        },
+        {
+          "id": "chipekwe",
+          "name": "Chipekwe",
+          "regions": [
+            "Lake Bangweulu",
+            "Bangweulu Swamps",
+            "Kafue Flats",
+            "Luapula River",
+            "Lake Mweru basin"
+          ]
+        },
+        {
+          "id": "chupacabra",
+          "name": "Chupacabra",
+          "regions": [
+            "Caribbean",
+            "Latin America",
+            "Southwestern United States",
+            "Texas",
+            "Yucatán Peninsula"
+          ]
+        },
+        {
+          "id": "come-at-a-body",
+          "name": "Come-at-a-Body",
+          "regions": [
+            "White Mountains",
+            "Northern New Hampshire",
+            "Maine and Vermont logging country (by extension in later compilations)"
+          ]
+        },
+        {
+          "id": "crawler",
+          "name": "Crawler",
+          "regions": [
+            "Southern Appalachia",
+            "Pennsylvania Wilds",
+            "West Virginia",
+            "Eastern Tennessee",
+            "Northern Georgia",
+            "Ozarks",
+            "Southern Ohio",
+            "Internet (global propagation)"
+          ]
+        },
+        {
+          "id": "dobhar-chu",
+          "name": "Dobhar-chú",
+          "regions": [
+            "County Leitrim",
+            "Connemara, County Galway",
+            "Northwest Ireland"
+          ]
+        },
+        {
+          "id": "dogman",
+          "name": "Michigan Dogman",
+          "regions": [
+            "Michigan",
+            "Northern Lower Peninsula",
+            "Manistee River basin",
+            "Great Lakes region"
+          ]
+        },
+        {
+          "id": "dover-demon",
+          "name": "Dover Demon",
+          "regions": [
+            "New England",
+            "Massachusetts",
+            "Norfolk County"
+          ]
+        },
+        {
+          "id": "dungavenhooter",
+          "name": "Dungavenhooter",
+          "regions": [
+            "New England",
+            "Maine",
+            "Upper Great Lakes",
+            "Michigan",
+            "Wisconsin"
+          ]
+        },
+        {
+          "id": "ebu-gogo",
+          "name": "Ebu Gogo",
+          "regions": [
+            "Flores Island",
+            "Central Flores",
+            "Ngada Regency",
+            "Nusa Tenggara Timur"
+          ]
+        },
+        {
+          "id": "el-sisimite",
+          "name": "Sisimite",
+          "regions": [
+            "Toledo District, Belize",
+            "Mountain regions of Honduras",
+            "Guatemalan highlands",
+            "Campeche, Mexico",
+            "Chiapas, Mexico",
+            "Quintana Roo, Mexico",
+            "Darien, Colombia"
+          ]
+        },
+        {
+          "id": "emela-ntouka",
+          "name": "Emela-ntouka",
+          "regions": [
+            "Likouala swamps",
+            "Congo River basin",
+            "Bangweulu Swamps (as Chipekwe)",
+            "Lake Edward (as Irizima)"
+          ]
+        },
+        {
+          "id": "enfield-horror",
+          "name": "Enfield Horror",
+          "regions": [
+            "White County, Illinois",
+            "southern Illinois"
+          ]
+        },
+        {
+          "id": "fearsome-critters",
+          "name": "Fearsome Critters",
+          "regions": [
+            "Great Lakes",
+            "Wisconsin",
+            "Michigan",
+            "Minnesota",
+            "Pacific Northwest",
+            "Appalachian Mountains",
+            "Ozarks",
+            "Canadian boreal forest",
+            "Maine"
+          ]
+        },
+        {
+          "id": "fresno-nightcrawlers",
+          "name": "Fresno Nightcrawlers",
+          "regions": [
+            "Central Valley, California",
+            "Sierra Nevada foothills, California"
+          ]
+        },
+        {
+          "id": "fur-bearing-trout",
+          "name": "Fur-Bearing Trout",
+          "regions": [
+            "Colorado (Arkansas River folklore)",
+            "Montana",
+            "Lake Superior region",
+            "Ontario, Canada",
+            "Alberta, Canada",
+            "Iceland"
+          ]
+        },
+        {
+          "id": "gillygaloo",
+          "name": "Gillygaloo",
+          "regions": [
+            "Great Lakes lumberwoods",
+            "New England",
+            "Pacific Northwest"
+          ]
+        },
+        {
+          "id": "globster",
+          "name": "Globster",
+          "regions": [
+            "North Atlantic",
+            "South Atlantic",
+            "Pacific",
+            "Tasman Sea",
+            "Caribbean",
+            "Bermuda"
+          ]
+        },
+        {
+          "id": "goatman",
+          "name": "Goatman",
+          "regions": [
+            "Mid-Atlantic",
+            "Texas",
+            "Kentucky"
+          ]
+        },
+        {
+          "id": "goofang",
+          "name": "Goofang",
+          "regions": [
+            "Minnesota",
+            "Wisconsin",
+            "Great Lakes region"
+          ]
+        },
+        {
+          "id": "grafton-monster",
+          "name": "Grafton Monster",
+          "regions": [
+            "West Virginia",
+            "Appalachia"
+          ]
+        },
+        {
+          "id": "grootslang",
+          "name": "Grootslang",
+          "regions": [
+            "Northern Cape",
+            "Richtersveld",
+            "lower Orange River"
+          ]
+        },
+        {
+          "id": "gumberoo",
+          "name": "Gumberoo",
+          "regions": [
+            "Pacific Northwest",
+            "Oregon",
+            "Washington",
+            "British Columbia"
+          ]
+        },
+        {
+          "id": "hidebehind",
+          "name": "Hidebehind",
+          "regions": [
+            "Upper Midwest",
+            "Pacific Northwest",
+            "New England",
+            "Appalachian Mountains",
+            "Boreal forest"
+          ]
+        },
+        {
+          "id": "hodag",
+          "name": "Hodag",
+          "regions": [
+            "Wisconsin",
+            "Oneida County",
+            "Rhinelander"
+          ]
+        },
+        {
+          "id": "hoopsnake",
+          "name": "Hoop snake",
+          "regions": [
+            "Virginia",
+            "West Virginia",
+            "Minnesota–Wisconsin border",
+            "North Carolina",
+            "Prince Edward Island",
+            "British Columbia"
+          ]
+        },
+        {
+          "id": "hugag",
+          "name": "Hugag",
+          "regions": [
+            "Northern Minnesota",
+            "Western Wisconsin",
+            "Canadian wilderness (Hudson Bay region)"
+          ]
+        },
+        {
+          "id": "jackalope",
+          "name": "Jackalope",
+          "regions": [
+            "American West",
+            "Wyoming",
+            "Great Plains",
+            "Bavaria"
+          ]
+        },
+        {
+          "id": "jersey-devil",
+          "name": "Jersey Devil",
+          "regions": [
+            "Pine Barrens",
+            "South Jersey",
+            "Delaware Valley",
+            "Philadelphia metropolitan area"
+          ]
+        },
+        {
+          "id": "joint-snake",
+          "name": "Joint Snake",
+          "regions": [
+            "Southern Virginia",
+            "North Carolina",
+            "South Carolina",
+            "Georgia",
+            "Alabama",
+            "Mississippi",
+            "Louisiana",
+            "Texas",
+            "Wisconsin",
+            "Iowa"
+          ]
+        },
+        {
+          "id": "kongamato",
+          "name": "Kongamato",
+          "regions": [
+            "Mwinilunga District",
+            "Bangweulu wetlands",
+            "Jiundu Swamp",
+            "Kafue floodplain",
+            "Caprivi Strip"
+          ]
+        },
+        {
+          "id": "kraken",
+          "name": "Kraken",
+          "regions": [
+            "Norwegian Sea",
+            "North Atlantic Ocean",
+            "Waters off the coast of Nordland, Norway",
+            "Greenlandic shelf"
+          ]
+        },
+        {
+          "id": "lizard-man-scape-ore",
+          "name": "Lizard Man of Scape Ore Swamp",
+          "regions": [
+            "South Carolina",
+            "Lee County",
+            "Pee Dee region"
+          ]
+        },
+        {
+          "id": "loch-ness-monster",
+          "name": "Loch Ness Monster",
+          "regions": [
+            "Scottish Highlands",
+            "Great Glen",
+            "Inverness-shire"
+          ]
+        },
+        {
+          "id": "loveland-frog",
+          "name": "Loveland Frog",
+          "regions": [
+            "Ohio",
+            "Cincinnati metropolitan area",
+            "Little Miami River valley"
+          ]
+        },
+        {
+          "id": "luferlang",
+          "name": "Luferlang",
+          "regions": [
+            "Great Lakes",
+            "Northeast United States",
+            "Pacific Northwest logging country"
+          ]
+        },
+        {
+          "id": "lusca",
+          "name": "Lusca",
+          "regions": [
+            "Andros Island",
+            "Bahamas Banks",
+            "Caribbean Sea"
+          ]
+        },
+        {
+          "id": "man-monkey",
+          "name": "Man-Monkey",
+          "regions": [
+            "Shropshire",
+            "Staffordshire",
+            "English Midlands"
+          ]
+        },
+        {
+          "id": "mapinguari",
+          "name": "Mapinguari",
+          "regions": [
+            "Amazon basin",
+            "Acre",
+            "Rondônia",
+            "Pará",
+            "Amazonas (Brazil)"
+          ]
+        },
+        {
+          "id": "marozi",
+          "name": "Marozi",
+          "regions": [
+            "Aberdare Range",
+            "Kinangop Plateau",
+            "Mau Escarpment",
+            "Virunga Mountains"
+          ]
+        },
+        {
+          "id": "minhocao",
+          "name": "Minhocão",
+          "regions": [
+            "Santa Catarina",
+            "Paraná",
+            "São Paulo",
+            "Goiás",
+            "Rio Grande do Sul"
+          ]
+        },
+        {
+          "id": "mngwa",
+          "name": "Mngwa",
+          "regions": [
+            "Lindi region, coastal Tanzania",
+            "Mchinga area, coastal Tanzania",
+            "Zanzibar (folklore tradition)"
+          ]
+        },
+        {
+          "id": "moehau-man",
+          "name": "Moehau Man",
+          "regions": [
+            "Coromandel Peninsula",
+            "Moehau Range",
+            "North Island",
+            "Karangahake Gorge"
+          ]
+        },
+        {
+          "id": "mokele-mbembe",
+          "name": "Mokele-mbembe",
+          "regions": [
+            "Likouala",
+            "Lake Tele",
+            "Congo River basin",
+            "Sangha River basin"
+          ]
+        },
+        {
+          "id": "momo",
+          "name": "Momo the Missouri Monster",
+          "regions": [
+            "Missouri",
+            "Pike County",
+            "Louisiana, Missouri"
+          ]
+        },
+        {
+          "id": "mongolian-death-worm",
+          "name": "Mongolian Death Worm",
+          "regions": [
+            "Gobi Desert",
+            "Southern Mongolia",
+            "Western Mongolia"
+          ]
+        },
+        {
+          "id": "mothman",
+          "name": "Mothman",
+          "regions": [
+            "West Virginia",
+            "Ohio",
+            "Ohio River Valley",
+            "Appalachia"
+          ]
+        },
+        {
+          "id": "nandi-bear",
+          "name": "Nandi Bear",
+          "regions": [
+            "Nandi Hills and surrounding highlands",
+            "Western Kenya",
+            "East Africa"
+          ]
+        },
+        {
+          "id": "nguoi-rung",
+          "name": "Người Rừng",
+          "regions": [
+            "Vu Quang National Park (Hà Tĩnh Province)",
+            "Annamite Range",
+            "Central Highlands",
+            "Vietnam-Laos border"
+          ]
+        },
+        {
+          "id": "nguruvilu",
+          "name": "Nguruvilu",
+          "regions": [
+            "Araucanía",
+            "Los Lagos",
+            "Los Ríos",
+            "Neuquén Province (Limay River, Aluminé Lake)"
+          ]
+        },
+        {
+          "id": "ninki-nanka",
+          "name": "Ninki Nanka",
+          "regions": [
+            "Lower Gambia",
+            "Senegambia"
+          ]
+        },
+        {
+          "id": "ogopogo",
+          "name": "Ogopogo",
+          "regions": [
+            "Okanagan Valley",
+            "British Columbia",
+            "Pacific Northwest interior"
+          ]
+        },
+        {
+          "id": "orang-bati",
+          "name": "Orang Bati",
+          "regions": [
+            "Seram Island, Maluku Province, Indonesia",
+            "Mount Kairatu (Gunung Binaiya) area"
+          ]
+        },
+        {
+          "id": "orang-dalam",
+          "name": "Orang Dalam",
+          "regions": [
+            "Johor, Malaysia",
+            "Endau-Rompin National Park area, Johor",
+            "Singapore (occasional reports)"
+          ]
+        },
+        {
+          "id": "orang-gadang",
+          "name": "Orang Gadang",
+          "regions": [
+            "Rokan area, Riau province, Sumatra",
+            "Sumatran highlands"
+          ]
+        },
+        {
+          "id": "orang-pendek",
+          "name": "Orang Pendek",
+          "regions": [
+            "Kerinci Regency, central Sumatra",
+            "Kerinci Seblat National Park (TNKS)",
+            "Bukit Barisan mountain range, Sumatra",
+            "Jambi province, Sumatra",
+            "South Sumatra province"
+          ]
+        },
+        {
+          "id": "owlman",
+          "name": "Owlman",
+          "regions": [
+            "Cornwall",
+            "South-west England",
+            "Helford River / Falmouth Bay area"
+          ]
+        },
+        {
+          "id": "ozark-howler",
+          "name": "Ozark Howler",
+          "regions": [
+            "Ozark Mountains",
+            "Northern Arkansas",
+            "Southern Missouri",
+            "Eastern Oklahoma"
+          ]
+        },
+        {
+          "id": "pope-lick-monster",
+          "name": "Pope Lick Monster",
+          "regions": [
+            "Kentucky",
+            "Louisville metropolitan area",
+            "Fisherville",
+            "Jefferson County"
+          ]
+        },
+        {
+          "id": "ropen",
+          "name": "Ropen",
+          "regions": [
+            "Umboi Island",
+            "Finschhafen area",
+            "Southwest Pacific islands"
+          ]
+        },
+        {
+          "id": "roperite",
+          "name": "Roperite",
+          "regions": [
+            "California",
+            "Sierra Nevada foothills"
+          ]
+        },
+        {
+          "id": "rumtifusel",
+          "name": "Rumtifusel",
+          "regions": [
+            "Great Lakes lumber country",
+            "Pacific Northwest",
+            "New England"
+          ]
+        },
+        {
+          "id": "sidehill-gouger",
+          "name": "Sidehill Gouger",
+          "regions": [
+            "New England",
+            "Vermont (Mount Mansfield as Wampahoofus)",
+            "Appalachian Mountains",
+            "Great Lakes lumber country",
+            "Driftless Area (Wisconsin)",
+            "Pacific Northwest"
+          ]
+        },
+        {
+          "id": "skunk-ape",
+          "name": "Skunk Ape",
+          "regions": [
+            "Florida",
+            "Everglades",
+            "Big Cypress National Preserve",
+            "Georgia",
+            "Alabama",
+            "Southeastern United States"
+          ]
+        },
+        {
+          "id": "skvader",
+          "name": "Skvader",
+          "regions": [
+            "Medelpad",
+            "Sundsvall"
+          ]
+        },
+        {
+          "id": "slide-rock-bolter",
+          "name": "Slide-Rock Bolter",
+          "regions": [
+            "Colorado",
+            "Rocky Mountains",
+            "San Juan Mountains",
+            "San Miguel County",
+            "Dolores County"
+          ]
+        },
+        {
+          "id": "snallygaster",
+          "name": "Snallygaster",
+          "regions": [
+            "Maryland",
+            "Frederick County",
+            "Middletown Valley",
+            "South Mountain",
+            "Blue Ridge",
+            "Berkeley County, West Virginia",
+            "Washington, D.C. metro area"
+          ]
+        },
+        {
+          "id": "splintercat",
+          "name": "Splintercat",
+          "regions": [
+            "Pacific Northwest",
+            "Oregon",
+            "Great Lakes region",
+            "Nova Scotia"
+          ]
+        },
+        {
+          "id": "squonk",
+          "name": "Squonk",
+          "regions": [
+            "Pennsylvania",
+            "Allegheny Plateau"
+          ]
+        },
+        {
+          "id": "tailypo",
+          "name": "Tailypo",
+          "regions": [
+            "Appalachia",
+            "American South"
+          ]
+        },
+        {
+          "id": "tatzelwurm",
+          "name": "Tatzelwurm",
+          "regions": [
+            "Swiss Alps",
+            "Austrian Alps",
+            "Bavarian Alps",
+            "French Alps",
+            "Italian Alps",
+            "Styria",
+            "Tyrol"
+          ]
+        },
+        {
+          "id": "teakettler",
+          "name": "Teakettler",
+          "regions": [
+            "Great Lakes states",
+            "New England",
+            "Pacific Northwest",
+            "Eastern Canada"
+          ]
+        },
+        {
+          "id": "thunderbird",
+          "name": "Thunderbird",
+          "regions": [
+            "Pacific Northwest Coast",
+            "Great Lakes",
+            "Great Plains",
+            "Ohio River Valley",
+            "Mississippi River Valley",
+            "Allegheny Mountains",
+            "American Southwest"
+          ]
+        },
+        {
+          "id": "tote-road-shagamaw",
+          "name": "Tote-Road Shagamaw",
+          "regions": [
+            "Maine north woods",
+            "Aroostook County",
+            "northern New England lumber camps"
+          ]
+        },
+        {
+          "id": "tripodero",
+          "name": "Tripodero",
+          "regions": [
+            "California chaparral",
+            "Sierra Nevada foothills"
+          ]
+        },
+        {
+          "id": "van-meter-visitor",
+          "name": "Van Meter Visitor",
+          "regions": [
+            "Van Meter, Dallas County, Iowa"
+          ]
+        },
+        {
+          "id": "wampus-cat",
+          "name": "Wampus Cat",
+          "regions": [
+            "Southern Appalachia",
+            "Ozarks",
+            "Piedmont",
+            "Cherokee homelands"
+          ]
+        },
+        {
+          "id": "whirling-whimpus",
+          "name": "Whirling Whimpus",
+          "regions": [
+            "Appalachian Mountains",
+            "Tennessee",
+            "Great Lakes lumberwoods",
+            "Eastern United States",
+            "Canadian timber country"
+          ]
+        },
+        {
+          "id": "wolpertinger",
+          "name": "Wolpertinger",
+          "regions": [
+            "Bavaria",
+            "Baden-Württemberg",
+            "Bavarian Alps",
+            "Bavarian Forest",
+            "Black Forest"
+          ]
+        },
+        {
+          "id": "yeren",
+          "name": "Yeren",
+          "regions": [
+            "Shennongjia Forestry District",
+            "Hubei Province",
+            "Fang County",
+            "Shaanxi Province",
+            "Yunnan Province",
+            "Daba Mountains",
+            "Qinling Mountains"
+          ]
+        },
+        {
+          "id": "yeti",
+          "name": "Yeti",
+          "regions": [
+            "Himalayas",
+            "Khumbu",
+            "Mustang",
+            "Makalu-Barun",
+            "Tibet",
+            "Sikkim",
+            "Bhutan",
+            "Karakoram fringes",
+            "Pamirs"
+          ]
+        },
+        {
+          "id": "yowie",
+          "name": "Yowie",
+          "regions": [
+            "Queensland (Gold Coast hinterland, Springbrook, Gympie, Cape York)",
+            "New South Wales (Blue Mountains, NSW south coast, north coast)",
+            "Australian Capital Territory (Brindabella Ranges)",
+            "Northern Territory (Acacia Hills)",
+            "Victoria",
+            "Western Australia"
+          ]
+        }
+      ]
+    },
+    "undead": {
+      "name": "undead",
+      "count": 28,
+      "phenomena": [
+        {
+          "id": "adze",
+          "name": "Adze",
+          "regions": [
+            "Volta Region (Ghana)",
+            "Maritime Region (Togo)",
+            "Ewe cultural area"
+          ]
+        },
+        {
+          "id": "asanbosam",
+          "name": "Asanbosam",
+          "regions": [
+            "Ashanti Region",
+            "Central Region (Ghana)",
+            "Eastern Region (Ghana)",
+            "Akan-speaking forest belt of West Africa",
+            "Maroon communities of 18th-century Jamaica"
+          ]
+        },
+        {
+          "id": "bake-kujira",
+          "name": "Bake-kujira",
+          "regions": [
+            "Shimane Prefecture",
+            "Izumo Province (historical)",
+            "Oki Islands",
+            "Sea of Japan coast",
+            "former whaling villages of western Japan"
+          ]
+        },
+        {
+          "id": "bhoot",
+          "name": "Bhoot",
+          "regions": [
+            "North India",
+            "Bengal (West Bengal and Bangladesh)",
+            "Punjab",
+            "Sindh",
+            "Kashmir",
+            "South Asian diaspora communities"
+          ]
+        },
+        {
+          "id": "draugr",
+          "name": "Draugr",
+          "regions": [
+            "Iceland (Icelandic sagas)",
+            "Norway (sjødraug tradition)",
+            "Faroe Islands (dreygur)",
+            "Northern Isles of Scotland (hogboon)"
+          ]
+        },
+        {
+          "id": "dullahan",
+          "name": "Dullahan",
+          "regions": [
+            "Munster",
+            "County Cork",
+            "County Kerry",
+            "County Sligo",
+            "County Galway",
+            "Connacht"
+          ]
+        },
+        {
+          "id": "gashadokuro",
+          "name": "Gashadokuro",
+          "regions": [
+            "Kanto region",
+            "Tokyo area (formerly Shibasaki / Edo)"
+          ]
+        },
+        {
+          "id": "ghul",
+          "name": "Ghul",
+          "regions": [
+            "Arabian Peninsula",
+            "Levant",
+            "Mesopotamia",
+            "Maghreb",
+            "Iranian plateau",
+            "Central Asia"
+          ]
+        },
+        {
+          "id": "hantu-bungkus",
+          "name": "Hantu Bungkus",
+          "regions": [
+            "Java",
+            "Sumatra",
+            "Malay Peninsula",
+            "Borneo"
+          ]
+        },
+        {
+          "id": "jiangshi",
+          "name": "Jiangshi",
+          "regions": [
+            "Xiangxi (Western Hunan)",
+            "Southern China",
+            "Sinosphere"
+          ]
+        },
+        {
+          "id": "krasue",
+          "name": "Krasue",
+          "regions": [
+            "Isan (northeastern Thailand)",
+            "Central Thailand",
+            "Northern Thailand",
+            "Cambodia",
+            "Laos",
+            "Malay Peninsula",
+            "Java and Bali",
+            "Philippine archipelago"
+          ]
+        },
+        {
+          "id": "leak",
+          "name": "Leak",
+          "regions": [
+            "Bali",
+            "Lombok",
+            "Java"
+          ]
+        },
+        {
+          "id": "nachzehrer",
+          "name": "Nachzehrer",
+          "regions": [
+            "Northern Germany",
+            "Silesia",
+            "Bavaria",
+            "Kashubia"
+          ]
+        },
+        {
+          "id": "penanggalan",
+          "name": "Penanggalan",
+          "regions": [
+            "Malay world (alam Melayu)",
+            "Peninsular Malaysia",
+            "Sumatra",
+            "Borneo",
+            "Java"
+          ]
+        },
+        {
+          "id": "pishacha",
+          "name": "Pishacha",
+          "regions": [
+            "South Asia",
+            "Himalayan / northwestern frontier",
+            "Southeast Asian Indic-influenced cultures"
+          ]
+        },
+        {
+          "id": "pocong",
+          "name": "Pocong",
+          "regions": [
+            "Java",
+            "Sumatra",
+            "Borneo / Kalimantan",
+            "Malay Peninsula",
+            "Sulawesi"
+          ]
+        },
+        {
+          "id": "pontianak",
+          "name": "Pontianak",
+          "regions": [
+            "Malay Peninsula",
+            "Kalimantan",
+            "Java",
+            "Sumatra",
+            "Borneo"
+          ]
+        },
+        {
+          "id": "revenant",
+          "name": "Revenant",
+          "regions": [
+            "England",
+            "Wales",
+            "Normandy",
+            "Scandinavia"
+          ]
+        },
+        {
+          "id": "rolling-calf",
+          "name": "Rolling Calf",
+          "regions": [
+            "Rural Jamaica",
+            "Caribbean"
+          ]
+        },
+        {
+          "id": "rusalka",
+          "name": "Rusalka",
+          "regions": [
+            "East Slavic lands",
+            "Polesia",
+            "Carpathian foothills",
+            "Volga and Dnieper basins"
+          ]
+        },
+        {
+          "id": "sasabonsam",
+          "name": "Sasabonsam",
+          "regions": [
+            "Ashanti Region",
+            "Central Region (Ghana)",
+            "Western Region (Ghana)",
+            "Volta Region",
+            "Akan-speaking parts of southeastern Côte d'Ivoire"
+          ]
+        },
+        {
+          "id": "soucouyant",
+          "name": "Soucouyant",
+          "regions": [
+            "Caribbean",
+            "French Caribbean",
+            "Anglophone Caribbean",
+            "Surinamese Caribbean",
+            "Caribbean diaspora communities"
+          ]
+        },
+        {
+          "id": "strigoi",
+          "name": "Strigoi",
+          "regions": [
+            "Transylvania",
+            "Wallachia",
+            "Moldavia",
+            "Oltenia",
+            "Banat"
+          ]
+        },
+        {
+          "id": "strzyga",
+          "name": "Strzyga",
+          "regions": [
+            "Rural Poland",
+            "Broadly: Eastern Europe and former Polish-Lithuanian Commonwealth territories"
+          ]
+        },
+        {
+          "id": "upyr",
+          "name": "Upyr",
+          "regions": [
+            "East Slavic Rus'",
+            "Polish-Lithuanian Commonwealth lands",
+            "Habsburg Military Frontier (18th-century vampire-epidemic zone)",
+            "Balkans"
+          ]
+        },
+        {
+          "id": "vampires",
+          "name": "Vampires",
+          "regions": [
+            "Southeastern Europe (Balkans) — primary folkloric region",
+            "Eastern Europe (Poland, Russia, Ukraine)",
+            "Romania and Transylvania",
+            "Southeast Asia (Malay penanggalan, Philippine mandurugo)",
+            "China (jiangshi tradition)",
+            "West Africa (Ashanti asanbosam, Ewe adze)",
+            "Caribbean (soucouyant, Haitian folklore)"
+          ]
+        },
+        {
+          "id": "vetala",
+          "name": "Vetala",
+          "regions": [
+            "South Asia",
+            "Konkan coast",
+            "Goa",
+            "Maharashtra",
+            "Karnataka"
+          ]
+        },
+        {
+          "id": "vrykolakas",
+          "name": "Vrykolakas",
+          "regions": [
+            "Aegean islands",
+            "Crete",
+            "Cyclades",
+            "Mainland Greece",
+            "Southern Balkans"
+          ]
+        }
+      ]
+    },
+    "ghost_haunting": {
+      "name": "ghost_haunting",
+      "count": 26,
+      "phenomena": [
+        {
+          "id": "aka-manto",
+          "name": "Aka Manto",
+          "regions": [
+            "Osaka",
+            "Tokyo",
+            "Kitakyushu",
+            "Korean Peninsula (under Japanese administration in 1940)"
+          ]
+        },
+        {
+          "id": "duppy",
+          "name": "Duppy",
+          "regions": [
+            "Greater Antilles",
+            "Bahamas",
+            "Caribbean coast of Central America",
+            "Gold Coast (historic, present-day Ghana)"
+          ]
+        },
+        {
+          "id": "el-silbon",
+          "name": "El Silbón",
+          "regions": [
+            "Llanos (Orinoquía)",
+            "Portuguesa State",
+            "Guárico State",
+            "Apure State",
+            "Eastern Llanos (Colombia)",
+            "Casanare Department",
+            "Meta Department"
+          ]
+        },
+        {
+          "id": "ghosts",
+          "name": "Ghosts and Hauntings",
+          "regions": [
+            "British Isles",
+            "New England",
+            "Old South (USA)",
+            "East Asia",
+            "South Asia",
+            "Latin America"
+          ]
+        },
+        {
+          "id": "grey-lady",
+          "name": "Grey Lady",
+          "regions": [
+            "England",
+            "Scotland",
+            "Northern Ireland",
+            "New England and the Midwest US",
+            "Otago"
+          ]
+        },
+        {
+          "id": "hanako-san",
+          "name": "Hanako-san",
+          "regions": [
+            "Kantō (including Tokyo)",
+            "Kansai",
+            "Hokkaidō",
+            "Kyūshū"
+          ]
+        },
+        {
+          "id": "hantu-pontianak",
+          "name": "Pontianak",
+          "regions": [
+            "Malay Peninsula",
+            "Java",
+            "Sumatra",
+            "Borneo (Kalimantan and East Malaysia)"
+          ]
+        },
+        {
+          "id": "hasshaku-sama",
+          "name": "Hasshaku-sama",
+          "regions": [
+            "rural Japan (canonical story setting)"
+          ]
+        },
+        {
+          "id": "headless-horseman",
+          "name": "Headless Horseman",
+          "regions": [
+            "Sleepy Hollow / Tarrytown, New York",
+            "Isle of Mull, Scotland",
+            "Cape Breton, Nova Scotia",
+            "Rhineland, Germany",
+            "Wales (multiple)",
+            "Dartmoor, England",
+            "South Texas (El Muerto)"
+          ]
+        },
+        {
+          "id": "hungry-ghost",
+          "name": "Hungry ghost",
+          "regions": [
+            "South Asia",
+            "East Asia",
+            "Southeast Asia",
+            "Tibetan plateau",
+            "Sinosphere",
+            "Theravāda Buddhist countries"
+          ]
+        },
+        {
+          "id": "jumbie",
+          "name": "Jumbie",
+          "regions": [
+            "English-speaking Caribbean broadly",
+            "Guyana",
+            "Trinidad",
+            "Antigua",
+            "The Bahamas",
+            "US Virgin Islands",
+            "British Virgin Islands"
+          ]
+        },
+        {
+          "id": "la-llorona",
+          "name": "La Llorona",
+          "regions": [
+            "Central Mexico",
+            "U.S.-Mexico border",
+            "Southwestern United States",
+            "Central America",
+            "Andean South America",
+            "Río de la Plata"
+          ]
+        },
+        {
+          "id": "mae-nak",
+          "name": "Mae Nak Phra Khanong",
+          "regions": [
+            "Bangkok",
+            "Phra Khanong",
+            "Suan Luang"
+          ]
+        },
+        {
+          "id": "nightmarchers",
+          "name": "Night Marchers",
+          "regions": [
+            "Hawaiian Islands"
+          ]
+        },
+        {
+          "id": "phantom-armies",
+          "name": "Phantom Armies",
+          "regions": [
+            "Britain",
+            "Crete",
+            "Pennsylvania (Gettysburg)",
+            "Northern France (Western Front)",
+            "Scottish Highlands"
+          ]
+        },
+        {
+          "id": "phantom-ships",
+          "name": "Phantom Ships",
+          "regions": [
+            "Cape of Good Hope",
+            "North Atlantic",
+            "Indian Ocean",
+            "Pacific Ocean"
+          ]
+        },
+        {
+          "id": "phi-am",
+          "name": "Phi Am",
+          "regions": [
+            "Mainland Southeast Asia"
+          ]
+        },
+        {
+          "id": "phi-tai-hong",
+          "name": "Phi Tai Hong",
+          "regions": [
+            "Mainland Southeast Asia"
+          ]
+        },
+        {
+          "id": "poltergeist",
+          "name": "Poltergeist",
+          "regions": [
+            "Western and Central Europe",
+            "Anglophone North America",
+            "Brazil"
+          ]
+        },
+        {
+          "id": "resurrection-mary",
+          "name": "Resurrection Mary",
+          "regions": [
+            "Cook County, Illinois",
+            "Chicago metropolitan area",
+            "Archer Avenue corridor"
+          ]
+        },
+        {
+          "id": "screaming-skull",
+          "name": "Screaming Skull",
+          "regions": [
+            "Dorset",
+            "Derbyshire",
+            "East Yorkshire",
+            "Greater Manchester",
+            "Somerset",
+            "Cumbria",
+            "East Sussex"
+          ]
+        },
+        {
+          "id": "siguanaba",
+          "name": "La Siguanaba",
+          "regions": [
+            "Cuscatlán (El Salvador)",
+            "Pacific Guatemala",
+            "rural Honduras",
+            "rural Nicaragua",
+            "Costa Rican countryside"
+          ]
+        },
+        {
+          "id": "sundel-bolong",
+          "name": "Sundel Bolong",
+          "regions": [
+            "Java",
+            "Sumatra",
+            "Kalimantan",
+            "Indonesian archipelago broadly"
+          ]
+        },
+        {
+          "id": "teke-teke",
+          "name": "Teke Teke",
+          "regions": [
+            "Hokkaidō (Kashima Reiko origin)",
+            "Honshū",
+            "Japanese urban areas generally"
+          ]
+        },
+        {
+          "id": "wewe-gombel",
+          "name": "Wewe Gombel",
+          "regions": [
+            "Central Java",
+            "Semarang",
+            "East Java (broader Javanese cultural area)"
+          ]
+        },
+        {
+          "id": "white-lady",
+          "name": "White Lady",
+          "regions": [
+            "Bohemia",
+            "Brandenburg",
+            "English country houses",
+            "Welsh borderlands",
+            "Low Saxon Netherlands",
+            "Northeastern United States",
+            "Quezon City, Metro Manila"
+          ]
+        }
+      ]
+    },
+    "ufo_uap": {
+      "name": "ufo_uap",
+      "count": 12,
+      "phenomena": [
+        {
+          "id": "aliens",
+          "name": "UFOs / UAPs and Alien Encounters",
+          "regions": [
+            "American Southwest (New Mexico, Arizona, Nevada)",
+            "Pacific Northwest",
+            "Hessdalen, Norway",
+            "Belgian airspace (Belgian wave)",
+            "Brazilian Amazon and São Paulo state"
+          ]
+        },
+        {
+          "id": "cash-landrum-incident",
+          "name": "Cash–Landrum incident",
+          "regions": [
+            "Texas",
+            "Greater Houston"
+          ]
+        },
+        {
+          "id": "flatwoods-monster",
+          "name": "Flatwoods Monster",
+          "regions": [
+            "Braxton County, West Virginia",
+            "Central Appalachia"
+          ]
+        },
+        {
+          "id": "foo-fighters",
+          "name": "Foo Fighters",
+          "regions": [
+            "Western Front airspace (Alsace, Rhineland, Hungary)",
+            "Mediterranean Theater",
+            "Pacific Theater (Marianas, Japanese home islands)"
+          ]
+        },
+        {
+          "id": "greys",
+          "name": "Grey Aliens (Greys)",
+          "regions": [
+            "northeastern United States",
+            "American Southwest",
+            "rural Britain",
+            "Australian outback"
+          ]
+        },
+        {
+          "id": "hopkinsville-goblins",
+          "name": "Hopkinsville Goblins",
+          "regions": [
+            "Kentucky",
+            "Christian County",
+            "Kelly",
+            "Hopkinsville"
+          ]
+        },
+        {
+          "id": "kecksburg-incident",
+          "name": "Kecksburg UFO Incident",
+          "regions": [
+            "Western Pennsylvania",
+            "Westmoreland County",
+            "Ohio",
+            "Michigan",
+            "Ontario"
+          ]
+        },
+        {
+          "id": "men-in-black",
+          "name": "Men in Black",
+          "regions": [
+            "New England",
+            "American Midwest and Mid-Atlantic",
+            "Pacific Northwest"
+          ]
+        },
+        {
+          "id": "mystery-airships",
+          "name": "Mystery Airships (1896-1897)",
+          "regions": [
+            "California",
+            "Pacific Northwest",
+            "Midwest",
+            "Texas",
+            "Kansas",
+            "Nebraska",
+            "Michigan"
+          ]
+        },
+        {
+          "id": "phoenix-lights",
+          "name": "Phoenix Lights",
+          "regions": [
+            "Arizona",
+            "Nevada",
+            "Sonoran Desert"
+          ]
+        },
+        {
+          "id": "rendlesham-forest",
+          "name": "Rendlesham Forest Incident",
+          "regions": [
+            "Suffolk",
+            "East Anglia"
+          ]
+        },
+        {
+          "id": "roswell-incident",
+          "name": "Roswell Incident",
+          "regions": [
+            "New Mexico",
+            "Lincoln County",
+            "Chaves County"
+          ]
+        }
+      ]
+    },
+    "fae_folklore": {
+      "name": "fae_folklore",
+      "count": 29,
+      "phenomena": [
+        {
+          "id": "alux",
+          "name": "Alux",
+          "regions": [
+            "Yucatán Peninsula",
+            "Quintana Roo",
+            "Campeche",
+            "Petén"
+          ]
+        },
+        {
+          "id": "aos-si",
+          "name": "Aos Sí",
+          "regions": [
+            "Ireland (especially the west: Connacht, Kerry, Donegal)",
+            "Scottish Highlands and Hebrides",
+            "Isle of Man",
+            "Irish and Scottish diaspora communities"
+          ]
+        },
+        {
+          "id": "baba-yaga",
+          "name": "Baba Yaga",
+          "regions": [
+            "East Slavic forests",
+            "West Slavic lands",
+            "South Slavic Balkans"
+          ]
+        },
+        {
+          "id": "brownie",
+          "name": "Brownie",
+          "regions": [
+            "Scottish Lowlands",
+            "Scottish Borders",
+            "Scottish Highlands",
+            "Northern England (Yorkshire, Northumberland, Lancashire)",
+            "Wales",
+            "Isle of Man"
+          ]
+        },
+        {
+          "id": "changeling",
+          "name": "Changeling",
+          "regions": [
+            "British Isles",
+            "Scandinavia",
+            "German-speaking central Europe"
+          ]
+        },
+        {
+          "id": "clurichaun",
+          "name": "Clurichaun",
+          "regions": [
+            "Munster",
+            "Leinster",
+            "Ulster",
+            "Connacht",
+            "Tipperary",
+            "Cork",
+            "Waterford",
+            "Kildare",
+            "Donegal"
+          ]
+        },
+        {
+          "id": "cu-sith",
+          "name": "Cù Sìth",
+          "regions": [
+            "Scottish Highlands",
+            "Hebrides",
+            "Argyll",
+            "Isle of Skye"
+          ]
+        },
+        {
+          "id": "dames-blanches",
+          "name": "Dames Blanches",
+          "regions": [
+            "Lorraine",
+            "Normandy",
+            "Brittany",
+            "Pyrenees",
+            "Wallonia"
+          ]
+        },
+        {
+          "id": "domovoi",
+          "name": "Domovoy",
+          "regions": [
+            "East Slavic lands",
+            "West Slavic lands",
+            "South Slavic lands"
+          ]
+        },
+        {
+          "id": "duende",
+          "name": "Duende",
+          "regions": [
+            "Cantabria and Asturias",
+            "Galicia",
+            "Andalusia",
+            "Yucatán Peninsula",
+            "Oaxaca cloud forests",
+            "Belizean Cayo and Toledo districts",
+            "Andean cloud forests",
+            "Philippine archipelago"
+          ]
+        },
+        {
+          "id": "erlking",
+          "name": "Erlking",
+          "regions": [
+            "Scandinavia",
+            "German-speaking Europe"
+          ]
+        },
+        {
+          "id": "fairies",
+          "name": "Fairies / Fae Folk",
+          "regions": [
+            "Ireland",
+            "Highlands and Islands of Scotland",
+            "Wales",
+            "Cornwall",
+            "Isle of Man",
+            "Brittany",
+            "Iceland",
+            "Newfoundland",
+            "Appalachia"
+          ]
+        },
+        {
+          "id": "goblin",
+          "name": "Goblin",
+          "regions": [
+            "Yorkshire, England",
+            "Anglo-Scottish border",
+            "Normandy, France",
+            "Wales",
+            "Ireland",
+            "Évreux, France"
+          ]
+        },
+        {
+          "id": "gremlin",
+          "name": "Gremlin",
+          "regions": [
+            "Royal Air Force",
+            "Allied air forces of WWII",
+            "anglophone popular culture"
+          ]
+        },
+        {
+          "id": "hobgoblin",
+          "name": "Hobgoblin",
+          "regions": [
+            "England (especially the North and Midlands)",
+            "Scotland",
+            "Wales",
+            "Isle of Man"
+          ]
+        },
+        {
+          "id": "huldre",
+          "name": "Hulder",
+          "regions": [
+            "Norway",
+            "Sweden",
+            "Sápmi",
+            "Karlsøya (Hulderheim)",
+            "Hinnøya (Hulderhusan)",
+            "Djursland, Denmark (Huldremose bog)"
+          ]
+        },
+        {
+          "id": "kikimora",
+          "name": "Kikimora",
+          "regions": [
+            "European Russia",
+            "Northern Russia",
+            "Belarus",
+            "Polesia"
+          ]
+        },
+        {
+          "id": "knocker",
+          "name": "Knocker",
+          "regions": [
+            "Cornwall",
+            "Devon",
+            "Wales",
+            "Western Pennsylvania",
+            "Colorado Front Range",
+            "Comstock Lode (Nevada)",
+            "California Mother Lode",
+            "Upper Peninsula of Michigan"
+          ]
+        },
+        {
+          "id": "leprechaun",
+          "name": "Leprechaun",
+          "regions": [
+            "Ulster",
+            "Munster",
+            "Leinster",
+            "Connacht"
+          ]
+        },
+        {
+          "id": "menehune",
+          "name": "Menehune",
+          "regions": [
+            "Hawaiian archipelago",
+            "Kauaʻi",
+            "Oʻahu",
+            "Hawaiʻi (Big Island)"
+          ]
+        },
+        {
+          "id": "nix",
+          "name": "Nix",
+          "regions": [
+            "Germanic Europe",
+            "Scandinavia",
+            "Baltic"
+          ]
+        },
+        {
+          "id": "patupaiarehe",
+          "name": "Patupaiarehe",
+          "regions": [
+            "Aotearoa / New Zealand",
+            "North Island",
+            "South Island",
+            "Waikato",
+            "Coromandel",
+            "Te Urewera",
+            "Whanganui",
+            "Banks Peninsula",
+            "Fiordland and Takitimu Mountains"
+          ]
+        },
+        {
+          "id": "peri",
+          "name": "Peri",
+          "regions": [
+            "Iranian Plateau",
+            "Caucasus",
+            "Anatolia",
+            "Central Asia",
+            "Hindu Kush",
+            "South Asia"
+          ]
+        },
+        {
+          "id": "puca",
+          "name": "Púca",
+          "regions": [
+            "Ireland",
+            "Wales",
+            "Cornwall",
+            "Isle of Man",
+            "Scottish Highlands"
+          ]
+        },
+        {
+          "id": "redcap",
+          "name": "Redcap",
+          "regions": [
+            "Scottish Borders",
+            "Northumberland",
+            "Cumbria",
+            "Liddesdale",
+            "Tweeddale"
+          ]
+        },
+        {
+          "id": "tommyknockers",
+          "name": "Tommyknockers",
+          "regions": [
+            "Cornwall",
+            "Devon",
+            "Wales",
+            "Pennsylvania anthracite region",
+            "Colorado",
+            "Nevada",
+            "California",
+            "Michigan Upper Peninsula"
+          ]
+        },
+        {
+          "id": "trolls",
+          "name": "Trolls",
+          "regions": [
+            "Norwegian mountain regions",
+            "Swedish forests",
+            "Danish lowlands",
+            "Icelandic highlands",
+            "Orkney and Shetland (trow tradition)"
+          ]
+        },
+        {
+          "id": "tylwyth-teg",
+          "name": "Tylwyth Teg",
+          "regions": [
+            "Wales",
+            "Snowdonia / Eryri",
+            "South Wales",
+            "Glamorgan",
+            "Carmarthenshire",
+            "Pembrokeshire",
+            "Welsh Marches"
+          ]
+        },
+        {
+          "id": "vila",
+          "name": "Vila",
+          "regions": [
+            "Balkans",
+            "South Slavic lands",
+            "Central Europe"
+          ]
+        }
+      ]
+    },
+    "cultural_artifact": {
+      "name": "cultural_artifact",
+      "count": 6,
+      "phenomena": [
+        {
+          "id": "antikythera-mechanism",
+          "name": "Antikythera Mechanism",
+          "regions": [
+            "Antikythera",
+            "Athens"
+          ]
+        },
+        {
+          "id": "crystal-skulls",
+          "name": "Crystal Skulls",
+          "regions": [
+            "London",
+            "Washington D.C.",
+            "Paris",
+            "Mesoamerican antiquities trade"
+          ]
+        },
+        {
+          "id": "mothman-prophecies",
+          "name": "The Mothman Prophecies",
+          "regions": [
+            "Point Pleasant, West Virginia (subject matter)",
+            "American paranormal publishing"
+          ]
+        },
+        {
+          "id": "nazca-lines",
+          "name": "Nazca Lines",
+          "regions": [
+            "Ica Region",
+            "Nazca Province",
+            "Palpa Province",
+            "Pampas de Jumana"
+          ]
+        },
+        {
+          "id": "piri-reis-map",
+          "name": "Piri Reis Map",
+          "regions": [
+            "Istanbul"
+          ]
+        },
+        {
+          "id": "voynich-manuscript",
+          "name": "Voynich Manuscript",
+          "regions": [
+            "New Haven, Connecticut (current location)",
+            "Prague (Rudolfine and post-Rudolfine ownership)",
+            "Frascati / Villa Mondragone (Jesuit ownership)"
+          ]
+        }
+      ]
+    },
+    "location": {
+      "name": "location",
+      "count": 22,
+      "phenomena": [
+        {
+          "id": "aokigahara",
+          "name": "Aokigahara",
+          "regions": [
+            "Yamanashi Prefecture",
+            "Fuji Five Lakes region"
+          ]
+        },
+        {
+          "id": "area-51",
+          "name": "Area 51",
+          "regions": [
+            "Nevada",
+            "Lincoln County",
+            "Mojave / Great Basin desert"
+          ]
+        },
+        {
+          "id": "bennington-triangle",
+          "name": "Bennington Triangle",
+          "regions": [
+            "Southwestern Vermont",
+            "Glastenbury Mountain area",
+            "Bennington County, Vermont"
+          ]
+        },
+        {
+          "id": "bridgewater-triangle",
+          "name": "Bridgewater Triangle",
+          "regions": [
+            "Massachusetts",
+            "Bristol County",
+            "Plymouth County",
+            "New England"
+          ]
+        },
+        {
+          "id": "dyatlov-pass",
+          "name": "Dyatlov Pass Incident",
+          "regions": [
+            "Northern Ural Mountains",
+            "Sverdlovsk Oblast",
+            "Mansi territory"
+          ]
+        },
+        {
+          "id": "easter-island",
+          "name": "Easter Island",
+          "regions": [
+            "Polynesia (eastern)",
+            "Valparaíso Region",
+            "Hanga Roa (capital)"
+          ]
+        },
+        {
+          "id": "eilean-mor-lighthouse",
+          "name": "Eilean Mòr Lighthouse Mystery",
+          "regions": [
+            "Scotland",
+            "Outer Hebrides",
+            "Flannan Isles",
+            "Western Isles"
+          ]
+        },
+        {
+          "id": "gettysburg-battlefield",
+          "name": "Gettysburg Battlefield",
+          "regions": [
+            "Pennsylvania",
+            "Adams County",
+            "Mid-Atlantic"
+          ]
+        },
+        {
+          "id": "glastonbury-tor",
+          "name": "Glastonbury Tor",
+          "regions": [
+            "Somerset",
+            "South West England"
+          ]
+        },
+        {
+          "id": "haunted-places",
+          "name": "Haunted Places",
+          "regions": []
+        },
+        {
+          "id": "helltown-ohio",
+          "name": "Helltown, Ohio",
+          "regions": [
+            "Ohio",
+            "Summit County",
+            "Cuyahoga Valley"
+          ]
+        },
+        {
+          "id": "hoia-baciu-forest",
+          "name": "Hoia-Baciu Forest",
+          "regions": [
+            "Transylvania",
+            "Cluj County",
+            "Cluj-Napoca"
+          ]
+        },
+        {
+          "id": "mount-shasta",
+          "name": "Mount Shasta",
+          "regions": [
+            "Northern California",
+            "Cascade Range",
+            "Siskiyou County",
+            "Shasta-Trinity National Forest"
+          ]
+        },
+        {
+          "id": "oak-island",
+          "name": "Oak Island Money Pit",
+          "regions": [
+            "Mahone Bay",
+            "Lunenburg County",
+            "Nova Scotia"
+          ]
+        },
+        {
+          "id": "roanoke-colony",
+          "name": "Roanoke Colony",
+          "regions": [
+            "Roanoke Island, North Carolina",
+            "Hatteras Island, North Carolina",
+            "Dare County, North Carolina"
+          ]
+        },
+        {
+          "id": "sedona-vortexes",
+          "name": "Sedona Vortexes",
+          "regions": [
+            "Sedona, Arizona",
+            "Verde Valley",
+            "Coconino and Yavapai Counties, Arizona"
+          ]
+        },
+        {
+          "id": "skinwalker-ranch",
+          "name": "Skinwalker Ranch",
+          "regions": [
+            "Uintah County, Utah",
+            "Uintah Basin"
+          ]
+        },
+        {
+          "id": "stonehenge",
+          "name": "Stonehenge",
+          "regions": [
+            "Wiltshire",
+            "Salisbury Plain",
+            "South West England"
+          ]
+        },
+        {
+          "id": "superstition-mountains",
+          "name": "Superstition Mountains",
+          "regions": [
+            "Arizona",
+            "Sonoran Desert",
+            "Basin and Range Province"
+          ]
+        },
+        {
+          "id": "teotihuacan",
+          "name": "Teotihuacan",
+          "regions": [
+            "Valley of Mexico",
+            "State of Mexico (municipio de San Juan Teotihuacan)"
+          ]
+        },
+        {
+          "id": "tower-of-london",
+          "name": "Tower of London",
+          "regions": [
+            "England",
+            "Greater London"
+          ]
+        },
+        {
+          "id": "waverly-hills",
+          "name": "Waverly Hills Sanatorium",
+          "regions": [
+            "Louisville, Kentucky",
+            "Jefferson County, Kentucky"
+          ]
+        }
+      ]
+    },
+    "demon_angel": {
+      "name": "demon_angel",
+      "count": 21,
+      "phenomena": [
+        {
+          "id": "asmodeus",
+          "name": "Asmodeus",
+          "regions": [
+            "Ancient Near East",
+            "Mesopotamia / Babylonia (Talmudic context)",
+            "Levant",
+            "Iranian world (Avestan source)",
+            "Christian Europe (medieval and early-modern grimoiric tradition)",
+            "Islamic world (Sakhr tradition)"
+          ]
+        },
+        {
+          "id": "astaroth",
+          "name": "Astaroth",
+          "regions": [
+            "Levant (origin of the goddess Astarte)",
+            "Christian Europe (medieval and early-modern grimoiric tradition)"
+          ]
+        },
+        {
+          "id": "azazel",
+          "name": "Azazel",
+          "regions": [
+            "Ancient Israel and Judah",
+            "Hellenistic Levant",
+            "Roman-era Judaea",
+            "Mesopotamia (Mandaean communities)",
+            "Christian Mediterranean",
+            "Medieval Islamic world"
+          ]
+        },
+        {
+          "id": "beelzebub",
+          "name": "Beelzebub",
+          "regions": [
+            "Philistia / Ekron (origin)",
+            "Mediterranean",
+            "Christendom",
+            "Dar al-Islam"
+          ]
+        },
+        {
+          "id": "belial",
+          "name": "Belial",
+          "regions": [
+            "Southern Levant (origin)",
+            "Qumran community",
+            "Christendom",
+            "Western esoteric tradition"
+          ]
+        },
+        {
+          "id": "belphegor",
+          "name": "Belphegor",
+          "regions": [
+            "Moab (origin)",
+            "Latin Christendom",
+            "Western esoteric tradition"
+          ]
+        },
+        {
+          "id": "demons",
+          "name": "Demons",
+          "regions": [
+            "Mesopotamia",
+            "Levant",
+            "Iran",
+            "Greco-Roman world",
+            "Latin Christendom",
+            "Islamic world",
+            "South Asia",
+            "East Asia"
+          ]
+        },
+        {
+          "id": "div",
+          "name": "Div",
+          "regions": [
+            "Greater Iran",
+            "Mazandaran",
+            "Caucasus",
+            "Central Asia",
+            "Persianate South Asia"
+          ]
+        },
+        {
+          "id": "drude",
+          "name": "Drude",
+          "regions": [
+            "Bavaria",
+            "Tyrol",
+            "Southern Germany",
+            "Austria"
+          ]
+        },
+        {
+          "id": "empusa",
+          "name": "Empusa",
+          "regions": [
+            "Attica",
+            "Hellenistic eastern Mediterranean"
+          ]
+        },
+        {
+          "id": "gello",
+          "name": "Gello",
+          "regions": [
+            "Aegean",
+            "Anatolia",
+            "Levant",
+            "Balkans",
+            "North Africa"
+          ]
+        },
+        {
+          "id": "imp",
+          "name": "Imp",
+          "regions": [
+            "Lincolnshire, England (Lincoln Imp)",
+            "German-speaking Central Europe"
+          ]
+        },
+        {
+          "id": "mahaha",
+          "name": "Mahaha",
+          "regions": [
+            "Canadian Arctic",
+            "Inuit Nunangat",
+            "Nunavut"
+          ]
+        },
+        {
+          "id": "mahr",
+          "name": "Mahr",
+          "regions": [
+            "Germanic-speaking Central Europe",
+            "Scandinavia",
+            "Slavic Eastern Europe",
+            "British Isles (Old English mære tradition)"
+          ]
+        },
+        {
+          "id": "mammon",
+          "name": "Mammon",
+          "regions": [
+            "Christian world",
+            "Western literary tradition"
+          ]
+        },
+        {
+          "id": "oni",
+          "name": "Oni",
+          "regions": [
+            "Mount Ōe (Tango Province, modern Kyoto Prefecture) — Shuten-dōji legend",
+            "Oga Peninsula, Akita Prefecture — Namahage",
+            "Mount Iozan / Beppu — onsen demon imagery",
+            "Tokyo (Sensō-ji) — onigawara roof tiles"
+          ]
+        },
+        {
+          "id": "popobawa",
+          "name": "Popobawa",
+          "regions": [
+            "Zanzibar",
+            "Pemba Island",
+            "Unguja",
+            "Dar es Salaam",
+            "Swahili Coast"
+          ]
+        },
+        {
+          "id": "qarqash",
+          "name": "Qarqash",
+          "regions": [
+            "Arabian Peninsula",
+            "Nejd",
+            "Hejaz",
+            "Gulf region"
+          ]
+        },
+        {
+          "id": "shuten-doji",
+          "name": "Shuten-dōji",
+          "regions": [
+            "Tango Province (Kyoto Prefecture)",
+            "Tamba Province",
+            "Ōmi Province",
+            "Mino Province"
+          ]
+        },
+        {
+          "id": "succubus-incubus",
+          "name": "Succubus / Incubus",
+          "regions": [
+            "Western Europe (medieval demonological tradition)",
+            "Central Europe (Alp tradition)",
+            "Scandinavia (Mara tradition)",
+            "Near East (Lilith tradition)",
+            "West Africa (incubus analogues)"
+          ]
+        },
+        {
+          "id": "supay",
+          "name": "Supay",
+          "regions": [
+            "Bolivian Altiplano",
+            "Peruvian Andes",
+            "Lake Titicaca region",
+            "Oruro, Bolivia (Carnaval de Oruro)",
+            "Andean mining communities broadly"
+          ]
+        }
+      ]
+    },
+    "shapeshifter": {
+      "name": "shapeshifter",
+      "count": 18,
+      "phenomena": [
+        {
+          "id": "aswang",
+          "name": "Aswang",
+          "regions": [
+            "Visayas",
+            "Capiz Province (Panay Island)",
+            "Southern Luzon",
+            "Bicol region",
+            "Mindanao"
+          ]
+        },
+        {
+          "id": "boto-cor-de-rosa",
+          "name": "Boto Cor-de-Rosa",
+          "regions": [
+            "Amazon Basin",
+            "Orinoco Basin",
+            "Amazonas (Brazil)",
+            "Pará (Brazil)",
+            "Loreto (Peru)",
+            "Amazonas (Colombia)"
+          ]
+        },
+        {
+          "id": "encantado",
+          "name": "Encantado",
+          "regions": [
+            "Amazon basin",
+            "Solimões–Amazon corridor",
+            "Rio Negro",
+            "Marajó region"
+          ]
+        },
+        {
+          "id": "fox-sister",
+          "name": "Fox Sister (여우 누이)",
+          "regions": [
+            "Korean peninsula",
+            "Korean diaspora communities"
+          ]
+        },
+        {
+          "id": "gumiho",
+          "name": "Gumiho",
+          "regions": [
+            "Korean Peninsula"
+          ]
+        },
+        {
+          "id": "huli-jing",
+          "name": "Huli jing",
+          "regions": [
+            "Northern China",
+            "Hebei",
+            "Shandong",
+            "Shanxi",
+            "Manchuria",
+            "East Asia",
+            "Sinosphere"
+          ]
+        },
+        {
+          "id": "jorogumo",
+          "name": "Jorōgumo",
+          "regions": [
+            "Izu Peninsula",
+            "Tōhoku",
+            "Kansai",
+            "Kii Peninsula"
+          ]
+        },
+        {
+          "id": "kelpie",
+          "name": "Kelpie",
+          "regions": [
+            "Scottish Highlands",
+            "Scottish Lowlands",
+            "Hebrides",
+            "Orkney",
+            "Shetland",
+            "Wales",
+            "Ireland",
+            "Isle of Man"
+          ]
+        },
+        {
+          "id": "kitsune",
+          "name": "Kitsune",
+          "regions": [
+            "Kansai region (Kyoto)",
+            "Tohoku region",
+            "Japan generally"
+          ]
+        },
+        {
+          "id": "lagahoo",
+          "name": "Lagahoo",
+          "regions": [
+            "Trinidad",
+            "Tobago",
+            "wider French-Creole Caribbean"
+          ]
+        },
+        {
+          "id": "loup-garou",
+          "name": "Loup-Garou",
+          "regions": [
+            "Continental France",
+            "Quebec",
+            "Acadia / Maritimes",
+            "Louisiana (Acadiana, Greater New Orleans)",
+            "Haiti",
+            "Caribbean Creole world",
+            "Great Lakes (Métis, Ojibwe)"
+          ]
+        },
+        {
+          "id": "manananggal",
+          "name": "Manananggal",
+          "regions": [
+            "Visayas",
+            "Capiz",
+            "Iloilo",
+            "Antique",
+            "Bohol"
+          ]
+        },
+        {
+          "id": "nine-tailed-fox",
+          "name": "Nine-Tailed Fox",
+          "regions": [
+            "East Asia",
+            "Sinosphere"
+          ]
+        },
+        {
+          "id": "selkie",
+          "name": "Selkie",
+          "regions": [
+            "Orkney",
+            "Shetland",
+            "Outer Hebrides",
+            "North-west Ireland",
+            "Kalsoy (Faroe Islands)",
+            "Western Iceland"
+          ]
+        },
+        {
+          "id": "skinwalkers",
+          "name": "Skinwalker (Yee Naaldlooshii)",
+          "regions": [
+            "Navajo Nation",
+            "Arizona",
+            "New Mexico",
+            "Utah",
+            "Colorado",
+            "Four Corners region"
+          ]
+        },
+        {
+          "id": "tamamo-no-mae",
+          "name": "Tamamo-no-Mae",
+          "regions": [
+            "Kantō",
+            "Tochigi prefecture",
+            "Nasu plain"
+          ]
+        },
+        {
+          "id": "wendigo-cree",
+          "name": "Wendigo (Cree)",
+          "regions": [
+            "Northern Ontario",
+            "Northern Manitoba",
+            "Northern Quebec",
+            "Northern Alberta (Swift Runner case)",
+            "Wisconsin and Minnesota (Ojibwe/Saulteaux territory)",
+            "Labrador and Quebec (Innu/Naskapi territory)",
+            "Boreal forest regions of Canada generally"
+          ]
+        },
+        {
+          "id": "werewolves",
+          "name": "Werewolf",
+          "regions": [
+            "Holy Roman Empire",
+            "Electorate of Cologne",
+            "France (Burgundy, Auvergne)",
+            "Balkans",
+            "Transdanubia",
+            "Styria and Carinthia",
+            "Louisiana",
+            "French Canada"
+          ]
+        }
+      ]
+    },
+    "atmospheric_phenomenon": {
+      "name": "atmospheric_phenomenon",
+      "count": 14,
+      "phenomena": [
+        {
+          "id": "aurora-phenomena",
+          "name": "Aurora Phenomena (Northern and Southern Lights Folklore)",
+          "regions": [
+            "Arctic Circle",
+            "Northern Scandinavia (Lapland)",
+            "Northern Canada",
+            "Alaska",
+            "Siberia",
+            "Antarctica",
+            "Southern Ocean regions"
+          ]
+        },
+        {
+          "id": "ball-lightning",
+          "name": "Ball Lightning",
+          "regions": [
+            "Temperate regions with frequent thunderstorms",
+            "Coastal storm regions"
+          ]
+        },
+        {
+          "id": "brown-mountain-lights",
+          "name": "Brown Mountain Lights",
+          "regions": [
+            "North Carolina",
+            "Burke County",
+            "Blue Ridge Mountains",
+            "Pisgah National Forest"
+          ]
+        },
+        {
+          "id": "corpse-candle",
+          "name": "Corpse Candle",
+          "regions": [
+            "South Wales",
+            "Mid Wales",
+            "Carmarthenshire",
+            "Pembrokeshire",
+            "Glamorgan",
+            "Monmouthshire",
+            "Welsh Marches"
+          ]
+        },
+        {
+          "id": "earthquake-lights",
+          "name": "Earthquake Lights",
+          "regions": [
+            "Pacific Ring of Fire",
+            "Mediterranean–Himalayan belt",
+            "Andean subduction zone",
+            "East African Rift"
+          ]
+        },
+        {
+          "id": "hessdalen-lights",
+          "name": "Hessdalen Lights",
+          "regions": [
+            "Sør-Trøndelag",
+            "Holtålen",
+            "Hessdalen valley"
+          ]
+        },
+        {
+          "id": "marfa-lights",
+          "name": "Marfa Lights",
+          "regions": [
+            "Texas",
+            "Trans-Pecos",
+            "Presidio County"
+          ]
+        },
+        {
+          "id": "min-min-lights",
+          "name": "Min Min Light",
+          "regions": [
+            "Channel Country (western Queensland)",
+            "Outback Queensland",
+            "Western New South Wales",
+            "South Australia",
+            "Pilbara, Western Australia"
+          ]
+        },
+        {
+          "id": "paulding-light",
+          "name": "Paulding Light",
+          "regions": [
+            "Upper Peninsula of Michigan",
+            "Ontonagon County"
+          ]
+        },
+        {
+          "id": "seneca-guns",
+          "name": "Seneca Guns",
+          "regions": [
+            "Finger Lakes (New York)",
+            "Outer Banks",
+            "North Carolina coast",
+            "Bay of Fundy",
+            "Bay of Bengal",
+            "Coastal Japan"
+          ]
+        },
+        {
+          "id": "skyquakes",
+          "name": "Skyquakes",
+          "regions": [
+            "North Sea coast",
+            "Ganges Delta",
+            "Finger Lakes (New York)",
+            "Carolina coast (USA)",
+            "Bay of Fundy",
+            "Lough Neagh",
+            "Coastal Japan"
+          ]
+        },
+        {
+          "id": "st-elmos-fire",
+          "name": "St. Elmo's Fire",
+          "regions": []
+        },
+        {
+          "id": "taos-hum",
+          "name": "The Taos Hum",
+          "regions": [
+            "New Mexico",
+            "Northern New Mexico"
+          ]
+        },
+        {
+          "id": "will-o-wisp",
+          "name": "Will-o'-the-Wisp",
+          "regions": [
+            "English Fens",
+            "Welsh marshes",
+            "Irish bogs",
+            "Louisiana bayous",
+            "Florida Everglades",
+            "Banni grasslands (Kutch, India)",
+            "West Bengal river deltas",
+            "Australian outback"
+          ]
+        }
+      ]
+    },
+    "psychic_phenomena": {
+      "name": "psychic_phenomena",
+      "count": 14,
+      "phenomena": [
+        {
+          "id": "automatic-writing",
+          "name": "Automatic Writing",
+          "regions": [
+            "Global"
+          ]
+        },
+        {
+          "id": "bilocation",
+          "name": "Bilocation",
+          "regions": [
+            "Mediterranean Catholicism",
+            "Iberian and Ibero-American Catholicism",
+            "South Asian yogic traditions",
+            "Northern European folkloric traditions"
+          ]
+        },
+        {
+          "id": "crisis-apparition",
+          "name": "Crisis Apparition",
+          "regions": []
+        },
+        {
+          "id": "electronic-voice-phenomena",
+          "name": "Electronic Voice Phenomena (EVP)",
+          "regions": [
+            "Western Europe",
+            "North America"
+          ]
+        },
+        {
+          "id": "exorcism",
+          "name": "Exorcism",
+          "regions": [
+            "Roman Catholic world",
+            "Protestant evangelical world",
+            "Sunni and Shia Islam",
+            "Orthodox Judaism (Kabbalistic)",
+            "Hindu South Asia",
+            "Tibetan Buddhist world"
+          ]
+        },
+        {
+          "id": "mandela-effect",
+          "name": "Mandela Effect",
+          "regions": [
+            "Internet-mediated cultural sphere"
+          ]
+        },
+        {
+          "id": "near-death-experiences",
+          "name": "Near-Death Experiences",
+          "regions": []
+        },
+        {
+          "id": "out-of-body-experiences",
+          "name": "Out-of-Body Experiences",
+          "regions": []
+        },
+        {
+          "id": "possession",
+          "name": "Possession",
+          "regions": [
+            "Pacific (highest documented prevalence)",
+            "Sub-Saharan Africa",
+            "South Asia",
+            "Middle East and North Africa",
+            "Latin America and the Caribbean",
+            "Europe (historical Christian cases)"
+          ]
+        },
+        {
+          "id": "precognition",
+          "name": "Precognition",
+          "regions": []
+        },
+        {
+          "id": "psychic-phenomena",
+          "name": "Psychic Phenomena",
+          "regions": []
+        },
+        {
+          "id": "psychometry",
+          "name": "Psychometry",
+          "regions": []
+        },
+        {
+          "id": "remote-viewing",
+          "name": "Remote Viewing",
+          "regions": [
+            "California (SRI International, Menlo Park)",
+            "Maryland (Fort Meade, U.S. Army INSCOM)",
+            "Princeton, New Jersey (PEAR lab)"
+          ]
+        },
+        {
+          "id": "telepathy",
+          "name": "Telepathy",
+          "regions": [
+            "United Kingdom",
+            "United States",
+            "Russia",
+            "France",
+            "Germany",
+            "Netherlands",
+            "Japan"
+          ]
+        }
+      ]
+    },
+    "urban_legend": {
+      "name": "urban_legend",
+      "count": 32,
+      "phenomena": [
+        {
+          "id": "backrooms",
+          "name": "The Backrooms",
+          "regions": [
+            "Anglophone internet; English-language imageboard and wiki communities"
+          ]
+        },
+        {
+          "id": "ben-drowned",
+          "name": "BEN Drowned",
+          "regions": [
+            "Anglophone internet horror community"
+          ]
+        },
+        {
+          "id": "bunny-man",
+          "name": "The Bunny Man",
+          "regions": [
+            "Virginia",
+            "Fairfax County",
+            "Northern Virginia"
+          ]
+        },
+        {
+          "id": "candle-cove",
+          "name": "Candle Cove",
+          "regions": [
+            "Internet (global)",
+            "Ohio River Valley (in-fiction setting)"
+          ]
+        },
+        {
+          "id": "charlie-no-face",
+          "name": "Charlie No-Face",
+          "regions": [
+            "Beaver County, PA",
+            "Butler County, PA",
+            "Allegheny County, PA",
+            "Greater Pittsburgh"
+          ]
+        },
+        {
+          "id": "cropsey",
+          "name": "Cropsey",
+          "regions": [
+            "Staten Island, New York",
+            "Upstate New York",
+            "New York City"
+          ]
+        },
+        {
+          "id": "curse-of-the-pharaohs",
+          "name": "Curse of the Pharaohs",
+          "regions": [
+            "Valley of the Kings",
+            "Cairo",
+            "London",
+            "New York"
+          ]
+        },
+        {
+          "id": "drop-bear",
+          "name": "Drop Bear",
+          "regions": [
+            "All Australian states and territories (within the joke)"
+          ]
+        },
+        {
+          "id": "eyeless-jack",
+          "name": "Eyeless Jack",
+          "regions": []
+        },
+        {
+          "id": "gozu",
+          "name": "Gozu (Cow Head)",
+          "regions": [
+            "Japan",
+            "Japanese-language internet"
+          ]
+        },
+        {
+          "id": "hookman",
+          "name": "The Hookman",
+          "regions": [
+            "United States — broadly distributed"
+          ]
+        },
+        {
+          "id": "jeff-the-killer",
+          "name": "Jeff the Killer",
+          "regions": []
+        },
+        {
+          "id": "kidney-thieves",
+          "name": "Kidney Thieves Urban Legend",
+          "regions": [
+            "United States (esp. New Orleans, Las Vegas, New York)",
+            "Latin America",
+            "Europe",
+            "South Asia"
+          ]
+        },
+        {
+          "id": "kuchisake-onna",
+          "name": "Kuchisake-onna",
+          "regions": [
+            "Gifu Prefecture",
+            "Kanto",
+            "Kansai",
+            "nationwide Japan"
+          ]
+        },
+        {
+          "id": "kunekune",
+          "name": "Kunekune",
+          "regions": [
+            "rural Japan",
+            "rice-growing prefectures"
+          ]
+        },
+        {
+          "id": "lavender-town-syndrome",
+          "name": "Lavender Town Syndrome",
+          "regions": [
+            "Pastebin",
+            "4chan /x/",
+            "creepypasta wikis",
+            "YouTube"
+          ]
+        },
+        {
+          "id": "melon-heads",
+          "name": "Melon Heads",
+          "regions": [
+            "Lower Michigan",
+            "Northeast Ohio",
+            "Western Connecticut"
+          ]
+        },
+        {
+          "id": "momo-challenge",
+          "name": "Momo Challenge hoax",
+          "regions": [
+            "WhatsApp messaging networks",
+            "YouTube and YouTube Kids",
+            "Mainstream tabloid news media"
+          ]
+        },
+        {
+          "id": "not-deer",
+          "name": "Not Deer",
+          "regions": [
+            "Appalachia",
+            "West Virginia",
+            "Virginia",
+            "Kentucky",
+            "Tennessee",
+            "North Carolina"
+          ]
+        },
+        {
+          "id": "polybius",
+          "name": "Polybius",
+          "regions": [
+            "Portland, Oregon"
+          ]
+        },
+        {
+          "id": "rake",
+          "name": "The Rake",
+          "regions": []
+        },
+        {
+          "id": "russian-sleep-experiment",
+          "name": "The Russian Sleep Experiment",
+          "regions": [
+            "English-language internet horror communities"
+          ]
+        },
+        {
+          "id": "scp-foundation",
+          "name": "SCP Foundation",
+          "regions": [
+            "English-language internet (origin)",
+            "Major translation branches across East Asia, Europe and the Americas"
+          ]
+        },
+        {
+          "id": "shadow-people",
+          "name": "Shadow People",
+          "regions": []
+        },
+        {
+          "id": "sirenhead",
+          "name": "Siren Head",
+          "regions": [
+            "Rural North America (fictional setting)"
+          ]
+        },
+        {
+          "id": "skinned-tom",
+          "name": "Skinned Tom",
+          "regions": [
+            "Tennessee",
+            "Alabama",
+            "Mississippi",
+            "Georgia",
+            "Appalachian region"
+          ]
+        },
+        {
+          "id": "slenderman",
+          "name": "Slender Man",
+          "regions": [
+            "Internet (Something Awful, 4chan, YouTube, ARG communities)",
+            "Anglophone fan-fiction communities"
+          ]
+        },
+        {
+          "id": "smile-dog",
+          "name": "Smile Dog",
+          "regions": [
+            "Internet (4chan /x/, Creepypasta Wiki, YouTube)"
+          ]
+        },
+        {
+          "id": "spring-heeled-jack",
+          "name": "Spring-Heeled Jack",
+          "regions": [
+            "Greater London",
+            "Hampshire",
+            "Lincolnshire",
+            "Midlands",
+            "Merseyside"
+          ]
+        },
+        {
+          "id": "time-traveler-john-titor",
+          "name": "John Titor",
+          "regions": [
+            "Florida",
+            "American internet culture"
+          ]
+        },
+        {
+          "id": "urban-legends",
+          "name": "Urban Legends",
+          "regions": [
+            "Worldwide"
+          ]
+        },
+        {
+          "id": "vanishing-hitchhiker",
+          "name": "Vanishing Hitchhiker",
+          "regions": [
+            "Chicago area (Resurrection Mary — most famous American version)",
+            "Midwest United States",
+            "Southern United States",
+            "United Kingdom",
+            "Scandinavian (early Swedish manuscript)",
+            "Korea",
+            "Sub-Saharan Africa"
+          ]
+        }
+      ]
+    },
+    "anomaly": {
+      "name": "anomaly",
+      "count": 10,
+      "phenomena": [
+        {
+          "id": "bermuda-triangle",
+          "name": "Bermuda Triangle",
+          "regions": [
+            "Florida Strait",
+            "Bahamas archipelago",
+            "Sargasso Sea (western edge)",
+            "Caribbean approaches",
+            "Bermuda island shelf"
+          ]
+        },
+        {
+          "id": "doppelganger",
+          "name": "Doppelgänger",
+          "regions": [
+            "Northern Europe (vardøger, fetch traditions)",
+            "Germany (modern term)",
+            "Ancient Egypt (ka tradition)",
+            "Islamic world (qarin tradition)"
+          ]
+        },
+        {
+          "id": "glitch-in-matrix",
+          "name": "Glitch in the Matrix",
+          "regions": [
+            "Anglophone internet"
+          ]
+        },
+        {
+          "id": "ley-lines",
+          "name": "Ley Lines",
+          "regions": [
+            "Herefordshire, England",
+            "West Penwith, Cornwall, England",
+            "Wiltshire, England (Avebury, Stonehenge area)",
+            "Malvern Hills, Herefordshire",
+            "Germany (Wilhelm Teudt's Heilige Linien)"
+          ]
+        },
+        {
+          "id": "liminal-spaces",
+          "name": "Liminal Spaces",
+          "regions": [
+            "Internet (Reddit, Twitter, TikTok, 4chan, Tumblr, YouTube)"
+          ]
+        },
+        {
+          "id": "mary-celeste",
+          "name": "Mary Celeste",
+          "regions": [
+            "North Atlantic Ocean",
+            "Azores"
+          ]
+        },
+        {
+          "id": "spontaneous-human-combustion",
+          "name": "Spontaneous Human Combustion",
+          "regions": [
+            "United Kingdom",
+            "Ireland",
+            "Italy",
+            "France",
+            "Germany",
+            "United States"
+          ]
+        },
+        {
+          "id": "stone-tape-theory",
+          "name": "Stone Tape Theory",
+          "regions": [
+            "United Kingdom",
+            "Ireland",
+            "United States",
+            "Canada",
+            "Australia"
+          ]
+        },
+        {
+          "id": "time-slips",
+          "name": "Time Slips",
+          "regions": [
+            "England",
+            "Île-de-France",
+            "American Southwest",
+            "Northeastern United States"
+          ]
+        },
+        {
+          "id": "tunguska-event",
+          "name": "Tunguska Event",
+          "regions": [
+            "Central Siberia",
+            "Krasnoyarsk Krai",
+            "Evenkiysky District",
+            "Podkamennaya Tunguska River basin"
+          ]
+        }
+      ]
+    },
+    "conspiracy_theory": {
+      "name": "conspiracy_theory",
+      "count": 14,
+      "phenomena": [
+        {
+          "id": "black-knight-satellite",
+          "name": "Black Knight Satellite",
+          "regions": [
+            "Low Earth orbit"
+          ]
+        },
+        {
+          "id": "bohemian-grove",
+          "name": "Bohemian Grove",
+          "regions": [
+            "California",
+            "Sonoma County",
+            "Russian River area"
+          ]
+        },
+        {
+          "id": "chemtrails",
+          "name": "Chemtrails (chemtrail conspiracy theory)",
+          "regions": [
+            "Anglophone internet"
+          ]
+        },
+        {
+          "id": "denver-airport",
+          "name": "Denver International Airport Conspiracy Theories",
+          "regions": [
+            "Colorado",
+            "Adams County",
+            "Front Range Urban Corridor"
+          ]
+        },
+        {
+          "id": "dulce-base",
+          "name": "Dulce Base",
+          "regions": [
+            "New Mexico",
+            "Rio Arriba County",
+            "Jicarilla Apache Nation",
+            "Archuleta Mesa"
+          ]
+        },
+        {
+          "id": "flat-earth",
+          "name": "Flat Earth",
+          "regions": [
+            "Online (YouTube, TikTok, Telegram)",
+            "Lancaster, California (Charles K. Johnson era)",
+            "Dover, England (Samuel Shenton era)"
+          ]
+        },
+        {
+          "id": "haarp",
+          "name": "HAARP Conspiracy Theories",
+          "regions": [
+            "Gakona, Alaska (real)",
+            "global online conspiracy networks"
+          ]
+        },
+        {
+          "id": "hollow-earth",
+          "name": "Hollow Earth",
+          "regions": [
+            "Global"
+          ]
+        },
+        {
+          "id": "illuminati",
+          "name": "Illuminati",
+          "regions": [
+            "Bavaria",
+            "Ingolstadt",
+            "Munich",
+            "Vienna",
+            "Warsaw",
+            "Milan"
+          ]
+        },
+        {
+          "id": "montauk-project",
+          "name": "Montauk Project",
+          "regions": [
+            "Long Island, New York",
+            "Suffolk County",
+            "Montauk Point"
+          ]
+        },
+        {
+          "id": "moon-landing-hoax",
+          "name": "Moon landing conspiracy theories",
+          "regions": [
+            "American conspiracy media",
+            "Russian-language media",
+            "Online conspiracy communities"
+          ]
+        },
+        {
+          "id": "new-world-order",
+          "name": "New World Order",
+          "regions": [
+            "North America",
+            "Anglophone world",
+            "Online conspiracy networks"
+          ]
+        },
+        {
+          "id": "philadelphia-experiment",
+          "name": "Philadelphia Experiment",
+          "regions": [
+            "Pennsylvania",
+            "Virginia"
+          ]
+        },
+        {
+          "id": "reptilians",
+          "name": "Reptilian Conspiracy Theory",
+          "regions": [
+            "English-speaking online conspiracist communities"
+          ]
+        }
       ]
     }
   }
