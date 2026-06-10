@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
-  "generated": "2026-06-10T15:29:07.694Z",
-  "total": 491,
+  "generated": "2026-06-10T20:23:05.201Z",
+  "total": 514,
   "phenomena": [
     {
       "id": "abada",
@@ -259,6 +259,55 @@
       ],
       "origin": "Lakes and waterways of the Valley of Mexico, especially the lake system around the Aztec capital Tenochtitlan, with Lake Texcoco as the most-cited locale.",
       "first_reported": "16th century",
+      "danger_level": "unknown",
+      "evidence_level": "unknown"
+    },
+    {
+      "id": "aka-manto",
+      "name": "Aka Manto",
+      "category": "ghost_haunting",
+      "description": "Aka Manto ('Red Cloak') is a Japanese urban legend about a masked, red-cloaked spirit who haunts public and school toilets and asks the occupant to choose between red or blue toilet paper (or red or blue cloak). Either choice ends in death; only refusal lets the victim escape.",
+      "aliases": [
+        {
+          "name": "赤マント",
+          "language": "Japanese (kanji/katakana)",
+          "meaning": "Red Cloak / Red Cape"
+        },
+        {
+          "name": "Aoi Manto",
+          "language": "Japanese",
+          "meaning": "Blue Cloak (companion variant)"
+        },
+        {
+          "name": "Red Cape"
+        },
+        {
+          "name": "Red Vest"
+        },
+        {
+          "name": "Kainade",
+          "language": "Japanese (variant legend)"
+        }
+      ],
+      "tags": [
+        "japan",
+        "urban-legend",
+        "school-folklore",
+        "bathroom-ghost",
+        "yokai",
+        "showa-era",
+        "kuchisake-onna-related",
+        "hanako-san-related"
+      ],
+      "status": "active",
+      "regions": [
+        "Osaka",
+        "Tokyo",
+        "Kitakyushu",
+        "Korean Peninsula (under Japanese administration in 1940)"
+      ],
+      "origin": "Originally a Japanese school-yard legend; widely retold across Japan and exported through pop culture to East Asia, North America, and beyond.",
+      "first_reported": "1930s",
       "danger_level": "unknown",
       "evidence_level": "unknown"
     },
@@ -987,6 +1036,69 @@
       "evidence_level": "unknown"
     },
     {
+      "id": "aos-si",
+      "name": "Aos Sí",
+      "category": "fae_folklore",
+      "description": "A supernatural race in Irish (and broader Gaelic) folklore who dwell in fairy mounds and the Otherworld. Traditionally identified with the Tuatha Dé Danann who retreated underground after their defeat by the Milesians.",
+      "aliases": [
+        {
+          "name": "Aes Sídhe",
+          "language": "Old Irish",
+          "meaning": "Older spelling of aos sí"
+        },
+        {
+          "name": "Daoine Sídhe",
+          "language": "Irish",
+          "meaning": "'People of the mounds'"
+        },
+        {
+          "name": "Daoine Sí",
+          "language": "Modern Irish"
+        },
+        {
+          "name": "Sidhe",
+          "language": "Anglicized Irish",
+          "meaning": "Common English shorthand for the fairy mounds and their inhabitants"
+        },
+        {
+          "name": "The Good Folk",
+          "region": "Ireland and Scotland",
+          "meaning": "Euphemistic name used to avoid attracting their attention"
+        },
+        {
+          "name": "The Gentry",
+          "region": "Ireland",
+          "meaning": "Respectful euphemism"
+        },
+        {
+          "name": "Tuatha Dé Danann",
+          "language": "Old Irish",
+          "meaning": "'Peoples of the goddess Danu'; mythological ancestors of the aos sí"
+        }
+      ],
+      "tags": [
+        "irish-folklore",
+        "celtic",
+        "fairy",
+        "tuatha-de-danann",
+        "otherworld",
+        "fairy-mound",
+        "sidhe",
+        "gaelic"
+      ],
+      "status": "documented",
+      "regions": [
+        "Ireland (especially the west: Connacht, Kerry, Donegal)",
+        "Scottish Highlands and Hebrides",
+        "Isle of Man",
+        "Irish and Scottish diaspora communities"
+      ],
+      "origin": "The aos sí tradition is centred on Ireland and extends across the Gaelic-speaking world: Scotland (where the cognate term is sìth), the Isle of Man, and Irish and Scottish diaspora communities. Cognate fairy traditions exist throughout the broader Celtic world (Welsh tylwyth teg, Cornish pobel vean, Breton korrigans).",
+      "first_reported": "0700-01-01",
+      "danger_level": "unknown",
+      "evidence_level": "unknown"
+    },
+    {
       "id": "ap",
       "name": "Ap (Apas)",
       "category": "entity_spirit",
@@ -1498,6 +1610,54 @@
       "evidence_level": "unknown"
     },
     {
+      "id": "automatic-writing",
+      "name": "Automatic Writing",
+      "category": "psychic_phenomena",
+      "description": "Automatic writing is the practice of writing without conscious volition, attributed by practitioners to spirit communication, the subconscious mind, or psychic faculties — and explained by scientists through the ideomotor phenomenon of unconscious muscular movement.",
+      "aliases": [
+        {
+          "name": "Psychography",
+          "language": "English",
+          "meaning": "Writing produced by psychic means — from Greek psyche (soul/mind) + graphia (writing)"
+        },
+        {
+          "name": "Trance Writing",
+          "language": "English",
+          "meaning": "Writing produced while in a dissociative or trance state"
+        },
+        {
+          "name": "Fuji",
+          "language": "Chinese",
+          "region": "China",
+          "meaning": "Planchette writing — Chinese spirit writing tradition dating to the Song dynasty"
+        },
+        {
+          "name": "Spirit Writing",
+          "language": "English",
+          "meaning": "Writing attributed to spirit communication, used especially in the Spiritualist tradition"
+        }
+      ],
+      "tags": [
+        "psychic",
+        "mediumship",
+        "spiritualism",
+        "occult",
+        "dissociation",
+        "ideomotor",
+        "writing",
+        "trance",
+        "surrealism"
+      ],
+      "status": "active",
+      "regions": [
+        "Global"
+      ],
+      "origin": "Automatic writing has been documented across multiple cultures and continents, with significant traditions in China (fuji/planchette writing), 16th-century European occultism, 19th-century Anglo-American Spiritualism, Brazilian Spiritism (kardecismo), and early 20th-century Surrealism.",
+      "first_reported": "960-01-01",
+      "danger_level": "unknown",
+      "evidence_level": "unknown"
+    },
+    {
       "id": "axehandle-hound",
       "name": "Axehandle Hound",
       "category": "cryptid",
@@ -1786,6 +1946,55 @@
       ],
       "origin": "Strongly associated with the Shimane Peninsula and Oki Islands of former Izumo Province (modern Shimane Prefecture), Japan. Modern depictions, popularised through Mizuki Shigeru's manga, have spread the figure into nation-wide and global popular culture.",
       "first_reported": "Edo period (1603-1868)",
+      "danger_level": "unknown",
+      "evidence_level": "unknown"
+    },
+    {
+      "id": "bakeneko",
+      "name": "Bakeneko",
+      "category": "entity_spirit",
+      "description": "A class of yōkai in Japanese folklore: a domestic cat that has developed supernatural powers — shape-shifting, human speech, control of the dead — usually after living to a great age, growing very large, or possessing a long tail. Distinct from but closely related to the two-tailed nekomata.",
+      "aliases": [
+        {
+          "name": "化け猫 / 化猫",
+          "language": "Japanese",
+          "meaning": "'Changed cat' / 'monster cat'"
+        },
+        {
+          "name": "Kaibyō",
+          "language": "Japanese (怪猫)",
+          "meaning": "Generic term for supernatural cats including bakeneko and nekomata"
+        },
+        {
+          "name": "Nabeshima no bakeneko",
+          "language": "Japanese",
+          "region": "Saga (Hizen)",
+          "meaning": "'The Bakeneko of Nabeshima' — most famous Edo-period bakeneko story"
+        },
+        {
+          "name": "Saga bakeneko",
+          "language": "Japanese",
+          "region": "Saga Prefecture"
+        }
+      ],
+      "tags": [
+        "yokai",
+        "japanese-folklore",
+        "shapeshifter",
+        "edo-period",
+        "kabuki",
+        "kaibyō",
+        "nekomata-cousin",
+        "domestic-cat-spirit"
+      ],
+      "status": "documented",
+      "regions": [
+        "Saga Prefecture (Hizen)",
+        "Edo / Tokyo region",
+        "Nationwide Japan"
+      ],
+      "origin": "Pan-Japanese folklore figure; locally inflected by regional traditions, with the most famous narrative cluster centred on Saga (former Hizen Province), home of the Nabeshima bakeneko tradition.",
+      "first_reported": "Edo period",
       "danger_level": "unknown",
       "evidence_level": "unknown"
     },
@@ -5959,6 +6168,35 @@
       "evidence_level": "unknown"
     },
     {
+      "id": "drop-bear",
+      "name": "Drop Bear",
+      "category": "urban_legend",
+      "description": "A wholly fictional Australian creature: an oversized, predatory koala that supposedly drops from eucalyptus trees onto unsuspecting passers-by, used as a long-standing in-joke to prank tourists.",
+      "aliases": [
+        {
+          "name": "Thylarctos plummetus",
+          "language": "Mock Latin",
+          "meaning": "Pseudo-binomial coined by the Australian Museum for the drop bear"
+        }
+      ],
+      "tags": [
+        "australia",
+        "hoax",
+        "tourist-prank",
+        "fearsome-critter",
+        "urban-legend",
+        "humor"
+      ],
+      "status": "debunked",
+      "regions": [
+        "All Australian states and territories (within the joke)"
+      ],
+      "origin": "Joke localised to Australia, particularly its eucalyptus forests; told primarily to international tourists.",
+      "first_reported": "1967",
+      "danger_level": "unknown",
+      "evidence_level": "unknown"
+    },
+    {
       "id": "drude",
       "name": "Drude",
       "category": "demon_angel",
@@ -5994,6 +6232,76 @@
         "Austria"
       ],
       "origin": "Primarily Southern Germany, Bavaria, Austria, and Tyrol, with parallels in wider Germanic-speaking Europe.",
+      "first_reported": "Medieval",
+      "danger_level": "unknown",
+      "evidence_level": "unknown"
+    },
+    {
+      "id": "duende",
+      "name": "Duende",
+      "category": "fae_folklore",
+      "description": "Duendes are small humanoid folkloric beings of Iberian, Latin American, and Filipino tradition, ranging from helpful or mischievous house-sprites to dangerous forest dwellers said to lure children astray; in 1933 Federico García Lorca repurposed the word as an aesthetic concept for the dark vital force of art.",
+      "aliases": [
+        {
+          "name": "Duwende",
+          "language": "Tagalog / Filipino",
+          "region": "Philippines"
+        },
+        {
+          "name": "Tata Duende",
+          "language": "Spanish / Belizean Creole",
+          "region": "Belize, Guatemala"
+        },
+        {
+          "name": "Trasgo",
+          "language": "Asturian / Spanish",
+          "region": "Spain"
+        },
+        {
+          "name": "Anjana / Xana",
+          "language": "Cantabrian / Asturian",
+          "region": "Northern Spain"
+        },
+        {
+          "name": "Nubero",
+          "language": "Cantabrian",
+          "region": "Spain",
+          "meaning": "Cloud-form duende"
+        },
+        {
+          "name": "Busgoso",
+          "language": "Asturian",
+          "region": "Spain"
+        },
+        {
+          "name": "Nunò sa punsó",
+          "language": "Tagalog",
+          "region": "Philippines",
+          "meaning": "Mound-dwelling duwende"
+        }
+      ],
+      "tags": [
+        "iberian-folklore",
+        "latin-america",
+        "philippines",
+        "house-spirit",
+        "forest-spirit",
+        "small-humanoid",
+        "spanish",
+        "fae"
+      ],
+      "status": "documented",
+      "regions": [
+        "Cantabria and Asturias",
+        "Galicia",
+        "Andalusia",
+        "Yucatán Peninsula",
+        "Oaxaca cloud forests",
+        "Belizean Cayo and Toledo districts",
+        "Andean cloud forests",
+        "Philippine archipelago"
+      ],
+      "origin": "Iberian Peninsula, Latin America (especially Mexico, Central America, and Andean countries), the Philippines, and the Mariana Islands; with parallels and overlaps with regional Indigenous traditions.",
       "first_reported": "Medieval",
       "danger_level": "unknown",
       "evidence_level": "unknown"
@@ -9132,6 +9440,41 @@
       "evidence_level": "unknown"
     },
     {
+      "id": "haunted-places",
+      "name": "Haunted Places",
+      "category": "location",
+      "description": "Haunted places are locations across the world where paranormal activity — apparitions, unexplained sounds, sensations, or anomalies — is repeatedly reported by independent witnesses over time. They are studied as a form of ghostlore (a sub-genre of folklore) and underpin a substantial global ghost-tourism industry.",
+      "aliases": [
+        {
+          "name": "Haunted locations",
+          "language": "English",
+          "meaning": "Common synonym"
+        },
+        {
+          "name": "Ghostlore sites",
+          "language": "English",
+          "meaning": "Folklore-studies term"
+        }
+      ],
+      "tags": [
+        "ghostlore",
+        "haunting",
+        "location",
+        "castle",
+        "prison",
+        "asylum",
+        "battlefield",
+        "hotel",
+        "ghost-tourism"
+      ],
+      "status": "documented",
+      "regions": [],
+      "origin": "Global. Wikipedia's List of reportedly haunted locations covers more than 47 countries across every inhabited continent.",
+      "first_reported": "Pre-modern",
+      "danger_level": "unknown",
+      "evidence_level": "unknown"
+    },
+    {
       "id": "headless-horseman",
       "name": "Headless Horseman",
       "category": "ghost_haunting",
@@ -10227,6 +10570,60 @@
       "evidence_level": "unknown"
     },
     {
+      "id": "impundulu",
+      "name": "Impundulu",
+      "category": "entity_spirit",
+      "description": "The Impundulu (Lightning Bird) is a supernatural creature from Zulu, Xhosa, and Pondo folklore in South Africa that serves as a witch's familiar, summons lightning, and is said to possess vampiric qualities and the ability to take human form.",
+      "aliases": [
+        {
+          "name": "Lightning Bird",
+          "language": "English",
+          "region": "South Africa",
+          "meaning": "Descriptive translation"
+        },
+        {
+          "name": "Thekwane",
+          "language": "Zulu",
+          "region": "South Africa"
+        },
+        {
+          "name": "Izulu",
+          "language": "Zulu",
+          "region": "South Africa",
+          "meaning": "Sky / lightning"
+        },
+        {
+          "name": "Inyoni yezulu",
+          "language": "Zulu",
+          "region": "South Africa",
+          "meaning": "Bird of the sky/lightning"
+        }
+      ],
+      "tags": [
+        "south-african",
+        "zulu",
+        "xhosa",
+        "pondo",
+        "witchcraft",
+        "familiar",
+        "bird",
+        "lightning",
+        "vampiric",
+        "shapeshifter",
+        "africa"
+      ],
+      "status": "active",
+      "regions": [
+        "KwaZulu-Natal",
+        "Eastern Cape",
+        "South African coastal and interior regions"
+      ],
+      "origin": "South Africa; primarily associated with Zulu, Xhosa, and Pondo peoples of the eastern and southeastern regions.",
+      "first_reported": "Pre-colonial",
+      "danger_level": "unknown",
+      "evidence_level": "unknown"
+    },
+    {
       "id": "inugami",
       "name": "Inugami",
       "category": "entity_spirit",
@@ -10375,6 +10772,36 @@
       ],
       "origin": "Folklore range covers the American West, especially Wyoming, with secondary tall-tale presence across Nebraska, South Dakota, Montana, and Colorado. The wider 'horned hare' tradition is global, with European (wolpertinger, lepus cornutus) and Middle Eastern (al-mi'raj) analogues.",
       "first_reported": "1932",
+      "danger_level": "unknown",
+      "evidence_level": "unknown"
+    },
+    {
+      "id": "jeff-the-killer",
+      "name": "Jeff the Killer",
+      "category": "urban_legend",
+      "description": "Jeff the Killer is a creepypasta character who became one of the most widely spread internet horror figures, depicted as a disfigured pale-skinned young man with a permanent grin who sneaks into homes at night to kill, whispering 'Go to sleep.'",
+      "aliases": [
+        {
+          "name": "Jeffrey Woods",
+          "language": "English",
+          "region": "Internet",
+          "meaning": "Character's canonical given name in the story"
+        }
+      ],
+      "tags": [
+        "creepypasta",
+        "internet",
+        "urban-legend",
+        "horror",
+        "slasher",
+        "modern-folklore",
+        "viral",
+        "2011"
+      ],
+      "status": "active",
+      "regions": [],
+      "origin": "An internet-born character with no geographic origin; the story is set in a generic American suburban context. The character's spread is global via internet platforms.",
+      "first_reported": "2006-01-01",
       "danger_level": "unknown",
       "evidence_level": "unknown"
     },
@@ -11238,6 +11665,67 @@
       "evidence_level": "unknown"
     },
     {
+      "id": "kirin",
+      "name": "Kirin (Qilin)",
+      "category": "mythological_creature",
+      "description": "An auspicious chimerical creature of East Asian mythology — qilin in Chinese, kirin in Japanese, girin in Korean, kỳ lân in Vietnamese — said to appear at the birth or death of a sage or just ruler, and so gentle that it will not tread on living grass or eat living things.",
+      "aliases": [
+        {
+          "name": "Qilin",
+          "language": "Mandarin Chinese",
+          "region": "China",
+          "meaning": "麒麟; the original Chinese name"
+        },
+        {
+          "name": "Kirin",
+          "language": "Japanese",
+          "region": "Japan",
+          "meaning": "麒麟"
+        },
+        {
+          "name": "Girin / Kirin",
+          "language": "Korean",
+          "region": "Korea",
+          "meaning": "기린"
+        },
+        {
+          "name": "Kỳ lân",
+          "language": "Vietnamese",
+          "region": "Vietnam"
+        },
+        {
+          "name": "Gilen",
+          "language": "Thai",
+          "region": "Thailand"
+        },
+        {
+          "name": "Chinese unicorn",
+          "region": "Western popular usage",
+          "meaning": "common but misleading translation"
+        }
+      ],
+      "tags": [
+        "east-asia",
+        "china",
+        "japan",
+        "korea",
+        "auspicious-omen",
+        "chimera",
+        "horned",
+        "confucianism",
+        "buddhism"
+      ],
+      "status": "documented",
+      "regions": [
+        "East Asia",
+        "Sinosphere"
+      ],
+      "origin": "Throughout the East Asian cultural sphere — China, Japan, Korea, Vietnam — and in adjacent traditions of Mongolia, Tibet, and Thailand.",
+      "first_reported": "1000 BCE",
+      "danger_level": "unknown",
+      "evidence_level": "unknown"
+    },
+    {
       "id": "kitsune",
       "name": "Kitsune",
       "category": "shapeshifter",
@@ -11822,6 +12310,46 @@
       "evidence_level": "unknown"
     },
     {
+      "id": "lagahoo",
+      "name": "Lagahoo",
+      "category": "shapeshifter",
+      "description": "The Lagahoo is a shapeshifting monster of Trinidad and Tobago folklore, drawn from French-Creole loup-garou and West African shapeshifter traditions, who appears at night as a headless man dragging a coffin and chains and can transform into many animals.",
+      "aliases": [
+        {
+          "name": "Lugarhou",
+          "language": "Trinidadian Creole"
+        },
+        {
+          "name": "Lagahou",
+          "language": "Trinidadian Creole"
+        },
+        {
+          "name": "Loup-garou",
+          "language": "French",
+          "meaning": "werewolf (the French source-form)"
+        }
+      ],
+      "tags": [
+        "caribbean",
+        "trinidad-and-tobago",
+        "shapeshifter",
+        "werewolf-cognate",
+        "loup-garou",
+        "folklore",
+        "headless"
+      ],
+      "status": "active",
+      "regions": [
+        "Trinidad",
+        "Tobago",
+        "wider French-Creole Caribbean"
+      ],
+      "origin": "Trinidad and Tobago, especially rural Trinidad. The figure overlaps in tradition with French-Caribbean loup-garou belief on neighbouring islands.",
+      "first_reported": "Pre-modern",
+      "danger_level": "unknown",
+      "evidence_level": "unknown"
+    },
+    {
       "id": "lamassu",
       "name": "Lamassu",
       "category": "mythological_creature",
@@ -11989,6 +12517,63 @@
       ],
       "origin": "Centred in Bali, Indonesia, with extension to Lombok and Java; the wider Southeast Asian female-vampire complex (Krasue, Penanggalan, Manananggal) shares the detached-head motif.",
       "first_reported": "Pre-modern",
+      "danger_level": "unknown",
+      "evidence_level": "unknown"
+    },
+    {
+      "id": "leprechaun",
+      "name": "Leprechaun",
+      "category": "fae_folklore",
+      "description": "The leprechaun is a diminutive male solitary fairy of Irish folklore, traditionally portrayed as a shoemaker who guards a hidden hoard of gold. He is descended from Old Irish luchorpán, first attested in the 8th-century saga Echtra Fergusa maic Léti.",
+      "aliases": [
+        {
+          "name": "leipreachán",
+          "language": "Modern Irish"
+        },
+        {
+          "name": "luchorpán",
+          "language": "Old Irish",
+          "meaning": "supposed early form of the name; Old Irish lexicon term"
+        },
+        {
+          "name": "lupracán / luchrapán",
+          "language": "Old/Middle Irish",
+          "meaning": "variant Old/Middle Irish forms"
+        },
+        {
+          "name": "Cluricaune",
+          "language": "Hiberno-English",
+          "region": "Munster (Ireland)"
+        },
+        {
+          "name": "Luricawne",
+          "language": "Hiberno-English",
+          "region": "Kerry (Ireland)"
+        },
+        {
+          "name": "Lurikeen",
+          "language": "Hiberno-English"
+        }
+      ],
+      "tags": [
+        "ireland",
+        "fae",
+        "fairy",
+        "solitary-fairy",
+        "cobbler",
+        "shoemaker",
+        "gold",
+        "folklore"
+      ],
+      "status": "active",
+      "regions": [
+        "Ulster",
+        "Munster",
+        "Leinster",
+        "Connacht"
+      ],
+      "origin": "Native to the folklore of Ireland; the figure is a defining feature of Irish national folklore and has been transmitted globally through the Irish diaspora and through 20th- and 21st-century popular media.",
+      "first_reported": "8th century CE",
       "danger_level": "unknown",
       "evidence_level": "unknown"
     },
@@ -12395,6 +12980,72 @@
       "evidence_level": "unknown"
     },
     {
+      "id": "loup-garou",
+      "name": "Loup-Garou",
+      "category": "shapeshifter",
+      "description": "The Loup-Garou is the French-language werewolf, transplanted by French settlers into Louisiana (where it became the Rougarou of the bayous), into Haitian and Caribbean Creole cultures (Lougarou, Loogaroo), and into French Canadian / Métis tradition. It is typically a human cursed to transform into a wolf-like or hybrid form by breaking Catholic Lenten observance.",
+      "aliases": [
+        {
+          "name": "Loup-garou",
+          "language": "French",
+          "meaning": "'wolf-werewolf' — werewolf"
+        },
+        {
+          "name": "Rougarou",
+          "language": "Louisiana French",
+          "region": "Louisiana, USA"
+        },
+        {
+          "name": "Roux-ga-roux",
+          "language": "Louisiana French",
+          "region": "Louisiana, USA"
+        },
+        {
+          "name": "Rugaroo",
+          "region": "Louisiana / Métis communities"
+        },
+        {
+          "name": "Rugaru",
+          "region": "Métis / Ojibwe communities, Great Lakes"
+        },
+        {
+          "name": "Lougarou",
+          "language": "Haitian Creole",
+          "region": "Haiti"
+        },
+        {
+          "name": "Loogaroo",
+          "language": "Caribbean English Creole",
+          "region": "Trinidad and the wider Caribbean"
+        }
+      ],
+      "tags": [
+        "werewolf",
+        "shapeshifter",
+        "french-folklore",
+        "louisiana",
+        "cajun",
+        "haitian",
+        "caribbean",
+        "lent",
+        "catholic-folklore"
+      ],
+      "status": "documented",
+      "regions": [
+        "Continental France",
+        "Quebec",
+        "Acadia / Maritimes",
+        "Louisiana (Acadiana, Greater New Orleans)",
+        "Haiti",
+        "Caribbean Creole world",
+        "Great Lakes (Métis, Ojibwe)"
+      ],
+      "origin": "The loup-garou tradition is found wherever French and French-Creole communities settled: continental France (especially rural Catholic regions), French Canada, Louisiana (Acadiana and Greater New Orleans), Haiti, and the wider Francophone Caribbean. Métis and Ojibwe communities of the Great Lakes have a related rugaru figure.",
+      "first_reported": "12th century",
+      "danger_level": "unknown",
+      "evidence_level": "unknown"
+    },
+    {
       "id": "loveland-frog",
       "name": "Loveland Frog",
       "category": "cryptid",
@@ -12630,6 +13281,82 @@
       ],
       "origin": "Mahaha stories are part of Inuit oral tradition across the Canadian Arctic (Inuit Nunangat); they are best documented in popular folklore writing rather than in tightly-localised regional accounts.",
       "first_reported": "Pre-modern",
+      "danger_level": "unknown",
+      "evidence_level": "unknown"
+    },
+    {
+      "id": "mahr",
+      "name": "Mahr",
+      "category": "demon_angel",
+      "description": "A malicious entity in Germanic and Slavic folklore that sits on sleepers' chests during the night, causing nightmares, chest pressure, cold sweats, and sleep paralysis — the supernatural explanation for a cluster of experiences now understood as sleep paralysis.",
+      "aliases": [
+        {
+          "name": "Mare",
+          "language": "Old English / Old Norse",
+          "region": "Britain, Scandinavia",
+          "meaning": "From Proto-Germanic marōn; nightmare-causing spirit"
+        },
+        {
+          "name": "Mara",
+          "language": "High German / Old Norse",
+          "region": "Germany, Scandinavia"
+        },
+        {
+          "name": "Mahrt",
+          "language": "Low German",
+          "region": "Northern Germany, Pomerania"
+        },
+        {
+          "name": "Môr",
+          "language": "Low German",
+          "region": "Northern Germany"
+        },
+        {
+          "name": "Zmora",
+          "language": "Polish / Serbian",
+          "region": "Poland, Serbia"
+        },
+        {
+          "name": "Můra",
+          "language": "Czech",
+          "region": "Czech Republic"
+        },
+        {
+          "name": "Mora",
+          "language": "Croatian / Serbian",
+          "region": "Croatia, Serbia"
+        },
+        {
+          "name": "Mara",
+          "language": "Swedish / Norwegian / Danish",
+          "region": "Scandinavia"
+        },
+        {
+          "name": "Deattán",
+          "language": "Sámi",
+          "region": "Sápmi"
+        }
+      ],
+      "tags": [
+        "germanic",
+        "slavic",
+        "nightmare",
+        "sleep-paralysis",
+        "incubus",
+        "shapeshifter",
+        "nocturnal",
+        "folklore",
+        "northern-europe"
+      ],
+      "status": "historical",
+      "regions": [
+        "Germanic-speaking Central Europe",
+        "Scandinavia",
+        "Slavic Eastern Europe",
+        "British Isles (Old English mære tradition)"
+      ],
+      "origin": "Germanic and Slavic Europe, with the broadest distribution across Northern and Central Europe and Scandinavia. Related traditions with the same sleep-paralysis substrate exist globally.",
+      "first_reported": "1200-01-01",
       "danger_level": "unknown",
       "evidence_level": "unknown"
     },
@@ -13312,6 +14039,43 @@
       ],
       "origin": "The Māui cycle is told across virtually all of Polynesia. Wikipedia notes the tradition can be traced 'as far west as islands off New Guinea' and is found in Hawaiʻi, Aotearoa, Tonga, Sāmoa, Tahiti, Mangareva, the Marquesas, the New Hebrides (Vanuatu), and beyond.",
       "first_reported": "Pre-contact",
+      "danger_level": "unknown",
+      "evidence_level": "unknown"
+    },
+    {
+      "id": "medusa",
+      "name": "Medusa",
+      "category": "mythological_creature",
+      "description": "In Greek mythology, the only mortal of the three Gorgon sisters, whose gaze turned onlookers to stone and who was beheaded by the hero Perseus; her severed head, the Gorgoneion, became Athena's apotropaic symbol set on the Aegis.",
+      "aliases": [
+        {
+          "name": "Medousa",
+          "language": "Ancient Greek",
+          "meaning": "'Guardian' or 'protectress', from medō ('to rule, guard')"
+        },
+        {
+          "name": "Gorgo / Gorgon",
+          "language": "Ancient Greek",
+          "meaning": "'Dreadful one'; used for all three Gorgon sisters"
+        }
+      ],
+      "tags": [
+        "greek-mythology",
+        "gorgon",
+        "perseus",
+        "athena",
+        "petrification",
+        "snake-haired",
+        "apotropaic",
+        "classical-antiquity"
+      ],
+      "status": "documented",
+      "regions": [
+        "Mediterranean basin",
+        "Mythic 'far west' beyond Ocean (in archaic geography)"
+      ],
+      "origin": "Medusa is a figure of ancient Greek mythology, transmitted across the Greek and Roman Mediterranean and into the broader European tradition through Latin sources (notably Ovid).",
+      "first_reported": "c. 8th century BCE",
       "danger_level": "unknown",
       "evidence_level": "unknown"
     },
@@ -15685,6 +16449,46 @@
       "evidence_level": "unknown"
     },
     {
+      "id": "orang-minyak",
+      "name": "Orang Minyak",
+      "category": "entity_spirit",
+      "description": "A figure from Malay folklore and urban legend described as a naked man covered entirely in black oil who breaks into homes to assault women, associated with a 1950s–1970s moral panic in Malaysia and Singapore and depicted in multiple films.",
+      "aliases": [
+        {
+          "name": "Orang Minyak",
+          "language": "Malay",
+          "region": "Malaysia, Singapore",
+          "meaning": "Oily man"
+        },
+        {
+          "name": "The Oily Man",
+          "language": "English",
+          "region": "Malaysia, Singapore"
+        }
+      ],
+      "tags": [
+        "malaysia",
+        "singapore",
+        "malay",
+        "urban-legend",
+        "moral-panic",
+        "nocturnal",
+        "folklore",
+        "southeast-asia",
+        "supernatural-criminal"
+      ],
+      "status": "unverified",
+      "regions": [
+        "Selangor, Malaysia",
+        "Various Malaysian states",
+        "Singapore"
+      ],
+      "origin": "Reported from Malaysia and Singapore, with the legend originating in the Malay-speaking communities of both countries. Specific modern incident reports from Gombak, Selangor, Malaysia (2012).",
+      "first_reported": "1957-10-12",
+      "danger_level": "unknown",
+      "evidence_level": "unknown"
+    },
+    {
       "id": "orang-pendek",
       "name": "Orang Pendek",
       "category": "cryptid",
@@ -16539,6 +17343,48 @@
       ],
       "origin": "Mythological — described in classical literature as native to Arabia, Egypt, Ethiopia, or India, depending on the author. The phoenix has no real geographic range.",
       "first_reported": "c. 8th century BC",
+      "danger_level": "unknown",
+      "evidence_level": "unknown"
+    },
+    {
+      "id": "phoenix-lights",
+      "name": "Phoenix Lights",
+      "category": "ufo_uap",
+      "description": "A widely witnessed series of unidentified aerial lights observed across Arizona and parts of Nevada on the evening of 13 March 1997. Two distinct events occurred — a high-altitude V-formation moving south, and a later set of stationary lights over the Estrella Mountains south of Phoenix — both later attributed by U.S. Air Force investigators to A-10 Thunderbolt II aircraft and illumination flares from Operation Snowbird training exercises.",
+      "aliases": [
+        {
+          "name": "Lights over Phoenix",
+          "region": "Arizona, USA"
+        },
+        {
+          "name": "Arizona Lights",
+          "region": "Arizona, USA"
+        },
+        {
+          "name": "March 13, 1997 mass UFO sighting",
+          "region": "Arizona / Nevada, USA"
+        }
+      ],
+      "tags": [
+        "ufo",
+        "uap",
+        "mass-sighting",
+        "arizona",
+        "1997",
+        "v-formation",
+        "flares",
+        "a-10",
+        "operation-snowbird",
+        "fife-symington"
+      ],
+      "status": "documented",
+      "regions": [
+        "Arizona",
+        "Nevada",
+        "Sonoran Desert"
+      ],
+      "origin": "A single-event phenomenon localized to the southwestern United States — southern Nevada through Phoenix and surrounding Arizona to the Tucson area.",
+      "first_reported": "1997-03-13",
       "danger_level": "unknown",
       "evidence_level": "unknown"
     },
@@ -18371,6 +19217,61 @@
       ],
       "origin": "Folkloric range is the mountainous interior of central Honshu, particularly the historical provinces of Hida and Mino (modern Gifu Prefecture).",
       "first_reported": "1781",
+      "danger_level": "unknown",
+      "evidence_level": "unknown"
+    },
+    {
+      "id": "satyr",
+      "name": "Satyr",
+      "category": "mythological_creature",
+      "description": "Satyrs are male nature spirits from Greek mythology, depicted as hybrid humanoids combining human torsos with horse or goat features, and characterized by exuberant sexuality, love of wine and music, and mischievous behavior in the retinue of the god Dionysus.",
+      "aliases": [
+        {
+          "name": "Sátyros",
+          "language": "Ancient Greek",
+          "meaning": "Etymology disputed; proposed connections to thērion (wild animal), or a root meaning 'the full ones' (alluding to sexual arousal), or the root sat- (to sow)"
+        },
+        {
+          "name": "Silenos / Silenus",
+          "language": "Ancient Greek / Latin",
+          "meaning": "Elder form of satyr; name of Dionysus's tutor"
+        },
+        {
+          "name": "Faun",
+          "language": "Latin",
+          "region": "Roman mythology",
+          "meaning": "Roman counterpart; from Faunus, woodland deity"
+        },
+        {
+          "name": "Satiro",
+          "language": "Italian"
+        },
+        {
+          "name": "Satyre",
+          "language": "French"
+        }
+      ],
+      "tags": [
+        "greek-mythology",
+        "roman-mythology",
+        "humanoid",
+        "hybrid",
+        "nature-spirit",
+        "dionysian",
+        "woodland",
+        "ancient",
+        "theatrical",
+        "fertility"
+      ],
+      "status": "historical",
+      "regions": [
+        "Ancient Greece",
+        "Hellenistic world",
+        "Roman Empire",
+        "Later European culture through Renaissance"
+      ],
+      "origin": "A pan-Mediterranean mythological figure, originating in ancient Greece and spreading through Hellenistic culture across the Mediterranean world and into Roman civilization.",
+      "first_reported": "0600-01-01",
       "danger_level": "unknown",
       "evidence_level": "unknown"
     },
@@ -20283,6 +21184,49 @@
       ],
       "origin": "The Andean region of South America, encompassing the territories of the pre-Columbian Inca Empire. Strongest contemporary presence in mining communities of Bolivia and Peru.",
       "first_reported": "Pre-Columbian",
+      "danger_level": "unknown",
+      "evidence_level": "unknown"
+    },
+    {
+      "id": "superstition-mountains",
+      "name": "Superstition Mountains",
+      "category": "location",
+      "description": "A rugged volcanic mountain range east of Phoenix, Arizona, famous for the Lost Dutchman's Gold Mine legend and a long sequence of disappearances and unexplained deaths within its wilderness.",
+      "aliases": [
+        {
+          "name": "Sierra de la Espuma",
+          "language": "Spanish",
+          "region": "Arizona",
+          "meaning": "'Foam Mountain' (early Spanish-language name)"
+        },
+        {
+          "name": "Wi:kchsawa",
+          "language": "Yavapai",
+          "region": "Arizona"
+        },
+        {
+          "name": "The Superstitions",
+          "region": "Arizona, United States"
+        }
+      ],
+      "tags": [
+        "arizona",
+        "lost-mine",
+        "apache-folklore",
+        "yavapai",
+        "wilderness",
+        "lost-dutchman",
+        "disappearances",
+        "north-america"
+      ],
+      "status": "active",
+      "regions": [
+        "Arizona",
+        "Sonoran Desert",
+        "Basin and Range Province"
+      ],
+      "origin": "Volcanic mountain range east of Phoenix, Arizona, spanning Maricopa, Pinal, and Gila counties.",
+      "first_reported": "Pre-contact",
       "danger_level": "unknown",
       "evidence_level": "unknown"
     },
@@ -22380,6 +23324,74 @@
       "evidence_level": "unknown"
     },
     {
+      "id": "wendigo",
+      "name": "Wendigo",
+      "category": "entity_spirit",
+      "description": "A malevolent spirit-being central to the traditions of Algonquian-speaking peoples of northern North America, embodying winter, famine, greed, and the gravest taboo of cannibalism; humans who break that taboo are said to risk transformation into a wendigo.",
+      "aliases": [
+        {
+          "name": "Windigo",
+          "language": "Anishinaabemowin / English (variant)",
+          "region": "Ojibwe regions"
+        },
+        {
+          "name": "Wiindigoo",
+          "language": "Anishinaabemowin (Ojibwe)",
+          "region": "Ojibwe homelands"
+        },
+        {
+          "name": "Wīhtikōw",
+          "language": "Cree",
+          "region": "Cree territories"
+        },
+        {
+          "name": "Witiko",
+          "language": "Cree (variant transliteration)",
+          "region": "Cree territories"
+        },
+        {
+          "name": "Wetiko",
+          "language": "Cree (variant)",
+          "region": "Cree territories"
+        },
+        {
+          "name": "Atchen / Atshen",
+          "language": "Innu (Naskapi/Montagnais)",
+          "region": "Quebec/Labrador"
+        }
+      ],
+      "tags": [
+        "algonquian",
+        "ojibwe",
+        "cree",
+        "innu",
+        "north-america",
+        "winter",
+        "cannibal",
+        "spirit",
+        "folklore",
+        "mythology",
+        "indigenous"
+      ],
+      "status": "documented",
+      "regions": [
+        "Boreal forest / taiga",
+        "Ontario",
+        "Manitoba",
+        "Quebec",
+        "Labrador",
+        "Saskatchewan",
+        "Alberta",
+        "Minnesota",
+        "Wisconsin",
+        "Michigan (Upper Peninsula)"
+      ],
+      "origin": "Pan-Algonquian, with strongest presence in the boreal-forest territories of the Ojibwe, Cree, Innu, Algonquin, and Saulteaux peoples across central and eastern Canada and the upper Midwest of the United States.",
+      "first_reported": "Pre-contact",
+      "danger_level": "unknown",
+      "evidence_level": "unknown"
+    },
+    {
       "id": "wendigo-cree",
       "name": "Wendigo (Cree)",
       "category": "shapeshifter",
@@ -22817,6 +23829,73 @@
       "evidence_level": "unknown"
     },
     {
+      "id": "windigo",
+      "name": "Windigo",
+      "category": "entity_spirit",
+      "description": "A spirit-being of Algonquian-language traditions — Ojibwe wiindigoo, Cree wīhtikōw — embodying the moral horror of cannibalism, of insatiable greed, and of the heart turned to ice. Both a being met in story and a name for a culturally specific psychological transformation.",
+      "aliases": [
+        {
+          "name": "Wendigo",
+          "language": "English (Algonquian-derived)",
+          "meaning": "Anglicised form popularised by Algernon Blackwood (1910)"
+        },
+        {
+          "name": "Wiindigoo",
+          "language": "Ojibwe",
+          "region": "Anishinaabe territories"
+        },
+        {
+          "name": "Wīhtikōw",
+          "language": "Cree",
+          "region": "Cree territories"
+        },
+        {
+          "name": "Witiko",
+          "language": "Cree (alternative transliteration)"
+        },
+        {
+          "name": "Wechuge",
+          "language": "Dane-zaa (Beaver)",
+          "region": "Northwestern Subarctic",
+          "meaning": "Closely related but distinct cannibal-spirit figure"
+        },
+        {
+          "name": "Atchen / Atshen",
+          "language": "Innu",
+          "region": "Eastern Subarctic"
+        }
+      ],
+      "tags": [
+        "algonquian",
+        "ojibwe",
+        "anishinaabe",
+        "cree",
+        "cannibal-spirit",
+        "winter",
+        "indigenous-folklore",
+        "north-america"
+      ],
+      "status": "active",
+      "regions": [
+        "Boreal forest",
+        "Subarctic Canada",
+        "Great Lakes region",
+        "Northern Ontario",
+        "Northern Quebec",
+        "Manitoba",
+        "Saskatchewan",
+        "Alberta",
+        "Labrador",
+        "Minnesota",
+        "Wisconsin",
+        "Michigan"
+      ],
+      "origin": "The Windigo is a being of the boreal forest of northern North America, associated specifically with the territories of Algonquian-speaking peoples — Ojibwe / Anishinaabe, Cree, Innu, Naskapi, Atikamekw, Saulteaux — across present-day Canada and the northern United States.",
+      "first_reported": "Pre-contact",
+      "danger_level": "unknown",
+      "evidence_level": "unknown"
+    },
+    {
       "id": "wolpertinger",
       "name": "Wolpertinger",
       "category": "cryptid",
@@ -22921,6 +24000,47 @@
       "evidence_level": "unknown"
     },
     {
+      "id": "yacuruna",
+      "name": "Yacuruna",
+      "category": "entity_spirit",
+      "description": "Powerful water spirits in the mythology of various Indigenous peoples of the Amazon basin, particularly Quechua-speaking and riverine cultures. The Yacuruna inhabit underwater cities beneath Amazonian rivers and lakes, riding black crocodiles by night and shapeshifting into Amazon river dolphins to interact with humans.",
+      "aliases": [
+        {
+          "name": "Yakuruna",
+          "language": "Quechua",
+          "region": "Amazon basin",
+          "meaning": "Water people; from yaku (water) + runa (man/people)"
+        },
+        {
+          "name": "Yaku Runa",
+          "language": "Quechua",
+          "region": "Amazon basin",
+          "meaning": "Literal Quechua form: water people"
+        }
+      ],
+      "tags": [
+        "amazonian-indigenous",
+        "water-spirit",
+        "shapeshifter",
+        "south-america",
+        "quechua",
+        "shipibo-conibo",
+        "shamanic",
+        "underwater-city"
+      ],
+      "status": "documented",
+      "regions": [
+        "Amazon basin",
+        "Upper Amazon (Peru)",
+        "Loreto region, Peru",
+        "Ucayali region, Peru"
+      ],
+      "origin": "The Yacuruna tradition is documented across the Amazonian basin, particularly among Quechua-speaking peoples of Peru and adjacent riverine cultures (Cocama, and others). The belief complex extends across the broader Amazonian cultural area where the boto (Amazon river dolphin) is ecologically present.",
+      "first_reported": "Pre-contact",
+      "danger_level": "unknown",
+      "evidence_level": "unknown"
+    },
+    {
       "id": "yama-no-kami",
       "name": "Yama-no-kami",
       "category": "entity_spirit",
@@ -22967,6 +24087,42 @@
       ],
       "origin": "Worshipped throughout Japan, with active shrines in all mountainous regions. The tradition is most prominent in rural agricultural and forestry communities. Cognate traditions extend across East Asia (Korea's Sansin, China's Shanshen, Vietnam's Son than).",
       "first_reported": "0712-01-01",
+      "danger_level": "unknown",
+      "evidence_level": "unknown"
+    },
+    {
+      "id": "yama-oroshi",
+      "name": "Yama-oroshi",
+      "category": "entity_spirit",
+      "description": "A Japanese yokai (tsukumogami) born from a neglected grater that has become too dull to function. The yama-oroshi grows a body, and its dull, worn slicers protrude like wild spines. Its name is a triple pun: on oroshi (grater), yamaarashi (porcupine), and the strong mountain wind (yama-oroshi) blowing down from peaks. The creature's breath is said to be ten thousand times stronger than a human's, explaining mysterious mountain winds.",
+      "aliases": [
+        {
+          "name": "山颪",
+          "language": "Japanese",
+          "meaning": "Mountain wind; the primary kanji rendering, punning on both 'grater' and 'wind blowing down from mountains'"
+        },
+        {
+          "name": "やまおろし",
+          "language": "Japanese",
+          "meaning": "Hiragana form; reads as both 'mountain wind' and 'mountain grater'"
+        }
+      ],
+      "tags": [
+        "japanese-folklore",
+        "yokai",
+        "tsukumogami",
+        "tool-spirit",
+        "wind",
+        "mountain",
+        "japan",
+        "porcupine-like"
+      ],
+      "status": "documented",
+      "regions": [
+        "Japan (mountain regions)"
+      ],
+      "origin": "Japanese folklore tradition; documented as part of the broader tsukumogami and yokai tradition of Japan. The creature is associated with mountain environments across Japan.",
+      "first_reported": "Pre-contact",
       "danger_level": "unknown",
       "evidence_level": "unknown"
     },
