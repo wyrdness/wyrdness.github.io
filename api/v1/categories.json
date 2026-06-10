@@ -1,11 +1,11 @@
 {
   "version": "1.0.0",
-  "generated": "2026-06-10T09:45:38.339Z",
+  "generated": "2026-06-10T15:29:07.743Z",
   "total": 16,
   "categories": {
     "mythological_creature": {
       "name": "mythological_creature",
-      "count": 63,
+      "count": 60,
       "phenomena": [
         {
           "id": "abada",
@@ -310,14 +310,6 @@
           ]
         },
         {
-          "id": "kirin",
-          "name": "Kirin (Qilin)",
-          "regions": [
-            "East Asia",
-            "Sinosphere"
-          ]
-        },
-        {
           "id": "lamassu",
           "name": "Lamassu",
           "regions": [
@@ -356,14 +348,6 @@
             "Marquesas Islands",
             "Mangareva",
             "Cook Islands"
-          ]
-        },
-        {
-          "id": "medusa",
-          "name": "Medusa",
-          "regions": [
-            "Mediterranean basin",
-            "Mythic 'far west' beyond Ocean (in archaic geography)"
           ]
         },
         {
@@ -478,16 +462,6 @@
             "Goguryeo cultural sphere (Korean peninsula and southern Manchuria)",
             "Han and post-Han China",
             "Yamato Japan"
-          ]
-        },
-        {
-          "id": "satyr",
-          "name": "Satyr",
-          "regions": [
-            "Ancient Greece",
-            "Hellenistic world",
-            "Roman Empire",
-            "Later European culture through Renaissance"
           ]
         },
         {
@@ -633,7 +607,7 @@
     },
     "entity_spirit": {
       "name": "entity_spirit",
-      "count": 103,
+      "count": 96,
       "phenomena": [
         {
           "id": "abumi-guchi",
@@ -692,15 +666,6 @@
             "Sapta-Sindhu (the historical Vedic homeland in the northwest Indian subcontinent)",
             "Greater India",
             "Iranian plateau (Avestan Apąm Napāt parallel)"
-          ]
-        },
-        {
-          "id": "bakeneko",
-          "name": "Bakeneko",
-          "regions": [
-            "Saga Prefecture (Hizen)",
-            "Edo / Tokyo region",
-            "Nationwide Japan"
           ]
         },
         {
@@ -1052,15 +1017,6 @@
           ]
         },
         {
-          "id": "impundulu",
-          "name": "Impundulu",
-          "regions": [
-            "KwaZulu-Natal",
-            "Eastern Cape",
-            "South African coastal and interior regions"
-          ]
-        },
-        {
           "id": "inugami",
           "name": "Inugami",
           "regions": [
@@ -1369,15 +1325,6 @@
           ]
         },
         {
-          "id": "orang-minyak",
-          "name": "Orang Minyak",
-          "regions": [
-            "Selangor, Malaysia",
-            "Various Malaysian states",
-            "Singapore"
-          ]
-        },
-        {
           "id": "papa-bois",
           "name": "Papa Bois",
           "regions": [
@@ -1572,40 +1519,6 @@
           ]
         },
         {
-          "id": "wendigo",
-          "name": "Wendigo",
-          "regions": [
-            "Boreal forest / taiga",
-            "Ontario",
-            "Manitoba",
-            "Quebec",
-            "Labrador",
-            "Saskatchewan",
-            "Alberta",
-            "Minnesota",
-            "Wisconsin",
-            "Michigan (Upper Peninsula)"
-          ]
-        },
-        {
-          "id": "windigo",
-          "name": "Windigo",
-          "regions": [
-            "Boreal forest",
-            "Subarctic Canada",
-            "Great Lakes region",
-            "Northern Ontario",
-            "Northern Quebec",
-            "Manitoba",
-            "Saskatchewan",
-            "Alberta",
-            "Labrador",
-            "Minnesota",
-            "Wisconsin",
-            "Michigan"
-          ]
-        },
-        {
           "id": "xtabay",
           "name": "Xtabay",
           "regions": [
@@ -1617,16 +1530,6 @@
           ]
         },
         {
-          "id": "yacuruna",
-          "name": "Yacuruna",
-          "regions": [
-            "Amazon basin",
-            "Upper Amazon (Peru)",
-            "Loreto region, Peru",
-            "Ucayali region, Peru"
-          ]
-        },
-        {
           "id": "yama-no-kami",
           "name": "Yama-no-kami",
           "regions": [
@@ -1634,13 +1537,6 @@
             "Particularly prominent in central Honshu",
             "Significant tradition on Mount Hiei (Oyamakui no Kami)",
             "Mount Fuji associated with Ōyamatsumi worship"
-          ]
-        },
-        {
-          "id": "yama-oroshi",
-          "name": "Yama-oroshi",
-          "regions": [
-            "Japan (mountain regions)"
           ]
         },
         {
@@ -3020,282 +2916,9 @@
         }
       ]
     },
-    "ghost_haunting": {
-      "name": "ghost_haunting",
-      "count": 26,
-      "phenomena": [
-        {
-          "id": "aka-manto",
-          "name": "Aka Manto",
-          "regions": [
-            "Osaka",
-            "Tokyo",
-            "Kitakyushu",
-            "Korean Peninsula (under Japanese administration in 1940)"
-          ]
-        },
-        {
-          "id": "duppy",
-          "name": "Duppy",
-          "regions": [
-            "Greater Antilles",
-            "Bahamas",
-            "Caribbean coast of Central America",
-            "Gold Coast (historic, present-day Ghana)"
-          ]
-        },
-        {
-          "id": "el-silbon",
-          "name": "El Silbón",
-          "regions": [
-            "Llanos (Orinoquía)",
-            "Portuguesa State",
-            "Guárico State",
-            "Apure State",
-            "Eastern Llanos (Colombia)",
-            "Casanare Department",
-            "Meta Department"
-          ]
-        },
-        {
-          "id": "ghosts",
-          "name": "Ghosts and Hauntings",
-          "regions": [
-            "British Isles",
-            "New England",
-            "Old South (USA)",
-            "East Asia",
-            "South Asia",
-            "Latin America"
-          ]
-        },
-        {
-          "id": "grey-lady",
-          "name": "Grey Lady",
-          "regions": [
-            "England",
-            "Scotland",
-            "Northern Ireland",
-            "New England and the Midwest US",
-            "Otago"
-          ]
-        },
-        {
-          "id": "hanako-san",
-          "name": "Hanako-san",
-          "regions": [
-            "Kantō (including Tokyo)",
-            "Kansai",
-            "Hokkaidō",
-            "Kyūshū"
-          ]
-        },
-        {
-          "id": "hantu-pontianak",
-          "name": "Pontianak",
-          "regions": [
-            "Malay Peninsula",
-            "Java",
-            "Sumatra",
-            "Borneo (Kalimantan and East Malaysia)"
-          ]
-        },
-        {
-          "id": "hasshaku-sama",
-          "name": "Hasshaku-sama",
-          "regions": [
-            "rural Japan (canonical story setting)"
-          ]
-        },
-        {
-          "id": "headless-horseman",
-          "name": "Headless Horseman",
-          "regions": [
-            "Sleepy Hollow / Tarrytown, New York",
-            "Isle of Mull, Scotland",
-            "Cape Breton, Nova Scotia",
-            "Rhineland, Germany",
-            "Wales (multiple)",
-            "Dartmoor, England",
-            "South Texas (El Muerto)"
-          ]
-        },
-        {
-          "id": "hungry-ghost",
-          "name": "Hungry ghost",
-          "regions": [
-            "South Asia",
-            "East Asia",
-            "Southeast Asia",
-            "Tibetan plateau",
-            "Sinosphere",
-            "Theravāda Buddhist countries"
-          ]
-        },
-        {
-          "id": "jumbie",
-          "name": "Jumbie",
-          "regions": [
-            "English-speaking Caribbean broadly",
-            "Guyana",
-            "Trinidad",
-            "Antigua",
-            "The Bahamas",
-            "US Virgin Islands",
-            "British Virgin Islands"
-          ]
-        },
-        {
-          "id": "la-llorona",
-          "name": "La Llorona",
-          "regions": [
-            "Central Mexico",
-            "U.S.-Mexico border",
-            "Southwestern United States",
-            "Central America",
-            "Andean South America",
-            "Río de la Plata"
-          ]
-        },
-        {
-          "id": "mae-nak",
-          "name": "Mae Nak Phra Khanong",
-          "regions": [
-            "Bangkok",
-            "Phra Khanong",
-            "Suan Luang"
-          ]
-        },
-        {
-          "id": "nightmarchers",
-          "name": "Night Marchers",
-          "regions": [
-            "Hawaiian Islands"
-          ]
-        },
-        {
-          "id": "phantom-armies",
-          "name": "Phantom Armies",
-          "regions": [
-            "Britain",
-            "Crete",
-            "Pennsylvania (Gettysburg)",
-            "Northern France (Western Front)",
-            "Scottish Highlands"
-          ]
-        },
-        {
-          "id": "phantom-ships",
-          "name": "Phantom Ships",
-          "regions": [
-            "Cape of Good Hope",
-            "North Atlantic",
-            "Indian Ocean",
-            "Pacific Ocean"
-          ]
-        },
-        {
-          "id": "phi-am",
-          "name": "Phi Am",
-          "regions": [
-            "Mainland Southeast Asia"
-          ]
-        },
-        {
-          "id": "phi-tai-hong",
-          "name": "Phi Tai Hong",
-          "regions": [
-            "Mainland Southeast Asia"
-          ]
-        },
-        {
-          "id": "poltergeist",
-          "name": "Poltergeist",
-          "regions": [
-            "Western and Central Europe",
-            "Anglophone North America",
-            "Brazil"
-          ]
-        },
-        {
-          "id": "resurrection-mary",
-          "name": "Resurrection Mary",
-          "regions": [
-            "Cook County, Illinois",
-            "Chicago metropolitan area",
-            "Archer Avenue corridor"
-          ]
-        },
-        {
-          "id": "screaming-skull",
-          "name": "Screaming Skull",
-          "regions": [
-            "Dorset",
-            "Derbyshire",
-            "East Yorkshire",
-            "Greater Manchester",
-            "Somerset",
-            "Cumbria",
-            "East Sussex"
-          ]
-        },
-        {
-          "id": "siguanaba",
-          "name": "La Siguanaba",
-          "regions": [
-            "Cuscatlán (El Salvador)",
-            "Pacific Guatemala",
-            "rural Honduras",
-            "rural Nicaragua",
-            "Costa Rican countryside"
-          ]
-        },
-        {
-          "id": "sundel-bolong",
-          "name": "Sundel Bolong",
-          "regions": [
-            "Java",
-            "Sumatra",
-            "Kalimantan",
-            "Indonesian archipelago broadly"
-          ]
-        },
-        {
-          "id": "teke-teke",
-          "name": "Teke Teke",
-          "regions": [
-            "Hokkaidō (Kashima Reiko origin)",
-            "Honshū",
-            "Japanese urban areas generally"
-          ]
-        },
-        {
-          "id": "wewe-gombel",
-          "name": "Wewe Gombel",
-          "regions": [
-            "Central Java",
-            "Semarang",
-            "East Java (broader Javanese cultural area)"
-          ]
-        },
-        {
-          "id": "white-lady",
-          "name": "White Lady",
-          "regions": [
-            "Bohemia",
-            "Brandenburg",
-            "English country houses",
-            "Welsh borderlands",
-            "Low Saxon Netherlands",
-            "Northeastern United States",
-            "Quezon City, Metro Manila"
-          ]
-        }
-      ]
-    },
     "ufo_uap": {
       "name": "ufo_uap",
-      "count": 12,
+      "count": 11,
       "phenomena": [
         {
           "id": "aliens",
@@ -3387,15 +3010,6 @@
           ]
         },
         {
-          "id": "phoenix-lights",
-          "name": "Phoenix Lights",
-          "regions": [
-            "Arizona",
-            "Nevada",
-            "Sonoran Desert"
-          ]
-        },
-        {
           "id": "rendlesham-forest",
           "name": "Rendlesham Forest Incident",
           "regions": [
@@ -3416,7 +3030,7 @@
     },
     "fae_folklore": {
       "name": "fae_folklore",
-      "count": 29,
+      "count": 26,
       "phenomena": [
         {
           "id": "alux",
@@ -3426,16 +3040,6 @@
             "Quintana Roo",
             "Campeche",
             "Petén"
-          ]
-        },
-        {
-          "id": "aos-si",
-          "name": "Aos Sí",
-          "regions": [
-            "Ireland (especially the west: Connacht, Kerry, Donegal)",
-            "Scottish Highlands and Hebrides",
-            "Isle of Man",
-            "Irish and Scottish diaspora communities"
           ]
         },
         {
@@ -3511,20 +3115,6 @@
             "East Slavic lands",
             "West Slavic lands",
             "South Slavic lands"
-          ]
-        },
-        {
-          "id": "duende",
-          "name": "Duende",
-          "regions": [
-            "Cantabria and Asturias",
-            "Galicia",
-            "Andalusia",
-            "Yucatán Peninsula",
-            "Oaxaca cloud forests",
-            "Belizean Cayo and Toledo districts",
-            "Andean cloud forests",
-            "Philippine archipelago"
           ]
         },
         {
@@ -3615,16 +3205,6 @@
             "Comstock Lode (Nevada)",
             "California Mother Lode",
             "Upper Peninsula of Michigan"
-          ]
-        },
-        {
-          "id": "leprechaun",
-          "name": "Leprechaun",
-          "regions": [
-            "Ulster",
-            "Munster",
-            "Leinster",
-            "Connacht"
           ]
         },
         {
@@ -3804,7 +3384,7 @@
     },
     "location": {
       "name": "location",
-      "count": 22,
+      "count": 20,
       "phenomena": [
         {
           "id": "aokigahara",
@@ -3888,11 +3468,6 @@
           ]
         },
         {
-          "id": "haunted-places",
-          "name": "Haunted Places",
-          "regions": []
-        },
-        {
           "id": "helltown-ohio",
           "name": "Helltown, Ohio",
           "regions": [
@@ -3965,15 +3540,6 @@
           ]
         },
         {
-          "id": "superstition-mountains",
-          "name": "Superstition Mountains",
-          "regions": [
-            "Arizona",
-            "Sonoran Desert",
-            "Basin and Range Province"
-          ]
-        },
-        {
           "id": "teotihuacan",
           "name": "Teotihuacan",
           "regions": [
@@ -4001,7 +3567,7 @@
     },
     "demon_angel": {
       "name": "demon_angel",
-      "count": 21,
+      "count": 20,
       "phenomena": [
         {
           "id": "asmodeus",
@@ -4136,16 +3702,6 @@
           ]
         },
         {
-          "id": "mahr",
-          "name": "Mahr",
-          "regions": [
-            "Germanic-speaking Central Europe",
-            "Scandinavia",
-            "Slavic Eastern Europe",
-            "British Isles (Old English mære tradition)"
-          ]
-        },
-        {
           "id": "mammon",
           "name": "Mammon",
           "regions": [
@@ -4220,7 +3776,7 @@
     },
     "shapeshifter": {
       "name": "shapeshifter",
-      "count": 18,
+      "count": 16,
       "phenomena": [
         {
           "id": "aswang",
@@ -4314,28 +3870,6 @@
             "Kansai region (Kyoto)",
             "Tohoku region",
             "Japan generally"
-          ]
-        },
-        {
-          "id": "lagahoo",
-          "name": "Lagahoo",
-          "regions": [
-            "Trinidad",
-            "Tobago",
-            "wider French-Creole Caribbean"
-          ]
-        },
-        {
-          "id": "loup-garou",
-          "name": "Loup-Garou",
-          "regions": [
-            "Continental France",
-            "Quebec",
-            "Acadia / Maritimes",
-            "Louisiana (Acadiana, Greater New Orleans)",
-            "Haiti",
-            "Caribbean Creole world",
-            "Great Lakes (Métis, Ojibwe)"
           ]
         },
         {
@@ -4568,123 +4102,9 @@
         }
       ]
     },
-    "psychic_phenomena": {
-      "name": "psychic_phenomena",
-      "count": 14,
-      "phenomena": [
-        {
-          "id": "automatic-writing",
-          "name": "Automatic Writing",
-          "regions": [
-            "Global"
-          ]
-        },
-        {
-          "id": "bilocation",
-          "name": "Bilocation",
-          "regions": [
-            "Mediterranean Catholicism",
-            "Iberian and Ibero-American Catholicism",
-            "South Asian yogic traditions",
-            "Northern European folkloric traditions"
-          ]
-        },
-        {
-          "id": "crisis-apparition",
-          "name": "Crisis Apparition",
-          "regions": []
-        },
-        {
-          "id": "electronic-voice-phenomena",
-          "name": "Electronic Voice Phenomena (EVP)",
-          "regions": [
-            "Western Europe",
-            "North America"
-          ]
-        },
-        {
-          "id": "exorcism",
-          "name": "Exorcism",
-          "regions": [
-            "Roman Catholic world",
-            "Protestant evangelical world",
-            "Sunni and Shia Islam",
-            "Orthodox Judaism (Kabbalistic)",
-            "Hindu South Asia",
-            "Tibetan Buddhist world"
-          ]
-        },
-        {
-          "id": "mandela-effect",
-          "name": "Mandela Effect",
-          "regions": [
-            "Internet-mediated cultural sphere"
-          ]
-        },
-        {
-          "id": "near-death-experiences",
-          "name": "Near-Death Experiences",
-          "regions": []
-        },
-        {
-          "id": "out-of-body-experiences",
-          "name": "Out-of-Body Experiences",
-          "regions": []
-        },
-        {
-          "id": "possession",
-          "name": "Possession",
-          "regions": [
-            "Pacific (highest documented prevalence)",
-            "Sub-Saharan Africa",
-            "South Asia",
-            "Middle East and North Africa",
-            "Latin America and the Caribbean",
-            "Europe (historical Christian cases)"
-          ]
-        },
-        {
-          "id": "precognition",
-          "name": "Precognition",
-          "regions": []
-        },
-        {
-          "id": "psychic-phenomena",
-          "name": "Psychic Phenomena",
-          "regions": []
-        },
-        {
-          "id": "psychometry",
-          "name": "Psychometry",
-          "regions": []
-        },
-        {
-          "id": "remote-viewing",
-          "name": "Remote Viewing",
-          "regions": [
-            "California (SRI International, Menlo Park)",
-            "Maryland (Fort Meade, U.S. Army INSCOM)",
-            "Princeton, New Jersey (PEAR lab)"
-          ]
-        },
-        {
-          "id": "telepathy",
-          "name": "Telepathy",
-          "regions": [
-            "United Kingdom",
-            "United States",
-            "Russia",
-            "France",
-            "Germany",
-            "Netherlands",
-            "Japan"
-          ]
-        }
-      ]
-    },
     "urban_legend": {
       "name": "urban_legend",
-      "count": 32,
+      "count": 30,
       "phenomena": [
         {
           "id": "backrooms",
@@ -4747,13 +4167,6 @@
           ]
         },
         {
-          "id": "drop-bear",
-          "name": "Drop Bear",
-          "regions": [
-            "All Australian states and territories (within the joke)"
-          ]
-        },
-        {
           "id": "eyeless-jack",
           "name": "Eyeless Jack",
           "regions": []
@@ -4772,11 +4185,6 @@
           "regions": [
             "United States — broadly distributed"
           ]
-        },
-        {
-          "id": "jeff-the-killer",
-          "name": "Jeff the Killer",
-          "regions": []
         },
         {
           "id": "kidney-thieves",
@@ -5055,6 +4463,113 @@
         }
       ]
     },
+    "psychic_phenomena": {
+      "name": "psychic_phenomena",
+      "count": 13,
+      "phenomena": [
+        {
+          "id": "bilocation",
+          "name": "Bilocation",
+          "regions": [
+            "Mediterranean Catholicism",
+            "Iberian and Ibero-American Catholicism",
+            "South Asian yogic traditions",
+            "Northern European folkloric traditions"
+          ]
+        },
+        {
+          "id": "crisis-apparition",
+          "name": "Crisis Apparition",
+          "regions": []
+        },
+        {
+          "id": "electronic-voice-phenomena",
+          "name": "Electronic Voice Phenomena (EVP)",
+          "regions": [
+            "Western Europe",
+            "North America"
+          ]
+        },
+        {
+          "id": "exorcism",
+          "name": "Exorcism",
+          "regions": [
+            "Roman Catholic world",
+            "Protestant evangelical world",
+            "Sunni and Shia Islam",
+            "Orthodox Judaism (Kabbalistic)",
+            "Hindu South Asia",
+            "Tibetan Buddhist world"
+          ]
+        },
+        {
+          "id": "mandela-effect",
+          "name": "Mandela Effect",
+          "regions": [
+            "Internet-mediated cultural sphere"
+          ]
+        },
+        {
+          "id": "near-death-experiences",
+          "name": "Near-Death Experiences",
+          "regions": []
+        },
+        {
+          "id": "out-of-body-experiences",
+          "name": "Out-of-Body Experiences",
+          "regions": []
+        },
+        {
+          "id": "possession",
+          "name": "Possession",
+          "regions": [
+            "Pacific (highest documented prevalence)",
+            "Sub-Saharan Africa",
+            "South Asia",
+            "Middle East and North Africa",
+            "Latin America and the Caribbean",
+            "Europe (historical Christian cases)"
+          ]
+        },
+        {
+          "id": "precognition",
+          "name": "Precognition",
+          "regions": []
+        },
+        {
+          "id": "psychic-phenomena",
+          "name": "Psychic Phenomena",
+          "regions": []
+        },
+        {
+          "id": "psychometry",
+          "name": "Psychometry",
+          "regions": []
+        },
+        {
+          "id": "remote-viewing",
+          "name": "Remote Viewing",
+          "regions": [
+            "California (SRI International, Menlo Park)",
+            "Maryland (Fort Meade, U.S. Army INSCOM)",
+            "Princeton, New Jersey (PEAR lab)"
+          ]
+        },
+        {
+          "id": "telepathy",
+          "name": "Telepathy",
+          "regions": [
+            "United Kingdom",
+            "United States",
+            "Russia",
+            "France",
+            "Germany",
+            "Netherlands",
+            "Japan"
+          ]
+        }
+      ]
+    },
     "conspiracy_theory": {
       "name": "conspiracy_theory",
       "count": 14,
@@ -5177,6 +4692,269 @@
           "name": "Reptilian Conspiracy Theory",
           "regions": [
             "English-speaking online conspiracist communities"
+          ]
+        }
+      ]
+    },
+    "ghost_haunting": {
+      "name": "ghost_haunting",
+      "count": 25,
+      "phenomena": [
+        {
+          "id": "duppy",
+          "name": "Duppy",
+          "regions": [
+            "Greater Antilles",
+            "Bahamas",
+            "Caribbean coast of Central America",
+            "Gold Coast (historic, present-day Ghana)"
+          ]
+        },
+        {
+          "id": "el-silbon",
+          "name": "El Silbón",
+          "regions": [
+            "Llanos (Orinoquía)",
+            "Portuguesa State",
+            "Guárico State",
+            "Apure State",
+            "Eastern Llanos (Colombia)",
+            "Casanare Department",
+            "Meta Department"
+          ]
+        },
+        {
+          "id": "ghosts",
+          "name": "Ghosts and Hauntings",
+          "regions": [
+            "British Isles",
+            "New England",
+            "Old South (USA)",
+            "East Asia",
+            "South Asia",
+            "Latin America"
+          ]
+        },
+        {
+          "id": "grey-lady",
+          "name": "Grey Lady",
+          "regions": [
+            "England",
+            "Scotland",
+            "Northern Ireland",
+            "New England and the Midwest US",
+            "Otago"
+          ]
+        },
+        {
+          "id": "hanako-san",
+          "name": "Hanako-san",
+          "regions": [
+            "Kantō (including Tokyo)",
+            "Kansai",
+            "Hokkaidō",
+            "Kyūshū"
+          ]
+        },
+        {
+          "id": "hantu-pontianak",
+          "name": "Pontianak",
+          "regions": [
+            "Malay Peninsula",
+            "Java",
+            "Sumatra",
+            "Borneo (Kalimantan and East Malaysia)"
+          ]
+        },
+        {
+          "id": "hasshaku-sama",
+          "name": "Hasshaku-sama",
+          "regions": [
+            "rural Japan (canonical story setting)"
+          ]
+        },
+        {
+          "id": "headless-horseman",
+          "name": "Headless Horseman",
+          "regions": [
+            "Sleepy Hollow / Tarrytown, New York",
+            "Isle of Mull, Scotland",
+            "Cape Breton, Nova Scotia",
+            "Rhineland, Germany",
+            "Wales (multiple)",
+            "Dartmoor, England",
+            "South Texas (El Muerto)"
+          ]
+        },
+        {
+          "id": "hungry-ghost",
+          "name": "Hungry ghost",
+          "regions": [
+            "South Asia",
+            "East Asia",
+            "Southeast Asia",
+            "Tibetan plateau",
+            "Sinosphere",
+            "Theravāda Buddhist countries"
+          ]
+        },
+        {
+          "id": "jumbie",
+          "name": "Jumbie",
+          "regions": [
+            "English-speaking Caribbean broadly",
+            "Guyana",
+            "Trinidad",
+            "Antigua",
+            "The Bahamas",
+            "US Virgin Islands",
+            "British Virgin Islands"
+          ]
+        },
+        {
+          "id": "la-llorona",
+          "name": "La Llorona",
+          "regions": [
+            "Central Mexico",
+            "U.S.-Mexico border",
+            "Southwestern United States",
+            "Central America",
+            "Andean South America",
+            "Río de la Plata"
+          ]
+        },
+        {
+          "id": "mae-nak",
+          "name": "Mae Nak Phra Khanong",
+          "regions": [
+            "Bangkok",
+            "Phra Khanong",
+            "Suan Luang"
+          ]
+        },
+        {
+          "id": "nightmarchers",
+          "name": "Night Marchers",
+          "regions": [
+            "Hawaiian Islands"
+          ]
+        },
+        {
+          "id": "phantom-armies",
+          "name": "Phantom Armies",
+          "regions": [
+            "Britain",
+            "Crete",
+            "Pennsylvania (Gettysburg)",
+            "Northern France (Western Front)",
+            "Scottish Highlands"
+          ]
+        },
+        {
+          "id": "phantom-ships",
+          "name": "Phantom Ships",
+          "regions": [
+            "Cape of Good Hope",
+            "North Atlantic",
+            "Indian Ocean",
+            "Pacific Ocean"
+          ]
+        },
+        {
+          "id": "phi-am",
+          "name": "Phi Am",
+          "regions": [
+            "Mainland Southeast Asia"
+          ]
+        },
+        {
+          "id": "phi-tai-hong",
+          "name": "Phi Tai Hong",
+          "regions": [
+            "Mainland Southeast Asia"
+          ]
+        },
+        {
+          "id": "poltergeist",
+          "name": "Poltergeist",
+          "regions": [
+            "Western and Central Europe",
+            "Anglophone North America",
+            "Brazil"
+          ]
+        },
+        {
+          "id": "resurrection-mary",
+          "name": "Resurrection Mary",
+          "regions": [
+            "Cook County, Illinois",
+            "Chicago metropolitan area",
+            "Archer Avenue corridor"
+          ]
+        },
+        {
+          "id": "screaming-skull",
+          "name": "Screaming Skull",
+          "regions": [
+            "Dorset",
+            "Derbyshire",
+            "East Yorkshire",
+            "Greater Manchester",
+            "Somerset",
+            "Cumbria",
+            "East Sussex"
+          ]
+        },
+        {
+          "id": "siguanaba",
+          "name": "La Siguanaba",
+          "regions": [
+            "Cuscatlán (El Salvador)",
+            "Pacific Guatemala",
+            "rural Honduras",
+            "rural Nicaragua",
+            "Costa Rican countryside"
+          ]
+        },
+        {
+          "id": "sundel-bolong",
+          "name": "Sundel Bolong",
+          "regions": [
+            "Java",
+            "Sumatra",
+            "Kalimantan",
+            "Indonesian archipelago broadly"
+          ]
+        },
+        {
+          "id": "teke-teke",
+          "name": "Teke Teke",
+          "regions": [
+            "Hokkaidō (Kashima Reiko origin)",
+            "Honshū",
+            "Japanese urban areas generally"
+          ]
+        },
+        {
+          "id": "wewe-gombel",
+          "name": "Wewe Gombel",
+          "regions": [
+            "Central Java",
+            "Semarang",
+            "East Java (broader Javanese cultural area)"
+          ]
+        },
+        {
+          "id": "white-lady",
+          "name": "White Lady",
+          "regions": [
+            "Bohemia",
+            "Brandenburg",
+            "English country houses",
+            "Welsh borderlands",
+            "Low Saxon Netherlands",
+            "Northeastern United States",
+            "Quezon City, Metro Manila"
           ]
         }
       ]
