@@ -1,10 +1,10 @@
 {
   "version": "1.0.0",
-  "generated": "2026-07-09T14:45:39.795Z",
-  "total_phenomena": 514,
+  "generated": "2026-07-09T19:36:46.568Z",
+  "total_phenomena": 512,
   "by_category": {
     "mythological_creature": 63,
-    "entity_spirit": 103,
+    "entity_spirit": 102,
     "cryptid": 102,
     "undead": 28,
     "ghost_haunting": 26,
@@ -12,7 +12,7 @@
     "fae_folklore": 29,
     "cultural_artifact": 6,
     "location": 22,
-    "demon_angel": 21,
+    "demon_angel": 20,
     "shapeshifter": 18,
     "atmospheric_phenomenon": 14,
     "psychic_phenomena": 14,
@@ -58,7 +58,7 @@
     "Central Asia": 5,
     "South Asia": 14,
     "Southeast Asia": 7,
-    "Balkans": 6,
+    "Balkans": 5,
     "Jazīrat al-Tinnīn (Dragon Island) of medieval Arabic cosmography": 1,
     "Indian Ocean of the marvels tradition": 1,
     "American Southwest (New Mexico, Arizona, Nevada)": 1,
@@ -125,7 +125,7 @@
     "Maroon communities of 18th-century Jamaica": 1,
     "Ancient Near East": 2,
     "Mesopotamia / Babylonia (Talmudic context)": 1,
-    "Levant": 8,
+    "Levant": 7,
     "Iranian world (Avestan source)": 1,
     "Christian Europe (medieval and early-modern grimoiric tradition)": 2,
     "Islamic world (Sakhr tradition)": 1,
@@ -362,9 +362,6 @@
     "Kafue Flats": 1,
     "Luapula River": 1,
     "Lake Mweru basin": 1,
-    "Edo (modern Tokyo) — primary publishing centre for the imagery": 1,
-    "Kyoto and Osaka — kabuki and ukiyo-e production": 1,
-    "Nationwide via mass-produced karuta, kusazōshi, and toy prints": 1,
     "Loreto (Peruvian Amazon)": 1,
     "Ucayali": 1,
     "San Martín": 1,
@@ -592,9 +589,6 @@
     "Buddhist world": 1,
     "Kanto region": 1,
     "Tokyo area (formerly Shibasaki / Edo)": 1,
-    "Aegean": 3,
-    "Anatolia": 2,
-    "North Africa": 2,
     "Pennsylvania": 3,
     "Mid-Atlantic": 2,
     "Old South (USA)": 1,
@@ -615,6 +609,7 @@
     "Prague (Jewish ghetto / Josefov)": 1,
     "Chelm, Poland": 1,
     "Vilna (Vilnius), Lithuania": 1,
+    "Aegean": 2,
     "Magna Graecia": 1,
     "Etruria": 1,
     "Roman provinces": 1,
@@ -896,6 +891,7 @@
     "Germanic Europe": 4,
     "Trans-Pecos": 1,
     "Presidio County": 1,
+    "North Africa": 1,
     "Aberdare Range": 1,
     "Kinangop Plateau": 1,
     "Mau Escarpment": 1,
@@ -1070,6 +1066,7 @@
     "Malay world (alam Melayu)": 2,
     "Kedah": 1,
     "Iranian Plateau": 1,
+    "Anatolia": 1,
     "Hindu Kush": 1,
     "Britain": 1,
     "Pennsylvania (Gettysburg)": 1,
@@ -1472,9 +1469,9 @@
     "Poland (żmij and the Wawel Dragon of Kraków)": 1
   },
   "by_danger_level": {
-    "unknown": 514
+    "unknown": 512
   },
   "by_evidence_level": {
-    "unknown": 514
+    "unknown": 512
   }
 }
