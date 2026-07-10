@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "generated": "2026-07-09T19:36:46.527Z",
+  "generated": "2026-07-10T02:29:24.967Z",
   "total": 16,
   "categories": {
     "mythological_creature": {
@@ -633,7 +633,7 @@
     },
     "entity_spirit": {
       "name": "entity_spirit",
-      "count": 102,
+      "count": 103,
       "phenomena": [
         {
           "id": "abumi-guchi",
@@ -829,6 +829,15 @@
             "Hidalgo",
             "Sierra Norte de Puebla",
             "Gulf Coast lowlands"
+          ]
+        },
+        {
+          "id": "chochinobake",
+          "name": "Chōchin-obake",
+          "regions": [
+            "Edo (modern Tokyo) — primary publishing centre for the imagery",
+            "Kyoto and Osaka — kabuki and ukiyo-e production",
+            "Nationwide via mass-produced karuta, kusazōshi, and toy prints"
           ]
         },
         {
@@ -3992,7 +4001,7 @@
     },
     "demon_angel": {
       "name": "demon_angel",
-      "count": 20,
+      "count": 21,
       "phenomena": [
         {
           "id": "asmodeus",
@@ -4096,6 +4105,17 @@
           "regions": [
             "Attica",
             "Hellenistic eastern Mediterranean"
+          ]
+        },
+        {
+          "id": "gello",
+          "name": "Gello",
+          "regions": [
+            "Aegean",
+            "Anatolia",
+            "Levant",
+            "Balkans",
+            "North Africa"
           ]
         },
         {

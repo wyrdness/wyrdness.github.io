@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
-  "generated": "2026-07-09T19:36:46.476Z",
-  "total": 512,
+  "generated": "2026-07-10T02:29:24.917Z",
+  "total": 514,
   "phenomena": [
     {
       "id": "abada",
@@ -4587,6 +4587,52 @@
       "evidence_level": "unknown"
     },
     {
+      "id": "chochinobake",
+      "name": "Chōchin-obake",
+      "category": "entity_spirit",
+      "description": "Chōchin-obake is a Japanese yōkai depicted as an old paper lantern (chōchin) that has split open along its bamboo ribs to reveal a single eye, a long protruding tongue, and a wide mouth — a classic example of a tsukumogami, an everyday object brought to life after long use.",
+      "aliases": [
+        {
+          "name": "提灯お化け",
+          "language": "Japanese",
+          "meaning": "lantern ghost / lantern monster"
+        },
+        {
+          "name": "Chōchin'obake",
+          "language": "Japanese (romanised)"
+        },
+        {
+          "name": "Bake-chōchin",
+          "language": "Japanese",
+          "meaning": "monster lantern"
+        },
+        {
+          "name": "Bura-bura",
+          "language": "Japanese",
+          "meaning": "literally 'dangle-dangle'; name used by Toriyama Sekien for a hanging lantern yōkai"
+        }
+      ],
+      "tags": [
+        "japanese-folklore",
+        "yokai",
+        "tsukumogami",
+        "edo-period",
+        "lantern",
+        "harmless",
+        "picture-yokai"
+      ],
+      "status": "documented",
+      "regions": [
+        "Edo (modern Tokyo) — primary publishing centre for the imagery",
+        "Kyoto and Osaka — kabuki and ukiyo-e production",
+        "Nationwide via mass-produced karuta, kusazōshi, and toy prints"
+      ],
+      "origin": "The chōchin-obake is a creature of the Japanese popular imagination, attested across the Japanese archipelago through printed illustration and stage drama, with no specific regional folk-legend tradition.",
+      "first_reported": "1781",
+      "danger_level": "unknown",
+      "evidence_level": "unknown"
+    },
+    {
       "id": "chullachaqui",
       "name": "Chullachaqui",
       "category": "entity_spirit",
@@ -7899,6 +7945,67 @@
       ],
       "origin": "A creature of Japanese mythology associated with the Kanto region and with sites of historical mass starvation or battlefield death. Most strongly associated with events in the Kanto area related to Taira no Masakado.",
       "first_reported": "1966-01-01",
+      "danger_level": "unknown",
+      "evidence_level": "unknown"
+    },
+    {
+      "id": "gello",
+      "name": "Gello",
+      "category": "demon_angel",
+      "description": "A female demon of Greek and Byzantine tradition, attested as early as Sappho (6th century BC), said to attack pregnant women, newborns, and the unmarried, and the central target of a long-running corpus of apotropaic charms and exorcisms in the Greek-speaking world.",
+      "aliases": [
+        {
+          "name": "Gyllou",
+          "language": "Greek (Byzantine)",
+          "region": "Byzantine Empire"
+        },
+        {
+          "name": "Gylou",
+          "language": "Greek"
+        },
+        {
+          "name": "Gillo",
+          "language": "Greek"
+        },
+        {
+          "name": "Gelu",
+          "language": "Greek"
+        },
+        {
+          "name": "Gelloudes",
+          "language": "Greek (Byzantine)",
+          "meaning": "plural form denoting a class of demons"
+        },
+        {
+          "name": "Abyzou",
+          "language": "Greek",
+          "meaning": "from abyssos, 'the deep'; identified with Gello in late antiquity and Byzantine literature"
+        },
+        {
+          "name": "Baskania",
+          "language": "Greek",
+          "meaning": "evil eye"
+        }
+      ],
+      "tags": [
+        "child-killer",
+        "greek-folklore",
+        "byzantine",
+        "female-demon",
+        "apotropaic",
+        "infant-death",
+        "lamia-tradition"
+      ],
+      "status": "documented",
+      "regions": [
+        "Aegean",
+        "Anatolia",
+        "Levant",
+        "Balkans",
+        "North Africa"
+      ],
+      "origin": "Originally a localized Greek tradition (attested for Sappho on Lesbos), the Gello / gelloudes complex spread throughout the Greek-speaking Byzantine world and, through the 'Legend of Saint Sisinnios', into Coptic, Ethiopic, Armenian, Romanian, Slavonic, Arabic, Syriac, and Hebrew manuscript traditions across the eastern Mediterranean and Near East.",
+      "first_reported": "Pre-6th century BC",
       "danger_level": "unknown",
       "evidence_level": "unknown"
     },
