@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
-  "generated": "2026-07-10T09:30:17.397Z",
-  "total": 495,
+  "generated": "2026-07-10T14:09:30.465Z",
+  "total": 514,
   "phenomena": [
     {
       "id": "abada",
@@ -1365,6 +1365,59 @@
       "evidence_level": "unknown"
     },
     {
+      "id": "astaroth",
+      "name": "Astaroth",
+      "category": "demon_angel",
+      "description": "A Great Duke of Hell in Christian demonology, derived by demonisation from the Phoenician goddess Astarte / biblical Ashtoreth. Best known as Astaroth, ranked 29th in the Ars Goetia of the Lesser Key of Solomon, where he commands forty legions.",
+      "aliases": [
+        {
+          "name": "Ashtaroth",
+          "language": "Hebrew",
+          "meaning": "Plural of the Hebrew form of the goddess name; biblical Hebrew form"
+        },
+        {
+          "name": "Ashtoreth",
+          "language": "Hebrew",
+          "meaning": "Singular biblical Hebrew form, used as a proper name in the Hebrew Bible"
+        },
+        {
+          "name": "Astaroth",
+          "language": "Latin / English",
+          "meaning": "Demonological form"
+        },
+        {
+          "name": "Astarte",
+          "language": "Greek (from Phoenician ʿAṯtart)",
+          "meaning": "Underlying ancient Near Eastern goddess from whom the demon name derives"
+        },
+        {
+          "name": "Diabolus Astaroth",
+          "language": "Medieval Latin",
+          "meaning": "Standard Latin demonological designation"
+        }
+      ],
+      "tags": [
+        "demonology",
+        "goetia",
+        "lesser-key-of-solomon",
+        "pseudomonarchia-daemonum",
+        "duke-of-hell",
+        "ashtoreth",
+        "phoenician-goddess",
+        "demonization-of-pagan-deity",
+        "christian-demonology"
+      ],
+      "status": "documented",
+      "regions": [
+        "Levant (origin of the goddess Astarte)",
+        "Christian Europe (medieval and early-modern grimoiric tradition)"
+      ],
+      "origin": "A textual phenomenon of Christian demonology and Western ceremonial magic, with antecedents in the ancient Near Eastern goddess Astarte and the biblical polemic against her cult.",
+      "first_reported": "1000-01-01",
+      "danger_level": "unknown",
+      "evidence_level": "unknown"
+    },
+    {
       "id": "aswang",
       "name": "Aswang",
       "category": "shapeshifter",
@@ -2228,6 +2281,50 @@
       ],
       "origin": "The Basilisco Chilote legend is specific to the Chiloé Archipelago in the Los Lagos region of southern Chile. It is embedded in Chilote culture, which developed in relative isolation from the mainland during the colonial period, producing a distinctive mythology that blends Mapuche (Huilliche and Mapuche) indigenous traditions with Spanish Catholic folk belief.",
       "first_reported": "Pre-contact",
+      "danger_level": "unknown",
+      "evidence_level": "unknown"
+    },
+    {
+      "id": "basilisk",
+      "name": "Basilisk",
+      "category": "mythological_creature",
+      "description": "A legendary reptile of classical and medieval European tradition, often called the king of serpents, with a lethal gaze, lethal breath, or both. Originally described by Pliny the Elder as a small Cyrenaican snake; later conflated with the cockatrice.",
+      "aliases": [
+        {
+          "name": "Basiliskos",
+          "language": "Ancient Greek",
+          "meaning": "Little king"
+        },
+        {
+          "name": "Regulus",
+          "language": "Latin",
+          "meaning": "Little king"
+        },
+        {
+          "name": "Cockatrice",
+          "region": "Medieval Western Europe",
+          "meaning": "Conflated with the basilisk in late medieval and early modern usage"
+        }
+      ],
+      "tags": [
+        "serpent",
+        "venomous",
+        "folklore",
+        "mythology",
+        "europe",
+        "north-africa",
+        "medieval-bestiary",
+        "petrification"
+      ],
+      "status": "documented",
+      "regions": [
+        "Cyrenaica",
+        "Mediterranean",
+        "Central Europe",
+        "Cantabria"
+      ],
+      "origin": "Originally located by Greco-Roman authors in Cyrenaica (modern eastern Libya) and the deserts of North Africa. Medieval European folklore relocated the creature to wells, cellars, and ruins across Europe, with notable later legends in Poland (Warsaw) and Lithuania (Vilnius).",
+      "first_reported": "0079-01-01",
       "danger_level": "unknown",
       "evidence_level": "unknown"
     },
@@ -4030,6 +4127,45 @@
       "evidence_level": "unknown"
     },
     {
+      "id": "ceasg",
+      "name": "Ceasg",
+      "category": "mythological_creature",
+      "description": "A mermaid figure of Scottish Gaelic folklore: the upper body of a woman joined to the tail of a grilse (young salmon). Captured ceasgs are said to grant three wishes in exchange for their freedom.",
+      "aliases": [
+        {
+          "name": "Maighdean na tuinne",
+          "language": "Scottish Gaelic",
+          "meaning": "'maid of the wave'"
+        },
+        {
+          "name": "Maighdean mhara",
+          "language": "Scottish Gaelic",
+          "meaning": "'maid of the sea'"
+        }
+      ],
+      "tags": [
+        "mermaid",
+        "scottish",
+        "gaelic",
+        "highland",
+        "salmon",
+        "three-wishes",
+        "aquatic-spirit"
+      ],
+      "status": "documented",
+      "regions": [
+        "Scottish Highlands",
+        "Outer Hebrides",
+        "Inner Hebrides",
+        "Argyll",
+        "West Coast of Scotland"
+      ],
+      "origin": "Coastal and riverine Scottish Gàidhealtachd (Highlands and Western Isles).",
+      "first_reported": "1900",
+      "danger_level": "unknown",
+      "evidence_level": "unknown"
+    },
+    {
       "id": "centaur",
       "name": "Centaur",
       "category": "mythological_creature",
@@ -4070,6 +4206,42 @@
       ],
       "origin": "In Greek myth, centaurs inhabit the mountains of Thessaly (especially Mount Pelion) and the Foloi oak forest of Elis in the western Peloponnese.",
       "first_reported": "0750",
+      "danger_level": "unknown",
+      "evidence_level": "unknown"
+    },
+    {
+      "id": "cerberus",
+      "name": "Cerberus",
+      "category": "mythological_creature",
+      "description": "The multi-headed hound of Greek mythology that guards the gates of Hades, preventing the dead from leaving. Most famously captured by Heracles as his twelfth and final labour.",
+      "aliases": [
+        {
+          "name": "Kérberos",
+          "language": "Ancient Greek",
+          "meaning": "the original Greek form"
+        },
+        {
+          "name": "Hellhound (general descriptor)",
+          "region": "later European usage"
+        }
+      ],
+      "tags": [
+        "greek-mythology",
+        "underworld",
+        "multi-headed",
+        "guardian",
+        "hellhound",
+        "heracles",
+        "hades"
+      ],
+      "status": "documented",
+      "regions": [
+        "Hades / the Greek underworld",
+        "Cape Tainaron (Laconia)",
+        "Lake Avernus (Campania)"
+      ],
+      "origin": "In classical mythology Cerberus is located at the entrance to the Greek underworld; the entrance was traditionally placed at sites such as Cape Tainaron in Laconia and Lake Avernus in Campania.",
+      "first_reported": "0700",
       "danger_level": "unknown",
       "evidence_level": "unknown"
     },
@@ -6771,6 +6943,58 @@
       "evidence_level": "unknown"
     },
     {
+      "id": "elemental-spirits",
+      "name": "Elemental Spirits",
+      "category": "entity_spirit",
+      "description": "The four classes of nature spirits — gnomes (earth), undines (water), sylphs (air), and salamanders (fire) — codified in the 16th-century writings of Paracelsus and elaborated through Rosicrucian, Theosophical, and modern occult traditions.",
+      "aliases": [
+        {
+          "name": "Elementals",
+          "language": "English"
+        },
+        {
+          "name": "Sagani",
+          "language": "Latin (Paracelsus)",
+          "meaning": "Paracelsus's collective term for the four elementals (De Meteoris)"
+        },
+        {
+          "name": "Gnome",
+          "meaning": "Earth elemental in Paracelsus's classification"
+        },
+        {
+          "name": "Undine",
+          "language": "Latin",
+          "meaning": "Water elemental, from unda ('wave')"
+        },
+        {
+          "name": "Sylph",
+          "meaning": "Air elemental in Paracelsus's classification"
+        },
+        {
+          "name": "Salamander",
+          "meaning": "Fire elemental in Paracelsus's classification"
+        }
+      ],
+      "tags": [
+        "occult",
+        "alchemy",
+        "paracelsus",
+        "four-elements",
+        "renaissance",
+        "european-folklore",
+        "esoteric"
+      ],
+      "status": "documented",
+      "regions": [
+        "Western Europe",
+        "global Western occult community"
+      ],
+      "origin": "Conceptually global — wherever earth, water, air, or fire is found — but the systematic classification originates in Western European Renaissance occultism and has spread globally through Rosicrucian, Theosophical, and modern esoteric currents.",
+      "first_reported": "1566-01-01",
+      "danger_level": "unknown",
+      "evidence_level": "unknown"
+    },
+    {
       "id": "eloko",
       "name": "Eloko",
       "category": "entity_spirit",
@@ -8549,6 +8773,51 @@
       "evidence_level": "unknown"
     },
     {
+      "id": "griffin",
+      "name": "Griffin",
+      "category": "mythological_creature",
+      "description": "The Griffin is a legendary hybrid creature with the body of a lion and the head, wings, and forelimb-talons of an eagle. Attested from Bronze Age Near Eastern art and central to Greek and medieval European heraldry.",
+      "aliases": [
+        {
+          "name": "Gryphon",
+          "language": "English",
+          "meaning": "spelling variant"
+        },
+        {
+          "name": "Gryps",
+          "language": "Latin"
+        },
+        {
+          "name": "Gryphus",
+          "language": "Latin"
+        },
+        {
+          "name": "Gryps / Grypos",
+          "language": "Ancient Greek (γρύψ)"
+        }
+      ],
+      "tags": [
+        "mythology",
+        "hybrid",
+        "ancient-near-east",
+        "greek",
+        "heraldry",
+        "guardian"
+      ],
+      "status": "documented",
+      "regions": [
+        "Ancient Near East",
+        "Aegean and Greek world",
+        "Scythia (Central Asia)",
+        "medieval Europe",
+        "modern heraldic Europe"
+      ],
+      "origin": "A creature of myth and iconography. Imagery extends from Predynastic Egypt and Mesopotamia through Bronze Age Crete, the wider Mediterranean, the medieval Christian West, and into modern heraldry.",
+      "first_reported": "c. 3300–3100 BC",
+      "danger_level": "unknown",
+      "evidence_level": "unknown"
+    },
+    {
       "id": "grootslang",
       "name": "Grootslang",
       "category": "cryptid",
@@ -9132,6 +9401,45 @@
       "evidence_level": "unknown"
     },
     {
+      "id": "hasshaku-sama",
+      "name": "Hasshaku-sama",
+      "category": "ghost_haunting",
+      "description": "Hasshaku-sama is a Japanese internet-era urban legend originating on 2channel describing an unnaturally tall female ghost roughly 2.4 metres in height who, having become fixated on a child, pursues them with a deep masculine 'po, po, po' laugh and an ability to imitate family members' voices.",
+      "aliases": [
+        {
+          "name": "Hachishakusama",
+          "language": "Japanese (alt. romanization)",
+          "meaning": "Lady Eight Shaku"
+        },
+        {
+          "name": "八尺様",
+          "language": "Japanese (kanji)",
+          "meaning": "'Eight-shaku Lady'"
+        },
+        {
+          "name": "Eight-Foot-Tall Woman",
+          "language": "English",
+          "meaning": "Common English gloss"
+        }
+      ],
+      "tags": [
+        "japan",
+        "urban-legend",
+        "creepypasta",
+        "2channel",
+        "tall-spirit",
+        "child-targeting-ghost"
+      ],
+      "status": "documented",
+      "regions": [
+        "rural Japan (canonical story setting)"
+      ],
+      "origin": "Japanese internet folklore originating on 2channel; the canonical story is set in rural Japan but the legend itself is now globally circulated through creepypasta communities.",
+      "first_reported": "2008-08-01",
+      "danger_level": "unknown",
+      "evidence_level": "unknown"
+    },
+    {
       "id": "haunted-places",
       "name": "Haunted Places",
       "category": "location",
@@ -9574,6 +9882,47 @@
       ],
       "origin": "A theoretical claim about the entire Earth; major proponents and movements have been concentrated in the United Kingdom (Halley), the United States (Symmes, Teed, Gardner, modern conspiracists), and Russia / continental Europe (Ossendowski, Theosophy).",
       "first_reported": "1692",
+      "danger_level": "unknown",
+      "evidence_level": "unknown"
+    },
+    {
+      "id": "hookman",
+      "name": "The Hookman",
+      "category": "urban_legend",
+      "description": "A classic American urban legend in which a couple parked at a lovers' lane flee from a radio-warned escaped killer with a hook for a hand and find his hook torn off and dangling from the car door handle.",
+      "aliases": [
+        {
+          "name": "The Hook",
+          "region": "United States"
+        },
+        {
+          "name": "The Hook Man",
+          "region": "United States"
+        },
+        {
+          "name": "The Man with the Hook",
+          "region": "United States"
+        },
+        {
+          "name": "The Hook-Handed Killer",
+          "region": "United States"
+        }
+      ],
+      "tags": [
+        "urban-legend",
+        "american-folklore",
+        "teenage-folklore",
+        "lovers-lane",
+        "moral-tale",
+        "campfire-story",
+        "1950s-folklore"
+      ],
+      "status": "documented",
+      "regions": [
+        "United States — broadly distributed"
+      ],
+      "origin": "American urban legend with countless local variants throughout the contiguous United States; the legend has also circulated in Canada and the United Kingdom.",
+      "first_reported": "1960-11-08",
       "danger_level": "unknown",
       "evidence_level": "unknown"
     },
@@ -11568,6 +11917,53 @@
       "evidence_level": "unknown"
     },
     {
+      "id": "kraken",
+      "name": "Kraken",
+      "category": "cryptid",
+      "description": "A legendary sea monster of enormous size from Scandinavian folklore, traditionally described as a giant cephalopod dwelling off the coasts of Norway and Greenland, capable of dragging entire ships beneath the waves.",
+      "aliases": [
+        {
+          "name": "Hafgufa",
+          "language": "Old Norse",
+          "region": "Iceland/Norway",
+          "meaning": "Sea reeker; a medieval sea monster often equated with the Kraken"
+        },
+        {
+          "name": "Sciu-crak",
+          "language": "Norwegian",
+          "region": "Norway",
+          "meaning": "Variant name recorded by Francesco Negri in 1700"
+        },
+        {
+          "name": "Krake",
+          "language": "Norwegian",
+          "region": "Scandinavia",
+          "meaning": "Indefinite form of the Norwegian word from which Kraken derives"
+        }
+      ],
+      "tags": [
+        "sea-monster",
+        "cephalopod",
+        "scandinavian",
+        "maritime",
+        "nautical-folklore",
+        "norse-mythology",
+        "giant-creature",
+        "ocean"
+      ],
+      "status": "historical",
+      "regions": [
+        "Norwegian Sea",
+        "North Atlantic Ocean",
+        "Waters off the coast of Nordland, Norway",
+        "Greenlandic shelf"
+      ],
+      "origin": "Legendary range centered on the Norwegian Sea off the coast of Norway, extending to Greenland, Iceland, and in some accounts as far as the waters off Baffin Island, Canada.",
+      "first_reported": "1646",
+      "danger_level": "unknown",
+      "evidence_level": "unknown"
+    },
+    {
       "id": "krampus",
       "name": "Krampus",
       "category": "entity_spirit",
@@ -11841,6 +12237,114 @@
         "French-Creole Caribbean"
       ],
       "origin": "Trinidad and Tobago is the heartland of the La Diablesse tradition, with cognate figures in Grenada, Saint Lucia, Dominica and other French-Creole Caribbean islands.",
+      "first_reported": "Pre-modern",
+      "danger_level": "unknown",
+      "evidence_level": "unknown"
+    },
+    {
+      "id": "la-llorona",
+      "name": "La Llorona",
+      "category": "ghost_haunting",
+      "description": "A weeping female ghost said to haunt rivers, lakes, and irrigation channels across Mexico, Central America, parts of South America, and the southwestern United States, mourning the children she drowned. Among the most widespread and durable legends in the Spanish-speaking Americas.",
+      "aliases": [
+        {
+          "name": "The Weeping Woman",
+          "language": "English",
+          "meaning": "Direct translation"
+        },
+        {
+          "name": "The Crying Woman",
+          "language": "English"
+        },
+        {
+          "name": "La Malinche (folkloric conflation)",
+          "language": "Spanish",
+          "region": "Mexico",
+          "meaning": "Some Mexican variants conflate La Llorona with the historical Doña Marina (La Malinche)"
+        },
+        {
+          "name": "Cihuacóatl",
+          "language": "Nahuatl",
+          "region": "Central Mexico",
+          "meaning": "'Serpent woman'; pre-Columbian Aztec mother-goddess identified by Sahagún with a weeping female omen"
+        },
+        {
+          "name": "María Pardo",
+          "language": "Spanish",
+          "region": "Antioquia, Colombia"
+        },
+        {
+          "name": "Tarumama",
+          "language": "Spanish",
+          "region": "Pasto region, Colombia"
+        },
+        {
+          "name": "La Sayona",
+          "language": "Spanish",
+          "region": "Venezuela",
+          "meaning": "A related vengeful female ghost"
+        }
+      ],
+      "tags": [
+        "ghost",
+        "folklore",
+        "latin-america",
+        "mexico",
+        "us-southwest",
+        "weeping-woman",
+        "river-spirit",
+        "infanticide-legend"
+      ],
+      "status": "active",
+      "regions": [
+        "Central Mexico",
+        "U.S.-Mexico border",
+        "Southwestern United States",
+        "Central America",
+        "Andean South America",
+        "Río de la Plata"
+      ],
+      "origin": "La Llorona is widespread across the Spanish-speaking Americas. Core regions are Mexico (especially central Mexico and the Mexico City basin), the U.S.-Mexico border, and the southwestern United States, with strong variants throughout Central America, in Colombia, Venezuela, Ecuador, Peru, Bolivia, and as far south as Uruguay. Significant regional names include María Pardo and Tarumama in Colombia and La Sayona in Venezuela.",
+      "first_reported": "c. 1550–1585",
+      "danger_level": "unknown",
+      "evidence_level": "unknown"
+    },
+    {
+      "id": "lagahoo",
+      "name": "Lagahoo",
+      "category": "shapeshifter",
+      "description": "The Lagahoo is a shapeshifting monster of Trinidad and Tobago folklore, drawn from French-Creole loup-garou and West African shapeshifter traditions, who appears at night as a headless man dragging a coffin and chains and can transform into many animals.",
+      "aliases": [
+        {
+          "name": "Lugarhou",
+          "language": "Trinidadian Creole"
+        },
+        {
+          "name": "Lagahou",
+          "language": "Trinidadian Creole"
+        },
+        {
+          "name": "Loup-garou",
+          "language": "French",
+          "meaning": "werewolf (the French source-form)"
+        }
+      ],
+      "tags": [
+        "caribbean",
+        "trinidad-and-tobago",
+        "shapeshifter",
+        "werewolf-cognate",
+        "loup-garou",
+        "folklore",
+        "headless"
+      ],
+      "status": "active",
+      "regions": [
+        "Trinidad",
+        "Tobago",
+        "wider French-Creole Caribbean"
+      ],
+      "origin": "Trinidad and Tobago, especially rural Trinidad. The figure overlaps in tradition with French-Caribbean loup-garou belief on neighbouring islands.",
       "first_reported": "Pre-modern",
       "danger_level": "unknown",
       "evidence_level": "unknown"
@@ -12703,6 +13207,48 @@
       ],
       "origin": "Madremonte is most prominent in the Andean regions of Colombia — including Antioquia, the central and western Andes, the Eje Cafetero coffee-growing zones, and the Magdalena and Valle del Cauca river basins. Closely related figures (Fantasma del Monte, Madre Selva, Madre de los Cerros) appear in Argentina, Brazil and Paraguay.",
       "first_reported": "Pre-Hispanic",
+      "danger_level": "unknown",
+      "evidence_level": "unknown"
+    },
+    {
+      "id": "mae-nak",
+      "name": "Mae Nak Phra Khanong",
+      "category": "ghost_haunting",
+      "description": "Mae Nak Phra Khanong ('Lady Nak of Phra Khanong') is the most popular ghost of Thai folklore: a young woman of the Phra Khanong canal who died with her child in childbirth and returned as a phi tai thang klom to live with her unsuspecting husband Mak. Her shrine at Wat Mahabut in Bangkok remains a major pilgrimage site.",
+      "aliases": [
+        {
+          "name": "Mae Nak",
+          "language": "Thai",
+          "meaning": "'Lady Nak' / 'Mother Nak'"
+        },
+        {
+          "name": "Nang Nak",
+          "language": "Thai",
+          "meaning": "'Madam Nak'"
+        },
+        {
+          "name": "Amdaeng Nak",
+          "language": "Thai",
+          "meaning": "Earlier Thai title used in 19th-century newspaper accounts"
+        }
+      ],
+      "tags": [
+        "thai-folklore",
+        "ghost",
+        "phra-khanong",
+        "phi-tai-thang-klom",
+        "wat-mahabut",
+        "rama-iv",
+        "bangkok"
+      ],
+      "status": "documented",
+      "regions": [
+        "Bangkok",
+        "Phra Khanong",
+        "Suan Luang"
+      ],
+      "origin": "Mae Nak's narrative and devotional practice are concentrated in Bangkok, particularly in the Phra Khanong / Suan Luang area, but her cultural reach extends throughout Thailand and across the Thai-speaking diaspora.",
+      "first_reported": "1899",
       "danger_level": "unknown",
       "evidence_level": "unknown"
     },
@@ -14972,6 +15518,51 @@
       "evidence_level": "unknown"
     },
     {
+      "id": "nian",
+      "name": "Nian",
+      "category": "mythological_creature",
+      "description": "A beast of Chinese folklore said to emerge at the end of each lunar year to attack villages, scared off by the colour red, fire, and loud noises — the etiological story for many Chinese New Year traditions.",
+      "aliases": [
+        {
+          "name": "年獸",
+          "language": "Chinese (Traditional)",
+          "meaning": "Year Beast"
+        },
+        {
+          "name": "年兽",
+          "language": "Chinese (Simplified)",
+          "meaning": "Year Beast"
+        },
+        {
+          "name": "Niánshòu",
+          "language": "Mandarin (pinyin)"
+        },
+        {
+          "name": "Year Beast",
+          "language": "English"
+        }
+      ],
+      "tags": [
+        "china",
+        "chinese-new-year",
+        "lunar-new-year",
+        "festival",
+        "lion-like",
+        "red",
+        "firecrackers",
+        "folklore"
+      ],
+      "status": "documented",
+      "regions": [
+        "Greater China",
+        "Chinese diaspora communities worldwide"
+      ],
+      "origin": "Greater China and the global Chinese diaspora; the Nian is a pan-Chinese folkloric figure attached to Lunar New Year customs.",
+      "first_reported": "Early 20th century",
+      "danger_level": "unknown",
+      "evidence_level": "unknown"
+    },
+    {
       "id": "night-hag",
       "name": "Night Hag",
       "category": "entity_spirit",
@@ -16573,6 +17164,42 @@
       "evidence_level": "unknown"
     },
     {
+      "id": "phi-am",
+      "name": "Phi Am",
+      "category": "ghost_haunting",
+      "description": "A nocturnal spirit in Thai folklore said to sit on a sleeper's chest, paralyzing them and causing breathing difficulty. The name is used colloquially in Thailand for the experience of sleep paralysis itself.",
+      "aliases": [
+        {
+          "name": "ผีอำ",
+          "language": "Thai",
+          "region": "Thailand",
+          "meaning": "the ghost that holds/presses down"
+        },
+        {
+          "name": "Phii Am",
+          "language": "Thai (Romanization)",
+          "region": "Thailand"
+        }
+      ],
+      "tags": [
+        "thai-folklore",
+        "sleep-paralysis",
+        "nocturnal",
+        "southeast-asia",
+        "night-hag",
+        "incubus-analogue",
+        "phi"
+      ],
+      "status": "active",
+      "regions": [
+        "Mainland Southeast Asia"
+      ],
+      "origin": "Thailand, with cognate traditions throughout mainland Southeast Asia. Phi Am is part of the broader Thai phi cosmology and reflects a worldwide pattern of sleep-paralysis folklore.",
+      "first_reported": "Traditional",
+      "danger_level": "unknown",
+      "evidence_level": "unknown"
+    },
+    {
       "id": "phi-tai-hong",
       "name": "Phi Tai Hong",
       "category": "ghost_haunting",
@@ -16615,6 +17242,44 @@
       ],
       "origin": "Thailand and culturally adjacent Tai-speaking regions of mainland Southeast Asia.",
       "first_reported": "Ayutthaya period (17th century)",
+      "danger_level": "unknown",
+      "evidence_level": "unknown"
+    },
+    {
+      "id": "philadelphia-experiment",
+      "name": "Philadelphia Experiment",
+      "category": "conspiracy_theory",
+      "description": "An alleged 1943 U.S. Navy experiment said to have rendered the destroyer escort USS Eldridge invisible — and briefly teleported it from Philadelphia to Norfolk — based on Einstein's unified field theory. The story is widely regarded as a hoax originating with letters by Carl M. Allen in 1955–56.",
+      "aliases": [
+        {
+          "name": "Project Rainbow",
+          "region": "United States",
+          "meaning": "Name used in conspiracy literature for the alleged experiment"
+        },
+        {
+          "name": "USS Eldridge invisibility experiment",
+          "region": "United States"
+        }
+      ],
+      "tags": [
+        "us-navy",
+        "wwii",
+        "1943",
+        "uss-eldridge",
+        "invisibility",
+        "teleportation",
+        "hoax",
+        "conspiracy",
+        "carl-allen",
+        "morris-jessup"
+      ],
+      "status": "debunked",
+      "regions": [
+        "Pennsylvania",
+        "Virginia"
+      ],
+      "origin": "The alleged event is associated with two real U.S. locations — the Philadelphia Naval Shipyard, Pennsylvania, and Norfolk, Virginia — but the story has no verified geographic occurrence.",
+      "first_reported": "1955",
       "danger_level": "unknown",
       "evidence_level": "unknown"
     },
@@ -16807,6 +17472,51 @@
       ],
       "origin": "Mythologically pan–South Asian, with a particular Vedic association with the northwestern frontier (Piśāca-deśa). Pishachas are referenced throughout Hindu and Buddhist literature wherever those traditions have spread, including Southeast Asia.",
       "first_reported": "c. 1000 BC",
+      "danger_level": "unknown",
+      "evidence_level": "unknown"
+    },
+    {
+      "id": "pocong",
+      "name": "Pocong",
+      "category": "undead",
+      "description": "An Indonesian and Malay ghost that takes the form of a body still wrapped in its Islamic burial shroud (kain kafan), said to arise when the shroud's knots are not untied at burial. Because the feet are bound, the pocong moves by hopping rather than walking.",
+      "aliases": [
+        {
+          "name": "Hantu Pocong",
+          "language": "Indonesian / Malay",
+          "meaning": "the shroud ghost"
+        },
+        {
+          "name": "Hantu Bungkus",
+          "language": "Malay",
+          "region": "Malaysia / Brunei",
+          "meaning": "the wrapped ghost"
+        },
+        {
+          "name": "Pocongan",
+          "language": "Javanese"
+        }
+      ],
+      "tags": [
+        "indonesian-folklore",
+        "malay-folklore",
+        "islamic-funerary",
+        "kain-kafan",
+        "hopping-dead",
+        "javanese",
+        "southeast-asia",
+        "shroud"
+      ],
+      "status": "active",
+      "regions": [
+        "Java",
+        "Sumatra",
+        "Borneo / Kalimantan",
+        "Malay Peninsula",
+        "Sulawesi"
+      ],
+      "origin": "Pervasive across Indonesia, Malaysia, Brunei, and Malay-speaking regions of Singapore and southern Thailand. Strongly associated with Javanese, Sundanese, and Malay Muslim communities.",
+      "first_reported": "Traditional",
       "danger_level": "unknown",
       "evidence_level": "unknown"
     },
@@ -19880,6 +20590,41 @@
       "evidence_level": "unknown"
     },
     {
+      "id": "splintercat",
+      "name": "Splintercat",
+      "category": "cryptid",
+      "description": "The Splintercat is a fearsome critter from American lumberjack and woodcraft folklore — a nocturnal flying feline creature with an impossibly hard forehead that hunts by flying headfirst into trees at tremendous speed, smashing them to splinters to expose raccoons and bee hives for food.",
+      "aliases": [
+        {
+          "name": "Splinter Cat",
+          "language": "English",
+          "meaning": "Two-word alternate spelling used in some sources"
+        }
+      ],
+      "tags": [
+        "fearsome-critter",
+        "american-folklore",
+        "lumberjack",
+        "tall-tale",
+        "pacific-northwest",
+        "feline",
+        "humorous-folklore",
+        "oregon",
+        "nova-scotia"
+      ],
+      "status": "historical",
+      "regions": [
+        "Pacific Northwest",
+        "Oregon",
+        "Great Lakes region",
+        "Nova Scotia"
+      ],
+      "origin": "A creature of American lumberjack folklore distributed wherever the tradition was carried — primarily the Pacific Northwest, Great Lakes region, and northeastern United States and Canada. A Nova Scotia variant is documented. Splintercat Creek in Oregon's northern Cascade Range is named for the creature.",
+      "first_reported": "1910-01-01",
+      "danger_level": "unknown",
+      "evidence_level": "unknown"
+    },
+    {
       "id": "spontaneous-human-combustion",
       "name": "Spontaneous Human Combustion",
       "category": "anomaly",
@@ -20100,6 +20845,42 @@
       "evidence_level": "unknown"
     },
     {
+      "id": "stone-tape-theory",
+      "name": "Stone Tape Theory",
+      "category": "anomaly",
+      "description": "A pseudoscientific hypothesis that strong emotional or traumatic events are 'recorded' onto the surrounding stone, masonry, or other materials of a location, and replayed under suitable conditions as a haunting. Popularised by Nigel Kneale's 1972 BBC television play The Stone Tape; the underlying idea has older roots in 19th- and 20th-century parapsychology.",
+      "aliases": [
+        {
+          "name": "Residual haunting hypothesis",
+          "meaning": "Modern parapsychological term for the same idea"
+        },
+        {
+          "name": "Place memory",
+          "meaning": "T. C. Lethbridge's term for emotional energy stored in the landscape"
+        }
+      ],
+      "tags": [
+        "parapsychology",
+        "haunting",
+        "residual",
+        "stone-tape",
+        "pseudoscience",
+        "psychometry"
+      ],
+      "status": "documented",
+      "regions": [
+        "United Kingdom",
+        "Ireland",
+        "United States",
+        "Canada",
+        "Australia"
+      ],
+      "origin": "As an interpretive framework rather than a localised phenomenon, the theory is invoked worldwide. Its strongest cultural footprint is in the United Kingdom, where it originated, and in English-language paranormal media generally.",
+      "first_reported": "1972-12-25",
+      "danger_level": "unknown",
+      "evidence_level": "unknown"
+    },
+    {
       "id": "stonehenge",
       "name": "Stonehenge",
       "category": "location",
@@ -20239,6 +21020,70 @@
       ],
       "origin": "Primarily Polish folklore, with cognate traditions in Romanian, Albanian, and Hungarian folk belief. The broader strix tradition extends throughout the ancient and medieval Mediterranean and Eastern European world.",
       "first_reported": "1200-01-01",
+      "danger_level": "unknown",
+      "evidence_level": "unknown"
+    },
+    {
+      "id": "succubus-incubus",
+      "name": "Succubus / Incubus",
+      "category": "demon_angel",
+      "description": "In medieval Christian demonology, the succubus (female) and incubus (male) are demons that seduce humans during sleep through sexual encounters, draining their life force; the tradition appears globally under various names and is now understood to be closely associated with sleep paralysis and hypnagogic hallucinations.",
+      "aliases": [
+        {
+          "name": "Succuba",
+          "language": "Latin",
+          "meaning": "paramour; one who lies beneath"
+        },
+        {
+          "name": "Incubus",
+          "language": "Latin",
+          "meaning": "one who lies on top"
+        },
+        {
+          "name": "Lilith",
+          "language": "Hebrew",
+          "region": "Near East",
+          "meaning": "night demon associated with sexual predation"
+        },
+        {
+          "name": "Mara",
+          "language": "Old Norse / Germanic",
+          "region": "Northern Europe",
+          "meaning": "nightmare spirit that rides sleeping persons"
+        },
+        {
+          "name": "Alp",
+          "language": "German",
+          "region": "Central Europe",
+          "meaning": "nightmare demon; elf"
+        },
+        {
+          "name": "Cambion",
+          "language": "Medieval Latin",
+          "meaning": "offspring of a demon and human"
+        }
+      ],
+      "tags": [
+        "demon",
+        "nocturnal",
+        "folklore",
+        "medieval",
+        "sleep-paralysis",
+        "sexual-entity",
+        "shapeshifter",
+        "europe",
+        "demonology"
+      ],
+      "status": "documented",
+      "regions": [
+        "Western Europe (medieval demonological tradition)",
+        "Central Europe (Alp tradition)",
+        "Scandinavia (Mara tradition)",
+        "Near East (Lilith tradition)",
+        "West Africa (incubus analogues)"
+      ],
+      "origin": "The succubus/incubus tradition is found throughout medieval Europe and has functional analogues in cultures worldwide. The specific Christian demonological framework is primarily European (especially Western and Central Europe), but similar nocturnal sexual demon traditions appear across the Middle East, Africa, and Asia.",
+      "first_reported": "Ancient",
       "danger_level": "unknown",
       "evidence_level": "unknown"
     },

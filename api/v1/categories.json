@@ -1,11 +1,11 @@
 {
   "version": "1.0.0",
-  "generated": "2026-07-10T09:30:17.439Z",
+  "generated": "2026-07-10T14:09:30.518Z",
   "total": 16,
   "categories": {
     "mythological_creature": {
       "name": "mythological_creature",
-      "count": 58,
+      "count": 63,
       "phenomena": [
         {
           "id": "abada",
@@ -94,6 +94,16 @@
           ]
         },
         {
+          "id": "basilisk",
+          "name": "Basilisk",
+          "regions": [
+            "Cyrenaica",
+            "Mediterranean",
+            "Central Europe",
+            "Cantabria"
+          ]
+        },
+        {
           "id": "bulgae",
           "name": "Bulgae",
           "regions": [
@@ -110,6 +120,17 @@
           ]
         },
         {
+          "id": "ceasg",
+          "name": "Ceasg",
+          "regions": [
+            "Scottish Highlands",
+            "Outer Hebrides",
+            "Inner Hebrides",
+            "Argyll",
+            "West Coast of Scotland"
+          ]
+        },
+        {
           "id": "centaur",
           "name": "Centaur",
           "regions": [
@@ -118,6 +139,15 @@
             "Mount Othrys",
             "Foloi (Elis)",
             "Magnesia"
+          ]
+        },
+        {
+          "id": "cerberus",
+          "name": "Cerberus",
+          "regions": [
+            "Hades / the Greek underworld",
+            "Cape Tainaron (Laconia)",
+            "Lake Avernus (Campania)"
           ]
         },
         {
@@ -215,6 +245,17 @@
             "Etruria",
             "Roman provinces",
             "North Africa (Lake Tritonis tradition)"
+          ]
+        },
+        {
+          "id": "griffin",
+          "name": "Griffin",
+          "regions": [
+            "Ancient Near East",
+            "Aegean and Greek world",
+            "Scythia (Central Asia)",
+            "medieval Europe",
+            "modern heraldic Europe"
           ]
         },
         {
@@ -354,6 +395,14 @@
             "Mekong River basin",
             "Himalayas",
             "Indonesian archipelago"
+          ]
+        },
+        {
+          "id": "nian",
+          "name": "Nian",
+          "regions": [
+            "Greater China",
+            "Chinese diaspora communities worldwide"
           ]
         },
         {
@@ -584,7 +633,7 @@
     },
     "entity_spirit": {
       "name": "entity_spirit",
-      "count": 102,
+      "count": 103,
       "phenomena": [
         {
           "id": "abumi-guchi",
@@ -881,6 +930,14 @@
             "Mesoamerica",
             "Highland Maya region",
             "Pacific lowlands of Central America"
+          ]
+        },
+        {
+          "id": "elemental-spirits",
+          "name": "Elemental Spirits",
+          "regions": [
+            "Western Europe",
+            "global Western occult community"
           ]
         },
         {
@@ -1614,7 +1671,7 @@
     },
     "cryptid": {
       "name": "cryptid",
-      "count": 100,
+      "count": 102,
       "phenomena": [
         {
           "id": "adlet",
@@ -2159,6 +2216,16 @@
           ]
         },
         {
+          "id": "kraken",
+          "name": "Kraken",
+          "regions": [
+            "Norwegian Sea",
+            "North Atlantic Ocean",
+            "Waters off the coast of Nordland, Norway",
+            "Greenlandic shelf"
+          ]
+        },
+        {
           "id": "lizard-man-scape-ore",
           "name": "Lizard Man of Scape Ore Swamp",
           "regions": [
@@ -2495,6 +2562,16 @@
           ]
         },
         {
+          "id": "splintercat",
+          "name": "Splintercat",
+          "regions": [
+            "Pacific Northwest",
+            "Oregon",
+            "Great Lakes region",
+            "Nova Scotia"
+          ]
+        },
+        {
           "id": "squonk",
           "name": "Squonk",
           "regions": [
@@ -2646,7 +2723,7 @@
     },
     "undead": {
       "name": "undead",
-      "count": 27,
+      "count": 28,
       "phenomena": [
         {
           "id": "adze",
@@ -2806,6 +2883,17 @@
           ]
         },
         {
+          "id": "pocong",
+          "name": "Pocong",
+          "regions": [
+            "Java",
+            "Sumatra",
+            "Borneo / Kalimantan",
+            "Malay Peninsula",
+            "Sulawesi"
+          ]
+        },
+        {
           "id": "pontianak",
           "name": "Pontianak",
           "regions": [
@@ -2934,7 +3022,7 @@
     },
     "ghost_haunting": {
       "name": "ghost_haunting",
-      "count": 22,
+      "count": 26,
       "phenomena": [
         {
           "id": "aka-manto",
@@ -3013,6 +3101,13 @@
           ]
         },
         {
+          "id": "hasshaku-sama",
+          "name": "Hasshaku-sama",
+          "regions": [
+            "rural Japan (canonical story setting)"
+          ]
+        },
+        {
           "id": "headless-horseman",
           "name": "Headless Horseman",
           "regions": [
@@ -3051,6 +3146,27 @@
           ]
         },
         {
+          "id": "la-llorona",
+          "name": "La Llorona",
+          "regions": [
+            "Central Mexico",
+            "U.S.-Mexico border",
+            "Southwestern United States",
+            "Central America",
+            "Andean South America",
+            "Río de la Plata"
+          ]
+        },
+        {
+          "id": "mae-nak",
+          "name": "Mae Nak Phra Khanong",
+          "regions": [
+            "Bangkok",
+            "Phra Khanong",
+            "Suan Luang"
+          ]
+        },
+        {
           "id": "nightmarchers",
           "name": "Night Marchers",
           "regions": [
@@ -3076,6 +3192,13 @@
             "North Atlantic",
             "Indian Ocean",
             "Pacific Ocean"
+          ]
+        },
+        {
+          "id": "phi-am",
+          "name": "Phi Am",
+          "regions": [
+            "Mainland Southeast Asia"
           ]
         },
         {
@@ -3878,7 +4001,7 @@
     },
     "demon_angel": {
       "name": "demon_angel",
-      "count": 19,
+      "count": 21,
       "phenomena": [
         {
           "id": "asmodeus",
@@ -3890,6 +4013,14 @@
             "Iranian world (Avestan source)",
             "Christian Europe (medieval and early-modern grimoiric tradition)",
             "Islamic world (Sakhr tradition)"
+          ]
+        },
+        {
+          "id": "astaroth",
+          "name": "Astaroth",
+          "regions": [
+            "Levant (origin of the goddess Astarte)",
+            "Christian Europe (medieval and early-modern grimoiric tradition)"
           ]
         },
         {
@@ -4064,6 +4195,17 @@
           ]
         },
         {
+          "id": "succubus-incubus",
+          "name": "Succubus / Incubus",
+          "regions": [
+            "Western Europe (medieval demonological tradition)",
+            "Central Europe (Alp tradition)",
+            "Scandinavia (Mara tradition)",
+            "Near East (Lilith tradition)",
+            "West Africa (incubus analogues)"
+          ]
+        },
+        {
           "id": "supay",
           "name": "Supay",
           "regions": [
@@ -4078,7 +4220,7 @@
     },
     "shapeshifter": {
       "name": "shapeshifter",
-      "count": 17,
+      "count": 18,
       "phenomena": [
         {
           "id": "aswang",
@@ -4172,6 +4314,15 @@
             "Kansai region (Kyoto)",
             "Tohoku region",
             "Japan generally"
+          ]
+        },
+        {
+          "id": "lagahoo",
+          "name": "Lagahoo",
+          "regions": [
+            "Trinidad",
+            "Tobago",
+            "wider French-Creole Caribbean"
           ]
         },
         {
@@ -4533,7 +4684,7 @@
     },
     "urban_legend": {
       "name": "urban_legend",
-      "count": 31,
+      "count": 32,
       "phenomena": [
         {
           "id": "backrooms",
@@ -4613,6 +4764,13 @@
           "regions": [
             "Japan",
             "Japanese-language internet"
+          ]
+        },
+        {
+          "id": "hookman",
+          "name": "The Hookman",
+          "regions": [
+            "United States — broadly distributed"
           ]
         },
         {
@@ -4796,7 +4954,7 @@
     },
     "anomaly": {
       "name": "anomaly",
-      "count": 9,
+      "count": 10,
       "phenomena": [
         {
           "id": "bermuda-triangle",
@@ -4865,6 +5023,17 @@
           ]
         },
         {
+          "id": "stone-tape-theory",
+          "name": "Stone Tape Theory",
+          "regions": [
+            "United Kingdom",
+            "Ireland",
+            "United States",
+            "Canada",
+            "Australia"
+          ]
+        },
+        {
           "id": "time-slips",
           "name": "Time Slips",
           "regions": [
@@ -4888,7 +5057,7 @@
     },
     "conspiracy_theory": {
       "name": "conspiracy_theory",
-      "count": 13,
+      "count": 14,
       "phenomena": [
         {
           "id": "black-knight-satellite",
@@ -4993,6 +5162,14 @@
             "North America",
             "Anglophone world",
             "Online conspiracy networks"
+          ]
+        },
+        {
+          "id": "philadelphia-experiment",
+          "name": "Philadelphia Experiment",
+          "regions": [
+            "Pennsylvania",
+            "Virginia"
           ]
         },
         {
