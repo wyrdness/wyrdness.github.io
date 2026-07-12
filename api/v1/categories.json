@@ -1,8 +1,636 @@
 {
   "version": "1.0.0",
-  "generated": "2026-07-12T02:15:03.053Z",
+  "generated": "2026-07-12T08:08:01.475Z",
   "total": 16,
   "categories": {
+    "mythological_creature": {
+      "name": "mythological_creature",
+      "count": 63,
+      "phenomena": [
+        {
+          "id": "abada",
+          "name": "Abada",
+          "regions": [
+            "Kongo cultural area",
+            "Central Africa",
+            "Lower Congo basin"
+          ]
+        },
+        {
+          "id": "ahuizotl",
+          "name": "Ahuizotl",
+          "regions": [
+            "Valley of Mexico",
+            "Lake Texcoco",
+            "central Mexican lake system"
+          ]
+        },
+        {
+          "id": "al-miraj",
+          "name": "Al-Mi'raj",
+          "regions": [
+            "Jazīrat al-Tinnīn (Dragon Island) of medieval Arabic cosmography",
+            "Indian Ocean of the marvels tradition"
+          ]
+        },
+        {
+          "id": "amarok",
+          "name": "Amarok",
+          "regions": [
+            "Greenland",
+            "Nunavut",
+            "Nunavik",
+            "Alaska"
+          ]
+        },
+        {
+          "id": "ammit",
+          "name": "Ammit",
+          "regions": [
+            "Nile Valley",
+            "Theban necropolis"
+          ]
+        },
+        {
+          "id": "anansi",
+          "name": "Anansi",
+          "regions": [
+            "Akan cultural area",
+            "Caribbean",
+            "Suriname / Guianas",
+            "American South"
+          ]
+        },
+        {
+          "id": "anubis",
+          "name": "Anubis",
+          "regions": [
+            "Nile Valley",
+            "Hardai / Cynopolis"
+          ]
+        },
+        {
+          "id": "bai-ze",
+          "name": "Bai Ze",
+          "regions": [
+            "Sinosphere",
+            "East Asia"
+          ]
+        },
+        {
+          "id": "baku",
+          "name": "Baku",
+          "regions": [
+            "Sinosphere"
+          ]
+        },
+        {
+          "id": "basilisco-chilote",
+          "name": "Basilisco Chilote",
+          "regions": [
+            "Chiloé Archipelago",
+            "Los Lagos Region",
+            "Southern Chile"
+          ]
+        },
+        {
+          "id": "basilisk",
+          "name": "Basilisk",
+          "regions": [
+            "Cyrenaica",
+            "Mediterranean",
+            "Central Europe",
+            "Cantabria"
+          ]
+        },
+        {
+          "id": "bulgae",
+          "name": "Bulgae",
+          "regions": [
+            "Korean Peninsula"
+          ]
+        },
+        {
+          "id": "buraq",
+          "name": "Al-Burāq",
+          "regions": [
+            "Hejaz",
+            "Levant",
+            "Jerusalem (Haram al-Sharif)"
+          ]
+        },
+        {
+          "id": "ceasg",
+          "name": "Ceasg",
+          "regions": [
+            "Scottish Highlands",
+            "Outer Hebrides",
+            "Inner Hebrides",
+            "Argyll",
+            "West Coast of Scotland"
+          ]
+        },
+        {
+          "id": "centaur",
+          "name": "Centaur",
+          "regions": [
+            "Thessaly",
+            "Mount Pelion",
+            "Mount Othrys",
+            "Foloi (Elis)",
+            "Magnesia"
+          ]
+        },
+        {
+          "id": "cerberus",
+          "name": "Cerberus",
+          "regions": [
+            "Hades / the Greek underworld",
+            "Cape Tainaron (Laconia)",
+            "Lake Avernus (Campania)"
+          ]
+        },
+        {
+          "id": "cheollima",
+          "name": "Cheollima",
+          "regions": [
+            "East Asia",
+            "Korean Peninsula"
+          ]
+        },
+        {
+          "id": "chimera",
+          "name": "Chimera",
+          "regions": [
+            "Lycia",
+            "Mount Chimaera (Yanartaş)",
+            "Cilicia (in some late traditions)",
+            "Asia Minor"
+          ]
+        },
+        {
+          "id": "cockatrice",
+          "name": "Cockatrice",
+          "regions": [
+            "Western and Central Europe",
+            "British Isles",
+            "Holy Roman Empire"
+          ]
+        },
+        {
+          "id": "cyclops",
+          "name": "Cyclops",
+          "regions": [
+            "Sicily",
+            "Mount Etna",
+            "Argolid (Mycenae, Tiryns)",
+            "Aeolian Islands"
+          ]
+        },
+        {
+          "id": "dragon",
+          "name": "Dragon",
+          "regions": [
+            "Mesopotamia",
+            "Ancient Egypt",
+            "Greek and Roman world",
+            "Iran",
+            "China",
+            "Japan",
+            "Korea",
+            "Vietnam",
+            "Slavic Europe",
+            "Norse and Germanic Europe",
+            "British Isles",
+            "Mesoamerica"
+          ]
+        },
+        {
+          "id": "each-uisge",
+          "name": "Each-uisge",
+          "regions": [
+            "Scottish Highlands",
+            "Hebrides",
+            "Argyll",
+            "Inverness-shire",
+            "Skye",
+            "Western Isles"
+          ]
+        },
+        {
+          "id": "fenrir",
+          "name": "Fenrir",
+          "regions": [
+            "Ásgarðr",
+            "Jötunheimr (place of his upbringing in some accounts)",
+            "Ámsvartnir / Lyngvi (place of binding)",
+            "Vígríðr (battlefield of Ragnarök)"
+          ]
+        },
+        {
+          "id": "garuda",
+          "name": "Garuda",
+          "regions": [
+            "Indian subcontinent",
+            "Southeast Asia",
+            "Buddhist world"
+          ]
+        },
+        {
+          "id": "gorgon",
+          "name": "Gorgon",
+          "regions": [
+            "Aegean",
+            "Magna Graecia",
+            "Etruria",
+            "Roman provinces",
+            "North Africa (Lake Tritonis tradition)"
+          ]
+        },
+        {
+          "id": "griffin",
+          "name": "Griffin",
+          "regions": [
+            "Ancient Near East",
+            "Aegean and Greek world",
+            "Scythia (Central Asia)",
+            "medieval Europe",
+            "modern heraldic Europe"
+          ]
+        },
+        {
+          "id": "haetae",
+          "name": "Haetae",
+          "regions": [
+            "Korean Peninsula",
+            "Central China",
+            "Manchuria (mythological homeland per Korean records)",
+            "Japan"
+          ]
+        },
+        {
+          "id": "harpy",
+          "name": "Harpy",
+          "regions": [
+            "Ancient Greece",
+            "Ancient Rome",
+            "Thrace",
+            "Strophades islands (Ionian Sea)"
+          ]
+        },
+        {
+          "id": "hydra",
+          "name": "Lernaean Hydra",
+          "regions": [
+            "Argolid",
+            "Peloponnese",
+            "Lake Lerna",
+            "Spring of Amymone"
+          ]
+        },
+        {
+          "id": "iara",
+          "name": "Iara",
+          "regions": [
+            "Amazon basin",
+            "Amazonas",
+            "Pará",
+            "Maranhão",
+            "Northern Brazil",
+            "Central Brazil"
+          ]
+        },
+        {
+          "id": "jormungandr",
+          "name": "Jörmungandr",
+          "regions": [
+            "Scandinavia",
+            "North Atlantic",
+            "Norse world"
+          ]
+        },
+        {
+          "id": "kirin",
+          "name": "Kirin (Qilin)",
+          "regions": [
+            "East Asia",
+            "Sinosphere"
+          ]
+        },
+        {
+          "id": "lamassu",
+          "name": "Lamassu",
+          "regions": [
+            "Mesopotamia",
+            "Assyria",
+            "Achaemenid Persia"
+          ]
+        },
+        {
+          "id": "lindworm",
+          "name": "Lindworm",
+          "regions": [
+            "Scandinavia",
+            "Central Europe",
+            "British Isles",
+            "Low Countries"
+          ]
+        },
+        {
+          "id": "manticore",
+          "name": "Manticore",
+          "regions": [
+            "Achaemenid Persia",
+            "South Asia"
+          ]
+        },
+        {
+          "id": "maui",
+          "name": "Māui",
+          "regions": [
+            "Aotearoa (New Zealand)",
+            "Hawaiian archipelago",
+            "Sāmoa",
+            "Tonga",
+            "Society Islands (Tahiti)",
+            "Marquesas Islands",
+            "Mangareva",
+            "Cook Islands"
+          ]
+        },
+        {
+          "id": "medusa",
+          "name": "Medusa",
+          "regions": [
+            "Mediterranean basin",
+            "Mythic 'far west' beyond Ocean (in archaic geography)"
+          ]
+        },
+        {
+          "id": "minotaur",
+          "name": "Minotaur",
+          "regions": [
+            "Crete",
+            "Aegean",
+            "Italian peninsula (through Roman reception)"
+          ]
+        },
+        {
+          "id": "mo-o",
+          "name": "Mo'o",
+          "regions": [
+            "Oʻahu — particularly Kawainui Marsh (windward) and Waialua",
+            "Maui — Mokuhinia fishpond, Kamalō Ridge",
+            "Molokaʻi — windward cliffs",
+            "Hawaii Island — various streams and pools",
+            "Kauaʻi — streams and coastal areas"
+          ]
+        },
+        {
+          "id": "naga",
+          "name": "Naga",
+          "regions": [
+            "South Asia",
+            "Southeast Asia",
+            "Mekong River basin",
+            "Himalayas",
+            "Indonesian archipelago"
+          ]
+        },
+        {
+          "id": "nian",
+          "name": "Nian",
+          "regions": [
+            "Greater China",
+            "Chinese diaspora communities worldwide"
+          ]
+        },
+        {
+          "id": "nue",
+          "name": "Nue",
+          "regions": [
+            "Kyoto",
+            "Hyōgo Prefecture",
+            "Osaka Prefecture"
+          ]
+        },
+        {
+          "id": "pegasus",
+          "name": "Pegasus",
+          "regions": [
+            "Boeotia (Mount Helicon)",
+            "Corinth and the Corinthian Gulf",
+            "Lycia"
+          ]
+        },
+        {
+          "id": "phoenix",
+          "name": "Phoenix",
+          "regions": [
+            "Arabia",
+            "Egypt",
+            "Ethiopia",
+            "India (in some classical sources)"
+          ]
+        },
+        {
+          "id": "qilin",
+          "name": "Qilin",
+          "regions": [
+            "East Asia",
+            "Southeast Asia"
+          ]
+        },
+        {
+          "id": "raiju",
+          "name": "Raiju",
+          "regions": [
+            "Kantō",
+            "Tōhoku",
+            "Chūbu",
+            "Kinki",
+            "East Japan"
+          ]
+        },
+        {
+          "id": "rakshasa",
+          "name": "Rakshasa",
+          "regions": [
+            "Indian subcontinent",
+            "Maritime Southeast Asia",
+            "Mainland Southeast Asia",
+            "Buddhist East Asia"
+          ]
+        },
+        {
+          "id": "roc",
+          "name": "Roc",
+          "regions": [
+            "Indian Ocean",
+            "Arabian Sea",
+            "East African coast (Madagascar region)"
+          ]
+        },
+        {
+          "id": "samjoko",
+          "name": "Samjok-o",
+          "regions": [
+            "Goguryeo cultural sphere (Korean peninsula and southern Manchuria)",
+            "Han and post-Han China",
+            "Yamato Japan"
+          ]
+        },
+        {
+          "id": "satyr",
+          "name": "Satyr",
+          "regions": [
+            "Ancient Greece",
+            "Hellenistic world",
+            "Roman Empire",
+            "Later European culture through Renaissance"
+          ]
+        },
+        {
+          "id": "simurgh",
+          "name": "Simurgh",
+          "regions": [
+            "Greater Iran",
+            "Persianate world",
+            "Alborz mountain region"
+          ]
+        },
+        {
+          "id": "siren",
+          "name": "Siren",
+          "regions": [
+            "Tyrrhenian Sea",
+            "Sorrentine Peninsula",
+            "Bay of Naples",
+            "Campania"
+          ]
+        },
+        {
+          "id": "sleipnir",
+          "name": "Sleipnir",
+          "regions": [
+            "Asgard (mythological)",
+            "Hel (mythological)",
+            "Gotland",
+            "Medieval Iceland"
+          ]
+        },
+        {
+          "id": "sphinx",
+          "name": "Sphinx",
+          "regions": [
+            "Giza Plateau",
+            "Thebes",
+            "Karnak",
+            "Memphis",
+            "Ancient Mediterranean",
+            "South and Southeast Asia"
+          ]
+        },
+        {
+          "id": "swan-maiden",
+          "name": "Swan Maiden",
+          "regions": [
+            "Scandinavia",
+            "Celtic world",
+            "Slavic Europe",
+            "Siberia",
+            "East Asia",
+            "South Asia",
+            "Northern North America"
+          ]
+        },
+        {
+          "id": "taniwha",
+          "name": "Taniwha",
+          "regions": [
+            "North Island",
+            "South Island",
+            "Hauraki Gulf",
+            "Hokianga",
+            "Whanganui River",
+            "Waikato River"
+          ]
+        },
+        {
+          "id": "unicorn",
+          "name": "Unicorn",
+          "regions": [
+            "Mediterranean classical world",
+            "Medieval Europe",
+            "Persia and the Arab world (karkadann)",
+            "East Asia (qilin/kirin tradition)"
+          ]
+        },
+        {
+          "id": "ushi-oni",
+          "name": "Ushi-oni",
+          "regions": [
+            "Ehime Prefecture (Shikoku)",
+            "Wakayama Prefecture",
+            "Shimane Prefecture (Izumo region)",
+            "Coastal areas of western Japan generally",
+            "Seto Inland Sea coastal communities"
+          ]
+        },
+        {
+          "id": "valkyrie",
+          "name": "Valkyrie",
+          "regions": [
+            "Scandinavia (primary literary tradition)",
+            "Iceland (primary manuscript tradition)",
+            "Anglo-Saxon England (Old English cognate wælcyrge)",
+            "Germanic Europe broadly"
+          ]
+        },
+        {
+          "id": "wild-hunt",
+          "name": "Wild Hunt",
+          "regions": [
+            "Alps",
+            "Black Forest",
+            "Harz Mountains",
+            "Scandinavian highlands",
+            "Friuli (Benandanti tradition)",
+            "Welsh borderlands",
+            "Galicia",
+            "Brittany"
+          ]
+        },
+        {
+          "id": "yamata-no-orochi",
+          "name": "Yamata no Orochi",
+          "regions": [
+            "Izumo Province (Shimane Prefecture)",
+            "Hii River valley",
+            "Nita District (associated with iron production)"
+          ]
+        },
+        {
+          "id": "yara-ma-yha-who",
+          "name": "Yara-ma-yha-who",
+          "regions": [
+            "Southeastern Australia",
+            "New South Wales",
+            "Victoria"
+          ]
+        },
+        {
+          "id": "zmey",
+          "name": "Zmey (Slavic Dragon)",
+          "regions": [
+            "East Slavic lands (Russian and Ukrainian folktale and bylina traditions)",
+            "Western Balkans (Serbian, Croatian, Slovenian zmaj traditions)",
+            "Bulgaria and North Macedonia (zmei and lamia traditions)",
+            "Poland (żmij and the Wawel Dragon of Kraków)"
+          ]
+        }
+      ]
+    },
     "entity_spirit": {
       "name": "entity_spirit",
       "count": 103,
@@ -2095,7 +2723,7 @@
     },
     "undead": {
       "name": "undead",
-      "count": 27,
+      "count": 28,
       "phenomena": [
         {
           "id": "adze",
@@ -2327,6 +2955,17 @@
           ]
         },
         {
+          "id": "strigoi",
+          "name": "Strigoi",
+          "regions": [
+            "Transylvania",
+            "Wallachia",
+            "Moldavia",
+            "Oltenia",
+            "Banat"
+          ]
+        },
+        {
           "id": "strzyga",
           "name": "Strzyga",
           "regions": [
@@ -2377,625 +3016,6 @@
             "Cyclades",
             "Mainland Greece",
             "Southern Balkans"
-          ]
-        }
-      ]
-    },
-    "mythological_creature": {
-      "name": "mythological_creature",
-      "count": 62,
-      "phenomena": [
-        {
-          "id": "ahuizotl",
-          "name": "Ahuizotl",
-          "regions": [
-            "Valley of Mexico",
-            "Lake Texcoco",
-            "central Mexican lake system"
-          ]
-        },
-        {
-          "id": "al-miraj",
-          "name": "Al-Mi'raj",
-          "regions": [
-            "Jazīrat al-Tinnīn (Dragon Island) of medieval Arabic cosmography",
-            "Indian Ocean of the marvels tradition"
-          ]
-        },
-        {
-          "id": "amarok",
-          "name": "Amarok",
-          "regions": [
-            "Greenland",
-            "Nunavut",
-            "Nunavik",
-            "Alaska"
-          ]
-        },
-        {
-          "id": "ammit",
-          "name": "Ammit",
-          "regions": [
-            "Nile Valley",
-            "Theban necropolis"
-          ]
-        },
-        {
-          "id": "anansi",
-          "name": "Anansi",
-          "regions": [
-            "Akan cultural area",
-            "Caribbean",
-            "Suriname / Guianas",
-            "American South"
-          ]
-        },
-        {
-          "id": "anubis",
-          "name": "Anubis",
-          "regions": [
-            "Nile Valley",
-            "Hardai / Cynopolis"
-          ]
-        },
-        {
-          "id": "bai-ze",
-          "name": "Bai Ze",
-          "regions": [
-            "Sinosphere",
-            "East Asia"
-          ]
-        },
-        {
-          "id": "baku",
-          "name": "Baku",
-          "regions": [
-            "Sinosphere"
-          ]
-        },
-        {
-          "id": "basilisco-chilote",
-          "name": "Basilisco Chilote",
-          "regions": [
-            "Chiloé Archipelago",
-            "Los Lagos Region",
-            "Southern Chile"
-          ]
-        },
-        {
-          "id": "basilisk",
-          "name": "Basilisk",
-          "regions": [
-            "Cyrenaica",
-            "Mediterranean",
-            "Central Europe",
-            "Cantabria"
-          ]
-        },
-        {
-          "id": "bulgae",
-          "name": "Bulgae",
-          "regions": [
-            "Korean Peninsula"
-          ]
-        },
-        {
-          "id": "buraq",
-          "name": "Al-Burāq",
-          "regions": [
-            "Hejaz",
-            "Levant",
-            "Jerusalem (Haram al-Sharif)"
-          ]
-        },
-        {
-          "id": "ceasg",
-          "name": "Ceasg",
-          "regions": [
-            "Scottish Highlands",
-            "Outer Hebrides",
-            "Inner Hebrides",
-            "Argyll",
-            "West Coast of Scotland"
-          ]
-        },
-        {
-          "id": "centaur",
-          "name": "Centaur",
-          "regions": [
-            "Thessaly",
-            "Mount Pelion",
-            "Mount Othrys",
-            "Foloi (Elis)",
-            "Magnesia"
-          ]
-        },
-        {
-          "id": "cerberus",
-          "name": "Cerberus",
-          "regions": [
-            "Hades / the Greek underworld",
-            "Cape Tainaron (Laconia)",
-            "Lake Avernus (Campania)"
-          ]
-        },
-        {
-          "id": "cheollima",
-          "name": "Cheollima",
-          "regions": [
-            "East Asia",
-            "Korean Peninsula"
-          ]
-        },
-        {
-          "id": "chimera",
-          "name": "Chimera",
-          "regions": [
-            "Lycia",
-            "Mount Chimaera (Yanartaş)",
-            "Cilicia (in some late traditions)",
-            "Asia Minor"
-          ]
-        },
-        {
-          "id": "cockatrice",
-          "name": "Cockatrice",
-          "regions": [
-            "Western and Central Europe",
-            "British Isles",
-            "Holy Roman Empire"
-          ]
-        },
-        {
-          "id": "cyclops",
-          "name": "Cyclops",
-          "regions": [
-            "Sicily",
-            "Mount Etna",
-            "Argolid (Mycenae, Tiryns)",
-            "Aeolian Islands"
-          ]
-        },
-        {
-          "id": "dragon",
-          "name": "Dragon",
-          "regions": [
-            "Mesopotamia",
-            "Ancient Egypt",
-            "Greek and Roman world",
-            "Iran",
-            "China",
-            "Japan",
-            "Korea",
-            "Vietnam",
-            "Slavic Europe",
-            "Norse and Germanic Europe",
-            "British Isles",
-            "Mesoamerica"
-          ]
-        },
-        {
-          "id": "each-uisge",
-          "name": "Each-uisge",
-          "regions": [
-            "Scottish Highlands",
-            "Hebrides",
-            "Argyll",
-            "Inverness-shire",
-            "Skye",
-            "Western Isles"
-          ]
-        },
-        {
-          "id": "fenrir",
-          "name": "Fenrir",
-          "regions": [
-            "Ásgarðr",
-            "Jötunheimr (place of his upbringing in some accounts)",
-            "Ámsvartnir / Lyngvi (place of binding)",
-            "Vígríðr (battlefield of Ragnarök)"
-          ]
-        },
-        {
-          "id": "garuda",
-          "name": "Garuda",
-          "regions": [
-            "Indian subcontinent",
-            "Southeast Asia",
-            "Buddhist world"
-          ]
-        },
-        {
-          "id": "gorgon",
-          "name": "Gorgon",
-          "regions": [
-            "Aegean",
-            "Magna Graecia",
-            "Etruria",
-            "Roman provinces",
-            "North Africa (Lake Tritonis tradition)"
-          ]
-        },
-        {
-          "id": "griffin",
-          "name": "Griffin",
-          "regions": [
-            "Ancient Near East",
-            "Aegean and Greek world",
-            "Scythia (Central Asia)",
-            "medieval Europe",
-            "modern heraldic Europe"
-          ]
-        },
-        {
-          "id": "haetae",
-          "name": "Haetae",
-          "regions": [
-            "Korean Peninsula",
-            "Central China",
-            "Manchuria (mythological homeland per Korean records)",
-            "Japan"
-          ]
-        },
-        {
-          "id": "harpy",
-          "name": "Harpy",
-          "regions": [
-            "Ancient Greece",
-            "Ancient Rome",
-            "Thrace",
-            "Strophades islands (Ionian Sea)"
-          ]
-        },
-        {
-          "id": "hydra",
-          "name": "Lernaean Hydra",
-          "regions": [
-            "Argolid",
-            "Peloponnese",
-            "Lake Lerna",
-            "Spring of Amymone"
-          ]
-        },
-        {
-          "id": "iara",
-          "name": "Iara",
-          "regions": [
-            "Amazon basin",
-            "Amazonas",
-            "Pará",
-            "Maranhão",
-            "Northern Brazil",
-            "Central Brazil"
-          ]
-        },
-        {
-          "id": "jormungandr",
-          "name": "Jörmungandr",
-          "regions": [
-            "Scandinavia",
-            "North Atlantic",
-            "Norse world"
-          ]
-        },
-        {
-          "id": "kirin",
-          "name": "Kirin (Qilin)",
-          "regions": [
-            "East Asia",
-            "Sinosphere"
-          ]
-        },
-        {
-          "id": "lamassu",
-          "name": "Lamassu",
-          "regions": [
-            "Mesopotamia",
-            "Assyria",
-            "Achaemenid Persia"
-          ]
-        },
-        {
-          "id": "lindworm",
-          "name": "Lindworm",
-          "regions": [
-            "Scandinavia",
-            "Central Europe",
-            "British Isles",
-            "Low Countries"
-          ]
-        },
-        {
-          "id": "manticore",
-          "name": "Manticore",
-          "regions": [
-            "Achaemenid Persia",
-            "South Asia"
-          ]
-        },
-        {
-          "id": "maui",
-          "name": "Māui",
-          "regions": [
-            "Aotearoa (New Zealand)",
-            "Hawaiian archipelago",
-            "Sāmoa",
-            "Tonga",
-            "Society Islands (Tahiti)",
-            "Marquesas Islands",
-            "Mangareva",
-            "Cook Islands"
-          ]
-        },
-        {
-          "id": "medusa",
-          "name": "Medusa",
-          "regions": [
-            "Mediterranean basin",
-            "Mythic 'far west' beyond Ocean (in archaic geography)"
-          ]
-        },
-        {
-          "id": "minotaur",
-          "name": "Minotaur",
-          "regions": [
-            "Crete",
-            "Aegean",
-            "Italian peninsula (through Roman reception)"
-          ]
-        },
-        {
-          "id": "mo-o",
-          "name": "Mo'o",
-          "regions": [
-            "Oʻahu — particularly Kawainui Marsh (windward) and Waialua",
-            "Maui — Mokuhinia fishpond, Kamalō Ridge",
-            "Molokaʻi — windward cliffs",
-            "Hawaii Island — various streams and pools",
-            "Kauaʻi — streams and coastal areas"
-          ]
-        },
-        {
-          "id": "naga",
-          "name": "Naga",
-          "regions": [
-            "South Asia",
-            "Southeast Asia",
-            "Mekong River basin",
-            "Himalayas",
-            "Indonesian archipelago"
-          ]
-        },
-        {
-          "id": "nian",
-          "name": "Nian",
-          "regions": [
-            "Greater China",
-            "Chinese diaspora communities worldwide"
-          ]
-        },
-        {
-          "id": "nue",
-          "name": "Nue",
-          "regions": [
-            "Kyoto",
-            "Hyōgo Prefecture",
-            "Osaka Prefecture"
-          ]
-        },
-        {
-          "id": "pegasus",
-          "name": "Pegasus",
-          "regions": [
-            "Boeotia (Mount Helicon)",
-            "Corinth and the Corinthian Gulf",
-            "Lycia"
-          ]
-        },
-        {
-          "id": "phoenix",
-          "name": "Phoenix",
-          "regions": [
-            "Arabia",
-            "Egypt",
-            "Ethiopia",
-            "India (in some classical sources)"
-          ]
-        },
-        {
-          "id": "qilin",
-          "name": "Qilin",
-          "regions": [
-            "East Asia",
-            "Southeast Asia"
-          ]
-        },
-        {
-          "id": "raiju",
-          "name": "Raiju",
-          "regions": [
-            "Kantō",
-            "Tōhoku",
-            "Chūbu",
-            "Kinki",
-            "East Japan"
-          ]
-        },
-        {
-          "id": "rakshasa",
-          "name": "Rakshasa",
-          "regions": [
-            "Indian subcontinent",
-            "Maritime Southeast Asia",
-            "Mainland Southeast Asia",
-            "Buddhist East Asia"
-          ]
-        },
-        {
-          "id": "roc",
-          "name": "Roc",
-          "regions": [
-            "Indian Ocean",
-            "Arabian Sea",
-            "East African coast (Madagascar region)"
-          ]
-        },
-        {
-          "id": "samjoko",
-          "name": "Samjok-o",
-          "regions": [
-            "Goguryeo cultural sphere (Korean peninsula and southern Manchuria)",
-            "Han and post-Han China",
-            "Yamato Japan"
-          ]
-        },
-        {
-          "id": "satyr",
-          "name": "Satyr",
-          "regions": [
-            "Ancient Greece",
-            "Hellenistic world",
-            "Roman Empire",
-            "Later European culture through Renaissance"
-          ]
-        },
-        {
-          "id": "simurgh",
-          "name": "Simurgh",
-          "regions": [
-            "Greater Iran",
-            "Persianate world",
-            "Alborz mountain region"
-          ]
-        },
-        {
-          "id": "siren",
-          "name": "Siren",
-          "regions": [
-            "Tyrrhenian Sea",
-            "Sorrentine Peninsula",
-            "Bay of Naples",
-            "Campania"
-          ]
-        },
-        {
-          "id": "sleipnir",
-          "name": "Sleipnir",
-          "regions": [
-            "Asgard (mythological)",
-            "Hel (mythological)",
-            "Gotland",
-            "Medieval Iceland"
-          ]
-        },
-        {
-          "id": "sphinx",
-          "name": "Sphinx",
-          "regions": [
-            "Giza Plateau",
-            "Thebes",
-            "Karnak",
-            "Memphis",
-            "Ancient Mediterranean",
-            "South and Southeast Asia"
-          ]
-        },
-        {
-          "id": "swan-maiden",
-          "name": "Swan Maiden",
-          "regions": [
-            "Scandinavia",
-            "Celtic world",
-            "Slavic Europe",
-            "Siberia",
-            "East Asia",
-            "South Asia",
-            "Northern North America"
-          ]
-        },
-        {
-          "id": "taniwha",
-          "name": "Taniwha",
-          "regions": [
-            "North Island",
-            "South Island",
-            "Hauraki Gulf",
-            "Hokianga",
-            "Whanganui River",
-            "Waikato River"
-          ]
-        },
-        {
-          "id": "unicorn",
-          "name": "Unicorn",
-          "regions": [
-            "Mediterranean classical world",
-            "Medieval Europe",
-            "Persia and the Arab world (karkadann)",
-            "East Asia (qilin/kirin tradition)"
-          ]
-        },
-        {
-          "id": "ushi-oni",
-          "name": "Ushi-oni",
-          "regions": [
-            "Ehime Prefecture (Shikoku)",
-            "Wakayama Prefecture",
-            "Shimane Prefecture (Izumo region)",
-            "Coastal areas of western Japan generally",
-            "Seto Inland Sea coastal communities"
-          ]
-        },
-        {
-          "id": "valkyrie",
-          "name": "Valkyrie",
-          "regions": [
-            "Scandinavia (primary literary tradition)",
-            "Iceland (primary manuscript tradition)",
-            "Anglo-Saxon England (Old English cognate wælcyrge)",
-            "Germanic Europe broadly"
-          ]
-        },
-        {
-          "id": "wild-hunt",
-          "name": "Wild Hunt",
-          "regions": [
-            "Alps",
-            "Black Forest",
-            "Harz Mountains",
-            "Scandinavian highlands",
-            "Friuli (Benandanti tradition)",
-            "Welsh borderlands",
-            "Galicia",
-            "Brittany"
-          ]
-        },
-        {
-          "id": "yamata-no-orochi",
-          "name": "Yamata no Orochi",
-          "regions": [
-            "Izumo Province (Shimane Prefecture)",
-            "Hii River valley",
-            "Nita District (associated with iron production)"
-          ]
-        },
-        {
-          "id": "yara-ma-yha-who",
-          "name": "Yara-ma-yha-who",
-          "regions": [
-            "Southeastern Australia",
-            "New South Wales",
-            "Victoria"
-          ]
-        },
-        {
-          "id": "zmey",
-          "name": "Zmey (Slavic Dragon)",
-          "regions": [
-            "East Slavic lands (Russian and Ukrainian folktale and bylina traditions)",
-            "Western Balkans (Serbian, Croatian, Slovenian zmaj traditions)",
-            "Bulgaria and North Macedonia (zmei and lamia traditions)",
-            "Poland (żmij and the Wawel Dragon of Kraków)"
           ]
         }
       ]
@@ -3275,7 +3295,7 @@
     },
     "ufo_uap": {
       "name": "ufo_uap",
-      "count": 11,
+      "count": 12,
       "phenomena": [
         {
           "id": "aliens",
@@ -3286,6 +3306,14 @@
             "Hessdalen, Norway",
             "Belgian airspace (Belgian wave)",
             "Brazilian Amazon and São Paulo state"
+          ]
+        },
+        {
+          "id": "cash-landrum-incident",
+          "name": "Cash–Landrum incident",
+          "regions": [
+            "Texas",
+            "Greater Houston"
           ]
         },
         {
@@ -5029,7 +5057,7 @@
     },
     "conspiracy_theory": {
       "name": "conspiracy_theory",
-      "count": 13,
+      "count": 14,
       "phenomena": [
         {
           "id": "black-knight-satellite",
@@ -5052,6 +5080,15 @@
           "name": "Chemtrails (chemtrail conspiracy theory)",
           "regions": [
             "Anglophone internet"
+          ]
+        },
+        {
+          "id": "denver-airport",
+          "name": "Denver International Airport Conspiracy Theories",
+          "regions": [
+            "Colorado",
+            "Adams County",
+            "Front Range Urban Corridor"
           ]
         },
         {
