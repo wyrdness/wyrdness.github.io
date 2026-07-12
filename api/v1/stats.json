@@ -1,14 +1,14 @@
 {
   "version": "1.0.0",
-  "generated": "2026-07-11T18:53:43.786Z",
-  "total_phenomena": 514,
+  "generated": "2026-07-12T02:15:03.093Z",
+  "total_phenomena": 510,
   "by_category": {
-    "mythological_creature": 63,
     "entity_spirit": 103,
     "cryptid": 102,
-    "undead": 28,
+    "undead": 27,
+    "mythological_creature": 62,
     "ghost_haunting": 26,
-    "ufo_uap": 12,
+    "ufo_uap": 11,
     "fae_folklore": 29,
     "cultural_artifact": 6,
     "location": 22,
@@ -18,12 +18,9 @@
     "psychic_phenomena": 14,
     "urban_legend": 32,
     "anomaly": 10,
-    "conspiracy_theory": 14
+    "conspiracy_theory": 13
   },
   "by_region": {
-    "Kongo cultural area": 1,
-    "Central Africa": 1,
-    "Lower Congo basin": 1,
     "Historic samurai battlefields of the Japanese archipelago": 1,
     "Greenland": 2,
     "Baffin Island": 2,
@@ -305,7 +302,7 @@
     "Jerusalem (Haram al-Sharif)": 1,
     "Arizona": 4,
     "New Mexico": 5,
-    "Texas": 7,
+    "Texas": 6,
     "Sonoran Desert": 3,
     "Chihuahuan Desert": 1,
     "Strait of Georgia": 1,
@@ -323,7 +320,6 @@
     "Lochaber": 1,
     "Argyll": 4,
     "Islay": 1,
-    "Greater Houston": 1,
     "Outer Hebrides": 3,
     "Inner Hebrides": 1,
     "West Coast of Scotland": 1,
@@ -438,9 +434,6 @@
     "Iran": 3,
     "Greco-Roman world": 1,
     "Islamic world": 2,
-    "Colorado": 4,
-    "Adams County": 2,
-    "Front Range Urban Corridor": 1,
     "Greater Iran": 2,
     "Mazandaran": 1,
     "Caucasus": 2,
@@ -596,6 +589,7 @@
     "Anatolia": 2,
     "North Africa": 2,
     "Pennsylvania": 3,
+    "Adams County": 1,
     "Mid-Atlantic": 2,
     "Old South (USA)": 1,
     "Iranian plateau": 1,
@@ -681,7 +675,7 @@
     "England (especially the North and Midlands)": 1,
     "Oneida County": 1,
     "Rhinelander": 1,
-    "Transylvania": 2,
+    "Transylvania": 1,
     "Cluj County": 1,
     "Cluj-Napoca": 1,
     "United States — broadly distributed": 1,
@@ -1201,6 +1195,7 @@
     "Uintah Basin": 1,
     "Navajo Nation": 1,
     "Utah": 1,
+    "Colorado": 3,
     "Four Corners region": 1,
     "Florida": 2,
     "Everglades": 1,
@@ -1257,10 +1252,6 @@
     "Australia": 1,
     "Wiltshire": 1,
     "Salisbury Plain": 1,
-    "Wallachia": 1,
-    "Moldavia": 1,
-    "Oltenia": 1,
-    "Banat": 1,
     "Rural Poland": 1,
     "Broadly: Eastern Europe and former Polish-Lithuanian Commonwealth territories": 1,
     "Western Europe (medieval demonological tradition)": 1,
@@ -1472,9 +1463,9 @@
     "Poland (żmij and the Wawel Dragon of Kraków)": 1
   },
   "by_danger_level": {
-    "unknown": 514
+    "unknown": 510
   },
   "by_evidence_level": {
-    "unknown": 514
+    "unknown": 510
   }
 }

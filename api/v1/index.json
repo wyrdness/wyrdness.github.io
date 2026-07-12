@@ -1,45 +1,8 @@
 {
   "version": "1.0.0",
-  "generated": "2026-07-11T18:53:43.697Z",
-  "total": 514,
+  "generated": "2026-07-12T02:15:03.005Z",
+  "total": 510,
   "phenomena": [
-    {
-      "id": "abada",
-      "name": "Abada",
-      "category": "mythological_creature",
-      "description": "The Abada is a two-horned, unicorn-like creature from the folklore of the Kongo language area of Central Africa, said to resemble a small donkey and to have horns that serve as antidotes to poison and disease.",
-      "aliases": [
-        {
-          "name": "Nillekma",
-          "region": "Central Africa"
-        },
-        {
-          "name": "Arase",
-          "region": "Central Africa"
-        }
-      ],
-      "tags": [
-        "africa",
-        "central-africa",
-        "kongo",
-        "unicorn",
-        "two-horned",
-        "antelope-like",
-        "healing",
-        "antidote",
-        "folklore"
-      ],
-      "status": "documented",
-      "regions": [
-        "Kongo cultural area",
-        "Central Africa",
-        "Lower Congo basin"
-      ],
-      "origin": "Forests and inland regions of the historic Kongo cultural area, including parts of present-day Angola, the Republic of the Congo, and the Democratic Republic of the Congo.",
-      "first_reported": "17th century",
-      "danger_level": "unknown",
-      "evidence_level": "unknown"
-    },
     {
       "id": "abumi-guchi",
       "name": "Abumi-guchi",
@@ -4092,41 +4055,6 @@
       "evidence_level": "unknown"
     },
     {
-      "id": "cash-landrum-incident",
-      "name": "Cash–Landrum incident",
-      "category": "ufo_uap",
-      "description": "A 1980 close-encounter UFO case in southeast Texas in which Betty Cash, Vickie Landrum, and Vickie's seven-year-old grandson Colby reported a diamond-shaped craft emitting flame and heat, escorted by approximately 23 military helicopters. The witnesses subsequently reported severe injuries consistent, in their physicians' view, with radiation exposure.",
-      "aliases": [
-        {
-          "name": "Cash–Landrum UFO incident",
-          "region": "United States"
-        },
-        {
-          "name": "Huffman Texas UFO incident",
-          "region": "Texas, USA"
-        }
-      ],
-      "tags": [
-        "ufo",
-        "uap",
-        "close-encounter",
-        "radiation-injury",
-        "texas",
-        "1980",
-        "military-helicopters",
-        "landmark-case"
-      ],
-      "status": "documented",
-      "regions": [
-        "Texas",
-        "Greater Houston"
-      ],
-      "origin": "Single-incident case located on FM 1485/2100 between New Caney and Huffman, in Liberty County, Texas, with the encounter terminating near Dayton.",
-      "first_reported": "1980-12-29",
-      "danger_level": "unknown",
-      "evidence_level": "unknown"
-    },
-    {
       "id": "ceasg",
       "name": "Ceasg",
       "category": "mythological_creature",
@@ -5508,48 +5436,6 @@
       ],
       "origin": "Demonology is a near-universal feature of human religious systems, with major systematised traditions in West Asia, Europe, North Africa, South and East Asia.",
       "first_reported": "c. 2000 BCE",
-      "danger_level": "unknown",
-      "evidence_level": "unknown"
-    },
-    {
-      "id": "denver-airport",
-      "name": "Denver International Airport Conspiracy Theories",
-      "category": "conspiracy_theory",
-      "description": "A cluster of conspiracy theories surrounding Denver International Airport (opened 28 February 1995), including claims of secret underground bunkers, Illuminati or New World Order activity, hidden symbolism in Leo Tanguma's murals, the Blue Mustang sculpture ('Blucifer') by Luis Jiménez, and a dedication capstone inscribed 'New World Airport Commission' (1994).",
-      "aliases": [
-        {
-          "name": "DIA Conspiracy",
-          "language": "English"
-        },
-        {
-          "name": "DEN Conspiracy",
-          "language": "English"
-        },
-        {
-          "name": "New World Airport Commission conspiracy",
-          "language": "English",
-          "meaning": "After the dedication-capstone inscription"
-        }
-      ],
-      "tags": [
-        "conspiracy-theory",
-        "airport",
-        "denver",
-        "blucifer",
-        "tanguma-murals",
-        "freemasonry",
-        "new-world-order",
-        "illuminati",
-        "underground-bunkers"
-      ],
-      "status": "active",
-      "regions": [
-        "Colorado",
-        "Adams County",
-        "Front Range Urban Corridor"
-      ],
-      "origin": "The airport is in Adams County, Colorado, USA. The conspiracy-theory phenomenon itself is global through Internet circulation.",
-      "first_reported": "1995-02-28",
       "danger_level": "unknown",
       "evidence_level": "unknown"
     },
@@ -20915,61 +20801,6 @@
       ],
       "origin": "A single monument on Salisbury Plain, Wiltshire, England.",
       "first_reported": "c. 3100 BC",
-      "danger_level": "unknown",
-      "evidence_level": "unknown"
-    },
-    {
-      "id": "strigoi",
-      "name": "Strigoi",
-      "category": "undead",
-      "description": "Vampiric undead of Romanian folklore, distinguished from many other European vampire traditions by an active 'living' form (strigoi viu, a sorcerer or witch) and a 'dead' form (strigoi mort) that rises from the grave to torment family members.",
-      "aliases": [
-        {
-          "name": "Strigoi viu",
-          "language": "Romanian",
-          "meaning": "'Living strigoi' — sorcerer or witch with strigoi powers"
-        },
-        {
-          "name": "Strigoi mort",
-          "language": "Romanian",
-          "meaning": "'Dead strigoi' — the undead vampiric form"
-        },
-        {
-          "name": "Strigoaică",
-          "language": "Romanian",
-          "meaning": "Female witch with strigoi-like powers"
-        },
-        {
-          "name": "Moroi",
-          "language": "Romanian",
-          "region": "Moldavia and Wallachia",
-          "meaning": "Closely related undead/vampiric being"
-        },
-        {
-          "name": "Pricolici",
-          "language": "Romanian",
-          "meaning": "Werewolf-strigoi crossover; undead transforming into a wolf"
-        }
-      ],
-      "tags": [
-        "undead",
-        "vampire",
-        "romania",
-        "folklore",
-        "balkans",
-        "blood",
-        "exhumation"
-      ],
-      "status": "historical",
-      "regions": [
-        "Transylvania",
-        "Wallachia",
-        "Moldavia",
-        "Oltenia",
-        "Banat"
-      ],
-      "origin": "Folk traditions of Romania, especially rural Wallachia, Moldavia, Transylvania, and Oltenia. Cognate beliefs extend across the Balkans and into the Slavic world.",
-      "first_reported": "Pre-modern",
       "danger_level": "unknown",
       "evidence_level": "unknown"
     },
