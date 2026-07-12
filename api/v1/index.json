@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
-  "generated": "2026-07-12T13:12:08.108Z",
-  "total": 514,
+  "generated": "2026-07-12T19:05:19.642Z",
+  "total": 513,
   "phenomena": [
     {
       "id": "abada",
@@ -18895,40 +18895,6 @@
       ],
       "origin": "The debris field is on the J. B. Foster sheep ranch in Lincoln County, New Mexico, roughly 75 miles north-west of the city of Roswell. Secondary 'crash sites' and 'body recovery' sites have been claimed at multiple locations across south-central New Mexico in later literature, with no contemporaneous physical evidence.",
       "first_reported": "1947-07-08",
-      "danger_level": "unknown",
-      "evidence_level": "unknown"
-    },
-    {
-      "id": "rumtifusel",
-      "name": "Rumtifusel",
-      "category": "cryptid",
-      "description": "A fearsome critter from American lumberjack tall tales, the Rumtifusel is a flat, mink-pelted predator that drapes itself over a stump like an abandoned fur coat to lure greedy passers-by, then drains them through suckers on its underside.",
-      "aliases": [
-        {
-          "name": "Rumptifusel",
-          "meaning": "common alternate spelling"
-        },
-        {
-          "name": "Fur-coat critter",
-          "meaning": "informal description for the creature's lure"
-        }
-      ],
-      "tags": [
-        "fearsome-critter",
-        "folklore",
-        "lumberjack-tall-tale",
-        "north-america",
-        "predator",
-        "lure"
-      ],
-      "status": "documented",
-      "regions": [
-        "Great Lakes lumber country",
-        "Pacific Northwest",
-        "New England"
-      ],
-      "origin": "Within the lumberjack tall-tale tradition, the Rumtifusel is associated with the broad logging country of the northern United States and Canada — the same generic 'lumberwoods' setting that hosts most fearsome critters.",
-      "first_reported": "1939",
       "danger_level": "unknown",
       "evidence_level": "unknown"
     },

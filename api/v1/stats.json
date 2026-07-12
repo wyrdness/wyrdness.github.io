@@ -1,11 +1,11 @@
 {
   "version": "1.0.0",
-  "generated": "2026-07-12T13:12:08.192Z",
-  "total_phenomena": 514,
+  "generated": "2026-07-12T19:05:19.726Z",
+  "total_phenomena": 513,
   "by_category": {
     "mythological_creature": 63,
     "entity_spirit": 103,
-    "cryptid": 102,
+    "cryptid": 101,
     "undead": 28,
     "ghost_haunting": 26,
     "ufo_uap": 12,
@@ -35,7 +35,7 @@
     "Ewe cultural area": 1,
     "Maine": 5,
     "Great Lakes states": 2,
-    "Pacific Northwest": 17,
+    "Pacific Northwest": 16,
     "Oregon": 4,
     "Adirondacks": 1,
     "Appalachian Mountains": 6,
@@ -283,7 +283,7 @@
     "Massachusetts": 2,
     "Bristol County": 1,
     "Plymouth County": 1,
-    "New England": 10,
+    "New England": 9,
     "North Carolina": 4,
     "Burke County": 1,
     "Blue Ridge Mountains": 1,
@@ -1136,7 +1136,6 @@
     "Southwest Pacific islands": 1,
     "Sierra Nevada foothills": 2,
     "Chaves County": 1,
-    "Great Lakes lumber country": 2,
     "Carpathian foothills": 1,
     "Volga and Dnieper basins": 1,
     "English-language internet horror communities": 1,
@@ -1183,6 +1182,7 @@
     "Ōmi Province": 1,
     "Mino Province": 1,
     "Vermont (Mount Mansfield as Wampahoofus)": 1,
+    "Great Lakes lumber country": 1,
     "Driftless Area (Wisconsin)": 1,
     "Cuscatlán (El Salvador)": 1,
     "Pacific Guatemala": 1,
@@ -1472,9 +1472,9 @@
     "Poland (żmij and the Wawel Dragon of Kraków)": 1
   },
   "by_danger_level": {
-    "unknown": 514
+    "unknown": 513
   },
   "by_evidence_level": {
-    "unknown": 514
+    "unknown": 513
   }
 }
