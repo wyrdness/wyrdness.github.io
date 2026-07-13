@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
-  "generated": "2026-07-12T19:05:19.642Z",
-  "total": 513,
+  "generated": "2026-07-13T02:25:44.471Z",
+  "total": 506,
   "phenomena": [
     {
       "id": "abada",
@@ -308,46 +308,6 @@
       ],
       "origin": "Originally a Japanese school-yard legend; widely retold across Japan and exported through pop culture to East Asia, North America, and beyond.",
       "first_reported": "1930s",
-      "danger_level": "unknown",
-      "evidence_level": "unknown"
-    },
-    {
-      "id": "akaname",
-      "name": "Akaname",
-      "category": "entity_spirit",
-      "description": "Akaname ('filth-licker') is a small Japanese yokai recorded in Edo-period bestiaries that emerges in dirty, neglected bathrooms and bathhouses to lick the grime off tubs and floors with its long red tongue. It functions in folklore as a moral spur to keep bathrooms clean.",
-      "aliases": [
-        {
-          "name": "垢嘗",
-          "language": "Japanese (kanji)",
-          "meaning": "filth-licker"
-        },
-        {
-          "name": "Akaneburi",
-          "language": "Japanese (older variant)",
-          "meaning": "filth-licking"
-        },
-        {
-          "name": "Filth-licker",
-          "language": "English (descriptive)"
-        }
-      ],
-      "tags": [
-        "japan",
-        "yokai",
-        "edo-period",
-        "toriyama-sekien",
-        "bathroom-folklore",
-        "domestic-spirit",
-        "filth",
-        "cleanliness"
-      ],
-      "status": "documented",
-      "regions": [
-        "Old urban bathhouses and private bathrooms across Japan"
-      ],
-      "origin": "A figure of Japanese yokai art and folklore, distributed wherever Edo-period and modern Japanese bathing culture is observed.",
-      "first_reported": "1686",
       "danger_level": "unknown",
       "evidence_level": "unknown"
     },
@@ -722,38 +682,6 @@
       "evidence_level": "unknown"
     },
     {
-      "id": "amarok",
-      "name": "Amarok",
-      "category": "mythological_creature",
-      "description": "A gigantic, solitary wolf of Inuit oral tradition that hunts at night and is said to stalk hunters foolish enough to travel alone after dark.",
-      "aliases": [
-        {
-          "name": "Amaroq",
-          "language": "Inuktitut",
-          "meaning": "wolf / wolf spirit"
-        }
-      ],
-      "tags": [
-        "inuit",
-        "arctic",
-        "wolf",
-        "cautionary-tale",
-        "north-america",
-        "mythology"
-      ],
-      "status": "documented",
-      "regions": [
-        "Greenland",
-        "Nunavut",
-        "Nunavik",
-        "Alaska"
-      ],
-      "origin": "Inuit oral-tradition range, encompassing Greenland, Arctic Canada (Nunavut, Nunavik), and Alaska.",
-      "first_reported": "Pre-contact",
-      "danger_level": "unknown",
-      "evidence_level": "unknown"
-    },
-    {
       "id": "ammit",
       "name": "Ammit",
       "category": "mythological_creature",
@@ -798,65 +726,6 @@
       ],
       "origin": "Ammit appears in the funerary religion of ancient Egypt, with iconography distributed across tombs, papyri, and temples throughout the Nile Valley and the Egyptian-controlled regions of the New Kingdom.",
       "first_reported": "New Kingdom (c. 1550 BCE)",
-      "danger_level": "unknown",
-      "evidence_level": "unknown"
-    },
-    {
-      "id": "anansi",
-      "name": "Anansi",
-      "category": "mythological_creature",
-      "description": "A spider trickster of Akan oral tradition, originating among the Ashanti people of present-day Ghana and carried by enslaved West Africans across the Atlantic, where Anansi became one of the central figures of Caribbean and African-American folklore.",
-      "aliases": [
-        {
-          "name": "Ananse",
-          "language": "Akan / Twi",
-          "region": "Ghana"
-        },
-        {
-          "name": "Kwaku Ananse",
-          "language": "Akan / Twi",
-          "meaning": "'Wednesday-born Ananse'"
-        },
-        {
-          "name": "Aunt Nancy",
-          "language": "English (African American)",
-          "region": "Southern United States"
-        },
-        {
-          "name": "Bro Nansi",
-          "language": "English Creole",
-          "region": "Caribbean"
-        },
-        {
-          "name": "Kompa Nanzi",
-          "language": "Papiamentu",
-          "region": "Curaçao / ABC islands"
-        },
-        {
-          "name": "Anancy",
-          "language": "Jamaican Patois",
-          "region": "Jamaica"
-        }
-      ],
-      "tags": [
-        "trickster",
-        "akan",
-        "ghana",
-        "west-africa",
-        "caribbean",
-        "spider",
-        "diaspora",
-        "folktale"
-      ],
-      "status": "documented",
-      "regions": [
-        "Akan cultural area",
-        "Caribbean",
-        "Suriname / Guianas",
-        "American South"
-      ],
-      "origin": "Originating among the Akan peoples of present-day Ghana and carried through the Atlantic slave trade across West Africa, the Caribbean, and the Americas.",
-      "first_reported": "Akan oral tradition (long pre-colonial)",
       "danger_level": "unknown",
       "evidence_level": "unknown"
     },
@@ -13872,60 +13741,6 @@
       "evidence_level": "unknown"
     },
     {
-      "id": "marozi",
-      "name": "Marozi",
-      "category": "cryptid",
-      "description": "A reported small, highland-dwelling lion of East Africa with retained leopard-like spots into adulthood and a reduced or absent mane. Two specimens were shot in the Kenyan Aberdares in 1931 but no living example or accepted subspecies has been confirmed.",
-      "aliases": [
-        {
-          "name": "Spotted Lion",
-          "language": "English",
-          "region": "East Africa"
-        },
-        {
-          "name": "Aberdare Lion",
-          "language": "English",
-          "region": "Kenya, Aberdare Mountains"
-        },
-        {
-          "name": "Marozi",
-          "language": "Swahili",
-          "region": "Kenya / Tanzania"
-        },
-        {
-          "name": "Ikimizi",
-          "language": "Kinyarwanda",
-          "region": "Rwanda"
-        },
-        {
-          "name": "Ntararago",
-          "language": "Kinyarwanda",
-          "region": "Rwanda"
-        }
-      ],
-      "tags": [
-        "cryptid",
-        "felid",
-        "africa",
-        "kenya",
-        "montane",
-        "mystery-cat",
-        "lion",
-        "leopard-like-spots"
-      ],
-      "status": "historical",
-      "regions": [
-        "Aberdare Range",
-        "Kinangop Plateau",
-        "Mau Escarpment",
-        "Virunga Mountains"
-      ],
-      "origin": "Reports concentrated in the Kenyan central highlands — particularly the Aberdare Range, the Mau Escarpment edge, and the Kinangop Plateau — with neighbouring reports from highland Tanzania, Uganda, and the Virunga / Rwanda border (sometimes treated as the related ikimizi and ntararago).",
-      "first_reported": "1903",
-      "danger_level": "unknown",
-      "evidence_level": "unknown"
-    },
-    {
       "id": "mary-celeste",
       "name": "Mary Celeste",
       "category": "anomaly",
@@ -17945,43 +17760,6 @@
       "evidence_level": "unknown"
     },
     {
-      "id": "psychometry",
-      "name": "Psychometry",
-      "category": "psychic_phenomena",
-      "description": "Psychometry is the alleged paranormal ability to obtain information about an object's history — its past owners, locations, or events surrounding it — by physical contact. The term was coined by American physician Joseph Rodes Buchanan in 1842.",
-      "aliases": [
-        {
-          "name": "Token-object reading",
-          "language": "English (parapsychology)"
-        },
-        {
-          "name": "Object reading",
-          "language": "English"
-        },
-        {
-          "name": "Psychoscopy",
-          "language": "English (older parapsychology literature)"
-        }
-      ],
-      "tags": [
-        "psi",
-        "esp",
-        "retrocognition",
-        "clairvoyance",
-        "spiritualism",
-        "mediumship",
-        "pseudoscience-classification",
-        "buchanan",
-        "denton"
-      ],
-      "status": "unverified",
-      "regions": [],
-      "origin": "Practised principally in 19th- and 20th-century Anglosphere Spiritualism and 20th-century European parapsychology, though similar 'reading-from-objects' practices appear in many divinatory traditions worldwide.",
-      "first_reported": "1842",
-      "danger_level": "unknown",
-      "evidence_level": "unknown"
-    },
-    {
       "id": "puca",
       "name": "Púca",
       "category": "fae_folklore",
@@ -18570,94 +18348,6 @@
       "evidence_level": "unknown"
     },
     {
-      "id": "revenant",
-      "name": "Revenant",
-      "category": "undead",
-      "description": "A revenant is a spirit or animated corpse believed to have returned from death to haunt or harm the living, prominent in medieval European folklore from Celtic and Norse traditions through English and French accounts. Archaeologists have found revenant graves across Europe dating back 4,000 years.",
-      "aliases": [
-        {
-          "name": "revenant",
-          "language": "Old French",
-          "meaning": "One who returns; from revenir (to return)"
-        },
-        {
-          "name": "Draugr",
-          "language": "Old Norse",
-          "region": "Scandinavia",
-          "meaning": "Again-walker; animated corpse in Norse mythology"
-        },
-        {
-          "name": "Aptrgangr",
-          "language": "Old Norse",
-          "region": "Scandinavia",
-          "meaning": "After-goer; one who walks after death"
-        },
-        {
-          "name": "Haugbui",
-          "language": "Old Norse",
-          "region": "Scandinavia",
-          "meaning": "Barrow-dweller; a type of Norse revenant that remains near its burial mound"
-        }
-      ],
-      "tags": [
-        "undead",
-        "ghost",
-        "medieval",
-        "europe",
-        "folklore",
-        "animated-corpse",
-        "vampire-precursor",
-        "celtic",
-        "norse"
-      ],
-      "status": "historical",
-      "regions": [
-        "England",
-        "Wales",
-        "Normandy",
-        "Scandinavia"
-      ],
-      "origin": "Revenant beliefs are documented across Europe, with the most detailed medieval accounts from England, Wales, and France. Archaeological evidence of anti-revenant burial practices spans Europe from the Bronze Age onward.",
-      "first_reported": "Pre-0100-01-01",
-      "danger_level": "unknown",
-      "evidence_level": "unknown"
-    },
-    {
-      "id": "roanoke-colony",
-      "name": "Roanoke Colony",
-      "category": "location",
-      "description": "The Roanoke Colony, known as 'The Lost Colony,' was an English settlement of approximately 115–121 colonists established on Roanoke Island (present-day North Carolina) in 1587. When Governor John White returned in August 1590, the settlement was found completely abandoned, with only the word 'CROATOAN' carved into a post.",
-      "aliases": [
-        {
-          "name": "The Lost Colony",
-          "language": "English",
-          "region": "United States",
-          "meaning": "Common name for the 1587 English colony on Roanoke Island that disappeared by 1590"
-        }
-      ],
-      "tags": [
-        "historical-mystery",
-        "colonial",
-        "north-carolina",
-        "united-states",
-        "1587",
-        "disappearance",
-        "croatoan",
-        "archaeology",
-        "english-colonization"
-      ],
-      "status": "historical",
-      "regions": [
-        "Roanoke Island, North Carolina",
-        "Hatteras Island, North Carolina",
-        "Dare County, North Carolina"
-      ],
-      "origin": "Roanoke Island, present-day Dare County, North Carolina, United States. Archaeological investigation has extended to Hatteras Island (Croatoan Island) and a site 50 miles inland ('Site X' in Bertie County).",
-      "first_reported": "1587-07-22",
-      "danger_level": "unknown",
-      "evidence_level": "unknown"
-    },
-    {
       "id": "roc",
       "name": "Roc",
       "category": "mythological_creature",
@@ -18895,6 +18585,40 @@
       ],
       "origin": "The debris field is on the J. B. Foster sheep ranch in Lincoln County, New Mexico, roughly 75 miles north-west of the city of Roswell. Secondary 'crash sites' and 'body recovery' sites have been claimed at multiple locations across south-central New Mexico in later literature, with no contemporaneous physical evidence.",
       "first_reported": "1947-07-08",
+      "danger_level": "unknown",
+      "evidence_level": "unknown"
+    },
+    {
+      "id": "rumtifusel",
+      "name": "Rumtifusel",
+      "category": "cryptid",
+      "description": "A fearsome critter from American lumberjack tall tales, the Rumtifusel is a flat, mink-pelted predator that drapes itself over a stump like an abandoned fur coat to lure greedy passers-by, then drains them through suckers on its underside.",
+      "aliases": [
+        {
+          "name": "Rumptifusel",
+          "meaning": "common alternate spelling"
+        },
+        {
+          "name": "Fur-coat critter",
+          "meaning": "informal description for the creature's lure"
+        }
+      ],
+      "tags": [
+        "fearsome-critter",
+        "folklore",
+        "lumberjack-tall-tale",
+        "north-america",
+        "predator",
+        "lure"
+      ],
+      "status": "documented",
+      "regions": [
+        "Great Lakes lumber country",
+        "Pacific Northwest",
+        "New England"
+      ],
+      "origin": "Within the lumberjack tall-tale tradition, the Rumtifusel is associated with the broad logging country of the northern United States and Canada — the same generic 'lumberwoods' setting that hosts most fearsome critters.",
+      "first_reported": "1939",
       "danger_level": "unknown",
       "evidence_level": "unknown"
     },
@@ -21571,65 +21295,6 @@
       ],
       "origin": "Telepathy is reported and researched globally; experimental and theoretical work has been concentrated in the UK, USA, USSR/Russia, and continental Europe.",
       "first_reported": "1882",
-      "danger_level": "unknown",
-      "evidence_level": "unknown"
-    },
-    {
-      "id": "tengu",
-      "name": "Tengu",
-      "category": "entity_spirit",
-      "description": "Japanese mountain spirits, classed as both yōkai and kami, ranging from lesser bird-like kotengu to high-ranking long-nosed daitengu, originally portrayed as Buddhist demons but later re-imagined as protective mountain guardians and martial-arts mentors.",
-      "aliases": [
-        {
-          "name": "天狗",
-          "language": "Japanese (kanji)",
-          "meaning": "literally 'heavenly dog'"
-        },
-        {
-          "name": "Karasu-tengu",
-          "language": "Japanese",
-          "meaning": "'crow tengu' — bird-headed type"
-        },
-        {
-          "name": "Konoha-tengu",
-          "language": "Japanese",
-          "meaning": "'leaf tengu' — humanoid long-nosed type"
-        },
-        {
-          "name": "Yamabushi-tengu",
-          "language": "Japanese",
-          "meaning": "'mountain-ascetic tengu' — high-ranking humanoid form"
-        },
-        {
-          "name": "Daitengu",
-          "language": "Japanese",
-          "meaning": "'great tengu' — leaders/chiefs"
-        },
-        {
-          "name": "Kotengu",
-          "language": "Japanese",
-          "meaning": "'small tengu' — lesser, more bird-like beings"
-        }
-      ],
-      "tags": [
-        "japan",
-        "yokai",
-        "kami",
-        "shinto",
-        "buddhist-folklore",
-        "mountain-spirit",
-        "shapeshifter",
-        "yamabushi"
-      ],
-      "status": "active",
-      "regions": [
-        "Honshu",
-        "Kansai (Mount Kurama, Mount Atago, Mount Hiei)",
-        "Tōhoku",
-        "Chūbu"
-      ],
-      "origin": "Tengu are exclusively associated with Japan and concentrated in the country's mountainous interior, especially central Honshu.",
-      "first_reported": "0720-01-01",
       "danger_level": "unknown",
       "evidence_level": "unknown"
     },

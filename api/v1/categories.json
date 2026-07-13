@@ -1,11 +1,11 @@
 {
   "version": "1.0.0",
-  "generated": "2026-07-12T19:05:19.689Z",
+  "generated": "2026-07-13T02:25:44.514Z",
   "total": 16,
   "categories": {
     "mythological_creature": {
       "name": "mythological_creature",
-      "count": 63,
+      "count": 61,
       "phenomena": [
         {
           "id": "abada",
@@ -34,31 +34,11 @@
           ]
         },
         {
-          "id": "amarok",
-          "name": "Amarok",
-          "regions": [
-            "Greenland",
-            "Nunavut",
-            "Nunavik",
-            "Alaska"
-          ]
-        },
-        {
           "id": "ammit",
           "name": "Ammit",
           "regions": [
             "Nile Valley",
             "Theban necropolis"
-          ]
-        },
-        {
-          "id": "anansi",
-          "name": "Anansi",
-          "regions": [
-            "Akan cultural area",
-            "Caribbean",
-            "Suriname / Guianas",
-            "American South"
           ]
         },
         {
@@ -633,20 +613,13 @@
     },
     "entity_spirit": {
       "name": "entity_spirit",
-      "count": 103,
+      "count": 101,
       "phenomena": [
         {
           "id": "abumi-guchi",
           "name": "Abumi-guchi",
           "regions": [
             "Historic samurai battlefields of the Japanese archipelago"
-          ]
-        },
-        {
-          "id": "akaname",
-          "name": "Akaname",
-          "regions": [
-            "Old urban bathhouses and private bathrooms across Japan"
           ]
         },
         {
@@ -1481,16 +1454,6 @@
           ]
         },
         {
-          "id": "tengu",
-          "name": "Tengu",
-          "regions": [
-            "Honshu",
-            "Kansai (Mount Kurama, Mount Atago, Mount Hiei)",
-            "Tōhoku",
-            "Chūbu"
-          ]
-        },
-        {
           "id": "tikbalang",
           "name": "Tikbalang",
           "regions": [
@@ -2291,16 +2254,6 @@
           ]
         },
         {
-          "id": "marozi",
-          "name": "Marozi",
-          "regions": [
-            "Aberdare Range",
-            "Kinangop Plateau",
-            "Mau Escarpment",
-            "Virunga Mountains"
-          ]
-        },
-        {
           "id": "minhocao",
           "name": "Minhocão",
           "regions": [
@@ -2494,6 +2447,15 @@
           "regions": [
             "California",
             "Sierra Nevada foothills"
+          ]
+        },
+        {
+          "id": "rumtifusel",
+          "name": "Rumtifusel",
+          "regions": [
+            "Great Lakes lumber country",
+            "Pacific Northwest",
+            "New England"
           ]
         },
         {
@@ -2714,7 +2676,7 @@
     },
     "undead": {
       "name": "undead",
-      "count": 28,
+      "count": 27,
       "phenomena": [
         {
           "id": "adze",
@@ -2893,16 +2855,6 @@
             "Java",
             "Sumatra",
             "Borneo"
-          ]
-        },
-        {
-          "id": "revenant",
-          "name": "Revenant",
-          "regions": [
-            "England",
-            "Wales",
-            "Normandy",
-            "Scandinavia"
           ]
         },
         {
@@ -3795,7 +3747,7 @@
     },
     "location": {
       "name": "location",
-      "count": 22,
+      "count": 21,
       "phenomena": [
         {
           "id": "aokigahara",
@@ -3918,15 +3870,6 @@
             "Mahone Bay",
             "Lunenburg County",
             "Nova Scotia"
-          ]
-        },
-        {
-          "id": "roanoke-colony",
-          "name": "Roanoke Colony",
-          "regions": [
-            "Roanoke Island, North Carolina",
-            "Hatteras Island, North Carolina",
-            "Dare County, North Carolina"
           ]
         },
         {
@@ -4561,7 +4504,7 @@
     },
     "psychic_phenomena": {
       "name": "psychic_phenomena",
-      "count": 14,
+      "count": 13,
       "phenomena": [
         {
           "id": "automatic-writing",
@@ -4642,11 +4585,6 @@
         {
           "id": "psychic-phenomena",
           "name": "Psychic Phenomena",
-          "regions": []
-        },
-        {
-          "id": "psychometry",
-          "name": "Psychometry",
           "regions": []
         },
         {
