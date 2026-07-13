@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
-  "generated": "2026-07-13T09:13:12.095Z",
-  "total": 502,
+  "generated": "2026-07-13T14:24:37.633Z",
+  "total": 513,
   "phenomena": [
     {
       "id": "abada",
@@ -1526,6 +1526,86 @@
       ],
       "origin": "The hypothesis proposes a global atmospheric distribution, with no specific geographic restriction. Reported sightings associated with atmospheric beasts come from multiple continents.",
       "first_reported": "1919-01-01",
+      "danger_level": "unknown",
+      "evidence_level": "unknown"
+    },
+    {
+      "id": "aurora-phenomena",
+      "name": "Aurora Phenomena (Northern and Southern Lights Folklore)",
+      "category": "atmospheric_phenomenon",
+      "description": "Aurora phenomena — the Aurora Borealis (Northern Lights) and Aurora Australis (Southern Lights) — are natural light displays in Earth's upper atmosphere caused by charged solar particles interacting with the magnetosphere, and have inspired rich and varied supernatural traditions across polar and sub-polar cultures worldwide.",
+      "aliases": [
+        {
+          "name": "Aurora Borealis",
+          "language": "Latin",
+          "region": "Northern Hemisphere",
+          "meaning": "Northern dawn — from Aurora (Roman goddess of dawn) and Boreas (Greek north wind)"
+        },
+        {
+          "name": "Aurora Australis",
+          "language": "Latin",
+          "region": "Southern Hemisphere",
+          "meaning": "Southern dawn — from Aurora and Auster (Latin south wind)"
+        },
+        {
+          "name": "Northern Lights",
+          "language": "English",
+          "region": "Global (northern hemisphere usage)"
+        },
+        {
+          "name": "Southern Lights",
+          "language": "English",
+          "region": "Global (southern hemisphere usage)"
+        },
+        {
+          "name": "Guovssahas",
+          "language": "Sami",
+          "region": "Northern Scandinavia",
+          "meaning": "The light you can hear — reflects Sami belief that the aurora makes a rustling sound"
+        },
+        {
+          "name": "Tahunui-a-rangi",
+          "language": "Maori",
+          "region": "Aotearoa / New Zealand",
+          "meaning": "Great torches in the sky"
+        },
+        {
+          "name": "Revontulet",
+          "language": "Finnish",
+          "region": "Finland",
+          "meaning": "Fox fires — from the legend of a cosmic fox running across the sky, its tail brushing sparks"
+        },
+        {
+          "name": "Bifrost",
+          "language": "Old Norse",
+          "region": "Scandinavia",
+          "meaning": "Trembling or shimmering road — the bridge connecting the world of the living to Asgard (sometimes identified with the aurora in Norse tradition)"
+        }
+      ],
+      "tags": [
+        "atmospheric",
+        "natural-phenomenon",
+        "folklore",
+        "mythology",
+        "polar-regions",
+        "sami",
+        "norse",
+        "indigenous",
+        "aurora-borealis",
+        "aurora-australis"
+      ],
+      "status": "documented",
+      "regions": [
+        "Arctic Circle",
+        "Northern Scandinavia (Lapland)",
+        "Northern Canada",
+        "Alaska",
+        "Siberia",
+        "Antarctica",
+        "Southern Ocean regions"
+      ],
+      "origin": "Aurora borealis occurs in a ring around the Arctic (auroral oval), centered on the geomagnetic pole. During strong geomagnetic storms it can be seen as far south as the northern United States, central Europe, and occasionally further. Aurora australis similarly occurs around the Antarctic. Both appear year-round but require darkness and clear skies to be visible.",
+      "first_reported": "Pre-contact",
       "danger_level": "unknown",
       "evidence_level": "unknown"
     },
@@ -3505,40 +3585,6 @@
       ],
       "origin": "The folklore tracks the natural range of Inia geoffrensis: the Amazon and Orinoco basins of South America. The pink-river-dolphin shapeshifter is most strongly associated with the Brazilian Amazon, with parallel encantado traditions in the Peruvian, Colombian, Bolivian, and Venezuelan Amazon.",
       "first_reported": "19th century",
-      "danger_level": "unknown",
-      "evidence_level": "unknown"
-    },
-    {
-      "id": "bridgewater-triangle",
-      "name": "Bridgewater Triangle",
-      "category": "location",
-      "description": "The Bridgewater Triangle is a roughly 200-square-mile (520 km²) area of southeastern Massachusetts, designated by cryptozoologist Loren Coleman in the 1970s, where unusually frequent reports of UFOs, cryptids, ghost lights, and other paranormal phenomena cluster around the Hockomock Swamp.",
-      "aliases": [
-        {
-          "name": "Hockomock area",
-          "region": "Southeastern Massachusetts",
-          "meaning": "Refers to the swamp at the heart of the triangle"
-        }
-      ],
-      "tags": [
-        "paranormal-hotspot",
-        "massachusetts",
-        "ufo",
-        "cryptid",
-        "thunderbird",
-        "hockomock-swamp",
-        "loren-coleman",
-        "new-england"
-      ],
-      "status": "documented",
-      "regions": [
-        "Massachusetts",
-        "Bristol County",
-        "Plymouth County",
-        "New England"
-      ],
-      "origin": "An approximately 200-square-mile region of southeastern Massachusetts in Bristol, Plymouth, and Norfolk counties, including the towns of Abington, Bridgewater, East Bridgewater, West Bridgewater, Brockton, Easton, Freetown, Mansfield, Norton, Raynham, Rehoboth, Seekonk, and Taunton (per Coleman's mapping).",
-      "first_reported": "1675",
       "danger_level": "unknown",
       "evidence_level": "unknown"
     },
@@ -6022,6 +6068,68 @@
       ],
       "origin": "Dragon traditions are attested in nearly every culture and on every inhabited continent.",
       "first_reported": "c. 2000 BCE",
+      "danger_level": "unknown",
+      "evidence_level": "unknown"
+    },
+    {
+      "id": "draugr",
+      "name": "Draugr",
+      "category": "undead",
+      "description": "A corporeal revenant of Old Norse and Icelandic tradition, the draugr is an animated corpse with superhuman strength, magical abilities, and a violent jealousy toward the living, most often encountered as a guardian of treasure in a burial mound or as a re-walking neighbour terrorizing a farmstead.",
+      "aliases": [
+        {
+          "name": "Draugur",
+          "language": "Modern Icelandic"
+        },
+        {
+          "name": "Haugbúi",
+          "language": "Old Norse",
+          "meaning": "Mound-dweller — draugr who remains in the burial mound"
+        },
+        {
+          "name": "Aptrgǫngur",
+          "language": "Old Norse",
+          "meaning": "After-walkers / re-walkers"
+        },
+        {
+          "name": "Dreygur",
+          "language": "Faroese",
+          "region": "Faroe Islands"
+        },
+        {
+          "name": "Draug",
+          "language": "Norwegian",
+          "region": "Norway"
+        },
+        {
+          "name": "Sjødraug / havdraug",
+          "language": "Norwegian",
+          "region": "Norway",
+          "meaning": "Sea-draug"
+        },
+        {
+          "name": "Hogboon / Hogboy",
+          "language": "Orcadian English (from haugbúi)",
+          "region": "Orkney"
+        }
+      ],
+      "tags": [
+        "norse-mythology",
+        "icelandic-sagas",
+        "undead",
+        "revenant",
+        "burial-mound",
+        "scandinavia"
+      ],
+      "status": "documented",
+      "regions": [
+        "Iceland (Icelandic sagas)",
+        "Norway (sjødraug tradition)",
+        "Faroe Islands (dreygur)",
+        "Northern Isles of Scotland (hogboon)"
+      ],
+      "origin": "Old Norse and post-Norse Scandinavia: Iceland, Norway, the Faroe Islands, with related traditions in Sweden, Denmark, and the Northern Isles of Britain (Orkney, Shetland).",
+      "first_reported": "c. 1200",
       "danger_level": "unknown",
       "evidence_level": "unknown"
     },
@@ -8711,6 +8819,38 @@
       "evidence_level": "unknown"
     },
     {
+      "id": "gumberoo",
+      "name": "Gumberoo",
+      "category": "cryptid",
+      "description": "The Gumberoo is a fearsome critter of Pacific Northwest lumberjack folklore — a hairless bear-shaped creature with a hide so tough that bullets bounce off, but which explodes when set on fire.",
+      "aliases": [
+        {
+          "name": "Megalogaster repercussus",
+          "language": "Mock Latin",
+          "meaning": "fanciful Latin classification given by William T. Cox (1910)"
+        }
+      ],
+      "tags": [
+        "fearsome-critters",
+        "lumberjack-folklore",
+        "pacific-northwest",
+        "tall-tale",
+        "early-20th-century",
+        "north-america"
+      ],
+      "status": "documented",
+      "regions": [
+        "Pacific Northwest",
+        "Oregon",
+        "Washington",
+        "British Columbia"
+      ],
+      "origin": "Confined in folklore to the Pacific Northwest of North America — the heavy-timber districts of Oregon, Washington, northern California, and coastal British Columbia.",
+      "first_reported": "1910",
+      "danger_level": "unknown",
+      "evidence_level": "unknown"
+    },
+    {
       "id": "gumiho",
       "name": "Gumiho",
       "category": "shapeshifter",
@@ -9004,6 +9144,34 @@
       ],
       "origin": "Predominantly the Malay-Indonesian Muslim cultural sphere: Indonesia, Malaysia, Brunei, Singapore, southern Thailand, and the Malay diaspora.",
       "first_reported": "Pre-modern",
+      "danger_level": "unknown",
+      "evidence_level": "unknown"
+    },
+    {
+      "id": "hantu-jerangan",
+      "name": "Hantu Jerangan",
+      "category": "entity_spirit",
+      "description": "Hantu Jerangan is a regional Malay fishing-community spirit said to be associated with fishing nets and unexplained drownings at sea. It is a relatively obscure figure within the broader hantu taxonomy and is documented mainly in coastal Malaysian oral tradition rather than in major published ethnographies.",
+      "aliases": [
+        {
+          "name": "Fishing-net ghost",
+          "language": "English",
+          "meaning": "Common English gloss"
+        }
+      ],
+      "tags": [
+        "malay-folklore",
+        "maritime",
+        "fishing",
+        "hantu",
+        "regional-tradition"
+      ],
+      "status": "documented",
+      "regions": [
+        "Coastal Peninsular Malaysia"
+      ],
+      "origin": "Coastal Malaysian fishing communities; not well documented in academic sources outside this region.",
+      "first_reported": "Modern oral tradition",
       "danger_level": "unknown",
       "evidence_level": "unknown"
     },
@@ -9590,6 +9758,48 @@
       ],
       "origin": "Strongly localised to northern Wisconsin, especially Oneida County and the area around Rhinelander.",
       "first_reported": "1893",
+      "danger_level": "unknown",
+      "evidence_level": "unknown"
+    },
+    {
+      "id": "hoia-baciu-forest",
+      "name": "Hoia-Baciu Forest",
+      "category": "location",
+      "description": "An oak forest west of Cluj-Napoca in Transylvania, Romania, internationally known as a hotspot of paranormal claims — UFO sightings, ghost reports, missing-person legends, and an alleged 'dead zone' clearing — and the subject of paranormal-tourism interest.",
+      "aliases": [
+        {
+          "name": "Pădurea Hoia-Baciu",
+          "language": "Romanian",
+          "region": "Cluj County, Romania",
+          "meaning": "Hoia-Baciu Forest"
+        },
+        {
+          "name": "Bermuda Triangle of Transylvania",
+          "region": "Romania (popular nickname)"
+        },
+        {
+          "name": "Bermuda Triangle of Romania",
+          "region": "Romania (popular nickname)"
+        }
+      ],
+      "tags": [
+        "haunted-forest",
+        "romania",
+        "transylvania",
+        "ufo",
+        "paranormal-location",
+        "missing-persons-folklore",
+        "ghost-stories",
+        "tourist-destination"
+      ],
+      "status": "documented",
+      "regions": [
+        "Transylvania",
+        "Cluj County",
+        "Cluj-Napoca"
+      ],
+      "origin": "A specific location: an oak forest of approximately 250–295 hectares on the western outskirts of Cluj-Napoca, Cluj County, Transylvania, Romania.",
+      "first_reported": "Late 1950s",
       "danger_level": "unknown",
       "evidence_level": "unknown"
     },
@@ -10532,6 +10742,36 @@
       "evidence_level": "unknown"
     },
     {
+      "id": "jeff-the-killer",
+      "name": "Jeff the Killer",
+      "category": "urban_legend",
+      "description": "Jeff the Killer is a creepypasta character who became one of the most widely spread internet horror figures, depicted as a disfigured pale-skinned young man with a permanent grin who sneaks into homes at night to kill, whispering 'Go to sleep.'",
+      "aliases": [
+        {
+          "name": "Jeffrey Woods",
+          "language": "English",
+          "region": "Internet",
+          "meaning": "Character's canonical given name in the story"
+        }
+      ],
+      "tags": [
+        "creepypasta",
+        "internet",
+        "urban-legend",
+        "horror",
+        "slasher",
+        "modern-folklore",
+        "viral",
+        "2011"
+      ],
+      "status": "active",
+      "regions": [],
+      "origin": "An internet-born character with no geographic origin; the story is set in a generic American suburban context. The character's spread is global via internet platforms.",
+      "first_reported": "2006-01-01",
+      "danger_level": "unknown",
+      "evidence_level": "unknown"
+    },
+    {
       "id": "jengu",
       "name": "Jengu",
       "category": "entity_spirit",
@@ -10895,6 +11135,78 @@
       ],
       "origin": "Native to Japanese folklore, with regional legends concentrated in central and western Honshu, especially the Izu Peninsula (Shizuoka), Kashikobuchi (Sendai, Miyagi), and the mountain forests of Kyoto and Kii.",
       "first_reported": "1660",
+      "danger_level": "unknown",
+      "evidence_level": "unknown"
+    },
+    {
+      "id": "jumbie",
+      "name": "Jumbie",
+      "category": "ghost_haunting",
+      "description": "Jumbie (also jumbee) is a broad term from Caribbean folklore for supernatural entities — primarily spirits of the dead but also nature spirits, shapeshifters, and other beings — rooted in West and Central African traditions carried to the Caribbean through the transatlantic slave trade.",
+      "aliases": [
+        {
+          "name": "Jumbee",
+          "language": "English",
+          "region": "US Virgin Islands / Caribbean",
+          "meaning": "Variant spelling"
+        },
+        {
+          "name": "Duppy",
+          "language": "Akan-derived",
+          "region": "Jamaica / Barbados",
+          "meaning": "Cognate term used in Jamaica and Barbados for ancestral ghost spirits"
+        },
+        {
+          "name": "Zombi",
+          "language": "French Creole",
+          "region": "Guadeloupe / Martinique",
+          "meaning": "French Caribbean equivalent term"
+        },
+        {
+          "name": "Mendo",
+          "language": "Spanish",
+          "region": "Colombia / Venezuela",
+          "meaning": "Alternative name in Colombia and Venezuela"
+        },
+        {
+          "name": "Chongo",
+          "language": "Spanish",
+          "region": "Colombia / Venezuela",
+          "meaning": "Additional alternative name in Colombia and Venezuela"
+        },
+        {
+          "name": "Mocko Jumbie",
+          "language": "English",
+          "region": "British / US Virgin Islands",
+          "meaning": "Stilt-dancer figure associated with carnival; protective spirit embodiment"
+        }
+      ],
+      "tags": [
+        "caribbean",
+        "african-diaspora",
+        "ghost",
+        "spirit",
+        "west-african",
+        "obeah",
+        "shapeshifter",
+        "guyana",
+        "trinidad",
+        "virgin-islands",
+        "bahamas",
+        "ancestry"
+      ],
+      "status": "active",
+      "regions": [
+        "English-speaking Caribbean broadly",
+        "Guyana",
+        "Trinidad",
+        "Antigua",
+        "The Bahamas",
+        "US Virgin Islands",
+        "British Virgin Islands"
+      ],
+      "origin": "English-speaking Caribbean territories, primarily those with British colonial history. Also present in Guyana and some South American territories. Related traditions in French Caribbean (zombi) and Jamaica/Barbados (duppy).",
+      "first_reported": "Pre-1800",
       "danger_level": "unknown",
       "evidence_level": "unknown"
     },
@@ -12634,6 +12946,72 @@
       "evidence_level": "unknown"
     },
     {
+      "id": "loup-garou",
+      "name": "Loup-Garou",
+      "category": "shapeshifter",
+      "description": "The Loup-Garou is the French-language werewolf, transplanted by French settlers into Louisiana (where it became the Rougarou of the bayous), into Haitian and Caribbean Creole cultures (Lougarou, Loogaroo), and into French Canadian / Métis tradition. It is typically a human cursed to transform into a wolf-like or hybrid form by breaking Catholic Lenten observance.",
+      "aliases": [
+        {
+          "name": "Loup-garou",
+          "language": "French",
+          "meaning": "'wolf-werewolf' — werewolf"
+        },
+        {
+          "name": "Rougarou",
+          "language": "Louisiana French",
+          "region": "Louisiana, USA"
+        },
+        {
+          "name": "Roux-ga-roux",
+          "language": "Louisiana French",
+          "region": "Louisiana, USA"
+        },
+        {
+          "name": "Rugaroo",
+          "region": "Louisiana / Métis communities"
+        },
+        {
+          "name": "Rugaru",
+          "region": "Métis / Ojibwe communities, Great Lakes"
+        },
+        {
+          "name": "Lougarou",
+          "language": "Haitian Creole",
+          "region": "Haiti"
+        },
+        {
+          "name": "Loogaroo",
+          "language": "Caribbean English Creole",
+          "region": "Trinidad and the wider Caribbean"
+        }
+      ],
+      "tags": [
+        "werewolf",
+        "shapeshifter",
+        "french-folklore",
+        "louisiana",
+        "cajun",
+        "haitian",
+        "caribbean",
+        "lent",
+        "catholic-folklore"
+      ],
+      "status": "documented",
+      "regions": [
+        "Continental France",
+        "Quebec",
+        "Acadia / Maritimes",
+        "Louisiana (Acadiana, Greater New Orleans)",
+        "Haiti",
+        "Caribbean Creole world",
+        "Great Lakes (Métis, Ojibwe)"
+      ],
+      "origin": "The loup-garou tradition is found wherever French and French-Creole communities settled: continental France (especially rural Catholic regions), French Canada, Louisiana (Acadiana and Greater New Orleans), Haiti, and the wider Francophone Caribbean. Métis and Ojibwe communities of the Great Lakes have a related rugaru figure.",
+      "first_reported": "12th century",
+      "danger_level": "unknown",
+      "evidence_level": "unknown"
+    },
+    {
       "id": "loveland-frog",
       "name": "Loveland Frog",
       "category": "cryptid",
@@ -12665,6 +13043,36 @@
       ],
       "origin": "Reports are tightly localised to Loveland, Ohio and the Little Miami River corridor in Hamilton, Clermont, and Warren counties.",
       "first_reported": "1955",
+      "danger_level": "unknown",
+      "evidence_level": "unknown"
+    },
+    {
+      "id": "luferlang",
+      "name": "Luferlang",
+      "category": "cryptid",
+      "description": "The Luferlang is a 'fearsome critter' of North American logging-camp tall tales, recorded in Henry H. Tryon's 1939 Fearsome Critters as a hideous equine beast with triple-jointed legs that allow it to run equally fast in any direction, a dark blue dorsal stripe, a swivel-jointed tail set in the middle of its back, and a single deadly bite delivered only once a year.",
+      "aliases": [
+        {
+          "name": "Lufferlang",
+          "region": "North American logging-camp folklore"
+        }
+      ],
+      "tags": [
+        "fearsome-critter",
+        "tall-tale",
+        "lumberjack-folklore",
+        "north-america",
+        "great-lakes",
+        "equine"
+      ],
+      "status": "documented",
+      "regions": [
+        "Great Lakes",
+        "Northeast United States",
+        "Pacific Northwest logging country"
+      ],
+      "origin": "A creature of the oral tradition of North American logging camps, with no fixed real-world range. Tryon (1939) places fearsome critters generally in the forests of the northern United States and Canada.",
+      "first_reported": "1939",
       "danger_level": "unknown",
       "evidence_level": "unknown"
     },
@@ -13034,6 +13442,41 @@
       ],
       "origin": "A figure of Christian theology and Western literature; not tied to a specific geographic locale.",
       "first_reported": "1st century CE",
+      "danger_level": "unknown",
+      "evidence_level": "unknown"
+    },
+    {
+      "id": "man-monkey",
+      "name": "Man-Monkey",
+      "category": "cryptid",
+      "description": "A black, ape-like figure with large white eyes reported on the Shropshire Union Canal at Bridge 39, near Norbury Junction on the Staffordshire–Shropshire border. The original 1879 encounter was recorded by folklorist Charlotte Sophia Burne in 1883.",
+      "aliases": [
+        {
+          "name": "Man-Monkey of Bridge 39",
+          "region": "Shropshire / Staffordshire, England"
+        },
+        {
+          "name": "Man-Monkey of the Shropshire Union Canal",
+          "region": "England"
+        }
+      ],
+      "tags": [
+        "cryptid",
+        "british-folklore",
+        "canal",
+        "shropshire",
+        "staffordshire",
+        "humanoid",
+        "ghost-or-cryptid"
+      ],
+      "status": "documented",
+      "regions": [
+        "Shropshire",
+        "Staffordshire",
+        "English Midlands"
+      ],
+      "origin": "Reports are localized to the Shropshire Union Canal corridor near the Staffordshire–Shropshire border, especially the area around Norbury Junction and the canal bridge identified as Bridge 39.",
+      "first_reported": "1879-01-21",
       "danger_level": "unknown",
       "evidence_level": "unknown"
     },
@@ -20148,6 +20591,43 @@
       "evidence_level": "unknown"
     },
     {
+      "id": "spontaneous-human-combustion",
+      "name": "Spontaneous Human Combustion",
+      "category": "anomaly",
+      "description": "Reported deaths in which a human body is severely burned, often reduced to ash, with little damage to the surroundings and no obvious external ignition source. Modern forensic science treats these cases as conventional fires propagated by the 'wick effect'.",
+      "aliases": [
+        {
+          "name": "SHC",
+          "meaning": "Common abbreviation"
+        },
+        {
+          "name": "Preternatural combustibility",
+          "meaning": "Older medical literature term, 19th century"
+        }
+      ],
+      "tags": [
+        "fire",
+        "death",
+        "forensic",
+        "wick-effect",
+        "victorian",
+        "pseudoscience"
+      ],
+      "status": "debunked",
+      "regions": [
+        "United Kingdom",
+        "Ireland",
+        "Italy",
+        "France",
+        "Germany",
+        "United States"
+      ],
+      "origin": "Reported cases cluster in Europe (especially Britain, Ireland, France, Italy, Germany) and North America from the 17th century onward; isolated cases elsewhere.",
+      "first_reported": "1731",
+      "danger_level": "unknown",
+      "evidence_level": "unknown"
+    },
+    {
       "id": "spring-heeled-jack",
       "name": "Spring-Heeled Jack",
       "category": "urban_legend",
@@ -23892,6 +24372,102 @@
       ],
       "origin": "The Yeti is reported across the Himalayan and adjacent ranges, particularly in Nepal (Khumbu, Solu, Mustang, Makalu-Barun), the Tibet Autonomous Region of China, Bhutan (where the migoi is the national cryptid), Sikkim and other northern Indian states, and parts of southern Siberia where related 'wild man' traditions exist.",
       "first_reported": "Pre-19th century",
+      "danger_level": "unknown",
+      "evidence_level": "unknown"
+    },
+    {
+      "id": "yowie",
+      "name": "Yowie",
+      "category": "cryptid",
+      "description": "The Yowie is an Australian hairy bipedal hominid cryptid with deep roots in Aboriginal oral tradition and a continuous record of European-language sightings stretching back to the 19th century. It is widely treated as the Australian counterpart of Bigfoot.",
+      "aliases": [
+        {
+          "name": "Yō-wī",
+          "language": "Gamilaraay",
+          "region": "northern New South Wales",
+          "meaning": "a spirit that roams the earth at night (rec. Ridley 1875)"
+        },
+        {
+          "name": "Quinkin",
+          "language": "Aboriginal Australian (Cape York)",
+          "region": "Queensland"
+        },
+        {
+          "name": "Joogabinna",
+          "region": "Queensland"
+        },
+        {
+          "name": "Doolaga / Doolagahl",
+          "region": "New South Wales"
+        },
+        {
+          "name": "Ghindaring",
+          "region": "New South Wales"
+        },
+        {
+          "name": "Jurrawarra",
+          "region": "New South Wales"
+        },
+        {
+          "name": "Myngawin",
+          "region": "New South Wales"
+        },
+        {
+          "name": "Puttikan",
+          "region": "New South Wales"
+        },
+        {
+          "name": "Gulaga",
+          "region": "New South Wales"
+        },
+        {
+          "name": "Thoolagal",
+          "region": "New South Wales"
+        },
+        {
+          "name": "Tjangara",
+          "region": "Aboriginal Australia"
+        },
+        {
+          "name": "Pangkarlangu",
+          "region": "Aboriginal Australia"
+        },
+        {
+          "name": "Jimbra",
+          "region": "Western Australia"
+        },
+        {
+          "name": "Wawee"
+        },
+        {
+          "name": "Noocoonah"
+        },
+        {
+          "name": "Yahoo",
+          "region": "Colonial-era English-language press, southeastern Australia"
+        }
+      ],
+      "tags": [
+        "cryptid",
+        "humanoid",
+        "bipedal",
+        "hominid",
+        "australia",
+        "outback",
+        "aboriginal",
+        "wildman"
+      ],
+      "status": "active",
+      "regions": [
+        "Queensland (Gold Coast hinterland, Springbrook, Gympie, Cape York)",
+        "New South Wales (Blue Mountains, NSW south coast, north coast)",
+        "Australian Capital Territory (Brindabella Ranges)",
+        "Northern Territory (Acacia Hills)",
+        "Victoria",
+        "Western Australia"
+      ],
+      "origin": "Reports occur across most of mainland Australia, with the heaviest contemporary clustering in southeast Queensland (notably the Gold Coast hinterland and Springbrook), the Blue Mountains and Brindabella Ranges of New South Wales and the Australian Capital Territory, and pockets of the Northern Territory. Aboriginal traditions of comparable beings are recorded across the continent.",
+      "first_reported": "1875",
       "danger_level": "unknown",
       "evidence_level": "unknown"
     },
