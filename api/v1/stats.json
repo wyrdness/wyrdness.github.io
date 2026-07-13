@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
-  "generated": "2026-07-13T14:24:37.723Z",
-  "total_phenomena": 513,
+  "generated": "2026-07-13T19:17:42.549Z",
+  "total_phenomena": 514,
   "by_category": {
     "mythological_creature": 63,
     "entity_spirit": 103,
@@ -11,7 +11,7 @@
     "ufo_uap": 12,
     "fae_folklore": 29,
     "cultural_artifact": 6,
-    "location": 21,
+    "location": 22,
     "demon_angel": 21,
     "shapeshifter": 18,
     "atmospheric_phenomenon": 14,
@@ -280,6 +280,10 @@
     "Pará (Brazil)": 1,
     "Loreto (Peru)": 1,
     "Amazonas (Colombia)": 1,
+    "Massachusetts": 2,
+    "Bristol County": 1,
+    "Plymouth County": 1,
+    "New England": 10,
     "North Carolina": 4,
     "Burke County": 1,
     "Blue Ridge Mountains": 1,
@@ -461,8 +465,6 @@
     "Trinidad": 4,
     "Tobago": 3,
     "Saint Lucia": 1,
-    "New England": 9,
-    "Massachusetts": 1,
     "Norfolk County": 1,
     "Ancient Egypt": 1,
     "Greek and Roman world": 1,
@@ -1470,9 +1472,9 @@
     "Poland (żmij and the Wawel Dragon of Kraków)": 1
   },
   "by_danger_level": {
-    "unknown": 513
+    "unknown": 514
   },
   "by_evidence_level": {
-    "unknown": 513
+    "unknown": 514
   }
 }

@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
-  "generated": "2026-07-13T14:24:37.633Z",
-  "total": 513,
+  "generated": "2026-07-13T19:17:42.454Z",
+  "total": 514,
   "phenomena": [
     {
       "id": "abada",
@@ -3585,6 +3585,40 @@
       ],
       "origin": "The folklore tracks the natural range of Inia geoffrensis: the Amazon and Orinoco basins of South America. The pink-river-dolphin shapeshifter is most strongly associated with the Brazilian Amazon, with parallel encantado traditions in the Peruvian, Colombian, Bolivian, and Venezuelan Amazon.",
       "first_reported": "19th century",
+      "danger_level": "unknown",
+      "evidence_level": "unknown"
+    },
+    {
+      "id": "bridgewater-triangle",
+      "name": "Bridgewater Triangle",
+      "category": "location",
+      "description": "The Bridgewater Triangle is a roughly 200-square-mile (520 km²) area of southeastern Massachusetts, designated by cryptozoologist Loren Coleman in the 1970s, where unusually frequent reports of UFOs, cryptids, ghost lights, and other paranormal phenomena cluster around the Hockomock Swamp.",
+      "aliases": [
+        {
+          "name": "Hockomock area",
+          "region": "Southeastern Massachusetts",
+          "meaning": "Refers to the swamp at the heart of the triangle"
+        }
+      ],
+      "tags": [
+        "paranormal-hotspot",
+        "massachusetts",
+        "ufo",
+        "cryptid",
+        "thunderbird",
+        "hockomock-swamp",
+        "loren-coleman",
+        "new-england"
+      ],
+      "status": "documented",
+      "regions": [
+        "Massachusetts",
+        "Bristol County",
+        "Plymouth County",
+        "New England"
+      ],
+      "origin": "An approximately 200-square-mile region of southeastern Massachusetts in Bristol, Plymouth, and Norfolk counties, including the towns of Abington, Bridgewater, East Bridgewater, West Bridgewater, Brockton, Easton, Freetown, Mansfield, Norton, Raynham, Rehoboth, Seekonk, and Taunton (per Coleman's mapping).",
+      "first_reported": "1675",
       "danger_level": "unknown",
       "evidence_level": "unknown"
     },
