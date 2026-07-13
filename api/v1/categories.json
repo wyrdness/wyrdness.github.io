@@ -1,11 +1,11 @@
 {
   "version": "1.0.0",
-  "generated": "2026-07-13T02:25:44.514Z",
+  "generated": "2026-07-13T09:13:12.144Z",
   "total": 16,
   "categories": {
     "mythological_creature": {
       "name": "mythological_creature",
-      "count": 61,
+      "count": 63,
       "phenomena": [
         {
           "id": "abada",
@@ -34,11 +34,31 @@
           ]
         },
         {
+          "id": "amarok",
+          "name": "Amarok",
+          "regions": [
+            "Greenland",
+            "Nunavut",
+            "Nunavik",
+            "Alaska"
+          ]
+        },
+        {
           "id": "ammit",
           "name": "Ammit",
           "regions": [
             "Nile Valley",
             "Theban necropolis"
+          ]
+        },
+        {
+          "id": "anansi",
+          "name": "Anansi",
+          "regions": [
+            "Akan cultural area",
+            "Caribbean",
+            "Suriname / Guianas",
+            "American South"
           ]
         },
         {
@@ -613,13 +633,20 @@
     },
     "entity_spirit": {
       "name": "entity_spirit",
-      "count": 101,
+      "count": 102,
       "phenomena": [
         {
           "id": "abumi-guchi",
           "name": "Abumi-guchi",
           "regions": [
             "Historic samurai battlefields of the Japanese archipelago"
+          ]
+        },
+        {
+          "id": "akaname",
+          "name": "Akaname",
+          "regions": [
+            "Old urban bathhouses and private bathrooms across Japan"
           ]
         },
         {
@@ -953,13 +980,6 @@
             "Sumatra",
             "Java",
             "Riau Archipelago"
-          ]
-        },
-        {
-          "id": "hantu-jerangan",
-          "name": "Hantu Jerangan",
-          "regions": [
-            "Coastal Peninsular Malaysia"
           ]
         },
         {
@@ -1454,6 +1474,16 @@
           ]
         },
         {
+          "id": "tengu",
+          "name": "Tengu",
+          "regions": [
+            "Honshu",
+            "Kansai (Mount Kurama, Mount Atago, Mount Hiei)",
+            "Tōhoku",
+            "Chūbu"
+          ]
+        },
+        {
           "id": "tikbalang",
           "name": "Tikbalang",
           "regions": [
@@ -1634,7 +1664,7 @@
     },
     "cryptid": {
       "name": "cryptid",
-      "count": 101,
+      "count": 98,
       "phenomena": [
         {
           "id": "adlet",
@@ -2081,16 +2111,6 @@
           ]
         },
         {
-          "id": "gumberoo",
-          "name": "Gumberoo",
-          "regions": [
-            "Pacific Northwest",
-            "Oregon",
-            "Washington",
-            "British Columbia"
-          ]
-        },
-        {
           "id": "hidebehind",
           "name": "Hidebehind",
           "regions": [
@@ -2216,30 +2236,12 @@
           ]
         },
         {
-          "id": "luferlang",
-          "name": "Luferlang",
-          "regions": [
-            "Great Lakes",
-            "Northeast United States",
-            "Pacific Northwest logging country"
-          ]
-        },
-        {
           "id": "lusca",
           "name": "Lusca",
           "regions": [
             "Andros Island",
             "Bahamas Banks",
             "Caribbean Sea"
-          ]
-        },
-        {
-          "id": "man-monkey",
-          "name": "Man-Monkey",
-          "regions": [
-            "Shropshire",
-            "Staffordshire",
-            "English Midlands"
           ]
         },
         {
@@ -2251,6 +2253,16 @@
             "Rondônia",
             "Pará",
             "Amazonas (Brazil)"
+          ]
+        },
+        {
+          "id": "marozi",
+          "name": "Marozi",
+          "regions": [
+            "Aberdare Range",
+            "Kinangop Plateau",
+            "Mau Escarpment",
+            "Virunga Mountains"
           ]
         },
         {
@@ -2659,18 +2671,6 @@
             "Karakoram fringes",
             "Pamirs"
           ]
-        },
-        {
-          "id": "yowie",
-          "name": "Yowie",
-          "regions": [
-            "Queensland (Gold Coast hinterland, Springbrook, Gympie, Cape York)",
-            "New South Wales (Blue Mountains, NSW south coast, north coast)",
-            "Australian Capital Territory (Brindabella Ranges)",
-            "Northern Territory (Acacia Hills)",
-            "Victoria",
-            "Western Australia"
-          ]
         }
       ]
     },
@@ -2719,16 +2719,6 @@
             "Sindh",
             "Kashmir",
             "South Asian diaspora communities"
-          ]
-        },
-        {
-          "id": "draugr",
-          "name": "Draugr",
-          "regions": [
-            "Iceland (Icelandic sagas)",
-            "Norway (sjødraug tradition)",
-            "Faroe Islands (dreygur)",
-            "Northern Isles of Scotland (hogboon)"
           ]
         },
         {
@@ -2858,6 +2848,16 @@
           ]
         },
         {
+          "id": "revenant",
+          "name": "Revenant",
+          "regions": [
+            "England",
+            "Wales",
+            "Normandy",
+            "Scandinavia"
+          ]
+        },
+        {
           "id": "rolling-calf",
           "name": "Rolling Calf",
           "regions": [
@@ -2965,7 +2965,7 @@
     },
     "ghost_haunting": {
       "name": "ghost_haunting",
-      "count": 26,
+      "count": 25,
       "phenomena": [
         {
           "id": "aka-manto",
@@ -3073,19 +3073,6 @@
             "Tibetan plateau",
             "Sinosphere",
             "Theravāda Buddhist countries"
-          ]
-        },
-        {
-          "id": "jumbie",
-          "name": "Jumbie",
-          "regions": [
-            "English-speaking Caribbean broadly",
-            "Guyana",
-            "Trinidad",
-            "Antigua",
-            "The Bahamas",
-            "US Virgin Islands",
-            "British Virgin Islands"
           ]
         },
         {
@@ -3845,15 +3832,6 @@
           ]
         },
         {
-          "id": "hoia-baciu-forest",
-          "name": "Hoia-Baciu Forest",
-          "regions": [
-            "Transylvania",
-            "Cluj County",
-            "Cluj-Napoca"
-          ]
-        },
-        {
           "id": "mount-shasta",
           "name": "Mount Shasta",
           "regions": [
@@ -3870,6 +3848,15 @@
             "Mahone Bay",
             "Lunenburg County",
             "Nova Scotia"
+          ]
+        },
+        {
+          "id": "roanoke-colony",
+          "name": "Roanoke Colony",
+          "regions": [
+            "Roanoke Island, North Carolina",
+            "Hatteras Island, North Carolina",
+            "Dare County, North Carolina"
           ]
         },
         {
@@ -4154,7 +4141,7 @@
     },
     "shapeshifter": {
       "name": "shapeshifter",
-      "count": 18,
+      "count": 17,
       "phenomena": [
         {
           "id": "aswang",
@@ -4260,19 +4247,6 @@
           ]
         },
         {
-          "id": "loup-garou",
-          "name": "Loup-Garou",
-          "regions": [
-            "Continental France",
-            "Quebec",
-            "Acadia / Maritimes",
-            "Louisiana (Acadiana, Greater New Orleans)",
-            "Haiti",
-            "Caribbean Creole world",
-            "Great Lakes (Métis, Ojibwe)"
-          ]
-        },
-        {
           "id": "manananggal",
           "name": "Manananggal",
           "regions": [
@@ -4353,158 +4327,9 @@
         }
       ]
     },
-    "atmospheric_phenomenon": {
-      "name": "atmospheric_phenomenon",
-      "count": 14,
-      "phenomena": [
-        {
-          "id": "aurora-phenomena",
-          "name": "Aurora Phenomena (Northern and Southern Lights Folklore)",
-          "regions": [
-            "Arctic Circle",
-            "Northern Scandinavia (Lapland)",
-            "Northern Canada",
-            "Alaska",
-            "Siberia",
-            "Antarctica",
-            "Southern Ocean regions"
-          ]
-        },
-        {
-          "id": "ball-lightning",
-          "name": "Ball Lightning",
-          "regions": [
-            "Temperate regions with frequent thunderstorms",
-            "Coastal storm regions"
-          ]
-        },
-        {
-          "id": "brown-mountain-lights",
-          "name": "Brown Mountain Lights",
-          "regions": [
-            "North Carolina",
-            "Burke County",
-            "Blue Ridge Mountains",
-            "Pisgah National Forest"
-          ]
-        },
-        {
-          "id": "corpse-candle",
-          "name": "Corpse Candle",
-          "regions": [
-            "South Wales",
-            "Mid Wales",
-            "Carmarthenshire",
-            "Pembrokeshire",
-            "Glamorgan",
-            "Monmouthshire",
-            "Welsh Marches"
-          ]
-        },
-        {
-          "id": "earthquake-lights",
-          "name": "Earthquake Lights",
-          "regions": [
-            "Pacific Ring of Fire",
-            "Mediterranean–Himalayan belt",
-            "Andean subduction zone",
-            "East African Rift"
-          ]
-        },
-        {
-          "id": "hessdalen-lights",
-          "name": "Hessdalen Lights",
-          "regions": [
-            "Sør-Trøndelag",
-            "Holtålen",
-            "Hessdalen valley"
-          ]
-        },
-        {
-          "id": "marfa-lights",
-          "name": "Marfa Lights",
-          "regions": [
-            "Texas",
-            "Trans-Pecos",
-            "Presidio County"
-          ]
-        },
-        {
-          "id": "min-min-lights",
-          "name": "Min Min Light",
-          "regions": [
-            "Channel Country (western Queensland)",
-            "Outback Queensland",
-            "Western New South Wales",
-            "South Australia",
-            "Pilbara, Western Australia"
-          ]
-        },
-        {
-          "id": "paulding-light",
-          "name": "Paulding Light",
-          "regions": [
-            "Upper Peninsula of Michigan",
-            "Ontonagon County"
-          ]
-        },
-        {
-          "id": "seneca-guns",
-          "name": "Seneca Guns",
-          "regions": [
-            "Finger Lakes (New York)",
-            "Outer Banks",
-            "North Carolina coast",
-            "Bay of Fundy",
-            "Bay of Bengal",
-            "Coastal Japan"
-          ]
-        },
-        {
-          "id": "skyquakes",
-          "name": "Skyquakes",
-          "regions": [
-            "North Sea coast",
-            "Ganges Delta",
-            "Finger Lakes (New York)",
-            "Carolina coast (USA)",
-            "Bay of Fundy",
-            "Lough Neagh",
-            "Coastal Japan"
-          ]
-        },
-        {
-          "id": "st-elmos-fire",
-          "name": "St. Elmo's Fire",
-          "regions": []
-        },
-        {
-          "id": "taos-hum",
-          "name": "The Taos Hum",
-          "regions": [
-            "New Mexico",
-            "Northern New Mexico"
-          ]
-        },
-        {
-          "id": "will-o-wisp",
-          "name": "Will-o'-the-Wisp",
-          "regions": [
-            "English Fens",
-            "Welsh marshes",
-            "Irish bogs",
-            "Louisiana bayous",
-            "Florida Everglades",
-            "Banni grasslands (Kutch, India)",
-            "West Bengal river deltas",
-            "Australian outback"
-          ]
-        }
-      ]
-    },
     "psychic_phenomena": {
       "name": "psychic_phenomena",
-      "count": 13,
+      "count": 14,
       "phenomena": [
         {
           "id": "automatic-writing",
@@ -4588,6 +4413,11 @@
           "regions": []
         },
         {
+          "id": "psychometry",
+          "name": "Psychometry",
+          "regions": []
+        },
+        {
           "id": "remote-viewing",
           "name": "Remote Viewing",
           "regions": [
@@ -4613,7 +4443,7 @@
     },
     "urban_legend": {
       "name": "urban_legend",
-      "count": 32,
+      "count": 31,
       "phenomena": [
         {
           "id": "backrooms",
@@ -4701,11 +4531,6 @@
           "regions": [
             "United States — broadly distributed"
           ]
-        },
-        {
-          "id": "jeff-the-killer",
-          "name": "Jeff the Killer",
-          "regions": []
         },
         {
           "id": "kidney-thieves",
@@ -4881,9 +4706,145 @@
         }
       ]
     },
+    "atmospheric_phenomenon": {
+      "name": "atmospheric_phenomenon",
+      "count": 13,
+      "phenomena": [
+        {
+          "id": "ball-lightning",
+          "name": "Ball Lightning",
+          "regions": [
+            "Temperate regions with frequent thunderstorms",
+            "Coastal storm regions"
+          ]
+        },
+        {
+          "id": "brown-mountain-lights",
+          "name": "Brown Mountain Lights",
+          "regions": [
+            "North Carolina",
+            "Burke County",
+            "Blue Ridge Mountains",
+            "Pisgah National Forest"
+          ]
+        },
+        {
+          "id": "corpse-candle",
+          "name": "Corpse Candle",
+          "regions": [
+            "South Wales",
+            "Mid Wales",
+            "Carmarthenshire",
+            "Pembrokeshire",
+            "Glamorgan",
+            "Monmouthshire",
+            "Welsh Marches"
+          ]
+        },
+        {
+          "id": "earthquake-lights",
+          "name": "Earthquake Lights",
+          "regions": [
+            "Pacific Ring of Fire",
+            "Mediterranean–Himalayan belt",
+            "Andean subduction zone",
+            "East African Rift"
+          ]
+        },
+        {
+          "id": "hessdalen-lights",
+          "name": "Hessdalen Lights",
+          "regions": [
+            "Sør-Trøndelag",
+            "Holtålen",
+            "Hessdalen valley"
+          ]
+        },
+        {
+          "id": "marfa-lights",
+          "name": "Marfa Lights",
+          "regions": [
+            "Texas",
+            "Trans-Pecos",
+            "Presidio County"
+          ]
+        },
+        {
+          "id": "min-min-lights",
+          "name": "Min Min Light",
+          "regions": [
+            "Channel Country (western Queensland)",
+            "Outback Queensland",
+            "Western New South Wales",
+            "South Australia",
+            "Pilbara, Western Australia"
+          ]
+        },
+        {
+          "id": "paulding-light",
+          "name": "Paulding Light",
+          "regions": [
+            "Upper Peninsula of Michigan",
+            "Ontonagon County"
+          ]
+        },
+        {
+          "id": "seneca-guns",
+          "name": "Seneca Guns",
+          "regions": [
+            "Finger Lakes (New York)",
+            "Outer Banks",
+            "North Carolina coast",
+            "Bay of Fundy",
+            "Bay of Bengal",
+            "Coastal Japan"
+          ]
+        },
+        {
+          "id": "skyquakes",
+          "name": "Skyquakes",
+          "regions": [
+            "North Sea coast",
+            "Ganges Delta",
+            "Finger Lakes (New York)",
+            "Carolina coast (USA)",
+            "Bay of Fundy",
+            "Lough Neagh",
+            "Coastal Japan"
+          ]
+        },
+        {
+          "id": "st-elmos-fire",
+          "name": "St. Elmo's Fire",
+          "regions": []
+        },
+        {
+          "id": "taos-hum",
+          "name": "The Taos Hum",
+          "regions": [
+            "New Mexico",
+            "Northern New Mexico"
+          ]
+        },
+        {
+          "id": "will-o-wisp",
+          "name": "Will-o'-the-Wisp",
+          "regions": [
+            "English Fens",
+            "Welsh marshes",
+            "Irish bogs",
+            "Louisiana bayous",
+            "Florida Everglades",
+            "Banni grasslands (Kutch, India)",
+            "West Bengal river deltas",
+            "Australian outback"
+          ]
+        }
+      ]
+    },
     "anomaly": {
       "name": "anomaly",
-      "count": 10,
+      "count": 9,
       "phenomena": [
         {
           "id": "bermuda-triangle",
@@ -4937,18 +4898,6 @@
           "regions": [
             "North Atlantic Ocean",
             "Azores"
-          ]
-        },
-        {
-          "id": "spontaneous-human-combustion",
-          "name": "Spontaneous Human Combustion",
-          "regions": [
-            "United Kingdom",
-            "Ireland",
-            "Italy",
-            "France",
-            "Germany",
-            "United States"
           ]
         },
         {
