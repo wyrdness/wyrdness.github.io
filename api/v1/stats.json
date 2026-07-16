@@ -1,10 +1,10 @@
 {
   "version": "1.0.0",
-  "generated": "2026-07-16T13:30:16.870Z",
-  "total_phenomena": 514,
+  "generated": "2026-07-16T19:01:56.754Z",
+  "total_phenomena": 512,
   "by_category": {
     "mythological_creature": 63,
-    "entity_spirit": 103,
+    "entity_spirit": 102,
     "cryptid": 102,
     "undead": 28,
     "ghost_haunting": 26,
@@ -14,7 +14,7 @@
     "location": 22,
     "demon_angel": 21,
     "shapeshifter": 18,
-    "atmospheric_phenomenon": 14,
+    "atmospheric_phenomenon": 13,
     "psychic_phenomena": 14,
     "urban_legend": 32,
     "anomaly": 10,
@@ -178,12 +178,6 @@
     "Russian North": 1,
     "Siberia (Russian peasant settler regions)": 1,
     "East Slavic peasant cultural area": 1,
-    "Connacht": 4,
-    "Munster": 4,
-    "Ulster": 3,
-    "Leinster": 3,
-    "Scottish Highlands (cognate)": 1,
-    "Wales (cognate)": 1,
     "Chiloé Archipelago": 1,
     "Los Lagos Region": 1,
     "Southern Chile": 1,
@@ -380,6 +374,10 @@
     "Cibao Valley": 1,
     "San Cristóbal Province": 1,
     "Constanza and Jarabacoa highlands": 1,
+    "Munster": 3,
+    "Leinster": 2,
+    "Ulster": 2,
+    "Connacht": 3,
     "Tipperary": 1,
     "Cork": 1,
     "Waterford": 1,
@@ -1168,12 +1166,12 @@
     "North-west Ireland": 1,
     "Kalsoy (Faroe Islands)": 1,
     "Western Iceland": 1,
-    "Finger Lakes (New York)": 2,
+    "Finger Lakes (New York)": 1,
     "Outer Banks": 1,
     "North Carolina coast": 1,
-    "Bay of Fundy": 2,
+    "Bay of Fundy": 1,
     "Bay of Bengal": 1,
-    "Coastal Japan": 2,
+    "Coastal Japan": 1,
     "Northern Albanian Alps": 1,
     "Malësia": 1,
     "Dukagjin": 1,
@@ -1208,10 +1206,6 @@
     "Southeastern United States": 1,
     "Medelpad": 1,
     "Sundsvall": 1,
-    "North Sea coast": 1,
-    "Ganges Delta": 1,
-    "Carolina coast (USA)": 1,
-    "Lough Neagh": 1,
     "Asgard (mythological)": 1,
     "Hel (mythological)": 1,
     "Gotland": 1,
@@ -1472,9 +1466,9 @@
     "Poland (żmij and the Wawel Dragon of Kraków)": 1
   },
   "by_danger_level": {
-    "unknown": 514
+    "unknown": 512
   },
   "by_evidence_level": {
-    "unknown": 514
+    "unknown": 512
   }
 }
