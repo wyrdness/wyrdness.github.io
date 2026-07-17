@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
-  "generated": "2026-07-16T19:01:56.659Z",
-  "total": 512,
+  "generated": "2026-07-17T02:07:19.296Z",
+  "total": 514,
   "phenomena": [
     {
       "id": "abada",
@@ -2182,6 +2182,64 @@
       ],
       "origin": "Documented across the Russian, Belarusian, and Ukrainian peasant cultural area, with cognate bath-spirit traditions in West Slavic and Baltic regions.",
       "first_reported": "19th century",
+      "danger_level": "unknown",
+      "evidence_level": "unknown"
+    },
+    {
+      "id": "banshee",
+      "name": "Banshee",
+      "category": "entity_spirit",
+      "description": "A female supernatural figure of Irish folklore — the bean sí, 'woman of the fairy mound' — whose mourning cry, the keen, foretells the death of a member of certain Irish families.",
+      "aliases": [
+        {
+          "name": "Bean sí / Bean sídhe",
+          "language": "Modern Irish / Old Irish",
+          "meaning": "'Woman of the fairy mound' (síd / síde)"
+        },
+        {
+          "name": "Bean nighe",
+          "language": "Scottish Gaelic",
+          "region": "Scottish Highlands",
+          "meaning": "'Washerwoman' — Scottish counterpart, a death-omen washing grave-clothes at a ford"
+        },
+        {
+          "name": "Caoineag",
+          "language": "Scottish Gaelic",
+          "region": "Scottish Highlands",
+          "meaning": "'Weeper' — Scottish lamenting fairy"
+        },
+        {
+          "name": "Cyhyraeth",
+          "language": "Welsh",
+          "region": "Wales",
+          "meaning": "Welsh death-wailing spirit"
+        },
+        {
+          "name": "Badhbh chaointe",
+          "language": "Irish",
+          "meaning": "'Keening crow / hag' — variant or related figure"
+        }
+      ],
+      "tags": [
+        "irish-folklore",
+        "celtic",
+        "fairy",
+        "death-omen",
+        "keening",
+        "wailing-woman",
+        "family-spirit"
+      ],
+      "status": "documented",
+      "regions": [
+        "Connacht",
+        "Munster",
+        "Ulster",
+        "Leinster",
+        "Scottish Highlands (cognate)",
+        "Wales (cognate)"
+      ],
+      "origin": "Native to Ireland; cognate figures across the Celtic-speaking world (Scotland, Wales, Isle of Man). With the Irish diaspora the banshee tradition has been carried to North America, Australia, and other Anglophone regions.",
+      "first_reported": "c. 1380",
       "danger_level": "unknown",
       "evidence_level": "unknown"
     },
@@ -20162,6 +20220,76 @@
       ],
       "origin": "The skvader is a place-bound cultural artefact of the Medelpad province in central Sweden, with the original specimen on permanent display at the Norra Berget museum in Sundsvall.",
       "first_reported": "1874",
+      "danger_level": "unknown",
+      "evidence_level": "unknown"
+    },
+    {
+      "id": "skyquakes",
+      "name": "Skyquakes",
+      "category": "atmospheric_phenomenon",
+      "description": "Skyquakes are unexplained loud booming sounds, often resembling cannon fire or thunder, reported around the world — typically in clear weather, with no obvious source, and frequently along coastlines and large bodies of water.",
+      "aliases": [
+        {
+          "name": "Mistpouffers",
+          "language": "Dutch / Flemish",
+          "region": "North Sea coast (Belgium, Netherlands)"
+        },
+        {
+          "name": "Barisal Guns",
+          "region": "Ganges Delta, Bangladesh / India"
+        },
+        {
+          "name": "Uminari",
+          "language": "Japanese",
+          "region": "Coastal Japan",
+          "meaning": "'cries from the sea'"
+        },
+        {
+          "name": "Seneca Guns",
+          "region": "Seneca Lake, New York and the Carolinas, USA"
+        },
+        {
+          "name": "Bombes de mer / Canons de mer",
+          "language": "French",
+          "region": "France"
+        },
+        {
+          "name": "Brontidi / Marina / Balza",
+          "language": "Italian",
+          "region": "Italy"
+        },
+        {
+          "name": "Cielomoto",
+          "language": "Spanish",
+          "region": "Latin America and Spain",
+          "meaning": "'sky-quake'"
+        },
+        {
+          "name": "Dentuman",
+          "language": "Indonesian",
+          "region": "Indonesia"
+        }
+      ],
+      "tags": [
+        "atmospheric",
+        "acoustic",
+        "boom",
+        "global",
+        "unexplained-sounds",
+        "infrasound"
+      ],
+      "status": "active",
+      "regions": [
+        "North Sea coast",
+        "Ganges Delta",
+        "Finger Lakes (New York)",
+        "Carolina coast (USA)",
+        "Bay of Fundy",
+        "Lough Neagh",
+        "Coastal Japan"
+      ],
+      "origin": "Reported globally on all inhabited continents, with notable historical clusters along the North Sea, the Ganges Delta of Bangladesh, the Finger Lakes and U.S. East Coast, coastal Japan, and parts of Italy and Indonesia.",
+      "first_reported": "1804",
       "danger_level": "unknown",
       "evidence_level": "unknown"
     },
