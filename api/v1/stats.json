@@ -1,10 +1,10 @@
 {
   "version": "1.0.0",
-  "generated": "2026-07-31T08:41:46.230Z",
-  "total_phenomena": 514,
+  "generated": "2026-07-31T13:51:31.183Z",
+  "total_phenomena": 513,
   "by_category": {
     "mythological_creature": 63,
-    "entity_spirit": 103,
+    "entity_spirit": 102,
     "cryptid": 102,
     "undead": 28,
     "ghost_haunting": 26,
@@ -362,9 +362,6 @@
     "Kafue Flats": 1,
     "Luapula River": 1,
     "Lake Mweru basin": 1,
-    "Edo (modern Tokyo) — primary publishing centre for the imagery": 1,
-    "Kyoto and Osaka — kabuki and ukiyo-e production": 1,
-    "Nationwide via mass-produced karuta, kusazōshi, and toy prints": 1,
     "Loreto (Peruvian Amazon)": 1,
     "Ucayali": 1,
     "San Martín": 1,
@@ -1472,9 +1469,9 @@
     "Poland (żmij and the Wawel Dragon of Kraków)": 1
   },
   "by_danger_level": {
-    "unknown": 514
+    "unknown": 513
   },
   "by_evidence_level": {
-    "unknown": 514
+    "unknown": 513
   }
 }

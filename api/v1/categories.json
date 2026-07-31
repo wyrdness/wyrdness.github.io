@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "generated": "2026-07-31T08:41:46.190Z",
+  "generated": "2026-07-31T13:51:31.141Z",
   "total": 16,
   "categories": {
     "mythological_creature": {
@@ -633,7 +633,7 @@
     },
     "entity_spirit": {
       "name": "entity_spirit",
-      "count": 103,
+      "count": 102,
       "phenomena": [
         {
           "id": "abumi-guchi",
@@ -829,15 +829,6 @@
             "Hidalgo",
             "Sierra Norte de Puebla",
             "Gulf Coast lowlands"
-          ]
-        },
-        {
-          "id": "chochinobake",
-          "name": "Chōchin-obake",
-          "regions": [
-            "Edo (modern Tokyo) — primary publishing centre for the imagery",
-            "Kyoto and Osaka — kabuki and ukiyo-e production",
-            "Nationwide via mass-produced karuta, kusazōshi, and toy prints"
           ]
         },
         {
