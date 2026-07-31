@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
-  "generated": "2026-07-31T13:51:31.086Z",
-  "total": 513,
+  "generated": "2026-07-31T19:17:08.087Z",
+  "total": 514,
   "phenomena": [
     {
       "id": "abada",
@@ -4583,6 +4583,52 @@
       ],
       "origin": "Centred on the wetlands of north-central and northeastern Zambia, particularly Lake Bangweulu and its associated swamps, the Kafue Flats, and the Luapula river system. Reports also extend into adjoining parts of the Democratic Republic of the Congo and to Lake Tanganyika in some 20th-century retellings.",
       "first_reported": "1907",
+      "danger_level": "unknown",
+      "evidence_level": "unknown"
+    },
+    {
+      "id": "chochinobake",
+      "name": "Chōchin-obake",
+      "category": "entity_spirit",
+      "description": "Chōchin-obake is a Japanese yōkai depicted as an old paper lantern (chōchin) that has split open along its bamboo ribs to reveal a single eye, a long protruding tongue, and a wide mouth — a classic example of a tsukumogami, an everyday object brought to life after long use.",
+      "aliases": [
+        {
+          "name": "提灯お化け",
+          "language": "Japanese",
+          "meaning": "lantern ghost / lantern monster"
+        },
+        {
+          "name": "Chōchin'obake",
+          "language": "Japanese (romanised)"
+        },
+        {
+          "name": "Bake-chōchin",
+          "language": "Japanese",
+          "meaning": "monster lantern"
+        },
+        {
+          "name": "Bura-bura",
+          "language": "Japanese",
+          "meaning": "literally 'dangle-dangle'; name used by Toriyama Sekien for a hanging lantern yōkai"
+        }
+      ],
+      "tags": [
+        "japanese-folklore",
+        "yokai",
+        "tsukumogami",
+        "edo-period",
+        "lantern",
+        "harmless",
+        "picture-yokai"
+      ],
+      "status": "documented",
+      "regions": [
+        "Edo (modern Tokyo) — primary publishing centre for the imagery",
+        "Kyoto and Osaka — kabuki and ukiyo-e production",
+        "Nationwide via mass-produced karuta, kusazōshi, and toy prints"
+      ],
+      "origin": "The chōchin-obake is a creature of the Japanese popular imagination, attested across the Japanese archipelago through printed illustration and stage drama, with no specific regional folk-legend tradition.",
+      "first_reported": "1781",
       "danger_level": "unknown",
       "evidence_level": "unknown"
     },
