@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
-  "generated": "2026-08-05T01:56:44.317Z",
-  "total": 514,
+  "generated": "2026-08-05T08:27:29.486Z",
+  "total": 513,
   "phenomena": [
     {
       "id": "abada",
@@ -5100,56 +5100,6 @@
       ],
       "origin": "The Cropsey legend is centered on Staten Island, New York, and is also found in upstate New York summer camp traditions. It is primarily a New York regional legend.",
       "first_reported": "1960-01-01",
-      "danger_level": "unknown",
-      "evidence_level": "unknown"
-    },
-    {
-      "id": "crystal-skulls",
-      "name": "Crystal Skulls",
-      "category": "cultural_artifact",
-      "description": "Quartz carvings shaped like human skulls long claimed to be pre-Columbian Mesoamerican artifacts. Modern museum analyses have shown the best-known examples are 19th-century European carvings made with rotary tools and abrasives unavailable to ancient craftspeople.",
-      "aliases": [
-        {
-          "name": "Mitchell-Hedges Skull",
-          "region": "Belize / United Kingdom",
-          "meaning": "Most famous individual specimen"
-        },
-        {
-          "name": "Skull of Doom",
-          "region": "Anglophone media",
-          "meaning": "Sensationalist nickname for the Mitchell-Hedges skull"
-        },
-        {
-          "name": "British Museum Skull",
-          "region": "United Kingdom"
-        },
-        {
-          "name": "Paris Skull (musée du quai Branly)",
-          "region": "France"
-        },
-        {
-          "name": "Smithsonian Skull",
-          "region": "United States"
-        }
-      ],
-      "tags": [
-        "archaeology",
-        "fraud",
-        "pseudoarchaeology",
-        "mesoamerica",
-        "quartz",
-        "museum-collection",
-        "new-age"
-      ],
-      "status": "debunked",
-      "regions": [
-        "London",
-        "Washington D.C.",
-        "Paris",
-        "Mesoamerican antiquities trade"
-      ],
-      "origin": "Major specimens are housed in museum and private collections in Europe and North America. Promotional folklore situates their origin in Mesoamerica, but documentary trails trace them to European antiquities markets.",
-      "first_reported": "1881",
       "danger_level": "unknown",
       "evidence_level": "unknown"
     },

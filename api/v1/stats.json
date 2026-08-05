@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
-  "generated": "2026-08-05T01:56:44.412Z",
-  "total_phenomena": 514,
+  "generated": "2026-08-05T08:27:29.577Z",
+  "total_phenomena": 513,
   "by_category": {
     "mythological_creature": 63,
     "entity_spirit": 103,
@@ -10,7 +10,7 @@
     "ghost_haunting": 26,
     "ufo_uap": 12,
     "fae_folklore": 29,
-    "cultural_artifact": 6,
+    "cultural_artifact": 5,
     "location": 22,
     "demon_angel": 21,
     "shapeshifter": 18,
@@ -408,13 +408,10 @@
     "Staten Island, New York": 1,
     "Upstate New York": 1,
     "New York City": 1,
-    "London": 2,
-    "Washington D.C.": 1,
-    "Paris": 1,
-    "Mesoamerican antiquities trade": 1,
     "Isle of Skye": 1,
     "Valley of the Kings": 1,
     "Cairo": 1,
+    "London": 1,
     "Amazon basin": 5,
     "Mata Atlântica": 1,
     "Cerrado": 1,
@@ -1472,9 +1469,9 @@
     "Poland (żmij and the Wawel Dragon of Kraków)": 1
   },
   "by_danger_level": {
-    "unknown": 514
+    "unknown": 513
   },
   "by_evidence_level": {
-    "unknown": 514
+    "unknown": 513
   }
 }
