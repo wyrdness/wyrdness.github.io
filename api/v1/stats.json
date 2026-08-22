@@ -1,11 +1,11 @@
 {
   "version": "1.0.0",
-  "generated": "2026-08-22T00:54:27.905Z",
-  "total_phenomena": 513,
+  "generated": "2026-08-22T06:29:42.128Z",
+  "total_phenomena": 514,
   "by_category": {
     "mythological_creature": 63,
     "entity_spirit": 103,
-    "cryptid": 101,
+    "cryptid": 102,
     "undead": 28,
     "ghost_haunting": 26,
     "ufo_uap": 12,
@@ -72,7 +72,7 @@
     "Mongolian highlands": 1,
     "Kabardino-Balkaria": 1,
     "Abkhazia": 1,
-    "Bavaria": 8,
+    "Bavaria": 9,
     "Tyrol": 6,
     "Swabia": 1,
     "Saxony": 1,
@@ -429,7 +429,7 @@
     "Normandy": 2,
     "Pyrenees": 1,
     "Wallonia": 1,
-    "Great Plains": 2,
+    "Great Plains": 3,
     "Eastern Woodlands": 1,
     "Great Lakes": 4,
     "Southeastern Woodlands": 1,
@@ -747,6 +747,8 @@
     "Fukuoka Prefecture": 2,
     "Kyushu broadly": 1,
     "Tokyo (Higashi-Kōenji Station, Ogikubo)": 1,
+    "American West": 1,
+    "Wyoming": 1,
     "Littoral Province, Cameroon": 1,
     "Southwest Province, Cameroon": 1,
     "Wouri River and estuary": 1,
@@ -1470,9 +1472,9 @@
     "Poland (żmij and the Wawel Dragon of Kraków)": 1
   },
   "by_danger_level": {
-    "unknown": 513
+    "unknown": 514
   },
   "by_evidence_level": {
-    "unknown": 513
+    "unknown": 514
   }
 }
