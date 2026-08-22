@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "generated": "2026-08-21T18:28:49.404Z",
+  "generated": "2026-08-22T00:54:27.868Z",
   "total": 16,
   "categories": {
     "mythological_creature": {
@@ -1671,7 +1671,7 @@
     },
     "cryptid": {
       "name": "cryptid",
-      "count": 102,
+      "count": 101,
       "phenomena": [
         {
           "id": "adlet",
@@ -2166,16 +2166,6 @@
             "Northern Minnesota",
             "Western Wisconsin",
             "Canadian wilderness (Hudson Bay region)"
-          ]
-        },
-        {
-          "id": "jackalope",
-          "name": "Jackalope",
-          "regions": [
-            "American West",
-            "Wyoming",
-            "Great Plains",
-            "Bavaria"
           ]
         },
         {
