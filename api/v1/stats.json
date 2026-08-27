@@ -1,9 +1,9 @@
 {
   "version": "1.0.0",
-  "generated": "2026-08-26T19:42:16.594Z",
-  "total_phenomena": 514,
+  "generated": "2026-08-27T06:42:04.247Z",
+  "total_phenomena": 513,
   "by_category": {
-    "mythological_creature": 63,
+    "mythological_creature": 62,
     "entity_spirit": 103,
     "cryptid": 102,
     "undead": 28,
@@ -1233,12 +1233,6 @@
     "Anglophone Caribbean": 1,
     "Surinamese Caribbean": 1,
     "Caribbean diaspora communities": 1,
-    "Giza Plateau": 1,
-    "Thebes": 1,
-    "Karnak": 1,
-    "Memphis": 1,
-    "Ancient Mediterranean": 1,
-    "South and Southeast Asia": 1,
     "United Kingdom": 4,
     "Italy": 1,
     "France": 2,
@@ -1472,9 +1466,9 @@
     "Poland (żmij and the Wawel Dragon of Kraków)": 1
   },
   "by_danger_level": {
-    "unknown": 514
+    "unknown": 513
   },
   "by_evidence_level": {
-    "unknown": 514
+    "unknown": 513
   }
 }

@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
-  "generated": "2026-08-26T19:42:16.499Z",
-  "total": 514,
+  "generated": "2026-08-27T06:42:04.158Z",
+  "total": 513,
   "phenomena": [
     {
       "id": "abada",
@@ -20526,66 +20526,6 @@
       ],
       "origin": "Across the Caribbean, including Anglophone, Francophone, and Dutch-speaking territories, with diaspora reach into the United States (notably Louisiana) and Canada.",
       "first_reported": "Pre-19th century",
-      "danger_level": "unknown",
-      "evidence_level": "unknown"
-    },
-    {
-      "id": "sphinx",
-      "name": "Sphinx",
-      "category": "mythological_creature",
-      "description": "The sphinx is a mythological composite creature — combining human and animal features, primarily a human head and lion body — that appears in both ancient Egyptian and ancient Greek traditions with distinct roles: guardian and royal symbol in Egypt, riddle-posing deadly monster in Greece.",
-      "aliases": [
-        {
-          "name": "Andro-sphinx",
-          "language": "Greek/English",
-          "meaning": "Male-headed sphinx (Egyptian type); from Greek andros (male)"
-        },
-        {
-          "name": "Criosphinx",
-          "language": "Greek/English",
-          "meaning": "Ram-headed sphinx; Egyptian variant"
-        },
-        {
-          "name": "Hieracosphinx",
-          "language": "Greek/English",
-          "meaning": "Hawk-headed sphinx; Egyptian variant"
-        },
-        {
-          "name": "Σφίγξ",
-          "language": "Ancient Greek",
-          "meaning": "Sphinx; possibly from sphingein (to squeeze/strangle), referring to the lion's killing method"
-        },
-        {
-          "name": "Shesep-ankh",
-          "language": "Ancient Egyptian",
-          "meaning": "'Living image'; proposed Egyptian origin of the word sphinx"
-        }
-      ],
-      "tags": [
-        "egyptian",
-        "greek",
-        "mythology",
-        "hybrid",
-        "lion",
-        "humanoid",
-        "guardian",
-        "ancient",
-        "riddle",
-        "pharaonic",
-        "winged",
-        "oedipus"
-      ],
-      "status": "historical",
-      "regions": [
-        "Giza Plateau",
-        "Thebes",
-        "Karnak",
-        "Memphis",
-        "Ancient Mediterranean",
-        "South and Southeast Asia"
-      ],
-      "origin": "Ancient Egypt, ancient Greece, and subsequently throughout the Mediterranean world and into South and Southeast Asia through cultural diffusion. Physical sphinx statues survive primarily in Egypt and in museums worldwide.",
-      "first_reported": "2500-01-01",
       "danger_level": "unknown",
       "evidence_level": "unknown"
     },
