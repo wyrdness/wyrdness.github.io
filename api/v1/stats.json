@@ -1,10 +1,10 @@
 {
   "version": "1.0.0",
-  "generated": "2026-08-28T05:49:23.726Z",
-  "total_phenomena": 514,
+  "generated": "2026-08-28T07:24:17.986Z",
+  "total_phenomena": 515,
   "by_category": {
     "mythological_creature": 63,
-    "entity_spirit": 103,
+    "entity_spirit": 104,
     "cryptid": 102,
     "undead": 28,
     "ghost_haunting": 26,
@@ -537,6 +537,7 @@
     "Chiapas, Mexico": 1,
     "Quintana Roo, Mexico": 1,
     "Darien, Colombia": 1,
+    "Guatemala City": 1,
     "Western Europe": 2,
     "North America": 2,
     "global Western occult community": 1,
@@ -1472,9 +1473,9 @@
     "Poland (żmij and the Wawel Dragon of Kraków)": 1
   },
   "by_danger_level": {
-    "unknown": 514
+    "unknown": 515
   },
   "by_evidence_level": {
-    "unknown": 514
+    "unknown": 515
   }
 }

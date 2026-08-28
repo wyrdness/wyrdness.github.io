@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "generated": "2026-08-28T05:52:20.612Z",
+  "generated": "2026-08-28T07:24:16.505Z",
   "total": 16,
   "categories": {
     "mythological_creature": {
@@ -633,7 +633,7 @@
     },
     "entity_spirit": {
       "name": "entity_spirit",
-      "count": 103,
+      "count": 104,
       "phenomena": [
         {
           "id": "abumi-guchi",
@@ -930,6 +930,13 @@
             "Mesoamerica",
             "Highland Maya region",
             "Pacific lowlands of Central America"
+          ]
+        },
+        {
+          "id": "el-sombreron",
+          "name": "El Sombrerón",
+          "regions": [
+            "Guatemala City"
           ]
         },
         {

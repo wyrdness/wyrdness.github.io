@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
-  "generated": "2026-08-28T05:49:21.750Z",
-  "total": 514,
+  "generated": "2026-08-28T07:24:14.929Z",
+  "total": 515,
   "phenomena": [
     {
       "id": "abada",
@@ -24584,6 +24584,109 @@
           "title": "Sisimito — Wikipedia",
           "url": "https://en.wikipedia.org/wiki/Sisimito",
           "accessed": "2026-05-08"
+        }
+      ],
+      "locations": []
+    },
+    {
+      "id": "el-sombreron",
+      "name": "El Sombrerón",
+      "category": "entity_spirit",
+      "description": "A short, dark, wide-brimmed-hat-wearing bogeyman of Guatemalan (and wider Mexican and Central American) folklore who courts young women with long black hair, serenading them at night and braiding their hair — and the manes of horses and mules — while they sleep.",
+      "full_description": "El Sombrerón ('the big-hatted one') is a legendary figure from Guatemalan folklore, also known in Mexico and elsewhere in Central America. He is described as a short man dressed entirely in black, wearing a wide-brimmed black sombrero, who is drawn to young women with long black hair. In the legend he serenades his chosen target at night, ties bells to the tails of mules or horses to announce his presence, and braids the hair of the woman and the manes of animals into intricate plaits while the household sleeps. Prolonged attention from El Sombrerón is said to leave the victim obsessed, sleepless, and wasting away. The legend is particularly associated with Guatemala City's older neighborhoods, including La Recolección and Parroquia Vieja, and forms part of the broader Guatemalan folkloric canon alongside figures such as La Llorona and La Siguanaba.",
+      "aliases": [
+        {
+          "name": "El Sombrerón",
+          "language": "Spanish",
+          "region": "Guatemala",
+          "meaning": "'the big-hatted one' — from 'sombrero' (hat) plus the augmentative suffix '-ón'"
+        }
+      ],
+      "tags": [
+        "guatemala",
+        "mexico",
+        "latin-american-folklore",
+        "bogeyman",
+        "hair-braiding",
+        "seduction",
+        "colonial-era",
+        "urban-legend"
+      ],
+      "status": "documented",
+      "regions": [
+        "Guatemala City"
+      ],
+      "origin": "Guatemala, particularly Guatemala City's older neighborhoods; also attested in Mexico and elsewhere in Central America.",
+      "first_reported": "unknown",
+      "danger_level": "unknown",
+      "evidence_level": "unknown",
+      "etymology": {
+        "origin": "Spanish 'sombrero' ('hat') plus the augmentative suffix '-ón', yielding 'big hat' or 'the one with the big hat'.",
+        "meaning": "'The big-hatted one' — a name describing the figure's most distinctive feature, his oversized black sombrero."
+      },
+      "sightings_stats": {
+        "total_documented": 0,
+        "verified": 0,
+        "disputed": 0,
+        "debunked": 0,
+        "date_range": {
+          "earliest": "n/a",
+          "latest": "n/a"
+        }
+      },
+      "timeline": [
+        {
+          "date": "1930-01-01",
+          "event": "Miguel Ángel Asturias publishes 'Leyendas de Guatemala', which includes a literary treatment of El Sombrerón",
+          "significance": "Earliest known literary record of the legend",
+          "source": "Miguel Ángel Asturias, Leyendas de Guatemala (Ediciones Oriente, 1930)"
+        },
+        {
+          "date": "1950-01-01",
+          "event": "Release of the Guatemalan film adaptation of the legend, co-directed by Guillermo Andreu Corzo and Eduardo Fleischman",
+          "significance": "Considered among the first fully Guatemalan-produced films",
+          "source": "1950 Guatemalan film, co-dir. Guillermo Andreu Corzo and Eduardo Fleischman"
+        }
+      ],
+      "related": [
+        {
+          "id": "la-llorona",
+          "name": "La Llorona",
+          "relationship": "related",
+          "description": "Guatemalan/Latin American legendary ghost-woman figure, frequently grouped with El Sombrerón in the same folkloric canon"
+        },
+        {
+          "id": "siguanaba",
+          "name": "La Siguanaba",
+          "relationship": "related",
+          "description": "Guatemalan shapeshifting spirit-woman, part of the same regional legend cycle"
+        },
+        {
+          "id": "el-cadejo",
+          "name": "El Cadejo",
+          "relationship": "related",
+          "description": "Guatemalan spectral-dog entity, part of the same regional legend cycle"
+        }
+      ],
+      "cultural_notes": "Young women with long black hair should be cautious of unfamiliar nighttime suitors and unexplained serenades.",
+      "sources": [
+        {
+          "id": "wikipedia-el-sombreron",
+          "type": "website",
+          "title": "El Sombrerón",
+          "publication": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/El_Sombrer%C3%B3n",
+          "accessed": "2026-08-28"
+        },
+        {
+          "id": "asturias-1930",
+          "type": "book",
+          "title": "Leyendas de Guatemala",
+          "authors": [
+            "Miguel Ángel Asturias"
+          ],
+          "publication": "Ediciones Oriente",
+          "date": "1930"
         }
       ],
       "locations": []
