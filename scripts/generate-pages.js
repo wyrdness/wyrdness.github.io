@@ -8,17 +8,6 @@ const path = require('path');
 const API_DIR = path.join(__dirname, '../api/v1');
 const TEMPLATE_DIR = path.join(__dirname, '../templates');
 const OUTPUT_DIR = path.join(__dirname, '../phenomena');
-const PARENT_DIR = path.join(__dirname, '../../');
-
-// Mirrors aggregate-local.js's exclusion list — used to enumerate valid
-// sibling-repo directory names when pruning api/v1/*.json, since those
-// files are named after the repo directory, not phenomenon.id.
-const EXCLUDED_DIRS = [
-  'wyrdness.github.io',
-  '.github',
-  '.git',
-  'node_modules'
-];
 
 function escapeHtml(str) {
   return String(str == null ? '' : str).replace(/[&<>"']/g, c => ({
@@ -157,24 +146,12 @@ async function main() {
     }
   }
 
-  // api/v1/*.json files are named after the sibling repo's directory name
-  // (see aggregate-local.js), which does not always match phenomenon.id
-  // (e.g. a repo dir with a mangled/legacy name whose api.json declares
-  // the canonical id) — so validity here is checked against actual
-  // sibling-repo directories, not against validIds.
-  const siblingEntries = await fs.readdir(PARENT_DIR, { withFileTypes: true });
-  const validDirNames = new Set(
-    siblingEntries
-      .filter(e => e.isDirectory() && !EXCLUDED_DIRS.includes(e.name) && !e.name.startsWith('.'))
-      .map(e => e.name)
-  );
-
   const existingJson = await fs.readdir(API_DIR);
   for (const filename of existingJson) {
     if (!filename.endsWith('.json')) continue;
-    const dirName = filename.slice(0, -'.json'.length);
-    if (['index', 'categories', 'stats'].includes(dirName)) continue;
-    if (!validDirNames.has(dirName)) {
+    const id = filename.slice(0, -'.json'.length);
+    if (['index', 'categories', 'stats'].includes(id)) continue;
+    if (!validIds.has(id)) {
       await fs.rm(path.join(API_DIR, filename), { force: true });
       pruned++;
     }

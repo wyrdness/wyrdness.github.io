@@ -89,9 +89,13 @@ async function main() {
       const rawData = JSON.parse(content);
       const flatData = flattenPhenomenon(rawData);
 
-      // Save individual file (flattened)
+      // Save individual file (flattened), named by phenomenon.id — matches
+      // aggregate-api.js's convention and what generate-pages.js's
+      // orphan-pruning step expects. The repo directory name (dirName) can
+      // diverge from the canonical id (e.g. a mangled/legacy directory
+      // name), so the id is what must drive the filename.
       await fs.writeFile(
-        path.join(OUTPUT_DIR, `${dirName}.json`),
+        path.join(OUTPUT_DIR, `${flatData.id}.json`),
         JSON.stringify(flatData, null, 2)
       );
 
