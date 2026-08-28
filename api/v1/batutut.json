@@ -3,6 +3,7 @@
   "name": "Batutut",
   "category": "cryptid",
   "description": "A reported hominid cryptid of the forests of Vietnam, Laos and adjacent regions, described as a hairy bipedal 'wild man'. Most prominently associated with the Vu Quang region and with Vietnam War-era 'rock ape' encounters.",
+  "full_description": "Batutut, also known by the Vietnamese term Người Rừng ('forest people'), is a proposed hominid cryptid of the rainforests of Vietnam, Laos and parts of Cambodia. Witnesses describe a roughly six-foot-tall, bipedal, hair-covered being similar in form to descriptions of Sasquatch, Yeti and Orang Pendek. Reports increased during and after the Vietnam War, when American soldiers reported aggressive hairy bipeds (often called 'rock apes') in the Annamite Range. Vietnamese biologist Tran Hong Viet of the Pedagogic University of Hanoi reported finding and casting large humanoid footprints in Sa Thay District (Kon Tum Province) in 1982 during a post-war biodiversity inventory. The Vu Quang Nature Reserve, where the saola (Pseudoryx nghetinhensis) was scientifically described in 1992, is often cited as a candidate habitat. Mainstream zoologists treat Batutut reports as likely a mix of folklore, misidentified known primates (gibbons, macaques), and wartime stress, while a small number of cryptozoologists hold open the possibility of an unknown great ape.",
   "aliases": [
     {
       "name": "Người Rừng",
@@ -44,5 +45,145 @@
   "origin": "Reports cluster in the Annamite Range (Trường Sơn) along the Vietnam–Laos border, and in adjacent forested regions of Vietnam, Laos and Cambodia.",
   "first_reported": "1947-01-01",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "The name 'Batutut' is a regional designation used in cryptozoological literature. The Vietnamese name Người Rừng combines người ('person') and rừng ('forest').",
+    "meaning": "Người Rừng: 'forest people' or 'wild man'.",
+    "first_use": "Người Rừng is in long-standing Vietnamese use; 'Batutut' is reported in late 20th-century cryptozoological writing."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0,
+    "date_range": {
+      "earliest": "1947",
+      "latest": "2026"
+    }
+  },
+  "timeline": [
+    {
+      "date": "1947-01-01",
+      "event": "French colonist reports an 'L'Homme Sauvage' sighting in Vietnam (precise locality and date not preserved in modern English sources)",
+      "significance": "Earliest 20th-century report cited in cryptozoological literature",
+      "source": "Cryptozoological summaries (Heuvelmans tradition)"
+    },
+    {
+      "date": "1965-01-01",
+      "event": "Vietnam War period: US and ARVN troops report aggressive 'rock apes' in the Annamite Range",
+      "significance": "Brings Người Rừng reports to international attention",
+      "source": "Veteran testimonies and later cryptid books"
+    },
+    {
+      "date": "1974-01-01",
+      "event": "PAVN General Hoàng Minh Thảo requests an expedition to investigate the creature; the expedition is unsuccessful",
+      "significance": "Documents official Vietnamese interest",
+      "source": "Vietnamese cryptozoological reports"
+    },
+    {
+      "date": "1982-01-01",
+      "event": "Tran Hong Viet of the Pedagogic University of Hanoi reports finding and casting 28 × 16 cm humanoid footprints in Sa Thay District during a post-war biodiversity inventory",
+      "significance": "Best-known physical-evidence claim",
+      "source": "Tran Hong Viet, post-war biological survey"
+    },
+    {
+      "date": "1992-01-01",
+      "event": "Saola (Pseudoryx nghetinhensis) scientifically described from Vu Quang",
+      "significance": "Demonstrates that significant unknown large mammals can persist in the region; cited by cryptozoologists as supporting plausibility for Người Rừng",
+      "source": "Dung et al. (1993), Nature 363:443–445"
+    }
+  ],
+  "related": [
+    {
+      "id": "bigfoot",
+      "name": "Bigfoot",
+      "relationship": "similar",
+      "description": "North American hairy hominid cryptid"
+    },
+    {
+      "id": "yeti",
+      "name": "Yeti",
+      "relationship": "similar",
+      "description": "Himalayan hairy hominid cryptid"
+    },
+    {
+      "id": "orang-pendek",
+      "name": "Orang Pendek",
+      "relationship": "similar",
+      "description": "Short bipedal hairy cryptid of Sumatra"
+    },
+    {
+      "id": "yeren",
+      "name": "Yeren",
+      "relationship": "similar",
+      "description": "Chinese hairy wild-man cryptid"
+    },
+    {
+      "id": "almas",
+      "name": "Almas",
+      "relationship": "similar",
+      "description": "Central Asian wild-man cryptid"
+    }
+  ],
+  "cultural_notes": "In rural areas of central Vietnam and the Lao border, Người Rừng is treated as a real if rare forest being; in cryptozoological literature it is grouped with the Asian wild-man tradition.",
+  "sources": [
+    {
+      "id": "cryptidz-batutut",
+      "type": "website",
+      "title": "Batutut",
+      "publication": "Cryptid Wiki (Fandom)",
+      "url": "https://cryptidz.fandom.com/wiki/Batutut",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "cryptidz-nguoi-rung",
+      "type": "website",
+      "title": "Nguoi Rung",
+      "publication": "Cryptid Wiki (Fandom)",
+      "url": "https://cryptidz.fandom.com/wiki/Nguoi_Rung",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "monstropedia-nguoi-rung",
+      "type": "website",
+      "title": "Nguoi Rung",
+      "publication": "Monstropedia",
+      "url": "https://monstropedia.org/index.php?title=Nguoi_Rung",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "heuvelmans-1958",
+      "type": "book",
+      "title": "On the Track of Unknown Animals",
+      "authors": [
+        "Bernard Heuvelmans"
+      ],
+      "publication": "Hill and Wang",
+      "date": "1959"
+    },
+    {
+      "id": "coleman-huyghe-2006",
+      "type": "book",
+      "title": "The Field Guide to Bigfoot and Other Mystery Primates",
+      "authors": [
+        "Loren Coleman",
+        "Patrick Huyghe"
+      ],
+      "publication": "Anomalist Books",
+      "date": "2006",
+      "isbn": "978-1933665122"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Vu Quang Nature Reserve",
+      "lat": 18.2833,
+      "lng": 105.4167
+    },
+    {
+      "name": "Sa Thay District",
+      "lat": 14.4167,
+      "lng": 107.7833
+    }
+  ]
 }

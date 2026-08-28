@@ -3,6 +3,7 @@
   "name": "Samjok-o",
   "category": "mythological_creature",
   "description": "A three-legged crow that lives in the sun, central to East Asian solar mythology. In Korea, the Samjok-o was a Goguryeo-era emblem of imperial authority and the sun, attested on 6th–7th-century tomb murals; cognate figures are the Chinese Sanzuwu / Jinwu and the Japanese Yatagarasu.",
+  "full_description": "The Samjok-o (삼족오, 三足烏) — literally 'three-legged crow' — is a solar bird shared across Chinese, Korean and Japanese mythology. The bird is said to live in the sun and to embody its power; in Chinese tradition, ten such crows once perched on the Fusang mulberry tree and took turns crossing the sky in Xihe's sun-chariot until the archer Hou Yi shot down all but one of them. In Korea, the Samjok-o is most strongly identified with the Goguryeo kingdom (37 BCE–668 CE), where it appears on multiple painted tomb murals of the 4th–7th centuries CE, often flanked by a dragon and a phoenix and explicitly representing the sun and the legitimacy of the Taewang ('Greatest of Kings'). Goguryeo and later Korean iconography treated the Samjok-o as superior in rank to both the dragon and the bonghwang (Korean phoenix). The Japanese Yatagarasu — described in the 8th-century Kojiki and Nihon Shoki as the divine crow that guided Emperor Jimmu from Kumano to Yamato — is a cognate figure, depicted with three legs in later art under Chinese influence and now used as the emblem of the Japan Football Association. The Samjok-o has been revived as a Korean cultural symbol since the 2000s, appearing in television dramas (notably 'Jumong' and 'The Legend'), corporate logos and national-identity discourse.",
   "aliases": [
     {
       "name": "삼족오",
@@ -61,5 +62,118 @@
   "origin": "East Asian: China (Sanzuwu / Jinwu), Korea (Samjok-o, especially Goguryeo), and Japan (Yatagarasu).",
   "first_reported": "Bronze Age",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "East Asian solar bird mythology shared between China, Korea, and Japan",
+    "meaning": "삼 (sam, 'three') + 족 (jok, 'leg') + 오 (o, 'crow') = 'three-legged crow'",
+    "first_use": "Bird-Sun motifs documented archaeologically in China from the Neolithic period; the three-legged form is established by the Han dynasty and dominant in Goguryeo tomb art by the 5th–6th century CE"
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "0168-01-01",
+      "event": "Han-dynasty Mawangdui silk painting depicting a sun with a crow inside it (datable to c. 168 BCE)",
+      "significance": "Among the earliest visual attestations of the sun-crow motif",
+      "source": "Mawangdui tomb 1 silk banner, Hunan Provincial Museum"
+    },
+    {
+      "date": "0500-01-01",
+      "event": "Samjok-o appears on Goguryeo tomb murals (e.g. Ssang-yong-chong, Anak Tomb No. 3 cluster, Deokheung-ri, etc.) flanked by dragon and phoenix",
+      "significance": "Establishes the Samjok-o as a Goguryeo imperial symbol; date approximate (5th–7th c.)",
+      "source": "Goguryeo tomb mural inventory; UNESCO World Heritage documentation"
+    },
+    {
+      "date": "0712-01-01",
+      "event": "Compilation of the Kojiki, recording Yatagarasu as the divine three-legged crow that guides Emperor Jimmu",
+      "significance": "Foundational Japanese textual attestation of the cognate figure",
+      "source": "Kojiki (712 CE)"
+    },
+    {
+      "date": "2006-05-15",
+      "event": "MBC television drama 'Jumong' premieres, prominently using the Samjok-o as the Goguryeo state emblem",
+      "significance": "Major modern revival of the Samjok-o in Korean popular culture",
+      "source": "MBC programming records"
+    }
+  ],
+  "related": [
+    {
+      "id": "sanzuwu",
+      "name": "Sanzuwu / Jinwu",
+      "relationship": "counterpart",
+      "description": "Chinese three-legged sun crow; the direct cognate from which the Korean and Japanese forms derive"
+    },
+    {
+      "id": "yatagarasu",
+      "name": "Yatagarasu",
+      "relationship": "counterpart",
+      "description": "Japanese three-legged crow, divine guide of Emperor Jimmu"
+    },
+    {
+      "id": "bonghwang",
+      "name": "Bonghwang",
+      "relationship": "related",
+      "description": "Korean phoenix; frequently paired with the Samjok-o on Goguryeo tomb murals"
+    },
+    {
+      "id": "fenghuang",
+      "name": "Fenghuang",
+      "relationship": "related",
+      "description": "Chinese phoenix, structurally complementary to the Sanzuwu"
+    },
+    {
+      "id": "qilin",
+      "name": "Qilin / Kirin",
+      "relationship": "related",
+      "description": "Another auspicious East Asian mythical creature in the same iconographic family"
+    }
+  ],
+  "cultural_notes": "The Samjok-o connotes solar power, divine authority, and dynastic legitimacy in Korean tradition.",
+  "sources": [
+    {
+      "id": "wikipedia-three-legged-crow",
+      "type": "website",
+      "title": "Three-legged crow — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Three-legged_crow",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "unesco-goguryeo-china",
+      "type": "website",
+      "title": "Capital Cities and Tombs of the Ancient Koguryo Kingdom (UNESCO)",
+      "url": "https://whc.unesco.org/en/list/1135",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "unesco-goguryeo-dprk",
+      "type": "website",
+      "title": "Complex of Koguryo Tombs (UNESCO)",
+      "url": "https://whc.unesco.org/en/list/1091",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "kojiki",
+      "type": "book",
+      "title": "Kojiki",
+      "authors": [
+        "Ō no Yasumaro (compiler)"
+      ],
+      "date": "0712"
+    },
+    {
+      "id": "huainanzi",
+      "type": "book",
+      "title": "Huainanzi",
+      "authors": [
+        "Liu An (attrib.)"
+      ],
+      "date": "-0139",
+      "notes": "Han-era compilation containing the Hou Yi / ten suns myth"
+    }
+  ],
+  "locations": []
 }

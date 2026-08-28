@@ -3,6 +3,7 @@
   "name": "Doppelgänger",
   "category": "anomaly",
   "description": "The apparitional double of a living person, reported across many cultures and historical periods, sometimes seen by the person themselves and sometimes witnessed by others; modern neuroscience associates some experiences with autoscopy and heautoscopy linked to disturbances of the temporoparietal junction.",
+  "full_description": "A doppelgänger is the apparitional double or duplicate of a living person — German for 'double-walker'. The term was coined by the German Romantic novelist Jean Paul in his 1796 novel Siebenkäs, where it appears in a footnote with a meaning slightly distinct from later use. The phenomenon spans cultures: the Ancient Egyptian ka, the Norse vardøger, the Irish 'fetch', and the Islamic qarin all describe related ideas of a spirit double. Famous European cases include Goethe's autobiographical account in Dichtung und Wahrheit of meeting himself on horseback in unfamiliar clothing and meeting that same vision on the same road eight years later; Mary Shelley's record of Percy Bysshe Shelley meeting his own double in 1822 (shortly before his drowning); and the much-discussed case of the French teacher Émilie Sagée, whose double was reportedly witnessed at her school in Latvia in 1845. Vice-Admiral George Tryon's apparition was reportedly seen at his home in 1893 while he was actually commanding HMS Victoria in the Mediterranean during her fatal collision with HMS Camperdown. Modern psychiatric and neuroscientific work — including studies by Olaf Blanke and colleagues at EPFL — has shown that experiences of seeing one's double (autoscopy and heautoscopy) can be elicited by stimulation of the temporoparietal junction and are observed in temporal-lobe epilepsy and certain psychiatric conditions; Otto Rank's 1914 monograph and Sigmund Freud's 1919 essay 'Das Unheimliche' (The Uncanny) provide foundational psychoanalytic framing.",
   "aliases": [
     {
       "name": "Doppelgaenger",
@@ -52,5 +53,135 @@
   "origin": "Reported worldwide across cultures and historical periods.",
   "first_reported": "Pre-modern",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "German compound: Doppel ('double') + Gänger ('walker, goer')",
+    "meaning": "'Double-walker' or 'double-goer'",
+    "first_use": "1796 — Jean Paul (Johann Paul Friedrich Richter), Siebenkäs"
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0,
+    "date_range": {
+      "earliest": "1796",
+      "latest": "2026"
+    }
+  },
+  "timeline": [
+    {
+      "date": "1796-01-01",
+      "event": "Jean Paul coins 'Doppeltgänger' in his novel Siebenkäs",
+      "significance": "Origin of the modern German term and its eventual English loanword",
+      "source": "Jean Paul, Siebenkäs (1796)"
+    },
+    {
+      "date": "1822-07-08",
+      "event": "Death of Percy Bysshe Shelley, whose 1822 doppelgänger encounters were recorded by Mary Shelley and Jane Williams",
+      "significance": "Influential Romantic-era case anchored in a documented date of death",
+      "source": "Mary Shelley correspondence"
+    },
+    {
+      "date": "1845-01-01",
+      "event": "Reported doppelgänger of teacher Émilie Sagée at the Pensionat von Neuwelcke in Latvia",
+      "significance": "Most-discussed 19th-century multi-witness case",
+      "source": "Robert Dale Owen, Footfalls on the Boundary of Another World (1860)"
+    },
+    {
+      "date": "1893-06-22",
+      "event": "HMS Victoria collides with HMS Camperdown, killing Vice-Admiral Sir George Tryon; his apparition is reportedly seen at his London home that day",
+      "significance": "Frequently cited crisis-apparition / doppelgänger case anchored to a verifiable naval event",
+      "source": "Society for Psychical Research case files"
+    },
+    {
+      "date": "1914-01-01",
+      "event": "Otto Rank publishes Der Doppelgänger",
+      "significance": "Foundational psychoanalytic study of the double",
+      "source": "Rank, Der Doppelgänger (1914)"
+    },
+    {
+      "date": "1919-01-01",
+      "event": "Sigmund Freud publishes 'Das Unheimliche' (The Uncanny)",
+      "significance": "Establishes the doppelgänger as a key motif in the psychology of the uncanny",
+      "source": "Freud, 'Das Unheimliche' (1919)"
+    }
+  ],
+  "related": [
+    {
+      "id": "bilocation",
+      "name": "Bilocation",
+      "relationship": "related",
+      "description": "Reported simultaneous presence of one individual in two places"
+    },
+    {
+      "id": "crisis-apparition",
+      "name": "Crisis apparition",
+      "relationship": "related",
+      "description": "Apparition of a person seen at a moment of crisis or death"
+    },
+    {
+      "id": "out-of-body-experiences",
+      "name": "Out-of-body experiences",
+      "relationship": "related",
+      "description": "Phenomenologically related self-perception experiences"
+    },
+    {
+      "id": "vanishing-hitchhiker",
+      "name": "Vanishing hitchhiker",
+      "relationship": "related",
+      "description": "Cultural narrative pattern involving doubles or revenants"
+    }
+  ],
+  "cultural_notes": "In many traditions the appearance of one's double is read as an omen of crisis or imminent death.",
+  "sources": [
+    {
+      "id": "wikipedia-doppelganger",
+      "type": "website",
+      "title": "Doppelgänger",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Doppelg%C3%A4nger",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "rank-1914",
+      "type": "book",
+      "title": "Der Doppelgänger",
+      "authors": [
+        "Otto Rank"
+      ],
+      "publication": "Imago",
+      "date": "1914"
+    },
+    {
+      "id": "freud-1919",
+      "type": "paper",
+      "title": "Das Unheimliche",
+      "authors": [
+        "Sigmund Freud"
+      ],
+      "publication": "Imago",
+      "date": "1919"
+    },
+    {
+      "id": "owen-1860",
+      "type": "book",
+      "title": "Footfalls on the Boundary of Another World",
+      "authors": [
+        "Robert Dale Owen"
+      ],
+      "publication": "J. B. Lippincott",
+      "date": "1860"
+    },
+    {
+      "id": "goethe-dichtung",
+      "type": "book",
+      "title": "Dichtung und Wahrheit",
+      "authors": [
+        "Johann Wolfgang von Goethe"
+      ],
+      "date": "1811-1833"
+    }
+  ],
+  "locations": []
 }

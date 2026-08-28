@@ -3,6 +3,7 @@
   "name": "Sisimite",
   "category": "cryptid",
   "description": "The Sisimite is a large, bipedal, ape-like humanoid from Central American folklore — particularly Belize and Honduras — described as covered in black or dark brown fur with four-fingered hands and backward-facing feet, known for its ferocity and alleged abduction of humans.",
+  "full_description": "The Sisimite (also Sisimito, Sisimita) is a bipedal humanoid cryptid from the folklore of Belize, Honduras, Guatemala, and neighboring Central American countries. It is described as a gorilla-like creature with a humanoid head, covered in black or dark brown fur, standing larger than an average human, with ape-like facial features, four fingers on each hand (no thumbs), and notably backward-facing feet with no knees. The name is believed to derive from the Nahuatl word Tzitzimitl. In Honduran tradition, the Sisimite inhabits mountain caverns and consumes wild berries, but is particularly feared for allegedly kidnapping human women. In Belizean tradition, the creature is more malevolent — said to consume human flesh, tear bodies apart, and hunt on Sundays and religious holidays. Across traditions, the Sisimite fears water and dogs, which are used to ward it off. The Garifuna people call it Sismidu. The creature may assume human form to lure victims from villages. The Sisimite represents the Central American expression of a widespread mythic figure — the wild hairy forest giant — that appears across many world cultures.",
   "aliases": [
     {
       "name": "El Sisimite",
@@ -58,5 +59,48 @@
   "origin": "Found in the folklore of Belize, Honduras, Guatemala, and Nicaragua. Related reports extend into southern Mexico (Campeche, Chiapas, Quintana Roo) and reportedly as far south as Colombia, where it is called the 'Darien Monster.'",
   "first_reported": "Pre-contact",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Believed to derive from the Nahuatl word Tzitzimitl",
+    "meaning": "No direct English translation; the Nahuatl root Tzitzimitl refers to skeletal supernatural beings in Aztec mythology",
+    "first_use": "Pre-colonial oral tradition of Central American Indigenous peoples"
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [],
+  "related": [
+    {
+      "id": "bigfoot",
+      "name": "Bigfoot",
+      "relationship": "similar",
+      "description": "North American hairy bipedal humanoid cryptid; shares the broad type of large hairy forest giant"
+    },
+    {
+      "id": "yeti",
+      "name": "Yeti",
+      "relationship": "similar",
+      "description": "Himalayan hairy humanoid cryptid of the same broad type"
+    },
+    {
+      "id": "alux",
+      "name": "Alux",
+      "relationship": "related",
+      "description": "Maya supernatural being of Mesoamerica"
+    }
+  ],
+  "cultural_notes": "Across Central American traditions, the Sisimite functions as a cautionary figure warning people — especially women and children — against entering the deep forest. The fear of dogs and water gives communities a sense of potential protection.",
+  "sources": [
+    {
+      "id": "wikipedia-sisimito",
+      "type": "website",
+      "title": "Sisimito — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sisimito",
+      "accessed": "2026-05-08"
+    }
+  ],
+  "locations": []
 }

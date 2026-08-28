@@ -3,6 +3,7 @@
   "name": "Splintercat",
   "category": "cryptid",
   "description": "The Splintercat is a fearsome critter from American lumberjack and woodcraft folklore — a nocturnal flying feline creature with an impossibly hard forehead that hunts by flying headfirst into trees at tremendous speed, smashing them to splinters to expose raccoons and bee hives for food.",
+  "full_description": "The Splintercat (also spelled Splinter Cat) is a creature from the tradition of American 'fearsome critters' — a category of humorous, exaggerated legendary animals that circulated among lumberjacks, loggers, and woodsmen in North America from approximately the 19th into the early 20th century. According to the tall tales, the Splintercat is a nocturnal cat-like creature with an extraordinarily hard forehead that it uses as a battering ram. It hunts by flying through the air at tremendous speed and smashing headlong into large trees, shattering the trunk and branches to splinters — hence the name. The impact dislodges and stuns prey items including raccoons and bee hives, which the dazed-but-undamaged Splintercat then consumes. The creature was said to be perpetually in a foul mood due to the constant headaches produced by its hunting method, and observers were advised never to approach one. The Splintercat served as a humorous folk explanation for trees found shattered or splintered in the forest (damage more plausibly caused by lightning, wind, disease, or woodpeckers). Like other fearsome critters — the Jackalope, Hodag, Wampus Cat, Hidebehind, and others — the Splintercat belongs to a tradition of tall tales used for entertainment in logging camps and as initiation pranks on greenhorn woodsmen who could be frightened with accounts of dangerous local beasts. A geographic variant from Nova Scotia describes a creature with long claws and bark-patterned fur that ambushes prey from concealment. Splintercat Creek in Oregon's northern Cascade Range is named for the legendary creature.",
   "aliases": [
     {
       "name": "Splinter Cat",
@@ -31,5 +32,93 @@
   "origin": "A creature of American lumberjack folklore distributed wherever the tradition was carried — primarily the Pacific Northwest, Great Lakes region, and northeastern United States and Canada. A Nova Scotia variant is documented. Splintercat Creek in Oregon's northern Cascade Range is named for the creature.",
   "first_reported": "1910-01-01",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "American English; lumberjack and woodcraft oral tradition of the 19th–early 20th century.",
+    "meaning": "A cat that splinters trees by flying into them with its hardened forehead.",
+    "first_use": "Documented in William T. Cox's Fearsome Creatures of the Lumberwoods (1910), the primary written source for the fearsome critter tradition."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "1910-01-01",
+      "event": "William T. Cox publishes Fearsome Creatures of the Lumberwoods, the foundational written compendium of fearsome critters including the Splintercat",
+      "significance": "Primary documented source for the Splintercat tradition",
+      "source": "Cox, W.T. (1910), Fearsome Creatures of the Lumberwoods"
+    },
+    {
+      "date": "1939-01-01",
+      "event": "Henry H. Tryon publishes Fearsome Critters, expanding the compendium of tall tale animals",
+      "significance": "Secondary source expanding documentation of the tradition",
+      "source": "Tryon, H.H. (1939), Fearsome Critters"
+    },
+    {
+      "date": "1974-01-01",
+      "event": "Julie Andrews Edwards (Mary Poppins author writing as Julie Edwards) publishes The Last of the Really Great Whangdoodles, featuring a splintercat character",
+      "significance": "Popularization of the creature in children's literature",
+      "source": "Edwards, J. (1974), The Last of the Really Great Whangdoodles"
+    }
+  ],
+  "related": [
+    {
+      "id": "jackalope",
+      "name": "Jackalope",
+      "relationship": "similar",
+      "description": "Another fearsome critter / tall tale animal from the American West; rabbit with antelope horns"
+    },
+    {
+      "id": "hodag",
+      "name": "Hodag",
+      "relationship": "similar",
+      "description": "Wisconsin fearsome critter; part of the same lumberjack tall tale tradition"
+    },
+    {
+      "id": "wampus-cat",
+      "name": "Wampus Cat",
+      "relationship": "similar",
+      "description": "Southern Appalachian fearsome critter; giant terrifying feline; part of the same tradition"
+    },
+    {
+      "id": "hidebehind",
+      "name": "Hidebehind",
+      "relationship": "similar",
+      "description": "Fearsome critter that hides behind trees; same lumberjack tall tale tradition"
+    }
+  ],
+  "cultural_notes": "In the context of the fearsome critters tradition, the Splintercat was understood by knowing participants as a tall tale told to entertain and to test the credulity of newcomers to logging camps. The tradition occupied an ambiguous space between genuine belief and shared joke.",
+  "sources": [
+    {
+      "id": "cox-1910",
+      "type": "book",
+      "title": "Fearsome Creatures of the Lumberwoods",
+      "authors": [
+        "William T. Cox"
+      ],
+      "publication": "Press of Judd and Detweiler",
+      "date": "1910"
+    },
+    {
+      "id": "tryon-1939",
+      "type": "book",
+      "title": "Fearsome Critters",
+      "authors": [
+        "Henry H. Tryon"
+      ],
+      "publication": "Idlewild Press",
+      "date": "1939"
+    },
+    {
+      "id": "websearch-splintercat-2026",
+      "type": "website",
+      "title": "Splintercat (Wikipedia fetch via search results)",
+      "url": "https://en.wikipedia.org/wiki/Splintercat",
+      "accessed": "2026-05-08"
+    }
+  ],
+  "locations": []
 }

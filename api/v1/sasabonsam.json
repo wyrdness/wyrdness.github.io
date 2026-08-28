@@ -3,6 +3,7 @@
   "name": "Sasabonsam",
   "category": "undead",
   "description": "A forest-dwelling vampiric being from Akan folklore (Ghana, Côte d'Ivoire, Togo), described as a hairy humanoid with iron teeth and hooked feet who sits in trees and snatches up unwary travellers. Documented ethnographically by R. S. Rattray in the 1920s.",
+  "full_description": "The Sasabonsam (also Asasabonsam, Sasabonsum, Shamansum) is a vampiric forest entity from the folklore of the Akan peoples of southern Ghana, Côte d'Ivoire and Togo, including the Ashanti, Fante, and related groups. It is canonically described — most influentially in R. S. Rattray's 1920s Ashanti ethnographies — as a hairy, monstrous humanoid that lives high in the trees of the forest, with iron teeth, blood-shot eyes, very long legs, and feet that point both forwards and backwards (or that end in hooks). Sasabonsam dangles its long legs from a branch and snares any traveller who walks beneath. Within Akan demonology it is closely linked to obayifo, the soul-eating witch: in some accounts Sasabonsam is the master of obayifo, in others the two terms are used as near-synonyms. Sasabonsam functions in Akan tradition as a supernatural enforcer of the forest and of taboo: the figure punishes hunters who break sacred-day prohibitions or trespass on forbidden ground. The Akan tradition was carried into the Caribbean by enslaved Akan people in the 17th and 18th centuries, where it contributed to local Jamaican and Surinamese vampire-witch beliefs. A widely-reproduced wooden carving of a Sasabonsam, collected by L. W. G. Malcolm in 1928 from a shrine of the Aowin people of southwestern Ghana, is held by the Pitt Rivers Museum in Oxford.",
   "aliases": [
     {
       "name": "Asasabonsam",
@@ -36,5 +37,101 @@
   "origin": "Akan-speaking regions of southern Ghana and adjoining areas of Togo and Côte d'Ivoire; with diaspora attestations in Akan-influenced Caribbean folklore.",
   "first_reported": "1923",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Akan (Twi)",
+    "meaning": "From sasa ('spirit, ghost, vital force', especially of an aggrieved dead) + bonsam ('devil, evil being') — broadly 'spirit-devil' or 'wraith-devil'",
+    "first_use": "Recorded ethnographically by R. S. Rattray in his Ashanti studies (1923, 1927)"
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "1923-01-01",
+      "event": "R. S. Rattray's 'Ashanti' published, including descriptions of Sasabonsam",
+      "significance": "Foundational ethnographic record",
+      "source": "Rattray, R. S. (1923), 'Ashanti', Oxford University Press"
+    },
+    {
+      "date": "1927-01-01",
+      "event": "Rattray's 'Religion and Art in Ashanti' published, with further detail on Sasabonsam and obayifo",
+      "significance": "Major synthesis of Akan religious belief",
+      "source": "Rattray, R. S. (1927), 'Religion and Art in Ashanti', Oxford University Press"
+    },
+    {
+      "date": "1928-01-01",
+      "event": "L. W. G. Malcolm collects a wooden Sasabonsam carving from an Aowin shrine in southwestern Ghana; the figure later enters the Pitt Rivers Museum, Oxford",
+      "significance": "Best-known surviving Akan material representation of the figure",
+      "source": "Pitt Rivers Museum collection records"
+    }
+  ],
+  "related": [
+    {
+      "id": "obayifo",
+      "name": "Obayifo",
+      "relationship": "related",
+      "description": "Akan soul-eating witch, in some accounts a servant or counterpart of Sasabonsam"
+    },
+    {
+      "id": "adze",
+      "name": "Adze",
+      "relationship": "similar",
+      "description": "Ewe (Togo/Ghana/Benin) firefly-vampire spirit; structurally analogous within West African vampire belief"
+    },
+    {
+      "id": "asanbosam",
+      "name": "Asanbosam",
+      "relationship": "regional_variant",
+      "description": "Anglicised variant spelling used in fantasy and gaming literature, ultimately the same figure"
+    },
+    {
+      "id": "soucouyant",
+      "name": "Soucouyant",
+      "relationship": "similar",
+      "description": "Caribbean vampire-witch with structural parallels via Akan diaspora"
+    }
+  ],
+  "cultural_notes": "Strong forest taboos: avoid sacred groves, observe non-hunting days, do not travel alone after dark in the deep forest. Protective amulets are worn against Sasabonsam and obayifo.",
+  "sources": [
+    {
+      "id": "wikipedia-sasabonsam",
+      "type": "website",
+      "title": "Sasabonsam — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sasabonsam",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "rattray-1923",
+      "type": "book",
+      "title": "Ashanti",
+      "authors": [
+        "R. S. Rattray"
+      ],
+      "publication": "Oxford: Clarendon Press",
+      "date": "1923"
+    },
+    {
+      "id": "rattray-1927",
+      "type": "book",
+      "title": "Religion and Art in Ashanti",
+      "authors": [
+        "R. S. Rattray"
+      ],
+      "publication": "Oxford: Clarendon Press",
+      "date": "1927"
+    },
+    {
+      "id": "pittrivers-sasabonsam",
+      "type": "website",
+      "title": "Sasabonsam figure (Pitt Rivers Museum)",
+      "publication": "Pitt Rivers Museum, University of Oxford",
+      "url": "https://www.prm.ox.ac.uk",
+      "accessed": "2026-05-07"
+    }
+  ],
+  "locations": []
 }

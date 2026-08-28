@@ -3,6 +3,7 @@
   "name": "Marozi",
   "category": "cryptid",
   "description": "A reported small, highland-dwelling lion of East Africa with retained leopard-like spots into adulthood and a reduced or absent mane. Two specimens were shot in the Kenyan Aberdares in 1931 but no living example or accepted subspecies has been confirmed.",
+  "full_description": "The Marozi, also called the spotted lion or Aberdare lion, is a cryptid felid reported from the high-altitude forests of Kenya, particularly the Aberdare Range and surrounding montane areas at roughly 3,000–3,800 m (10,000–12,500 ft). Witnesses describe a smaller-bodied lion than the savanna form, retaining the rosette or 'jigsaw' spots that ordinary lion cubs lose in adulthood, with males sporting only a sparse, ruff-like mane. The best-known piece of physical evidence is the pair of skins and a skull collected by farmer Michael Trent in 1931 in the Aberdares; the skull was later examined at the Natural History Museum, London, where Reginald Innes Pocock published a description noting the unusual size and dentition. Subsequent reports were collected by hunters and colonial administrators (R. E. Dent, G. Hamilton-Snowball, Kenneth Gandar Dower's 1933 expedition). Mainstream zoology generally regards the Marozi as a small, montane ecotype of Panthera leo retaining juvenile pelage rather than a distinct species or subspecies; cryptozoologists have at times suggested a relict highland form or a natural lion–leopard hybrid.",
   "aliases": [
     {
       "name": "Spotted Lion",
@@ -50,5 +51,130 @@
   "origin": "Reports concentrated in the Kenyan central highlands — particularly the Aberdare Range, the Mau Escarpment edge, and the Kinangop Plateau — with neighbouring reports from highland Tanzania, Uganda, and the Virunga / Rwanda border (sometimes treated as the related ikimizi and ntararago).",
   "first_reported": "1903",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "From Swahili / regional East African languages of the Kenyan highlands; the form 'marozi' is the term recorded by colonial-era hunters and naturalists in the early 20th century.",
+    "meaning": "A name used by local people for a spotted, mountain-dwelling lion-like cat distinguished from the lowland lion (simba) and the leopard (chui).",
+    "first_use": "Recorded in English-language zoological literature in the 1930s, following the 1931 Trent specimens"
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0,
+    "date_range": {
+      "earliest": "1903",
+      "latest": "1950"
+    }
+  },
+  "timeline": [
+    {
+      "date": "1903",
+      "event": "Col. Richard Meinertzhagen reports dark, rosette-marked lions in the Kenyan mountains",
+      "significance": "Earliest cited European-language reference",
+      "source": "Wikipedia, citing colonial-era game reports"
+    },
+    {
+      "date": "1931-01-01",
+      "event": "Farmer Michael Trent shoots two spotted lions in the Aberdare Range at c. 10,000 ft (3,000 m); skins and a skull are preserved",
+      "significance": "Only physical specimens directly attributed to the Marozi",
+      "source": "Pocock, R. I. (1937), Field 169"
+    },
+    {
+      "date": "1933-01-01",
+      "event": "Kenneth Gandar Dower leads an expedition into the Aberdares; reports three sets of spoor following game",
+      "significance": "Earliest dedicated cryptozoological expedition for the marozi",
+      "source": "Gandar Dower, K. (1937), The Spotted Lion"
+    },
+    {
+      "date": "1937-01-01",
+      "event": "R. I. Pocock publishes a description of the Trent skull in The Field, treating it as a lion (Panthera leo) of unusual highland habitat",
+      "significance": "Anchors the scientific framing of the marozi as a montane lion ecotype",
+      "source": "Pocock, R. I. (1937), The Field"
+    }
+  ],
+  "related": [
+    {
+      "id": "mngwa",
+      "name": "Mngwa",
+      "relationship": "similar",
+      "description": "Tanzanian mystery cat reported in coastal villages"
+    },
+    {
+      "id": "nandi-bear",
+      "name": "Nandi Bear",
+      "relationship": "related",
+      "description": "Another East African cryptid reported from the Kenyan highlands"
+    },
+    {
+      "id": "ntararago",
+      "name": "Ikimizi / Ntararago",
+      "relationship": "regional_variant",
+      "description": "Spotted lion-like cat reported in the Virunga / Rwanda highlands"
+    }
+  ],
+  "cultural_notes": "The marozi is generally not framed as a supernatural being; East African oral tradition treats it as a real but uncommon mountain cat.",
+  "sources": [
+    {
+      "id": "gandar-dower-1937",
+      "type": "book",
+      "title": "The Spotted Lion",
+      "authors": [
+        "Kenneth Gandar Dower"
+      ],
+      "publication": "Heinemann",
+      "date": "1937"
+    },
+    {
+      "id": "pocock-1937",
+      "type": "article",
+      "title": "The spotted lion",
+      "authors": [
+        "Reginald Innes Pocock"
+      ],
+      "publication": "The Field",
+      "date": "1937"
+    },
+    {
+      "id": "heuvelmans-1955",
+      "type": "book",
+      "title": "On the Track of Unknown Animals",
+      "authors": [
+        "Bernard Heuvelmans"
+      ],
+      "publication": "Rupert Hart-Davis",
+      "date": "1955"
+    },
+    {
+      "id": "shuker-1989",
+      "type": "book",
+      "title": "Mystery Cats of the World",
+      "authors": [
+        "Karl P. N. Shuker"
+      ],
+      "publication": "Robert Hale",
+      "date": "1989",
+      "isbn": "978-0709034988"
+    },
+    {
+      "id": "wikipedia-marozi",
+      "type": "website",
+      "title": "Marozi",
+      "url": "https://en.wikipedia.org/wiki/Marozi",
+      "publication": "Wikipedia",
+      "accessed": "2026-05-07"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Aberdare Range",
+      "lat": -0.3833,
+      "lng": 36.7167
+    },
+    {
+      "name": "Kinangop Plateau",
+      "lat": -0.7,
+      "lng": 36.6
+    }
+  ]
 }

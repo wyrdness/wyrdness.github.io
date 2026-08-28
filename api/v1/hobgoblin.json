@@ -3,6 +3,7 @@
   "name": "Hobgoblin",
   "category": "fae_folklore",
   "description": "A small, hairy household sprite of English and broader British folklore, originally helpful or merely mischievous and only later conflated with malevolent goblins.",
+  "full_description": "A hobgoblin is a small humanoid spirit of English folklore, traditionally distinguished from goblins by being friendly or merely mischievous rather than malevolent. The first element 'hob' (attested in English by around 1530) is a familiar diminutive of 'Robert' and was used for household sprites associated with the hearth — particularly the 'hob', the flat metal shelf or recess beside a fireplace. Hobgoblins are typically described as small, hairy, often dressed in rags, and attached to a particular farm or household, performing nightly chores in exchange for offerings of milk or bread. Like brownies, they may turn destructive (becoming a 'boggart' in some traditions) if mistreated or formally paid. The most famous hobgoblin is Robin Goodfellow, identified by Shakespeare with Puck in A Midsummer Night's Dream (c. 1595). After the Reformation and the gradual Christianisation of English folklore, the term 'hobgoblin' shifted in meaning, drifting toward the modern sense of a small malevolent goblin. Regional names for hobgoblin-like figures include Dobby in Lancashire and Yorkshire, the Scottish bauchan, and the Welsh bwbach.",
   "aliases": [
     {
       "name": "Hob",
@@ -59,5 +60,116 @@
   "origin": "Hobgoblin and hob traditions are concentrated in England — particularly the north and Midlands — and in adjacent parts of the British Isles. Closely related figures appear in Scottish, Welsh, and Manx folklore.",
   "first_reported": "Early 16th century",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Middle English compound from 'hob' (a familiar diminutive of the personal name 'Robert', used for household sprites) and 'goblin' (a small malevolent or mischievous creature, ultimately from medieval Latin gobelinus).",
+    "meaning": "Originally 'a hob's goblin' or 'goblin of the hob (hearth)', i.e. a household sprite. The modern sense has often shifted toward 'a small frightening goblin', inverting the original friendly connotation.",
+    "first_use": "'Hob' as a name for a household sprite is attested by c. 1530 in English."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "1530-01-01",
+      "event": "Earliest known English usage of 'hob' as a name for a household sprite",
+      "significance": "Establishes the linguistic foundation of the hobgoblin tradition",
+      "source": "Etymological surveys cited in the Wikipedia article on hobgoblin"
+    },
+    {
+      "date": "1595-01-01",
+      "event": "William Shakespeare composes A Midsummer Night's Dream, identifying Puck with Robin Goodfellow and the hobgoblin",
+      "significance": "The hobgoblin enters elite English literary culture and is fixed as a friendly trickster",
+      "source": "Shakespeare, A Midsummer Night's Dream (c. 1595)"
+    },
+    {
+      "date": "1628-01-01",
+      "event": "Anonymous chapbook Robin Good-Fellow, His Mad Prankes and Merry Jests printed (circulating earlier in oral tradition)",
+      "significance": "Popularises Robin Goodfellow as the canonical hobgoblin of English folklore",
+      "source": "Robin Good-Fellow, His Mad Prankes and Merry Jests (1628)"
+    }
+  ],
+  "related": [
+    {
+      "id": "brownie",
+      "name": "Brownie",
+      "relationship": "similar",
+      "description": "Helpful Scottish household sprite very close in role and behaviour"
+    },
+    {
+      "id": "puck",
+      "name": "Puck",
+      "relationship": "subset",
+      "description": "Mischievous English sprite identified by Shakespeare as a hobgoblin"
+    },
+    {
+      "id": "boggart",
+      "name": "Boggart",
+      "relationship": "counterpart",
+      "description": "Malevolent or hostile counterpart to a household hobgoblin in northern English tradition"
+    },
+    {
+      "id": "goblin",
+      "name": "Goblin",
+      "relationship": "related",
+      "description": "Generic small malevolent humanoid sprite; modern usage has partly conflated the two"
+    },
+    {
+      "id": "bauchan",
+      "name": "Bauchan",
+      "relationship": "regional_variant",
+      "description": "Scottish Highland equivalent of the hobgoblin"
+    },
+    {
+      "id": "bwbach",
+      "name": "Bwbach",
+      "relationship": "regional_variant",
+      "description": "Welsh equivalent of the hobgoblin"
+    }
+  ],
+  "cultural_notes": "Treated as a real category of household spirit in traditional belief, with codified rules of offerings, courteous conduct, and avoidance of formal payment.",
+  "sources": [
+    {
+      "id": "wikipedia-hobgoblin-2026",
+      "type": "website",
+      "title": "Hobgoblin",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Hobgoblin",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "shakespeare-mnd",
+      "type": "book",
+      "title": "A Midsummer Night's Dream",
+      "authors": [
+        "William Shakespeare"
+      ],
+      "publication": "First published in quarto, London",
+      "date": "1600"
+    },
+    {
+      "id": "keightley-1828",
+      "type": "book",
+      "title": "The Fairy Mythology",
+      "authors": [
+        "Thomas Keightley"
+      ],
+      "publication": "London",
+      "date": "1828"
+    },
+    {
+      "id": "briggs-1976",
+      "type": "book",
+      "title": "An Encyclopedia of Fairies: Hobgoblins, Brownies, Bogies, and Other Supernatural Creatures",
+      "authors": [
+        "Katharine Briggs"
+      ],
+      "publication": "Pantheon Books",
+      "date": "1976"
+    }
+  ],
+  "locations": []
 }

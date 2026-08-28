@@ -3,6 +3,7 @@
   "name": "Glastonbury Tor",
   "category": "location",
   "description": "A 158-metre (518-foot) conical hill near Glastonbury, Somerset, England, topped by the roofless 14th-century tower of St Michael's Church. Long associated with Arthurian Avalon, with Celtic Otherworld traditions, and with modern earth-mysteries and pilgrimage culture; now a National Trust property.",
+  "full_description": "Glastonbury Tor is a conical hill rising 158 metres (518 feet) above the Somerset Levels at coordinates 51°08′40″N 2°41′55″W. Geologically, it is formed of Jurassic Bridport Sand Formation strata that act as a caprock protecting underlying limestone and clay. Its slopes are cut by seven prominent terraces (lynchets) of disputed origin; explanations include medieval agricultural use, defensive ramparts, a pilgrimage spiral, or a three-dimensional labyrinth (a hypothesis advanced from 1968). Archaeological excavation by Philip Rahtz between 1964 and 1966 confirmed Dark Age (5th–7th century) occupation including post-holes, hearths, north-south burials, Mediterranean amphora fragments, and a hollow bronze head, indicating high-status Christian or hermitic activity. A timber church dedicated to St Michael was built on the summit in the 11th or 12th century. It was destroyed by an earthquake on 11 September 1275 — an event recorded across England by contemporary chroniclers and confirmed in modern seismological reviews. A second stone church was built in the 14th century by Abbot Adam of Sodbury; only its tower survived the Dissolution of the Monasteries in 1539, when the last Abbot of Glastonbury, Richard Whiting, and two monks were hanged, drawn and quartered at the Tor's summit. Medieval and modern legend identifies the Tor with Avalon (Gerald of Wales, c. 1191–1216), with the supposed 1191 'discovery' of King Arthur and Guinevere's grave at Glastonbury Abbey. In Celtic-Welsh tradition the Tor is associated with Gwyn ap Nudd, lord of the Otherworld (Annwn). The site is central to a wide range of modern esoteric traditions, including Katharine Maltwood's 1927 'Glastonbury Zodiac' theory, John Michell's ley-line writings, and contemporary Goddess-movement and pagan pilgrimage. The National Trust acquired the Tor in 1937 (after Robert Neville-Grenville's bequest); it now welcomes hundreds of thousands of visitors annually.",
   "aliases": [
     {
       "name": "Ynys Wydrin",
@@ -38,5 +39,151 @@
   "origin": "A single, fixed location near Glastonbury, Somerset, southwestern England. Cultural and pilgrimage 'distribution' extends across the British Isles and to international neopagan, Goddess-movement, and New Age communities.",
   "first_reported": "Pre-history",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "'Tor' is a West Country English word for a high rocky hill, from Old English torr. The town name 'Glastonbury' comes from Old English Glæstingaburg, the stronghold of the Glæstingas.",
+    "meaning": "Glastonbury Tor — 'the hill above the stronghold of the Glæstingas'.",
+    "first_use": "'Glastonbury' attested in Old English from the 8th–10th century"
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "1964-01-01",
+      "event": "Philip Rahtz begins archaeological excavations at the summit (1964–1966)",
+      "significance": "Modern archaeology confirms Dark Age and medieval occupation",
+      "source": "Rahtz, P. (1971), Excavations on Glastonbury Tor"
+    },
+    {
+      "date": "1191-01-01",
+      "event": "Glastonbury Abbey monks claim to have discovered the graves of King Arthur and Queen Guinevere; Gerald of Wales records the discovery",
+      "significance": "Anchors the Tor's identification with Avalon",
+      "source": "Gerald of Wales, Liber de Principis Instructione (c. 1216)"
+    },
+    {
+      "date": "1275-09-11",
+      "event": "Earthquake destroys the original timber church of St Michael atop the Tor",
+      "significance": "Key dating event for the Tor's medieval church history",
+      "source": "British Geological Survey historical earthquake catalogue"
+    },
+    {
+      "date": "1539-11-15",
+      "event": "Last Abbot of Glastonbury Richard Whiting and monks John Thorne and Roger James are hanged, drawn and quartered at the Tor; the second stone church is demolished, tower preserved",
+      "significance": "End of the medieval ecclesiastical site; the tower becomes its lasting monument",
+      "source": "Wikipedia, Glastonbury Tor; English Heritage"
+    },
+    {
+      "date": "1927-01-01",
+      "event": "Katharine Maltwood proposes that a vast 'Glastonbury Zodiac' is laid out in the surrounding landscape, with the Tor forming part of Aquarius",
+      "significance": "Founding text of modern Glastonbury earth mysteries",
+      "source": "Maltwood, K. (1934), A Guide to Glastonbury's Temple of the Stars"
+    },
+    {
+      "date": "1937-01-01",
+      "event": "National Trust takes ownership of the Tor following Robert Neville-Grenville's bequest (he died 1936)",
+      "significance": "Permanent public stewardship",
+      "source": "National Trust"
+    },
+    {
+      "date": "1969-01-01",
+      "event": "John Michell publishes 'The View Over Atlantis', proposing the 'St Michael's Line' ley running through the Tor",
+      "significance": "Cornerstone of modern British ley-line theory",
+      "source": "Michell, J. (1969), The View Over Atlantis"
+    },
+    {
+      "date": "2012-07-27",
+      "event": "Glastonbury Tor model features in the London Olympic Games opening ceremony, with athletes' flags placed on its terraces",
+      "significance": "International recognition as iconic English landmark",
+      "source": "Wikipedia, Glastonbury Tor"
+    }
+  ],
+  "related": [
+    {
+      "id": "ley-lines",
+      "name": "Ley lines",
+      "relationship": "related",
+      "description": "The Tor is widely cited in modern ley-line theory as a major node, particularly on the 'St Michael's Line'"
+    },
+    {
+      "id": "stonehenge",
+      "name": "Stonehenge",
+      "relationship": "similar",
+      "description": "Another iconic British prehistoric and ritual site frequently linked to the Tor in earth-mysteries literature"
+    },
+    {
+      "id": "sedona-vortexes",
+      "name": "Sedona vortexes",
+      "relationship": "similar",
+      "description": "Modern 'energy site' analogue in the United States"
+    },
+    {
+      "id": "haunted-places",
+      "name": "Haunted places (general)",
+      "relationship": "related",
+      "description": "The Tor and its tower are reported as haunted in local folklore"
+    }
+  ],
+  "cultural_notes": "The Tor is widely regarded as a sacred hill — Christian, pagan, and Arthurian — and as a focal point for the modern Goddess movement. Beliefs range from devout Christian pilgrimage and Anglican practice to Goddess-and-God pagan rite, druidic ceremony, and secular cultural tourism.",
+  "sources": [
+    {
+      "id": "wikipedia-glastonbury-tor",
+      "type": "website",
+      "title": "Glastonbury Tor",
+      "url": "https://en.wikipedia.org/wiki/Glastonbury_Tor",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "rahtz-1971",
+      "type": "book",
+      "title": "Excavations on Glastonbury Tor, Somerset, 1964–1966",
+      "authors": [
+        "Philip Rahtz"
+      ],
+      "publication": "Archaeological Journal",
+      "date": "1971"
+    },
+    {
+      "id": "michell-1969",
+      "type": "book",
+      "title": "The View Over Atlantis",
+      "authors": [
+        "John Michell"
+      ],
+      "publication": "Sago Press",
+      "date": "1969"
+    },
+    {
+      "id": "maltwood-1934",
+      "type": "book",
+      "title": "A Guide to Glastonbury's Temple of the Stars",
+      "authors": [
+        "Katharine Maltwood"
+      ],
+      "publication": "John M. Watkins",
+      "date": "1934"
+    },
+    {
+      "id": "national-trust-tor",
+      "type": "website",
+      "title": "Glastonbury Tor — National Trust",
+      "url": "https://www.nationaltrust.org.uk/visit/somerset/glastonbury-tor",
+      "accessed": "2026-05-07"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Glastonbury Tor summit",
+      "lat": 51.1444,
+      "lng": -2.6986
+    },
+    {
+      "name": "Chalice Well",
+      "lat": 51.1428,
+      "lng": -2.7036
+    }
+  ]
 }

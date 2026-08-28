@@ -3,6 +3,7 @@
   "name": "Bogeyman",
   "category": "entity_spirit",
   "description": "The Bogeyman is a universal folkloric figure found in virtually every human culture — a deliberately vague, formless monster invoked by caregivers to frighten children into obedience, with its shapelessness allowing each child's imagination to supply the most personally terrifying details.",
+  "full_description": "The Bogeyman (also spelled Boogeyman in American English) is among the most widely distributed of all folkloric entities, with analogous figures documented in virtually every culture worldwide. Unlike most supernatural creatures, the Bogeyman is deliberately without fixed form — it may be under the bed, in the closet, outside the window, or lurking in darkness — and its vagueness is functional: children's imaginations supply the most frightening details specific to their own fears. The creature serves a consistent social function across cultures: it is invoked by parents, grandparents, and other caregivers to enforce bedtime, discourage dangerous behavior, prevent children from straying, and promote general obedience. Spanish-speaking cultures have El Coco (Iberian) and El Cucuy (Latin American), who take children who refuse to sleep. Italian tradition has Babau, described as a tall man in a black coat and hood. German tradition has the Butzemann. Iberian and Latin American traditions include the Sack Man, who carries away misbehaving children in a sack. Afghan tradition features Madar-i-Al, a nocturnal hag. Vietnamese tradition describes Ong ke with multiple jaws and eyes. In every case the structure is identical: a being of undefined form that threatens children who misbehave, won't sleep, or disobey authority. The English term likely derives from Middle English 'bugge' or 'bogge' (frightening specter, terror) with cognates across multiple European languages. The universality of the Bogeyman across unconnected cultures suggests it serves a deep structural role in the transmission of social norms to children — fear as a pedagogical tool.",
   "aliases": [
     {
       "name": "Boogeyman",
@@ -82,5 +83,55 @@
   "origin": "The Bogeyman concept is genuinely global — documented on every inhabited continent, in cultures with no historical contact. This universality makes it one of the most widely distributed folkloric entities in human culture.",
   "first_reported": "Pre-contact",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "The English 'Bogeyman' likely derives from Middle English 'bugge' or 'bogge', meaning a frightening specter or terror. The word has cognates throughout European languages including Scottish 'bogle', German 'Butzemann', and possibly Welsh 'bwg' (ghost). The 'bogey' element appears in many English compound words for supernatural threats. The connection to 'Bug' (as in bugbear) is also proposed.",
+    "meaning": "A frightening spectral being; a monster that takes misbehaving children.",
+    "first_use": "The word 'bogey' appears in Middle English; the compound 'bogeyman' became common in 19th-century English usage"
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "1400-01-01",
+      "event": "Middle English 'bugge' and Scots 'bogle' in use as terms for frightening specters; antecedents of the English Bogeyman",
+      "significance": "Earliest documented English linguistic ancestors of the Bogeyman concept",
+      "source": "Middle English lexicographical sources"
+    }
+  ],
+  "related": [
+    {
+      "id": "krampus",
+      "name": "Krampus",
+      "relationship": "similar",
+      "description": "Alpine Germanic disciplinary figure for Christmas season; more specifically defined than the Bogeyman but serves the same child-discipline function"
+    },
+    {
+      "id": "el-coco",
+      "name": "El Coco",
+      "relationship": "regional_variant",
+      "description": "Spanish and Latin American Bogeyman equivalent"
+    },
+    {
+      "id": "black-peter",
+      "name": "Black Peter (Zwarte Piet)",
+      "relationship": "related",
+      "description": "Dutch disciplinary figure associated with the Sinterklaas tradition; takes bad children in his sack"
+    }
+  ],
+  "cultural_notes": "The Bogeyman is a universally constructed disciplinary figure. In most cultures, children believe in it; adults use it instrumentally. The figure represents one of humanity's most widespread strategies for socializing children into compliance with behavioral norms through managed fear.",
+  "sources": [
+    {
+      "id": "wikipedia-bogeyman",
+      "type": "website",
+      "title": "Bogeyman",
+      "url": "https://en.wikipedia.org/wiki/Bogeyman",
+      "accessed": "2026-05-08"
+    }
+  ],
+  "locations": []
 }

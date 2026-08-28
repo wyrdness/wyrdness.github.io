@@ -3,6 +3,7 @@
   "name": "Nurikabe",
   "category": "entity_spirit",
   "description": "A Japanese yōkai of folklore from northern Kyushu that manifests as an invisible barrier blocking the path of nighttime travelers. Defeating it traditionally requires sweeping a stick along its base.",
+  "full_description": "Nurikabe (塗壁, ぬりかべ, 'plastered wall') is a yōkai documented in folk traditions of northern Kyushu — particularly Onga County in former Chikuzen Province (modern Fukuoka Prefecture) and adjacent parts of Ōita Prefecture. It manifests as an invisible obstruction that suddenly bars a traveler's path on a road at night: attempts to walk around or above it fail, since the wall extends as needed. Folklorist Kunio Yanagita's 1938 collection records that 'when one is walking a path at night, suddenly the destination one is going towards turns into a wall'. The traditional remedy, recorded in the same regional sources, is to sweep a stick along the bottom of the wall — striking the top has no effect. Until 2007 the creature was thought to lack any pre-modern visual representation; that year, a c. 1660 yōkai handscroll held by Brigham Young University was identified as containing a labelled illustration of nurikabe shown as a three-eyed, dog-elephant-like beast, which is now considered the earliest extant depiction. The modern, beloved visual identity of nurikabe — a great rectangular wall with arms, legs and a face — was created by manga artist Mizuki Shigeru, who said the design grew out of a personal experience of an invisible obstruction during the Pacific War in New Guinea. Through Mizuki's GeGeGe no Kitarō series the character became a national icon. Skeptics and some cultural commentators interpret the original folk experience as a sleep-deprivation, fog or ground-hugging mist phenomenon known to nighttime travelers in the Kyushu countryside.",
   "aliases": [
     {
       "name": "Nurikabe",
@@ -34,5 +35,104 @@
   "origin": "Indigenous folk tradition is concentrated in northern Kyushu, especially Fukuoka Prefecture (former Chikuzen Province) and Ōita Prefecture. The figure is now nationally and internationally recognised through Mizuki Shigeru's manga.",
   "first_reported": "c. 1660",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Japanese: 塗 (nuru, 'to plaster, paint, smear') + 壁 (kabe, 'wall')",
+    "meaning": "'Plastered wall' or 'painted wall'; also rendered 塗り壁",
+    "first_use": "Recorded in 20th-century Kyushu folklore collections (notably Yanagita Kunio, 1938); the BYU c. 1660 scroll labels its creature 'nurikabe', placing the term in the mid-Edo period"
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "c. 1660",
+      "event": "Earliest known illustrated record: a yōkai handscroll labelled with the name 'nurikabe', later acquired by the L. Tom Perry Special Collections at Brigham Young University",
+      "significance": "Pushes documented existence of the figure to the mid-Edo period",
+      "source": "Brigham Young University, BYU Magazine"
+    },
+    {
+      "date": "1938",
+      "event": "Folklorist Kunio Yanagita publishes accounts of nurikabe in folk-tale collections, locating it in Onga County, Fukuoka",
+      "significance": "Establishes the canonical folkloric narrative",
+      "source": "Yanagita Kunio, folklore writings"
+    },
+    {
+      "date": "1968",
+      "event": "Mizuki Shigeru's GeGeGe no Kitarō introduces the iconic anthropomorphic wall design",
+      "significance": "Modern visual identity of nurikabe; the character becomes a member of Kitarō's troupe",
+      "source": "Shōnen Magazine serialisation"
+    },
+    {
+      "date": "2007",
+      "event": "Yumoto Kōichi identifies the c. 1660 BYU scroll's creature as a labelled nurikabe",
+      "significance": "First confirmed pre-modern image of the yōkai",
+      "source": "BYU Magazine reporting"
+    }
+  ],
+  "related": [
+    {
+      "id": "nobiagari",
+      "name": "Nobiagari",
+      "relationship": "similar",
+      "description": "Yōkai that grows taller and taller before a traveler, similarly obstructive"
+    },
+    {
+      "id": "betobeto-san",
+      "name": "Betobeto-san",
+      "relationship": "similar",
+      "description": "Invisible road yōkai that follows night travelers"
+    },
+    {
+      "id": "tanuki",
+      "name": "Tanuki",
+      "relationship": "related",
+      "description": "In some regional accounts, mischievous tanuki are blamed for the same disorienting nighttime experiences"
+    },
+    {
+      "id": "nurarihyon",
+      "name": "Nurarihyon",
+      "relationship": "related",
+      "description": "Similarly known mainly through Edo emaki and revived by Mizuki Shigeru"
+    }
+  ],
+  "cultural_notes": "Tradition interprets nighttime obstruction on lonely roads as a yōkai attack rather than mere disorientation; the stick-sweeping remedy is canonical.",
+  "sources": [
+    {
+      "id": "wiki-nurikabe",
+      "type": "website",
+      "title": "Nurikabe",
+      "publication": "Wikipedia, the free encyclopedia",
+      "url": "https://en.wikipedia.org/wiki/Nurikabe",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "yokai-com-nurikabe",
+      "type": "website",
+      "title": "Nurikabe",
+      "publication": "yokai.com (Matthew Meyer)",
+      "url": "https://yokai.com/nurikabe/",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "byu-scroll",
+      "type": "article",
+      "title": "How BYU's 17th-Century Ghost Scroll Revealed a Mysterious Creature",
+      "publication": "BYU Magazine",
+      "url": "https://magazine.byu.edu/article/catching-an-invisible-ghost/",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "tofugu-nurikabe",
+      "type": "website",
+      "title": "Nurikabe: Hitting the Wall in Japan",
+      "publication": "Tofugu",
+      "url": "https://www.tofugu.com/japan/nurikabe/",
+      "accessed": "2026-05-07"
+    }
+  ],
+  "locations": []
 }

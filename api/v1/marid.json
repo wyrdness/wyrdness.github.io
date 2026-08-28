@@ -3,6 +3,7 @@
   "name": "Marid",
   "category": "entity_spirit",
   "description": "A category of powerful, rebellious jinn in Islamic theology and Arabian folklore. The Quran (37:7) speaks of stars guarding the lowest heaven against the 'rebellious devils' (shayṭānin māridin), and later Arabic literature, including the Thousand and One Nights, treats the Marid as among the strongest classes of jinn.",
+  "full_description": "Marid (Arabic مَارِد, mārid, 'rebellious') is a class of powerful jinn in Islamic theology and Arabian folklore. The term derives from the Arabic root m-r-d, meaning 'recalcitrant' or 'rebellious'. The Quran in Surah As-Saffat (37:7) describes stars adorning the lowest heaven and protecting it from 'every rebellious devil' (kulli shayṭānin māridin), establishing marids as entities that attempt to eavesdrop on heavenly affairs. Later Arabic theological and lexicographical tradition (e.g. Lisan al-Arab, Hans Wehr) treats marids as a distinct category of jinn, often paired or contrasted with the ʿifrīt: in the schema reported by some Maliki Athari scholars (such as Ibn ʿAbd al-Barr), the marid is more malevolent than an ordinary shayṭān but less powerful than an ʿifrīt; other sources reverse the ordering. In the MacNaghten edition of One Thousand and One Nights (e.g. The Story of the Fisherman and the Jinni), 'marid' and 'ifrit' are used somewhat interchangeably. Western popular culture, drawing on these stories and on later occult writing, has often pictured Marids as wish-granting water-spirits bound to vessels — a partial but distorted reflection of the Arabic tradition.",
   "aliases": [
     {
       "name": "مَارِد",
@@ -38,5 +39,104 @@
   "origin": "Pan-Islamic — present wherever Islamic theology and Arabic folklore are transmitted; especially prominent in classical Arabic literature.",
   "first_reported": "0610",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Arabic active participle of the root m-r-d ('to rebel, be recalcitrant'); cognate with Hebrew מָרַד (māraḏ, 'to rebel') and Aramaic forms.",
+    "meaning": "'Rebellious one'; in Islamic usage, a powerful, rebellious jinn or devil.",
+    "first_use": "Quran (mid-7th century CE), Surah As-Saffat 37:7."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "0610-01-01",
+      "event": "Quran (Surah As-Saffat 37:7) describes the lowest heaven adorned with stars to guard against 'rebellious devils' (shayṭānin māridin)",
+      "significance": "Earliest Quranic reference and foundational text",
+      "source": "Quran 37:7"
+    },
+    {
+      "date": "0900-01-01",
+      "event": "The classical Arabic story-cycle Alf Layla wa-Layla (One Thousand and One Nights) develops; marids and ifrits feature in stories such as The Fisherman and the Jinni",
+      "significance": "Anchors the marid in world literature",
+      "source": "MacNaghten edition of the Thousand and One Nights"
+    },
+    {
+      "date": "1290-01-01",
+      "event": "Ibn Manzur compiles Lisan al-Arab, including detailed lexical entries on marid",
+      "significance": "Major Arabic lexicographical source",
+      "source": "Ibn Manzur, Lisan al-Arab"
+    }
+  ],
+  "related": [
+    {
+      "id": "ifrit",
+      "name": "ʿIfrīt",
+      "relationship": "similar",
+      "description": "Another powerful class of jinn, often paired or contrasted with the marid"
+    },
+    {
+      "id": "ghoul",
+      "name": "Ghoul",
+      "relationship": "related",
+      "description": "Another category of dangerous Arabian supernatural being"
+    },
+    {
+      "id": "shaitan",
+      "name": "Shayṭān",
+      "relationship": "superset",
+      "description": "Broad category of devils to which marids and ifrits both belong in some traditions"
+    },
+    {
+      "id": "jinn",
+      "name": "Jinn",
+      "relationship": "superset",
+      "description": "The general class of beings created from smokeless fire in Islamic theology"
+    }
+  ],
+  "cultural_notes": "Marids are part of mainstream Islamic belief about the world of the unseen (al-ghayb); they are not regarded as folklore but as part of the created order.",
+  "sources": [
+    {
+      "id": "wikipedia-marid",
+      "type": "website",
+      "title": "Marid",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Marid",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "quran-37-7",
+      "type": "book",
+      "title": "Quran, Surah As-Saffat (37), v. 7",
+      "date": "0610"
+    },
+    {
+      "id": "lisan-al-arab",
+      "type": "book",
+      "title": "Lisan al-Arab",
+      "authors": [
+        "Ibn Manzur"
+      ],
+      "date": "1290"
+    },
+    {
+      "id": "macnaghten-1001-nights",
+      "type": "book",
+      "title": "Alf Layla wa-Layla (One Thousand and One Nights), MacNaghten edition",
+      "date": "1839"
+    },
+    {
+      "id": "wehr-dictionary",
+      "type": "book",
+      "title": "Dictionary of Modern Written Arabic",
+      "authors": [
+        "Hans Wehr"
+      ],
+      "date": "1979"
+    }
+  ],
+  "locations": []
 }

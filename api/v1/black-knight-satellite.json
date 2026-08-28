@@ -3,6 +3,7 @@
   "name": "Black Knight Satellite",
   "category": "conspiracy_theory",
   "description": "The Black Knight Satellite is a conspiracy theory alleging that a 13,000-year-old extraterrestrial spacecraft orbits Earth in a polar orbit, with NASA concealing its existence — a narrative assembled by conflating multiple entirely unrelated and separately debunked events spanning 1899 to 1998.",
+  "full_description": "The Black Knight Satellite conspiracy theory claims that an ancient alien spacecraft — variously said to be 13,000 years old — orbits Earth in a near-polar trajectory, and that NASA and other space agencies are concealing its existence. Investigators have established that the legend is not based on any single discovery but is an assemblage of multiple entirely unrelated events, misreports, and speculations spanning nearly a century, retrospectively linked into a single narrative. The components include: Nikola Tesla's 1899 radio signals (now attributed to pulsars, discovered in 1968); amateur operator Jørgen Hals's 1928 long-delayed echo observations; 1954 press reports from UFO author Donald Keyhoe about alleged Air Force satellite detections (impossible as no nation had satellite capability then — the reports were likely tongue-in-cheek); a 1960 Time magazine article about an unidentified dark object in orbit (subsequently confirmed to be debris from the failed U.S. Discoverer 8 satellite); Scottish author Duncan Lunan's 1973 speculation that long-delayed echoes might originate from a 13,000-year-old alien probe near the Moon (which Lunan himself later retracted, acknowledging 'outright errors' and 'unscientific' methodology); and photographs taken during the 1998 NASA Space Shuttle mission STS-88, which show a dark object in orbit that journalist James Oberg identified as a thermal blanket confirmed to have been lost during an extravehicular activity. Martina Redpath of Armagh Planetarium summarized the consensus: 'Black Knight is a jumble of completely unrelated stories; reports of unusual science observations, authors promoting fringe ideas, classified spy satellites and people over-interpreting photos.'",
   "aliases": [
     {
       "name": "The Black Knight",
@@ -28,5 +29,79 @@
   "origin": "The alleged object is described as being in low Earth polar orbit — a global orbit visible from both hemispheres.",
   "first_reported": "1954-01-01",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "The name 'Black Knight' was applied to the alleged satellite within UFO and conspiracy circles; no single coinage point is established. The 'Black Knight' designation may reference the black color of the object in the STS-88 photographs or may simply be a dramatic name applied to the concept.",
+    "meaning": "A dark, unidentified, supposedly alien satellite in polar orbit.",
+    "first_use": "The name emerged in conspiracy circles; widely used by the 2000s after the STS-88 photographs circulated online"
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "1899-01-01",
+      "event": "Nikola Tesla reports receiving unusual radio signals at his Colorado Springs laboratory; he speculated at the time they might be from another planet",
+      "significance": "Retrospectively incorporated into the Black Knight legend; now attributed to natural radio sources",
+      "source": "Tesla's own accounts; subsequently attributed to pulsars"
+    },
+    {
+      "date": "1928-01-01",
+      "event": "Amateur radio operator Jørgen Hals in Oslo reports receiving long-delayed echoes (LDEs) — radio signals returning seconds to minutes after transmission; unexplained at the time",
+      "significance": "Retrospectively incorporated into the Black Knight legend; LDEs have natural electromagnetic explanations",
+      "source": "Radio engineering literature; van der Pol et al. (1928)"
+    },
+    {
+      "date": "1954-01-01",
+      "event": "UFO author Donald Keyhoe reports in the press that the U.S. Air Force has detected two artificial satellites in polar orbit; impossible as no nation had orbital launch capability in 1954",
+      "significance": "First specifically named 'Black Knight'-style claim of unidentified orbital objects; widely assessed as unfounded or tongue-in-cheek",
+      "source": "Press reports cited in Black Knight Satellite conspiracy literature"
+    },
+    {
+      "date": "1960-01-01",
+      "event": "Time magazine reports a dark unidentified object in polar orbit detected by the U.S. Navy; follow-up coverage confirmed it was debris from the failed U.S. Discoverer 8 spy satellite",
+      "significance": "Provides the core 'unidentified object in polar orbit' narrative; debunked as American satellite debris",
+      "source": "Time magazine (1960); follow-up reporting"
+    },
+    {
+      "date": "1973-01-01",
+      "event": "Scottish astronomer Duncan Lunan publishes 'Interstellar Contact' including his interpretation of 1920s long-delayed echoes as messages from an alien probe near the Moon from the Epsilon Boötis system; he later retracted these conclusions, acknowledging 'outright errors' and 'unscientific' methodology",
+      "significance": "Provides the '13,000-year-old' age claim that became central to the Black Knight legend; source himself retracted it",
+      "source": "Lunan, D. (1973), Interstellar Contact; subsequent retraction"
+    },
+    {
+      "date": "1998-12-01",
+      "event": "During Space Shuttle mission STS-88, photographs are taken of a dark object floating in orbit; NASA identifies it as a thermal blanket lost during a spacewalk; journalist James Oberg confirms the identification as Trunnion Pin Thermal Cover No. 3",
+      "significance": "The photographs become the primary 'photographic evidence' cited in the Black Knight Satellite conspiracy theory; the object is definitively identified as space debris",
+      "source": "NASA STS-88 mission records; Oberg, J., subsequent analysis"
+    }
+  ],
+  "related": [
+    {
+      "id": "ancient-aliens",
+      "name": "Ancient Aliens theory",
+      "relationship": "related",
+      "description": "The Black Knight Satellite is often cited within the broader ancient aliens framework as evidence of extraterrestrial contact in human prehistory"
+    },
+    {
+      "id": "ufo-uap",
+      "name": "UFO / UAP",
+      "relationship": "related",
+      "description": "The alleged satellite is treated as a category of UFO evidence by proponents"
+    }
+  ],
+  "cultural_notes": "The Black Knight Satellite is primarily an internet-era legend. It resonates with Cold War suspicions about secret government space programs, the ancient aliens hypothesis, and distrust of NASA. It is widely circulated on conspiracy and UFO websites despite thorough debunking.",
+  "sources": [
+    {
+      "id": "wikipedia-bks",
+      "type": "website",
+      "title": "Black Knight satellite conspiracy theory",
+      "url": "https://en.wikipedia.org/wiki/Black_Knight_satellite_conspiracy_theory",
+      "accessed": "2026-05-08"
+    }
+  ],
+  "locations": []
 }

@@ -3,6 +3,7 @@
   "name": "Nine-Tailed Fox",
   "category": "shapeshifter",
   "description": "A powerful fox spirit of East Asian mythology, distinguished by nine tails. It can live for centuries, accumulate spiritual power, and shapeshift into a beautiful human — beneficent in early Chinese tradition, often seductive and dangerous in later accounts.",
+  "full_description": "The nine-tailed fox (Chinese 九尾狐 jiǔwěihú; Korean 구미호 gumiho; Japanese 九尾の狐 kyūbi no kitsune; Vietnamese hồ ly tinh) is one of the most influential supernatural figures of East Asian mythology. The earliest reference appears in the Shanhaijing (Classic of Mountains and Seas), which describes a nine-tailed fox in the land of Qingqiu (青丘). In early Chinese tradition the nine-tailed fox was an auspicious omen associated with rulership and harmony; later, particularly from the Han onwards, it shifted toward an ambivalent and then frequently malevolent figure — a spiritually advanced fox capable of shapeshifting into a beautiful woman to bewitch and harm men. Scholar Guo Pu (276–324 CE) systematised the idea that foxes acquire transformative powers with age (50, 100, 1000 years), and the celestial nine-tailed fox is described in the Tang-dynasty Youyang Zazu as serving in the Palace of the Sun and Moon. Korean tradition (gumiho) typically frames the nine-tailed fox as a dangerous female spirit, while modern Japanese tradition incorporates the kitsune complex and the Tamamo-no-Mae legend. The figure remains massively present in contemporary East Asian and global popular culture.",
   "aliases": [
     {
       "name": "九尾狐",
@@ -50,5 +51,83 @@
   "origin": "East Asia: China, Korea, Japan, and Vietnam.",
   "first_reported": "Pre-Han period",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Chinese 九 (nine) + 尾 (tail) + 狐 (fox)",
+    "meaning": "Literally 'nine-tailed fox'; tails accumulate with age and spiritual cultivation",
+    "first_use": "Shanhaijing (Classic of Mountains and Seas), pre-Han China"
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "Pre-Han period",
+      "event": "Shanhaijing locates the nine-tailed fox in the land of Qingqiu",
+      "significance": "Earliest known textual reference",
+      "source": "Shanhaijing (Classic of Mountains and Seas)"
+    },
+    {
+      "date": "276-01-01",
+      "event": "Birth of Guo Pu (276–324 CE), who would systematise fox-spirit transformation theory",
+      "significance": "Anchors the canonical scheme of fox transformation by age (50/100/1000 years)",
+      "source": "Wikipedia, 'Nine-tailed fox'; classical biographies of Guo Pu"
+    },
+    {
+      "date": "0863-01-01",
+      "event": "Compilation of the Tang-dynasty Youyang Zazu (c. 863 CE) with its description of celestial nine-tailed foxes serving in the Palace of the Sun and Moon",
+      "significance": "Major Tang-era systematisation of nine-tailed fox lore",
+      "source": "Duan Chengshi, Youyang Zazu"
+    }
+  ],
+  "related": [
+    {
+      "id": "kitsune",
+      "name": "Kitsune",
+      "relationship": "superset",
+      "description": "Japanese fox spirit complex of which the nine-tailed kyūbi no kitsune is the most powerful form"
+    },
+    {
+      "id": "huli-jing",
+      "name": "Huli jing",
+      "relationship": "superset",
+      "description": "Chinese fox spirit class; the nine-tailed fox is its highest form"
+    },
+    {
+      "id": "gumiho",
+      "name": "Gumiho",
+      "relationship": "regional_variant",
+      "description": "Korean nine-tailed fox tradition"
+    }
+  ],
+  "cultural_notes": "The nine-tailed fox is variously seen as auspicious omen, dangerous seductress, demonic temptress, and celestial servant, depending on tradition and era.",
+  "sources": [
+    {
+      "id": "wikipedia-nine-tailed-fox",
+      "type": "website",
+      "title": "Nine-tailed fox",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Nine-tailed_fox",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "shanhaijing",
+      "type": "book",
+      "title": "Shanhaijing (Classic of Mountains and Seas)",
+      "date": "Pre-Han period"
+    },
+    {
+      "id": "youyang-zazu",
+      "type": "book",
+      "title": "Youyang Zazu",
+      "authors": [
+        "Duan Chengshi"
+      ],
+      "date": "c. 863"
+    }
+  ],
+  "locations": []
 }

@@ -3,6 +3,7 @@
   "name": "Fenrir",
   "category": "mythological_creature",
   "description": "Fenrir is a monstrous wolf in Norse mythology, son of Loki and the jötunn Angrboða, bound by the gods with the magical fetter Gleipnir and prophesied to break free at Ragnarök and slay Odin.",
+  "full_description": "Fenrir (Old Norse Fenrir, 'fen-dweller'; also Fenrisúlfr, 'Fenrir's wolf') is one of the most prominent monsters of Norse mythology. He is the son of the trickster god Loki and the jötunn Angrboða, brother of the world-serpent Jörmungandr and of Hel, ruler of the dead. Sources describe how the gods, fearing Fenrir's growth and the prophecies surrounding him, raised him in Ásgarðr, where only the war-god Týr was brave enough to feed him. Two iron chains, Leyding and Drómi, failed to hold him; the dwarves of Svartálfaheimr forged a third fetter, Gleipnir, from six paradoxical ingredients (the sound of a cat's footfall, the beard of a woman, the roots of a mountain, the sinews of a bear, the breath of a fish, the spittle of a bird). Fenrir agreed to be tested with Gleipnir only if a god placed a hand in his mouth as pledge; Týr volunteered and lost his right hand when the wolf realised he was truly bound. According to the Völuspá and the Gylfaginning, Fenrir will break free at Ragnarök, devour Odin, and be slain in turn by Odin's son Víðarr, who tears apart his jaws. Fenrir is attested in the Poetic Edda (compiled in 13th-century Iceland from earlier oral material), Snorri Sturluson's Prose Edda (c. 1220), and on Viking-age stone monuments such as the Gosforth Cross in Cumbria and the Thorwald's Cross fragment on the Isle of Man.",
   "aliases": [
     {
       "name": "Fenrisúlfr",
@@ -44,5 +45,164 @@
   "origin": "Fenrir is a figure of the cosmological geography of Old Norse mythology rather than a being of the historical world. He is bound on the island of Lyngvi in the lake Ámsvartnir, and reaches Vígríðr at Ragnarök.",
   "first_reported": "0900-01-01",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "From Old Norse Fenrir, derived from fen ('marsh, fen') with an agentive ending; literally 'one who lives in the fen'.",
+    "meaning": "'Fen-dweller'. Variant kennings include Fenrisúlfr ('Fenrir's wolf') and Hróðvitnir ('fame-wolf' or 'famous wolf'); his river is called Ván ('hope') because of the foam of his slaver, giving him the name Vánagandr ('monster of the [river] Ván').",
+    "first_use": "Attested in skaldic poetry (e.g. Eyvindr skáldaspillir, 10th c.) and in eddic poems including Völuspá and Vafþrúðnismál; canonised in writing by Snorri Sturluson c. 1220."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0,
+    "date_range": {
+      "earliest": "0900",
+      "latest": "1270"
+    }
+  },
+  "timeline": [
+    {
+      "date": "0900",
+      "event": "Skaldic poetry of the 10th century (e.g. Hákonarmál) refers to Fenrir as a stock figure of Ragnarök",
+      "significance": "Earliest datable literary attestation",
+      "source": "Eyvindr skáldaspillir, Hákonarmál"
+    },
+    {
+      "date": "0950",
+      "event": "Gosforth Cross (Cumbria) erected; depicts scenes interpreted as Víðarr's slaying of Fenrir",
+      "significance": "Major early visual attestation of the myth in the British Isles",
+      "source": "Gosforth Cross, St Mary's churchyard"
+    },
+    {
+      "date": "1220",
+      "event": "Snorri Sturluson composes the Prose Edda (Gylfaginning), the fullest narrative source for Fenrir's binding",
+      "significance": "Textual canonisation of the myth",
+      "source": "Snorri Sturluson, Prose Edda"
+    },
+    {
+      "date": "1270",
+      "event": "Codex Regius of the Poetic Edda compiled in Iceland, preserving Völuspá, Vafþrúðnismál, and Lokasenna",
+      "significance": "Preserves the eddic poems referencing Fenrir",
+      "source": "Codex Regius (GKS 2365 4to)"
+    },
+    {
+      "date": "1876",
+      "event": "Richard Wagner's Der Ring des Nibelungen (Bayreuth premiere) reshapes Norse-Germanic mythological reception",
+      "significance": "Although Wagner foregrounds the world-serpent over Fenrir, the cycle re-popularises the Ragnarök complex",
+      "source": "Wagner, R. (1876)"
+    }
+  ],
+  "related": [
+    {
+      "id": "jormungandr",
+      "name": "Jörmungandr",
+      "relationship": "related",
+      "description": "World-serpent, brother of Fenrir; killed by and kills Thor at Ragnarök"
+    },
+    {
+      "id": "hel",
+      "name": "Hel",
+      "relationship": "related",
+      "description": "Goddess of the dead, sister of Fenrir"
+    },
+    {
+      "id": "skoll-hati",
+      "name": "Sköll and Hati",
+      "relationship": "related",
+      "description": "Wolves of Norse mythology that pursue the sun and moon, sometimes treated as Fenrir's offspring"
+    },
+    {
+      "id": "garm",
+      "name": "Garmr",
+      "relationship": "similar",
+      "description": "Hound bound at Gnipahellir who fights Týr at Ragnarök; sometimes conflated with Fenrir"
+    },
+    {
+      "id": "loki",
+      "name": "Loki",
+      "relationship": "related",
+      "description": "Trickster god; father of Fenrir"
+    }
+  ],
+  "cultural_notes": "Within Norse mythology Fenrir embodies the inevitability of cosmic doom and the limits of the gods' power; modern Heathen practice generally treats him as a mythological figure rather than an object of cult.",
+  "sources": [
+    {
+      "id": "snorri-edda",
+      "type": "book",
+      "title": "Edda (Prose Edda)",
+      "authors": [
+        "Snorri Sturluson"
+      ],
+      "publication": "Iceland (composed c. 1220); Faulkes translation, Everyman, 1995",
+      "date": "1220",
+      "isbn": "978-0460876162"
+    },
+    {
+      "id": "poetic-edda-codex-regius",
+      "type": "book",
+      "title": "The Poetic Edda",
+      "publication": "Codex Regius (c. 1270); Larrington translation, Oxford World's Classics, 2014",
+      "date": "1270",
+      "isbn": "978-0199675340"
+    },
+    {
+      "id": "simek-1993",
+      "type": "book",
+      "title": "Dictionary of Northern Mythology",
+      "authors": [
+        "Rudolf Simek"
+      ],
+      "publication": "D. S. Brewer",
+      "date": "1993",
+      "isbn": "978-0859915137"
+    },
+    {
+      "id": "lindow-2001",
+      "type": "book",
+      "title": "Norse Mythology: A Guide to the Gods, Heroes, Rituals, and Beliefs",
+      "authors": [
+        "John Lindow"
+      ],
+      "publication": "Oxford University Press",
+      "date": "2001",
+      "isbn": "978-0195153828"
+    },
+    {
+      "id": "orchard-1997",
+      "type": "book",
+      "title": "Cassell's Dictionary of Norse Myth and Legend",
+      "authors": [
+        "Andy Orchard"
+      ],
+      "publication": "Cassell",
+      "date": "1997",
+      "isbn": "978-0304345205"
+    },
+    {
+      "id": "wikipedia-fenrir",
+      "type": "website",
+      "title": "Fenrir",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Fenrir",
+      "accessed": "2026-05-07"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Gosforth Cross",
+      "lat": 54.4225,
+      "lng": -3.4486
+    },
+    {
+      "name": "Thorwald's Cross",
+      "lat": 54.3577,
+      "lng": -4.4344
+    },
+    {
+      "name": "Ledberg stone",
+      "lat": 58.4297,
+      "lng": 15.4514
+    }
+  ]
 }

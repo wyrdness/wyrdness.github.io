@@ -3,6 +3,7 @@
   "name": "Philadelphia Experiment",
   "category": "conspiracy_theory",
   "description": "An alleged 1943 U.S. Navy experiment said to have rendered the destroyer escort USS Eldridge invisible — and briefly teleported it from Philadelphia to Norfolk — based on Einstein's unified field theory. The story is widely regarded as a hoax originating with letters by Carl M. Allen in 1955–56.",
+  "full_description": "The Philadelphia Experiment is an alleged event said to have occurred at the Philadelphia Naval Shipyard on or around 28 October 1943, in which the U.S. Navy applied an experimental electromagnetic field to the destroyer escort USS Eldridge (DE-173), causing it to become first invisible, then to teleport to Norfolk, Virginia (over 200 miles away), and back, with severe physical and psychological effects on the crew. The story originated in letters sent in 1955–1956 by a merchant mariner named Carl M. Allen (using the pseudonym 'Carlos Miguel Allende') to UFO author Morris K. Jessup, and in heavily annotated copies of Jessup's book 'The Case for the UFO' that were circulated to the U.S. Office of Naval Research. The U.S. Navy and historians have documented numerous fatal problems with the account: USS Eldridge was not commissioned until 27 August 1943; her deck log and war diary show she was not in Philadelphia between August and December 1943; the master of SS Andrew Furuseth (the ship from which Allen claimed to have observed the event) categorically denied any unusual occurrence; and the Office of Naval Research itself was not established until 1946. Allen is reported to have admitted he wrote the annotations 'to scare the hell out of Jessup'. The story was popularized by William Moore and Charles Berlitz's 1979 book 'The Philadelphia Experiment: Project Invisibility' and the 1984 film of the same name, and has become a foundational text of post-WWII secret-experiment conspiracy theory.",
   "aliases": [
     {
       "name": "Project Rainbow",
@@ -34,5 +35,156 @@
   "origin": "The alleged event is associated with two real U.S. locations — the Philadelphia Naval Shipyard, Pennsylvania, and Norfolk, Virginia — but the story has no verified geographic occurrence.",
   "first_reported": "1955",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Named for the alleged location at the Philadelphia Naval Shipyard, Pennsylvania.",
+    "meaning": "'The Philadelphia Experiment' as a name was popularized by William Moore and Charles Berlitz in their 1979 book.",
+    "first_use": "The story dates to Carl Allen's 1955–56 letters; the title 'The Philadelphia Experiment' was fixed in the public imagination by the 1979 Moore & Berlitz book."
+  },
+  "sightings_stats": {
+    "total_documented": 1,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 1,
+    "date_range": {
+      "earliest": "1943",
+      "latest": "1943"
+    }
+  },
+  "timeline": [
+    {
+      "date": "1943-08-27",
+      "event": "USS Eldridge (DE-173) commissioned",
+      "significance": "Pre-dates by ~two months the alleged experiment date; her deck log and war diary establish her actual whereabouts",
+      "source": "Naval History and Heritage Command"
+    },
+    {
+      "date": "1943-10-28",
+      "event": "Date later assigned by conspiracy literature for the alleged invisibility test",
+      "significance": "No supporting record exists in Eldridge's deck log or war diary",
+      "source": "Naval History and Heritage Command"
+    },
+    {
+      "date": "1955",
+      "event": "Morris K. Jessup publishes 'The Case for the UFO'",
+      "significance": "The book that Allen would annotate as the seed of the conspiracy",
+      "source": "Bibliographic record"
+    },
+    {
+      "date": "1956-01",
+      "event": "Carl M. Allen begins writing to Morris K. Jessup as 'Carlos Miguel Allende'",
+      "significance": "Origin of the Philadelphia Experiment narrative",
+      "source": "Wikipedia, 'Philadelphia Experiment'"
+    },
+    {
+      "date": "1959-04-20",
+      "event": "Death of Morris K. Jessup, ruled suicide",
+      "significance": "Conspiracy literature later treats this as a suspicious event tied to the experiment",
+      "source": "Wikipedia, 'Morris K. Jessup'"
+    },
+    {
+      "date": "1969",
+      "event": "APRO Bulletin reports Allen's claim that he wrote the annotations 'to scare the hell out of Jessup'",
+      "significance": "Documented self-retraction by the originator of the story",
+      "source": "APRO Bulletin (1969)"
+    },
+    {
+      "date": "1979",
+      "event": "Publication of 'The Philadelphia Experiment: Project Invisibility' by William Moore and Charles Berlitz",
+      "significance": "Book that fixed the modern form of the legend",
+      "source": "Berlitz, C. & Moore, W. (1979)"
+    },
+    {
+      "date": "1984-08-03",
+      "event": "Release of the film 'The Philadelphia Experiment' (dir. Stewart Raffill)",
+      "significance": "Cements the legend in popular culture",
+      "source": "Theatrical release records"
+    },
+    {
+      "date": "1996-09",
+      "event": "Office of Naval Research statement: 'ONR has never conducted investigations on radar invisibility, either in 1943 or at any other time'",
+      "significance": "Formal U.S. Navy denial; notes ONR was not established until 1946",
+      "source": "U.S. Naval History and Heritage Command online reading room"
+    }
+  ],
+  "related": [
+    {
+      "id": "montauk-project",
+      "name": "Montauk Project",
+      "relationship": "related",
+      "description": "Later conspiracy theory presented as a continuation of the Philadelphia Experiment"
+    },
+    {
+      "id": "bermuda-triangle",
+      "name": "Bermuda Triangle",
+      "relationship": "related",
+      "description": "Frequently linked in conspiracy literature, including in Berlitz's writing"
+    },
+    {
+      "id": "tesla-experiments",
+      "name": "Tesla 'death ray' / unified field theory legends",
+      "relationship": "related",
+      "description": "Often invoked as the supposed scientific basis for the experiment"
+    }
+  ],
+  "cultural_notes": "Persistent belief in U.S. circles that the Navy successfully conducted invisibility/teleportation experiments and has classified the results.",
+  "sources": [
+    {
+      "id": "wikipedia-philadelphia-experiment",
+      "type": "website",
+      "title": "Philadelphia Experiment",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Philadelphia_Experiment",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "wikipedia-uss-eldridge",
+      "type": "website",
+      "title": "USS Eldridge (DE-173)",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/USS_Eldridge",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "navy-philadelphia-experiment",
+      "type": "archive",
+      "title": "The 'Philadelphia Experiment'",
+      "publication": "Naval History and Heritage Command",
+      "url": "https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/p/philadelphia-experiment.html",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "berlitz-moore-1979",
+      "type": "book",
+      "title": "The Philadelphia Experiment: Project Invisibility",
+      "authors": [
+        "William L. Moore",
+        "Charles Berlitz"
+      ],
+      "publication": "Grosset & Dunlap",
+      "date": "1979"
+    },
+    {
+      "id": "jessup-1955",
+      "type": "book",
+      "title": "The Case for the UFO",
+      "authors": [
+        "Morris K. Jessup"
+      ],
+      "publication": "Citadel Press",
+      "date": "1955"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Philadelphia Naval Shipyard",
+      "lat": 39.8867,
+      "lng": -75.1819
+    },
+    {
+      "name": "Norfolk Naval Base",
+      "lat": 36.9467,
+      "lng": -76.3289
+    }
+  ]
 }

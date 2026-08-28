@@ -3,6 +3,7 @@
   "name": "Orang Bati",
   "category": "cryptid",
   "description": "A reported winged humanoid creature from Seram Island in the Maluku (Molucca) Islands of eastern Indonesia, described as approximately five feet tall with bat-like black wings and red skin, said to emerge from caves on Mount Kairatu to abduct children from remote villages at night.",
+  "full_description": "The Orang Bati ('men with wings' in Malay/Indonesian) are reported from the mountainous interior of Seram Island, the second-largest island in the Maluku archipelago of eastern Indonesia. According to indigenous Alfur community traditions, the creatures inhabit a network of caves on the slopes of Mount Kairatu (also called Gunung Binaiya, 3,027 m), emerging nocturnally to raid isolated mountain villages and abduct children. Physical descriptions are consistent: approximately five feet tall, with black leathery bat-like wings, red or reddish skin, and a long thin tail. Witnesses report hearing a long, mournful wail before attacks. The tradition appears to predate both Islamic and Christian missionary contact, as Christian missionaries from the 15th and 16th centuries recorded hearing accounts of a winged monster terrorizing the village of Uraur. In 1987, British missionary Tyson Hughes arrived on Seram for an eighteen-month contract and encountered these beliefs directly; he documented local accounts and claims to have personally witnessed a creature. Scientific investigation by television host Richard Terry concluded the creature was most likely the large flying fox (Pteropus vampyrus), which can reach wingspans of up to 1.5 meters and emits piercing screams. No physical specimen, photograph, or verifiable physical evidence has been documented. The Orang Bati remains unverified.",
   "aliases": [
     {
       "name": "Orang-bati",
@@ -30,5 +31,71 @@
   "origin": "Reported exclusively from Seram Island (Ceram), Maluku (Molucca) Islands, eastern Indonesia. The creature is specifically associated with the interior mountains, particularly Mount Kairatu (Gunung Binaiya).",
   "first_reported": "1500-01-01",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "From Malay/Indonesian orang (person, people) and bati (winged; from a root meaning to fly or have wings). The name is used by indigenous communities of Seram Island and was adopted in broader Indonesian usage.",
+    "meaning": "Men with wings; winged people",
+    "first_use": "Pre-contact Alfur oral tradition of Seram Island; documented in writing by Western sources in the 15th–16th century missionary accounts"
+  },
+  "sightings_stats": {
+    "total_documented": 2,
+    "verified": 0,
+    "disputed": 2,
+    "debunked": 0,
+    "date_range": {
+      "earliest": "1500",
+      "latest": "1987"
+    }
+  },
+  "timeline": [
+    {
+      "date": "1500-01-01",
+      "event": "Christian missionaries on Seram Island record local accounts of a winged monster terrorizing the village of Uraur",
+      "significance": "Earliest documented Western record of the Orang Bati tradition",
+      "source": "15th–16th century missionary accounts (cited in secondary sources)"
+    },
+    {
+      "date": "1987-01-01",
+      "event": "British missionary Tyson Hughes arrives on Seram for an 18-month contract; documents contemporary Orang Bati accounts from local communities and claims a personal sighting",
+      "significance": "Primary modern documentation; brought the Orang Bati to international cryptozoological attention",
+      "source": "Hughes, T. (cited in cryptozoological literature)"
+    }
+  ],
+  "related": [
+    {
+      "id": "mothman",
+      "name": "Mothman",
+      "relationship": "similar",
+      "description": "Winged humanoid reported from Point Pleasant, West Virginia, USA; cross-cultural parallel"
+    },
+    {
+      "id": "ahool",
+      "name": "Ahool",
+      "relationship": "similar",
+      "description": "Reported giant bat-like creature from Java, Indonesia; regional parallel"
+    },
+    {
+      "id": "flying-fox",
+      "name": "Large Flying Fox (Pteropus vampyrus)",
+      "relationship": "related",
+      "description": "The most widely cited skeptical explanation; large fruit bat with wingspan up to 1.5 m native to the region"
+    }
+  ],
+  "cultural_notes": "Indigenous Alfur communities of Seram Island maintain genuine fear of the Orang Bati, with specific protocols for child safety during nighttime and village warning systems. The tradition persists alongside both Islamic and Christian religious frameworks adopted across Seram.",
+  "sources": [
+    {
+      "id": "handwiki-orang-bati",
+      "type": "website",
+      "title": "Orang-bati",
+      "url": "https://handwiki.org/wiki/Biology:Orang-bati",
+      "accessed": "2026-05-08"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Mount Kairatu (Gunung Binaiya), Seram Island",
+      "lat": -3.18,
+      "lng": 129.47
+    }
+  ]
 }

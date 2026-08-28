@@ -3,6 +3,7 @@
   "name": "Peri",
   "category": "fae_folklore",
   "description": "The peri (Persian: pari) is a winged supernatural being of immense beauty in Persian and wider Persianate folklore, originally an ambivalent or malevolent class of spirits in pre-Islamic Iranian belief and later reinterpreted as a generally benevolent fairy-like being who opposes the malevolent divs.",
+  "full_description": "The peri (Persian pari, Avestan pairika) is one of the most iconic supernatural beings of the Persian and Persianate cultural worlds, attested across Iran, Afghanistan, Tajikistan, Pakistan, India, the Caucasus, Anatolia, and Central Asia. In the earliest Iranian religious tradition - the Avesta and Pahlavi literature - the pairika is a class of malevolent or seductive female demon associated with the dragons and demons opposed by Ahura Mazda. From the early Islamic period onwards, however, the figure undergoes a substantial moral re-evaluation: in Persian poetry and prose from the tenth century onward, paris are reimagined as winged, often female, beings of overwhelming beauty, sometimes benevolent allies to humans, and as a stock figure for the unattainable beloved in Sufi and courtly poetry. Paris are ruled in some traditions from the realm of Paristan; they oppose the ugly, malevolent divs (daevas). In folktales and epic literature - including episodes within Ferdowsi's Shahnameh and the One Thousand and One Nights tale 'Ahmad and Pari Banu' - they ally with, marry, abduct, or test mortal heroes. Paris are formally distinct from but often confused in popular usage with jinn; they survive into modern Persian, Turkic, and South Asian folk tradition and into world literature through works such as Thomas Moore's Lalla Rookh ('Paradise and the Peri', 1817) and Robert Schumann's oratorio Das Paradies und die Peri (1843).",
   "aliases": [
     {
       "name": "Pari",
@@ -53,5 +54,113 @@
   "origin": "Peri / pari traditions span the Persianate cultural world: Iran, Afghanistan, Tajikistan, the Kurdish regions, Pakistan, parts of India, the Caucasus, Anatolia, and Central Asia.",
   "first_reported": "1000 BCE",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Persian pari, from Middle Persian parig, from Avestan pairika. The connection to English 'fairy' is contested in modern etymology; some scholars treat the resemblance as parallel inheritance or coincidence, others propose a shared Indo-European root meaning 'to enchant'.",
+    "meaning": "Possibly related to Persian par ('wing') in folk etymology; in earliest attestation a class of female demons.",
+    "first_use": "Avestan pairika, attested in the Yashts and Vendidad of the Avesta, the sacred literature of Zoroastrianism (composed and transmitted from the late Bronze Age into the early first millennium BCE)."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "1000 BCE",
+      "event": "Avestan pairika attested in the Yashts of the Avesta as a class of malevolent female demons",
+      "significance": "Earliest layer of the tradition",
+      "source": "Avesta - Yashts; Vendidad"
+    },
+    {
+      "date": "1010",
+      "event": "Ferdowsi completes the Shahnameh, in which paris appear as supernatural beings interacting with Iranian heroes",
+      "significance": "Canonisation of the peri in classical Persian literature",
+      "source": "Ferdowsi - Shahnameh (c. 1010)"
+    },
+    {
+      "date": "1817",
+      "event": "Thomas Moore publishes Lalla Rookh, including 'Paradise and the Peri'",
+      "significance": "Major European Romantic adoption of the figure",
+      "source": "Moore, T. - Lalla Rookh (1817)"
+    },
+    {
+      "date": "1843",
+      "event": "Robert Schumann composes the secular oratorio Das Paradies und die Peri, after Moore",
+      "significance": "Major Romantic musical adoption",
+      "source": "Schumann, R. - Das Paradies und die Peri (1843)"
+    }
+  ],
+  "related": [
+    {
+      "id": "div",
+      "name": "Div / Daeva",
+      "relationship": "counterpart",
+      "description": "Ugly, malevolent demons opposed to the paris in post-Islamic Persian tradition"
+    },
+    {
+      "id": "jinn",
+      "name": "Jinn",
+      "relationship": "similar",
+      "description": "Islamic class of unseen beings, frequently conflated with paris in popular usage"
+    },
+    {
+      "id": "houri",
+      "name": "Houri",
+      "relationship": "similar",
+      "description": "Paradisiacal beings of Islamic eschatology, with which paris are sometimes assimilated in literary tradition"
+    },
+    {
+      "id": "apsara",
+      "name": "Apsara",
+      "relationship": "similar",
+      "description": "Hindu/Buddhist celestial dancers; comparable South Asian winged-female-spirit class"
+    },
+    {
+      "id": "fae-folklore",
+      "name": "European fairy folk",
+      "relationship": "similar",
+      "description": "Western fairy traditions to which paris are often (loosely) compared"
+    }
+  ],
+  "cultural_notes": "In classical and modern Persianate culture paris are emblematic of beauty and otherworldly grace, but also of ambivalent supernatural power; in some Central Asian traditions paris are partners and informants of ritual specialists.",
+  "sources": [
+    {
+      "id": "wikipedia-pari",
+      "type": "website",
+      "title": "Pari",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Par%C4%AB",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "encyclopedia-com-peri",
+      "type": "website",
+      "title": "Peri",
+      "publication": "Encyclopedia.com",
+      "url": "https://www.encyclopedia.com/literature-and-arts/classical-literature-mythology-and-folklore/folklore-and-mythology/peri",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "ferdowsi-shahnameh",
+      "type": "book",
+      "title": "Shahnameh",
+      "authors": [
+        "Abolqasem Ferdowsi"
+      ],
+      "date": "c. 1010"
+    },
+    {
+      "id": "moore-1817",
+      "type": "book",
+      "title": "Lalla Rookh",
+      "authors": [
+        "Thomas Moore"
+      ],
+      "publication": "Longman, Hurst, Rees, Orme, and Brown",
+      "date": "1817"
+    }
+  ],
+  "locations": []
 }

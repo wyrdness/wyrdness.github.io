@@ -3,6 +3,7 @@
   "name": "Supay",
   "category": "demon_angel",
   "description": "Supay is a significant deity in Andean (Inca/Quechua) mythology who rules the underworld realm Ukhu Pacha; originally an ambivalent god of death, he was recast by Spanish colonial missionaries as equivalent to the Christian devil, a syncretic transformation that persists in modern Andean culture.",
+  "full_description": "Supay (also spelled Zupay, Çupay, or Supai) is one of the most significant supernatural entities in Andean mythology, serving in the pre-Columbian Inca religious system as the deity presiding over Ukhu Pacha — the inner world or underworld realm beneath the earth. The Inca cosmos was divided into three realms: Hanan Pacha (the upper world), Kay Pacha (the middle world of living humans), and Ukhu Pacha, with Supay as its ruler. Originally, Supay was not inherently evil but was understood as an ambivalent force — a necessary counterpart governing death and mineral wealth. He could protect the dignified dead while tormenting others, embodying balance between opposing forces. This nuanced pre-Columbian understanding was fundamentally altered during the Spanish colonial period (beginning 1532), when Catholic missionaries, particularly Fray Domingo de Santo Tomás and subsequent chroniclers, reinterpreted Supay as equivalent to the Christian devil to facilitate conversion. The Quechua word for Supay — meaning 'shadow,' 'soul,' or 'death' — was repurposed as the translation for 'devil' in early Quechua catechisms, fundamentally demonizing the indigenous deity. Today, Supay is syncretically understood throughout the Andean region as both a feared underworld entity and a powerful protective spirit propitiated for mineral wealth. In Bolivian mining communities, he merges with the figure of El Tío, a deity of the underground who must be appeased with offerings to ensure miner safety. The Diablada dance at the Carnaval de Oruro in Bolivia features Supay as the principal devil figure, a dramatic fusion of pre-Columbian and Catholic traditions.",
   "aliases": [
     {
       "name": "Zupay",
@@ -56,5 +57,113 @@
   "origin": "The Andean region of South America, encompassing the territories of the pre-Columbian Inca Empire. Strongest contemporary presence in mining communities of Bolivia and Peru.",
   "first_reported": "Pre-Columbian",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Quechua language of the Andean peoples. The name derives from the Quechua root 'supa,' documented by Spanish chroniclers as meaning shadow, illness, death, or soul/anima.",
+    "meaning": "Shadow, soul, illness, death; in colonial usage reinterpreted as 'devil'",
+    "first_use": "Documented in early colonial Quechua-Spanish vocabularies, notably by Fray Domingo de Santo Tomás (1560). Pre-Columbian oral use is older but undated."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "1532-01-01",
+      "event": "Spanish conquest of the Inca Empire begins under Francisco Pizarro; Catholic missionary activity initiates reinterpretation of indigenous deities including Supay",
+      "significance": "Start of the colonial transformation of Supay's meaning",
+      "source": "Spanish colonial historical record"
+    },
+    {
+      "date": "1560-01-01",
+      "event": "Fray Domingo de Santo Tomás publishes Vocabulario de la lengua general, one of the earliest Quechua dictionaries; documents 'supay' as 'shadow/soul' and begins its association with 'devil'",
+      "significance": "Earliest lexicographic documentation of the term and its colonial reinterpretation",
+      "source": "Domingo de Santo Tomás (1560), Vocabulario de la lengua general"
+    },
+    {
+      "date": "1609-01-01",
+      "event": "Inca Garcilaso de la Vega publishes Comentarios Reales de los Incas, providing further documentation of Andean religion including Supay",
+      "significance": "Major primary source for Andean religious concepts under colonial lens",
+      "source": "Inca Garcilaso de la Vega (1609), Comentarios Reales de los Incas"
+    },
+    {
+      "date": "1789-01-01",
+      "event": "Carnaval de Oruro, featuring the Diablada dance with Supay as the principal devil figure, becomes formalized in its current syncretic form",
+      "significance": "Institutionalization of Supay's role in Bolivian carnival tradition",
+      "source": "Historical records of the Carnaval de Oruro"
+    },
+    {
+      "date": "2001-01-01",
+      "event": "UNESCO proclaims the Carnaval de Oruro a Masterpiece of the Oral and Intangible Heritage of Humanity (inscribed 2008)",
+      "significance": "International recognition of the cultural tradition in which Supay plays a central role",
+      "source": "UNESCO Intangible Cultural Heritage list"
+    }
+  ],
+  "related": [
+    {
+      "id": "el-tio",
+      "name": "El Tío",
+      "relationship": "regional_variant",
+      "description": "Bolivian mining communities' underworld deity, syncretically fused with Supay; offerings of cigarettes and coca leaves are made to El Tío statues in mines"
+    },
+    {
+      "id": "mictlantecuhtli",
+      "name": "Mictlantecuhtli",
+      "relationship": "similar",
+      "description": "Aztec god of the dead and ruler of Mictlan (the underworld); parallel function as pre-Columbian Mesoamerican death deity"
+    },
+    {
+      "id": "hades",
+      "name": "Hades",
+      "relationship": "similar",
+      "description": "Greek ruler of the underworld; structurally similar role as underworld sovereign"
+    }
+  ],
+  "cultural_notes": "In traditional Andean belief, Supay governs the dead and the mineral riches of the earth. Mining communities maintain active ritual relationships with Supay through El Tío — offering coca leaves, alcohol, cigarettes, and llama blood at the mine entrance. The relationship is pragmatic and respectful rather than purely fearful: Supay is a powerful entity who must be honored, not merely avoided.",
+  "sources": [
+    {
+      "id": "santo-tomas-1560",
+      "type": "archive",
+      "title": "Vocabulario de la lengua general de todo el Peru llamada lengua Qquichua",
+      "authors": [
+        "Fray Domingo de Santo Tomás"
+      ],
+      "date": "1560",
+      "notes": "Earliest major Quechua-Spanish lexicographic source; documents 'supay'"
+    },
+    {
+      "id": "garcilaso-1609",
+      "type": "book",
+      "title": "Comentarios Reales de los Incas",
+      "authors": [
+        "Inca Garcilaso de la Vega"
+      ],
+      "date": "1609"
+    },
+    {
+      "id": "guaman-poma-1615",
+      "type": "archive",
+      "title": "Nueva corónica y buen gobierno",
+      "authors": [
+        "Felipe Guamán Poma de Ayala"
+      ],
+      "date": "1615"
+    },
+    {
+      "id": "wikipedia-supay",
+      "type": "website",
+      "title": "Supay — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Supay",
+      "accessed": "2026-05-08"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Oruro, Bolivia",
+      "lat": -17.9667,
+      "lng": -67.1167
+    }
+  ]
 }

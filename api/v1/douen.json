@@ -3,6 +3,7 @@
   "name": "Douen",
   "category": "entity_spirit",
   "description": "In the folklore of Trinidad and Tobago and other parts of the Eastern Caribbean, the douen is the spirit of a child who died before being baptized; depicted as a small, faceless figure with backward-facing feet and a wide straw hat, said to lure other children into the forest.",
+  "full_description": "The douen (also spelled dwen in Saint Lucia) is a folkloric spirit-child of Trinidad and Tobago. According to tradition, douens are the souls of children who died before being baptized, condemned to wander the forests as small figures with no face except for a small mouth, with feet that face backwards (so their tracks lead in the opposite direction of travel), and wearing oversized straw hats that hide their featurelessness. They are said to call to living children using a parent's voice, attempting to lure them into the bush where they become hopelessly lost. The folklore is broadly understood as primarily of African foundation, with French, Spanish, and English colonial influences, and is sometimes connected by folklorists to the Mayan Tata Duende and the Iberian/Latin American duende. Douens remain a vital part of Trinidadian cultural identity, appearing in school curricula, children's literature, and Carnival traditions, and shaping practical advice (parents traditionally caution against calling children's names aloud near forests).",
   "aliases": [
     {
       "name": "Dwen",
@@ -32,5 +33,68 @@
   "origin": "Folklore primarily of Trinidad and Tobago, with the related dwen of Saint Lucia and parallels across the broader Eastern Caribbean.",
   "first_reported": "19th century",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Likely a creolized form of Spanish/Portuguese 'duende' (spirit, sprite), with possible reinforcement from West African spirit-child traditions such as the Yoruba abiku.",
+    "meaning": "A spirit-child of the forest in Eastern Caribbean folklore",
+    "first_use": "Recorded in 19th- and 20th-century Trinidadian folklore collections"
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "1900-01-01",
+      "event": "Trinidadian douen folklore documented in early-20th-century ethnographic collections",
+      "significance": "Anchors the modern written tradition of the douen",
+      "source": "20th-century Caribbean folklore literature"
+    }
+  ],
+  "related": [
+    {
+      "id": "duende",
+      "name": "Duende",
+      "relationship": "related",
+      "description": "Iberian / Latin American household and forest spirit, possibly etymologically connected"
+    },
+    {
+      "id": "la-diablesse",
+      "name": "La Diablesse",
+      "relationship": "similar",
+      "description": "Trinidadian female demon of the road, often grouped with douens in local folklore"
+    },
+    {
+      "id": "soucouyant",
+      "name": "Soucouyant",
+      "relationship": "similar",
+      "description": "Trinidadian and broader Caribbean shape-shifting witch tradition"
+    },
+    {
+      "id": "lagahoo",
+      "name": "Lagahoo",
+      "relationship": "similar",
+      "description": "Trinidadian shapeshifter, often grouped with douens in folkloric typologies"
+    },
+    {
+      "id": "jumbie",
+      "name": "Jumbie",
+      "relationship": "superset",
+      "description": "Broad Caribbean category of malevolent spirit that includes douens"
+    }
+  ],
+  "cultural_notes": "Parents traditionally avoid calling children's names aloud in or near the forest; failing to baptize a child promptly is said to risk the child becoming a douen.",
+  "sources": [
+    {
+      "id": "wikipedia-douen",
+      "type": "website",
+      "title": "Douen",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Douen",
+      "accessed": "2026-05-07"
+    }
+  ],
+  "locations": []
 }

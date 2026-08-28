@@ -3,6 +3,7 @@
   "name": "Aos Sí",
   "category": "fae_folklore",
   "description": "A supernatural race in Irish (and broader Gaelic) folklore who dwell in fairy mounds and the Otherworld. Traditionally identified with the Tuatha Dé Danann who retreated underground after their defeat by the Milesians.",
+  "full_description": "The aos sí (Old Irish: aes síde; modern Irish: daoine sí) are a supernatural race in Irish, Scottish, and Manx folklore, comparable to the elves of Germanic tradition. The name means 'people of the sí' — the prehistoric burial mounds and natural hills that are seen as portals to an Otherworld. In medieval Irish literary tradition the aos sí are explicitly identified with the Tuatha Dé Danann, the divine race who, after losing Ireland to the mortal Sons of Míl Espáine (the Milesians), retreated into the sídhe and took up dwelling there. Folklore describes them variably as ancestors, nature spirits, or diminished gods. They are guardians of fairy hills, fairy rings, lone whitethorn trees, lochs, and other liminal places, and are reputed to retaliate when their dwellings are disturbed. The aos sí encompass many specific beings, including the bean sídhe (banshee), the leanan sídhe, the cat-sìth, the cù-sìth, the bean-nighe, and the sluagh. Belief in the aos sí — and the practice of appeasing them, known as Creideamh Sí ('the Fairy Faith') — coexisted syncretically with Christianity in rural Ireland and Scotland into the modern era.",
   "aliases": [
     {
       "name": "Aes Sídhe",
@@ -59,5 +60,207 @@
   "origin": "The aos sí tradition is centred on Ireland and extends across the Gaelic-speaking world: Scotland (where the cognate term is sìth), the Isle of Man, and Irish and Scottish diaspora communities. Cognate fairy traditions exist throughout the broader Celtic world (Welsh tylwyth teg, Cornish pobel vean, Breton korrigans).",
   "first_reported": "0700-01-01",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "From Old Irish aes síde, 'people of the sí'. The word sí (older sídhe) derives from Proto-Celtic *sīdos meaning 'abode, seat', referring to the prehistoric tumuli and hills understood as fairy dwellings.",
+    "meaning": "'Folk of the fairy mounds' or 'people of the sí'.",
+    "first_use": "Old Irish texts of the medieval period; the 8th-century Fiacc's Hymn already references the sídh-folk being venerated by the Irish before Saint Patrick."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0,
+    "date_range": {
+      "earliest": "0700",
+      "latest": "2026"
+    }
+  },
+  "timeline": [
+    {
+      "date": "0700-01-01",
+      "event": "Fiacc's Hymn references Irish veneration of the sídh-folk before Saint Patrick",
+      "significance": "Earliest surviving written reference to aos sí veneration",
+      "source": "Fiacc's Hymn (8th c.)"
+    },
+    {
+      "date": "1100-01-01",
+      "event": "Lebor Gabála Érenn compiled, codifying the Tuatha Dé Danann's retreat into the sí mounds",
+      "significance": "Canonical mythological framework",
+      "source": "Lebor Gabála Érenn"
+    },
+    {
+      "date": "1888-01-01",
+      "event": "W. B. Yeats publishes Fairy and Folk Tales of the Irish Peasantry",
+      "significance": "Anchors the aos sí in the Anglophone literary canon",
+      "source": "Yeats, W. B. (1888)"
+    },
+    {
+      "date": "1893-01-01",
+      "event": "Douglas Hyde publishes Beside the Fire, a major collection of Irish folktales",
+      "significance": "Influential Gaelic-revival fairy collection",
+      "source": "Hyde, D. (1893)"
+    },
+    {
+      "date": "1911-01-01",
+      "event": "W. Y. Evans-Wentz publishes The Fairy-Faith in Celtic Countries",
+      "significance": "First systematic ethnographic survey of Celtic fairy belief",
+      "source": "Evans-Wentz, W. Y. (1911)"
+    },
+    {
+      "date": "1935-04-02",
+      "event": "Irish Folklore Commission established under Séamus Ó Duilearga",
+      "significance": "Begins state-supported collection of aos sí traditions",
+      "source": "Coimisiún Béaloideasa Éireann archive (UCD)"
+    }
+  ],
+  "related": [
+    {
+      "id": "tuatha-de-danann",
+      "name": "Tuatha Dé Danann",
+      "relationship": "superset",
+      "description": "The mythological divine race from whom the aos sí descend in Irish tradition"
+    },
+    {
+      "id": "banshee",
+      "name": "Banshee (bean sídhe)",
+      "relationship": "subset",
+      "description": "Female aos sí whose wailing announces a death"
+    },
+    {
+      "id": "leanan-sidhe",
+      "name": "Leanan Sídhe",
+      "relationship": "subset",
+      "description": "'Fairy lover' of Irish and Manx tradition"
+    },
+    {
+      "id": "cat-sith",
+      "name": "Cat-sìth",
+      "relationship": "subset",
+      "description": "Black fairy cat of Scottish Gaelic tradition"
+    },
+    {
+      "id": "cu-sith",
+      "name": "Cù-sìth",
+      "relationship": "subset",
+      "description": "Large green fairy hound of Scottish Gaelic tradition"
+    },
+    {
+      "id": "sluagh",
+      "name": "Sluagh sídhe",
+      "relationship": "subset",
+      "description": "The 'fairy host' or restless airborne dead"
+    },
+    {
+      "id": "selkie",
+      "name": "Selkie",
+      "relationship": "related",
+      "description": "Gaelic seal-folk sometimes grouped with the wider sí tradition"
+    },
+    {
+      "id": "elves",
+      "name": "Elves (Germanic)",
+      "relationship": "counterpart",
+      "description": "Cognate Germanic supernatural race"
+    }
+  ],
+  "cultural_notes": "Many rural Irish communities into the 20th and 21st centuries continued to treat raths, fairy thorns, and fairy paths as inviolable, both as cultural heritage and out of residual respect for the aos sí.",
+  "sources": [
+    {
+      "id": "yeats-1888",
+      "type": "book",
+      "title": "Fairy and Folk Tales of the Irish Peasantry",
+      "authors": [
+        "W. B. Yeats"
+      ],
+      "publication": "Walter Scott",
+      "date": "1888"
+    },
+    {
+      "id": "hyde-1890",
+      "type": "book",
+      "title": "Beside the Fire: A Collection of Irish Gaelic Folk Stories",
+      "authors": [
+        "Douglas Hyde"
+      ],
+      "publication": "David Nutt",
+      "date": "1890"
+    },
+    {
+      "id": "evans-wentz-1911",
+      "type": "book",
+      "title": "The Fairy-Faith in Celtic Countries",
+      "authors": [
+        "W. Y. Evans-Wentz"
+      ],
+      "publication": "Henry Frowde / Oxford University Press",
+      "date": "1911"
+    },
+    {
+      "id": "gregory-1920",
+      "type": "book",
+      "title": "Visions and Beliefs in the West of Ireland",
+      "authors": [
+        "Lady Augusta Gregory"
+      ],
+      "publication": "G. P. Putnam's Sons",
+      "date": "1920"
+    },
+    {
+      "id": "mackillop-2004",
+      "type": "book",
+      "title": "A Dictionary of Celtic Mythology",
+      "authors": [
+        "James MacKillop"
+      ],
+      "publication": "Oxford University Press",
+      "date": "2004",
+      "isbn": "978-0198609674"
+    },
+    {
+      "id": "lenihan-2003",
+      "type": "book",
+      "title": "Meeting the Other Crowd: The Fairy Stories of Hidden Ireland",
+      "authors": [
+        "Eddie Lenihan",
+        "Carolyn Eve Green"
+      ],
+      "publication": "TarcherPerigee",
+      "date": "2003",
+      "isbn": "978-1585423064"
+    },
+    {
+      "id": "wikipedia-aos-si",
+      "type": "website",
+      "title": "Aos Sí",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Aos_S%C3%AD",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "duchas",
+      "type": "archive",
+      "title": "The National Folklore Collection (Dúchas)",
+      "url": "https://www.duchas.ie",
+      "publication": "University College Dublin",
+      "accessed": "2026-05-07"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Brú na Bóinne (Newgrange, Knowth, Dowth)",
+      "lat": 53.6947,
+      "lng": -6.4756
+    },
+    {
+      "name": "Knockainey (Cnoc Áine)",
+      "lat": 52.4944,
+      "lng": -8.535
+    },
+    {
+      "name": "Slievenamon (Sliabh na mBan)",
+      "lat": 52.4322,
+      "lng": -7.5681
+    }
+  ]
 }

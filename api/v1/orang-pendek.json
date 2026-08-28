@@ -3,6 +3,7 @@
   "name": "Orang Pendek",
   "category": "cryptid",
   "description": "A small, ground-dwelling, bipedal primate reported from the mountainous rainforests of Sumatra, Indonesia, particularly Kerinci Seblat National Park, described as 80–150 cm tall with dark fur and considered one of the more credible cryptid primate reports due to consistent descriptions and physical evidence.",
+  "full_description": "The Orang Pendek ('short person' in Indonesian) is one of the most credible and consistently documented cryptid primates. Reports come primarily from the remote mountainous rainforests of central Sumatra, particularly the Kerinci Regency and Kerinci Seblat National Park (Taman Nasional Kerinci Seblat), located 2° south of the equator within the Bukit Barisan mountain range. Consensus descriptions among witnesses place the creature at 80–150 cm (approximately 31–59 inches) tall, ground-dwelling, and bipedal, covered in short fur variously described as dark grey, black with grey flecks, golden-brown, or reddish. Arms are described as long, reaching slightly above the knees; legs are 'rather short.' The face is described as having 'nothing repulsive or ugly about it' — more human-like than ape-like in some accounts. The creature is generally described as shy and avoiding human contact, feeding on forest plants and small animals. The Suku Anak Dalam (Orang Rimba), an indigenous people of Jambi and South Sumatra who have inhabited these forests for centuries, include the creature (which they call 'hantu pendek') in their traditional knowledge, though they frame it as supernatural rather than biological. Dutch surveyor van Heerwarden provided a detailed 1923 sighting account while surveying land in Sumatra, describing a creature called 'sedapa' observed sitting on a branch. Wildlife biologist Deborah Martyr and photographer Jeremy Holden conducted a 15-year Fauna and Flora International-funded project in the early 1990s, systematically documenting eyewitness accounts and collecting footprint casts; both personally claimed to have seen the animal. Martyr described the creature as usually 85–90 cm tall (occasionally up to 1.2 m), covered in dark grey or black hair flecked with grey. Footprint casts have been collected but no hair sample has produced a definitive DNA identification.",
   "aliases": [
     {
       "name": "Sedapa",
@@ -45,5 +46,100 @@
   "origin": "Remote mountainous forests of Sumatra, Indonesia, with sightings concentrated in the Kerinci Regency of central Sumatra, particularly within Kerinci Seblat National Park (TNKS). Historical reports suggest the creature's range may extend more broadly across Sumatra.",
   "first_reported": "1923-01-01",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "From Indonesian/Malay orang (person, people) and pendek (short). A straightforward descriptive name. Regional names include 'sedapa' in Dutch colonial accounts from central Sumatra, and 'uhang pandak' in the Minangkabau language.",
+    "meaning": "Short person",
+    "first_use": "Colonial-era documentation; 1923 (van Heerwarden's sedapa account); 'orang pendek' in wider use from early 20th century"
+  },
+  "sightings_stats": {
+    "total_documented": 50,
+    "verified": 0,
+    "disputed": 48,
+    "debunked": 2,
+    "date_range": {
+      "earliest": "1923",
+      "latest": "2010"
+    }
+  },
+  "timeline": [
+    {
+      "date": "1923-01-01",
+      "event": "Dutch surveyor van Heerwarden observes a creature called 'sedapa' while surveying land in Sumatra; provides the most detailed early modern account",
+      "significance": "Earliest well-documented Western eyewitness account",
+      "source": "Van Heerwarden sighting account (1923); cited in zoological literature"
+    },
+    {
+      "date": "1990-01-01",
+      "event": "Deborah Martyr and photographer Jeremy Holden begin a 15-year research project for Fauna and Flora International, systematically documenting eyewitness accounts and collecting footprint casts",
+      "significance": "Most sustained and methodologically rigorous investigation",
+      "source": "Fauna and Flora International project (1990s)"
+    },
+    {
+      "date": "2003-10-28",
+      "event": "Discovery of Homo floresiensis ('hobbit') on Flores, Indonesia — an extinct small hominin surviving until approximately 50,000 years ago — demonstrates that small hominids existed in Southeast Asia in the geologically recent past",
+      "significance": "Provided context for considering an undescribed small hominid in Sumatra as biologically plausible",
+      "source": "Brown, P. et al. (2004), Nature 431:1055–1061"
+    }
+  ],
+  "related": [
+    {
+      "id": "bigfoot",
+      "name": "Bigfoot / Sasquatch",
+      "relationship": "similar",
+      "description": "North American large bipedal hominid cryptid"
+    },
+    {
+      "id": "yeti",
+      "name": "Yeti",
+      "relationship": "similar",
+      "description": "Himalayan hairy hominid cryptid"
+    },
+    {
+      "id": "orang-gadang",
+      "name": "Orang Gadang",
+      "relationship": "related",
+      "description": "Much larger Sumatran giant humanoid cryptid; distinct from Orang Pendek"
+    },
+    {
+      "id": "almas",
+      "name": "Almas",
+      "relationship": "similar",
+      "description": "Central Asian hairy hominid cryptid"
+    }
+  ],
+  "cultural_notes": "The Suku Anak Dalam (Orang Rimba) people, who have inhabited Sumatra's lowland forests for centuries, include the creature in their traditional knowledge. They refer to it as 'hantu pendek' — framing it as a spirit entity — and regard it as a genuine forest co-inhabitant. This indigenous framing predates and is distinct from Western cryptozoological interest.",
+  "sources": [
+    {
+      "id": "wikipedia-orang-pendek",
+      "type": "website",
+      "title": "Orang Pendek",
+      "url": "https://en.wikipedia.org/wiki/Orang_Pendek",
+      "accessed": "2026-05-08"
+    },
+    {
+      "id": "brown-2004-floresiensis",
+      "type": "paper",
+      "title": "A new small-bodied hominin from the Late Pleistocene of Flores, Indonesia",
+      "authors": [
+        "P. Brown",
+        "T. Sutikna",
+        "M.J. Morwood",
+        "R.P. Soejono",
+        "Jatmiko",
+        "E. Wayhu Saptomo",
+        "Rokus Awe Due"
+      ],
+      "publication": "Nature",
+      "date": "2004",
+      "doi": "10.1038/nature02999"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Kerinci Seblat National Park",
+      "lat": -2,
+      "lng": 101.5
+    }
+  ]
 }

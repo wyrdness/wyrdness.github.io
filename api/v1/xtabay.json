@@ -3,6 +3,7 @@
   "name": "Xtabay",
   "category": "entity_spirit",
   "description": "A Yucatec Maya female spirit said to lurk near ceiba trees at night, appearing as a beautiful woman with very long black hair and luring unfaithful or drunken men to madness, injury, or death deep in the forest.",
+  "full_description": "The Xtabay (also X'tabay or Xtabai) is a Yucatec Maya female spirit native to the folklore of the Yucatán Peninsula and adjacent areas of Mexico, Belize, and Guatemala. She is described as a beautiful woman dressed in white, with very long black hair reaching to her ankles and large dark eyes, who hides behind ceiba trees (Ceiba pentandra, sacred in Maya cosmology) on lonely forest paths at night. When a man — typically depicted as drunk, unfaithful, or generally dissolute — approaches, she beckons him into the forest; in different versions she causes disorientation and seduction, drives him mad, transforms into a serpent and devours him, throws him from a cliff, or removes his heart. The most widely circulated narrative origin, set down in Jesús Azcorra Alejos's Diez Leyendas Mayas (1998), pairs Xtabay with a counterpart figure: Xkeban, a woman judged immoral by society but compassionate toward the poor, becomes after death the fragrant xtabentún flower (Turbina corymbosa), while the outwardly virtuous but cruel Utz-Colel is reborn as the demonic Xtabay. The figure is etymologically linked to Ixtab, a pre-Columbian Maya goddess associated with hanging and the suicide-dead. In some regional versions — notably in Quintana Roo — Xtabay is reframed as a moral enforcer who punishes drunkards, adulterers, and violent men. The legend remains a living cautionary tradition across the Yucatán, used by parents and grandparents to warn against drinking, infidelity, and night-time wandering.",
   "aliases": [
     {
       "name": "X'tabay",
@@ -40,5 +41,91 @@
   "origin": "Yucatec Maya cultural area: the Yucatán Peninsula of Mexico (states of Yucatán, Quintana Roo, Campeche) with extensions into northern Belize and the Petén region of Guatemala.",
   "first_reported": "Pre-contact",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Yucatec Maya. The first element 'Ix' is a feminine prefix; the root 'tab' is glossed as 'rope' or 'cord (of specific use)', linking the figure to the Maya goddess Ixtab, deity of those who died by hanging.",
+    "meaning": "Approximately 'the female one of the rope'; via the link to Ixtab, the figure is doubly tied to themes of suicide, hanging, and the noose-rope motif present in Maya cosmology.",
+    "first_use": "Yucatec Maya oral tradition predating contact; written versions in Spanish and English appear in 19th- and 20th-century Mexican folklore collections, with Azcorra Alejos's Diez Leyendas Mayas (1998) being a widely cited modern reference."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "1566",
+      "event": "Diego de Landa describes the Maya goddess Ixtab, etymological root of the Xtabay legend, in Relación de las cosas de Yucatán",
+      "significance": "Earliest written documentation of the cosmological complex behind the figure",
+      "source": "Diego de Landa, Relación de las cosas de Yucatán (c. 1566)"
+    },
+    {
+      "date": "1998",
+      "event": "Jesús Azcorra Alejos publishes Diez Leyendas Mayas, including a widely cited version of the Xtabay legend",
+      "significance": "Most-cited modern documentation of the canonical Xkeban/Utz-Colel narrative",
+      "source": "Azcorra Alejos (1998)"
+    }
+  ],
+  "related": [
+    {
+      "id": "ixtab",
+      "name": "Ixtab",
+      "relationship": "related",
+      "description": "Pre-Columbian Maya goddess associated with hanging and suicide-dead; etymological root of Xtabay"
+    },
+    {
+      "id": "la-llorona",
+      "name": "La Llorona",
+      "relationship": "similar",
+      "description": "Latin American weeping-woman spirit who lures victims"
+    },
+    {
+      "id": "ciguapa",
+      "name": "Ciguapa",
+      "relationship": "similar",
+      "description": "Caribbean (Dominican) female forest spirit with backward-facing feet who lures men"
+    },
+    {
+      "id": "siguanaba",
+      "name": "Siguanaba",
+      "relationship": "similar",
+      "description": "Central American seductress spirit who reveals a horrifying face"
+    },
+    {
+      "id": "white-lady",
+      "name": "White Lady",
+      "relationship": "similar",
+      "description": "Global female-ghost-in-white archetype"
+    }
+  ],
+  "cultural_notes": "Xtabay is broadly understood across the Yucatán as a real and present danger to men who travel rural roads alone at night, particularly when intoxicated or unfaithful. The legend is invoked in moral instruction within families and communities.",
+  "sources": [
+    {
+      "id": "wikipedia-xtabay",
+      "type": "website",
+      "title": "Xtabay — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Xtabay",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "azcorra-1998",
+      "type": "book",
+      "title": "Diez Leyendas Mayas",
+      "authors": [
+        "Jesús Azcorra Alejos"
+      ],
+      "date": "1998"
+    },
+    {
+      "id": "de-landa-1566",
+      "type": "book",
+      "title": "Relación de las cosas de Yucatán",
+      "authors": [
+        "Diego de Landa"
+      ],
+      "date": "c. 1566"
+    }
+  ],
+  "locations": []
 }

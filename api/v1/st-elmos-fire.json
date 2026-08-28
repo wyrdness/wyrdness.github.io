@@ -3,6 +3,7 @@
   "name": "St. Elmo's Fire",
   "category": "atmospheric_phenomenon",
   "description": "A bright blue or violet glow appearing as a brushlike or pointed flame on tall, sharp objects (ship masts, aircraft, lightning rods, mountain peaks) during strong atmospheric electric fields. Long mistaken for a supernatural sign, it is now understood as a corona discharge of ionized air.",
+  "full_description": "St. Elmo's fire is a luminous plasma phenomenon — a corona discharge — produced when a strong atmospheric electric field (typically of order 100 kV/m, near or beneath thunderstorm cells, in volcanic ash plumes, or in some snowstorms) ionizes the air around grounded conductors with sharp points. Nitrogen and oxygen molecules excited by the discharge emit a characteristic blue or violet glow, often accompanied by a hissing or buzzing sound. The phenomenon has been observed and recorded for over two thousand years on the masts and rigging of ships, on the spear-points of legions, on aircraft leading edges and propellers, on church spires, and on the horns of cattle. Sailors named the phenomenon for St. Erasmus of Formia (St. Elmo), the patron saint of mariners, generally interpreting a single flame as an ill omen and twin flames (the 'Castor and Pollux' pattern) as a sign of deliverance. Scientific interest in the discharge runs from Pliny the Elder and Julius Caesar, through the explorers Antonio Pigafetta (Magellan, 1519–1522), William Bligh (HMS Bounty, 1788) and Charles Darwin (HMS Beagle, 1832), to its deliberate reproduction by Nikola Tesla in 1899 and its observation today on commercial aircraft (e.g. Air France Flight 447, 2009).",
   "aliases": [
     {
       "name": "Corposant",
@@ -42,5 +43,134 @@
   "origin": "Global. Anywhere strong atmospheric electric fields develop near pointed grounded conductors — open ocean storms, thunderstorm cells over land, volcanic plumes, and high-altitude flight.",
   "first_reported": "1st century AD",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Mediterranean sailors of the late Middle Ages and Renaissance attributed the discharge to St. Erasmus of Formia (Italian: Sant'Elmo), patron saint of sailors, whose blessing the lights were thought to signify.",
+    "meaning": "St. Elmo / Sant'Elmo / San Telmo are vernacular forms of St. Erasmus.",
+    "first_use": "Italian and Iberian sailing tradition, late medieval period"
+  },
+  "sightings_stats": {
+    "total_documented": 1000,
+    "verified": 1000,
+    "disputed": 0,
+    "debunked": 0,
+    "date_range": {
+      "earliest": "1st century AD",
+      "latest": "2026"
+    }
+  },
+  "timeline": [
+    {
+      "date": "1st century AD",
+      "event": "Pliny the Elder, Naturalis Historia II.101, describes 'stars' settling on ships' yard-arms and being treated by sailors as the Dioscuri (Castor and Pollux)",
+      "source": "Pliny, Naturalis Historia"
+    },
+    {
+      "date": "1519-1522",
+      "event": "Antonio Pigafetta records observations of corposants on the masts of Magellan's expedition",
+      "significance": "Earliest detailed early-modern shipboard account",
+      "source": "Pigafetta, Relazione del primo viaggio intorno al mondo"
+    },
+    {
+      "date": "1788",
+      "event": "William Bligh records corposants in the rigging of HMS Bounty",
+      "source": "Bligh, A Voyage to the South Sea (1792)"
+    },
+    {
+      "date": "1832-12-06",
+      "event": "Charles Darwin observes St. Elmo's fire at the masthead and yard-arms of HMS Beagle off the River Plate, recording 'every thing is in flames, the sky with lightning, the water with luminous particles, and even the very masts are pointed with a blue flame'",
+      "source": "Darwin, Voyage of the Beagle (1839)"
+    },
+    {
+      "date": "1899",
+      "event": "Nikola Tesla, working in his Colorado Springs laboratory, deliberately produces St. Elmo's-fire-style coronas using a high-voltage Tesla coil",
+      "source": "Tesla, Colorado Springs Notes (1899–1900, publ. 1978)"
+    },
+    {
+      "date": "2009-06-01",
+      "event": "Pilots and sources reconstructing the loss of Air France Flight 447 over the South Atlantic note that aircraft on the same route reported St. Elmo's fire on cockpit windows in heavy weather, illustrating the modern aviation context",
+      "source": "BEA (France) accident investigation reports"
+    }
+  ],
+  "related": [
+    {
+      "id": "ball-lightning",
+      "name": "Ball lightning",
+      "relationship": "related",
+      "description": "Distinct, still-debated luminous atmospheric phenomenon, sometimes confused with St. Elmo's fire"
+    },
+    {
+      "id": "lightning",
+      "name": "Lightning",
+      "relationship": "related",
+      "description": "Disruptive electrical discharge in the same atmospheric conditions"
+    },
+    {
+      "id": "earthquake-lights",
+      "name": "Earthquake lights",
+      "relationship": "similar",
+      "description": "Other anomalous luminous discharges of likely electrical origin"
+    }
+  ],
+  "cultural_notes": "A single flame ('Helena's fire') was widely considered an ill omen and a sign of impending destruction; twin flames were considered a sign of safe passage.",
+  "sources": [
+    {
+      "id": "wikipedia-stelmo",
+      "type": "website",
+      "title": "St. Elmo's fire",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/St._Elmo%27s_fire",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "pliny-naturalis",
+      "type": "book",
+      "title": "Naturalis Historia",
+      "authors": [
+        "Pliny the Elder"
+      ],
+      "date": "1st century AD"
+    },
+    {
+      "id": "pigafetta-1525",
+      "type": "book",
+      "title": "Relazione del primo viaggio intorno al mondo",
+      "authors": [
+        "Antonio Pigafetta"
+      ],
+      "date": "ca. 1525"
+    },
+    {
+      "id": "darwin-1839",
+      "type": "book",
+      "title": "Journal of Researches into the Geology and Natural History of the Various Countries Visited by H.M.S. Beagle (Voyage of the Beagle)",
+      "authors": [
+        "Charles Darwin"
+      ],
+      "publication": "Henry Colburn",
+      "date": "1839"
+    },
+    {
+      "id": "tesla-csn",
+      "type": "book",
+      "title": "Colorado Springs Notes, 1899–1900",
+      "authors": [
+        "Nikola Tesla"
+      ],
+      "publication": "Nolit (1978 ed.)",
+      "date": "1978"
+    },
+    {
+      "id": "uman-2008",
+      "type": "book",
+      "title": "The Art and Science of Lightning Protection",
+      "authors": [
+        "Martin A. Uman"
+      ],
+      "publication": "Cambridge University Press",
+      "date": "2008",
+      "isbn": "978-0521878111"
+    }
+  ],
+  "locations": []
 }

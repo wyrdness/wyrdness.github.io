@@ -3,6 +3,7 @@
   "name": "Pope Lick Monster",
   "category": "cryptid",
   "description": "An urban-legend cryptid said to inhabit the Norfolk Southern railway trestle over Pope Lick Creek in the Fisherville neighborhood of Louisville, Kentucky. Described as a part-man, part-goat (and sometimes part-sheep) creature that lures trespassers onto the active trestle.",
+  "full_description": "The Pope Lick Monster is a Louisville, Kentucky urban legend centered on the Norfolk Southern Railway trestle that crosses Pope Lick Creek in the Fisherville neighborhood east of the city. Witnesses and storytellers describe a creature that is part-man and part-goat (sometimes also described as part-sheep), with a human-like body, fur-covered legs, cloven hooves, horns, and a deformed humanoid face. Variant accounts attribute to it the ability to mimic human voices, a hypnotic or siren-like lure, and in more lurid retellings a bloodied axe with which it chases trespassers. The legend's mortal danger is the trestle itself: 90 feet tall, 772 feet long, and carrying active freight rail. Multiple deaths and serious injuries since the 1980s have been associated with people climbing the trestle in connection with the legend, including 17-year-old Jack 'J.C.' Bahm II in 1988, 26-year-old Roquel Bain in April 2016, and 15-year-old Savanna Bright in May 2019. The legend was popularized by filmmaker Ron Schildknecht's 1988 short film 'The Legend of the Pope Lick Monster' and has appeared in regional television features and documentaries on cryptids.",
   "aliases": [
     {
       "name": "Goatman",
@@ -39,5 +40,137 @@
   "origin": "Strictly local urban legend confined to the Pope Lick Creek trestle in the Fisherville neighborhood of eastern Louisville, Kentucky.",
   "first_reported": "1988",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Named for Pope Lick Creek, the small tributary of Floyds Fork beneath the railroad trestle in eastern Jefferson County, Kentucky. 'Pope Lick' itself derives from a salt lick on land owned by the Pope family in early Kentucky settlement.",
+    "meaning": "'Pope Lick Monster' simply localizes the legend to its trestle; 'Goatman' refers to the satyr-like body plan",
+    "first_use": "The legend's modern form was widely popularized after Ron Schildknecht's 1988 short film 'The Legend of the Pope Lick Monster'"
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0,
+    "date_range": {
+      "earliest": "1988",
+      "latest": "2026"
+    }
+  },
+  "timeline": [
+    {
+      "date": "1988-12-29",
+      "event": "Premiere of Ron Schildknecht's 16-minute short film 'The Legend of the Pope Lick Monster' at the Uptown Theater in Louisville",
+      "significance": "Cemented the modern form of the legend in regional culture",
+      "source": "Schildknecht, R. (1988); Louisville-area press coverage"
+    },
+    {
+      "date": "1988",
+      "event": "Death of 17-year-old Jack 'J.C.' Charles Bahm II, struck by a train on the Pope Lick trestle",
+      "significance": "Earliest documented fatality associated with trestle trespass tied to the legend",
+      "source": "Wikipedia: Pope Lick Monster (citing Louisville news coverage)"
+    },
+    {
+      "date": "1994",
+      "event": "Adult man killed by a train after his ATV overturned and trapped him on the trestle",
+      "significance": "Ongoing pattern of fatal trestle incidents",
+      "source": "Wikipedia: Pope Lick Monster"
+    },
+    {
+      "date": "2000",
+      "event": "19-year-old man fell to his death from the trestle after encountering a train",
+      "significance": "Continued fatal trespass incidents",
+      "source": "Wikipedia: Pope Lick Monster"
+    },
+    {
+      "date": "2016-04-23",
+      "event": "26-year-old Ohio tourist Roquel Bain killed by a train on the trestle while looking for the Pope Lick Monster; her boyfriend survived by hanging from the side",
+      "significance": "Most-cited modern fatality; revived calls for fencing and signage",
+      "source": "WHAS-11 / WLKY Louisville coverage"
+    },
+    {
+      "date": "2019-05-26",
+      "event": "15-year-old Savanna Bright killed on the trestle; companion Kaylee Keeling survived",
+      "significance": "Reignited public-safety advocacy by victims' families",
+      "source": "WHAS-11 Louisville coverage"
+    }
+  ],
+  "related": [
+    {
+      "id": "goatman-of-maryland",
+      "name": "Goatman (Prince George's County, Maryland)",
+      "relationship": "similar",
+      "description": "Maryland goat-man urban legend with comparable hybrid description"
+    },
+    {
+      "id": "lake-worth-monster",
+      "name": "Lake Worth Monster",
+      "relationship": "similar",
+      "description": "Texas goat-man / scaled bipedal cryptid from 1969"
+    },
+    {
+      "id": "satyr",
+      "name": "Satyr",
+      "relationship": "related",
+      "description": "Classical Greek goat-legged forest figure to which the description is often compared"
+    },
+    {
+      "id": "jersey-devil",
+      "name": "Jersey Devil",
+      "relationship": "similar",
+      "description": "Hooved, horned, regional cryptid of the eastern US"
+    }
+  ],
+  "cultural_notes": "Most local residents treat the legend as fiction; safety officials emphasize that the documented harm comes from trespass on an active rail trestle.",
+  "sources": [
+    {
+      "id": "wikipedia-pope-lick-monster",
+      "type": "website",
+      "title": "Pope Lick Monster",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Pope_Lick_Monster",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "atlas-obscura-pope-lick",
+      "type": "website",
+      "title": "Pope Lick Trestle Bridge",
+      "publication": "Atlas Obscura",
+      "url": "https://www.atlasobscura.com/places/pope-lick-trestle-bridge",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "schildknecht-1988",
+      "type": "documentary",
+      "title": "The Legend of the Pope Lick Monster",
+      "authors": [
+        "Ron Schildknecht"
+      ],
+      "date": "1988",
+      "url": "https://ronschildknecht.com/thelegendofthepopelickmonster",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "whas11-pope-lick-2019",
+      "type": "news",
+      "title": "Pope Lick Legend: Loved ones of those who died on trestle push for change",
+      "publication": "WHAS-11 (Louisville)",
+      "url": "https://www.whas11.com/article/news/local/push-changes-on-deadly-pope-lick-trestle/417-1c502a3d-8c63-4553-a962-d7ba75146bce",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "parklands-pope-lick",
+      "type": "website",
+      "title": "The Pope Lick Monster",
+      "publication": "The Parklands of Floyds Fork",
+      "url": "https://theparklands.org/the-pope-lick-monster/",
+      "accessed": "2026-05-07"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Pope Lick Trestle",
+      "lat": 38.1919,
+      "lng": -85.4878
+    }
+  ]
 }

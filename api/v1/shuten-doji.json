@@ -3,6 +3,7 @@
   "name": "Shuten-dōji",
   "category": "demon_angel",
   "description": "Shuten-dōji ('sake-drinking lad') is a legendary oni (demon) of Japanese folklore who, set in the reign of Emperor Ichijō (986–1011), is said to have led a band of demons from a fortress on Mount Ōe and abducted nobles of the capital. He was defeated by the warrior Minamoto no Yorimitsu (Raikō) and his Four Heavenly Kings, who infiltrated his stronghold disguised as yamabushi and gave him a poisoned sake.",
+  "full_description": "Shuten-dōji (酒呑童子, 'sake-drinking lad') is one of the most famous oni of Japanese legend. The story is set in the reign of Emperor Ichijō (986–1011) and casts the demon as the king of the oni of Mount Ōe (variously identified as Ōeyama in northwestern Kyoto / on the Tango–Tamba border, or with the southern Ōe near Kameoka). From this stronghold the demon and his followers are said to have raided the capital and carried off members of the nobility. By imperial command, the warrior Minamoto no Yorimitsu — popularly known as Raikō — together with his Four Heavenly Kings (shitennō: Watanabe no Tsuna, Sakata no Kintoki, Urabe no Suetake, and Usui Sadamitsu) and the courtier Fujiwara no Yasumasa, set out to destroy him. Disguising themselves as yamabushi (mountain ascetics) and aided by deities of Sumiyoshi, Iwashimizu Hachimangū, and Kumano (depending on the version), the heroes were welcomed into the demon's hall, where they presented him with a 'divine elixir' — a poisoned sake — that incapacitated him. Once he had drunk himself into a stupor they cut off his head, which is said to have flown through the air and tried to bite Raikō before being held down. The earliest surviving illustrated text, the Ōeyama Ekotoba (Ōeyama Picture Scroll), is held by the Itsuō Art Museum and dates to the 14th century. The legend was carried into Otogi-zōshi short stories, the Otogi Bunko of the early 18th century, Noh and Kabuki theatre, ukiyo-e, and into modern manga, anime, and video games. Major variant texts include Ōeyama Shuten-dōji and Ibukiyama Shuten-dōji, which place the events at different mountains and offer different origin stories for the demon.",
   "aliases": [
     {
       "name": "酒呑童子",
@@ -51,5 +52,115 @@
   "origin": "Mountain regions north and northwest of the Heian capital (Kyoto): Mount Ōe (Ōeyama) on the border of Tango and Tamba provinces; Mount Ibuki on the Ōmi–Mino border; and the southern Ōe area near Kameoka in modern Kyoto Prefecture.",
   "first_reported": "14th century",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Japanese: 酒 shu ('sake'), 呑 ten ('to drink'), 童子 dōji ('boy / child / acolyte').",
+    "meaning": "'Sake-drinking lad', referring to the demon's love of sake.",
+    "first_use": "14th century (in the Ōeyama Ekotoba); the legend is set earlier, in the Heian period (Emperor Ichijō, r. 986–1011)."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "986",
+      "event": "Beginning of the reign of Emperor Ichijō, the legendary setting of the Shuten-dōji story",
+      "significance": "Anchors the legend in the high Heian court",
+      "source": "Standard chronologies"
+    },
+    {
+      "date": "14th century",
+      "event": "Ōeyama Ekotoba illustrated scroll produced (now held by the Itsuō Art Museum)",
+      "significance": "Earliest surviving narrative form of the legend",
+      "source": "Itsuō Art Museum collection"
+    },
+    {
+      "date": "c. 1500",
+      "event": "Shuten-dōji story circulates as one of the canonical Otogi-zōshi short stories",
+      "significance": "Widespread literary diffusion",
+      "source": "Otogi-zōshi corpus"
+    },
+    {
+      "date": "c. 1720",
+      "event": "Shuten-dōji included in the Otogi Bunko woodblock-printed collection of 23 stories",
+      "significance": "Mass popular distribution in early modern Japan",
+      "source": "Otogi Bunko (Edo period)"
+    },
+    {
+      "date": "Edo period",
+      "event": "Shuten-dōji depicted in ukiyo-e prints (e.g. by Utagawa Kuniyoshi) and adapted for Noh, Kabuki, and bunraku stages",
+      "significance": "Establishes the iconic Edo visual tradition",
+      "source": "Various Edo-period sources"
+    }
+  ],
+  "related": [
+    {
+      "id": "ibaraki-doji",
+      "name": "Ibaraki-dōji",
+      "relationship": "related",
+      "description": "Shuten-dōji's chief retainer; severed-arm legend involving Watanabe no Tsuna at Rashōmon"
+    },
+    {
+      "id": "tsuchigumo",
+      "name": "Tsuchigumo",
+      "relationship": "related",
+      "description": "Another monstrous adversary of Minamoto no Yorimitsu"
+    },
+    {
+      "id": "oni",
+      "name": "Oni",
+      "relationship": "superset",
+      "description": "General class of Japanese demons; Shuten-dōji is their archetypal king"
+    },
+    {
+      "id": "yamamba",
+      "name": "Yamamba",
+      "relationship": "related",
+      "description": "Mountain hag identified in some versions as Shuten-dōji's mother"
+    }
+  ],
+  "cultural_notes": "Treated in tradition as a paradigm of demonic evil and as a foundational tale of warrior heroism and imperial legitimacy.",
+  "sources": [
+    {
+      "id": "wikipedia-shuten-doji",
+      "type": "website",
+      "title": "Shuten-dōji",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Shuten-d%C5%8Dji",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "reider-2010",
+      "type": "book",
+      "title": "Japanese Demon Lore: Oni from Ancient Times to the Present",
+      "authors": [
+        "Noriko T. Reider"
+      ],
+      "publication": "Utah State University Press",
+      "date": "2010",
+      "isbn": "978-0874217933"
+    },
+    {
+      "id": "reider-2016",
+      "type": "book",
+      "title": "Seven Demon Stories from Medieval Japan",
+      "authors": [
+        "Noriko T. Reider"
+      ],
+      "publication": "Utah State University Press",
+      "date": "2016",
+      "isbn": "978-1607324898"
+    },
+    {
+      "id": "oeyama-ekotoba",
+      "type": "archive",
+      "title": "Ōeyama Ekotoba (illustrated scroll)",
+      "publication": "Itsuō Art Museum",
+      "date": "14th century"
+    }
+  ],
+  "locations": []
 }

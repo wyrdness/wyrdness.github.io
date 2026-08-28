@@ -3,6 +3,7 @@
   "name": "Fox Sister (여우 누이)",
   "category": "shapeshifter",
   "description": "The Fox Sister is a figure of Korean folklore in which a kumiho (nine-tailed fox spirit) takes the form of a young girl and infiltrates a family as their long-lost daughter, secretly devouring livestock and family members until exposed by an older brother.",
+  "full_description": "The Fox Sister (여우 누이, yeowoo nui) is the title and central figure of one of the most widely circulated Korean folktales of the kumiho (구미호; Hanja 九尾狐, 'nine-tailed fox') tradition. In the canonical tale, recorded in late-19th and early-20th-century Korean folktale collections, an aging couple desperate for a daughter prays to the mountain spirit and is granted one — in fact, a kumiho in human form. The girl appears as a beautiful younger sister to the family's existing sons. After her arrival the family's livestock begin to die, one each night, with their livers torn out. The eldest sons are sent in turn to keep watch, fail (or are themselves killed), and only the youngest son (or, in some versions, an exiled elder brother) discovers the truth. Returning home with three magical bottles or talismans (often blue, red and white) given to him by a Buddhist monk or Daoist sage, he confronts his transformed 'sister' and destroys her. The Fox Sister fits within the wider East Asian fox-spirit complex (Chinese huli jing 狐狸精, Japanese kitsune 狐) but is distinctive in its Korean variant for the family-infiltration motif and the consistently malevolent characterisation of the kumiho. The term kumiho first appears in Korean writing in the poetry of Yi Kyubo (1168–1241) of the Goryeo dynasty; the medical compendium Donguibogam (compiled by Heo Jun, 1610) records a treatment for ailments attributed to the nine-tailed fox. The tale itself was widely collected during the Joseon and modern periods and provides the foundation for the post-1979 kumiho horror tradition in Korean television (notably KBS's Hometown of Legends / Jeonseol-ui Gohyang).",
   "aliases": [
     {
       "name": "여우 누이",
@@ -45,5 +46,130 @@
   "origin": "Korean folktale tradition (Korean peninsula and the wider Korean diaspora). The kumiho is part of the East Asian fox-spirit complex but the specific 'fox sister' motif is distinctively Korean.",
   "first_reported": "1200-01-01",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Korean kumiho / gumiho (구미호) is a Sino-Korean compound from Hanja 九尾狐 (nine-tailed fox), parallel to Chinese jiuweihu and Japanese kyūbi no kitsune. 'Yeowoo nui' (여우 누이) is the native-Korean phrase 'fox sister' used as the folktale title.",
+    "meaning": "Literally 'nine-tailed fox' (kumiho) or 'fox elder/younger sister' (yeowoo nui).",
+    "first_use": "Term kumiho attested in Korean writing by Yi Kyubo (1168–1241); folktale 'Yeowoo Nui' widely collected in late-19th- and early-20th-century Korean folklore collections."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0,
+    "date_range": {
+      "earliest": "1200",
+      "latest": "1900"
+    }
+  },
+  "timeline": [
+    {
+      "date": "1200-01-01",
+      "event": "Goryeo-era poet Yi Kyubo (1168–1241) uses the term kumiho in critical poetry comparing shamans to nine-tailed foxes",
+      "significance": "Earliest dateable Korean attestation of the term",
+      "source": "Yi Kyubo, Donggugi-sangguk-jip"
+    },
+    {
+      "date": "1610-01-01",
+      "event": "Heo Jun publishes the Donguibogam (Treasured Mirror of Eastern Medicine), which lists Byeogsadan as a treatment for illnesses caused by nine-tailed fox spirits",
+      "significance": "Documented inclusion of kumiho-related ailments in formal Korean medicine",
+      "source": "Heo Jun, Donguibogam (1610)"
+    },
+    {
+      "date": "1900-01-01",
+      "event": "Joseon-era and early-modern folktale collections record multiple variants of 'Yeowoo Nui' (Fox Sister)",
+      "significance": "Standardisation of the family-infiltration narrative",
+      "source": "Various Korean folktale collections, late 19th – early 20th c."
+    },
+    {
+      "date": "1979-01-01",
+      "event": "Actress Han Hye-suk first portrays a kumiho in KBS's Hometown of Legends (Jeonseol-ui Gohyang)",
+      "significance": "Beginning of the modern televised kumiho tradition",
+      "source": "Hometown of Legends, KBS (1979)"
+    },
+    {
+      "date": "2010-08-11",
+      "event": "MBC drama My Girlfriend is a Gumiho premieres",
+      "significance": "Major modern romantic-comedy reframing of the kumiho",
+      "source": "MBC (2010)"
+    },
+    {
+      "date": "2020-10-07",
+      "event": "tvN drama Tale of the Nine-Tailed (Gumiho-Jeon) premieres, with Lee Dong-wook in the lead role",
+      "significance": "Major contemporary fantasy reception of the kumiho mythology",
+      "source": "tvN (2020)"
+    }
+  ],
+  "related": [
+    {
+      "id": "huli-jing",
+      "name": "Huli jing (狐狸精)",
+      "relationship": "counterpart",
+      "description": "Chinese fox spirit; sometimes benevolent or amorous, often ambiguous"
+    },
+    {
+      "id": "kitsune",
+      "name": "Kitsune (狐)",
+      "relationship": "counterpart",
+      "description": "Japanese fox spirit; can be benevolent (zenko) or malicious (yako)"
+    },
+    {
+      "id": "ho-ly-tinh",
+      "name": "Hồ ly tinh",
+      "relationship": "counterpart",
+      "description": "Vietnamese fox spirit, parallel to the Chinese huli jing"
+    },
+    {
+      "id": "changeling",
+      "name": "Changeling traditions",
+      "relationship": "similar",
+      "description": "European tradition of supernatural substitution within a family"
+    }
+  ],
+  "cultural_notes": "Within Korean folk belief the kumiho is consistently depicted as malevolent, in marked contrast to the more ambiguous Chinese huli jing and the often benevolent Japanese kitsune. The 'fox sister' subtype emphasises the specific danger of strangers introduced into the household under the guise of kinship.",
+  "sources": [
+    {
+      "id": "heo-jun-1610",
+      "type": "book",
+      "title": "Donguibogam (Treasured Mirror of Eastern Medicine)",
+      "authors": [
+        "Heo Jun"
+      ],
+      "publication": "Joseon Royal Court",
+      "date": "1610"
+    },
+    {
+      "id": "wikipedia-kumiho",
+      "type": "website",
+      "title": "Kumiho",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Kumiho",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "kbs-hometown-of-legends",
+      "type": "documentary",
+      "title": "Hometown of Legends (전설의 고향)",
+      "publication": "Korean Broadcasting System (KBS)",
+      "date": "1977-1989"
+    },
+    {
+      "id": "samgungnyusa",
+      "type": "book",
+      "title": "Samgungnyusa (三國遺事)",
+      "authors": [
+        "Iryeon"
+      ],
+      "publication": "Goryeo Korea (compiled c. 1281)",
+      "date": "1281"
+    },
+    {
+      "id": "national-folk-museum-korea",
+      "type": "website",
+      "title": "National Folk Museum of Korea",
+      "url": "https://www.nfm.go.kr/english/index.do",
+      "accessed": "2026-05-07"
+    }
+  ],
+  "locations": []
 }

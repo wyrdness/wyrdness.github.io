@@ -3,6 +3,7 @@
   "name": "Eloko",
   "category": "entity_spirit",
   "description": "A dangerous dwarf-like forest spirit of the Mongo-Nkundo peoples of the Congo Basin, said to dwell in hollow trees, dressed in leaves with a beard of grass, carrying enchanting bells and possessing claws and a wide-opening mouth. Often understood as the spirit of an ancestor who died in the forest under unjust circumstances.",
+  "full_description": "Eloko (plural Biloko) is a class of small, malevolent forest spirit in the folklore of the Mongo-Nkundo peoples of central Democratic Republic of the Congo. According to Jan Knappert's 'African Mythology: An Encyclopedia of Myth and Legend' (1995) and standard summaries on Wikipedia, Biloko inhabit hollow trees deep in the rainforest, are clothed in leaves rather than fur, have grass for a beard, and carry small bells whose sound bewitches passers-by. They have piercing eyes, long sharp claws, and snouts capable of opening wide enough to swallow a human. They are said to be the spirits of ancestors who perished in the forest — through accident, murder, or improper burial — and to guard the rare game and fruits of the deep wood. Biloko jealously defend their territories: only the most courageous hunters can enter their domains, and only with strong protective magic, an amulet or a fetish. Biloko prey particularly on women, whom they lure with bell-songs in childlike voices. In Mongo-Nkundo cosmology the figure functions both as a category of dangerous spirit and as a powerful taboo against straying alone into the deep forest.",
   "aliases": [
     {
       "name": "Biloko",
@@ -29,5 +30,82 @@
   "origin": "Confined to the rainforests of the central Congo Basin, particularly the territory of the Mongo-Nkundo peoples of the Democratic Republic of the Congo.",
   "first_reported": "Pre-contact",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Mongo-Nkundo (a Bantu language of the Congo Basin); the noun class prefix bi- forms the plural 'biloko' from the singular 'eloko'.",
+    "meaning": "In Mongo-Nkundo usage, eloko refers to a small forest spirit or 'thing of the forest'.",
+    "first_use": "Long pre-colonial oral tradition; documented in 20th-century African ethnographic and folkloric literature (notably Knappert, 1995)."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0,
+    "date_range": {
+      "earliest": "Pre-contact",
+      "latest": "Contemporary"
+    }
+  },
+  "timeline": [
+    {
+      "date": "Pre-contact",
+      "event": "Mongo-Nkundo oral tradition of Biloko as forest dwarf-spirits and dangerous ancestral revenants",
+      "significance": "Cultural baseline",
+      "source": "Mongo-Nkundo oral tradition"
+    },
+    {
+      "date": "1995",
+      "event": "Jan Knappert's 'African Mythology: An Encyclopedia of Myth and Legend' summarizes Eloko/Biloko traditions in English",
+      "significance": "Standard English-language reference",
+      "source": "Knappert (1995)"
+    }
+  ],
+  "related": [
+    {
+      "id": "mokele-mbembe",
+      "name": "Mokele-mbembe",
+      "relationship": "related",
+      "description": "Distinct Congo Basin cryptid; both figures are part of the broader spirit-and-creature ecology of the Likouala/Congo rainforest."
+    },
+    {
+      "id": "mmoatia",
+      "name": "Mmoatia (Akan dwarves)",
+      "relationship": "similar",
+      "description": "West African dwarf forest-spirits with comparable functions."
+    },
+    {
+      "id": "duende",
+      "name": "Duende",
+      "relationship": "similar",
+      "description": "Iberian small folkloric spirit; structurally similar in role as a small forest/woodland trickster."
+    },
+    {
+      "id": "menehune",
+      "name": "Menehune",
+      "relationship": "similar",
+      "description": "Hawaiian dwarf forest-people; structural parallel as small forest beings."
+    }
+  ],
+  "cultural_notes": "Within Mongo-Nkundo tradition, the deep forest is understood as Biloko-territory and is to be entered only with proper ritual precaution.",
+  "sources": [
+    {
+      "id": "wikipedia-eloko",
+      "type": "website",
+      "title": "Eloko",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Eloko",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "knappert-1995",
+      "type": "book",
+      "title": "African Mythology: An Encyclopedia of Myth and Legend",
+      "authors": [
+        "Jan Knappert"
+      ],
+      "publication": "HarperCollins",
+      "date": "1995"
+    }
+  ],
+  "locations": []
 }

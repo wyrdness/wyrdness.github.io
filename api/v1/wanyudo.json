@@ -3,6 +3,7 @@
   "name": "Wanyūdō",
   "category": "entity_spirit",
   "description": "A Japanese yōkai depicted as a flaming oxcart wheel with a tormented man's face at its hub, said to roll along roads at night, steal souls, and punish the curious in Edo-period folklore.",
+  "full_description": "Wanyūdō (輪入道, 'wheel monk' or 'wheel priest') is a yōkai of Japanese folklore depicted as a flaming, single oxcart wheel with the angry, often tonsured face of a man set in its hub. It is most often connected to Kyoto and the wider Kinai region, where it is said to roll along roads at night, particularly in the vicinity of cemeteries, temples, and gates, devouring or stealing the souls of any who look upon it. A famous tale recorded in the Edo-period kaidan collection Shokoku Hyakumonogatari (1677) describes a Kyoto woman who, peeking through a sliding door at the rumbling sound outside, sees the wheel-monster carry off the legs of her child. A common protective measure recorded in folk practice is to post a strip of paper bearing the phrase 'this place is the village of Shōbo' (此所勝母の里) at the door, which is said to turn the wanyūdō away. The yokai was popularised in graphic form by Toriyama Sekien in Konjaku Gazu Zoku Hyakki (Supplement to the Hundred Demons of the Past and Present, 1779) and is closely related to katawaguruma, an earlier one-wheeled-cart yokai depicted as a woman riding a flaming wheel.",
   "aliases": [
     {
       "name": "Wanyudo",
@@ -47,5 +48,102 @@
   "origin": "Edo-period Japan, with strongest folk associations to Kyoto and the wider Kinai region; subsequently transmitted across Japan through kaidan literature and yōkai art.",
   "first_reported": "1677",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Japanese 輪入道, composed of 輪 (wa, 'wheel') + 入道 (nyūdō, 'one who has entered the [Buddhist] path'; a tonsured monk or, more loosely, a tonsured man).",
+    "meaning": "Literally 'wheel monk' or 'wheel priest'; the name combines the wheel-like body with a tonsured (often glaring) male face.",
+    "first_use": "Documented in Edo-period kaidan literature (Shokoku Hyakumonogatari, 1677); standardised graphically by Toriyama Sekien (1779)."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "1677-01-01",
+      "event": "Shokoku Hyakumonogatari published, including a katawaguruma / wanyūdō tale set in Kyoto",
+      "significance": "Earliest widely circulated literary attestation",
+      "source": "Shokoku Hyakumonogatari (1677)"
+    },
+    {
+      "date": "1779-01-01",
+      "event": "Toriyama Sekien publishes Konjaku Gazu Zoku Hyakki, including the canonical illustration of wanyūdō as a flaming wheel with a tonsured man's face",
+      "significance": "Codifies the visual iconography that has dominated since",
+      "source": "Toriyama Sekien, Konjaku Gazu Zoku Hyakki (1779)"
+    }
+  ],
+  "related": [
+    {
+      "id": "katawaguruma",
+      "name": "Katawaguruma",
+      "relationship": "related",
+      "description": "Female one-wheeled-cart yōkai depicted earlier than wanyūdō; the two are likely variants of a single underlying tradition"
+    },
+    {
+      "id": "onibi",
+      "name": "Onibi",
+      "relationship": "related",
+      "description": "Japanese 'demon fire' / will-o'-the-wisp yōkai"
+    },
+    {
+      "id": "yamabiko",
+      "name": "Yamabiko",
+      "relationship": "similar",
+      "description": "Mountain echo yōkai of Edo-period kaidan literature"
+    },
+    {
+      "id": "shokoku-hyakumonogatari",
+      "name": "Shokoku Hyakumonogatari yōkai corpus",
+      "relationship": "superset",
+      "description": "1677 kaidan collection in which wanyūdō / katawaguruma first prominently appears"
+    }
+  ],
+  "cultural_notes": "Wanyūdō is widely recognised as one of the canonical Edo-period yokai; modern Japanese readers encounter it primarily through yōkai art and popular media rather than as a literally believed road-haunter.",
+  "sources": [
+    {
+      "id": "wikipedia-wanyudo",
+      "type": "website",
+      "title": "Wanyūdō",
+      "url": "https://en.wikipedia.org/wiki/Wany%C5%AB%C5%8D",
+      "publication": "Wikipedia",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "shokoku-1677",
+      "type": "book",
+      "title": "Shokoku Hyakumonogatari (Hundred Tales from Various Provinces)",
+      "publication": "Edo-period publisher",
+      "date": "1677"
+    },
+    {
+      "id": "sekien-1779",
+      "type": "book",
+      "title": "Konjaku Gazu Zoku Hyakki (Supplement to the Hundred Demons of the Past and Present)",
+      "authors": [
+        "Toriyama Sekien"
+      ],
+      "publication": "Edo-period publisher",
+      "date": "1779"
+    },
+    {
+      "id": "foster-2015",
+      "type": "book",
+      "title": "The Book of Yōkai: Mysterious Creatures of Japanese Folklore",
+      "authors": [
+        "Michael Dylan Foster"
+      ],
+      "publication": "University of California Press",
+      "date": "2015",
+      "isbn": "978-0520271029"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Kyoto",
+      "lat": 35.0116,
+      "lng": 135.7681
+    }
+  ]
 }

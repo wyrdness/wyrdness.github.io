@@ -3,6 +3,7 @@
   "name": "Vanishing Hitchhiker",
   "category": "urban_legend",
   "description": "The Vanishing Hitchhiker is one of the world's most widespread urban legends, in which a driver picks up a hitchhiker who subsequently disappears from the moving vehicle; the driver later learns the hitchhiker died years earlier, often at or near the pickup location.",
+  "full_description": "The Vanishing Hitchhiker is among the most widely distributed and analytically studied urban legends in folklore scholarship. The archetypal narrative: a driver picks up a hitchhiker (typically a young woman) who engages in conversation, may provide a destination address or make a prediction, and then vanishes from the vehicle — often without warning and with the car door still closed. In many versions, the hitchhiker leaves behind a physical object (a sweater, a scarf, a jacket). The driver visits the address given and learns that the hitchhiker died years earlier, often in a car accident at or near the pickup location. The left-behind object is frequently found placed on the hitchhiker's grave. The legend has been documented across the United States, England, Ethiopia, Korea, France, South Africa, Tsarist Russia, Sweden (a 400-year-old Swedish manuscript describes an essentially identical encounter in 1602), and among many American ethnic and regional communities. Folklore scholar Jan Harold Brunvand conducted the most comprehensive analysis, identifying four primary variants (including prophecy-giving old women, divine figures in disguise, and gender-reversed versions) and tracing the legend's oral transmission. Beardsley and Hankey (1942–43) collected 79 American accounts, finding that the hitchhiker is female in the majority of cases. The legend reflects perennial themes of death, unfinished journeys, charitable acts rewarded with supernatural revelation, and the permeable boundary between the living and the dead.",
   "aliases": [
     {
       "name": "Phantom Hitchhiker",
@@ -44,5 +45,104 @@
   "origin": "Worldwide — one of the most geographically widespread urban legends documented by folklorists. Versions have been recorded across the Americas, Europe, Africa, Asia, and among diaspora communities worldwide.",
   "first_reported": "1602-01-01",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "The term 'vanishing hitchhiker' was popularized by folklore scholar Jan Harold Brunvand in his 1981 book The Vanishing Hitchhiker: American Urban Legends and Their Meanings.",
+    "meaning": "Descriptive: a hitchhiker who disappears without explanation during or after a car ride",
+    "first_use": "The phenomenon itself is documented as early as the 1870s in American oral tradition (per Brunvand's research); the scholarly term was coined in 1981"
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "1602-01-01",
+      "event": "Swedish priest Joen Petri Klint records an encounter in Västergötland: a priest and two farmers meet a maid at a Candlemas market who makes prophetic predictions and disappears",
+      "significance": "Earliest known documented version of the vanishing hitchhiker legend pattern",
+      "source": "Manuscript by Joen Petri Klint (c. 1602); cited in Wikipedia article on The Vanishing Hitchhiker"
+    },
+    {
+      "date": "1942-01-01",
+      "event": "Beardsley and Hankey publish the first systematic American collection of vanishing hitchhiker accounts; collect 79 cases and identify four distinct variant types",
+      "significance": "First major scholarly analysis of the American vanishing hitchhiker tradition",
+      "source": "Beardsley, R.K. & Hankey, R. (1942-43), California Folklore Quarterly"
+    },
+    {
+      "date": "1981-01-01",
+      "event": "Jan Harold Brunvand publishes The Vanishing Hitchhiker: American Urban Legends and Their Meanings; the book brings the legend to wide public attention and establishes 'urban legend' as a scholarly category",
+      "significance": "Seminal work of folklore scholarship; defined the 'vanishing hitchhiker' as a scholarly category and established the academic study of contemporary legends",
+      "source": "Brunvand, J.H. (1981), The Vanishing Hitchhiker, W.W. Norton"
+    }
+  ],
+  "related": [
+    {
+      "id": "ghost-hitchhiker-resurrection-mary",
+      "name": "Resurrection Mary",
+      "relationship": "regional_variant",
+      "description": "The most famous named American vanishing hitchhiker; a young blonde woman reportedly seen near Resurrection Cemetery in Justice, Illinois, since the 1930s"
+    },
+    {
+      "id": "phantom-vehicles",
+      "name": "Phantom Vehicles",
+      "relationship": "related",
+      "description": "Related category of ghostly road phenomena involving spectral cars, trucks, or motorcycles"
+    },
+    {
+      "id": "pele-hitchhiker",
+      "name": "Pele Hitchhiker (Hawaii)",
+      "relationship": "regional_variant",
+      "description": "Hawaiian variant in which the goddess Pele appears as a hitchhiker to test drivers; a divine disguise variant of the legend"
+    }
+  ],
+  "cultural_notes": "The vanishing hitchhiker legend reflects widespread beliefs about ghosts who are unable to rest because of unfinished business, violent death, or incomplete journeys. It also reflects moral themes: the charitable driver is rewarded (or tested) by the supernatural encounter, and the revelation of the hitchhiker's death confers a kind of awe and validation on the helpful act.",
+  "sources": [
+    {
+      "id": "brunvand-1981",
+      "type": "book",
+      "title": "The Vanishing Hitchhiker: American Urban Legends and Their Meanings",
+      "authors": [
+        "Jan Harold Brunvand"
+      ],
+      "publication": "W.W. Norton",
+      "date": "1981"
+    },
+    {
+      "id": "beardsley-hankey-1942",
+      "type": "article",
+      "title": "The Vanishing Hitchhiker",
+      "authors": [
+        "Richard K. Beardsley",
+        "Rosalie Hankey"
+      ],
+      "publication": "California Folklore Quarterly",
+      "date": "1942"
+    },
+    {
+      "id": "goss-1984",
+      "type": "book",
+      "title": "The Evidence for Phantom Hitch-Hikers",
+      "authors": [
+        "Michael Goss"
+      ],
+      "publication": "Aquarian Press",
+      "date": "1984"
+    },
+    {
+      "id": "wikipedia-vanishing-hitchhiker",
+      "type": "website",
+      "title": "The Vanishing Hitchhiker — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Vanishing_Hitchhiker",
+      "accessed": "2026-05-08"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Resurrection Cemetery, Justice, Illinois",
+      "lat": 41.7358,
+      "lng": -87.8286
+    }
+  ]
 }

@@ -3,6 +3,7 @@
   "name": "Gumiho",
   "category": "shapeshifter",
   "description": "The gumiho is a nine-tailed fox spirit of Korean folklore, typically depicted as a shapeshifting woman who feeds on humans — particularly their livers or hearts — to sustain or transform her supernatural existence.",
+  "full_description": "The gumiho (Korean 구미호 / Hanja 九尾狐, 'nine-tailed fox') is the Korean variant of the East Asian nine-tailed fox spirit, sharing a common ancestry with the Chinese huli jing and Japanese kitsune but developing distinctive Korean features under successive Buddhist, shamanist, and Confucian influences. Earliest references appear in the 12th-century Samguk Sagi and the 13th-century Samguk Yusa, where foxes function variously as omens, mountain-deity helpers, and shapeshifting tricksters. The specifically nine-tailed form becomes prominent from the Goryeo period onward, including in the writings of Yi Kyu-bo (1168–1241). In classical Korean folktales the gumiho is overwhelmingly a malevolent figure: a thousand-year-old fox capable of taking the form of a beautiful woman, who must consume human flesh — most famously the liver — to survive or to complete her transformation into a human being. Where the Chinese huli jing and Japanese kitsune span benevolent and malevolent roles, the Korean gumiho was, in the Joseon dynasty in particular, almost uniformly depicted as dangerous. Modern South Korean popular culture (notably the dramas Forbidden Love / Gumiho Foxwife (2004), My Girlfriend is a Gumiho (2010), and Tale of the Nine-Tailed (2020)) has substantially rehabilitated the figure as a tragic, romantic, or even male protagonist.",
   "aliases": [
     {
       "name": "구미호",
@@ -52,5 +53,128 @@
   "origin": "Korean cultural sphere — Korean Peninsula and the Korean diaspora.",
   "first_reported": "12th–13th century",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Korean compound from Sino-Korean numerals and characters: 구 (gu, 'nine') + 미 (mi, 'tail') + 호 (ho, 'fox'). The Hanja form 九尾狐 is shared with Chinese (jiǔwěihú).",
+    "meaning": "'Nine-tailed fox'.",
+    "first_use": "Korean literary references from the Goryeo period (c. 12th–14th c.); the shared East Asian 'nine-tailed fox' motif is older."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "1145",
+      "event": "Samguk Sagi compiled by Kim Pusik; foxes appear in Three Kingdoms-period anecdotes",
+      "significance": "Earliest extant Korean fox references",
+      "source": "Samguk Sagi (1145)"
+    },
+    {
+      "date": "c. 1281",
+      "event": "Samguk Yusa compiled by the monk Iryeon, including the Won-Gwang legend with a black fox mountain-deity guide",
+      "significance": "Foundational Korean Buddhist fox-spirit narrative",
+      "source": "Iryeon, Samguk Yusa (c. 1281)"
+    },
+    {
+      "date": "1168–1241",
+      "event": "Yi Kyu-bo writes scholarly poems referencing nine-tailed foxes",
+      "significance": "Goryeo-era literary entrenchment of the gumiho image",
+      "source": "Yi Kyu-bo collected works"
+    },
+    {
+      "date": "Joseon dynasty (1392–1897)",
+      "event": "Joseon-period folktales codify the gumiho as a malevolent female shapeshifter who eats livers; tales such as The Fox Sister and Yeowoo Guseul circulate",
+      "significance": "Defines the classical Korean gumiho",
+      "source": "Korean folktale collections"
+    },
+    {
+      "date": "1910",
+      "event": "Im Bang and Yi Ryuk's tales (translated as Korean Folk Tales by James S. Gale, 1913) bring gumiho stories into English",
+      "significance": "Earliest substantial English-language access",
+      "source": "Gale, J. S. (trans.) (1913)"
+    },
+    {
+      "date": "2010",
+      "event": "SBS drama My Girlfriend is a Gumiho debuts, sympathetic-romantic gumiho retelling",
+      "significance": "Mainstreams the romanticised gumiho",
+      "source": "SBS broadcast"
+    },
+    {
+      "date": "2020",
+      "event": "tvN drama Tale of the Nine-Tailed reframes the gumiho as a male protagonist",
+      "significance": "Major recent reinvention of the figure",
+      "source": "tvN broadcast"
+    }
+  ],
+  "related": [
+    {
+      "id": "kitsune",
+      "name": "Kitsune",
+      "relationship": "regional_variant",
+      "description": "Japanese fox spirit with broadly similar shapeshifting and longevity motifs"
+    },
+    {
+      "id": "huli-jing",
+      "name": "Huli jing",
+      "relationship": "regional_variant",
+      "description": "Chinese fox spirit; shared origin of the nine-tailed motif (Daji and Su Daji legends)"
+    },
+    {
+      "id": "ho-ly-tinh",
+      "name": "Hồ ly tinh",
+      "relationship": "regional_variant",
+      "description": "Vietnamese fox spirit"
+    },
+    {
+      "id": "yeowoo-guseul",
+      "name": "Yeowoo Guseul",
+      "relationship": "related",
+      "description": "The 'fox marble' or 'fox bead' that gumiho carry, a recurring item in folktales"
+    }
+  ],
+  "cultural_notes": "Traditional belief held the gumiho to be a real and dangerous supernatural entity; modern Korean attitudes are generally folkloric rather than literal, but ritual avoidance of certain places once associated with foxes persists in rural areas.",
+  "sources": [
+    {
+      "id": "wikipedia-kumiho",
+      "type": "website",
+      "title": "Kumiho",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Kumiho",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "samguk-yusa",
+      "type": "book",
+      "title": "Samguk Yusa",
+      "authors": [
+        "Iryeon"
+      ],
+      "date": "c. 1281"
+    },
+    {
+      "id": "samguk-sagi",
+      "type": "book",
+      "title": "Samguk Sagi",
+      "authors": [
+        "Kim Pusik"
+      ],
+      "date": "1145"
+    },
+    {
+      "id": "gale-1913",
+      "type": "book",
+      "title": "Korean Folk Tales: Imps, Ghosts and Fairies",
+      "authors": [
+        "Im Bang",
+        "Yi Ryuk"
+      ],
+      "publication": "J. M. Dent / E. P. Dutton",
+      "date": "1913",
+      "notes": "Translated by James S. Gale"
+    }
+  ],
+  "locations": []
 }

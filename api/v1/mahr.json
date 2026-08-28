@@ -3,6 +3,7 @@
   "name": "Mahr",
   "category": "demon_angel",
   "description": "A malicious entity in Germanic and Slavic folklore that sits on sleepers' chests during the night, causing nightmares, chest pressure, cold sweats, and sleep paralysis — the supernatural explanation for a cluster of experiences now understood as sleep paralysis.",
+  "full_description": "The Mahr (also Mare, Mara, Mora) is a female supernatural being found across Germanic, Scandinavian, and Slavic folklore traditions who produces nightmares by riding the chest of sleeping victims. She causes suffocating pressure, cold sweats, the inability to move or call for help, and terrifying visions — a constellation of experiences now clinically recognized as sleep paralysis. The term is the source of the English word 'nightmare' (mare + night) and its equivalents in Scandinavian languages (Danish mareridt, Norwegian mareritt, Swedish mardröm). The Mahr is typically described as a shapeshifter: she may appear as a young beautiful woman, a terrifying old hag, or in animal form. She typically enters through keyholes, cracks, or any available gap. In Polish tradition, the zmora could be a living woman cursed by birth circumstance — for example, if a godparent mispronounced a baptismal prayer. In Scandinavian tradition, the mare could also afflict horses and trees, producing tangled manes (mare-locks) and twisted bark. The Mahr belongs to a global cluster of sleep-demon traditions that share the sleep paralysis experiential substrate: the Old Hag of Newfoundland, the Kanashibari of Japan, the Popobawa of Zanzibar, and others.",
   "aliases": [
     {
       "name": "Mare",
@@ -72,5 +73,86 @@
   "origin": "Germanic and Slavic Europe, with the broadest distribution across Northern and Central Europe and Scandinavia. Related traditions with the same sleep-paralysis substrate exist globally.",
   "first_reported": "1200-01-01",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Old English mære, from Proto-Germanic *marōn, connected to Proto-Indo-European *mer- meaning 'to press, crush, oppress.' The French cauchemar (nightmare) borrows the Germanic mare root through Old French.",
+    "meaning": "Pressing, crushing, oppressing spirit; by usage, a nightmare-causing entity",
+    "first_use": "Attested in Old English; earliest detailed account in Snorri Sturluson's Ynglinga saga (13th century)"
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "1220-01-01",
+      "event": "Snorri Sturluson's Ynglinga saga describes King Vanlandi's death caused by a nightmare conjured by Finnish sorceress Huld",
+      "significance": "Earliest detailed literary account of the mare tradition in Norse literature",
+      "source": "Sturluson, S. (c. 1220), Ynglinga saga"
+    },
+    {
+      "date": "1350-01-01",
+      "event": "Münchener Nachtsegen (Munich night-blessing), a 14th-century German protective charm manuscript, documents counter-measures against the Mare",
+      "significance": "Shows the Mare tradition embedded in practical religious life",
+      "source": "Münchener Nachtsegen (c. 14th century)"
+    }
+  ],
+  "related": [
+    {
+      "id": "alp",
+      "name": "Alp",
+      "relationship": "similar",
+      "description": "German nightmare demon; nightmare called Albtraum (alp dream)"
+    },
+    {
+      "id": "incubus",
+      "name": "Incubus / Succubus",
+      "relationship": "related",
+      "description": "Medieval Christian sleep demon tradition with overlapping characteristics"
+    },
+    {
+      "id": "old-hag",
+      "name": "Old Hag",
+      "relationship": "regional_variant",
+      "description": "Newfoundland and Maritime Canada sleep paralysis tradition"
+    },
+    {
+      "id": "kanashibari",
+      "name": "Kanashibari",
+      "relationship": "similar",
+      "description": "Japanese sleep paralysis tradition"
+    }
+  ],
+  "cultural_notes": "In traditional Germanic and Slavic communities, the mare was understood as a real entity requiring active countermeasures: protective charms, prayers, locked windows, iron objects under the pillow, and in some traditions, discovering and confronting the living woman who was acting as the mare.",
+  "sources": [
+    {
+      "id": "sturluson-ynglinga",
+      "type": "book",
+      "title": "Ynglinga saga",
+      "authors": [
+        "Snorri Sturluson"
+      ],
+      "date": "1220"
+    },
+    {
+      "id": "hufford-1982",
+      "type": "book",
+      "title": "The Terror That Comes in the Night: An Experience-Centered Study of Supernatural Assault Traditions",
+      "authors": [
+        "David J. Hufford"
+      ],
+      "publication": "University of Pennsylvania Press",
+      "date": "1982"
+    },
+    {
+      "id": "wikipedia-mare",
+      "type": "website",
+      "title": "Mare (folklore)",
+      "url": "https://en.wikipedia.org/wiki/Mare_(folklore)",
+      "accessed": "2026-05-08"
+    }
+  ],
+  "locations": []
 }

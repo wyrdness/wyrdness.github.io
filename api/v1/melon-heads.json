@@ -3,6 +3,7 @@
   "name": "Melon Heads",
   "category": "urban_legend",
   "description": "Regional American urban legends — concentrated in Michigan, Ohio and Connecticut — describing small humanoid beings with grossly enlarged heads who emerge at night from forested back roads, asylum sites, or rural mansions to attack trespassers.",
+  "full_description": "The Melon Heads (or Melonheads) are a cluster of regional American urban legends best documented in Michigan, Ohio and Connecticut. In each variant, witnesses claim to encounter small, pale, hairless humanoids with disproportionately large bulbous heads that lurk in wooded areas and along isolated rural roads. The Michigan version centres on the Felt Mansion area of Saugatuck Township, Allegan County, with origin stories invoking a fictional 'Junction Insane Asylum'; locally the beings are called 'wobbleheads.' The Ohio version is concentrated in Kirtland (Lake County) along Wisner Road and in Chardon Township (Geauga County), with a 'Dr. Crow' figure as villain. The Connecticut version is the broadest, spread across southern Litchfield County, central and eastern Fairfield County and western New Haven County, with two main origin stories: an asylum/prison-escape narrative and a Colonial-era witchcraft-banishment narrative. None of the alleged historical institutions corresponds to a real place: the 'Junction Insane Asylum' did not exist (the Felt Mansion area was at one point a prison), and 'Dr. Crow' / Crowe / Krohe is similarly unevidenced. The legends are commonly suggested to draw on misunderstanding of hydrocephalus and on real institutions such as Fairfield Hills State Mental Hospital and Garner Correctional Institution in Newtown, Connecticut.",
   "aliases": [
     {
       "name": "Wobbleheads",
@@ -33,5 +34,143 @@
   "origin": "Three principal regional clusters in the United States: Michigan (especially the Felt Mansion area in Saugatuck Township, Allegan County), Ohio (Kirtland in Lake County and Chardon Township in Geauga County), and Connecticut (southern Litchfield County, central/eastern Fairfield County, western New Haven County).",
   "first_reported": "Late 20th century",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Coined in mid- to late-20th-century American teen folklore, descriptive of the alleged enlarged 'melon-shaped' heads of the beings.",
+    "meaning": "A pejorative American slang phrase comparing the head shape to a melon.",
+    "first_use": "Mid-to-late 20th century in regional teen oral tradition; entered local print sources by the late 1990s and early 2000s"
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "2005-01-01",
+      "event": "Joseph A. Citro publishes Weird New England, including the Connecticut Melon Heads as a regional legend cluster",
+      "significance": "Earliest widely-cited folkloric synthesis of the Connecticut variant",
+      "source": "Citro, J. A. (2005), Weird New England"
+    },
+    {
+      "date": "2010-01-01",
+      "event": "Independent film Legend of the Melonheads released, drawing on the Ohio variant",
+      "significance": "Earliest feature-length cinematic treatment",
+      "source": "Independent film record"
+    },
+    {
+      "date": "2011-01-01",
+      "event": "Independent film The Melonheads released, drawing on the Michigan variant",
+      "significance": "Cinematic treatment of the Michigan variant",
+      "source": "Independent film record"
+    },
+    {
+      "date": "2018-01-01",
+      "event": "The Field Guide to Evil anthology film released, with a melon-head-style segment",
+      "significance": "International anthology treatment",
+      "source": "Film festival record"
+    },
+    {
+      "date": "2024-01-01",
+      "event": "Independent film The Melon Heads: House of Crow released",
+      "significance": "Recent cinematic treatment of the Ohio 'Dr. Crow' variant",
+      "source": "Independent film record"
+    }
+  ],
+  "related": [
+    {
+      "id": "bunny-man",
+      "name": "Bunny Man",
+      "relationship": "similar",
+      "description": "Virginia asylum-escapee urban legend"
+    },
+    {
+      "id": "charlie-no-face",
+      "name": "Charlie No-Face",
+      "relationship": "related",
+      "description": "Western Pennsylvania regional legend (with a real historical antecedent in Raymond Robinson)"
+    },
+    {
+      "id": "cropsey",
+      "name": "Cropsey",
+      "relationship": "similar",
+      "description": "New York asylum-escapee urban legend"
+    },
+    {
+      "id": "goatman",
+      "name": "Goatman",
+      "relationship": "similar",
+      "description": "Maryland regional cryptid / urban legend"
+    },
+    {
+      "id": "hookman",
+      "name": "Hookman",
+      "relationship": "similar",
+      "description": "Generic American 'lover's lane' urban legend"
+    }
+  ],
+  "cultural_notes": "Regarded by folklorists and journalists as a regional urban legend rather than a real phenomenon.",
+  "sources": [
+    {
+      "id": "citro-2005",
+      "type": "book",
+      "title": "Weird New England: Your Travel Guide to New England's Local Legends and Best Kept Secrets",
+      "authors": [
+        "Joseph A. Citro"
+      ],
+      "publication": "Sterling Publishing",
+      "date": "2005",
+      "isbn": "978-1402733307"
+    },
+    {
+      "id": "godfrey-2006",
+      "type": "book",
+      "title": "Weird Michigan",
+      "authors": [
+        "Linda S. Godfrey"
+      ],
+      "publication": "Sterling Publishing",
+      "date": "2006",
+      "isbn": "978-1402739064"
+    },
+    {
+      "id": "willis-2005",
+      "type": "book",
+      "title": "Weird Ohio",
+      "authors": [
+        "James A. Willis",
+        "Andy Henderson",
+        "Loren Coleman"
+      ],
+      "publication": "Sterling Publishing",
+      "date": "2005",
+      "isbn": "978-1402733833"
+    },
+    {
+      "id": "wikipedia-melon-heads",
+      "type": "website",
+      "title": "Melon heads",
+      "url": "https://en.wikipedia.org/wiki/Melon_heads",
+      "publication": "Wikipedia",
+      "accessed": "2026-05-07"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Felt Mansion area",
+      "lat": 42.6175,
+      "lng": -86.1944
+    },
+    {
+      "name": "Wisner Road, Kirtland",
+      "lat": 41.626,
+      "lng": -81.358
+    },
+    {
+      "name": "Newtown / Fairfield Hills, Connecticut",
+      "lat": 41.4101,
+      "lng": -73.3037
+    }
+  ]
 }

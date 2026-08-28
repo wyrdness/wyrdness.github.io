@@ -3,6 +3,7 @@
   "name": "Skinwalker Ranch",
   "category": "location",
   "description": "Skinwalker Ranch is a 512-acre property in Uintah County, Utah, that has been the subject of claims of extensive paranormal activity including UFO sightings, cattle mutilations, poltergeist phenomena, and cryptid encounters, and which was investigated by Robert Bigelow's NIDS organization and a $22 million Pentagon study.",
+  "full_description": "Skinwalker Ranch is approximately 512 acres of private land located southeast of Ballard in Uintah County, Utah, bordering the Uintah and Ouray Indian Reservation. The property first attracted national attention during the ownership of Terry and Gwen Sherman (1994–1996), who reported close to 100 incidents involving cattle mutilations, UFO and orb sightings, large unidentified animals with red eyes, and other anomalous phenomena. The Sherman family sold the ranch in 1996 to Robert Bigelow's National Institute for Discovery Science (NIDSci) for $200,000. NIDSci conducted approximately eight years of scientific monitoring but encountered significant difficulty obtaining evidence consistent with scientific publication. The ranch subsequently connected to the Defense Intelligence Agency when DIA official James Lacatski visited; this connection, along with the advocacy of Senator Harry Reid and Senator Ted Stevens, helped secure approximately $22 million in Department of Defense funding (through the AAWSAP program) for research into unidentified aerial phenomena. In 2016, Brandon Fugal purchased the property through Adamantium Real Estate LLC for approximately $500,000. The ranch has been the subject of a History Channel reality television series (The Secret of Skinwalker Ranch, 2020–present). Skeptics, including Robert Sheaffer, argue the phenomena are illusory, noting that prior 60-year residents reported no supernatural events and that NIDSci produced no scientific publications supporting the claims. No peer-reviewed scientific evidence substantiating the paranormal claims has been published.",
   "aliases": [
     {
       "name": "Sherman Ranch",
@@ -37,5 +38,119 @@
   "origin": "A single specific property in Uintah County, Utah.",
   "first_reported": "1994-01-01",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Named after the Navajo/Ute concept of the skinwalker (yee naaldlooshii) — a witch or shape-shifter in Navajo tradition — by popular writers and media, not by the Uintah-area Native nations themselves.",
+    "meaning": "A ranch associated in popular culture with skinwalker legends; the name is an outsider imposition and does not reflect the Uintah and Ouray Ute Nation's own traditions or naming.",
+    "first_use": "The 'Skinwalker Ranch' name was popularized in the 1996 Deseret News and Las Vegas Mercury articles and the 2005 book Hunt for the Skinwalker by Colm Kelleher and George Knapp."
+  },
+  "sightings_stats": {
+    "total_documented": 100,
+    "verified": 0,
+    "disputed": 100,
+    "debunked": 0,
+    "date_range": {
+      "earliest": "1994",
+      "latest": "present"
+    }
+  },
+  "timeline": [
+    {
+      "date": "1934-01-01",
+      "event": "Kenneth and Edith Myers purchase the property; own it until 1994 without documented paranormal activity",
+      "significance": "Establishes 60-year period of no documented claims",
+      "source": "Wikipedia: Skinwalker Ranch"
+    },
+    {
+      "date": "1994-01-01",
+      "event": "Terry and Gwen Sherman purchase the property; begin reporting paranormal incidents including UFOs, cattle mutilation, and unusual animals",
+      "significance": "Beginning of the modern paranormal narrative",
+      "source": "Kelleher, C. and Knapp, G. (2005), Hunt for the Skinwalker"
+    },
+    {
+      "date": "1996-01-01",
+      "event": "Articles about the Sherman ranch appear in Deseret News and Las Vegas Mercury; Robert Bigelow's NIDSci purchases the property for $200,000",
+      "significance": "Transition to organized investigation; property enters national media",
+      "source": "Deseret News; Las Vegas Mercury (1996)"
+    },
+    {
+      "date": "1996-01-01",
+      "event": "James Randi Foundation awards Bigelow a satirical Pigasus Award for 'most useless study'",
+      "significance": "Skeptical counter-response; Bigelow's investigation criticized as pseudoscience",
+      "source": "James Randi Foundation (1996)"
+    },
+    {
+      "date": "2005-01-01",
+      "event": "Colm Kelleher and George Knapp publish Hunt for the Skinwalker, the primary popular account of NIDSci's investigation",
+      "significance": "Defining book establishing the ranch's narrative in popular culture",
+      "source": "Kelleher, C. and Knapp, G. (2005), Hunt for the Skinwalker"
+    },
+    {
+      "date": "2007-01-01",
+      "event": "U.S. Department of Defense appropriates approximately $22 million for AAWSAP (Advanced Aerospace Weapon System Applications Program) following DIA official James Lacatski's visit and advocacy by Senators Harry Reid and Ted Stevens",
+      "significance": "Government-level engagement with the phenomenon; largest known government investment in UAP-adjacent research at that time",
+      "source": "Wikipedia: Skinwalker Ranch; congressional record"
+    },
+    {
+      "date": "2016-01-01",
+      "event": "Brandon Fugal purchases the property through Adamantium Real Estate LLC for approximately $500,000",
+      "significance": "New ownership; subsequent television development",
+      "source": "Wikipedia: Skinwalker Ranch"
+    },
+    {
+      "date": "2020-01-01",
+      "event": "History Channel premieres The Secret of Skinwalker Ranch reality television series",
+      "significance": "Renewed mainstream media attention; ongoing through present",
+      "source": "History Channel (2020–present)"
+    }
+  ],
+  "related": [
+    {
+      "id": "ufo-uap",
+      "name": "UFO/UAP sightings",
+      "relationship": "related",
+      "description": "UFO and orb sightings are the most extensively documented class of claims at the ranch"
+    },
+    {
+      "id": "cattle-mutilation",
+      "name": "Cattle Mutilation",
+      "relationship": "related",
+      "description": "Cattle mutilations are among the most-cited incidents reported by the Sherman family"
+    },
+    {
+      "id": "skinwalker",
+      "name": "Skinwalker (Navajo)",
+      "relationship": "related",
+      "description": "The ranch is named after the Navajo yee naaldlooshii legend, though that connection is outsider framing rather than local Native tradition"
+    }
+  ],
+  "cultural_notes": "The ranch operates within the American UFO subculture as a symbol of government awareness of and concealment of paranormal phenomena. Proponents interpret the AAWSAP funding as implicit official acknowledgment of genuine anomalies.",
+  "sources": [
+    {
+      "id": "kelleher-knapp-2005",
+      "type": "book",
+      "title": "Hunt for the Skinwalker: Science Confronts the Unexplained at a Remote Ranch in Utah",
+      "authors": [
+        "Colm Kelleher",
+        "George Knapp"
+      ],
+      "publication": "Paraview Pocket Books",
+      "date": "2005"
+    },
+    {
+      "id": "wikipedia-skinwalker-ranch",
+      "type": "website",
+      "title": "Skinwalker Ranch",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Skinwalker_Ranch",
+      "accessed": "2026-05-08"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Skinwalker Ranch",
+      "lat": 40.258,
+      "lng": -109.888
+    }
+  ]
 }

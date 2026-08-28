@@ -3,6 +3,7 @@
   "name": "Tatzelwurm",
   "category": "cryptid",
   "description": "An alpine lizard-like cryptid reported in Switzerland, Austria, Bavaria, and adjacent French and Italian Alps from the 17th century onwards, with stubby body, cat-like face, and reduced limbs.",
+  "full_description": "The Tatzelwurm is a cryptid creature of Alpine folklore reported across south-central European mountain country, particularly in Switzerland, Austria, Bavaria, the French and Italian Alps, and (in cognate forms) southern Sweden. Reports describe a 60–200 cm long, stubby, serpent-like body with a cat-like or feline face, sometimes hairy, with two short forelegs (and in some accounts no hind legs, in others four legs, occasionally six). The creature is said to hiss or whistle, leap, and emit poisonous breath, and to retreat into burrows or tunnels among scree slopes and cattle pastures. The earliest detailed account is generally given as that of the Salzburg-area peasant Hans Fuchs, who in 1779 is said to have died of fright after encountering two of the creatures. The figure was reported and illustrated in 17th- and 18th-century natural-history compilations, notably Johann Jakob Scheuchzer's 'Itinera per Helvetiae Alpinas Regiones' (1723) and Johann Jacob Wagner's 'Historia Naturalis Helvetiae Curiosa' (1680). A widely circulated 1934 photograph by Balkin (later usually identified as Balthasar 'Balkin' Beuthel or similar; the photographer's identity is disputed) showed an apparent Tatzelwurm and was promptly identified by zoologists as a stuffed pottery model. Sightings have largely petered out in the late 20th century, leading cryptozoologists such as Bernard Heuvelmans and Karl Shuker to treat the Tatzelwurm as a (probably extinct) cultural memory of an unidentified large lizard.",
   "aliases": [
     {
       "name": "Stollenwurm",
@@ -56,5 +57,125 @@
   "origin": "Reports cluster in the Alps of Switzerland, Austria, Bavaria, the French Alps, and northern Italy, with cognate creatures reported in southern Sweden.",
   "first_reported": "1680",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "From Middle High German 'tatze' ('paw', dialect for the clawed forefoot) + 'wurm' (worm / dragon).",
+    "meaning": "Approximately 'pawed worm' or 'clawed dragon' — referring to a serpent-like body with reduced legs.",
+    "first_use": "Recorded in 17th-century Swiss-German natural-history sources; widely used in 18th-century alpine literature."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0,
+    "date_range": {
+      "earliest": "1680",
+      "latest": "1934"
+    }
+  },
+  "timeline": [
+    {
+      "date": "1680-01-01",
+      "event": "Johann Jacob Wagner publishes 'Historia Naturalis Helvetiae Curiosa', containing reports and illustrations of Swiss alpine 'dragons'",
+      "significance": "Earliest natural-history compendium documenting Tatzelwurm-type creatures",
+      "source": "Wagner, J. J. (1680)"
+    },
+    {
+      "date": "1723-01-01",
+      "event": "Johann Jakob Scheuchzer publishes 'Itinera per Helvetiae Alpinas Regiones', with engraved plates of alpine dragons",
+      "significance": "Influential 18th-century natural-history work that further codified the tradition",
+      "source": "Scheuchzer, J. J. (1723)"
+    },
+    {
+      "date": "1779-01-01",
+      "event": "Salzburg-area peasant Hans Fuchs reportedly dies of fright after encountering two Tatzelwürmer near the Untersberg",
+      "significance": "Most-cited single Tatzelwurm incident; widely retold in subsequent literature",
+      "source": "Wikipedia, 'Tatzelwurm'"
+    },
+    {
+      "date": "1887-01-01",
+      "event": "Naturalist Karl Wilhelm von Dalla Torre publishes a survey arguing that Tatzelwürmer were a real but probably extinct alpine lizard",
+      "significance": "Early 'cryptozoological' framing within mainstream zoology",
+      "source": "Wikipedia, 'Tatzelwurm'"
+    },
+    {
+      "date": "1934-01-01",
+      "event": "Photograph by 'Balkin' purportedly showing a Tatzelwurm is published in Switzerland and quickly identified by zoologists as a stuffed pottery model",
+      "significance": "Most famous Tatzelwurm hoax",
+      "source": "Wikipedia, 'Tatzelwurm'"
+    }
+  ],
+  "related": [
+    {
+      "id": "lindwurm",
+      "name": "Lindwurm",
+      "relationship": "related",
+      "description": "Germanic dragon/wyrm tradition with reduced legs and serpentine body"
+    },
+    {
+      "id": "basilisk",
+      "name": "Basilisk",
+      "relationship": "similar",
+      "description": "European reptilian cryptid associated with poisonous breath / gaze"
+    },
+    {
+      "id": "cockatrice",
+      "name": "Cockatrice",
+      "relationship": "similar",
+      "description": "Late-medieval European hybrid reptile / fowl creature"
+    }
+  ],
+  "cultural_notes": "Alpine peasants traditionally treated the Tatzelwurm as a dangerous but real animal of high mountain pastures, to be avoided rather than hunted.",
+  "sources": [
+    {
+      "id": "wikipedia-tatzelwurm",
+      "type": "website",
+      "title": "Tatzelwurm",
+      "publication": "English Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Tatzelwurm",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "scheuchzer-1723",
+      "type": "book",
+      "title": "Itinera per Helvetiae Alpinas Regiones",
+      "authors": [
+        "Johann Jakob Scheuchzer"
+      ],
+      "publication": "Leiden",
+      "date": "1723"
+    },
+    {
+      "id": "wagner-1680",
+      "type": "book",
+      "title": "Historia Naturalis Helvetiae Curiosa",
+      "authors": [
+        "Johann Jacob Wagner"
+      ],
+      "publication": "Zürich",
+      "date": "1680"
+    },
+    {
+      "id": "heuvelmans-1955",
+      "type": "book",
+      "title": "On the Track of Unknown Animals",
+      "authors": [
+        "Bernard Heuvelmans"
+      ],
+      "publication": "Hill & Wang",
+      "date": "1955 (English ed. 1959)"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Untersberg massif (Salzburg)",
+      "lat": 47.7167,
+      "lng": 13.0167
+    },
+    {
+      "name": "Swiss Alpine cantons",
+      "lat": 46.7,
+      "lng": 8.7
+    }
+  ]
 }

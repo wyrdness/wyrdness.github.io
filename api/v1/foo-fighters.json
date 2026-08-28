@@ -3,6 +3,7 @@
   "name": "Foo Fighters",
   "category": "ufo_uap",
   "description": "Foo fighters were luminous aerial objects reported pacing Allied (and some Axis) aircraft over Europe and the Pacific in the final years of World War II, particularly in 1944–45, and treated by the postwar Robertson Panel as the first major case-set of military UAP.",
+  "full_description": "Foo fighters were small, luminous aerial objects — most often described as orange, red, or white spheres or balls of fire — reported by Allied bomber and night-fighter crews over the European and Pacific theatres of the Second World War, and corroborated by Axis aircrew. Although isolated reports occur from 1942 (RAF Bomber Command) and 1941 (S.S. Pułaski, Indian Ocean), the phenomenon entered organised reporting in late November 1944 with the 415th Night Fighter Squadron (USAAF) flying Bristol Beaufighters over Alsace and the Rhineland. The squadron's intelligence officer, Captain Frederic 'Fritz' Ringwald, documented the encounters; radar operator Donald J. Meiers coined 'foo fighter' from Bill Holman's Smokey Stover comic strip ('where there's foo, there's fire'). The objects appeared to pace aircraft in formation, change colour, perform sharp turns, and vanish without trace. The phrase entered the public record on 13 December 1944 via a Supreme Headquarters Allied Expeditionary Force press release and was discussed in Time on 15 January 1945. Postwar interrogations of Luftwaffe officers found no record of a German weapon program matching the reports, ruling out the most-discussed wartime explanation. The CIA-convened Robertson Panel (January 1953) reviewed foo-fighter reports as part of its evaluation of UFO data and concluded they were probably explicable as electrostatic effects (St Elmo's fire), ball lightning, or atmospheric/optical phenomena combined with the stresses of high-altitude night flying. Foo fighters remain the foundational pre-1947 corpus of military UAP.",
   "aliases": [
     {
       "name": "Foo-fighter",
@@ -40,5 +41,164 @@
   "origin": "Reports cluster in the European Theater of Operations (Western Front airspace 1944–45) and the Pacific Theater (Mariana Islands, Japanese home islands airspace 1944–45), with isolated 1941–43 antecedents in the Indian Ocean and Mediterranean.",
   "first_reported": "1941-09-01",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "The term was coined by Sgt Donald J. Meiers, a radar operator in the 415th Night Fighter Squadron, USAAF, drawing on the Smokey Stover comic strip catchphrase 'where there's foo, there's fire'. Smokey Stover by Bill Holman ran from 1935 in the Chicago Tribune.",
+    "meaning": "'Foo' is a nonsense word from the comic strip; 'foo fighter' is military slang for an unexplained airborne fire-ball.",
+    "first_use": "Late November 1944, in the operations diary of the 415th Night Fighter Squadron; first national press use 13 December 1944."
+  },
+  "sightings_stats": {
+    "total_documented": 1000,
+    "verified": 0,
+    "disputed": 800,
+    "debunked": 0,
+    "date_range": {
+      "earliest": "1941-09",
+      "latest": "1945-08"
+    }
+  },
+  "timeline": [
+    {
+      "date": "1941-09-01",
+      "event": "Crew of the Polish merchant ship S.S. Pułaski report a luminous green orb pacing the vessel in the Indian Ocean",
+      "significance": "Earliest commonly cited foo-fighter precedent",
+      "source": "Sheaffer, R. (1981), The UFO Verdict"
+    },
+    {
+      "date": "1942-12-01",
+      "event": "RAF Pilot Officer Bryan Lumsden reports two amber-orange lights over France",
+      "significance": "Early RAF foo-fighter precedent",
+      "source": "RAF Bomber Command operations record book; Sheaffer (1981)"
+    },
+    {
+      "date": "1944-10-13",
+      "event": "B-24 Liberator pursued by an intermittent red light over Hungary",
+      "significance": "Earliest 8th Air Force foo-fighter report",
+      "source": "USAAF mission report; Time, 15 January 1945"
+    },
+    {
+      "date": "1944-11-23",
+      "event": "Lt Edward Schlueter and crew of the 415th Night Fighter Squadron report eight to ten orange lights pacing their Beaufighter over the Rhine",
+      "significance": "First major 415th NFS foo-fighter encounter",
+      "source": "415th NFS operations diary; Chamberlain, J. P., Liberty magazine, January 1945"
+    },
+    {
+      "date": "1944-12-13",
+      "event": "Supreme Headquarters Allied Expeditionary Force press release publicly discloses the foo-fighter reports as a 'new German weapon'",
+      "significance": "First public release of the phenomenon by the Allied command",
+      "source": "SHAEF press release, 13 Dec 1944; New York Times, 14 December 1944"
+    },
+    {
+      "date": "1945-01-15",
+      "event": "Time magazine publishes 'Foo-Fighter'",
+      "significance": "First major US national-magazine treatment",
+      "source": "Time, 15 January 1945"
+    },
+    {
+      "date": "1945-12-01",
+      "event": "Postwar interrogations of Luftwaffe officers (USAAF Air Technical Intelligence) find no German weapon program matching foo-fighter reports",
+      "significance": "Rules out the most popular wartime explanation",
+      "source": "Air Technical Intelligence reports (declassified 1968)"
+    },
+    {
+      "date": "1953-01-14",
+      "event": "Robertson Panel convened by the CIA reviews UFO data, including foo-fighter reports, and recommends public-relations debunking",
+      "significance": "First US government scientific review touching on foo fighters",
+      "source": "Robertson Panel report (declassified 1975)"
+    },
+    {
+      "date": "1968-01-01",
+      "event": "Edward J. Ruppelt's posthumous edition of The Report on Unidentified Flying Objects discusses foo fighters as documented military encounters",
+      "significance": "Cements foo fighters in the postwar UFO canon",
+      "source": "Ruppelt, E. J. (1956)"
+    }
+  ],
+  "related": [
+    {
+      "id": "ghost-rockets",
+      "name": "Ghost rockets",
+      "relationship": "similar",
+      "description": "1946 Scandinavian sightings of unidentified rocket-like objects, often paired with foo fighters in early UAP literature"
+    },
+    {
+      "id": "kenneth-arnold-sighting",
+      "name": "Kenneth Arnold sighting",
+      "relationship": "related",
+      "description": "1947 Mt Rainier sighting that opens the postwar 'flying saucer' era; Arnold and others explicitly framed his report against the foo-fighter precedent"
+    },
+    {
+      "id": "battle-of-los-angeles",
+      "name": "Battle of Los Angeles (1942)",
+      "relationship": "related",
+      "description": "Wartime aerial event sometimes grouped with foo fighters in UAP histories"
+    }
+  ],
+  "cultural_notes": "Within US/UK military aviation memory, foo fighters are recalled as a real but unexplained operational phenomenon; wartime crews generally preferred to attribute them to enemy action than to anything more exotic.",
+  "sources": [
+    {
+      "id": "chester-2007",
+      "type": "book",
+      "title": "Strange Company: Military Encounters with UFOs in World War II",
+      "authors": [
+        "Keith Chester"
+      ],
+      "publication": "Anomalist Books",
+      "date": "2007",
+      "isbn": "978-1933665023"
+    },
+    {
+      "id": "ruppelt-1956",
+      "type": "book",
+      "title": "The Report on Unidentified Flying Objects",
+      "authors": [
+        "Edward J. Ruppelt"
+      ],
+      "publication": "Doubleday",
+      "date": "1956"
+    },
+    {
+      "id": "dolan-2002",
+      "type": "book",
+      "title": "UFOs and the National Security State, Volume 1: 1941–1973",
+      "authors": [
+        "Richard M. Dolan"
+      ],
+      "publication": "Hampton Roads",
+      "date": "2002",
+      "isbn": "978-1571743176"
+    },
+    {
+      "id": "sheaffer-1981",
+      "type": "book",
+      "title": "The UFO Verdict",
+      "authors": [
+        "Robert Sheaffer"
+      ],
+      "publication": "Prometheus Books",
+      "date": "1981"
+    },
+    {
+      "id": "time-1945",
+      "type": "news",
+      "title": "Foo-Fighter",
+      "publication": "Time",
+      "date": "1945-01-15"
+    },
+    {
+      "id": "wikipedia-foo-fighter",
+      "type": "website",
+      "title": "Foo fighter",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Foo_fighter",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "robertson-panel-1953",
+      "type": "archive",
+      "title": "Robertson Panel Report (declassified 1975)",
+      "publication": "Central Intelligence Agency",
+      "date": "1953-01"
+    }
+  ],
+  "locations": []
 }

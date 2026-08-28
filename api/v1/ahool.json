@@ -3,6 +3,7 @@
   "name": "Ahool",
   "category": "cryptid",
   "description": "The Ahool is a reported giant bat- or flying-primate-like cryptid said to inhabit the rainforests and river valleys of western Java. It is best known from accounts gathered by the Dutch naturalist Ernest Bartels in the 1920s and popularised in English-language cryptozoology by Ivan T. Sanderson.",
+  "full_description": "The Ahool is a cryptid reported from the mountainous rainforests of western Java, Indonesia. Its name is generally treated as onomatopoeic, imitating a drawn-out 'a-hooooool' cry that witnesses describe carrying through river valleys at night. The most-cited reports come from the Dutch-Indonesian naturalist Ernest Bartels, son of ornithologist M. E. G. Bartels: in 1925 Bartels reported being passed overhead by an enormous unknown flying creature near a waterfall on the Salak Mountains, and around 11:30 PM on a night in 1927 he heard the same loud 'a-hool' call from his hut near the Tjidjenkol River. Bartels' notes were taken up after his death by the cryptozoologist Ivan T. Sanderson, who promoted the Ahool in his 1948 article 'There Could Be Dinosaurs' and his 1967 book Living Mammals of the World as a candidate for an unknown giant bat or surviving primitive flying primate. Witness accounts give it a wingspan in the range of 3 to 3.7 m (10–12 ft), grey fur, a flattened, ape- or owl-like face, and clawed forelimbs; it is said to skim rivers at night to catch large fish. Mainstream zoologists generally explain the reports as misidentifications of large flying foxes (Pteropus vampyrus, the Indo-Malayan flying fox) or owls; no specimen, photograph, or remains has ever been produced.",
   "aliases": [
     {
       "name": "A-hool",
@@ -35,5 +36,104 @@
   "origin": "Reports are concentrated in the rainforests, river valleys, and volcanic uplands of western Java, particularly the Salak and Halimun mountain regions.",
   "first_reported": "1925",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Sundanese / Indonesian; widely treated as onomatopoeic, imitating the creature's reported call.",
+    "meaning": "Imitative of the long 'a-hool' cry attributed to it.",
+    "first_use": "1920s, in Ernest Bartels' field notes; popularised in English by Ivan T. Sanderson in the late 1940s and 1960s."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0,
+    "date_range": {
+      "earliest": "1925",
+      "latest": "1927"
+    }
+  },
+  "timeline": [
+    {
+      "date": "1925-01-01",
+      "event": "Ernest Bartels reports being overflown by an enormous unknown flying creature while exploring a waterfall on Mount Salak in western Java",
+      "significance": "Founding modern Ahool encounter",
+      "source": "Bartels' field notes, summarised by Sanderson (1948, 1967)"
+    },
+    {
+      "date": "1927-01-01",
+      "event": "Bartels reports a second Ahool encounter around 11:30 PM near the Tjidjenkol River in western Java",
+      "significance": "Anchors the onomatopoeic name",
+      "source": "Bartels via Sanderson"
+    },
+    {
+      "date": "1948-01-01",
+      "event": "Ivan T. Sanderson publishes the Ahool reports in the article 'There Could Be Dinosaurs' in The Saturday Evening Post",
+      "significance": "First English-language popular publication of Bartels' Ahool material",
+      "source": "Sanderson, I. T. (1948), Saturday Evening Post"
+    },
+    {
+      "date": "1967-01-01",
+      "event": "Sanderson includes the Ahool in his book Living Mammals of the World",
+      "significance": "Standardises the cryptozoological framing of the Ahool as a possible giant bat",
+      "source": "Sanderson, I. T. (1967), Living Mammals of the World"
+    }
+  ],
+  "related": [
+    {
+      "id": "olitiau",
+      "name": "Olitiau",
+      "relationship": "similar",
+      "description": "African giant-bat cryptid reported by Ivan T. Sanderson in Cameroon"
+    },
+    {
+      "id": "orang-bati",
+      "name": "Orang-bati",
+      "relationship": "similar",
+      "description": "Indonesian flying humanoid cryptid from Seram"
+    },
+    {
+      "id": "ropen",
+      "name": "Ropen",
+      "relationship": "similar",
+      "description": "Papua New Guinea flying cryptid reported as glowing and bat-like"
+    }
+  ],
+  "cultural_notes": "The Ahool is treated locally as a real but rarely seen forest creature; in Western literature it is one of the standard 'tropical flying cryptids'.",
+  "sources": [
+    {
+      "id": "wikipedia-fearsome-flying-cryptids",
+      "type": "website",
+      "title": "Ahool (Cryptid Wiki)",
+      "publication": "Cryptid Wiki / Fandom",
+      "url": "https://cryptidz.fandom.com/wiki/Ahool",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "sanderson-1948",
+      "type": "article",
+      "title": "There Could Be Dinosaurs",
+      "authors": [
+        "Ivan T. Sanderson"
+      ],
+      "publication": "The Saturday Evening Post",
+      "date": "1948"
+    },
+    {
+      "id": "sanderson-1967",
+      "type": "book",
+      "title": "Living Mammals of the World",
+      "authors": [
+        "Ivan T. Sanderson"
+      ],
+      "publication": "Doubleday",
+      "date": "1967"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Mount Salak",
+      "lat": -6.7167,
+      "lng": 106.7333
+    }
+  ]
 }

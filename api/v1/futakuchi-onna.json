@@ -3,6 +3,7 @@
   "name": "Futakuchi-onna",
   "category": "entity_spirit",
   "description": "Futakuchi-onna is a Japanese yokai — a two-mouthed woman — whose hair moves like serpents to feed a second, fully functional mouth on the back of her head that screams demands for food and causes excruciating pain if unfed.",
+  "full_description": "The Futakuchi-onna (二口女, 'two-mouthed woman') is a Japanese yokai featuring a woman with two mouths — a normal one on her face and a second one on the back of the head, hidden beneath the hair. The second mouth is fully functional, with lips, teeth, and a tongue. The creature's hair moves independently like a pair of serpents, allowing it to manipulate food and feed the back mouth. If the second mouth is not fed, it causes the woman tremendous pain and screams constantly — mumbling spiteful and threatening things. The condition arises through a curse, with three primary origin narratives: (1) A wife of a miser eats little and develops a second mouth that demands food, consuming double what a normal person would eat; (2) A stingy woman struck in the head by her husband's axe while chopping wood develops an unhealable wound that transforms into the second mouth; (3) A stepmother or step-sibling who starves a child to death is possessed by the victim's spirit, which lodges in the body seeking revenge through the second mouth. The futakuchi-onna belongs to the same yokai category as rokurokubi, kuchisake-onna, and yama-uba — women afflicted with a curse or supernatural disease. It appears in the Ehon Hyaku Monogatari, an illustrated collection of ghost stories.",
   "aliases": [
     {
       "name": "二口女",
@@ -30,5 +31,55 @@
   "origin": "A creature of Japanese folklore; associated with rural Japan in the Edo period and earlier. No specific geographic region within Japan is particularly associated with the futakuchi-onna.",
   "first_reported": "1800-01-01",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Japanese (ふたくちおんな / 二口女)",
+    "meaning": "Futa (二, two) + kuchi (口, mouth) + onna (女, woman) = 'two-mouthed woman'",
+    "first_use": "Edo period Japan; appears in the Ehon Hyaku Monogatari (illustrated ghost story collection)"
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "1841-01-01",
+      "event": "Ehon Hyaku Monogatari published, containing an early illustrated account of the futakuchi-onna",
+      "significance": "Earliest known illustrated documentation of the creature in print",
+      "source": "Wikipedia article on Futakuchi-onna"
+    }
+  ],
+  "related": [
+    {
+      "id": "rokurokubi",
+      "name": "Rokurokubi",
+      "relationship": "similar",
+      "description": "Japanese yokai of a woman with an elongated or detachable neck; same category of female body-horror yokai"
+    },
+    {
+      "id": "kuchisake-onna",
+      "name": "Kuchisake-onna",
+      "relationship": "similar",
+      "description": "Japanese yokai / urban legend of a slit-mouthed woman; shares the mouth-horror motif"
+    },
+    {
+      "id": "yama-uba",
+      "name": "Yama-uba",
+      "relationship": "similar",
+      "description": "Japanese mountain hag yokai; same category of supernatural woman cursed or transformed"
+    }
+  ],
+  "cultural_notes": "The futakuchi-onna embodies the belief that cruelty and greed — particularly within the domestic sphere — will be punished through supernatural means. The hidden mouth represents hidden sins becoming inescapably manifest.",
+  "sources": [
+    {
+      "id": "wikipedia-futakuchi-onna",
+      "type": "website",
+      "title": "Futakuchi-onna — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Futakuchi-onna",
+      "accessed": "2026-05-08"
+    }
+  ],
+  "locations": []
 }

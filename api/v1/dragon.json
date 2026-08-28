@@ -3,6 +3,7 @@
   "name": "Dragon",
   "category": "mythological_creature",
   "description": "A class of large, serpentine or reptilian mythological creatures attested across virtually every culture, ranging from the auspicious water-and-rain dragons of East Asia to the fire-breathing, treasure-hoarding antagonists of European Christian and Norse tradition.",
+  "full_description": "Dragons are large serpentine or reptilian creatures attested in the mythology and folklore of nearly every ancient culture. The English word descends from Old French dragon and Latin draco, both ultimately from the Ancient Greek drakōn (δράκων, 'huge serpent'), which is plausibly derived from the verb dérkomai ('I see') and the Indo-European root *derḱ-. East Asian traditions — Chinese long, Japanese tatsu/ryū, Korean yong, Vietnamese rồng — present dragons as predominantly benevolent, controlling rain and water and serving as imperial symbols. Western traditions, from Mesopotamian Tiamat and the mušḫuššu, through Egyptian Apep, the Hebrew Leviathan, the Iranian Aži Dahāka, the Greek Typhon, Hydra, and Ladon, the Norse Fafnir, Jörmungandr, and Níðhöggr, the Germanic Beowulf-dragon, the Slavic Zmey Gorynych, and the Christian-era figures of Saint George and the dragon, more often cast dragons as antagonists embodying chaos, drought, or evil. Theories of origin proposed by scholars include David E. Jones's evolutionary fear-of-snakes argument, Adrienne Mayor's case for fossil discoveries inspiring dragon imagery, and Robert Blust's view of dragons as a convergent pre-scientific account of the natural mechanisms of rainfall and the rainbow. The Mesoamerican Quetzalcoatl extends the global pattern with a feathered-serpent deity associated with wind and knowledge.",
   "aliases": [
     {
       "name": "Drakōn",
@@ -78,5 +79,154 @@
   "origin": "Dragon traditions are attested in nearly every culture and on every inhabited continent.",
   "first_reported": "c. 2000 BCE",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Old French dragon < Latin draco < Ancient Greek drakōn (δράκων), 'huge serpent'",
+    "meaning": "Likely linked to the Greek verb dérkomai ('I see'), suggesting a 'sharp-sighted' creature; Indo-European root *derḱ-",
+    "first_use": "Greek drakōn used by Homer (Iliad) and Hesiod; English 'dragon' attested from the early 13th century"
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "1750-01-01",
+      "event": "Babylonian creation epic Enūma Eliš (composed c. 18th–12th century BCE) depicts Marduk slaying Tiamat",
+      "significance": "Foundational dragon-slaying myth in the Ancient Near East",
+      "source": "Enūma Eliš (Babylonian)"
+    },
+    {
+      "date": "0700-01-01",
+      "event": "Hesiod's Theogony (c. 8th–7th century BCE) records Typhon's battle with Zeus",
+      "significance": "Greek mythological canon of dragon combat",
+      "source": "Hesiod, Theogony"
+    },
+    {
+      "date": "0010-01-01",
+      "event": "Han-era Chinese imperial iconography systematizes the long as an imperial symbol",
+      "significance": "Establishment of the East Asian benevolent-dragon tradition in state ritual and art",
+      "source": "Han imperial iconography"
+    },
+    {
+      "date": "1010-01-01",
+      "event": "Beowulf (Old English epic, surviving manuscript c. 1000 CE) describes the hero's fatal battle with a hoard-guarding dragon",
+      "significance": "Canonical Anglo-Saxon dragon narrative",
+      "source": "Beowulf manuscript (Cotton Vitellius A.xv)"
+    },
+    {
+      "date": "1260-01-01",
+      "event": "Jacobus de Voragine's Legenda Aurea (Golden Legend) popularizes the legend of Saint George and the Dragon",
+      "significance": "Definitive Christian dragon-slaying narrative for medieval Europe",
+      "source": "Jacobus de Voragine, Legenda Aurea (c. 1260)"
+    },
+    {
+      "date": "0010-01-02",
+      "event": "Composition of Ferdowsi's Shahnameh (completed 1010 CE) recounts Rostam's seven labours, including the dragon",
+      "significance": "Persian dragon-slaying canon",
+      "source": "Ferdowsi, Shahnameh (c. 1010)"
+    }
+  ],
+  "related": [
+    {
+      "id": "lindworm",
+      "name": "Lindworm",
+      "relationship": "subset",
+      "description": "Germanic serpentine or two-legged dragon"
+    },
+    {
+      "id": "basilisk",
+      "name": "Basilisk",
+      "relationship": "related",
+      "description": "Lethal-gazed reptilian creature in European tradition"
+    },
+    {
+      "id": "cockatrice",
+      "name": "Cockatrice",
+      "relationship": "related",
+      "description": "Hybrid serpent–rooster monster of medieval European bestiaries"
+    },
+    {
+      "id": "hydra",
+      "name": "Hydra",
+      "relationship": "subset",
+      "description": "Multi-headed serpentine dragon of Greek myth"
+    },
+    {
+      "id": "jormungandr",
+      "name": "Jörmungandr",
+      "relationship": "subset",
+      "description": "Norse World Serpent"
+    },
+    {
+      "id": "kraken",
+      "name": "Kraken",
+      "relationship": "related",
+      "description": "Scandinavian sea monster, sometimes typologically grouped with dragons"
+    },
+    {
+      "id": "wyrm",
+      "name": "Wyrm",
+      "relationship": "subset",
+      "description": "Old English serpentine dragon, often limbless"
+    },
+    {
+      "id": "zmey",
+      "name": "Zmey",
+      "relationship": "regional_variant",
+      "description": "Slavic dragon; e.g., Zmey Gorynych"
+    }
+  ],
+  "cultural_notes": "Dragons function as cosmic adversaries in many Indo-European myths, as imperial and meteorological symbols across East Asia, and as guardians of cultural identity in heraldry and national symbolism (e.g., Welsh Y Ddraig Goch).",
+  "sources": [
+    {
+      "id": "wikipedia-dragon",
+      "type": "website",
+      "title": "Dragon",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Dragon",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "mayor-2000",
+      "type": "book",
+      "title": "The First Fossil Hunters: Paleontology in Greek and Roman Times",
+      "authors": [
+        "Adrienne Mayor"
+      ],
+      "publication": "Princeton University Press",
+      "date": "2000",
+      "isbn": "978-0691089775"
+    },
+    {
+      "id": "jones-2000",
+      "type": "book",
+      "title": "An Instinct for Dragons",
+      "authors": [
+        "David E. Jones"
+      ],
+      "publication": "Routledge",
+      "date": "2000",
+      "isbn": "978-0415927215"
+    },
+    {
+      "id": "voragine-legenda",
+      "type": "book",
+      "title": "Legenda Aurea (Golden Legend)",
+      "authors": [
+        "Jacobus de Voragine"
+      ],
+      "date": "c. 1260"
+    },
+    {
+      "id": "beowulf-manuscript",
+      "type": "archive",
+      "title": "Beowulf manuscript (Cotton Vitellius A.xv)",
+      "publication": "British Library",
+      "date": "c. 1000"
+    }
+  ],
+  "locations": []
 }

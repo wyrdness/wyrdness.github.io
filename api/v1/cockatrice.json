@@ -3,6 +3,7 @@
   "name": "Cockatrice",
   "category": "mythological_creature",
   "description": "The cockatrice is a legendary medieval European hybrid creature with the head, comb, and wattles of a rooster and the body and tail of a serpent or wyvern, said to kill with its breath, touch, or gaze and hatched from the yolkless egg of a cockerel incubated by a toad or snake.",
+  "full_description": "The cockatrice is a legendary creature of medieval European bestiary tradition, conventionally depicted as a two-legged dragon or wyvern-like beast with the head, comb, wattles, and feet of a rooster (cock) and the long, scaled, serpentine tail of a snake or dragon. Its supposed powers include a deadly stare that kills or petrifies, poisonous breath, and a lethal touch — abilities largely shared with, and often identical to, those of the basilisk, with which the cockatrice is frequently conflated in late-medieval English usage. The creature is said to hatch from a yolkless ('cock's') egg laid by a seven-year-old rooster and incubated by a toad or serpent on a dunghill. Its weaknesses, according to medieval lore, include the crow of a rooster (which kills it instantly), the gaze of a weasel (the only animal immune to its own gaze), and its own reflection in a mirror. The English word 'cockatrice' was popularised by John Wycliffe's 1382 Bible translation, which used it to render Hebrew terms for venomous serpents in the Book of Isaiah and elsewhere. From the late 14th century onward the cockatrice appears in heraldry, in works of literature including Edmund Spenser's Faerie Queene and Shakespeare's Richard III and Romeo and Juliet, and in modern fantasy fiction. While zoologically a fiction, the figure is a long-attested feature of European cultural and religious history and remains a recognisable emblem of medieval monstrology.",
   "aliases": [
     {
       "name": "Cocatris",
@@ -44,5 +45,192 @@
   "origin": "A creature of medieval Western and Central European literary and bestiary tradition, with its widest attestation in England, France, the Low Countries, and the Holy Roman Empire. Through colonial-era and modern fantasy literature, the figure has spread to the entire Anglophone world.",
   "first_reported": "1382",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "From Old French cocatris, ultimately from Medieval Latin calcatrix ('tracker'), itself a translation of Greek ichneumon ('tracker'), the Egyptian mongoose. The English word entered through Anglo-Norman in the 14th century.",
+    "meaning": "Originally 'tracker' (referring to the mongoose's role in folklore as a hunter of crocodiles); by transfer in medieval Latin and Old French, the term came to denote the legendary basilisk-like beast.",
+    "first_use": "Earliest English-language attestation is in John Wycliffe's Bible translation of 1382."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0,
+    "date_range": {
+      "earliest": "Medieval bestiary tradition",
+      "latest": "Modern literary and fantasy use"
+    }
+  },
+  "timeline": [
+    {
+      "date": "c. 1180",
+      "event": "Alexander Neckam's De naturis rerum describes the basilisk as the offspring of a cock's egg incubated by a toad",
+      "significance": "Foundational Latin description that English bestiaries inherit",
+      "source": "Neckam, A., De naturis rerum (c. 1180)"
+    },
+    {
+      "date": "1382",
+      "event": "Wycliffe's English Bible introduces 'cockatrice' as a translation for several Hebrew serpents in Isaiah 11, 14, 59 and Jeremiah 8",
+      "significance": "Earliest English attestation of the word",
+      "source": "Wycliffe Bible (1382)"
+    },
+    {
+      "date": "1397",
+      "event": "John Trevisa translates Bartholomeus Anglicus, applying 'cockatrice' to the basilisk",
+      "significance": "Cements the conflation of cockatrice with basilisk in English",
+      "source": "Trevisa, J. (1397), translation of Bartholomeus Anglicus"
+    },
+    {
+      "date": "1474",
+      "event": "A rooster is tried and burned at Basel for allegedly laying a cockatrice egg",
+      "significance": "Famous early-modern instance of the legend acted upon socially and legally",
+      "source": "E. P. Evans (1906), The Criminal Prosecution and Capital Punishment of Animals"
+    },
+    {
+      "date": "1590",
+      "event": "Edmund Spenser, The Faerie Queene, references the cockatrice as a creature of evil enchantment",
+      "significance": "Major Elizabethan literary use",
+      "source": "Spenser, E. (1590), The Faerie Queene"
+    },
+    {
+      "date": "1593",
+      "event": "Shakespeare's Richard III refers to the 'cockatrice' eye as deadly",
+      "significance": "Establishes the cockatrice as a Shakespearean rhetorical figure for malign gaze",
+      "source": "Shakespeare, W., Richard III IV.i"
+    },
+    {
+      "date": "1597",
+      "event": "Shakespeare's Romeo and Juliet refers to 'the death-darting eye of cockatrice'",
+      "significance": "Anchors the cockatrice in popular Anglophone literary memory",
+      "source": "Shakespeare, W., Romeo and Juliet III.ii"
+    },
+    {
+      "date": "1611",
+      "event": "King James Bible retains 'cockatrice' from Wycliffe's tradition for several Old Testament passages",
+      "significance": "Distributes the term to every English Protestant household",
+      "source": "King James Bible (1611)"
+    }
+  ],
+  "related": [
+    {
+      "id": "basilisk",
+      "name": "Basilisk",
+      "relationship": "counterpart",
+      "description": "Closely related serpent monster; often used interchangeably with cockatrice in medieval and early modern English"
+    },
+    {
+      "id": "wyvern",
+      "name": "Wyvern",
+      "relationship": "similar",
+      "description": "Two-legged dragon of medieval heraldry; the cockatrice is structurally a wyvern with a rooster's head"
+    },
+    {
+      "id": "dragon",
+      "name": "Dragon",
+      "relationship": "similar",
+      "description": "Broader medieval reptilian monster; the cockatrice belongs to the same tradition"
+    },
+    {
+      "id": "chimera",
+      "name": "Chimera",
+      "relationship": "similar",
+      "description": "Greek hybrid monster of the same composite category"
+    },
+    {
+      "id": "gorgon",
+      "name": "Gorgon",
+      "relationship": "similar",
+      "description": "Petrifying-gaze ability shared with the cockatrice and basilisk"
+    }
+  ],
+  "cultural_notes": "The cockatrice was widely held in medieval Europe to be a real and exceedingly dangerous animal; superstitions involving its egg, its mirror-death, and its rooster-vulnerability persisted into the early modern period.",
+  "sources": [
+    {
+      "id": "wikipedia-cockatrice",
+      "type": "website",
+      "title": "Cockatrice",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Cockatrice",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "neckam-1180",
+      "type": "book",
+      "title": "De naturis rerum",
+      "authors": [
+        "Alexander Neckam"
+      ],
+      "date": "c. 1180"
+    },
+    {
+      "id": "bartholomeus-1240",
+      "type": "book",
+      "title": "De proprietatibus rerum",
+      "authors": [
+        "Bartholomeus Anglicus"
+      ],
+      "date": "c. 1240"
+    },
+    {
+      "id": "wycliffe-1382",
+      "type": "book",
+      "title": "The Holy Bible (Wycliffe's translation)",
+      "authors": [
+        "John Wycliffe"
+      ],
+      "date": "1382"
+    },
+    {
+      "id": "topsell-1607",
+      "type": "book",
+      "title": "The History of Four-footed Beasts and Serpents",
+      "authors": [
+        "Edward Topsell"
+      ],
+      "publication": "William Jaggard, London",
+      "date": "1607–1608"
+    },
+    {
+      "id": "fox-davies-1909",
+      "type": "book",
+      "title": "A Complete Guide to Heraldry",
+      "authors": [
+        "Arthur Charles Fox-Davies"
+      ],
+      "publication": "T. C. & E. C. Jack, London and Edinburgh",
+      "date": "1909"
+    },
+    {
+      "id": "white-1954",
+      "type": "book",
+      "title": "The Book of Beasts: Being a Translation from a Latin Bestiary of the Twelfth Century",
+      "authors": [
+        "T. H. White"
+      ],
+      "publication": "Jonathan Cape",
+      "date": "1954"
+    },
+    {
+      "id": "evans-1906",
+      "type": "book",
+      "title": "The Criminal Prosecution and Capital Punishment of Animals",
+      "authors": [
+        "E. P. Evans"
+      ],
+      "publication": "William Heinemann",
+      "date": "1906"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Agecroft Hall (Lancashire)",
+      "lat": 37.5556,
+      "lng": -77.5258
+    },
+    {
+      "name": "Basel (Switzerland)",
+      "lat": 47.5596,
+      "lng": 7.5886
+    }
+  ]
 }

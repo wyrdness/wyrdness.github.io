@@ -3,6 +3,7 @@
   "name": "Akaname",
   "category": "entity_spirit",
   "description": "Akaname ('filth-licker') is a small Japanese yokai recorded in Edo-period bestiaries that emerges in dirty, neglected bathrooms and bathhouses to lick the grime off tubs and floors with its long red tongue. It functions in folklore as a moral spur to keep bathrooms clean.",
+  "full_description": "Akaname (垢嘗, 'filth-licker') is a yokai of Japanese folklore, classically depicted as a small, child-sized, naked humanoid with shaggy hair, clawed feet, and an extremely long red tongue. It appears in old bathhouses and dilapidated bathrooms at night, where it laps up the dirt, sweat-residue, and mildew (collectively aka) accumulated on tubs, floors, and walls. The earliest known reference is the variant akaneburi described in Yamaoka Genrin's Kokon hyakumonogatari hyōban (1686), and the standard form is fixed by Toriyama Sekien's woodblock-print bestiary Gazu Hyakki Yagyō (1776). Detailed prose anecdotes appear in Kanda Genki's Nittō honzō zusan (1780). In its conventional form akaname is harmless: rather than attacking humans, it serves as a folk warning that bathrooms left dirty will attract supernatural vermin. A more sinister variant in some regional traditions takes the form of a beautiful woman who licks her victims to skeletal remains, but this is far less widespread than the harmless cleanliness-totem version.",
   "aliases": [
     {
       "name": "垢嘗",
@@ -36,5 +37,106 @@
   "origin": "A figure of Japanese yokai art and folklore, distributed wherever Edo-period and modern Japanese bathing culture is observed.",
   "first_reported": "1686",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Japanese, from aka (垢, 'dirt, sweat-grime, scum') and the verb nameru (嘗める, 'to lick').",
+    "meaning": "'Filth-licker' or 'scum-licker'.",
+    "first_use": "1686 — earliest reference is to akaneburi in Yamaoka Genrin's Kokon hyakumonogatari hyōban; the form akaname is named in Toriyama Sekien's Gazu Hyakki Yagyō (1776)."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "1686-01-01",
+      "event": "Yamaoka Genrin includes the variant akaneburi in Kokon hyakumonogatari hyōban",
+      "significance": "Earliest known printed reference",
+      "source": "Yamaoka Genrin (1686)"
+    },
+    {
+      "date": "1776-01-01",
+      "event": "Toriyama Sekien depicts and names the akaname in Gazu Hyakki Yagyō",
+      "significance": "Standard visual representation; fixes the name 'akaname'",
+      "source": "Toriyama Sekien (1776)"
+    },
+    {
+      "date": "1780-01-01",
+      "event": "Kanda Genki's Nittō honzō zusan provides further descriptive anecdotes",
+      "significance": "Adds the 'pebbly head, round eyes, long tongue' description",
+      "source": "Kanda Genki (1780)"
+    }
+  ],
+  "related": [
+    {
+      "id": "tenjoname",
+      "name": "Tenjōname",
+      "relationship": "similar",
+      "description": "Ceiling-licker yokai of Toriyama Sekien's catalogues"
+    },
+    {
+      "id": "aka-manto",
+      "name": "Aka Manto",
+      "relationship": "related",
+      "description": "Modern bathroom-related Japanese urban legend, sometimes confused with the akaname"
+    },
+    {
+      "id": "bannik",
+      "name": "Bannik",
+      "relationship": "similar",
+      "description": "Slavic bathhouse spirit with comparable role"
+    }
+  ],
+  "cultural_notes": "The akaname is taken as a folk reminder to maintain cleanliness; an unkempt bath is said to invite it.",
+  "sources": [
+    {
+      "id": "wikipedia-akaname",
+      "type": "website",
+      "title": "Akaname",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Akaname",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "yokai-com-akaname",
+      "type": "website",
+      "title": "Akaname",
+      "authors": [
+        "Matthew Meyer"
+      ],
+      "publication": "yokai.com",
+      "url": "https://yokai.com/akaname/",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "sekien-1776",
+      "type": "book",
+      "title": "Gazu Hyakki Yagyō (画図百鬼夜行)",
+      "authors": [
+        "Toriyama Sekien"
+      ],
+      "date": "1776"
+    },
+    {
+      "id": "genrin-1686",
+      "type": "book",
+      "title": "Kokon hyakumonogatari hyōban (古今百物語評判)",
+      "authors": [
+        "Yamaoka Genrin"
+      ],
+      "date": "1686"
+    },
+    {
+      "id": "kanda-1780",
+      "type": "book",
+      "title": "Nittō honzō zusan (日東本草図纂)",
+      "authors": [
+        "Kanda Genki"
+      ],
+      "date": "1780"
+    }
+  ],
+  "locations": []
 }

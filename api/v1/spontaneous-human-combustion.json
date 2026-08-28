@@ -3,6 +3,7 @@
   "name": "Spontaneous Human Combustion",
   "category": "anomaly",
   "description": "Reported deaths in which a human body is severely burned, often reduced to ash, with little damage to the surroundings and no obvious external ignition source. Modern forensic science treats these cases as conventional fires propagated by the 'wick effect'.",
+  "full_description": "Spontaneous human combustion (SHC) is the popular name for a small set of reported death cases in which a body is severely or almost completely consumed by fire — frequently leaving the torso reduced to ash while the extremities and the immediate surroundings show comparatively little fire damage. The classic case profile, first noted in early 19th-century medical literature, describes an elderly, often alcoholic, often immobile victim found alone near a fireplace, candle, or smoking material. Mainstream forensic science, supported by experimental work and case-by-case review, attributes such deaths to the 'wick effect': a small external ignition source chars clothing and skin, releases subcutaneous body fat, and the fat-soaked clothing burns slowly like a candle wick for many hours, locally consuming the body while the temperature elsewhere in the room remains low. Investigators including Joe Nickell and John F. Fischer have argued that an external ignition source is identifiable in essentially every well-documented case once the published account is checked against the forensic record. SHC nonetheless retains a strong cultural footprint, anchored by Charles Dickens's depiction of Mr. Krook's death in Bleak House (1852–53) and a small number of widely-reprinted cases from the 18th to the 21st century.",
   "aliases": [
     {
       "name": "SHC",
@@ -33,5 +34,123 @@
   "origin": "Reported cases cluster in Europe (especially Britain, Ireland, France, Italy, Germany) and North America from the 17th century onward; isolated cases elsewhere.",
   "first_reported": "1731",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "First proposed in English by Paul Rolli, FRS, in a 1746 article in the Philosophical Transactions of the Royal Society describing the death of Countess Cornelia Bandi of Cesena.",
+    "meaning": "'Spontaneous' (from a body's own internal cause, without external ignition) combined with 'human combustion'.",
+    "first_use": "1746 (Rolli, Philosophical Transactions)"
+  },
+  "sightings_stats": {
+    "total_documented": 200,
+    "verified": 0,
+    "disputed": 150,
+    "debunked": 30,
+    "date_range": {
+      "earliest": "1731",
+      "latest": "2010"
+    }
+  },
+  "timeline": [
+    {
+      "date": "1731",
+      "event": "Countess Cornelia Zangari Bandi found dead in Cesena, Italy, partly reduced to ashes; the case is later treated as the prototypical SHC report",
+      "source": "Rolli, P. (1746), Phil. Trans. R. Soc."
+    },
+    {
+      "date": "1746",
+      "event": "Paul Rolli publishes 'A Letter ... concerning the Death of the Countess Cornelia Zangari & Bandi' in Philosophical Transactions of the Royal Society",
+      "significance": "First English-language scientific paper on the phenomenon",
+      "source": "Phil. Trans. R. Soc. 43"
+    },
+    {
+      "date": "1853",
+      "event": "Charles Dickens publishes Bleak House in book form; the death of the rag-and-bone dealer Mr. Krook by spontaneous combustion is publicly defended by Dickens against critics including G. H. Lewes",
+      "significance": "Anchors SHC firmly in popular Victorian imagination",
+      "source": "Dickens, C., Bleak House"
+    },
+    {
+      "date": "1951-07-02",
+      "event": "Death of Mary Reeser in St. Petersburg, Florida, USA; her body is found largely consumed in an armchair",
+      "significance": "The most-cited 20th-century case; FBI investigation rejects SHC and points to a dropped cigarette",
+      "source": "FBI investigation files; Nickell & Fischer (1984)"
+    },
+    {
+      "date": "1984",
+      "event": "Joe Nickell and John F. Fischer publish a multi-part forensic survey of 30 alleged SHC cases (1725–1982) in Skeptical Inquirer / The Fire and Arson Investigator",
+      "significance": "Argues that all reviewed cases have plausible external ignition sources",
+      "source": "Nickell & Fischer, Fire and Arson Investigator (1984)"
+    },
+    {
+      "date": "2010-12-22",
+      "event": "Michael Faherty, age 76, dies in his home in Ballybane, County Galway, Ireland; in 2011 coroner Ciaran McLoughlin records 'spontaneous combustion' as cause of death",
+      "significance": "First case in modern times in which a coroner's verdict explicitly used the term SHC",
+      "source": "BBC News (2011-09-23)"
+    }
+  ],
+  "related": [
+    {
+      "id": "wick-effect",
+      "name": "Wick effect",
+      "relationship": "related",
+      "description": "Forensic mechanism by which clothing and body fat sustain a slow body fire from a small external ignition source"
+    },
+    {
+      "id": "pyrokinesis",
+      "name": "Pyrokinesis",
+      "relationship": "similar",
+      "description": "Alleged psychic ability to ignite fires; sometimes invoked by paranormal theorists for SHC"
+    }
+  ],
+  "cultural_notes": "In Victorian Britain, SHC was widely understood as a moral consequence of heavy drinking; this interpretation underwrites Dickens's use of the device against the rag-and-bone dealer Mr. Krook.",
+  "sources": [
+    {
+      "id": "wikipedia-shc",
+      "type": "website",
+      "title": "Spontaneous human combustion",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Spontaneous_human_combustion",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "rolli-1746",
+      "type": "paper",
+      "title": "A Letter ... concerning the Death of the Countess Cornelia Zangari & Bandi of Cesena",
+      "authors": [
+        "Paul Rolli"
+      ],
+      "publication": "Philosophical Transactions of the Royal Society",
+      "date": "1746"
+    },
+    {
+      "id": "nickell-fischer-1984",
+      "type": "article",
+      "title": "Spontaneous Human Combustion (multi-part series)",
+      "authors": [
+        "Joe Nickell",
+        "John F. Fischer"
+      ],
+      "publication": "The Fire and Arson Investigator / Skeptical Inquirer",
+      "date": "1984"
+    },
+    {
+      "id": "bbc-faherty-2011",
+      "type": "news",
+      "title": "Irishman died from spontaneous combustion, coroner rules",
+      "publication": "BBC News",
+      "date": "2011-09-23",
+      "url": "https://www.bbc.com/news/uk-northern-ireland-14947110",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "dickens-bleakhouse",
+      "type": "book",
+      "title": "Bleak House",
+      "authors": [
+        "Charles Dickens"
+      ],
+      "publication": "Bradbury & Evans",
+      "date": "1853"
+    }
+  ],
+  "locations": []
 }

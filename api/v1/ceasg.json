@@ -3,6 +3,7 @@
   "name": "Ceasg",
   "category": "mythological_creature",
   "description": "A mermaid figure of Scottish Gaelic folklore: the upper body of a woman joined to the tail of a grilse (young salmon). Captured ceasgs are said to grant three wishes in exchange for their freedom.",
+  "full_description": "The ceasg is a mermaid-like creature of Scottish Gaelic Highland and Hebridean folklore. She has the upper body of a beautiful young woman joined to the tail of a grilse (a young salmon), and inhabits both salt water and the rivers and streams that the salmon ascends. Tradition holds that a fisherman who captures a ceasg without injuring her will be granted three wishes for her release. In some stories ceasgs marry mortal men and bear children; several Highland sea-pilots and seafaring families are traditionally said to descend from such unions, and the ceasg-ancestress is sometimes believed to protect her descendants at sea. Other tales are less benign — one widely retold story has a ceasg swallow a hero who survives within her until charmed forth by harp music. The folklorist Donald A. Mackenzie suggested that the ceasg may preserve a memory of an older sea-goddess to whom human sacrifices were offered. The figure is recorded in 19th- and early-20th-century Scottish Gaelic folklore collections, including those of John Gregorson Campbell.",
   "aliases": [
     {
       "name": "Maighdean na tuinne",
@@ -35,5 +36,82 @@
   "origin": "Coastal and riverine Scottish Gàidhealtachd (Highlands and Western Isles).",
   "first_reported": "1900",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Scottish Gaelic ceasg, used in Highland tradition for this mermaid figure.",
+    "meaning": "The Gaelic word ceasg refers to the mermaid figure; the descriptive epithets maighdean na tuinne and maighdean mhara mean 'maid of the wave' and 'maid of the sea' respectively.",
+    "first_use": "Recorded in Scottish Gaelic oral tradition; published English-language attestations from the 19th century."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "1900-01-01",
+      "event": "John Gregorson Campbell, Superstitions of the Highlands and Islands of Scotland published posthumously, including ceasg material",
+      "significance": "Major published source of Highland marine folklore",
+      "source": "Campbell, J. G. (1900)"
+    },
+    {
+      "date": "1935-01-01",
+      "event": "Donald A. Mackenzie publishes Scottish Folk-Lore and Folk Life with discussion of the ceasg as a possible memory of an older sea-goddess",
+      "significance": "Influential interpretive framing",
+      "source": "Mackenzie, D. A. (1935)"
+    }
+  ],
+  "related": [
+    {
+      "id": "selkie",
+      "name": "Selkie",
+      "relationship": "related",
+      "description": "Scottish/Faroese seal-people who can take human form; another shapeshifting marine being of Gaelic and Norse-Gaelic tradition"
+    },
+    {
+      "id": "merrow",
+      "name": "Merrow",
+      "relationship": "counterpart",
+      "description": "Irish Gaelic mermaid figure"
+    },
+    {
+      "id": "mermaid",
+      "name": "Mermaid (general)",
+      "relationship": "superset",
+      "description": "Pan-European mermaid tradition"
+    }
+  ],
+  "cultural_notes": "Traditionally regarded as a real, if rarely encountered, denizen of Highland waters; capturing one without harm is the necessary condition for the bargain.",
+  "sources": [
+    {
+      "id": "campbell-1900",
+      "type": "book",
+      "title": "Superstitions of the Highlands and Islands of Scotland",
+      "authors": [
+        "John Gregorson Campbell"
+      ],
+      "publication": "James MacLehose & Sons, Glasgow",
+      "date": "1900"
+    },
+    {
+      "id": "mackenzie-1935",
+      "type": "book",
+      "title": "Scottish Folk-Lore and Folk Life",
+      "authors": [
+        "Donald A. Mackenzie"
+      ],
+      "publication": "Blackie & Son, London",
+      "date": "1935"
+    },
+    {
+      "id": "wikipedia-ceasg",
+      "type": "website",
+      "title": "Ceasg",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ceasg",
+      "accessed": "2026-05-07"
+    }
+  ],
+  "locations": []
 }

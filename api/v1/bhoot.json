@@ -3,6 +3,7 @@
   "name": "Bhoot",
   "category": "undead",
   "description": "A bhoot is the restless ghost of a deceased person in South Asian (Hindu, Muslim, Sikh, Bengali, Pakistani, Bangladeshi) folklore — typically someone who died violently, prematurely, or without proper funeral rites and so cannot pass to the afterlife.",
+  "full_description": "Bhoot (Sanskrit bhūta, from a root meaning 'past' or 'that which has been') is the most widespread South Asian term for a restless ghost. In Hindu tradition, a bhoot is the spirit of a deceased person who has not progressed to the afterlife, typically because of a violent or untimely death, unfulfilled obligations, or improper funeral rites. Bhoots are said to be recognisable by certain distinctive signs: backward-facing feet, casting no shadow, speaking with a nasal voice, floating just above the ground (which is sacred), and a preference for white clothing and certain trees. Sub-categories include the churel (a woman who dies in childbirth), the pret (hungry ghost), and the pishacha (carnivorous flesh-eating spirit). Methods of warding off bhoots in folk practice include water, iron or steel objects, the smell of burnt turmeric, sprinkling earth on oneself, and invoking deities or holy figures. In Hindu practice, the appropriate response is not destruction but atma-shanti, ritual peace-giving derived from the Atharva Veda, intended to allow the spirit to be reborn or to complete unfinished business. Bhoot legends are deeply embedded in modern South Asian language, literature, cinema, and television — from the Bengali Thakurmar Jhuli stories to numerous Bollywood horror films.",
   "aliases": [
     {
       "name": "भूत (bhūt)",
@@ -62,5 +63,113 @@
   "origin": "Pan-South Asian: India, Pakistan, Bangladesh, Nepal, Sri Lanka, and the South Asian diaspora (Caribbean, East Africa, UK, North America). Term and beliefs cross Hindu, Muslim, Sikh, and Christian South Asian communities.",
   "first_reported": "Vedic period",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Sanskrit bhūta, past participle of the root √bhū ('to be, to become'), meaning 'that which has been' or 'past existence'.",
+    "meaning": "'The past one'; one who once was; a ghost or spirit. The same root underlies the elements (pañca-bhūta) in Hindu cosmology, but in folk usage 'bhoot' refers specifically to the restless dead.",
+    "first_use": "Vedic Sanskrit (c. 1500–500 BCE); the term has continuous textual use across classical and medieval Sanskrit literature."
+  },
+  "sightings_stats": {
+    "date_range": {
+      "earliest": "Vedic period",
+      "latest": "present"
+    }
+  },
+  "timeline": [
+    {
+      "date": "Vedic period (c. 1500–500 BCE)",
+      "event": "Sanskrit terms bhūta and pret appear in Vedic literature, especially the Atharva Veda",
+      "significance": "Foundational textual layer",
+      "source": "Atharva Veda"
+    },
+    {
+      "date": "c. 1907",
+      "event": "Dakshinaranjan Mitra Majumder publishes Thakurmar Jhuli, a Bengali fairy-tale collection rich with bhoot stories",
+      "significance": "Canonical folk-literature reference for Bengali bhoot lore",
+      "source": "Mitra Majumder, D. (1907), Thakurmar Jhuli"
+    },
+    {
+      "date": "20th century",
+      "event": "Bhoot as a recurrent figure in South Asian cinema (Mahal 1949; Bees Saal Baad 1962; Madhumati 1958)",
+      "significance": "Mainstream cultural codification",
+      "source": "Hindi/Bengali film historiography"
+    },
+    {
+      "date": "2003",
+      "event": "Ram Gopal Varma's film 'Bhoot' marks a contemporary horror revival in Bollywood",
+      "significance": "Modern cinema benchmark",
+      "source": "Bhoot (2003), dir. Ram Gopal Varma"
+    }
+  ],
+  "related": [
+    {
+      "id": "churel",
+      "name": "Churel / Chudail",
+      "relationship": "subset",
+      "description": "Female bhoot; spirit of a woman who died in childbirth, with reversed feet"
+    },
+    {
+      "id": "pret",
+      "name": "Pret",
+      "relationship": "subset",
+      "description": "Hungry-ghost class of bhoot"
+    },
+    {
+      "id": "pishacha",
+      "name": "Pishacha",
+      "relationship": "subset",
+      "description": "Flesh-eating ghost of Hindu cosmology"
+    },
+    {
+      "id": "vetala",
+      "name": "Vetala",
+      "relationship": "related",
+      "description": "Vampiric corpse-possessing spirit (e.g. Vikram and Vetala stories)"
+    },
+    {
+      "id": "djinn",
+      "name": "Djinn",
+      "relationship": "related",
+      "description": "Islamic supernatural beings sometimes conflated with bhoot in South Asian Muslim tradition"
+    },
+    {
+      "id": "rakshasa",
+      "name": "Rakshasa",
+      "relationship": "related",
+      "description": "Hindu demonic class, distinct from but conceptually neighbouring bhoot"
+    }
+  ],
+  "cultural_notes": "Bhoot beliefs are widespread and culturally normalised; many otherwise modern households maintain rituals around death anniversaries (shraddha) explicitly tied to preventing the deceased from becoming a bhoot.",
+  "sources": [
+    {
+      "id": "wikipedia-bhoota",
+      "type": "website",
+      "title": "Bhoota (ghost)",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Bhoot_(ghost)",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "thakurmar-jhuli",
+      "type": "book",
+      "title": "Thakurmar Jhuli",
+      "authors": [
+        "Dakshinaranjan Mitra Majumder"
+      ],
+      "publication": "Mitra & Ghosh",
+      "date": "1907"
+    },
+    {
+      "id": "kakar-1982",
+      "type": "book",
+      "title": "Shamans, Mystics and Doctors: A Psychological Inquiry into India and Its Healing Traditions",
+      "authors": [
+        "Sudhir Kakar"
+      ],
+      "publication": "Alfred A. Knopf",
+      "date": "1982",
+      "isbn": "978-0394509020"
+    }
+  ],
+  "locations": []
 }

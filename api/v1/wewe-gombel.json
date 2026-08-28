@@ -3,6 +3,7 @@
   "name": "Wewe Gombel",
   "category": "ghost_haunting",
   "description": "A Javanese ghost figure — the spirit of a tragically wronged woman — who abducts neglected or mistreated children, caring for them protectively until their parents repent. She is a cautionary figure in Javanese child-rearing tradition, originating from the Bukit Gombel area of Semarang, Central Java.",
+  "full_description": "Wewe Gombel is one of the most distinctive supernatural figures in Javanese folklore. The name combines the Javanese wewe (woman, or widow) with Gombel, a scrubby hill area in Semarang, Central Java, Indonesia, where the legend is said to have originated. According to the foundational myth, a woman had been married for years without bearing children. When her husband abandoned her for another woman, she killed him in a rage. Pursued by villagers, she took her own life in despair, and her spirit became Wewe Gombel. Unlike many malevolent ghost figures, Wewe Gombel is morally ambiguous: she specifically targets children who have been mistreated or neglected by their parents, abducting them and caring for them lovingly in her nest within an Arenga pinnata (sugar palm) crown. The children do not fear her and are not harmed. She returns them only when their parents show genuine remorse. This structure makes Wewe Gombel a pedagogical figure: the legend is taught to encourage children to stay home at night and to model attentive parenting. Her physical description traditionally emphasizes elongated, hanging breasts, with modern media adaptations adding vampire-like fangs. Historically, the myth is estimated to have emerged around the 15th–16th centuries, during the period of the decline of the Majapahit Empire and the spread of Islam across Java.",
   "aliases": [
     {
       "name": "Wewegombel",
@@ -29,5 +30,73 @@
   "origin": "Central Java, Indonesia; the legend is most strongly associated with Semarang and the surrounding Bukit Gombel area, though it is known across Javanese-speaking communities in Central and East Java.",
   "first_reported": "1500-01-01",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Javanese; localized to Bukit Gombel, Semarang, Central Java, Indonesia",
+    "meaning": "Wewe: woman or widow (Javanese). Gombel: a scrubby hill in Semarang. The name literally identifies the spirit as the widow from the Gombel hill.",
+    "first_use": "Estimated 15th–16th century (pre-colonial Java, decline of Majapahit Empire)"
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "1500-01-01",
+      "event": "Estimated emergence of the Wewe Gombel legend in Javanese oral tradition, associated with Bukit Gombel, Semarang, during the decline of the Majapahit Empire",
+      "significance": "Origin period of the legend",
+      "source": "Wikipedia, Wewe Gombel"
+    },
+    {
+      "date": "1988-01-01",
+      "event": "Indonesian film Wewe Gombel released, one of the first cinematic treatments of the figure",
+      "significance": "Transition of the legend to mass-media format",
+      "source": "Wikipedia, Wewe Gombel"
+    },
+    {
+      "date": "2012-01-01",
+      "event": "Indonesian film Legenda Wewe Gombel released",
+      "significance": "Continued modern media engagement with the legend",
+      "source": "Wikipedia, Wewe Gombel"
+    }
+  ],
+  "related": [
+    {
+      "id": "hantu-kopek",
+      "name": "Hantu Kopek",
+      "relationship": "similar",
+      "description": "Malay folklore figure with similar elongated-breast description and child-related supernatural role"
+    },
+    {
+      "id": "rangda",
+      "name": "Rangda",
+      "relationship": "similar",
+      "description": "Balinese demon queen, another powerful Indonesian female supernatural figure"
+    },
+    {
+      "id": "pontianak",
+      "name": "Pontianak",
+      "relationship": "similar",
+      "description": "Malay/Indonesian female ghost (spirit of a woman who died in childbirth); shares origin in female trauma and death"
+    },
+    {
+      "id": "kuntilanak",
+      "name": "Kuntilanak",
+      "relationship": "similar",
+      "description": "Indonesian variant of the Pontianak; female ghost of similar traumatic origin"
+    }
+  ],
+  "cultural_notes": "Wewe Gombel is taught in Javanese communities as a cautionary figure: children who disobey (particularly by being outside at night) risk abduction; parents who neglect their children may lose them to her care. The spirit does not permanently harm children but uses their temporary removal to compel parental reform.",
+  "sources": [
+    {
+      "id": "wikipedia-wewe-gombel",
+      "type": "website",
+      "title": "Wewe Gombel",
+      "url": "https://en.wikipedia.org/wiki/Wewe_Gombel",
+      "accessed": "2026-05-08"
+    }
+  ],
+  "locations": []
 }

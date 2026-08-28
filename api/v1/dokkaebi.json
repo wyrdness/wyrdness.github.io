@@ -3,6 +3,7 @@
   "name": "Dokkaebi",
   "category": "entity_spirit",
   "description": "Dokkaebi are legendary creatures of Korean folklore, often loosely translated as 'goblins' but distinct from East Asian demons; they arise from the spiritual possession of inanimate objects and are known for mischief, supernatural strength, and the magical club known as the dokkaebi bangmangi.",
+  "full_description": "Dokkaebi (도깨비) are supernatural beings central to Korean folklore. Unlike Japanese oni or Chinese demons, they are not malevolent by default and are not the spirits of the dead — they are instead said to emerge through the spiritual possession of inanimate household objects, particularly old, discarded tools or items stained with human blood. Korean tradition records numerous types of dokkaebi, including the cham (mischievous), gae (evil), oedari (one-legged), oenun (one-eyed), and nat (daytime-appearing) varieties. Dokkaebi are typically described as wearing traditional hanbok and as being associated with a tall blue flame (dokkaebi-bul) that heralds their appearance. Their two famous magical artifacts are the dokkaebi gamtu, a hat that grants invisibility, and the dokkaebi bangmangi, a magic club that can summon objects. Folktales often describe humans defeating dokkaebi at ssireum (Korean wrestling) by exploiting their one-sided weakness, and the creatures are said to fear blood. Dokkaebi appear in some of the earliest Korean literary records — most famously the Silla-era tale 'Lady Dohwa and Bachelor Bihyeong' preserved in the Goryeo-era Memorabilia of the Three Kingdoms (Samguk Yusa) — and remain a central feature of Korean popular culture.",
   "aliases": [
     {
       "name": "도깨비",
@@ -58,5 +59,83 @@
   "origin": "Korean Peninsula, with strong presence across both modern South Korea and North Korea, and within Korean diaspora communities globally.",
   "first_reported": "Pre-13th century",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Native Korean (도깨비). Earlier forms include 돗가비 (dotgabi) attested in 15th-century Korean texts.",
+    "meaning": "Often glossed as 'goblin' or 'ogre' but with no exact English equivalent; the term refers to a class of object-born nature spirits in Korean tradition.",
+    "first_use": "Earliest extant references in Korean literature trace to the Silla and Goryeo periods (e.g., the tale of Lady Dohwa and Bachelor Bihyeong in the Samguk Yusa, compiled 13th century)."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "Pre-13th century",
+      "event": "Tale of Lady Dohwa and Bachelor Bihyeong, set in Silla, recorded in the Samguk Yusa",
+      "significance": "Earliest extant literary appearance of dokkaebi-like beings",
+      "source": "Samguk Yusa (compiled c. 1281)"
+    },
+    {
+      "date": "1392-01-01",
+      "event": "Joseon period anthologies begin recording dokkaebi folktales",
+      "significance": "Crystallization of dokkaebi typology in written tradition",
+      "source": "Joseon-era folktale anthologies"
+    },
+    {
+      "date": "2016-12-02",
+      "event": "Premiere of the tvN drama Guardian: The Lonely and Great God ('Dokkaebi'), starring Gong Yoo",
+      "significance": "Triggered a major modern revival of dokkaebi imagery",
+      "source": "tvN broadcast"
+    }
+  ],
+  "related": [
+    {
+      "id": "oni",
+      "name": "Oni",
+      "relationship": "similar",
+      "description": "Japanese demon often inappropriately equated with dokkaebi"
+    },
+    {
+      "id": "tsukumogami",
+      "name": "Tsukumogami",
+      "relationship": "similar",
+      "description": "Japanese spirits born from old tools and household objects"
+    },
+    {
+      "id": "domovoi",
+      "name": "Domovoi",
+      "relationship": "similar",
+      "description": "Slavic household spirit with comparable trickster/protector duality"
+    },
+    {
+      "id": "duende",
+      "name": "Duende",
+      "relationship": "similar",
+      "description": "Iberian and Latin American small humanoid spirits"
+    }
+  ],
+  "cultural_notes": "Dokkaebi are seen as morally ambiguous beings whose treatment of humans depends on the human's behavior toward them; they are distinct from gwishin (ghosts of the dead).",
+  "sources": [
+    {
+      "id": "wikipedia-dokkaebi",
+      "type": "website",
+      "title": "Dokkaebi",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Dokkaebi",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "samguk-yusa",
+      "type": "book",
+      "title": "Samguk Yusa (Memorabilia of the Three Kingdoms)",
+      "authors": [
+        "Iryeon"
+      ],
+      "date": "c. 1281"
+    }
+  ],
+  "locations": []
 }

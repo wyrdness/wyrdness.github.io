@@ -3,6 +3,7 @@
   "name": "Bai Ze",
   "category": "mythological_creature",
   "description": "Bai Ze is a wise, white, speaking quadruped of Chinese (and later Japanese) mythology that, according to legend, instructed the Yellow Emperor in the names and natures of all 11,520 supernatural beings — knowledge later reproduced in the lost Bai Ze Tu (Diagram of Bai Ze) and used as a protective talisman.",
+  "full_description": "Bai Ze (白澤, 'White Marsh' or 'White Beneficence') is a benevolent supernatural beast of Chinese mythology, later transmitted to Japan as Hakutaku, to Korea as Baekttaek, and to Vietnam as Bạch Trạch. According to a famous narrative attached to the Yellow Emperor (Huangdi), the sage-emperor encountered Bai Ze on a tour of the empire; the creature, possessed of human speech, recited to him the identities, habits, and counter-measures for 11,520 different supernatural beings. The emperor ordered these recorded in the Bai Ze Tu (白澤圖, 'Diagram of Bai Ze'), a now-lost compendium that was treated as an apotropaic catalogue. A Tang or Song-era manuscript copy of the text — Pelliot chinois 2682 — was recovered by the French sinologist Paul Pelliot at Dunhuang in 1908 and is preserved at the Bibliothèque nationale de France. Visual descriptions of Bai Ze vary across Chinese, Japanese, and Korean traditions and across centuries: it is generally depicted as a white-furred, lion- or ox-like quadruped with one or more horns and an unusual number of eyes; in the late Edo Japanese tradition (Fukuhara Gogaku, Hakutaku hi kai zu, 1785) it is drawn with three faces, each with three eyes, plus eyes along its flanks and horns. Hakutaku images circulated widely in 18th- and 19th-century Japan as bedside protective talismans, especially during the 1858 Edo cholera epidemic. The figure is treated as entirely benevolent: a personification of wisdom over superstition and a tutelary protector against evil spirits and disease.",
   "aliases": [
     {
       "name": "白澤",
@@ -47,5 +48,144 @@
   "origin": "Originating in Chinese mythology and transmitted across the Sinosphere — China, Japan (as Hakutaku), Korea (as Baekttaek), and Vietnam (as Bạch Trạch).",
   "first_reported": "4th century CE",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Chinese 白 (bái, 'white') + 澤 (zé, 'marsh' or 'beneficence/lustre').",
+    "meaning": "Most often glossed as 'White Marsh'; an alternative reading takes 澤 in the sense of 'lustrous beneficence', giving 'White Beneficence' — appropriate to its protective function.",
+    "first_use": "Earliest dated mention in surviving Chinese literature is in the Baopuzi (抱朴子) of Ge Hong (4th century CE), which alludes to the Yellow Emperor's encounter and the Bai Ze Tu."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "4th century CE",
+      "event": "Ge Hong, Baopuzi (Inner Chapters), alludes to the Yellow Emperor's encounter with Bai Ze and the Bai Ze Tu.",
+      "significance": "Earliest surviving textual reference.",
+      "source": "Ge Hong, 抱朴子 (Baopuzi), c. 4th century CE"
+    },
+    {
+      "date": "Sui-Tang (6th-9th century)",
+      "event": "Bai Ze Tu listed among demonological texts in imperial Chinese bibliographies (e.g. Suishu jingji zhi).",
+      "significance": "Establishes the work's status as a recognised text.",
+      "source": "Suishu, Jingji zhi"
+    },
+    {
+      "date": "9th-10th century",
+      "event": "Manuscript copies of the Bai Ze Tu are produced; Pelliot chinois 2682 is among them.",
+      "significance": "Material survival of the textual tradition.",
+      "source": "Pelliot chinois 2682, Bibliothèque nationale de France"
+    },
+    {
+      "date": "1908",
+      "event": "Paul Pelliot recovers the Pelliot chinois 2682 Bai Ze Tu manuscript at the Mogao Caves, Dunhuang, and brings it to Paris.",
+      "significance": "Modern scholarly access to a Bai Ze Tu manuscript.",
+      "source": "International Dunhuang Programme, Pelliot chinois 2682"
+    },
+    {
+      "date": "1712",
+      "event": "Wakan Sansai Zue (Terajima Ryōan) publishes a Japanese encyclopaedia entry on Hakutaku.",
+      "significance": "Anchor reference for Edo Japanese knowledge of the creature.",
+      "source": "Terajima Ryōan, Wakan Sansai Zue (1712)"
+    },
+    {
+      "date": "1785",
+      "event": "Fukuhara Gogaku produces 'Hakutaku hi kai zu' (白澤避怪図), establishing the canonical Edo image of Hakutaku with three faces and nine eyes.",
+      "significance": "Fixed iconography for Japanese popular use.",
+      "source": "Fukuhara Gogaku, Hakutaku hi kai zu (1785)"
+    },
+    {
+      "date": "1858",
+      "event": "During the Edo cholera epidemic, Hakutaku prints are widely placed beneath pillows as protective talismans.",
+      "significance": "Demonstrates the active apotropaic function in Edo society.",
+      "source": "Reports of Edo-era epidemic responses; secondary scholarship on yokai prints."
+    }
+  ],
+  "related": [
+    {
+      "id": "qilin",
+      "name": "Qilin",
+      "relationship": "similar",
+      "description": "Another Chinese auspicious beast; appears at the rule of a sage king."
+    },
+    {
+      "id": "longma",
+      "name": "Longma (Dragon-Horse)",
+      "relationship": "similar",
+      "description": "Auspicious composite creature of Chinese mythology."
+    },
+    {
+      "id": "hakutaku",
+      "name": "Hakutaku",
+      "relationship": "regional_variant",
+      "description": "Japanese reading and adaptation of Bai Ze."
+    },
+    {
+      "id": "nue",
+      "name": "Nue",
+      "relationship": "related",
+      "description": "Japanese chimera-like yokai; visually distinct but in the same broader 'composite-beast' tradition."
+    }
+  ],
+  "cultural_notes": "Bai Ze is treated across the Sinosphere as a wholly benevolent figure — a personification of wisdom over superstition and a domestic protector against evil spirits and disease.",
+  "sources": [
+    {
+      "id": "wikipedia-bai-ze",
+      "type": "website",
+      "title": "Bai Ze — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Bai_Ze",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "idp-pelliot-2682",
+      "type": "archive",
+      "title": "Pelliot chinois 2682 — International Dunhuang Programme",
+      "url": "https://idp.bl.uk",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "harper-1985",
+      "type": "paper",
+      "title": "A Chinese Demonography of the Third Century B.C.",
+      "authors": [
+        "Donald Harper"
+      ],
+      "publication": "Harvard Journal of Asiatic Studies, vol. 45, no. 2",
+      "date": "1985"
+    },
+    {
+      "id": "ge-hong-baopuzi",
+      "type": "book",
+      "title": "Baopuzi (抱朴子)",
+      "authors": [
+        "Ge Hong"
+      ],
+      "publication": "Inner Chapters, c. 4th century CE",
+      "date": "c. 320 CE"
+    },
+    {
+      "id": "terajima-1712",
+      "type": "book",
+      "title": "Wakan Sansai Zue (和漢三才図会)",
+      "authors": [
+        "Terajima Ryōan"
+      ],
+      "publication": "Edo, Japan",
+      "date": "1712"
+    },
+    {
+      "id": "fukuhara-1785",
+      "type": "book",
+      "title": "Hakutaku hi kai zu (白澤避怪図)",
+      "authors": [
+        "Fukuhara Gogaku"
+      ],
+      "publication": "Edo, Japan",
+      "date": "1785"
+    }
+  ],
+  "locations": []
 }

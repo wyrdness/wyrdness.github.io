@@ -3,6 +3,7 @@
   "name": "Wendigo (Cree)",
   "category": "shapeshifter",
   "description": "The Wendigo (Cree: Wīhtikōw; Ojibwe: Wiindigoo) is a supernatural being in Cree, Ojibwe, and related Algonquian traditions that embodies the ultimate transgression — cannibalism driven by greed — and the spiritual and physical transformation that results; associated with winter, cold, and insatiable hunger.",
+  "full_description": "The Wendigo is one of the most significant supernatural beings in the oral traditions of the Cree, Ojibwe, Saulteaux, Naskapi, Innu, and related Algonquian-speaking peoples of northern North America. The English word 'wendigo' is a loanword from Cree (wīhtikōw) and Ojibwe (wiindigoo); the Proto-Algonquian reconstruction is wi·nteko·wa, potentially meaning 'owl.' Algernon Blackwood's 1910 novella The Wendigo introduced the figure widely to English-language audiences. In traditional Algonquian belief, the wendigo is a gaunt, emaciated humanoid — skin pulled tightly over protruding bones, ash-gray complexion, eyes sunken deep in sockets, tattered bloody lips, and a foul odor of decay. It is associated with the north, winter, cold, and famine. The wendigo embodies insatiable hunger: it can never be satisfied, growing in proportion to what it consumes but always remaining perpetually starving. The core cultural function of the wendigo tradition is to enforce a fundamental taboo: cannibalism, and the greed and selfishness that might drive it. Humans could become wendigos by resorting to cannibalism for survival, by being overwhelmed by greed, through prolonged contact with an existing wendigo, or through spirit possession. 'Wendigo psychosis' is a documented culture-bound syndrome — an intense craving for human flesh and fear of becoming a cannibal, classified in the ICD-10 under culture-specific disorders. Two historically documented and legally adjudicated cases are the Swift Runner case (1878, Alberta) and the Jack Fiddler case (1907). Contemporary Cree and Ojibwe scholars (Brady DeSanti, Emily Zarka) interpret the wendigo as a marker indicating a person imbalanced toward their community — an embodiment of consuming selfishness — and have extended the metaphor to critique colonialism, capitalism, and 'social cannibalism.'",
   "aliases": [
     {
       "name": "Wīhtikōw",
@@ -57,5 +58,110 @@
   "origin": "The boreal forest regions of Canada and the northern United States, corresponding to the traditional territories of Algonquian-speaking peoples. Strongest tradition among the Cree, Ojibwe, Saulteaux, Naskapi, and Innu peoples.",
   "first_reported": "Pre-Columbian",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Cree language (wīhtikōw) and Ojibwe (wiindigoo); a loanword into English. The Proto-Algonquian reconstruction is wi·nteko·wa.",
+    "meaning": "Possibly derived from a Proto-Algonquian root meaning 'owl.' In Algonquian languages, the term specifically refers to this cannibalistic supernatural being. The Algernon Blackwood novella (1910) popularized the English spelling 'wendigo.'",
+    "first_use": "Pre-Columbian oral tradition of Algonquian peoples; earliest Western documentation in Jesuit Relations and other 17th-century missionary accounts. 'Wendigo' in English text: popularized by Algernon Blackwood (1910)"
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "1600-01-01",
+      "event": "Jesuit Relations missionary accounts from New France begin documenting wendigo beliefs among Algonquian peoples; earliest Western written documentation",
+      "significance": "Earliest surviving Western documentation of the tradition",
+      "source": "Jesuit Relations (17th century)"
+    },
+    {
+      "date": "1878-01-01",
+      "event": "Swift Runner case: a Plains Cree trapper from Alberta kills and consumes his wife and five children during winter starvation, twenty-five miles from Hudson's Bay Company supplies; executed at Fort Saskatchewan for murder",
+      "significance": "Most thoroughly documented historically recorded case of wendigo psychosis; resulted in legal proceeding and execution",
+      "source": "Historical records of Fort Saskatchewan and Northwest Mounted Police"
+    },
+    {
+      "date": "1907-01-01",
+      "event": "Jack Fiddler case: an Oji-Cree chief and medicine man known for killing people believed to be possessed by the wendigo is arrested with his brother Joseph for homicide; Jack commits suicide in custody; Joseph receives life imprisonment but dies before pardon",
+      "significance": "Legally documented case involving the traditional practice of killing wendigo-possessed individuals",
+      "source": "Canadian criminal court records, 1907–1909"
+    },
+    {
+      "date": "1910-01-01",
+      "event": "Algernon Blackwood publishes the novella The Wendigo, introducing the concept to a wide English-language audience",
+      "significance": "Most influential early English-language popularization of the wendigo tradition; established the figure in horror literature",
+      "source": "Blackwood, A. (1910), The Wendigo"
+    },
+    {
+      "date": "1973-01-01",
+      "event": "Marvel Comics introduces a wendigo character (Incredible Hulk #162), beginning the creature's integration into mainstream American popular culture",
+      "significance": "Entry into mainstream American popular culture; many subsequent portrayals follow this non-Indigenous interpretation",
+      "source": "Incredible Hulk #162 (March 1973)"
+    }
+  ],
+  "related": [
+    {
+      "id": "windigo-psychosis",
+      "name": "Windigo Psychosis",
+      "relationship": "related",
+      "description": "Culture-bound psychiatric syndrome in Algonquian communities; intense craving for human flesh and fear of becoming a wendigo; classified in ICD-10"
+    },
+    {
+      "id": "bigfoot",
+      "name": "Bigfoot (sometimes conflated)",
+      "relationship": "related",
+      "description": "Some non-Indigenous sources erroneously conflate the wendigo with Bigfoot/Sasquatch; these are distinct beings with different cultural roles and traditions"
+    },
+    {
+      "id": "ithaqua",
+      "name": "Ithaqua (August Derleth)",
+      "relationship": "related",
+      "description": "Cthulhu Mythos deity by August Derleth inspired by the wendigo tradition"
+    }
+  ],
+  "cultural_notes": "In Cree and Ojibwe tradition, the wendigo represents the ultimate transgression: the destruction of community bonds through selfishness and cannibalism. The tradition teaches that greed and excess — consuming more than one's share, prioritizing self-survival over community — is a spiritual danger that can transform a human being into something monstrous. Contemporary indigenous scholars have extended this metaphor to critique colonialism and capitalism as forms of 'wetiko' — social cannibalism.",
+  "sources": [
+    {
+      "id": "blackwood-1910",
+      "type": "book",
+      "title": "The Wendigo",
+      "authors": [
+        "Algernon Blackwood"
+      ],
+      "date": "1910",
+      "notes": "First major English-language literary treatment; published in The Lost Valley and Other Stories (1910)"
+    },
+    {
+      "id": "johnston-ojibwe",
+      "type": "book",
+      "title": "Ojibway Heritage",
+      "authors": [
+        "Basil H. Johnston"
+      ],
+      "publication": "McClelland and Stewart",
+      "date": "1976",
+      "notes": "Ojibwe scholarly account providing the physical description of the wendigo from an indigenous perspective"
+    },
+    {
+      "id": "marano-1982",
+      "type": "paper",
+      "title": "Windigo Psychosis: The Anatomy of an Emic-Etic Confusion",
+      "authors": [
+        "Lou Marano"
+      ],
+      "publication": "Current Anthropology",
+      "date": "1982"
+    },
+    {
+      "id": "wikipedia-wendigo",
+      "type": "website",
+      "title": "Wendigo — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Wendigo",
+      "accessed": "2026-05-08"
+    }
+  ],
+  "locations": []
 }

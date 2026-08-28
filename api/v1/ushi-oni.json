@@ -3,6 +3,7 @@
   "name": "Ushi-oni",
   "category": "mythological_creature",
   "description": "The Ushi-oni (牛鬼, also read gyūki) is a fearsome yokai from Japanese folklore combining the head of an ox with a monstrous body; it inhabits coastal and waterside areas in western Japan and is known for savage attacks on humans.",
+  "full_description": "The Ushi-oni (牛鬼, 'ox-demon,' also read gyūki) is a class of fearsome yokai from Japanese folklore — primarily of western Japan including Ehime, Wakayama, Shimane, and other prefectures. The name combines 'ushi' (ox) and 'oni' (demon or supernatural being). Unlike many yokai classes that have a single coherent description, the ushi-oni varies significantly by region. Common features include an ox head with upward-curving horns, sharp fangs, a slender tongue, and a monstrous body that may be spider-like (with six legs and singular claws), whale-like, or otherwise chimeric. Some regional variants have insect wings. All variants share a savage disposition and an appetite for human flesh. The ushi-oni inhabits beaches, coastal areas, and waterside locations. In many accounts, it works in tandem with the nure-onna (a woman-headed snake creature), using deceptive tactics to approach victims: the nure-onna lures a sympathetic passerby to hold what appears to be a baby, then paralyzes the victim while the ushi-oni attacks. In Wakayama Prefecture, the ushi-oni is described as catlike and springy, and its victims suffer soul-draining rather than physical consumption. In Ehime Prefecture, the ushi-oni is associated with legendary slayings by yamabushi (mountain ascetic) monks. In Izumo (Shimane Prefecture), groups of ushi-oni are said to appear as white butterflies during humid weather — a significant variant from the typical coastal predator. Classical literature documents an 1251 incident at Sensō-ji temple in which an ox-like yokai affected 24 monks, killing seven.",
   "aliases": [
     {
       "name": "牛鬼",
@@ -38,5 +39,67 @@
   "origin": "Western Japan, particularly coastal areas of Ehime, Wakayama, Shimane, and other prefectures along the Seto Inland Sea and Sea of Japan coastlines.",
   "first_reported": "1251-01-01",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Japanese. The name 牛鬼 (ushi-oni or gyūki) directly combines 牛 (ushi: ox, cow) and 鬼 (oni: demon, supernatural being).",
+    "meaning": "Ox-demon; a hybrid creature combining the power and form of an ox with the supernatural malevolence of an oni.",
+    "first_use": "Classical Japanese literature; the earliest documented reference to an ox-like yokai at Sensō-ji temple dates to 1251 CE"
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "1251-01-01",
+      "event": "Classical literature records an ox-like yokai at Sensō-ji temple affecting 24 monks and killing seven",
+      "significance": "Earliest datable documented account of an ushi-oni-type creature",
+      "source": "Classical Japanese literature (cited in Wikipedia article on ushi-oni)"
+    },
+    {
+      "date": "1700-01-01",
+      "event": "Ushi-oni appears in Edo-period compendia of supernatural beings and regional folk tale collections",
+      "significance": "Documentation of regional variants across western Japan in the Edo period",
+      "source": "Edo-period yokai compendia"
+    }
+  ],
+  "related": [
+    {
+      "id": "oni",
+      "name": "Oni",
+      "relationship": "related",
+      "description": "Broad class of Japanese supernatural beings; ushi-oni derives part of its name and nature from the oni tradition"
+    },
+    {
+      "id": "nure-onna",
+      "name": "Nure-onna",
+      "relationship": "related",
+      "description": "Woman-headed snake yokai that frequently appears alongside the ushi-oni in coastal settings, using deceptive tactics to help it attack victims"
+    },
+    {
+      "id": "gyuki-chinese",
+      "name": "Niū-guǐ (Chinese)",
+      "relationship": "similar",
+      "description": "Chinese ox-ghost; possible cultural ancestor of the ushi-oni via continental influence on Japanese supernatural tradition"
+    }
+  ],
+  "cultural_notes": "In western Japanese coastal communities, the ushi-oni was understood as a genuine threat of the sea and shoreline — a creature to be avoided and feared. In Uwajima and other communities that developed ushi-oni festival traditions, the beast has been transformed into a protective deity through ritual: the parade float carries the ushi-oni spirit as a protector of the community rather than a predator.",
+  "sources": [
+    {
+      "id": "wikipedia-ushi-oni",
+      "type": "website",
+      "title": "Ushi-oni — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ushi-oni",
+      "accessed": "2026-05-08"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Uwajima, Ehime Prefecture",
+      "lat": 33.225,
+      "lng": 132.561
+    }
+  ]
 }

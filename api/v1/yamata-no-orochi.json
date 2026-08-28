@@ -3,6 +3,7 @@
   "name": "Yamata no Orochi",
   "category": "mythological_creature",
   "description": "An eight-headed, eight-tailed giant serpent of Japanese mythology, slain by the storm god Susanoo no Mikoto in the Hi River valley of Izumo Province. The creature's defeat yielded the Kusanagi-no-Tsurugi sword, one of Japan's three Imperial Regalia, making the Orochi myth one of the most consequential narratives in Japanese culture.",
+  "full_description": "Yamata no Orochi (八岐大蛇, 'eight-branching great serpent') is the most famous monster of Japanese mythology, recorded in Japan's two oldest written texts: the Kojiki (712 CE) and the Nihon Shoki (720 CE). According to the Kojiki, the serpent had eight heads and eight tails, eyes like red cherries, a body covered in moss, cypress, and cedar, spanning eight valleys and eight peaks, with a belly perpetually oozing blood. The storm deity Susanoo no Mikoto encountered the grieving couple Ashinazuchi and Tenazuchi, who had lost seven daughters to the serpent's annual appetite; only Kushinada-hime remained. Susanoo defeated the creature through stratagem: he transformed Kushinada-hime into a comb hidden in his hair, instructed the parents to brew eightfold-refined sake in eight vessels, and hid these behind a fence. The Orochi, discovering the sake, drank from each vessel with one of its heads and fell into a drunken stupor. Susanoo then cut the creature apart with his Totsuka-no-Tsurugi sword. When he severed the middle tail, his blade met resistance and broke — revealing the legendary Kusanagi-no-Tsurugi ('Grass-Cutting Sword') hidden within the serpent's flesh. This sword was subsequently presented to Amaterasu, the sun goddess, and became one of Japan's three Imperial Regalia. Scholars have proposed that the Orochi myth encodes historical realities: the serpent may represent the Hi River's flooding, the narrative may reflect ancient conflict between Izumo Province culture and the encroaching Yamato state, and the metallurgical theme (the sword emerging from the serpent) may reflect the spread of iron-smelting technology from the Korean peninsula.",
   "aliases": [
     {
       "name": "ヤマタノオロチ",
@@ -45,5 +46,103 @@
   "origin": "The myth is geographically anchored to the Hi River (now the Hii River) in Izumo Province (modern Shimane Prefecture), western Honshu, Japan. The narrative is national in significance but locally specific in setting.",
   "first_reported": "0712-01-01",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Old Japanese; documented in the Kojiki (712 CE)",
+    "meaning": "Yamata (八岐/八俣): eight-forked or eight-branched. No: possessive or descriptive particle. Orochi: great serpent, from Old Japanese woröti; possibly combining ō (great) with chi (god/spirit) or dialectal oro (peak/tail).",
+    "first_use": "712 CE (Kojiki); the myth predates the written record in oral tradition"
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "0712-01-01",
+      "event": "Kojiki compiled; contains the foundational account of Susanoo's slaying of Yamata no Orochi and discovery of the Kusanagi sword",
+      "significance": "Oldest written record of the myth; canonical text of Japanese mythology",
+      "source": "Kojiki (712 CE)"
+    },
+    {
+      "date": "0720-01-01",
+      "event": "Nihon Shoki compiled; contains six variant retellings of the Orochi myth with additional detail and alternate names for the sword (Ama-no-Murakumo-no-Tsurugi)",
+      "significance": "Second canonical source; provides alternate names and interpretive variants",
+      "source": "Nihon Shoki (720 CE)"
+    },
+    {
+      "date": "1185-04-25",
+      "event": "Battle of Dan-no-Ura; the Kusanagi sword, one of the Imperial Regalia recovered from the Orochi, sinks into the sea when Emperor Antoku drowns; the Heike Monogatari later proposes this was Orochi's reincarnation reclaiming the sword",
+      "significance": "Historical event that prompted mythological interpretation connecting the Orochi myth to the Genpei War",
+      "source": "Heike Monogatari (compiled 1371 CE by Akashi Kakuichi)"
+    },
+    {
+      "date": "1371-01-01",
+      "event": "Akashi Kakuichi compiles the Heike Monogatari in its canonical form, including the account proposing Yamata no Orochi reincarnated as Emperor Antoku",
+      "significance": "Demonstrates the myth's continued interpretive power in medieval Japan",
+      "source": "Heike Monogatari (1371 CE)"
+    },
+    {
+      "date": "1963-01-01",
+      "event": "Film The Little Prince and the Eight-Headed Dragon released; early major modern cinematic treatment of the Orochi myth",
+      "significance": "First major post-war cinematic adaptation",
+      "source": "The Little Prince and the Eight-Headed Dragon (1963, Toei Animation)"
+    }
+  ],
+  "related": [
+    {
+      "id": "hydra",
+      "name": "Lernaean Hydra",
+      "relationship": "similar",
+      "description": "Multi-headed serpent slain by a hero in Greek mythology; scholars note cross-cultural parallels with the Orochi myth"
+    },
+    {
+      "id": "naga",
+      "name": "Nāga",
+      "relationship": "related",
+      "description": "Buddhist serpent deity; medieval Buddhist scholars identified Yamata no Orochi with the Nāga Maiden of the Lotus Sutra"
+    },
+    {
+      "id": "ibuki-daimyojin",
+      "name": "Ibuki Daimyōjin",
+      "relationship": "related",
+      "description": "Mountain deity of Mount Ibuki; Shinto tradition holds that the surviving Orochi spirit fled to Mount Ibuki and was enshrined there"
+    },
+    {
+      "id": "kusanagi",
+      "name": "Kusanagi-no-Tsurugi",
+      "relationship": "related",
+      "description": "The legendary sword revealed within the Orochi's middle tail; one of Japan's three Imperial Regalia"
+    }
+  ],
+  "cultural_notes": "The Orochi represents the archetypal force of chaos and destruction overcome by divine heroism. The eight-fold structure (heads, tails, valleys, peaks) encodes the ancient Japanese cosmological significance of eight as a number of multiplied power. The discovery of the Kusanagi sword within the creature's body implies that order and civilization — represented by the sword — were always latent within the chaos the Orochi embodied.",
+  "sources": [
+    {
+      "id": "wikipedia-yamata-no-orochi",
+      "type": "website",
+      "title": "Yamata no Orochi",
+      "url": "https://en.wikipedia.org/wiki/Yamata_no_Orochi",
+      "accessed": "2026-05-08"
+    },
+    {
+      "id": "kojiki-712",
+      "type": "archive",
+      "title": "Kojiki (Record of Ancient Matters)",
+      "date": "0712-01-01"
+    },
+    {
+      "id": "nihon-shoki-720",
+      "type": "archive",
+      "title": "Nihon Shoki (Chronicles of Japan)",
+      "date": "0720-01-01"
+    },
+    {
+      "id": "heike-monogatari-1371",
+      "type": "archive",
+      "title": "Heike Monogatari",
+      "date": "1371-01-01"
+    }
+  ],
+  "locations": []
 }

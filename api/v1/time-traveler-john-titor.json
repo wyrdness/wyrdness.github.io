@@ -3,6 +3,7 @@
   "name": "John Titor",
   "category": "urban_legend",
   "description": "An anonymous online persona who, between 1998 and 2001, claimed to be an American soldier from the year 2036 sent back to 1975 to retrieve an IBM 5100 computer. Widely regarded as one of the most elaborate early-internet hoaxes.",
+  "full_description": "John Titor is the screen name attached to a series of online posts claiming time-traveler status that appeared on the Art Bell Post-2-Post BBS, Time Travel Institute forums, and IRC channels between 1998 and late March 2001. The earliest known communications were two faxes sent to broadcaster Art Bell on 29 July 1998. The poster claimed to be a US Army soldier born in 1998 and based in Tampa, Florida in 2036, sent back to 1975 to retrieve an IBM 5100 computer needed to debug legacy systems threatened by the year-2038 Unix problem ('Y2038'); he claimed to be 'on a stopover' in 2000-2001 to visit his family. He posted detailed schematics, photographs of an alleged 'time displacement device' built into a 1967 Chevrolet Corvette and 1987 truck, and a series of predictions including civil unrest around the 2004 US presidential election, a US civil war by 2008, and a global nuclear war ('N-Day') in 2015 with the new US capital relocated to Omaha, Nebraska. None of the predictions came to pass on schedule. A 2009 investigation by John Hughston ('Razimus') and Italian researchers identified Larry Haber, a Florida entertainment lawyer who became CEO of the John Titor Foundation (incorporated 2003-09-16), as the most likely originator, alongside his brothers Morey Haber and John Rick Haber - all of whom have denied involvement. The Titor archive remains one of the most enduring artifacts of late-1990s/early-2000s internet folklore.",
   "aliases": [
     {
       "name": "TimeTravel_0",
@@ -32,5 +33,126 @@
   "origin": "Posts originated through online forums based primarily in the United States.",
   "first_reported": "1998-07-29",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "The pseudonym 'John Titor' was used on the Art Bell BBS forum from January 2001; earlier posts on the Time Travel Institute used 'TimeTravel_0'. The name 'Titor' has no announced derivation in the original posts.",
+    "meaning": "Pseudonym; no documented meaning",
+    "first_use": "1998-07-29 (two faxes to Art Bell, signed as a time traveler) / 2000-11-02 (first Time Travel Institute post as 'TimeTravel_0')"
+  },
+  "sightings_stats": {
+    "total_documented": 1,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 1,
+    "date_range": {
+      "earliest": "1998-07-29",
+      "latest": "2001-03-24"
+    }
+  },
+  "timeline": [
+    {
+      "date": "1998-07-29",
+      "event": "Two faxes received by Art Bell from someone claiming to be a time traveler",
+      "significance": "Earliest known Titor-related communications",
+      "source": "Art Bell archives"
+    },
+    {
+      "date": "2000-10-14",
+      "event": "First IRC conversation by user later associated with Titor",
+      "significance": "Beginning of the online presence proper",
+      "source": "IRC logs cited in Titor archives"
+    },
+    {
+      "date": "2000-11-02",
+      "event": "First post as 'TimeTravel_0' on the Time Travel Institute forum",
+      "significance": "Beginning of the main online run",
+      "source": "Time Travel Institute forum archives"
+    },
+    {
+      "date": "2001-01",
+      "event": "Posts as 'John Titor' begin on Art Bell Post-2-Post BBS",
+      "significance": "Adoption of the now-famous pseudonym",
+      "source": "Art Bell BBS archives"
+    },
+    {
+      "date": "2001-03-24",
+      "event": "Final Titor post; the persona departs",
+      "significance": "End of the active phase",
+      "source": "John Titor Foundation compilation"
+    },
+    {
+      "date": "2003-09-16",
+      "event": "John Titor Foundation Inc. is incorporated in Florida; Larry Haber is CEO",
+      "significance": "Commercial entity established to manage the Titor archive and merchandising",
+      "source": "Florida Department of State, Division of Corporations"
+    },
+    {
+      "date": "2009",
+      "event": "Investigation by John Hughston ('Razimus') and Italian researchers identifies Larry Haber and his brothers (Morey Haber, John Rick Haber) as the likely originators",
+      "significance": "Most credible attribution to date; the Habers deny involvement",
+      "source": "Razimus investigation, Italian RAI documentary coverage"
+    },
+    {
+      "date": "2015",
+      "event": "Predicted year of 'N-Day' nuclear war did not occur",
+      "significance": "Falsification of central Titor prediction",
+      "source": "Public record"
+    }
+  ],
+  "related": [
+    {
+      "id": "time-slips",
+      "name": "Time Slips",
+      "relationship": "related",
+      "description": "Other reported time-anomaly phenomena"
+    },
+    {
+      "id": "philadelphia-experiment",
+      "name": "Philadelphia Experiment",
+      "relationship": "related",
+      "description": "Earlier American time/teleportation legend"
+    },
+    {
+      "id": "montauk-project",
+      "name": "Montauk Project",
+      "relationship": "related",
+      "description": "Conspiracy claim invoking time-travel experiments"
+    },
+    {
+      "id": "mandela-effect",
+      "name": "Mandela Effect",
+      "relationship": "related",
+      "description": "Internet-era memory anomaly often grouped with parallel-universe claims"
+    }
+  ],
+  "cultural_notes": "Treated by mainstream commentators and journalists as a hoax; small online communities continue to defend the alternate-timeline reading.",
+  "sources": [
+    {
+      "id": "wikipedia-johntitor",
+      "type": "website",
+      "title": "John Titor",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/John_Titor",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "johntitorfoundation",
+      "type": "website",
+      "title": "John Titor Foundation",
+      "url": "http://www.johntitor.com/",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "skeptoid-titor",
+      "type": "article",
+      "title": "Was John Titor a Real Time Traveler?",
+      "authors": [
+        "Brian Dunning"
+      ],
+      "publication": "Skeptoid",
+      "url": "https://skeptoid.com/episodes/4244",
+      "accessed": "2026-05-07"
+    }
+  ],
+  "locations": []
 }

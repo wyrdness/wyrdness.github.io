@@ -3,6 +3,7 @@
   "name": "Stonehenge",
   "category": "location",
   "description": "A prehistoric stone circle on Salisbury Plain in Wiltshire, England, built in stages between roughly 3100 and 1600 BC. A UNESCO World Heritage Site (1986) of central importance to British archaeology, it is also a focus of folklore and modern pagan and druidic ceremony.",
+  "full_description": "Stonehenge is a Neolithic and Bronze Age megalithic monument standing on Salisbury Plain about 2 miles (3 km) west of Amesbury, Wiltshire, England. The visible monument consists of a circular outer ring of vertical sarsen standing stones (each ~ 4 m / 13 ft tall), each pair capped by a horizontal lintel, with an inner horseshoe of sarsen trilithons and arrangements of smaller bluestones. Construction unfolded across at least three major stages between approximately 3100 BC and 1600 BC. The bluestones, weighing up to 4 tonnes each, were transported approximately 240 km from the Preseli Hills in Pembrokeshire, southwest Wales — a logistical feat unmatched among contemporary monuments. The larger sarsens are now traced by 2020 isotopic analysis to West Woods near Marlborough, ~ 25 km north. Stonehenge has attracted major archaeological investigation since William Stukeley's 18th-century surveys; modern interpretations include astronomical alignment (notably the summer-solstice sunrise and winter-solstice sunset axis), funerary use (Mike Parker Pearson's Stonehenge Riverside Project found extensive cremation burials), and use as a healing site (Geoffrey Wainwright and Timothy Darvill, drawing on the Welsh bluestone provenance). It has been a UNESCO World Heritage Site since 1986. In folklore, Stonehenge is connected to Merlin (Geoffrey of Monmouth, c. 1136), the Devil, and the druids; modern druids and pagans use the site for solstice and equinox observances.",
   "aliases": [
     {
       "name": "The Giants' Dance",
@@ -34,5 +35,203 @@
   "origin": "A single monument on Salisbury Plain, Wiltshire, England.",
   "first_reported": "c. 3100 BC",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Old English; first attested as 'Stanenges' or 'Stanheng' in 11th-12th century sources.",
+    "meaning": "Generally interpreted as 'hanging stones' (stan = stone; henge from hengen, 'hanging' or 'gibbet'), a reference to the lintels suspended above the standing stones.",
+    "first_use": "11th–12th century, in Old English and Anglo-Latin sources"
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "c. 3100 BC",
+      "event": "First phase: circular bank-and-ditch enclosure with 56 Aubrey Holes; cremation burials begin",
+      "source": "Parker Pearson et al. (2009)"
+    },
+    {
+      "date": "c. 2600 BC",
+      "event": "Erection of the great sarsen circle and inner trilithons; bluestones brought from the Preseli Hills, Pembrokeshire",
+      "source": "Cleal et al. (1995); Parker Pearson (2012)"
+    },
+    {
+      "date": "c. 2400–1600 BC",
+      "event": "Repeated rearrangements of the bluestones; Y- and Z-Holes dug; final phase of significant construction",
+      "source": "Cleal et al. (1995)"
+    },
+    {
+      "date": "c. 1136",
+      "event": "Geoffrey of Monmouth, Historia Regum Britanniae, attributes the monument's construction to Merlin and to stones brought by giants from Africa via Ireland",
+      "source": "Geoffrey of Monmouth (c. 1136)"
+    },
+    {
+      "date": "1666",
+      "event": "John Aubrey surveys the monument, identifying the ring of pits later named the Aubrey Holes",
+      "source": "Aubrey, J., Monumenta Britannica (publ. 1980–82)"
+    },
+    {
+      "date": "1740",
+      "event": "William Stukeley publishes Stonehenge: A Temple Restor'd to the British Druids, embedding the durable popular association of the site with druids",
+      "source": "Stukeley (1740)"
+    },
+    {
+      "date": "1882",
+      "event": "Stonehenge becomes one of the first sites protected under the United Kingdom's Ancient Monuments Protection Act",
+      "source": "UK Statute"
+    },
+    {
+      "date": "1918",
+      "event": "Cecil Chubb donates Stonehenge to the British nation",
+      "source": "Deed of Gift, 26 October 1918"
+    },
+    {
+      "date": "1986",
+      "event": "Stonehenge inscribed on the UNESCO World Heritage List as part of 'Stonehenge, Avebury and Associated Sites'",
+      "source": "UNESCO World Heritage List, 1986"
+    },
+    {
+      "date": "2003-2009",
+      "event": "Stonehenge Riverside Project (Mike Parker Pearson and colleagues) demonstrates a planned ritual landscape linking Stonehenge and Durrington Walls",
+      "source": "Parker Pearson, M. (2012), Stonehenge: Exploring the Greatest Stone Age Mystery"
+    },
+    {
+      "date": "2020",
+      "event": "Geochemical fingerprinting (Nash et al., Science Advances) identifies West Woods, near Marlborough, as the source of the great sarsen stones",
+      "source": "Nash, D. J. et al. (2020), Sci. Adv. 6: eabc0133"
+    },
+    {
+      "date": "2021-02",
+      "event": "Pearson, Bevins, Pearce et al. publish evidence in Antiquity that some bluestones were originally erected at Waun Mawn in the Preseli Hills before being relocated to Stonehenge",
+      "source": "Parker Pearson, M. et al. (2021), Antiquity 95(379)"
+    }
+  ],
+  "related": [
+    {
+      "id": "avebury",
+      "name": "Avebury",
+      "relationship": "similar",
+      "description": "Larger but contemporary stone circle complex 27 km north"
+    },
+    {
+      "id": "durrington-walls",
+      "name": "Durrington Walls",
+      "relationship": "related",
+      "description": "Late Neolithic henge enclosure 3 km northeast, interpreted by Parker Pearson as paired with Stonehenge in a ritual landscape"
+    },
+    {
+      "id": "carnac-stones",
+      "name": "Carnac stones",
+      "relationship": "similar",
+      "description": "Contemporary Brittany megalithic alignments"
+    },
+    {
+      "id": "newgrange",
+      "name": "Newgrange",
+      "relationship": "similar",
+      "description": "Contemporary Irish passage tomb with solstitial alignment"
+    }
+  ],
+  "cultural_notes": "Long-standing English folk beliefs in supernatural construction by giants or the Devil; modern pagan beliefs in Stonehenge as a sacred ceremonial site.",
+  "sources": [
+    {
+      "id": "wikipedia-stonehenge",
+      "type": "website",
+      "title": "Stonehenge",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Stonehenge",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "english-heritage-stonehenge",
+      "type": "website",
+      "title": "Stonehenge",
+      "publication": "English Heritage",
+      "url": "https://www.english-heritage.org.uk/visit/places/stonehenge/",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "unesco-stonehenge",
+      "type": "website",
+      "title": "Stonehenge, Avebury and Associated Sites",
+      "publication": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/373/",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "parker-pearson-2012",
+      "type": "book",
+      "title": "Stonehenge: Exploring the Greatest Stone Age Mystery",
+      "authors": [
+        "Mike Parker Pearson"
+      ],
+      "publication": "Simon & Schuster",
+      "date": "2012",
+      "isbn": "978-0857207302"
+    },
+    {
+      "id": "cleal-1995",
+      "type": "book",
+      "title": "Stonehenge in Its Landscape: Twentieth-Century Excavations",
+      "authors": [
+        "Rosamund Cleal",
+        "K. E. Walker",
+        "R. Montague"
+      ],
+      "publication": "English Heritage",
+      "date": "1995",
+      "isbn": "978-1850746058"
+    },
+    {
+      "id": "nash-2020",
+      "type": "paper",
+      "title": "Origins of the sarsen megaliths at Stonehenge",
+      "authors": [
+        "David J. Nash",
+        "T. Jake R. Ciborowski",
+        "J. Stewart Ullyott",
+        "Mike Parker Pearson",
+        "Timothy Darvill",
+        "Susan Greaney",
+        "Georgios Maniatis",
+        "Katy A. Whitaker"
+      ],
+      "publication": "Science Advances",
+      "date": "2020-07-29",
+      "doi": "10.1126/sciadv.abc0133"
+    },
+    {
+      "id": "parker-pearson-2021",
+      "type": "paper",
+      "title": "The original Stonehenge? A dismantled stone circle in the Preseli Hills of west Wales",
+      "authors": [
+        "Mike Parker Pearson",
+        "Josh Pollard",
+        "Colin Richards",
+        "Kate Welham",
+        "Timothy Kinnaird",
+        "Dave Shaw",
+        "Ellen Simmons",
+        "Adam Stanford",
+        "Richard Bevins",
+        "Rob Ixer",
+        "Clive Ruggles",
+        "Jim Rylatt",
+        "Kevan Edinborough"
+      ],
+      "publication": "Antiquity",
+      "date": "2021-02",
+      "doi": "10.15184/aqy.2020.239"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Stonehenge",
+      "lat": 51.1789,
+      "lng": -1.8262
+    }
+  ]
 }

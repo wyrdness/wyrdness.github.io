@@ -3,6 +3,7 @@
   "name": "Drude",
   "category": "demon_angel",
   "description": "A malevolent nocturnal spirit of Southern German and Austrian folklore, the drude was held to press upon sleepers and cause nightmares; the term later became a generic word for 'witch' and gives its name to the Drudenfuss (pentagram) and Drudenstein (holed-pebble) protective charms.",
+  "full_description": "In Germanic folklore, the drude (Middle High German trute) is a malevolent nocturnal spirit, classed alongside alps, kobolds, and hags, especially prevalent in Southern Germany, Bavaria, Austria, and Tyrol. The drude was believed to participate in the Wild Hunt and was reckoned in medieval and early-modern demonologies as a particular order of demon. By the 16th century, 'drude' had become a generic descriptor for a witch. Two named protective objects derive from the tradition: the Drudenfuss, the pentagram, used as an apotropaic sign and named explicitly in Goethe's Faust (1808); and the Drudenstein, a naturally holed pebble hung in rooms, on cradles, or in stables in Bavaria to ward off nightmares and to protect horses against matted manes ('Marenflechten'). Jacob Grimm in his Deutsche Mythologie suggested the term derives euphemistically from MHG trût ('dear, beloved'), with an alternative scholarly thread linking it to the Norse valkyrie Þrúðr, daughter of Thor and Sif. The drude belongs to a wider Germanic complex of nightmare-figures alongside the Mahr, the Alp, and the Schrat, with parallels across Europe (English mare, Slavic Mara).",
   "aliases": [
     {
       "name": "Trute",
@@ -36,5 +37,104 @@
   "origin": "Primarily Southern Germany, Bavaria, Austria, and Tyrol, with parallels in wider Germanic-speaking Europe.",
   "first_reported": "Medieval",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Middle High German trute. Jacob Grimm proposes a euphemistic derivation from MHG trût ('dear, intimate'); a separate scholarly hypothesis connects the word to Old Norse Þrúðr (the valkyrie, daughter of Thor and Sif).",
+    "meaning": "A nocturnal spirit pressing upon or harassing sleepers; later, generically, 'witch'",
+    "first_use": "Attested from the medieval period; Drudenfuss recorded as a term since the 17th century in Justus Georg Schottelius (1612–1676)"
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "1500-01-01",
+      "event": "By the 16th century 'drude' has become a generic descriptor for a witch in German-speaking lands",
+      "significance": "Semantic broadening from spirit to witch",
+      "source": "Wikipedia: Drude"
+    },
+    {
+      "date": "1612-01-01",
+      "event": "Justus Georg Schottelius (1612–1676) records 'Drudenfuss' as a term for the pentagram",
+      "significance": "Early lexicographic attestation of the apotropaic charm",
+      "source": "Schottelius (17th century)"
+    },
+    {
+      "date": "1808-01-01",
+      "event": "Goethe's Faust, Part One, names the Drudenfuss as the pentagram that traps Mephistopheles at Faust's door",
+      "significance": "Canonical literary reference for the drude pentagram",
+      "source": "Goethe, Faust I (1808)"
+    },
+    {
+      "date": "1835-01-01",
+      "event": "Jacob Grimm's Deutsche Mythologie discusses the etymology and folklore of the drude",
+      "significance": "Foundational 19th-century scholarly treatment",
+      "source": "Jacob Grimm, Deutsche Mythologie (1835)"
+    }
+  ],
+  "related": [
+    {
+      "id": "alp",
+      "name": "Alp",
+      "relationship": "similar",
+      "description": "Closely related Germanic nightmare-spirit pressing on sleepers"
+    },
+    {
+      "id": "mahr",
+      "name": "Mahr",
+      "relationship": "similar",
+      "description": "German night-mare, comparable phenomenon"
+    },
+    {
+      "id": "mare",
+      "name": "Mare",
+      "relationship": "similar",
+      "description": "Wider Germanic / Scandinavian mare/nightmare tradition"
+    },
+    {
+      "id": "night-hag",
+      "name": "Night Hag",
+      "relationship": "similar",
+      "description": "Pan-cultural sleep-paralysis figure"
+    },
+    {
+      "id": "wild-hunt",
+      "name": "Wild Hunt",
+      "relationship": "related",
+      "description": "Drude said to participate in the Germanic Wild Hunt"
+    }
+  ],
+  "cultural_notes": "The drude was kept at bay by the Drudenfuss drawn or carved at thresholds, and by Drudensteine hung in bedrooms, cradles, and stables.",
+  "sources": [
+    {
+      "id": "wikipedia-drude",
+      "type": "website",
+      "title": "Drude",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Drude",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "grimm-1835",
+      "type": "book",
+      "title": "Deutsche Mythologie",
+      "authors": [
+        "Jacob Grimm"
+      ],
+      "date": "1835"
+    },
+    {
+      "id": "goethe-faust-i",
+      "type": "book",
+      "title": "Faust, Part One",
+      "authors": [
+        "Johann Wolfgang von Goethe"
+      ],
+      "date": "1808"
+    }
+  ],
+  "locations": []
 }

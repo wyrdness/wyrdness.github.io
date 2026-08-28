@@ -3,6 +3,7 @@
   "name": "Near-Death Experiences",
   "category": "psychic_phenomena",
   "description": "Profound personal experiences associated with death or impending death, often reported by survivors of cardiac arrest and other life-threatening events. Common features include out-of-body sensations, passage through a tunnel, encounters with light and deceased relatives, and life review.",
+  "full_description": "A Near-Death Experience (NDE) is a profound personal experience associated with death or impending death, typically occurring during reversible clinical death (most often cardiac arrest), severe trauma, or other life-threatening medical crises. Common features include detachment from the body, out-of-body experience (OBE), a sense of passage through a tunnel or darkness, encounter with a brilliant light, panoramic life review, meetings with deceased relatives or 'beings of light', feelings of peace and warmth, and sensations of levitation. The phenomenon was systematically described and named in 1975 by physician and philosopher Raymond Moody in his bestseller Life After Life, which identified fifteen recurring elements; earlier scholarly work includes Albert Heim's 1892 clinical observations of mountaineers' near-death experiences and Celia Green's 1968 analysis of out-of-body experience accounts. Major modern researchers include Bruce Greyson (whose 1983 Greyson NDE Scale is widely used), Kenneth Ring (1980 five-stage model), Pim van Lommel (whose 2001 prospective study of 344 cardiac-arrest survivors in The Lancet is among the most-cited works in the field), and Sam Parnia (lead investigator of the AWARE study, 2008–2012, of 2,060 cardiac-arrest events across 15 medical centres in the UK, Austria, and the United States). Estimates of prevalence range from roughly 10–20% of patients approaching death and 17% of critically ill patients. Proposed scientific explanations include cerebral hypoxia/anoxia, REM intrusion, temporal-parietal junction dysfunction, ketamine- and DMT-related neurochemistry, and dissociative responses to extreme stress; cultural framing (e.g. Christian angels, Hindu messengers of Yama) varies more than the underlying core features.",
   "aliases": [
     {
       "name": "NDE",
@@ -29,5 +30,146 @@
   "origin": "NDEs are reported worldwide and cross-culturally, with documented research in North America, Europe, and Asia.",
   "first_reported": "1892",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "The term 'near-death experience' was popularized by Raymond Moody in his 1975 book Life After Life.",
+    "meaning": "Literally an experience occurring at or near the point of death.",
+    "first_use": "1975 (in Moody's Life After Life). Earlier clinical descriptions appear in Albert Heim's 1892 work."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0,
+    "date_range": {
+      "earliest": "1892",
+      "latest": "2026"
+    }
+  },
+  "timeline": [
+    {
+      "date": "1892",
+      "event": "Albert Heim publishes the first clinical study of near-death experiences, drawn from accounts of survivors of falls in the Alps",
+      "significance": "Earliest formal clinical study of the phenomenon",
+      "source": "Heim, A. (1892)"
+    },
+    {
+      "date": "1968",
+      "event": "Celia Green analyzes 400 out-of-body experience accounts",
+      "significance": "Foundational empirical study of OBEs, a core NDE feature",
+      "source": "Green, C. (1968)"
+    },
+    {
+      "date": "1975",
+      "event": "Raymond Moody publishes Life After Life, identifying fifteen recurring NDE elements and coining the modern term",
+      "significance": "Founding text of the modern field",
+      "source": "Moody, R. (1975)"
+    },
+    {
+      "date": "1980",
+      "event": "Kenneth Ring publishes Life at Death, proposing a five-stage continuum model for NDEs",
+      "significance": "Influential typology of the experience",
+      "source": "Ring, K. (1980)"
+    },
+    {
+      "date": "1983",
+      "event": "Bruce Greyson publishes the Greyson NDE Scale",
+      "significance": "Standardised diagnostic instrument that remains in wide use",
+      "source": "Greyson, B. (1983)"
+    },
+    {
+      "date": "2001-12-15",
+      "event": "Pim van Lommel and colleagues publish a prospective study of 344 cardiac-arrest survivors across 10 Dutch hospitals in The Lancet",
+      "significance": "Among the most-cited prospective studies of NDEs",
+      "source": "van Lommel, P. et al. (2001), The Lancet"
+    },
+    {
+      "date": "2014",
+      "event": "Sam Parnia and colleagues publish results of the AWARE study (2008–2012) of 2,060 cardiac-arrest events at 15 medical centres",
+      "significance": "Largest prospective multi-centre study of NDEs to date",
+      "source": "Parnia, S. et al. (2014), Resuscitation"
+    },
+    {
+      "date": "2022",
+      "event": "Multidisciplinary panel proposes 'Recalled Experience of Death' (RED) terminology and identifies 51 common elements",
+      "significance": "Effort to standardise rigorous diagnostic criteria",
+      "source": "NDE researcher consensus (2022 guidelines)"
+    }
+  ],
+  "related": [
+    {
+      "id": "out-of-body-experience",
+      "name": "Out-of-Body Experience (OBE)",
+      "relationship": "subset",
+      "description": "A common element of NDEs, but also occurring outside near-death contexts"
+    },
+    {
+      "id": "deathbed-vision",
+      "name": "Deathbed visions",
+      "relationship": "similar",
+      "description": "Visions reported by dying patients in their final hours"
+    },
+    {
+      "id": "shared-death-experience",
+      "name": "Shared Death Experience",
+      "relationship": "related",
+      "description": "NDE-like experiences reported by people present at another person's death"
+    }
+  ],
+  "cultural_notes": "NDEs are interpreted across many traditions as evidence of an afterlife, journeys to gods or psychopomps, or ego-dissolution states.",
+  "sources": [
+    {
+      "id": "wikipedia-nde",
+      "type": "website",
+      "title": "Near-death experience",
+      "publication": "English Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Near-death_experience",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "moody-1975",
+      "type": "book",
+      "title": "Life After Life",
+      "authors": [
+        "Raymond A. Moody"
+      ],
+      "publication": "Mockingbird Books",
+      "date": "1975"
+    },
+    {
+      "id": "vanlommel-2001",
+      "type": "paper",
+      "title": "Near-death experience in survivors of cardiac arrest: a prospective study in the Netherlands",
+      "authors": [
+        "Pim van Lommel",
+        "Ruud van Wees",
+        "Vincent Meyers",
+        "Ingrid Elfferich"
+      ],
+      "publication": "The Lancet",
+      "date": "2001-12-15"
+    },
+    {
+      "id": "greyson-1983",
+      "type": "paper",
+      "title": "The Near-Death Experience Scale: Construction, reliability, and validity",
+      "authors": [
+        "Bruce Greyson"
+      ],
+      "publication": "Journal of Nervous and Mental Disease",
+      "date": "1983"
+    },
+    {
+      "id": "parnia-2014",
+      "type": "paper",
+      "title": "AWARE—AWAreness during REsuscitation—A prospective study",
+      "authors": [
+        "Sam Parnia",
+        "et al."
+      ],
+      "publication": "Resuscitation",
+      "date": "2014"
+    }
+  ],
+  "locations": []
 }

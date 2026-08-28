@@ -3,6 +3,7 @@
   "name": "Al-Burāq",
   "category": "mythological_creature",
   "description": "Al-Burāq is the celestial steed of Islamic tradition that, according to Hadith narrations, carried the Prophet Muhammad on the Isra and Mi'raj — the night journey from the Sacred Mosque in Mecca to the Al-Aqsa Mosque in Jerusalem and the subsequent ascent through the seven heavens.",
+  "full_description": "Al-Burāq (Arabic: البُراق, 'the lightning' or 'the bright one') is a sacred celestial steed in Islamic tradition. According to Hadith narrations transmitted in Sahih al-Bukhari, Sahih Muslim, and other canonical collections, Al-Burāq was sent by the angel Jibrīl (Gabriel) to carry the Prophet Muhammad on the Isra and Mi'raj — the miraculous night journey from al-Masjid al-Haram (the Sacred Mosque in Mecca) to al-Masjid al-Aqsa (the Furthest Mosque, identified with the site in Jerusalem), and then the celestial ascent (mi'raj) through the seven heavens to the divine presence. Hadith descriptions of Al-Burāq are concise: 'a white animal, smaller than a mule and bigger than a donkey,' whose stride covers as far as the eye can see. Some traditions also relate that Al-Burāq carried the Prophet Ibrahim (Abraham) between Mecca and Canaan. The Quran refers to the night journey in Surah al-Isra (17:1) without naming the steed; the name Al-Burāq comes from the Hadith literature. Visual depictions, especially in Persian, Mughal, and Ottoman manuscript painting from roughly the 14th century onward, often portray Al-Burāq as a winged equine with a human (frequently feminine) face — a feature not present in early textual descriptions but widely diffused through Islamic devotional art. Sites in Jerusalem associated with the journey — the Buraq Wall (the western wall of the Haram al-Sharif/Temple Mount, where tradition holds Al-Burāq was tethered) and the Buraq Mosque — remain places of religious significance and political contestation.",
   "aliases": [
     {
       "name": "البُراق",
@@ -36,5 +37,114 @@
   "origin": "A single mythological figure of universal scope within Islamic tradition. The narrative geography of the night journey runs from Mecca (al-Masjid al-Haram) to Jerusalem (al-Masjid al-Aqsa) and through the seven heavens.",
   "first_reported": "c. 621 CE",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "From the Arabic root b-r-q (برق) meaning 'lightning' or 'to flash'. Some scholars (e.g., the Encyclopædia Iranica) note possible cross-influence with Middle Persian terms for a riding beast.",
+    "meaning": "'The lightning one' — a reference to extraordinary speed.",
+    "first_use": "Attested in Hadith collections of the 9th century CE; the night journey itself is traditionally dated to c. 621 CE."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "c. 621",
+      "event": "Traditional date of the Isra and Mi'raj, in which Al-Burāq carries the Prophet Muhammad from Mecca to Jerusalem and through the seven heavens",
+      "significance": "Defining narrative event of the tradition",
+      "source": "Quran 17:1; Hadith collections"
+    },
+    {
+      "date": "9th century",
+      "event": "Hadith collections of al-Bukhari (d. 870) and Muslim ibn al-Hajjaj (d. 875) record narrations describing Al-Burāq",
+      "significance": "Canonical written documentation of the steed",
+      "source": "Sahih al-Bukhari; Sahih Muslim"
+    },
+    {
+      "date": "1436",
+      "event": "Mi'rajnama (Persian, Timurid period) produced in Herat, with elaborate paintings of Al-Burāq",
+      "significance": "Major milestone in the visual tradition",
+      "source": "Mi'rajnama, Bibliothèque nationale de France, MS Suppl. turc 190"
+    },
+    {
+      "date": "1929",
+      "event": "Buraq Wall riots in Jerusalem",
+      "significance": "Modern political crystallisation of the religious significance of the Buraq Wall",
+      "source": "British Mandate documents"
+    }
+  ],
+  "related": [
+    {
+      "id": "pegasus",
+      "name": "Pegasus",
+      "relationship": "similar",
+      "description": "Greek winged horse with celestial associations"
+    },
+    {
+      "id": "tianma",
+      "name": "Tianma (天馬)",
+      "relationship": "similar",
+      "description": "Chinese 'heavenly horse', a celestial steed motif"
+    },
+    {
+      "id": "sleipnir",
+      "name": "Sleipnir",
+      "relationship": "similar",
+      "description": "Norse eight-legged steed of Odin used to travel between worlds"
+    }
+  ],
+  "cultural_notes": "Lailat al-Mi'raj is observed annually on 27 Rajab in many Muslim communities, commemorating the night journey on which Al-Burāq carried the Prophet.",
+  "sources": [
+    {
+      "id": "wikipedia-buraq",
+      "type": "website",
+      "title": "Buraq",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Buraq",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "iranica-boraq",
+      "type": "website",
+      "title": "Borāq",
+      "publication": "Encyclopædia Iranica",
+      "url": "https://www.iranicaonline.org/articles/boraq",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "gruber-2018",
+      "type": "book",
+      "title": "The Praiseworthy One: The Prophet Muhammad in Islamic Texts and Images",
+      "authors": [
+        "Christiane Gruber"
+      ],
+      "publication": "Indiana University Press",
+      "date": "2018",
+      "isbn": "978-0253039637"
+    },
+    {
+      "id": "sahih-bukhari",
+      "type": "book",
+      "title": "Sahih al-Bukhari",
+      "authors": [
+        "Muhammad al-Bukhari"
+      ],
+      "publication": "Various editions",
+      "date": "9th century"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Al-Masjid al-Haram",
+      "lat": 21.4225,
+      "lng": 39.8262
+    },
+    {
+      "name": "Al-Masjid al-Aqsa / Buraq Wall",
+      "lat": 31.7767,
+      "lng": 35.2356
+    }
+  ]
 }

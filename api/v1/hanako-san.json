@@ -3,6 +3,7 @@
   "name": "Hanako-san",
   "category": "ghost_haunting",
   "description": "Hanako-san is a Japanese school ghost said to inhabit the third stall of the third-floor girls' bathroom and to answer when summoned with a specific knocking ritual. She is one of the most widely circulated school-based urban legends in modern Japan.",
+  "full_description": "Hanako-san (花子さん, 'Miss Hanako'), commonly called Toire no Hanako-san ('Hanako of the Toilet'), is a Japanese yokai/yurei tied to school bathrooms. She is described as the spirit of a young girl with a bobbed haircut and a red skirt or dress who haunts a particular stall — usually the third stall of the third-floor girls' restroom — and can be summoned by knocking three times on the door and asking 'Are you there, Hanako-san?' If she answers, consequences in different versions range from a bloody hand pulling the questioner into the toilet, to being dragged to Hell, to encountering a three-headed lizard. Folklorists trace the schoolyard legend to roughly the 1950s; it became a national cultural fixture during the Japanese kokkuri/yokai boom of the late 1980s and the school-horror media wave of the 1990s. There is no canonical origin story: variants attribute her death to a WWII air raid during a game of hide-and-seek, to murder by a parent or stranger, or to bullying-driven suicide. The legend is closely associated with children's storytelling games and 'school seven mysteries' (gakkō no nana fushigi) traditions.",
   "aliases": [
     {
       "name": "Toire no Hanako-san",
@@ -41,5 +42,124 @@
   "origin": "Japan-wide schoolyard urban legend, with regional variants in nearly every prefecture. The legend has been exported through anime, manga, films, and the global creepypasta and J-horror communities.",
   "first_reported": "1950",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Japanese post-war schoolyard urban legend; the name 'Hanako' is a generic, common Japanese girl's name often used in folklore and exemplar contexts (analogous to English 'Jane Doe').",
+    "meaning": "'Hanako' (花子) literally 'flower child'; 'Toire no Hanako-san' translates as 'Hanako of the Toilet'.",
+    "first_use": "Documented in Japanese schoolyard folklore by the 1950s; widely popularized nationally in the late 1980s."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0,
+    "date_range": {
+      "earliest": "1950",
+      "latest": "2026"
+    }
+  },
+  "timeline": [
+    {
+      "date": "1950-01-01",
+      "event": "Earliest stratum of the Hanako-san schoolyard legend, per folklorist Matthew Meyer",
+      "significance": "Establishes the legend as a postwar phenomenon",
+      "source": "Meyer, Matthew, 'Hanako-san of the Toilet'"
+    },
+    {
+      "date": "1980-01-01",
+      "event": "Hanako-san spreads broadly through schoolyards as part of the late-1980s yokai/kokkuri-san boom",
+      "significance": "Transition from local oral tradition to nationally recognized children's legend",
+      "source": "Foster, Michael Dylan, The Book of Yokai (2015)"
+    },
+    {
+      "date": "1995-07-15",
+      "event": "Live-action film Toire no Hanako-san directed by Joji Matsuoka released in Japan",
+      "significance": "First major mainstream cinematic treatment; portrayed Hanako sympathetically",
+      "source": "Japanese film databases"
+    },
+    {
+      "date": "1998-01-01",
+      "event": "Shinsei Toire no Hanako-san directed by Yukihiko Tsutsumi released, depicting a vengeful Hanako",
+      "significance": "Cemented Hanako-san as a horror genre icon",
+      "source": "Japanese film databases"
+    },
+    {
+      "date": "2014-01-01",
+      "event": "AidaIro begins serialization of Jibaku Shōnen Hanako-kun ('Toilet-Bound Hanako-kun')",
+      "significance": "Reframes the legend with a male protagonist and launches a major modern franchise",
+      "source": "Square Enix / Monthly GFantasy"
+    },
+    {
+      "date": "2020-01-01",
+      "event": "Anime adaptation of Toilet-Bound Hanako-kun by studio Lerche premieres",
+      "significance": "Brings the legend to a global audience through streaming platforms",
+      "source": "Lerche / Funimation"
+    }
+  ],
+  "related": [
+    {
+      "id": "kashima-reiko",
+      "name": "Kashima Reiko",
+      "relationship": "similar",
+      "description": "Japanese legless ghost likewise associated with bathrooms and a question-and-answer ritual"
+    },
+    {
+      "id": "aka-manto",
+      "name": "Aka Manto (Red Cape)",
+      "relationship": "similar",
+      "description": "Japanese bathroom-stall ghost who poses a deadly choice between red or blue paper"
+    },
+    {
+      "id": "kuchisake-onna",
+      "name": "Kuchisake-onna",
+      "relationship": "related",
+      "description": "Slit-mouthed woman urban legend in the same modern-Japanese yokai cycle"
+    },
+    {
+      "id": "hasshaku-sama",
+      "name": "Hasshaku-sama",
+      "relationship": "related",
+      "description": "Modern Japanese internet-era ghost legend targeting children"
+    },
+    {
+      "id": "bloody-mary",
+      "name": "Bloody Mary",
+      "relationship": "counterpart",
+      "description": "Western mirror-summoning ghost, structurally analogous as a ritual-invocation school ghost"
+    }
+  ],
+  "cultural_notes": "Predominantly treated as a children's game-legend rather than a sincere ghost belief; nonetheless, Hanako-san is widely recognized across Japan as a stock supernatural figure of the school setting.",
+  "sources": [
+    {
+      "id": "wiki-hanakosan",
+      "type": "website",
+      "title": "Hanako-san",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Hanako-san",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "foster-2015",
+      "type": "book",
+      "title": "The Book of Yokai: Mysterious Creatures of Japanese Folklore",
+      "authors": [
+        "Michael Dylan Foster"
+      ],
+      "publication": "University of California Press",
+      "date": "2015",
+      "isbn": "978-0520271029"
+    },
+    {
+      "id": "meyer-yokaicom-hanako",
+      "type": "website",
+      "title": "Hanako-san of the toilet",
+      "authors": [
+        "Matthew Meyer"
+      ],
+      "publication": "yokai.com",
+      "url": "https://yokai.com/hanakosan/",
+      "accessed": "2026-05-07"
+    }
+  ],
+  "locations": []
 }

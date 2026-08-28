@@ -3,6 +3,7 @@
   "name": "Basket Woman",
   "category": "entity_spirit",
   "description": "A giant, child-stealing ogress of Pacific Northwest Coast Indigenous folklore, said to carry off careless or disobedient children in a large pack basket on her back. Best known by the Kwakwaka'wakw name Dzunukwa.",
+  "full_description": "Basket Woman, also called the Basket Ogress, is a recurring figure in the oral traditions of many Pacific Northwest Coast nations, including the Kwakwaka'wakw (Kwakiutl), Heiltsuk, Tlingit, Coast Salish, and others. She is most famously known by the Kwakwaka'wakw name Dzunukwa (Tsonoqua), and on the Oregon coast as Asin. She is described as a tall, dark, naked, and wild-haired giantess who roams the forest with an enormous cedar-bark or root pack basket on her back. Children who wander, disobey, or stay out after dark are caught and carried off in the basket to be eaten. In most stories the children outwit her, often because she is sleepy or dim-witted. In Kwakwaka'wakw ceremonial life Dzunukwa is also a more complex figure: a wealth-bringing being whose mask appears in the Tlasala (Peace) and other dance complexes, with deep clan and potlatch significance. Conflating the bogeyman role with the ceremonial role flattens an important cultural distinction.",
   "aliases": [
     {
       "name": "Basket Ogress",
@@ -51,5 +52,108 @@
   "origin": "Coastal and forested regions of the Pacific Northwest, from southeastern Alaska through coastal British Columbia and Washington into Oregon and northern California, in the territories of Northwest Coast nations.",
   "first_reported": "Pre-contact",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "English 'Basket Woman' / 'Basket Ogress' is a 19th–20th century anthropological gloss for a cluster of related Northwest Coast figures; Indigenous names include Kwak'wala Dzunukwa (Tsonoqua) and Alsea/regional Asin.",
+    "meaning": "Dzunukwa is sometimes glossed as 'Wild Woman of the Woods'; the English designations describe her primary attribute, the large pack basket in which she abducts children.",
+    "first_use": "Recorded in English-language ethnography in the late 19th century by Franz Boas and George Hunt"
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "Pre-contact",
+      "event": "Continuous oral tradition of Basket Ogress / Dzunukwa across Northwest Coast nations",
+      "significance": "Cultural baseline",
+      "source": "Indigenous oral tradition"
+    },
+    {
+      "date": "1897",
+      "event": "Franz Boas publishes 'The Social Organization and the Secret Societies of the Kwakiutl Indians' documenting Dzunukwa",
+      "significance": "First major ethnographic publication describing the figure",
+      "source": "Boas, F. (1897), Smithsonian Annual Report"
+    },
+    {
+      "date": "1935",
+      "event": "Boas's 'Kwakiutl Culture as Reflected in Mythology' anthologizes related narratives",
+      "significance": "Anchors the figure in academic folklore studies",
+      "source": "Boas, F. (1935), AFS Memoir 28"
+    }
+  ],
+  "related": [
+    {
+      "id": "dzunukwa",
+      "name": "Dzunukwa",
+      "relationship": "regional_variant",
+      "description": "Kwakwaka'wakw cannibal giantess and wealth-bringer; the most ceremonially elaborated form"
+    },
+    {
+      "id": "baba-yaga",
+      "name": "Baba Yaga",
+      "relationship": "similar",
+      "description": "Slavic forest crone and child-eating bogeyman"
+    },
+    {
+      "id": "wendigo",
+      "name": "Wendigo",
+      "relationship": "related",
+      "description": "Algonquian cannibal spirit of the northern forests"
+    },
+    {
+      "id": "skookum",
+      "name": "Skookum (Stick Indians)",
+      "relationship": "related",
+      "description": "Other Pacific Northwest forest beings"
+    }
+  ],
+  "cultural_notes": "Across Northwest Coast traditions, the Basket Woman is understood as a real being inhabiting the deep forest. She is fearsome but defeatable, and in some traditions her defeat brings wealth and clan honor.",
+  "sources": [
+    {
+      "id": "wiki-dzunukwa",
+      "type": "website",
+      "title": "Dzunukwa",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Dzunukwa",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "native-languages-basket-ogress",
+      "type": "website",
+      "title": "Basket Ogress (Basket Woman): Cannibal giantess of Northwest Coast Native folklore",
+      "publication": "Native Languages of the Americas",
+      "url": "https://www.native-languages.org/basket-ogress.htm",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "boas-1897",
+      "type": "book",
+      "title": "The Social Organization and the Secret Societies of the Kwakiutl Indians",
+      "authors": [
+        "Franz Boas"
+      ],
+      "publication": "Smithsonian / U.S. National Museum Annual Report",
+      "date": "1897"
+    },
+    {
+      "id": "boas-1935",
+      "type": "book",
+      "title": "Kwakiutl Culture as Reflected in Mythology",
+      "authors": [
+        "Franz Boas"
+      ],
+      "publication": "American Folklore Society, Memoir 28",
+      "date": "1935"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Kwakwaka'wakw territory",
+      "lat": 50.6,
+      "lng": -126.9
+    }
+  ]
 }

@@ -3,6 +3,7 @@
   "name": "Changeling",
   "category": "fae_folklore",
   "description": "A child believed in European folklore to have been substituted by fairies, trolls, or other supernatural beings in place of a stolen human infant. Modern scholarship recognises that the changeling label was historically applied to children with disabilities and developmental conditions, and that 'changeling tests' resulted in real abuse and deaths.",
+  "full_description": "The changeling is a long-standing motif in European folklore, especially in Celtic, Germanic, and Scandinavian traditions. According to belief, fairies, trolls, elves, demons, or other supernatural beings would take a healthy human child — typically a recently-born or unbaptised infant — and leave one of their own in its place. The substitute child was identified by a sudden change in temperament or appearance: insatiable hunger, failure to thrive, an aged or 'wizened' face on a child's body, late or absent speech, persistent crying, or unusual cleverness. A wide range of folk tests and counter-measures are documented, including placing the suspected changeling on a hot shovel, in a heated oven, or near an open fire; brewing in eggshells (which would supposedly trick it into speaking and reveal its supernatural identity); whipping; and exposure on a fairy mound. The 1895 killing of Bridget Cleary in County Tipperary, Ireland — burned to death by her husband and relatives, who stated they believed her to be a changeling — is the best-documented modern case of this belief contributing to a homicide. Modern scholarship in folklore studies, disability history, and medicine recognises that many of the conditions historically attributed to changeling status (autism, cerebral palsy, congenital disorders, failure to thrive) are explicable in medical terms; the changeling tradition has been re-read as a pre-modern framework for, and a contributor to abuse of, disabled and ill children. Wyrdness records changelings as a documented folkloric belief whose harmful historical applications are an inseparable part of the entry.",
   "aliases": [
     {
       "name": "Síofra",
@@ -44,5 +45,118 @@
   "origin": "Widespread across pre-modern Europe with the strongest documented traditions in Ireland, Scotland, Wales, the Isle of Man, England, Scandinavia (especially Sweden, Norway, Denmark), and German-speaking lands.",
   "first_reported": "1100",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "English: 'change-' + the agent suffix '-ling', i.e. 'one who is changed'.",
+    "meaning": "A child or being substituted for another.",
+    "first_use": "Recorded in Middle English; the broader European complex predates the English word."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "1220-01-01",
+      "event": "Caesarius of Heisterbach's Dialogus Miraculorum (c. 1220) refers to changeling beliefs",
+      "significance": "Early high-medieval written record",
+      "source": "Caesarius of Heisterbach, Dialogus Miraculorum"
+    },
+    {
+      "date": "1812-01-01",
+      "event": "Brothers Grimm publish Kinder- und Hausmärchen, including changeling tales",
+      "significance": "Brings changeling tradition into the canonical German folklore corpus",
+      "source": "Grimm, J. & W. (1812)"
+    },
+    {
+      "date": "1888-01-01",
+      "event": "W. B. Yeats publishes 'Fairy and Folk Tales of the Irish Peasantry', including changeling material",
+      "significance": "Foundational late-19th-century English-language Irish folklore source",
+      "source": "Yeats, W. B. (1888)"
+    },
+    {
+      "date": "1895-03-15",
+      "event": "Bridget Cleary is killed by her husband and relatives in Ballyvadlea, Co. Tipperary; killers state they believed her to be a changeling",
+      "significance": "Best-documented modern case of changeling belief contributing to a homicide",
+      "source": "Court records; Bourke, A. (1999), The Burning of Bridget Cleary"
+    },
+    {
+      "date": "1999-01-01",
+      "event": "Angela Bourke publishes The Burning of Bridget Cleary",
+      "significance": "Definitive scholarly study of the case and its folkloric and political context",
+      "source": "Bourke, A. (1999)"
+    }
+  ],
+  "related": [
+    {
+      "id": "fairy",
+      "name": "Fairy / fae",
+      "relationship": "superset",
+      "description": "The supernatural beings most often blamed for changeling exchanges in Celtic tradition"
+    },
+    {
+      "id": "troll",
+      "name": "Troll",
+      "relationship": "related",
+      "description": "Scandinavian source-figure for the bortbyting tradition"
+    },
+    {
+      "id": "elf",
+      "name": "Elf",
+      "relationship": "related",
+      "description": "Germanic source-figure for the wechselbalg tradition"
+    }
+  ],
+  "cultural_notes": "Historically a sincere, widely held belief; today understood by mainstream scholarship as folkloric, though the tradition is preserved in literature and revived ritually in some neopagan communities.",
+  "sources": [
+    {
+      "id": "bourke-1999",
+      "type": "book",
+      "title": "The Burning of Bridget Cleary: A True Story",
+      "authors": [
+        "Angela Bourke"
+      ],
+      "publication": "Pimlico",
+      "date": "1999",
+      "isbn": "978-0712665476"
+    },
+    {
+      "id": "grimm-1812",
+      "type": "book",
+      "title": "Kinder- und Hausmärchen",
+      "authors": [
+        "Jacob Grimm",
+        "Wilhelm Grimm"
+      ],
+      "publication": "Realschulbuchhandlung, Berlin",
+      "date": "1812"
+    },
+    {
+      "id": "yeats-1888",
+      "type": "book",
+      "title": "Fairy and Folk Tales of the Irish Peasantry",
+      "authors": [
+        "W. B. Yeats"
+      ],
+      "publication": "Walter Scott, London",
+      "date": "1888"
+    },
+    {
+      "id": "wikipedia-changeling",
+      "type": "website",
+      "title": "Changeling",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Changeling",
+      "accessed": "2026-05-07"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Ballyvadlea, County Tipperary",
+      "lat": 52.5167,
+      "lng": -7.7167
+    }
+  ]
 }

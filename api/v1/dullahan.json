@@ -3,6 +3,7 @@
   "name": "Dullahan",
   "category": "undead",
   "description": "A headless rider of Irish folklore who appears as a harbinger of death, riding a black horse and carrying his own severed head.",
+  "full_description": "The Dullahan is a figure from Irish folklore — a member of the Unseelie host described as a headless rider who carries his severed head with him. He travels alone or driving a black coach (the Coiste Bodhar) drawn by six black horses, and stops only at the home of someone about to die. When he speaks, only one word is uttered: the name of the person whose soul is being summoned. Documented in detail in 19th-century Irish folklore collections, especially Thomas Crofton Croker's Fairy Legends and Traditions of the South of Ireland (1825–1828) and W. B. Yeats's Fairy and Folk Tales of the Irish Peasantry (1888), the Dullahan is closely linked to the wider European 'wild hunt' and headless-horseman traditions and is widely cited as an inspiration for Washington Irving's Headless Horseman in 'The Legend of Sleepy Hollow' (1820).",
   "aliases": [
     {
       "name": "Dubhlachan",
@@ -57,5 +58,142 @@
   "origin": "Folkloric range across the island of Ireland, with the densest narrative tradition in the southern counties documented by Crofton Croker and the western counties documented by Yeats and later folklorists.",
   "first_reported": "1825",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Anglicization of Irish 'dubhlachán' or 'dulachán', from 'dubh' (black, dark) plus a diminutive ending; also linked by some glossaries to 'dorr/durr' (anger) or 'durrach' (malicious, fierce).",
+    "meaning": "'Dark man' or 'gloomy little fellow'; also rendered as 'without a head' (Gan Ceann).",
+    "first_use": "Recorded in English-language print in the 19th century; Croker's 1825–1828 collection is the earliest widely cited."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0,
+    "date_range": {
+      "earliest": "Pre-19th century",
+      "latest": "19th century"
+    }
+  },
+  "timeline": [
+    {
+      "date": "1825-01-01",
+      "event": "Thomas Crofton Croker publishes the first volume of 'Fairy Legends and Traditions of the South of Ireland', containing detailed Dullahan and Coiste Bodhar accounts",
+      "significance": "First English-language print documentation of the Dullahan",
+      "source": "Croker, T. C. (1825–1828)"
+    },
+    {
+      "date": "1888-01-01",
+      "event": "W. B. Yeats publishes 'Fairy and Folk Tales of the Irish Peasantry', collecting and reframing earlier Dullahan accounts",
+      "significance": "Anchors the Dullahan in the Irish Literary Revival canon",
+      "source": "Yeats, W. B. (1888)"
+    },
+    {
+      "date": "1973-01-01",
+      "event": "Folklorist Patricia Lysaght and others begin systematic academic study of Irish death-messenger figures",
+      "significance": "Modern folkloristics frames the Dullahan alongside the banshee in death-omen tradition",
+      "source": "Irish Folklore Commission archives"
+    }
+  ],
+  "related": [
+    {
+      "id": "headless-horseman",
+      "name": "Headless Horseman",
+      "relationship": "similar",
+      "description": "Washington Irving's 1820 Sleepy Hollow figure, widely held to derive in part from Dullahan tradition"
+    },
+    {
+      "id": "ankou",
+      "name": "Ankou",
+      "relationship": "similar",
+      "description": "Breton personification of death who drives a death cart"
+    },
+    {
+      "id": "wild-hunt",
+      "name": "Wild Hunt",
+      "relationship": "related",
+      "description": "Pan-European spectral hunt of the dead"
+    },
+    {
+      "id": "banshee",
+      "name": "Banshee",
+      "relationship": "related",
+      "description": "Irish death-herald spirit, often paired with the Dullahan in folklore"
+    },
+    {
+      "id": "phantom-armies",
+      "name": "Phantom Armies",
+      "relationship": "related",
+      "description": "Spectral hosts overlapping with the Coiste Bodhar tradition"
+    }
+  ],
+  "cultural_notes": "The Dullahan's calling of a name was held to be inevitable and unappealable; the only known protection was gold, even in trace amount. Watching him pass risked having a basin of blood thrown in one's face or being struck blind in one eye.",
+  "sources": [
+    {
+      "id": "croker-1825",
+      "type": "book",
+      "title": "Fairy Legends and Traditions of the South of Ireland",
+      "authors": [
+        "Thomas Crofton Croker"
+      ],
+      "publication": "John Murray, London",
+      "date": "1825"
+    },
+    {
+      "id": "yeats-1888",
+      "type": "book",
+      "title": "Fairy and Folk Tales of the Irish Peasantry",
+      "authors": [
+        "W. B. Yeats"
+      ],
+      "publication": "Walter Scott, London",
+      "date": "1888"
+    },
+    {
+      "id": "wilde-1887",
+      "type": "book",
+      "title": "Ancient Legends, Mystic Charms and Superstitions of Ireland",
+      "authors": [
+        "Lady Jane Wilde"
+      ],
+      "publication": "Ward and Downey, London",
+      "date": "1887"
+    },
+    {
+      "id": "lysaght-1986",
+      "type": "book",
+      "title": "The Banshee: The Irish Supernatural Death-Messenger",
+      "authors": [
+        "Patricia Lysaght"
+      ],
+      "publication": "Glendale Press, Dublin",
+      "date": "1986",
+      "isbn": "978-0907606383"
+    },
+    {
+      "id": "briggs-1976",
+      "type": "book",
+      "title": "An Encyclopedia of Fairies",
+      "authors": [
+        "Katharine Briggs"
+      ],
+      "publication": "Pantheon Books",
+      "date": "1976",
+      "isbn": "978-0394734675"
+    },
+    {
+      "id": "wikipedia-dullahan",
+      "type": "website",
+      "title": "Dullahan",
+      "url": "https://en.wikipedia.org/wiki/Dullahan",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "duchas",
+      "type": "archive",
+      "title": "Dúchas / The National Folklore Collection of Ireland",
+      "url": "https://www.duchas.ie",
+      "accessed": "2026-05-07"
+    }
+  ],
+  "locations": []
 }

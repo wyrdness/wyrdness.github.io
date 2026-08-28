@@ -3,6 +3,7 @@
   "name": "Roperite",
   "category": "cryptid",
   "description": "A fearsome critter from American lumberjack tall tales, the Roperite is a pony-sized animal of the California Sierra foothills described as catching prey with a long, prehensile, rope-like beak that it uses as a lasso.",
+  "full_description": "The Roperite is a creature from the corpus of fearsome critters — humorous tall-tale beasts told in North American logging camps in the late 19th and early 20th centuries. It was placed in the published canon by William T. Cox in his 1910 book 'Fearsome Creatures of the Lumberwoods, With a Few Desert and Mountain Beasts'. According to Cox, the Roperite is about the size of an undernourished pony and lived in herds in the Sierra foothills of California, especially among the Digger pine country, but had not been reported in herds for many years by 1910. Its defining feature is a long, flexible, rope-like beak that it uses to lasso prey at speed; victims are then dragged through chaparral until dead. Cox's text relays a Digger-Indian (a colonial-era exonym for Indigenous Californian peoples) tradition that Roperites are the spirits of early Spanish ranchers, accounting for the lariat behaviour. The Roperite has no purported real-world basis: it is a literary preservation of a logging-camp joke.",
   "aliases": [
     {
       "name": "Lariat Snake",
@@ -26,5 +27,107 @@
   "origin": "Restricted in folklore to the foothills of the Sierra Nevada in California, particularly the Digger pine belt of the western slope.",
   "first_reported": "1910",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "American English; coined or recorded in the lumberjack folklore tradition before 1910",
+    "meaning": "From 'rope' + diminutive '-ite', referring to the beast's rope-like beak and lariat hunting method",
+    "first_use": "1910 (Cox, 'Fearsome Creatures of the Lumberwoods')"
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "1910",
+      "event": "William T. Cox publishes 'Fearsome Creatures of the Lumberwoods', formally introducing the Roperite to print",
+      "significance": "Canonical first appearance",
+      "source": "Cox, W. T. (1910)"
+    },
+    {
+      "date": "1939",
+      "event": "Henry H. Tryon's 'Fearsome Critters' continues the published tradition of lumberjack tall-tale beasts",
+      "significance": "Genre continuity for the Roperite's milieu",
+      "source": "Tryon, H. H. (1939)"
+    }
+  ],
+  "related": [
+    {
+      "id": "rumtifusel",
+      "name": "Rumtifusel",
+      "relationship": "similar",
+      "description": "Another lumberjack fearsome critter; both are predator tall tales in the Tryon/Cox canon"
+    },
+    {
+      "id": "hidebehind",
+      "name": "Hidebehind",
+      "relationship": "similar",
+      "description": "Predatory fearsome critter that ambushes lumberjacks"
+    },
+    {
+      "id": "agropelter",
+      "name": "Agropelter",
+      "relationship": "similar",
+      "description": "Branch-throwing fearsome critter of the same folklore tradition"
+    },
+    {
+      "id": "snallygaster",
+      "name": "Snallygaster",
+      "relationship": "related",
+      "description": "Another regional American tall-tale cryptid with a hooked beak"
+    }
+  ],
+  "cultural_notes": "Treated by tellers and listeners alike as humorous fiction rather than literal cryptid; part of the camp humour and initiation rituals of late-19th and early-20th-century North American logging.",
+  "sources": [
+    {
+      "id": "cox-1910",
+      "type": "book",
+      "title": "Fearsome Creatures of the Lumberwoods, With a Few Desert and Mountain Beasts",
+      "authors": [
+        "William T. Cox"
+      ],
+      "publication": "Judd & Detweiler",
+      "date": "1910",
+      "url": "https://digitalcommons.unl.edu/nebraskianapubs/8/",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "tryon-1939",
+      "type": "book",
+      "title": "Fearsome Critters",
+      "authors": [
+        "Henry H. Tryon"
+      ],
+      "publication": "Idlewild Press",
+      "date": "1939"
+    },
+    {
+      "id": "johnson-2015",
+      "type": "book",
+      "title": "Fearsome Creatures of the Lumberwoods: 20 Chilling Tales from the Wilderness",
+      "authors": [
+        "Hal Johnson"
+      ],
+      "publication": "Workman Publishing",
+      "date": "2015",
+      "isbn": "978-0761183181"
+    },
+    {
+      "id": "lumberwoods-roperite",
+      "type": "website",
+      "title": "Roperite — Fearsome Creatures of the Lumberwoods",
+      "url": "http://www.lib.lumberwoods.org/fclw/roperite.html",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "abookofcreatures-roperite",
+      "type": "website",
+      "title": "Roperite — A Book of Creatures",
+      "url": "https://abookofcreatures.com/2017/06/09/roperite/",
+      "accessed": "2026-05-07"
+    }
+  ],
+  "locations": []
 }

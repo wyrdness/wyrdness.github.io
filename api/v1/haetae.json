@@ -3,6 +3,7 @@
   "name": "Haetae",
   "category": "mythological_creature",
   "description": "The Haetae (also Haechi) is a legendary guardian beast from Korean and Chinese mythology, depicted as a muscular lion-like creature with scales and a single horn, revered as a symbol of justice, law, and protection against fire.",
+  "full_description": "The Haetae (Korean: 해태; Hanja: 獬豸), known in Chinese as Xiezhi (xièzhì), is a mythological creature shared across East Asian traditions that has taken on particular cultural importance in Korea. In Korean tradition the creature is described as having a muscular leonine body covered with sharp scales, a bell at its neck, and a single long horn on its forehead. The creature is believed to possess great intellect and the innate ability to distinguish right from wrong; according to legend, it would ram the guilty with its horn while sparing the innocent. This judicial quality made the haetae an enduring symbol of law and justice across the region. Stone statues of the haetae guard the gates of Gyeongbokgung Palace in Seoul, where they were placed during the Joseon dynasty to ward off fire disasters. In China, law enforcement officials wore xiezhi crowns from the Qin and Han dynasties onward, and Tang-dynasty censors wore xiezhi hats during impeachment proceedings. The creature continues in modern use: the Haechi cartoon character serves as the official mascot of Seoul, and the People's Republic of China engraves xiezhi imagery on court gavels. In 2022, the prehistoric giraffoid species Discokeryx xiezhi was scientifically named in reference to the creature's distinctive horn.",
   "aliases": [
     {
       "name": "Haechi",
@@ -60,5 +61,94 @@
   "origin": "Originating in Chinese mythology and adopted throughout East Asia. Most prominent in Korea, where haetae statues guard palace complexes. Also found in China, Japan, and Vietnam.",
   "first_reported": "c. 80 CE",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "The Korean name 해태 (haetae) is a Korean reading of the Chinese characters 獬豸. Linguist Axel Schuessler reconstructs the Late Han pronunciation as *gɛʔ-ḍɛʔ* and proposes an Austroasiatic etymology related to words for deer or stag in Old Mon, Old Khmer, and Burmese.",
+    "meaning": "The characters 獬豸 refer to a mythical beast that distinguishes guilt from innocence. The English descriptive name 'unicorn-lion' references its single horn and leonine body.",
+    "first_use": "Earliest literary mentions appear in Han dynasty texts: Sima Xiangru's 'Rhapsody on the Imperial Park' and Wang Chong's Lunheng (c. 80 CE)."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "c. 80 CE",
+      "event": "Wang Chong documents the xiezhi's judicial role in Lunheng, describing it ramming corrupt officials",
+      "significance": "Earliest clearly dated written account",
+      "source": "Wang Chong, Lunheng"
+    },
+    {
+      "date": "618",
+      "event": "During the Tang dynasty, censors wear xiezhi hats during impeachment trials",
+      "significance": "Official codification of the creature as symbol of censorial oversight",
+      "source": "Wikipedia / Xiezhi article"
+    },
+    {
+      "date": "1392",
+      "event": "Joseon dynasty founded; haetae statues installed at palace gates including Gyeongbokgung to ward off fire",
+      "significance": "Institutional Korean adoption of the haetae as fire guardian",
+      "source": "Wikipedia / Xiezhi article"
+    },
+    {
+      "date": "2008",
+      "event": "The Haechi cartoon character adopted as official mascot of Seoul",
+      "significance": "Modern continuation of the haetae as civic symbol",
+      "source": "Wikipedia / Xiezhi article"
+    },
+    {
+      "date": "2022",
+      "event": "Prehistoric giraffoid species Discokeryx xiezhi named in honor of the creature",
+      "significance": "Scientific recognition of cultural legacy",
+      "source": "Wikipedia / Xiezhi article"
+    }
+  ],
+  "related": [
+    {
+      "id": "qilin",
+      "name": "Qilin",
+      "relationship": "similar",
+      "description": "Chinese one-horned auspicious beast with overlapping symbolic role"
+    },
+    {
+      "id": "pixiu",
+      "name": "Pixiu",
+      "relationship": "similar",
+      "description": "Chinese guardian beast used in architectural decoration"
+    }
+  ],
+  "cultural_notes": "In Korean tradition, haetae statues at palace and temple gates actively protect the buildings from fire and evil. The creature's presence is apotropaic rather than merely decorative.",
+  "sources": [
+    {
+      "id": "wikipedia-xiezhi",
+      "type": "website",
+      "title": "Xiezhi",
+      "url": "https://en.wikipedia.org/wiki/Xiezhi",
+      "accessed": "2026-05-08"
+    },
+    {
+      "id": "wang-chong-lunheng",
+      "type": "book",
+      "title": "Lunheng",
+      "authors": [
+        "Wang Chong"
+      ],
+      "date": "c. 80 CE",
+      "notes": "Han dynasty philosophical encyclopedia; documents xiezhi judicial role"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Gyeongbokgung Palace",
+      "lat": 37.5796,
+      "lng": 126.977
+    },
+    {
+      "name": "Forbidden City",
+      "lat": 39.9163,
+      "lng": 116.3972
+    }
+  ]
 }

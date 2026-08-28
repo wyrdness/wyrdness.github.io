@@ -3,6 +3,7 @@
   "name": "Gremlin",
   "category": "fae_folklore",
   "description": "Gremlins are mischievous fairy-like creatures of 20th-century aviation folklore, blamed by Royal Air Force pilots from the 1920s onward for unexplained mechanical faults in aircraft.",
+  "full_description": "The gremlin is a creature of 20th-century anglophone folklore that originated as RAF slang in the 1920s. Pilots and ground crew used 'gremlins' to humorously personify the otherwise inexplicable mechanical and electrical faults that plagued early aircraft, particularly at altitude. The earliest known printed appearance is a poem in the journal Aeroplane published in Malta on 10 April 1929, although the term was already in informal use. During the Second World War the concept exploded in popularity among RAF aircrew, especially in high-altitude photographic-reconnaissance units. The mythology was popularised for civilian audiences by RAF pilot and writer Roald Dahl, who published the children's book The Gremlins in 1943 in collaboration with Walt Disney; Disney developed extensive concept art and a planned animated feature, eventually abandoned in August 1943. In post-war popular culture, gremlins migrated from aviation into a broader trickster role, culminating in Joe Dante's 1984 horror-comedy film Gremlins (produced by Steven Spielberg) and its 1990 sequel. The classic Twilight Zone episode 'Nightmare at 20,000 Feet' (1963), based on a Richard Matheson short story (1961), is one of the most-cited modern dramatisations of the original aviation legend.",
   "aliases": [
     {
       "name": "Gremlins",
@@ -42,5 +43,134 @@
   "origin": "Originated in the British Royal Air Force in the 1920s and spread through Allied air forces during World War II; subsequently a global pop-culture motif.",
   "first_reported": "1929-04-10",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Origin disputed. Among the most-cited proposals: a portmanteau of 'goblin' and 'Fremlin' (a popular brand of beer in 1920s RAF messes), and a derivation from Old English gremian, 'to vex'. The term first appears in print in Aeroplane (Malta), 10 April 1929.",
+    "meaning": "A small mechanical-mischief sprite particularly associated with aircraft.",
+    "first_use": "1929 (printed); RAF oral usage from the early 1920s"
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "1920s",
+      "event": "Term 'gremlin' enters RAF slang in Malta, the Middle East, and India",
+      "significance": "Origin of the modern legend",
+      "source": "Wikipedia, 'Gremlin'"
+    },
+    {
+      "date": "1929-04-10",
+      "event": "Earliest known printed reference, in a poem in Aeroplane magazine, Malta",
+      "significance": "First documentary record",
+      "source": "Aeroplane magazine, 1929"
+    },
+    {
+      "date": "1942-12",
+      "event": "Roald Dahl's first version of 'The Gremlins' published in Cosmopolitan",
+      "significance": "Civilian popularisation begins",
+      "source": "Cosmopolitan, December 1942"
+    },
+    {
+      "date": "1943",
+      "event": "Random House publishes Roald Dahl's children's book 'The Gremlins', illustrated by Walt Disney Studios",
+      "significance": "Standard text behind the modern image",
+      "source": "Dahl, R. (1943), The Gremlins, Random House"
+    },
+    {
+      "date": "1943-08",
+      "event": "Walt Disney's planned animated 'Gremlins' feature is cancelled due to RAF/copyright issues",
+      "significance": "Locks the gremlin into print/comic-strip form during WWII",
+      "source": "Wikipedia, 'Gremlin'"
+    },
+    {
+      "date": "1961",
+      "event": "Richard Matheson publishes the short story 'Nightmare at 20,000 Feet'",
+      "significance": "Foundational fictional treatment of the in-flight gremlin sighting",
+      "source": "Matheson, R. (1961), Alone by Night anthology"
+    },
+    {
+      "date": "1963-10-11",
+      "event": "The Twilight Zone airs 'Nightmare at 20,000 Feet' (S5E3) starring William Shatner",
+      "significance": "Iconic televisual depiction of the aviation gremlin",
+      "source": "CBS broadcast"
+    },
+    {
+      "date": "1984-06-08",
+      "event": "Joe Dante's film 'Gremlins' is released (producer Steven Spielberg)",
+      "significance": "Reinvents the gremlin as a horror-comedy creature for the cinema age",
+      "source": "Warner Bros. (1984)"
+    },
+    {
+      "date": "1990",
+      "event": "Sequel 'Gremlins 2: The New Batch' released",
+      "significance": "Cements modern reptilian gremlin design",
+      "source": "Warner Bros. (1990)"
+    }
+  ],
+  "related": [
+    {
+      "id": "kobold",
+      "name": "Kobold",
+      "relationship": "similar",
+      "description": "Germanic household and mine spirit; ancestor type for mechanical mischief sprites"
+    },
+    {
+      "id": "brownie",
+      "name": "Brownie",
+      "relationship": "similar",
+      "description": "British household fairy; benevolent counterpart to the gremlin's malevolence"
+    },
+    {
+      "id": "imp",
+      "name": "Imp",
+      "relationship": "similar",
+      "description": "Generic mischievous lesser demon of European folklore"
+    }
+  ],
+  "cultural_notes": "Used both as a humorous in-group explanation for inexplicable failures and as a morale-supporting collective myth.",
+  "sources": [
+    {
+      "id": "wikipedia-gremlin",
+      "type": "website",
+      "title": "Gremlin",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Gremlin",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "dahl-1943",
+      "type": "book",
+      "title": "The Gremlins",
+      "authors": [
+        "Roald Dahl"
+      ],
+      "publication": "Random House",
+      "date": "1943"
+    },
+    {
+      "id": "matheson-1961",
+      "type": "book",
+      "title": "Nightmare at 20,000 Feet (in Alone by Night)",
+      "authors": [
+        "Richard Matheson"
+      ],
+      "date": "1961"
+    },
+    {
+      "id": "rose-1996",
+      "type": "book",
+      "title": "Spirits, Fairies, Leprechauns, and Goblins: An Encyclopedia",
+      "authors": [
+        "Carol Rose"
+      ],
+      "publication": "W. W. Norton",
+      "date": "1996",
+      "isbn": "978-0393317923"
+    }
+  ],
+  "locations": []
 }

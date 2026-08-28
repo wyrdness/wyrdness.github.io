@@ -3,6 +3,7 @@
   "name": "UFOs / UAPs and Alien Encounters",
   "category": "ufo_uap",
   "description": "The cluster of phenomena known as UFOs (unidentified flying objects) or UAPs (unidentified anomalous phenomena) covers reports of unexplained aerial, transmedium, and spaceborne objects, alongside alleged encounters with non-human intelligences. The modern era is conventionally dated to Kenneth Arnold's 1947 sighting; the US government formally established the All-domain Anomaly Resolution Office (AARO) in 2022.",
+  "full_description": "The UFO/UAP phenomenon comprises reports of unexplained aerial and transmedium objects and a smaller subset of accounts of alleged contact and abduction by non-human intelligences. The acronym UFO ('unidentified flying object') was coined by US Air Force Captain Edward J. Ruppelt in the early 1950s to replace the more sensational 'flying saucer'; in the 21st century the United States government has standardised on UAP, originally 'unidentified aerial phenomena' and from 2022 'unidentified anomalous phenomena', to cover transmedium and spaceborne reports and to avoid the cultural baggage of 'UFO'. The modern phenomenon is conventionally dated to private pilot Kenneth Arnold's sighting near Mount Rainier, Washington on 24 June 1947, which gave rise to the 'flying saucer' label. Successive US Air Force investigations (Project Sign 1948, Project Grudge 1949, Project Blue Book 1952–1969) cataloged 12,618 reports before being terminated following the 1968 Condon Committee report. The phenomenon re-entered mainstream political attention with the New York Times' 16 December 2017 disclosure of the Advanced Aviation Threat Identification Program (AATIP) and the release of three US Navy infrared videos ('FLIR1', 'GIMBAL', 'GoFast'). The Department of Defense established the UAP Task Force (2020) and the Airborne Object Identification and Management Synchronization Group (AOIMSG, 2021), succeeded in 2022 by the All-domain Anomaly Resolution Office (AARO). The first open congressional hearing in over fifty years was held in May 2022, followed by further hearings in July 2023 featuring testimony by former intelligence officer David Grusch. NASA convened an independent UAP study, releasing its public report on 14 September 2023. Mainstream scientific consensus continues to hold that no available evidence demonstrates an extraterrestrial origin for any specific case, while acknowledging that a residue of well-documented reports remains genuinely unexplained.",
   "aliases": [
     {
       "name": "UFO",
@@ -46,5 +47,204 @@
   "origin": "Worldwide distribution of reports, with reporting density correlated with population, military activity, and the existence of national reporting channels.",
   "first_reported": "1947-06-24",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "'UFO' coined by Capt. Edward J. Ruppelt of the USAF in the early 1950s; 'UAP' adopted by the US government in the 21st century.",
+    "meaning": "UFO: unidentified flying object. UAP (post-2022): unidentified anomalous phenomena.",
+    "first_use": "'Flying saucer' (1947, after Arnold); 'UFO' (early 1950s, USAF); 'UAP' as 'unidentified aerial phenomena' (US Navy, late 2010s); 'UAP' as 'unidentified anomalous phenomena' (US Congress, 2022)."
+  },
+  "sightings_stats": null,
+  "timeline": [
+    {
+      "date": "1947-06-24",
+      "event": "Kenneth Arnold reports nine objects near Mount Rainier, Washington, giving rise to 'flying saucer'",
+      "significance": "Conventional starting point of the modern UFO era",
+      "source": "East Oregonian, June 1947; Wikipedia"
+    },
+    {
+      "date": "1947-07-08",
+      "event": "Roswell Army Air Field issues a press release describing recovery of a 'flying disc'; retracted the following day as a weather balloon",
+      "significance": "Origin of the Roswell incident",
+      "source": "RAAF press release, 8 July 1947"
+    },
+    {
+      "date": "1948",
+      "event": "US Air Force Project Sign begins",
+      "significance": "First US government UFO investigation",
+      "source": "USAF historical records"
+    },
+    {
+      "date": "1952-03",
+      "event": "Project Blue Book is established",
+      "significance": "Principal US Air Force UFO investigation 1952–1969",
+      "source": "USAF historical records"
+    },
+    {
+      "date": "1969-01",
+      "event": "Condon Committee Report (University of Colorado) is published",
+      "significance": "Concludes UFO study has not contributed to scientific knowledge; basis for closure of Blue Book",
+      "source": "Condon, E. U. (1969), Scientific Study of Unidentified Flying Objects"
+    },
+    {
+      "date": "1969-12-17",
+      "event": "US Air Force formally terminates Project Blue Book",
+      "significance": "End of formal US Air Force investigation",
+      "source": "USAF announcement, December 1969"
+    },
+    {
+      "date": "2004-11-14",
+      "event": "USS Nimitz Carrier Strike Group F/A-18F crews encounter the 'Tic Tac' UAP off San Diego",
+      "significance": "Primary case of the modern UAP era",
+      "source": "US Navy / Pentagon UAP Task Force documentation"
+    },
+    {
+      "date": "2017-12-16",
+      "event": "The New York Times publishes 'Glowing Auras and Black Money', disclosing the Advanced Aviation Threat Identification Program (AATIP)",
+      "significance": "Triggers the modern political and media UAP era",
+      "source": "Cooper, Blumenthal & Kean, NYT, 16 December 2017"
+    },
+    {
+      "date": "2020-08-04",
+      "event": "US Department of Defense establishes the UAP Task Force",
+      "significance": "Formal US government UAP investigation re-established",
+      "source": "DoD announcement, 4 August 2020"
+    },
+    {
+      "date": "2022-05-17",
+      "event": "First open Congressional hearing on UAPs in more than 50 years, held by the House Intelligence Subcommittee on Counterterrorism",
+      "significance": "Public political reframing of UAP investigation",
+      "source": "US House of Representatives committee record"
+    },
+    {
+      "date": "2022-07",
+      "event": "Congress establishes the All-domain Anomaly Resolution Office (AARO) in the National Defense Authorization Act for Fiscal Year 2022",
+      "significance": "Successor to the UAP Task Force; broadens scope to transmedium and spaceborne phenomena",
+      "source": "NDAA FY2022"
+    },
+    {
+      "date": "2023-07-26",
+      "event": "House Oversight Subcommittee hearing featuring testimony by former intelligence officer David Grusch and Navy pilots Ryan Graves and David Fravor",
+      "significance": "Highest-profile UAP testimony to date; remains contested",
+      "source": "House Oversight Subcommittee transcript"
+    },
+    {
+      "date": "2023-09-14",
+      "event": "NASA UAP Independent Study Team publishes its report",
+      "significance": "First NASA-led public UAP report; finds no extraterrestrial origin in available data and recommends improved sensors",
+      "source": "NASA UAP Independent Study Team Report (2023)"
+    }
+  ],
+  "related": [
+    {
+      "id": "alien-abduction",
+      "name": "Alien abduction phenomenon",
+      "relationship": "subset",
+      "description": "Reports of alleged abduction by non-human intelligences"
+    },
+    {
+      "id": "men-in-black",
+      "name": "Men in Black",
+      "relationship": "related",
+      "description": "UFO-adjacent folklore of mysterious harassers"
+    },
+    {
+      "id": "cattle-mutilation",
+      "name": "Cattle mutilation",
+      "relationship": "related",
+      "description": "1970s-onward phenomenon often linked in popular literature to UFOs"
+    }
+  ],
+  "cultural_notes": "Public attitudes diverge sharply between the mainstream scientific community and a sustained popular and political interest in 'disclosure'.",
+  "sources": [
+    {
+      "id": "wikipedia-uap",
+      "type": "website",
+      "title": "Unidentified anomalous phenomena",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Unidentified_anomalous_phenomena",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "wikipedia-arnold",
+      "type": "website",
+      "title": "Kenneth Arnold UFO sighting",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Kenneth_Arnold_UFO_sighting",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "nyt-2017",
+      "type": "news",
+      "title": "Glowing Auras and 'Black Money': The Pentagon's Mysterious U.F.O. Program",
+      "authors": [
+        "Helene Cooper",
+        "Ralph Blumenthal",
+        "Leslie Kean"
+      ],
+      "publication": "The New York Times",
+      "date": "2017-12-16",
+      "url": "https://www.nytimes.com/2017/12/16/us/politics/pentagon-program-ufo-harry-reid.html",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "odni-2021",
+      "type": "archive",
+      "title": "Preliminary Assessment: Unidentified Aerial Phenomena",
+      "publication": "Office of the Director of National Intelligence",
+      "date": "2021-06-25",
+      "url": "https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "nasa-uap-2023",
+      "type": "archive",
+      "title": "NASA UAP Independent Study Team Report",
+      "publication": "NASA",
+      "date": "2023-09-14",
+      "url": "https://science.nasa.gov/uap/",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "condon-1969",
+      "type": "book",
+      "title": "Scientific Study of Unidentified Flying Objects",
+      "authors": [
+        "Edward U. Condon"
+      ],
+      "publication": "Bantam Books / University of Colorado",
+      "date": "1969"
+    },
+    {
+      "id": "ruppelt-1956",
+      "type": "book",
+      "title": "The Report on Unidentified Flying Objects",
+      "authors": [
+        "Edward J. Ruppelt"
+      ],
+      "publication": "Doubleday",
+      "date": "1956"
+    },
+    {
+      "id": "vallee-1969",
+      "type": "book",
+      "title": "Passport to Magonia: From Folklore to Flying Saucers",
+      "authors": [
+        "Jacques Vallée"
+      ],
+      "publication": "Henry Regnery",
+      "date": "1969"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Roswell, New Mexico",
+      "lat": 33.3943,
+      "lng": -104.523
+    },
+    {
+      "name": "Hessdalen Valley",
+      "lat": 62.7833,
+      "lng": 11.2
+    }
+  ]
 }

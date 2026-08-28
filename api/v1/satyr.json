@@ -3,6 +3,7 @@
   "name": "Satyr",
   "category": "mythological_creature",
   "description": "Satyrs are male nature spirits from Greek mythology, depicted as hybrid humanoids combining human torsos with horse or goat features, and characterized by exuberant sexuality, love of wine and music, and mischievous behavior in the retinue of the god Dionysus.",
+  "full_description": "Satyrs (Ancient Greek: Σάτυροι, Sátyroi) are male nature spirits of Greek mythology, typically depicted as companions and devotees of Dionysus, the god of wine and ecstasy. In archaic and classical Greek art, satyrs had human torsos and legs but the ears and tail of a horse; later, under the influence of conflation with the god Pan, goat-like features became dominant — including cloven hooves, goat legs, horns, and a goat tail. Satyrs are universally characterized by extreme lustfulness, love of wine and music, constant dancing, and trickery. They are frequently portrayed pursuing nymphs and mortal women. Despite their crude nature, classical authors acknowledged that satyrs possessed their own kind of wisdom. In classical Athens, satyrs gave their name to the satyr play — a comic theatrical form performed after a trilogy of tragedies, featuring a chorus of satyrs in ribald and often bawdy dramas. The only complete surviving example is Euripides's Cyclops. The Romans largely identified satyrs with their native fauns — unambiguously goat-like woodland creatures. Christian writers later demonized satyrs, and their goat-like imagery influenced Western depictions of the Devil and demons. In medieval and Renaissance art, satyrs were progressively domesticated, appearing in family scenes. By the 20th century they became stock figures in fantasy literature, largely divested of their classical sexuality.",
   "aliases": [
     {
       "name": "Sátyros",
@@ -51,5 +52,123 @@
   "origin": "A pan-Mediterranean mythological figure, originating in ancient Greece and spreading through Hellenistic culture across the Mediterranean world and into Roman civilization.",
   "first_reported": "0600-01-01",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Ancient Greek sátyros (σάτυρος), of uncertain etymology. Multiple proposals: connection to thērion (wild animal); a Peloponnesian root meaning 'the full ones'; connection to the root sat- (to sow).",
+    "meaning": "Nature spirit associated with wildness, sexuality, and the retinue of Dionysus. The Latin derivative satyriasis denotes excessive male sexual desire.",
+    "first_use": "Attested in ancient Greek literature from at least the 6th century BCE; depicted in vase painting from the same period."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "0700-01-01",
+      "event": "Hesiod's Catalogue of Women references satyrs as mythological beings",
+      "significance": "Among the earliest textual references",
+      "source": "Hesiod, Catalogue of Women (fragment)"
+    },
+    {
+      "date": "0438-01-01",
+      "event": "Euripides's Cyclops performed — the only complete surviving satyr play",
+      "significance": "Primary surviving example of the classical satyr play genre",
+      "source": "Euripides, Cyclops"
+    },
+    {
+      "date": "0323-01-01",
+      "event": "Beginning of the Hellenistic period; satyr imagery increasingly adopts goat features through conflation with Pan",
+      "significance": "Major iconographic shift",
+      "source": "Art historical analysis"
+    },
+    {
+      "date": "1699-01-01",
+      "event": "Anatomist Edward Tyson publishes Orang-Outang, sive Homo Sylvestris arguing that satyr myths originated from misidentification of apes",
+      "significance": "Early scientific rationalization of mythological creature",
+      "source": "Tyson, E. (1699), Orang-Outang, sive Homo Sylvestris"
+    },
+    {
+      "date": "1873-01-01",
+      "event": "William-Adolphe Bouguereau paints Nymphs and Satyr; the work becomes massively reproduced on luxury goods",
+      "significance": "Peak of 19th-century satyr imagery in European art",
+      "source": "Bouguereau, W-A. (1873)"
+    }
+  ],
+  "related": [
+    {
+      "id": "faun",
+      "name": "Faun",
+      "relationship": "counterpart",
+      "description": "Roman equivalent of the satyr; unambiguously goat-featured, associated with Faunus rather than Dionysus"
+    },
+    {
+      "id": "pan",
+      "name": "Pan",
+      "relationship": "related",
+      "description": "Greek goat-god often grouped with satyrs; technically a god rather than a nature spirit but shares iconography"
+    },
+    {
+      "id": "silenus",
+      "name": "Silenus",
+      "relationship": "related",
+      "description": "Elder form of satyr; tutor and companion of Dionysus; sometimes father of all satyrs"
+    },
+    {
+      "id": "leshy",
+      "name": "Leshy",
+      "relationship": "similar",
+      "description": "Slavic forest spirit with similar hairy, goat-featured description identified by classicist M.L. West as part of a shared Indo-European tradition"
+    },
+    {
+      "id": "goat-demon",
+      "name": "Se'irim (Hebrew goat-demons)",
+      "relationship": "similar",
+      "description": "Hebrew Bible goat-demons; Jerome equated them with satyrs in the Latin Vulgate"
+    }
+  ],
+  "cultural_notes": "Satyrs represent the dark, untamed, bestial side of natural instinct — desire, intoxication, and wildness opposed to civilized reason. They are companions rather than enemies of the divine: their devotion to Dionysus places them at the heart of ecstatic religious experience.",
+  "sources": [
+    {
+      "id": "wikipedia-satyr",
+      "type": "website",
+      "title": "Satyr",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Satyr",
+      "accessed": "2026-05-08"
+    },
+    {
+      "id": "euripides-cyclops",
+      "type": "archive",
+      "title": "Cyclops",
+      "authors": [
+        "Euripides"
+      ],
+      "date": "0438-01-01",
+      "notes": "Only complete surviving ancient satyr play"
+    },
+    {
+      "id": "west-2007",
+      "type": "book",
+      "title": "Indo-European Poetry and Myth",
+      "authors": [
+        "M.L. West"
+      ],
+      "publication": "Oxford University Press",
+      "date": "2007",
+      "isbn": "978-0199280759"
+    },
+    {
+      "id": "tyson-1699",
+      "type": "book",
+      "title": "Orang-Outang, sive Homo Sylvestris: or, the Anatomy of a Pygmie Compared with that of a Monkey, an Ape, and a Man",
+      "authors": [
+        "Edward Tyson"
+      ],
+      "publication": "Thomas Bennet",
+      "date": "1699"
+    }
+  ],
+  "locations": []
 }

@@ -3,6 +3,7 @@
   "name": "Mamlambo",
   "category": "entity_spirit",
   "description": "A river goddess and serpent water spirit of South African (especially Zulu and Xhosa) tradition, said to grant wealth to those who keep her — and to take a heavy toll from those who do.",
+  "full_description": "Mamlambo is a river deity in southern African (particularly Zulu and Xhosa) folklore, often described as a long, snake-like creature inhabiting rivers and pools. She is associated with wealth and prosperity — a person who 'keeps' a Mamlambo may become rich, but the spirit demands a price, often the deaths of family members or the keeper's social isolation. In 1997, South African newspapers (including the Star and Cape Argus) reported a wave of fears around the Mzintlava River near Mount Ayliff in the Eastern Cape, where bodies recovered from the river had been disfigured; the disfigurement was attributed by police to post-mortem crab damage but by local people to a creature they called the 'Brain Sucker' and identified with Mamlambo. The scholar Felicity Wood has analyzed the modern Mamlambo cult as expressing anxieties about Western prosperity, individualism, and the disruption of communal life.",
   "aliases": [
     {
       "name": "uMamlambo",
@@ -33,5 +34,80 @@
   "origin": "Eastern and southern South Africa, particularly within Zulu and Xhosa cultural areas; the most widely reported modern episode centred on the Mzintlava River near Mount Ayliff in the Eastern Cape (1997).",
   "first_reported": "Pre-colonial",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Zulu / Nguni, derived from 'mlambo' ('river'); the prefixed form yields 'Mother of the River'.",
+    "meaning": "Associated with 'mother of the river' in Nguni interpretation."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "1997",
+      "event": "South African newspapers, including the Star and Cape Argus, report a series of deaths in the Mzintlava River near Mount Ayliff attributed locally to a creature identified with Mamlambo and nicknamed the 'Brain Sucker'",
+      "significance": "Brought Mamlambo into the modern South African press and global folklore literature",
+      "source": "South African press coverage, 1997"
+    }
+  ],
+  "related": [
+    {
+      "id": "mami-wata",
+      "name": "Mami Wata",
+      "relationship": "similar",
+      "description": "West African water spirit associated with wealth and danger"
+    },
+    {
+      "id": "inkanyamba",
+      "name": "Inkanyamba",
+      "relationship": "related",
+      "description": "Zulu serpentine storm/water spirit of southern Africa"
+    },
+    {
+      "id": "mokele-mbembe",
+      "name": "Mokele-mbembe",
+      "relationship": "similar",
+      "description": "African aquatic cryptid"
+    }
+  ],
+  "cultural_notes": "Mamlambo is widely treated in southern African tradition as a real, dangerous river-being whose gifts come at a personal cost.",
+  "sources": [
+    {
+      "id": "wikipedia-mamlambo",
+      "type": "website",
+      "title": "Mamlambo",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Mamlambo",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "wood-lewis-2007",
+      "type": "book",
+      "title": "The Extraordinary Khotso: Millionaire Medicine Man of Lusikisiki",
+      "authors": [
+        "Felicity Wood",
+        "Michael Lewis"
+      ],
+      "publication": "Jacana Media",
+      "date": "2007"
+    },
+    {
+      "id": "the-star-1997",
+      "type": "news",
+      "title": "Mzintlava River 'Brain Sucker' coverage",
+      "publication": "The Star (South Africa)",
+      "date": "1997"
+    },
+    {
+      "id": "cape-argus-1997",
+      "type": "news",
+      "title": "Mzintlava River incidents coverage",
+      "publication": "Cape Argus",
+      "date": "1997"
+    }
+  ],
+  "locations": []
 }

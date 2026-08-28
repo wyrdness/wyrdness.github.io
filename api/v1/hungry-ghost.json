@@ -3,6 +3,7 @@
   "name": "Hungry ghost",
   "category": "ghost_haunting",
   "description": "Hungry ghosts (Sanskrit preta; Chinese e gui; Japanese gaki) are beings of one of the six Buddhist realms of rebirth, characterized by insatiable hunger and thirst caused by past karma of greed and attachment.",
+  "full_description": "The hungry ghost is a class of being in Buddhist cosmology, Sanskrit preta, occupying the preta-gati or 'realm of hungry ghosts', one of the three lower realms of saṃsāra alongside the hells and the animal realm. Hungry ghosts are typically depicted with grotesquely distended bellies and thin necks no wider than a needle's eye, expressing perpetual unfulfillable hunger and thirst as the karmic fruit of greed, miserliness, and excessive attachment in past lives. The Saddharmasmṛtyupasthāna Sūtra enumerates 36 distinct types. The concept entered Chinese and East Asian religion with the spread of Buddhism, where it merged with indigenous traditions of unhappy or improperly buried dead and gave rise to major ritual cycles: the Yulanpen Festival (Ghost Festival, 中元節) on the fifteenth day of the seventh lunar month, the Japanese Obon, and the segaki rite of feeding hungry ghosts. In Tibetan Buddhism the preta realm is one of six segments of the Bhavacakra (Wheel of Life), where Avalokiteśvara is depicted offering nectar in compassion.",
   "aliases": [
     {
       "name": "Preta (प्रेत)",
@@ -54,5 +55,145 @@
   "origin": "Hungry-ghost belief follows the geographic spread of Buddhism. Doctrinally rooted in South Asia (India, Nepal, Sri Lanka), it became a major popular tradition across China, Taiwan, Japan, Korea, Vietnam, Tibet, Mongolia, and Southeast Asia (Thailand, Myanmar, Cambodia, Laos).",
   "first_reported": "c. 1st c. BCE",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "From Sanskrit preta (प्रेत), 'departed' or 'gone forth', from the verb pra-√i, 'to go forth, depart', a term originally used in Vedic religion for any spirit of the dead. In Buddhism preta narrowed to denote a specific class of suffering being. Chinese 餓鬼 (è guǐ) and Japanese 餓鬼 (gaki) are calque translations meaning 'hungry ghost'.",
+    "meaning": "'Hungry ghost'; lit. 'departed one' in Sanskrit, narrowed in Buddhism to denote a being of the preta realm tormented by hunger and thirst.",
+    "first_use": "The Pali Petavatthu (1st century BCE collection in the Khuddaka Nikāya of the Pali Canon) is among the earliest Buddhist texts dedicated to preta narratives."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0,
+    "date_range": {
+      "earliest": "c. 1st c. BCE",
+      "latest": "2026"
+    }
+  },
+  "timeline": [
+    {
+      "date": "Pre-contact",
+      "event": "Compilation of the Pali Petavatthu, an early collection of preta tales in the Khuddaka Nikāya",
+      "significance": "Earliest extant Buddhist textual corpus dedicated to hungry ghosts",
+      "source": "Petavatthu (Pali Canon)"
+    },
+    {
+      "date": "Pre-contact",
+      "event": "Avadānaśataka ('One Hundred Stories') compiled in northwest India",
+      "significance": "Important early Sanskrit collection containing preta narratives",
+      "source": "Avadānaśataka, c. 2nd–4th c. CE"
+    },
+    {
+      "date": "Pre-contact",
+      "event": "Translation of the Yulanpen Sutra (盂蘭盆經) into Chinese, attributed to Dharmarakṣa (3rd c. CE)",
+      "significance": "Foundational scripture of the Chinese Ghost Festival, telling of Maudgalyāyana / Mulian saving his hungry-ghost mother",
+      "source": "Yulanpen Sutra (Taishō Tripiṭaka 685)"
+    },
+    {
+      "date": "Pre-contact",
+      "event": "Yulanpen Festival institutionalized under imperial sponsorship in Tang dynasty China",
+      "significance": "The Ghost Festival becomes a major calendrical observance across East Asia",
+      "source": "Teiser (1988), The Ghost Festival in Medieval China"
+    },
+    {
+      "date": "Pre-contact",
+      "event": "Production of the Gaki-zōshi (Hungry Ghosts Scroll) in Heian / Kamakura Japan, late 12th century",
+      "significance": "Central work of medieval Japanese Buddhist art on the preta realm; National Treasure of Japan",
+      "source": "Gaki-zōshi, Kyoto National Museum"
+    },
+    {
+      "date": "1988-01-01",
+      "event": "Stephen Teiser publishes The Ghost Festival in Medieval China (Princeton)",
+      "significance": "Definitive English-language scholarly study of Yulanpen and the Chinese hungry-ghost tradition",
+      "source": "Teiser, S. F. (1988)"
+    },
+    {
+      "date": "2008-01-01",
+      "event": "Andy Rotman publishes Thus Have I Seen: Visualizing Faith in Early Indian Buddhism",
+      "significance": "Modern study including significant analysis of preta imagery in Indian Buddhist narrative",
+      "source": "Rotman, A. (2008)"
+    }
+  ],
+  "related": [
+    {
+      "id": "jikininki",
+      "name": "Jikininki",
+      "relationship": "subset",
+      "description": "Japanese 'human-eating ghost', sometimes classed as a corpse-eating gaki"
+    },
+    {
+      "id": "yulanpen",
+      "name": "Yulanpen / Ghost Festival",
+      "relationship": "related",
+      "description": "Major East Asian festival for feeding and releasing hungry ghosts"
+    },
+    {
+      "id": "obon",
+      "name": "Obon",
+      "relationship": "related",
+      "description": "Japanese ancestral festival incorporating segaki rites for hungry ghosts"
+    },
+    {
+      "id": "bhavacakra",
+      "name": "Bhavacakra",
+      "relationship": "related",
+      "description": "Tibetan Wheel of Life depicting the preta realm as one of six gati"
+    }
+  ],
+  "cultural_notes": "Living relatives are responsible for properly memorializing and feeding deceased ancestors so that they avoid rebirth as hungry ghosts. During the seventh lunar month, the gates of the lower realms are believed to open and wandering pretas roam among the living, requiring offerings.",
+  "sources": [
+    {
+      "id": "teiser-1988",
+      "type": "book",
+      "title": "The Ghost Festival in Medieval China",
+      "authors": [
+        "Stephen F. Teiser"
+      ],
+      "publication": "Princeton University Press",
+      "date": "1988",
+      "isbn": "978-0-691-02677-0"
+    },
+    {
+      "id": "rotman-2008",
+      "type": "book",
+      "title": "Thus Have I Seen: Visualizing Faith in Early Indian Buddhism",
+      "authors": [
+        "Andy Rotman"
+      ],
+      "publication": "Oxford University Press",
+      "date": "2008",
+      "isbn": "978-0-19-536615-7"
+    },
+    {
+      "id": "lafleur-1989",
+      "type": "article",
+      "title": "Hungry Ghosts and Hungry People: Somaticity and Rationality in Medieval Japan",
+      "authors": [
+        "William R. LaFleur"
+      ],
+      "publication": "in Fragments for a History of the Human Body, ed. Michel Feher",
+      "date": "1989"
+    },
+    {
+      "id": "mate-2008",
+      "type": "book",
+      "title": "In the Realm of Hungry Ghosts: Close Encounters with Addiction",
+      "authors": [
+        "Gabor Maté"
+      ],
+      "publication": "Knopf Canada",
+      "date": "2008",
+      "isbn": "978-0-676-97740-7"
+    },
+    {
+      "id": "wikipedia-hungry-ghost",
+      "type": "website",
+      "title": "Hungry ghost",
+      "url": "https://en.wikipedia.org/wiki/Hungry_ghost",
+      "publication": "Wikipedia",
+      "accessed": "2026-05-07"
+    }
+  ],
+  "locations": []
 }

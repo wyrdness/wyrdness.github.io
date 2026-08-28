@@ -3,6 +3,7 @@
   "name": "Smile Dog",
   "category": "urban_legend",
   "description": "Smile Dog (also written Smile.jpg) is an image-based creepypasta about an allegedly cursed photograph of a husky-like dog with human-style teeth. The accompanying short story is most often attributed to Michael Lutz, who posted a canonical version to the Creepypasta Wiki in August 2010.",
+  "full_description": "Smile Dog is one of the foundational creepypasta legends of the late-2000s anglophone internet. The story centers on a digital image — known as Smile.jpg — that allegedly causes anyone who views it to suffer nightmares, sleep paralysis, and mental breakdown until they 'spread the word' by passing the image on to others. The framing story is told from the perspective of a writer, 'Mr. L', who interviews victims of the image. The image and its associated lore appear to have first surfaced on 4chan's /x/ (paranormal) board around 2008. The most-cited canonical text was uploaded to the Creepypasta Wiki on August 27, 2010 by Michael Lutz; this version of the story has been the basis for most subsequent retellings. Like Slender Man and other early creepypasta, Smile Dog is studied as a case of digital folklore (Trevor J. Blank, Lynne S. McNeill) and is broadly understood as fiction; no version of the image has ever been independently verified to cause harm.",
   "aliases": [
     {
       "name": "Smile.jpg",
@@ -28,5 +29,80 @@
   "origin": "An internet-native fiction: distribution is anywhere the anglophone internet reaches. The originating community is North American imageboard culture (4chan) and the wider Creepypasta Wiki community.",
   "first_reported": "2008",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Internet — emerged on imageboards (4chan /x/) circa 2008, codified on Creepypasta Wiki in 2010.",
+    "meaning": "Refers to the unsettling smile (with apparent human teeth) of the dog in the image.",
+    "first_use": "First image circulation on 4chan, c. 2008; first canonical text on Creepypasta Wiki, August 27, 2010."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0,
+    "date_range": {
+      "earliest": "2008 (online circulation)",
+      "latest": "present"
+    }
+  },
+  "timeline": [
+    {
+      "date": "2008-01-01",
+      "event": "Smile.jpg image and associated story begin circulating on 4chan's /x/ board",
+      "significance": "Initial spread",
+      "source": "Know Your Meme; Wikipedia, 'Smile Dog'"
+    },
+    {
+      "date": "2009-01-15",
+      "event": "Earliest documented Urban Dictionary entry for 'Smile.jpg' is created",
+      "significance": "Marker of mainstream lexical recognition",
+      "source": "Know Your Meme entry, citing Urban Dictionary"
+    },
+    {
+      "date": "2010-08-27",
+      "event": "Michael Lutz uploads the canonical 'Smile Dog' creepypasta to the Creepypasta Wiki",
+      "significance": "Anchors the canonical text",
+      "source": "Creepypasta Wiki revision history"
+    }
+  ],
+  "related": [
+    {
+      "id": "slenderman",
+      "name": "Slender Man",
+      "relationship": "similar",
+      "description": "Slightly later (2009) creepypasta entity from the same cultural moment"
+    },
+    {
+      "id": "creepypasta",
+      "name": "Creepypasta",
+      "relationship": "superset",
+      "description": "Genre within which Smile Dog originates"
+    },
+    {
+      "id": "the-rake",
+      "name": "The Rake",
+      "relationship": "similar",
+      "description": "Another foundational early creepypasta entity"
+    }
+  ],
+  "cultural_notes": "Universally treated as fiction; the in-fiction 'curse' is part of the genre's chain-letter logic.",
+  "sources": [
+    {
+      "id": "wikipedia-smile-dog",
+      "type": "website",
+      "title": "Smile Dog",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Smile_Dog",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "kym-smile-jpg",
+      "type": "website",
+      "title": "Smile.jpg",
+      "publication": "Know Your Meme",
+      "url": "https://knowyourmeme.com/memes/smilejpg",
+      "accessed": "2026-05-07"
+    }
+  ],
+  "locations": []
 }

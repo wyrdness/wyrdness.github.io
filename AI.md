@@ -99,6 +99,7 @@ These files are built outputs. Always regenerate via `make`; never edit by hand:
 - `api/v1/categories.json` — derived from index
 - `api/v1/stats.json` — derived from index
 - `phenomena/*/index.html` — generated per-phenomenon pages
+- `categories/*/index.html` — generated per-category pages (not `categories/index.html` itself, which is hand-written)
 
 ## Tooling rules
 

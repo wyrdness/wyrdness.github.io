@@ -3,6 +3,7 @@
   "name": "Ankou",
   "category": "entity_spirit",
   "description": "The Breton personification of Death, traditionally depicted as a tall, gaunt figure in a black robe and wide-brimmed hat, carrying a scythe and driving a creaking cart in which he gathers the souls of the dead.",
+  "full_description": "An Ankoù (commonly anglicised as 'Ankou') is the Breton personification of Death and a major figure of Breton folk Christianity. He is variously imagined as a skeletal man, a tall gaunt figure, or a shadow, dressed in a long black robe and a wide-brimmed black hat that hides his face. He carries a scythe and travels in a creaking, axle-screeching cart (the karrigell an Ankoù) drawn by horses, attended by helpers who load the souls of the recently dead. In one widespread Breton tradition, the role of Ankou is taken up annually by the last person to die in a parish in a given year, who serves as Ankou for the following year before being released. The Ankou has cognates across the Celtic world: Cornish An Ankow and Welsh Yr Angau both share the word for 'death'. The most influential modern documentation of Ankou tradition is the work of Anatole Le Braz, whose 'La Légende de la Mort chez les Bretons armoricains' (1893) collected and synthesised hundreds of Breton death-lore narratives. Ankou imagery survives in Breton calvary sculpture, ossuary art, and contemporary Breton cultural revival.",
   "aliases": [
     {
       "name": "An Ankoù",
@@ -53,5 +54,67 @@
   "origin": "Brittany (Lower Brittany / Breizh-Izel, the Breton-speaking western part of the region). Cognate figures appear in Cornwall and Wales.",
   "first_reported": "Medieval",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Breton 'ankoù', cognate with Cornish 'ankow' and Welsh 'angau', from a Brythonic Celtic root meaning 'death'.",
+    "meaning": "Literally 'death'; with the definite article, 'the Death' (i.e. the personified figure).",
+    "first_use": "Attested in medieval Breton-language religious literature; codified as a folk-figure in early modern and 19th-century Brittany."
+  },
+  "sightings_stats": null,
+  "timeline": [
+    {
+      "date": "1893",
+      "event": "Anatole Le Braz publishes 'La Légende de la Mort chez les Bretons armoricains'",
+      "significance": "Foundational ethnographic synthesis of Breton death-lore including the Ankoù",
+      "source": "Le Braz, A. (1893), La Légende de la Mort"
+    },
+    {
+      "date": "16th–17th c.",
+      "event": "Stone Ankoù figures are carved into Breton parish closes (notably La Roche-Maurice, La Martyre, Ploudiry)",
+      "significance": "Best-known visual records of the figure",
+      "source": "Breton parish-close architecture"
+    }
+  ],
+  "related": [
+    {
+      "id": "grim-reaper",
+      "name": "Grim Reaper",
+      "relationship": "similar",
+      "description": "Western European personification of Death"
+    },
+    {
+      "id": "dullahan",
+      "name": "Dullahan",
+      "relationship": "similar",
+      "description": "Headless death-rider of Irish tradition"
+    },
+    {
+      "id": "banshee",
+      "name": "Banshee",
+      "relationship": "related",
+      "description": "Irish wailing herald of imminent death"
+    }
+  ],
+  "cultural_notes": "The Ankoù is a familiar, almost domestic figure of Breton mortality — fearsome but comprehensible — woven into parish life and the calendar of death.",
+  "sources": [
+    {
+      "id": "wikipedia-ankou",
+      "type": "website",
+      "title": "Ankou",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ankou",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "le-braz-1893",
+      "type": "book",
+      "title": "La Légende de la Mort chez les Bretons armoricains",
+      "authors": [
+        "Anatole Le Braz"
+      ],
+      "publication": "Honoré Champion",
+      "date": "1893"
+    }
+  ],
+  "locations": []
 }

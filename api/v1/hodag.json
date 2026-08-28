@@ -3,6 +3,7 @@
   "name": "Hodag",
   "category": "cryptid",
   "description": "A horned, spiked, scaly creature from northern Wisconsin lumberjack folklore, made famous by surveyor Eugene Shepard's 1893 hoax in Rhinelander; now the official symbol of the city.",
+  "full_description": "The Hodag is a fearsome critter from the lumberjack folklore of northern Wisconsin, classically described as having the head of a frog, the grinning face of a giant elephant, thick short legs set off by huge claws, the back of a dinosaur, and a long tail with spears at its end. The creature was popularised in 1893 by Rhinelander surveyor and prankster Eugene Shepard, who fabricated newspaper accounts of having captured a hodag in the forests near the town and exhibited a wood-and-hide sculpture rigged with wires at the first Oneida County fair around 1896. When the Smithsonian Institution announced plans to send zoologists to inspect the specimen, Shepard admitted the hoax. Despite this, the Hodag was rapidly adopted as Rhinelander's civic symbol and now appears on the city seal, in a fibreglass sculpture by Tracy Goberville at the Rhinelander Area Chamber of Commerce, as the mascot of Rhinelander High School, and as the namesake of the long-running Hodag Country Festival. The Hodag has since appeared in mainstream popular culture, including the Harry Potter universe (Fantastic Beasts and Where to Find Them, 2017 edition), the animated series Scooby-Doo! Mystery Incorporated, and the video game Inscryption.",
   "aliases": [
     {
       "name": "Bovine spiritualis",
@@ -33,5 +34,90 @@
   "origin": "Strongly localised to northern Wisconsin, especially Oneida County and the area around Rhinelander.",
   "first_reported": "1893",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Coined or popularised by Eugene Shepard in his 1893 newspaper accounts in and around Rhinelander, Wisconsin; precise etymology is uncertain.",
+    "meaning": "Generally treated as Shepard's invention; sometimes folk-etymologised as a contraction of 'horse' and 'dog'.",
+    "first_use": "1893, in Eugene Shepard's newspaper accounts of his alleged capture in Rhinelander, Wisconsin."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 1,
+    "date_range": {
+      "earliest": "1893",
+      "latest": "1896"
+    }
+  },
+  "timeline": [
+    {
+      "date": "1893-01-01",
+      "event": "Eugene Shepard publicises the alleged capture of a hodag in the forests around Rhinelander, Wisconsin",
+      "significance": "Foundational hoax of the modern hodag tradition",
+      "source": "Wikipedia article on the Hodag (drawing on Rhinelander newspaper coverage of 1893)"
+    },
+    {
+      "date": "1896-01-01",
+      "event": "Shepard exhibits a fabricated 'living hodag' rigged with wires at the first Oneida County fair",
+      "significance": "Tens of thousands attend; the hoax peaks before being exposed",
+      "source": "Wikipedia article on the Hodag"
+    },
+    {
+      "date": "1896-01-01",
+      "event": "When the Smithsonian Institution announces plans to send zoologists, Shepard admits the hodag is fabricated",
+      "significance": "Public exposure of the hoax",
+      "source": "Wikipedia article on the Hodag"
+    }
+  ],
+  "related": [
+    {
+      "id": "hugag",
+      "name": "Hugag",
+      "relationship": "similar",
+      "description": "Fellow fearsome critter of upper Midwest lumber-camp tradition"
+    },
+    {
+      "id": "agropelter",
+      "name": "Agropelter",
+      "relationship": "similar",
+      "description": "Fearsome critter that hurls branches"
+    },
+    {
+      "id": "hidebehind",
+      "name": "Hidebehind",
+      "relationship": "similar",
+      "description": "Lumber-camp fearsome critter; canonical fearsome-critter companion"
+    },
+    {
+      "id": "wampus-cat",
+      "name": "Wampus cat",
+      "relationship": "related",
+      "description": "Appalachian and Southern fearsome critter"
+    },
+    {
+      "id": "jackalope",
+      "name": "Jackalope",
+      "relationship": "similar",
+      "description": "Comparable hoax-rooted folk cryptid in the American West"
+    }
+  ],
+  "cultural_notes": "Originally promoted as a real creature; now universally understood as a beloved local legend with a known hoax origin.",
+  "sources": [
+    {
+      "id": "wikipedia-hodag-2026",
+      "type": "website",
+      "title": "Hodag",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Hodag",
+      "accessed": "2026-05-07"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Rhinelander, Wisconsin",
+      "lat": 45.6366,
+      "lng": -89.4121
+    }
+  ]
 }

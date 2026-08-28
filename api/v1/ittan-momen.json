@@ -3,6 +3,7 @@
   "name": "Ittan-momen",
   "category": "entity_spirit",
   "description": "Ittan-momen (一反木綿, 'one bolt of cotton') is a dangerous yokai from Kagoshima Prefecture in southern Japan, appearing as a long white strip of cotton cloth that flies through the night sky and kills humans by wrapping around their heads and necks.",
+  "full_description": "Ittan-momen (一反木綿) is a yokai originating in the folklore of Kōyama, Kimotsuki District, Kagoshima Prefecture (now Kimotsuki), in southern Kyushu, Japan. The name translates as 'one bolt of cotton' or 'one tan of cotton cloth,' where tan (反) is a traditional measurement unit for cloth approximately 10.6 meters long and 30 centimeters wide. The creature appears as a featureless long strip of plain white cotton cloth of approximately this length — no visible eyes, mouth, or appendages in traditional accounts. Despite this mundane appearance, the ittan-momen is genuinely lethal: it flies silently through the night sky and attacks humans by wrapping around their heads and necks, suffocating or strangling them to death. In some accounts the cloth spins rapidly as it attacks, wrapping victims and carrying them into the sky. The yokai exemplifies the Japanese folklore motif of the tsukumogami — objects that acquire supernatural life and often malevolent agency after 100 years of existence. Documentation of the ittan-momen appears in the Ōsumi Kimotsukigun Hōgen Shū, jointly authored by educator Nomura Denshi and folklorist Kunio Yanagita. Historians of the tradition suggest that the legend may have originated in two mundane sources: parents inventing frightening stories to discourage children from playing outside at night while adults performed farmwork, and the sight of cotton mourning flags blown by wind during funerals. Modern depictions, popularized through Mizuki Shigeru's manga series GeGeGe no Kitarō, show the ittan-momen with two eyes and arms — artistic additions not present in traditional accounts. The creature ranked first in Sakaiminato's 'First Yōkai Popularity Poll.'",
   "aliases": [
     {
       "name": "一反木綿",
@@ -34,5 +35,48 @@
   "origin": "Originating in Kōyama, Kimotsuki District, Kagoshima Prefecture, southern Kyushu. Modern sightings reported more broadly across Kyushu, Tokyo, and Shizuoka.",
   "first_reported": "Pre-modern",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Japanese: 一反 (ittan, one tan — a cloth measurement unit) + 木綿 (momen, cotton). The name directly describes the creature's appearance as a bolt of cotton of traditional length.",
+    "meaning": "One bolt of cotton cloth; the name is a literal description of the creature's appearance.",
+    "first_use": "Documented in the Ōsumi Kimotsukigun Hōgen Shū (regional dialect and folklore record); precise date not established from sources."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [],
+  "related": [
+    {
+      "id": "fusuma-yokai",
+      "name": "Fusuma (yokai)",
+      "relationship": "similar",
+      "description": "Bedding-like creature from Sado Island; Edo period animated fabric yokai"
+    },
+    {
+      "id": "futon-kabuse",
+      "name": "Futon kabuse",
+      "relationship": "similar",
+      "description": "Futon-shaped yokai from Aichi Prefecture; animated bedding class"
+    },
+    {
+      "id": "tsukumogami",
+      "name": "Tsukumogami",
+      "relationship": "superset",
+      "description": "The broader class of objects that acquire spiritual life; ittan-momen is a member of this class"
+    }
+  ],
+  "cultural_notes": "In Kagoshima regional tradition, the ittan-momen represents the uncanny danger that can lurk in the most ordinary objects. It embodies the broader Japanese folkloric anxiety that prolonged neglect or improper use of everyday objects can allow them to develop malevolent spiritual agency.",
+  "sources": [
+    {
+      "id": "wikipedia-ittan-momen",
+      "type": "website",
+      "title": "Ittan-momen",
+      "url": "https://en.wikipedia.org/wiki/Ittan-momen",
+      "accessed": "2026-05-08"
+    }
+  ],
+  "locations": []
 }

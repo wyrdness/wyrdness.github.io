@@ -3,6 +3,7 @@
   "name": "Ubume",
   "category": "entity_spirit",
   "description": "A Japanese yōkai of a woman who died in or shortly after childbirth, who appears at night carrying a baby and tries to pass it to a passerby; the bundle then turns to leaves, stones, or grows unbearably heavy.",
+  "full_description": "Ubume (産女, 'birthing woman') is a yōkai of Japanese folklore, classified among the yūrei (ghosts) of women who died during pregnancy or in childbirth. She appears most often at night, beside roads, bridges, or rivers, in the form of a pale, blood-stained woman wearing a red waist cloth and cradling an infant. She approaches travelers and asks them to hold her baby; once the bundle is taken it grows progressively heavier, or transforms on examination into a bundle of leaves, a stone, or a buddha-statue. In other accounts she buys candy at a shop with leaf-money for a child whom locals later find buried with a real living infant in his mother's grave. The Ubume is rarely portrayed as purely malevolent — she is moved by maternal grief and the unfulfilled obligation to her child — and compassion shown to her can lay her spirit to rest. The earliest written account is in the 12th-century Konjaku Monogatarishū, where the warrior Urabe no Suetake encounters an ubume crossing a river. The yōkai's iconography is also strongly shaped by the Chinese-derived bird-spirit Kokakuchō (姑獲鳥), introduced to Japan via texts such as the Wakan Sansai Zue (1712).",
   "aliases": [
     {
       "name": "産女",
@@ -49,5 +50,130 @@
   "origin": "Found across Japan with regional variants and overlaps with Chinese-derived bird-spirit traditions.",
   "first_reported": "c. 1120",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "The name 'ubume' is written 産女 ('birthing woman'). It is also written with the Chinese-derived 姑獲鳥 ('kokakuchō'), originally a Chinese bird-spirit absorbed into the Japanese ubume tradition during the medieval period.",
+    "meaning": "'Birthing woman'; the alternative writing 姑獲鳥 carries the sense of a bird-form spirit that snatches children",
+    "first_use": "Earliest extant Japanese attestation: Konjaku Monogatarishū (early 12th century)"
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "1120-01-01",
+      "event": "Earliest extant ubume tale recorded in Konjaku Monogatarishū (Urabe no Suetake encounters the ubume at a river)",
+      "significance": "Foundational textual reference",
+      "source": "Konjaku Monogatarishū (early 12th century)"
+    },
+    {
+      "date": "1712-01-01",
+      "event": "Terajima Ryōan publishes Wakan Sansai Zue, identifying the ubume with the Chinese kokakuchō and giving it a bird-spirit description",
+      "significance": "Major synthesis of Chinese and Japanese strands",
+      "source": "Wakan Sansai Zue (1712)"
+    },
+    {
+      "date": "1776-01-01",
+      "event": "Toriyama Sekien depicts the ubume in his Edo-period yōkai compendium Gazu Hyakki Yagyō",
+      "significance": "Canonical visual rendering",
+      "source": "Toriyama Sekien, Gazu Hyakki Yagyō (1776)"
+    },
+    {
+      "date": "1994-01-01",
+      "event": "Natsuhiko Kyōgoku publishes the novel Ubume no Natsu (The Summer of the Ubume), launching his Kyōgokudō series",
+      "significance": "Major contemporary literary reframing of the figure",
+      "source": "Kyōgoku, N. (1994)"
+    }
+  ],
+  "related": [
+    {
+      "id": "kokakucho",
+      "name": "Kokakuchō (姑獲鳥)",
+      "relationship": "related",
+      "description": "Chinese-derived bird-form spirit that snatches children; merged with the ubume tradition in Edo-period Japan"
+    },
+    {
+      "id": "pontianak",
+      "name": "Pontianak",
+      "relationship": "similar",
+      "description": "Southeast Asian (Malay/Indonesian) ghost of a woman who died in childbirth"
+    },
+    {
+      "id": "kuntilanak",
+      "name": "Kuntilanak",
+      "relationship": "similar",
+      "description": "Indonesian counterpart of the pontianak"
+    },
+    {
+      "id": "la-llorona",
+      "name": "La Llorona",
+      "relationship": "similar",
+      "description": "Latin American weeping mother spirit, sharing themes of maternal death and lost children"
+    },
+    {
+      "id": "yurei",
+      "name": "Yūrei (general)",
+      "relationship": "superset",
+      "description": "Broader category of Japanese ghosts to which ubume belongs"
+    }
+  ],
+  "cultural_notes": "Pregnant women who died in or before childbirth required special rites — including, traditionally, the removal and burial of the fetus with the mother — to prevent the spirit from becoming an ubume.",
+  "sources": [
+    {
+      "id": "wiki-ubume",
+      "type": "website",
+      "title": "Ubume",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ubume",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "yokai-com-ubume",
+      "type": "website",
+      "title": "Ubume",
+      "publication": "Yokai.com (Matthew Meyer)",
+      "url": "https://yokai.com/ubume/",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "konjaku-monogatari",
+      "type": "book",
+      "title": "Konjaku Monogatarishū (今昔物語集)",
+      "publication": "Heian period collection",
+      "date": "c. 1120"
+    },
+    {
+      "id": "wakan-sansai-zue",
+      "type": "book",
+      "title": "Wakan Sansai Zue (和漢三才図会)",
+      "authors": [
+        "Terajima Ryōan"
+      ],
+      "date": "1712"
+    },
+    {
+      "id": "sekien-1776",
+      "type": "book",
+      "title": "Gazu Hyakki Yagyō (画図百鬼夜行)",
+      "authors": [
+        "Toriyama Sekien"
+      ],
+      "date": "1776"
+    },
+    {
+      "id": "foster-2015",
+      "type": "book",
+      "title": "The Book of Yōkai: Mysterious Creatures of Japanese Folklore",
+      "authors": [
+        "Michael Dylan Foster"
+      ],
+      "publication": "University of California Press",
+      "date": "2015",
+      "isbn": "978-0520271029"
+    }
+  ],
+  "locations": []
 }

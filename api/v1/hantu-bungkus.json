@@ -3,6 +3,7 @@
   "name": "Hantu Bungkus",
   "category": "undead",
   "description": "Hantu Bungkus (Malay 'wrapped ghost'), known in Indonesian as Pocong, is the restless spirit of a deceased Muslim whose burial shroud (kain kafan) was not properly untied at burial. It is depicted as a body still wrapped in white cloth that hops or floats at night.",
+  "full_description": "Hantu Bungkus ('wrapped ghost') is the Malaysian name for the figure widely known across the Malay-Indonesian world as Pocong. It is rooted in Islamic burial practice: a deceased Muslim is washed, then wrapped in a kain kafan (white burial shroud) tied at the head, neck, waist, and feet. According to folk tradition, if the knots are not loosened in the grave after burial, the soul cannot depart and the body becomes a hantu bungkus / pocong, an animate, shroud-bound revenant. Because its feet are bound together, the creature is unable to walk and is depicted as moving by hopping, often in a manner compared to the Chinese jiangshi; some traditions hold that authentic pocong actually float rather than hop, and that hopping in folk depictions is an embellishment. Encounters are reported as terrifying but typically not directly lethal — pocong are usually said to startle or warn rather than physically harm. The figure is one of the most recognizable in Malay-Indonesian horror media, anchoring a long line of films, television series, and internet ghost stories from at least the early 2000s.",
   "aliases": [
     {
       "name": "Pocong",
@@ -46,5 +47,70 @@
   "origin": "Predominantly the Malay-Indonesian Muslim cultural sphere: Indonesia, Malaysia, Brunei, Singapore, southern Thailand, and the Malay diaspora.",
   "first_reported": "Pre-modern",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Malay: hantu ('ghost') + bungkus ('wrapped, parcelled'). Indonesian/Javanese pocong is a separate term from the same semantic field, derived from Javanese for 'wrapped (corpse)'.",
+    "meaning": "Literally 'wrapped ghost' — naming the entity after the unloosed Islamic burial shroud.",
+    "first_use": "Term embedded in modern Malay/Indonesian usage; closely tied to Islamic burial customs that have been practiced in the region since at least the 13th century."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "2006-01-01",
+      "event": "Indonesian horror film Pocong directed by Rudi Soedjarwo (and its sequels) released, anchoring the modern cinematic image",
+      "significance": "Mass-market codification of the pocong figure",
+      "source": "Indonesian film records"
+    }
+  ],
+  "related": [
+    {
+      "id": "jiangshi",
+      "name": "Jiangshi",
+      "relationship": "similar",
+      "description": "Chinese hopping corpse with comparable locomotion"
+    },
+    {
+      "id": "hantu-pontianak",
+      "name": "Pontianak",
+      "relationship": "related",
+      "description": "Other major figure in Malay-Indonesian ghost folklore"
+    },
+    {
+      "id": "draugr",
+      "name": "Draugr",
+      "relationship": "counterpart",
+      "description": "Norse shroud-bound revenant"
+    },
+    {
+      "id": "revenant-european",
+      "name": "European Revenant",
+      "relationship": "counterpart",
+      "description": "Medieval Christian revenant traditions of the unburied/improperly buried dead"
+    }
+  ],
+  "cultural_notes": "Belief is strongest among rural, observant Muslim communities; in urban areas the figure is more often encountered as a horror-genre staple than a serious belief.",
+  "sources": [
+    {
+      "id": "wiki-pocong",
+      "type": "website",
+      "title": "Pocong",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Pocong",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "wiki-ghosts-malay",
+      "type": "website",
+      "title": "Ghosts in Malay culture",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ghosts_in_Malay_culture",
+      "accessed": "2026-05-07"
+    }
+  ],
+  "locations": []
 }

@@ -3,6 +3,7 @@
   "name": "Helltown, Ohio",
   "category": "location",
   "description": "Helltown is an informal name for the abandoned village of Boston Mills in Boston Township, Summit County, Ohio, depopulated after a 1974 federal land acquisition for the Cuyahoga Valley National Recreation Area (now Cuyahoga Valley National Park). Empty homes, boarded-up structures, and a real toxic-waste cleanup at the Krejci Dump fed a cluster of urban legends from the 1980s onward.",
+  "full_description": "'Helltown' is the informal popular name for the area around the historic village of Boston (Boston Mills) in Boston Township, Summit County, Ohio. In 1974, federal legislation signed by President Gerald Ford established the Cuyahoga Valley National Recreation Area (later, in 2000, redesignated as Cuyahoga Valley National Park), and the National Park Service acquired land in Boston Township by eminent domain, displacing residents and leaving many homes vacant for years. The combination of boarded-up houses, an end-of-the-road feel, and a real environmental incident — toxic chemical contamination at the nearby Krejci Dump (a former illegal dumping site discovered to be heavily contaminated; National Park Service personnel exposed there in 1985 reportedly suffered rashes and illness, and an extensive multi-decade EPA-led remediation followed) — became the seed for an extensive cluster of urban legends from the late 1980s onward. Recurrent stories include a 'Satanic church' (typically attributed to the Mother of Sorrows / Boston Presbyterian / Mother of Sorrows-style church and identified by upside-down crosses that are in fact a feature of certain Gothic-Revival church architecture), an abandoned school bus said to contain the bodies or ghosts of murdered children, a 'Crybaby Bridge' on Stanford Road, mutated animals from chemical contamination, government cover-ups, and a closed road (Stanford Road) said to be 'the End of the World'. Most of the abandoned structures have since been demolished, and the area is now reabsorbed into Cuyahoga Valley National Park, but the Helltown legends remain a fixture of Ohio paranormal culture and a common destination for amateur paranormal investigators.",
   "aliases": [
     {
       "name": "Boston Mills",
@@ -39,5 +40,122 @@
   "origin": "Boston Township, Summit County, Ohio, within Cuyahoga Valley National Park, between Akron and Cleveland.",
   "first_reported": "1974-12-27",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "American English; the name 'Helltown' was applied to the area informally in the late 20th century after houses were vacated, in echo of the historic Lenape village of Hell Town in Ashland County, Ohio (a separate place).",
+    "meaning": "Slang for a frightening, abandoned, or otherwise inhospitable settlement.",
+    "first_use": "Late 1980s to early 1990s informal usage, popularized by Ohio paranormal lore."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "1811-01-01",
+      "event": "Boston Township established in Summit County, Ohio",
+      "significance": "Long predates the Helltown legends; provides the historic settlement base",
+      "source": "Boston Township, Summit County, Ohio (Wikipedia)"
+    },
+    {
+      "date": "1974-12-27",
+      "event": "Public Law 93-555 establishes the Cuyahoga Valley National Recreation Area; NPS begins acquiring land in Boston Township",
+      "significance": "Triggers the depopulation that produces the abandoned-buildings setting of the Helltown legends",
+      "source": "U.S. Public Law 93-555 (1974)"
+    },
+    {
+      "date": "1985-01-01",
+      "event": "Krejci Dump contamination incident: NPS personnel reportedly sickened by exposure to chemicals at the unmarked dump site within the new park",
+      "significance": "Real-world environmental incident that fed legends of mutated animals and government cover-up",
+      "source": "EPA / NPS Krejci Dump Superfund record"
+    },
+    {
+      "date": "2000-10-11",
+      "event": "Cuyahoga Valley National Recreation Area redesignated as Cuyahoga Valley National Park",
+      "significance": "Formalises the Helltown area's status as part of a national park",
+      "source": "U.S. Public Law 106-291"
+    },
+    {
+      "date": "2012-01-01",
+      "event": "EPA-led remediation of the Krejci Dump effectively completed after a multi-decade Superfund cleanup",
+      "significance": "Ends one real environmental piece of the legend complex",
+      "source": "EPA Krejci Dump site record"
+    },
+    {
+      "date": "2015-09-25",
+      "event": "Found-footage horror film Helltown (also released as The Boston Mills Project) released, cementing the area's cinematic association",
+      "significance": "Mass-market horror treatment of the legend",
+      "source": "Independent film distribution (Lock and Key Productions)"
+    }
+  ],
+  "related": [
+    {
+      "id": "centralia-pa",
+      "name": "Centralia, Pennsylvania",
+      "relationship": "similar",
+      "description": "Better-known American abandoned town with persistent legends, depopulated by underground mine fire"
+    },
+    {
+      "id": "cuyahoga-valley-national-park",
+      "name": "Cuyahoga Valley National Park",
+      "relationship": "superset",
+      "description": "The federal park that absorbed Boston Township after 1974"
+    },
+    {
+      "id": "crybaby-bridge",
+      "name": "Crybaby Bridge",
+      "relationship": "related",
+      "description": "Pan-American urban legend type that the Stanford Road bridge has been folded into"
+    },
+    {
+      "id": "satanic-panic",
+      "name": "Satanic Panic (1980s)",
+      "relationship": "related",
+      "description": "Cultural moment that produced the 'Satanic church' Helltown legend"
+    }
+  ],
+  "cultural_notes": "Treated by most Ohio commentators as a regional folk-cluster rather than a literal haunted town; nonetheless the area attracts a steady flow of paranormal investigators and Halloween-season tourism.",
+  "sources": [
+    {
+      "id": "atlas-obscura-helltown",
+      "type": "website",
+      "title": "Helltown, Ohio",
+      "publication": "Atlas Obscura",
+      "url": "https://www.atlasobscura.com/places/helltown-ohio",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "ati-helltown",
+      "type": "website",
+      "title": "The Haunting Story Of Helltown, Ohio",
+      "publication": "All That's Interesting",
+      "url": "https://allthatsinteresting.com/helltown-ohio",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "snopes-helltown",
+      "type": "website",
+      "title": "Does 'Helltown' Film Document Weird Happenings in Abandoned Ohio Town?",
+      "publication": "Snopes",
+      "url": "https://www.snopes.com/fact-check/helltown-document-real-events/",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "wiki-boston-twp",
+      "type": "website",
+      "title": "Boston Township, Summit County, Ohio",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Boston_Township,_Summit_County,_Ohio",
+      "accessed": "2026-05-07"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Boston Mills / Boston village",
+      "lat": 41.2645,
+      "lng": -81.5701
+    }
+  ]
 }

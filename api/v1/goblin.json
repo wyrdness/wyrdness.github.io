@@ -3,6 +3,7 @@
   "name": "Goblin",
   "category": "fae_folklore",
   "description": "Goblins are small, grotesque, mischievous or malevolent supernatural beings from European folklore, first attested in the 12th century, ranging from household pranksters (brownies) to murderous territorial spirits (redcaps), and now archetypal monsters in modern fantasy.",
+  "full_description": "Goblins are small supernatural beings from European folklore, typically depicted as grotesque, mischievous, or malevolent humanoids. The word entered English in the early 14th century from Anglo-Norman French gobelin, and the Medieval Latin form gobelinus appeared around 1140 in Orderic Vitalis's Historia Ecclesiastica describing a demon expelled from a church in Évreux, France. The 1195 text L'Estoire de la guerre sainte by Norman monk Ambroise is the earliest known English attestation. Etymology connects the word to Ancient Greek kóbalos (rogue, mischievous sprite), Medieval Latin forms denoting demons, and Germanic kobold (household spirit). European goblin traditions vary widely: English brownies are benevolent household spirits doing domestic labor at night; Yorkshire boggarts are malevolent, shapeshifting familial spirits; Welsh púca are trickster spirits misleading nighttime wanderers; French lutins are impish stable creatures; border Redcaps are murderous goblins that soak their hats in victims' blood. Similar beings exist globally: Korean dokkaebi are horned tricksters animated from discarded tools; Zulu tokoloshe are evil water spirits; Native American pukwudgies are porcupine-quilled tricksters. Through J.R.R. Tolkien, George MacDonald, D&D, and the broader fantasy genre, goblins have become one of the most iconic small monster types in global popular culture.",
   "aliases": [
     {
       "name": "Gobelin",
@@ -49,5 +50,85 @@
   "origin": "Goblin traditions are found across Europe, with the oldest documented examples from Norman France and England (12th century). Cognate traditions exist globally in Korea (dokkaebi), Africa (Zulu tokoloshe), and among Indigenous North American peoples (Wampanoag pukwudgie). The modern fantasy goblin has achieved global distribution through literature and gaming.",
   "first_reported": "1140-01-01",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Anglo-Norman French gobelin, from Old French gobelin; Medieval Latin gobelinus (c. 1140, Orderic Vitalis). Possibly from Ancient Greek kóbalos (rogue/mischievous sprite) or from Germanic kobold (household spirit). Some scholars trace it to the French proper name Gobel or Gobeau.",
+    "meaning": "A small, grotesque, supernatural being; demon or mischievous spirit. The Medieval Latin gobelinus described a specific demon reportedly haunting a pagan site in Évreux.",
+    "first_use": "c. 1140 (Medieval Latin gobelinus, Orderic Vitalis, Historia Ecclesiastica); c. 1195 (gobelin, Ambroise, L'Estoire de la guerre sainte); c. 1330 (gobelyn, Middle English)"
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "1140-01-01",
+      "event": "Orderic Vitalis records the word gobelinus in Historia Ecclesiastica, describing a demon haunting a pagan site in Évreux, Normandy",
+      "significance": "Earliest documented use of the word; establishes the Norman origin of the English term",
+      "source": "Wikipedia article on Goblin"
+    },
+    {
+      "date": "1195-01-01",
+      "event": "Norman monk Ambroise uses gobelin in L'Estoire de la guerre sainte",
+      "significance": "First English-language attestation",
+      "source": "Wikipedia article on Goblin"
+    },
+    {
+      "date": "1862-01-01",
+      "event": "Christina Rossetti publishes Goblin Market, a narrative poem featuring goblin fruit merchants",
+      "significance": "Major literary treatment of goblins in the Victorian era",
+      "source": "Wikipedia article on Goblin"
+    },
+    {
+      "date": "1937-01-01",
+      "event": "J.R.R. Tolkien's The Hobbit features goblins (evil creatures in the Misty Mountains), establishing much of the modern fantasy archetype",
+      "significance": "Most influential single literary treatment shaping the modern global concept of goblins",
+      "source": "Wikipedia article on Goblin"
+    }
+  ],
+  "related": [
+    {
+      "id": "fairy",
+      "name": "Fairy",
+      "relationship": "related",
+      "description": "European supernatural beings; goblins are sometimes classified as a type of malevolent fairy"
+    },
+    {
+      "id": "kobold",
+      "name": "Kobold",
+      "relationship": "similar",
+      "description": "Germanic household spirit; etymologically related to goblin via the kobold root"
+    },
+    {
+      "id": "brownie",
+      "name": "Brownie",
+      "relationship": "subset",
+      "description": "Benevolent household goblin of English and Scottish tradition"
+    },
+    {
+      "id": "redcap",
+      "name": "Redcap",
+      "relationship": "subset",
+      "description": "Murderous Anglo-Scottish border goblin; a particularly dangerous regional variant"
+    },
+    {
+      "id": "boggart",
+      "name": "Boggart",
+      "relationship": "subset",
+      "description": "Malevolent Yorkshire goblin attached to specific houses or farms"
+    }
+  ],
+  "cultural_notes": "Goblin belief across European tradition emphasizes reciprocity: creatures like brownies can be helpful if treated correctly but become troublesome if offended. Malevolent goblins (Redcaps, boggarts) are territorial and dangerous. Most traditions agree on methods to repel or appease goblins.",
+  "sources": [
+    {
+      "id": "wikipedia-goblin",
+      "type": "website",
+      "title": "Goblin — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Goblin",
+      "accessed": "2026-05-08"
+    }
+  ],
+  "locations": []
 }

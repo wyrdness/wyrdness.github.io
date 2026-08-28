@@ -3,6 +3,7 @@
   "name": "Teakettler",
   "category": "cryptid",
   "description": "A small, behaviorally defined fearsome critter of North American lumberjack folklore that produces a teakettle-like whistling sound. First catalogued in William T. Cox's 1910 'Fearsome Creatures of the Lumberwoods'.",
+  "full_description": "The Teakettler is one of the 'fearsome critters' of North American lumberjack folklore — a class of comic, tall-tale creatures invented and elaborated by loggers in the late 19th and early 20th centuries to entertain new camp recruits and to explain unusual forest sounds. The Teakettler is described, in William T. Cox's 'Fearsome Creatures of the Lumberwoods, With a Few Desert and Mountain Beasts' (1910), as a small variety of forest vermin that makes a noise like a boiling teakettle. Compared with most fearsome critters, it is notable for being defined almost entirely by its behavior rather than its appearance, and for being among the genuinely 'minor' figures in the canon. The creature also appears in Jorge Luis Borges's 'Book of Imaginary Beings' (1969), where it is treated as a representative example of North American lumberjack tall-tales.",
   "aliases": [
     {
       "name": "Teakettler",
@@ -27,5 +28,99 @@
   "origin": "Folklore current in the lumber-camp belt of the northern United States and Canada in the late 19th and early 20th century.",
   "first_reported": "1910",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Coined in early 20th-century American lumberjack slang from 'teakettle' + agentive suffix '-er'.",
+    "meaning": "A creature that 'teakettles' — i.e. produces a kettle-like whistling sound.",
+    "first_use": "Documented in print in William T. Cox's 'Fearsome Creatures of the Lumberwoods' (1910)."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "1910-01-01",
+      "event": "William T. Cox publishes 'Fearsome Creatures of the Lumberwoods, With a Few Desert and Mountain Beasts' (Washington, D.C.: Judd & Detweiler)",
+      "significance": "First systematic catalogue of fearsome critters; canonical source for the Teakettler",
+      "source": "Cox, W. T. (1910)"
+    },
+    {
+      "date": "1939-01-01",
+      "event": "Henry H. Tryon publishes 'Fearsome Critters' (Idlewild Press, Cornwall, NY)",
+      "significance": "Second major catalogue, expanding and re-illustrating the corpus",
+      "source": "Tryon, H. H. (1939)"
+    },
+    {
+      "date": "1969-01-01",
+      "event": "Jorge Luis Borges and Margarita Guerrero include North American fearsome-critter creatures in 'El libro de los seres imaginarios' (Book of Imaginary Beings)",
+      "significance": "Establishes the Teakettler in international literary reference works",
+      "source": "Borges & Guerrero (1969)"
+    }
+  ],
+  "related": [
+    {
+      "id": "fearsome-critters",
+      "name": "Fearsome Critters",
+      "relationship": "superset",
+      "description": "Class of North American lumberjack tall-tale creatures of which the Teakettler is one minor member"
+    },
+    {
+      "id": "hodag",
+      "name": "Hodag",
+      "relationship": "similar",
+      "description": "Better-known fearsome critter from Wisconsin lumber camps"
+    },
+    {
+      "id": "snallygaster",
+      "name": "Snallygaster",
+      "relationship": "similar",
+      "description": "Another fearsome critter / regional cryptid of the early 20th century"
+    }
+  ],
+  "cultural_notes": "The Teakettler is straightforwardly understood as a comic invention used to entertain newcomers to a logging camp, not as a sincere creature claim.",
+  "sources": [
+    {
+      "id": "wikipedia-fearsome-critters",
+      "type": "website",
+      "title": "Fearsome critters",
+      "publication": "English Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Fearsome_critters",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "cox-1910",
+      "type": "book",
+      "title": "Fearsome Creatures of the Lumberwoods, With a Few Desert and Mountain Beasts",
+      "authors": [
+        "William T. Cox"
+      ],
+      "publication": "Judd & Detweiler, Washington, D.C.",
+      "date": "1910"
+    },
+    {
+      "id": "tryon-1939",
+      "type": "book",
+      "title": "Fearsome Critters",
+      "authors": [
+        "Henry H. Tryon"
+      ],
+      "publication": "Idlewild Press, Cornwall, NY",
+      "date": "1939"
+    },
+    {
+      "id": "borges-1969",
+      "type": "book",
+      "title": "El libro de los seres imaginarios",
+      "authors": [
+        "Jorge Luis Borges",
+        "Margarita Guerrero"
+      ],
+      "publication": "Editorial Kier, Buenos Aires",
+      "date": "1969"
+    }
+  ],
+  "locations": []
 }

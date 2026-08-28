@@ -3,6 +3,7 @@
   "name": "Nian",
   "category": "mythological_creature",
   "description": "A beast of Chinese folklore said to emerge at the end of each lunar year to attack villages, scared off by the colour red, fire, and loud noises — the etiological story for many Chinese New Year traditions.",
+  "full_description": "The Nian (年獸, 'Year Beast') is a creature of Chinese popular folklore traditionally said to emerge at the end of each lunar year to raid villages for food, devouring crops, livestock, and people. According to the legend, villagers discovered that the Nian fears three things — the colour red, loud noises (drums, firecrackers, clashing plates), and fire — and these discoveries became the basis of enduring Chinese New Year customs: red couplets and lanterns, firecrackers, and bright lights. The Chinese name for celebrating New Year, guo nian (過年), is sometimes glossed as 'pass over Nian' or 'overcome Nian'. While the Nian is widely treated as a traditional creature, written sources referring to a creature called nian appear only from the early 20th century, and Wikipedia and other reference works flag the depth of its traditional pedigree as uncertain.",
   "aliases": [
     {
       "name": "年獸",
@@ -41,5 +42,44 @@
   "origin": "Greater China and the global Chinese diaspora; the Nian is a pan-Chinese folkloric figure attached to Lunar New Year customs.",
   "first_reported": "Early 20th century",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Chinese (年, nián)",
+    "meaning": "The character 年 most commonly means 'year' or 'new year'; the legend personifies the year-end as a beast",
+    "first_use": "Written sources naming nian as a creature appear from the early 20th century"
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "Early 20th century",
+      "event": "Earliest known written sources referring to a creature called nian",
+      "significance": "Marks the entry of the Nian-as-creature legend into the printed record",
+      "source": "Wikipedia, 'Nian'"
+    }
+  ],
+  "related": [
+    {
+      "id": "lion-dance",
+      "name": "Lion dance",
+      "relationship": "related",
+      "description": "Chinese ceremonial dance whose protective function and red/loud-noise symbolism overlap with Nian-warding customs"
+    }
+  ],
+  "cultural_notes": "Popular Chinese tradition holds that the protective customs of the Lunar New Year originated as defences against the Nian, although the historical record for the creature itself is shallow.",
+  "sources": [
+    {
+      "id": "wikipedia-nian",
+      "type": "website",
+      "title": "Nian",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Nian",
+      "accessed": "2026-05-07"
+    }
+  ],
+  "locations": []
 }

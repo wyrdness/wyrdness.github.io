@@ -3,6 +3,7 @@
   "name": "Revenant",
   "category": "undead",
   "description": "A revenant is a spirit or animated corpse believed to have returned from death to haunt or harm the living, prominent in medieval European folklore from Celtic and Norse traditions through English and French accounts. Archaeologists have found revenant graves across Europe dating back 4,000 years.",
+  "full_description": "A revenant (from Old French revenant, 'one who returns') is a spirit or animated corpse believed to have been resurrected to haunt the living. The term encompasses a broad category of returning dead documented across Celtic, Norse, and medieval European traditions. The English historian William of Newburgh (1136–1198) recorded multiple revenant accounts in his Historia Rerum Anglicarum — among the most detailed and systematic medieval documentation of the phenomenon. According to his accounts, revenants were typically people who had lived sinfully; after death they rose from their graves at night, troubled the living, and in some cases spread disease among those they visited. Methods of stopping a revenant included decapitation, heart removal, and cremation. Archaeological evidence for revenant belief is extensive: researchers have found graves across Europe dating back 4,000 years to the Bronze Age, containing precautions such as stones placed on legs or jaws, iron objects, and other measures to prevent the deceased from rising. Exhumed revenant corpses were reportedly 'swollen' with blood when disturbed. The revenant is considered a precursor to the vampire tradition — sharing the characteristics of a walking corpse that preys on the living — and overlaps with the Norse draugr, the barrow-wight tradition known from Tolkien's The Lord of the Rings, and similar undead beings across world traditions.",
   "aliases": [
     {
       "name": "revenant",
@@ -49,5 +50,113 @@
   "origin": "Revenant beliefs are documented across Europe, with the most detailed medieval accounts from England, Wales, and France. Archaeological evidence of anti-revenant burial practices spans Europe from the Bronze Age onward.",
   "first_reported": "Pre-0100-01-01",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Old French revenant, from revenir ('to return'). Used in English from at least the 18th century to describe beings returned from the dead.",
+    "meaning": "One who returns (from death); an animated or spiritual form of a deceased person that returns to haunt the living.",
+    "first_use": "Medieval period (documentation in William of Newburgh's Historia, 12th century); the specific English term 'revenant' in common use by the 18th century"
+  },
+  "sightings_stats": {
+    "total_documented": 10,
+    "verified": 0,
+    "disputed": 10,
+    "debunked": 0,
+    "date_range": {
+      "earliest": "1090",
+      "latest": "1200"
+    }
+  },
+  "timeline": [
+    {
+      "date": "Pre-2000-01-01",
+      "event": "Archaeological evidence of anti-revenant burial precautions (stones on legs and jaw, iron objects) found across Europe dating to Bronze Age",
+      "significance": "Demonstrates that revenant belief or its functional equivalent predates written history in Europe",
+      "source": "Archaeological surveys; European Bronze Age burial sites"
+    },
+    {
+      "date": "1090-01-01",
+      "event": "Abbot of Burton documents two peasants who apparently died and then appeared to villagers carrying their coffins, transforming into animals before their heads were severed and hearts removed",
+      "significance": "One of the earliest detailed English revenant accounts in documentary record",
+      "source": "Chronicles of Burton Abbey (c. 1090); cited by William of Newburgh"
+    },
+    {
+      "date": "1190-01-01",
+      "event": "William of Newburgh (1136–1198) records multiple detailed revenant accounts in Historia Rerum Anglicarum, including the case of a man of 'evil conduct' whose corpse was exhumed and burned to end nocturnal attacks on villagers",
+      "significance": "Most extensive and systematic medieval English documentation of revenant cases; primary historical source for the tradition",
+      "source": "William of Newburgh, Historia Rerum Anglicarum (c. 1190–1198)"
+    },
+    {
+      "date": "1190-01-01",
+      "event": "Walter Map (c. 1140–1210), a Welsh chronicler, records a revenant case in Hereford where a 'wicked man' called out names of those who would die, resolved when Bishop Gilbert Foliot ordered decapitation",
+      "significance": "Important early account from a credible medieval chronicler; documents church-sanctioned responses to revenant incidents",
+      "source": "Walter Map, De Nugis Curialium (c. 1190)"
+    }
+  ],
+  "related": [
+    {
+      "id": "vampire",
+      "name": "Vampire",
+      "relationship": "related",
+      "description": "Eastern European undead tradition that shares key features with the revenant; scholars debate whether revenants are distinct from vampires or represent an early form of the same concept"
+    },
+    {
+      "id": "draugr",
+      "name": "Draugr",
+      "relationship": "regional_variant",
+      "description": "Norse variant of the revenant; an animated corpse that haunts burial mounds and has superhuman strength"
+    },
+    {
+      "id": "zombie",
+      "name": "Zombie",
+      "relationship": "similar",
+      "description": "Modern animated corpse concept with origins in Haitian Vodou; shares the animated-dead framework"
+    },
+    {
+      "id": "ghost",
+      "name": "Ghost",
+      "relationship": "related",
+      "description": "The spiritual (non-corporeal) counterpart to the revenant; revenants are specifically corporeal in most accounts"
+    }
+  ],
+  "cultural_notes": "In medieval European folk and clerical belief, the revenant represented a genuine spiritual and physical threat. Countermeasures — decapitation, heart removal, cremation, burial with absolution letters — were considered effective and were administered with ecclesiastical sanction.",
+  "sources": [
+    {
+      "id": "william-newburgh",
+      "type": "archive",
+      "title": "Historia Rerum Anglicarum",
+      "authors": [
+        "William of Newburgh"
+      ],
+      "date": "1198",
+      "notes": "Primary medieval English source for revenant accounts; written approximately 1190–1198"
+    },
+    {
+      "id": "walter-map",
+      "type": "archive",
+      "title": "De Nugis Curialium (Courtiers' Trifles)",
+      "authors": [
+        "Walter Map"
+      ],
+      "date": "1190",
+      "notes": "Contains revenant accounts from Hereford and surrounding areas"
+    },
+    {
+      "id": "barber-1988",
+      "type": "book",
+      "title": "Vampires, Burial, and Death: Folklore and Reality",
+      "authors": [
+        "Paul Barber"
+      ],
+      "publication": "Yale University Press",
+      "date": "1988"
+    },
+    {
+      "id": "wikipedia-revenant",
+      "type": "website",
+      "title": "Revenant",
+      "url": "https://en.wikipedia.org/wiki/Revenant",
+      "accessed": "2026-05-08"
+    }
+  ],
+  "locations": []
 }

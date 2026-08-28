@@ -3,6 +3,7 @@
   "name": "Area 51",
   "category": "location",
   "description": "Highly classified United States Air Force facility in southern Nevada (officially Homey Airport / Groom Lake), used since 1955 for the development and testing of experimental aircraft. The site is the most prominent location in modern UFO and government-cover-up folklore.",
+  "full_description": "Area 51 is a highly classified United States Air Force facility within the Nevada Test and Training Range, approximately 83 mi (134 km) north-northwest of Las Vegas. The base — formally Homey Airport (ICAO: KXTA), surrounding the dry Groom Lake bed — has been used since 1955 for the flight-testing of experimental aircraft and weapons, beginning with the Lockheed U-2 and continuing through the A-12 OXCART, the SR-71 Blackbird, the F-117 Nighthawk stealth fighter, and the Tacit Blue and Have Blue stealth demonstrators. Foreign aircraft (especially captured Soviet MiGs) have also been evaluated there. The facility's existence was deliberately denied or refused for comment by the U.S. government for decades, and its restricted airspace, deadly-force-authorised perimeter, and secrecy have made it the central setting of UFO and government-cover-up theories: that the U.S. military stores and reverse-engineers crashed extraterrestrial spacecraft, that alien biologics are studied at an underground 'S-4' adjacent to Papoose Lake, and that whistle-blowers such as Bob Lazar have witnessed alien technology there. The CIA officially acknowledged the base in declassified documents released in June 2013.",
   "aliases": [
     {
       "name": "Homey Airport",
@@ -51,5 +52,200 @@
   "origin": "A single fixed installation in southern Nevada, surrounded by the Nevada Test and Training Range and the Nellis Air Force complex. The area is commonly viewed from public vantage points along Nevada State Route 375, the 'Extraterrestrial Highway', and from the small town of Rachel.",
   "first_reported": "1955-04-01",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "The name 'Area 51' comes from the Atomic Energy Commission's grid designation for the area within the Nevada Test Site. It was paired in the 1950s with the cover name 'Paradise Ranch' to attract workers.",
+    "meaning": "AEC numbered grid square containing the Groom Lake facility.",
+    "first_use": "1955 (CIA selection of Groom Lake for U-2 testing)."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0,
+    "date_range": {
+      "earliest": "1955",
+      "latest": "2026"
+    }
+  },
+  "timeline": [
+    {
+      "date": "1955-04-01",
+      "event": "CIA selects Groom Lake as a covert test site for the Lockheed U-2",
+      "significance": "Founding of the modern Area 51 facility",
+      "source": "Pedlow & Welzenbach (2013), CIA U-2/OXCART history"
+    },
+    {
+      "date": "1955-08-04",
+      "event": "First U-2 test flight at Groom Lake",
+      "significance": "Operational beginning of the base",
+      "source": "Pedlow & Welzenbach (2013)"
+    },
+    {
+      "date": "1962-04-26",
+      "event": "First flight of the Lockheed A-12 OXCART at Groom Lake",
+      "significance": "Main 1960s programme at the base",
+      "source": "Pedlow & Welzenbach (2013)"
+    },
+    {
+      "date": "1977-12-01",
+      "event": "First flight of the Have Blue stealth demonstrator at Groom Lake",
+      "significance": "Beginning of stealth-aircraft testing",
+      "source": "USAF / Lockheed historical records"
+    },
+    {
+      "date": "1981-06-18",
+      "event": "First flight of the F-117 Nighthawk full-scale development prototype",
+      "significance": "Development of the world's first operational stealth fighter",
+      "source": "USAF historical records"
+    },
+    {
+      "date": "1989-05-01",
+      "event": "Bob Lazar gives KLAS-TV interviews (under pseudonym 'Dennis') alleging work on alien craft at 'S-4' near Papoose Lake",
+      "significance": "Launches Area 51 into modern UFO-conspiracy folklore",
+      "source": "KLAS-TV (Las Vegas) reporting by George Knapp"
+    },
+    {
+      "date": "1996-04-19",
+      "event": "State of Nevada renames NV-375 the 'Extraterrestrial Highway'",
+      "significance": "Formal recognition of Area 51 UFO tourism",
+      "source": "Nevada State Government press release"
+    },
+    {
+      "date": "2013-06-25",
+      "event": "CIA releases declassified U-2 and OXCART history acknowledging Area 51 by name and grid coordinates",
+      "significance": "First official U.S. government acknowledgement of Area 51 as an active facility",
+      "source": "CIA, declassified Pedlow & Welzenbach history"
+    },
+    {
+      "date": "2019-09-20",
+      "event": "'Storm Area 51' Facebook event culminates in small festivals at Rachel and Hiko, NV",
+      "significance": "Internet-era cultural moment for the Area 51 mythos",
+      "source": "BBC, Reuters reporting"
+    }
+  ],
+  "related": [
+    {
+      "id": "roswell-incident",
+      "name": "Roswell Incident",
+      "relationship": "related",
+      "description": "1947 UFO crash in New Mexico tied by conspiracy theories to alleged Area 51 storage of recovered material"
+    },
+    {
+      "id": "majestic-12",
+      "name": "Majestic 12",
+      "relationship": "related",
+      "description": "Alleged secret committee said to oversee crashed-disk recovery and Area 51 research"
+    },
+    {
+      "id": "bob-lazar",
+      "name": "Bob Lazar / S-4 claims",
+      "relationship": "subset",
+      "description": "Lazar's 1989 claims of working on alien craft at S-4, Papoose Lake"
+    },
+    {
+      "id": "ufo-uap",
+      "name": "UFO / UAP phenomenon",
+      "relationship": "related",
+      "description": "Area 51 is a primary node of UFO conspiracy lore"
+    },
+    {
+      "id": "dulce-base",
+      "name": "Dulce Base",
+      "relationship": "similar",
+      "description": "Other alleged classified underground facility in modern UFO lore"
+    }
+  ],
+  "cultural_notes": "Persistent folk-belief in a U.S. government cover-up of crashed extraterrestrial craft; survey data routinely show ~25–35% of Americans expressing some form of belief that government is hiding evidence of UFO contact at Area 51.",
+  "sources": [
+    {
+      "id": "wikipedia-area-51",
+      "type": "website",
+      "title": "Area 51",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Area_51",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "pedlow-welzenbach-2013",
+      "type": "archive",
+      "title": "The Central Intelligence Agency and Overhead Reconnaissance: The U-2 and OXCART Programs, 1954–1974",
+      "authors": [
+        "Gregory W. Pedlow",
+        "Donald E. Welzenbach"
+      ],
+      "publication": "Central Intelligence Agency",
+      "date": "1992 (declassified 2013-06-25)",
+      "url": "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB434/"
+    },
+    {
+      "id": "jacobsen-2011",
+      "type": "book",
+      "title": "Area 51: An Uncensored History of America's Top Secret Military Base",
+      "authors": [
+        "Annie Jacobsen"
+      ],
+      "publication": "Little, Brown and Company",
+      "date": "2011",
+      "isbn": "978-0316132947"
+    },
+    {
+      "id": "peebles-1995",
+      "type": "book",
+      "title": "Dark Eagles: A History of Top Secret U.S. Aircraft Programs",
+      "authors": [
+        "Curtis Peebles"
+      ],
+      "publication": "Presidio Press",
+      "date": "1995",
+      "isbn": "978-0891416968"
+    },
+    {
+      "id": "patton-1998",
+      "type": "book",
+      "title": "Dreamland: Travels Inside the Secret World of Roswell and Area 51",
+      "authors": [
+        "Phil Patton"
+      ],
+      "publication": "Villard",
+      "date": "1998",
+      "isbn": "978-0375752452"
+    },
+    {
+      "id": "klas-tv-knapp-1989",
+      "type": "news",
+      "title": "Original Bob Lazar interviews",
+      "authors": [
+        "George Knapp"
+      ],
+      "publication": "KLAS-TV (Las Vegas)",
+      "date": "1989-11"
+    },
+    {
+      "id": "bbc-2019-storm-area-51",
+      "type": "news",
+      "title": "'Storm Area 51' event ends with parties, not raids",
+      "publication": "BBC News",
+      "date": "2019-09-20",
+      "url": "https://www.bbc.com/news/world-us-canada-49773136",
+      "accessed": "2026-05-07"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Groom Lake (main facility)",
+      "lat": 37.235,
+      "lng": -115.8111
+    },
+    {
+      "name": "Papoose Lake (alleged 'S-4')",
+      "lat": 37.0297,
+      "lng": -115.7778
+    },
+    {
+      "name": "Rachel, Nevada / Extraterrestrial Highway",
+      "lat": 37.6463,
+      "lng": -115.7464
+    }
+  ]
 }

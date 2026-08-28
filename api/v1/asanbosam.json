@@ -3,6 +3,7 @@
   "name": "Asanbosam",
   "category": "undead",
   "description": "A vampire-like, tree-dwelling being of Akan (Ashanti) folklore from southern Ghana, Côte d'Ivoire, and Togo, said to have iron teeth and iron hooks for feet, and to attack travellers from above by hanging from branches.",
+  "full_description": "The Asanbosam (most often spelled Sasabonsam in modern Akan-language sources) is a vampire-like creature in the folklore of the Akan peoples of southern Ghana, Côte d'Ivoire, and Togo. Among the Asante it is sometimes called asasabonsam. The being is described as a hairy ogre-like figure with bloodshot eyes, long legs, and feet pointing in both directions. Its most distinctive features are iron teeth and iron hooks in place of feet. Asanbosam are said to dwell in the canopy of deep forests, particularly in the upper branches of large trees, where they sit and dangle their iron-hooked legs to ensnare unwary travellers passing below; they then drink the blood of those they capture. The figure is part of the broader Akan classification of bonsam (evil spirits or witches) and is sometimes associated with witchcraft as a familiar of asuman (powerful charms) or witches. Records of the being date at least to documentation of Akan religion in the 18th century, and the figure travelled across the Atlantic with enslaved Akan-speakers, appearing in 18th-century Jamaican folkloric records. A wooden Sasabonsam figure dating to circa 1935 is held in the British Museum.",
   "aliases": [
     {
       "name": "Sasabonsam",
@@ -42,5 +43,131 @@
   "origin": "Found in the folklore of the Akan-speaking peoples (Asante, Fante, Akyem, Akwapim, Akuapem) of southern Ghana, with extensions into Côte d'Ivoire and Togo. Asanbosam beliefs were carried to the Caribbean by enslaved Akan-speakers and were recorded among Maroons in 18th-century Jamaica.",
   "first_reported": "1700-01-01",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Akan / Twi sasa ('spirit, soul of the dead') + bonsam ('evil spirit, devil'). The compound denotes a malevolent forest spirit.",
+    "meaning": "Roughly 'forest devil' or 'evil spirit of the wild'.",
+    "first_use": "Documented in 18th-century European-language descriptions of Akan religion; used in oral tradition long before."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0,
+    "date_range": {
+      "earliest": "1700",
+      "latest": "2026"
+    }
+  },
+  "timeline": [
+    {
+      "date": "1700-01-01",
+      "event": "Asanbosam well established in Akan oral tradition",
+      "significance": "Pre-modern attestation through oral transmission",
+      "source": "Akan oral tradition (later documented)"
+    },
+    {
+      "date": "1800-01-01",
+      "event": "Akan-derived vampire traditions documented in 18th–19th-century Jamaica",
+      "significance": "Diasporic spread with the transatlantic slave trade",
+      "source": "Sasabonsam Wikipedia article (citing 18th-century Jamaican records)"
+    },
+    {
+      "date": "1887-01-01",
+      "event": "A. B. Ellis publishes The Tshi-speaking Peoples of the Gold Coast of West Africa, an early ethnography of the Akan describing Sasabonsam",
+      "significance": "Major colonial-era documentation",
+      "source": "Ellis, A. B. (1887)"
+    },
+    {
+      "date": "1923-01-01",
+      "event": "R. S. Rattray's Ashanti includes documentation of bonsam and forest spirits",
+      "significance": "Standard ethnographic reference",
+      "source": "Rattray, R. S. (1923)"
+    },
+    {
+      "date": "1935-01-01",
+      "event": "Wooden Sasabonsam figure later held by the British Museum is created (estimated date)",
+      "significance": "Material-culture attestation of the figure",
+      "source": "British Museum collection record"
+    }
+  ],
+  "related": [
+    {
+      "id": "obayifo",
+      "name": "Obayifo",
+      "relationship": "related",
+      "description": "Akan witch / vampiric spirit, sometimes considered the human counterpart to the Asanbosam"
+    },
+    {
+      "id": "adze",
+      "name": "Adze",
+      "relationship": "similar",
+      "description": "Vampiric firefly-shaped being of Ewe folklore (Ghana, Togo)"
+    },
+    {
+      "id": "asasa-yaa",
+      "name": "Asase Yaa",
+      "relationship": "related",
+      "description": "Akan earth goddess; the Asanbosam belongs to her wild domain in some readings"
+    },
+    {
+      "id": "vampire",
+      "name": "Vampire (general)",
+      "relationship": "similar",
+      "description": "Cross-cultural class of blood-drinking undead"
+    }
+  ],
+  "cultural_notes": "Belief in the Asanbosam fits within the wider Akan religious view of a populated spirit-world in which forest, river, and mountain are inhabited by abosom (deities) and bonsam (evil spirits).",
+  "sources": [
+    {
+      "id": "wikipedia-sasabonsam",
+      "type": "website",
+      "title": "Sasabonsam",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sasabonsam",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "ellis-1887",
+      "type": "book",
+      "title": "The Tshi-speaking Peoples of the Gold Coast of West Africa",
+      "authors": [
+        "A. B. Ellis"
+      ],
+      "publication": "Chapman and Hall",
+      "date": "1887"
+    },
+    {
+      "id": "rattray-1923",
+      "type": "book",
+      "title": "Ashanti",
+      "authors": [
+        "R. S. Rattray"
+      ],
+      "publication": "Clarendon Press",
+      "date": "1923"
+    },
+    {
+      "id": "rattray-1927",
+      "type": "book",
+      "title": "Religion and Art in Ashanti",
+      "authors": [
+        "R. S. Rattray"
+      ],
+      "publication": "Oxford University Press",
+      "date": "1927"
+    },
+    {
+      "id": "okorafor-2011",
+      "type": "book",
+      "title": "Akata Witch",
+      "authors": [
+        "Nnedi Okorafor"
+      ],
+      "publication": "Viking Books for Young Readers",
+      "date": "2011",
+      "isbn": "978-0670011964"
+    }
+  ],
+  "locations": []
 }

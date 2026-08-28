@@ -3,6 +3,7 @@
   "name": "Yacuruna",
   "category": "entity_spirit",
   "description": "Powerful water spirits in the mythology of various Indigenous peoples of the Amazon basin, particularly Quechua-speaking and riverine cultures. The Yacuruna inhabit underwater cities beneath Amazonian rivers and lakes, riding black crocodiles by night and shapeshifting into Amazon river dolphins to interact with humans.",
+  "full_description": "The Yacuruna (Quechua: yaku, water + runa, people) are supernatural water beings central to the cosmologies of Amazonian Indigenous peoples including Quechua-speaking groups and riverine cultures such as the Cocama. They are described as hairy, man-like creatures with backward-facing heads and deformed feet who inhabit vast underwater cities beneath Amazonian rivers and lakes. These submerged palaces are described in oral tradition as constructed of crystal, with walls of fish scales and pearl, furnishings of feathers, hammocks of snakes, and mosquito netting of butterfly wings. The Yacuruna are nocturnal: they traverse the rainforest at night riding black crocodiles, resting in the river and lake bottoms during the day. They are capable of shapeshifting, most commonly into the form of the Amazon river dolphin (boto), and are said to use aphrodisiacs to abduct victims — particularly menstruating women — who are then transformed irreversibly: their eyes change first, followed by their heads and feet turning backward (preventing them from finding their way home). Shamans (ayahuasceros) maintain a particular relationship with the Yacuruna, summoning them as familiars to receive healing knowledge. The figure of the Yacuruna is distinct from, but overlaps with, the broader Amazonian dolphin-seducer complex (the boto encantado of Brazilian folklore).",
   "aliases": [
     {
       "name": "Yakuruna",
@@ -37,5 +38,48 @@
   "origin": "The Yacuruna tradition is documented across the Amazonian basin, particularly among Quechua-speaking peoples of Peru and adjacent riverine cultures (Cocama, and others). The belief complex extends across the broader Amazonian cultural area where the boto (Amazon river dolphin) is ecologically present.",
   "first_reported": "Pre-contact",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Quechua language, Amazon basin; the term is used among Quechua-speaking peoples of Peru and related riverine cultures",
+    "meaning": "Yaku (water) + runa (man, person, people) = 'water people' or 'people of the water'",
+    "first_use": "Pre-contact oral tradition; first recorded in writing by ethnographers and missionaries in the colonial and post-colonial period"
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [],
+  "related": [
+    {
+      "id": "boto-encantado",
+      "name": "Boto Encantado",
+      "relationship": "similar",
+      "description": "Brazilian Amazon dolphin-shapeshifter folklore; the boto (river dolphin) transforms into a handsome man to seduce women, closely related conceptually to Yacuruna abduction narratives"
+    },
+    {
+      "id": "yakumama",
+      "name": "Yakumama",
+      "relationship": "related",
+      "description": "Great serpent mother of Amazonian waters in Quechua tradition; another powerful water being from the same mythological complex"
+    },
+    {
+      "id": "mermaid",
+      "name": "Mermaid / Sirena",
+      "relationship": "similar",
+      "description": "Transformed victims of Yacuruna abduction are sometimes described as mermaid-like beings; structural parallel to European mermaid tradition"
+    }
+  ],
+  "cultural_notes": "The Yacuruna represent the powerful and dangerous spirit world of the river — a parallel society beneath the water that mirrors human settlement above. Encounters are almost always dangerous for ordinary people but can be harnessed by trained shamans. The transformation inflicted on abductees (backward orientation) is understood as a permanent reorientation toward the underwater world, making return to human society impossible without shamanic intervention.",
+  "sources": [
+    {
+      "id": "wikipedia-yacuruna",
+      "type": "website",
+      "title": "Yacuruna",
+      "url": "https://en.wikipedia.org/wiki/Yacuruna",
+      "accessed": "2026-05-08"
+    }
+  ],
+  "locations": []
 }

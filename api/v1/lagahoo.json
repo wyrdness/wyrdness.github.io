@@ -3,6 +3,7 @@
   "name": "Lagahoo",
   "category": "shapeshifter",
   "description": "The Lagahoo is a shapeshifting monster of Trinidad and Tobago folklore, drawn from French-Creole loup-garou and West African shapeshifter traditions, who appears at night as a headless man dragging a coffin and chains and can transform into many animals.",
+  "full_description": "The Lagahoo (also Lugarhou or Lagahou) is a shapeshifting creature in the folklore of Trinidad and Tobago, named from French loup-garou ('werewolf') and shaped also by West African shapeshifter traditions (e.g. ilimu, bouda) brought across the Atlantic with the enslaved African population. By day it lives as an ordinary man; at night it transforms into a headless man who carries a wooden coffin on its neck topped with three lit candles, dragging a heavy iron chain. It can change into a range of animals — horse, pig, goat, cat, dog, bull — and alter its size. It is described in some tellings as a blood-drinker that takes livestock. The traditional method of destroying a Lagahoo is to beat it with a stick anointed with holy water and holy oil for nine days, during which it changes through a sequence of animal forms before vanishing into a black mist.",
   "aliases": [
     {
       "name": "Lugarhou",
@@ -36,5 +37,84 @@
   "origin": "Trinidad and Tobago, especially rural Trinidad. The figure overlaps in tradition with French-Caribbean loup-garou belief on neighbouring islands.",
   "first_reported": "Pre-modern",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "From French loup-garou ('werewolf'), filtered through Trinidadian French-Creole pronunciation. The form 'Lagahoo' shows the typical Creole reduction of the French phrase. Additional African substrate is attributed to traditions such as the East African ilimu and other shapeshifter beliefs.",
+    "meaning": "Originally 'werewolf' in French; in Trinidad expanded to a more general shapeshifter / undead figure.",
+    "first_use": "Documented in 20th-century Trinidad and Tobago folklore collections; based on long-standing oral tradition."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0,
+    "date_range": {
+      "earliest": "pre-modern",
+      "latest": "2026"
+    }
+  },
+  "timeline": [
+    {
+      "date": "Pre-modern",
+      "event": "Lagahoo / Lugarhou tradition established in rural Trinidad",
+      "significance": "Cultural baseline; fusion of French and African folklore in the Caribbean",
+      "source": "Trinidadian oral tradition"
+    }
+  ],
+  "related": [
+    {
+      "id": "loup-garou",
+      "name": "Loup-garou",
+      "relationship": "superset",
+      "description": "French / French-Caribbean werewolf tradition from which the name derives"
+    },
+    {
+      "id": "soucouyant",
+      "name": "Soucouyant",
+      "relationship": "related",
+      "description": "Trinidadian female blood-drinking witch"
+    },
+    {
+      "id": "la-diablesse",
+      "name": "La Diablesse",
+      "relationship": "related",
+      "description": "Trinidadian female demoness"
+    },
+    {
+      "id": "papa-bois",
+      "name": "Papa Bois",
+      "relationship": "related",
+      "description": "Trinidadian forest spirit"
+    },
+    {
+      "id": "douen",
+      "name": "Douen",
+      "relationship": "related",
+      "description": "Trinidadian spirits of unbaptized children"
+    }
+  ],
+  "cultural_notes": "Treated as a cautionary night-time figure; the prescribed counter-ritual is to beat the creature with a stick anointed with holy water and holy oil for nine days.",
+  "sources": [
+    {
+      "id": "wikipedia-lagahoo",
+      "type": "website",
+      "title": "Lagahoo",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Lagahoo",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "peepal-lagahoo-poems",
+      "type": "book",
+      "title": "Lagahoo Poems",
+      "authors": [
+        "James Christopher Aboud"
+      ],
+      "publication": "Peepal Tree Press",
+      "date": "2003",
+      "url": "https://www.peepaltreepress.com/books/reviews/lagahoo-poems-0",
+      "accessed": "2026-05-07"
+    }
+  ],
+  "locations": []
 }

@@ -3,6 +3,7 @@
   "name": "Bakeneko",
   "category": "entity_spirit",
   "description": "A class of yōkai in Japanese folklore: a domestic cat that has developed supernatural powers — shape-shifting, human speech, control of the dead — usually after living to a great age, growing very large, or possessing a long tail. Distinct from but closely related to the two-tailed nekomata.",
+  "full_description": "Bakeneko (化け猫, 'changed cat' / 'monster cat') is a category of kaibyō (怪猫, supernatural cat) in Japanese folklore. According to widespread Edo-period belief, an ordinary cat might transform into a bakeneko on growing very old (commonly given as 7-13 years, with regional variation), reaching an unusual size, or developing a long tail. The bakeneko was credited with a wide repertoire of supernatural powers: shape-shifting into human form (often an elderly woman, sometimes the cat's own owner), walking upright on its hind legs, speaking human language, animating corpses, possessing humans, manipulating fire, and licking lamp-oil — a folk-belief that has plausible naturalistic roots in cats' attraction to fish-oil lamps. The most famous narrative is the Nabeshima no bakeneko sōdō ('Bakeneko Disturbance of Nabeshima'), set in 17th-century Saga (Hizen Province), in which a cat avenges its murdered mistress by tormenting the Nabeshima daimyō until killed by a loyal retainer. The story circulated in kōdan (oral storytelling), kabuki, and Edo kaidan-shū (collections of strange tales) including Mimibukuro and Kasshi Yawa. The bakeneko is closely related to the nekomata — the principal traditional distinction is that the nekomata has two tails while the bakeneko has only one. The bakeneko remains a recurring figure in modern Japanese popular culture, appearing in anime, manga, video games, and horror films.",
   "aliases": [
     {
       "name": "化け猫 / 化猫",
@@ -45,5 +46,134 @@
   "origin": "Pan-Japanese folklore figure; locally inflected by regional traditions, with the most famous narrative cluster centred on Saga (former Hizen Province), home of the Nabeshima bakeneko tradition.",
   "first_reported": "Edo period",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Japanese 化け (bake, from bakeru, 'to transform / become a ghost') + 猫 (neko, 'cat').",
+    "meaning": "'Transformed cat' or 'monster cat'.",
+    "first_use": "Established usage by the Edo period (1603-1868) in kaidan literature, kabuki, and ukiyo-e."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "Edo period (1603-1868)",
+      "event": "Bakeneko narratives proliferate in kaidan-shū, kabuki, rakugo, and ukiyo-e.",
+      "significance": "Period of canonical formation.",
+      "source": "Edo-period kaidan-shū and kabuki literature."
+    },
+    {
+      "date": "c. 1782-1814",
+      "event": "Negishi Yasumori compiles Mimibukuro (耳嚢), a kaidan-shū including bakeneko narratives.",
+      "significance": "Major Edo documentary record.",
+      "source": "Negishi Yasumori, Mimibukuro"
+    },
+    {
+      "date": "1821-1841",
+      "event": "Matsura Seizan compiles Kasshi Yawa (甲子夜話), a long miscellany including supernatural-cat anecdotes.",
+      "significance": "Further Edo documentary record.",
+      "source": "Matsura Seizan, Kasshi Yawa"
+    },
+    {
+      "date": "1853",
+      "event": "Kabuki adaptation 'Hana Sagano Nekomata Ishibumi' performed, contributing to the codification of the Saga bakeneko narrative on stage.",
+      "significance": "Theatrical canonisation.",
+      "source": "Edo kabuki playbills (1853)."
+    },
+    {
+      "date": "20th-21st century",
+      "event": "Mizuki Shigeru and modern yōkai-studies scholars synthesise the bakeneko tradition for popular audiences.",
+      "significance": "Modern scholarly and popular consolidation.",
+      "source": "Mizuki Shigeru's yōkai compendia; Komatsu Kazuhiko's academic work."
+    }
+  ],
+  "related": [
+    {
+      "id": "nekomata",
+      "name": "Nekomata",
+      "relationship": "regional_variant",
+      "description": "Two-tailed cat yōkai; closely related supernatural cat type."
+    },
+    {
+      "id": "kasha",
+      "name": "Kasha",
+      "relationship": "related",
+      "description": "Cat-shaped yōkai that steals corpses from funerals."
+    },
+    {
+      "id": "maneki-neko",
+      "name": "Maneki-neko",
+      "relationship": "related",
+      "description": "Beckoning-cat figure of Japanese folk belief — non-malevolent companion to bakeneko/nekomata in popular culture."
+    },
+    {
+      "id": "kitsune",
+      "name": "Kitsune",
+      "relationship": "similar",
+      "description": "Fox shapeshifter yōkai; a parallel domestic-animal supernatural figure."
+    },
+    {
+      "id": "tanuki",
+      "name": "Tanuki",
+      "relationship": "similar",
+      "description": "Raccoon-dog shapeshifter; another long-lived animal yōkai."
+    }
+  ],
+  "cultural_notes": "Domestic cats — especially long-tailed and long-lived ones — were widely treated with caution in Edo Japan. Wakes were guarded against cats believed capable of animating the dead, and tail-docking of kittens persisted in some regions to prevent transformation.",
+  "sources": [
+    {
+      "id": "wikipedia-bakeneko",
+      "type": "website",
+      "title": "Bakeneko — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Bakeneko",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "foster-2015-bakeneko",
+      "type": "book",
+      "title": "The Book of Yōkai: Mysterious Creatures of Japanese Folklore",
+      "authors": [
+        "Michael Dylan Foster"
+      ],
+      "publication": "University of California Press",
+      "date": "2015",
+      "isbn": "978-0520271029"
+    },
+    {
+      "id": "yoda-alt-2012-bakeneko",
+      "type": "book",
+      "title": "Yokai Attack! The Japanese Monster Survival Guide",
+      "authors": [
+        "Hiroko Yoda",
+        "Matt Alt"
+      ],
+      "publication": "Tuttle Publishing",
+      "date": "2012",
+      "isbn": "978-4805312193"
+    },
+    {
+      "id": "mimibukuro",
+      "type": "book",
+      "title": "Mimibukuro (耳嚢)",
+      "authors": [
+        "Negishi Yasumori"
+      ],
+      "publication": "Edo-period manuscript",
+      "date": "c. 1782-1814"
+    },
+    {
+      "id": "kasshi-yawa",
+      "type": "book",
+      "title": "Kasshi Yawa (甲子夜話)",
+      "authors": [
+        "Matsura Seizan"
+      ],
+      "publication": "Edo-period manuscript",
+      "date": "1821-1841"
+    }
+  ],
+  "locations": []
 }

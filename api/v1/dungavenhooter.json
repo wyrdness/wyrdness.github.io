@@ -3,6 +3,7 @@
   "name": "Dungavenhooter",
   "category": "cryptid",
   "description": "A fearsome critter of North American lumberjack folklore: a mouthless, alligator-like swamp creature that pounds its victims to vapor with its tail and inhales them through its enormous nostrils.",
+  "full_description": "The Dungavenhooter is a 'fearsome critter' from the lumber camps of the northeastern and Great Lakes United States. It is described as a large crocodylian beast with no mouth, instead possessing huge nostrils. From cover among brush, the Dungavenhooter ambushes lumberjacks — preferring those who have been drinking — and beats them into a vapour with its powerful tail before inhaling the resulting mist through its nose. The creature is recorded in Henry H. Tryon's 'Fearsome Critters' (1939), part of the small canon of published lumberwoods folklore that includes works by William T. Cox and Art Child.",
   "aliases": [
     {
       "name": "Dunganvenhooter",
@@ -28,5 +29,100 @@
   "origin": "Folkloric range across the swampy lumberwoods of the northeastern United States and the upper Great Lakes, broadly between Maine and Michigan as recorded in Tryon's 1939 catalogue.",
   "first_reported": "1939",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "American lumberjack camp slang of unknown precise derivation; not attested before the early 20th century.",
+    "meaning": "Folk-coined name without a documented gloss; sometimes glossed informally as a play on 'dungeon' / 'hooter'.",
+    "first_use": "Henry H. Tryon, 'Fearsome Critters' (Idlewild Press, 1939)"
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "1910-01-01",
+      "event": "William T. Cox publishes 'Fearsome Creatures of the Lumberwoods', the first major catalogue of American lumberjack cryptids; the Dungavenhooter is not included in this earliest edition",
+      "significance": "Genre baseline for fearsome-critter literature",
+      "source": "Cox, W. T. (1910)"
+    },
+    {
+      "date": "1939-01-01",
+      "event": "Henry H. Tryon publishes 'Fearsome Critters' (Idlewild Press, Cornwall, NY), introducing the Dungavenhooter to print",
+      "significance": "Earliest verified print attestation of the Dungavenhooter",
+      "source": "Tryon, H. H. (1939)"
+    }
+  ],
+  "related": [
+    {
+      "id": "hodag",
+      "name": "Hodag",
+      "relationship": "similar",
+      "description": "Wisconsin lumberwoods fearsome critter"
+    },
+    {
+      "id": "agropelter",
+      "name": "Agropelter",
+      "relationship": "similar",
+      "description": "Tree-dwelling fearsome critter that hurls branches at lumberjacks"
+    },
+    {
+      "id": "axehandle-hound",
+      "name": "Axehandle Hound",
+      "relationship": "similar",
+      "description": "Lumber-camp critter with a similarly absurd anatomy"
+    },
+    {
+      "id": "snallygaster",
+      "name": "Snallygaster",
+      "relationship": "similar",
+      "description": "Eastern American folkloric chimera"
+    },
+    {
+      "id": "fearsome-critters",
+      "name": "Fearsome Critters",
+      "relationship": "superset",
+      "description": "Genre of North American lumberjack folklore creatures"
+    }
+  ],
+  "cultural_notes": "Universally treated within the source tradition as a humorous tall tale; the 'belief' is performative, intended to entertain and to haze new arrivals to the camps.",
+  "sources": [
+    {
+      "id": "tryon-1939",
+      "type": "book",
+      "title": "Fearsome Critters",
+      "authors": [
+        "Henry H. Tryon"
+      ],
+      "publication": "Idlewild Press, Cornwall, NY",
+      "date": "1939"
+    },
+    {
+      "id": "cox-1910",
+      "type": "book",
+      "title": "Fearsome Creatures of the Lumberwoods, with a Few Desert and Mountain Beasts",
+      "authors": [
+        "William T. Cox"
+      ],
+      "publication": "Judd & Detweiler",
+      "date": "1910"
+    },
+    {
+      "id": "wikipedia-dungavenhooter",
+      "type": "website",
+      "title": "Dungavenhooter",
+      "url": "https://en.wikipedia.org/wiki/Dungavenhooter",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "wikipedia-fearsome-critters",
+      "type": "website",
+      "title": "Fearsome Critters",
+      "url": "https://en.wikipedia.org/wiki/Fearsome_critters",
+      "accessed": "2026-05-07"
+    }
+  ],
+  "locations": []
 }

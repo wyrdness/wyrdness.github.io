@@ -3,6 +3,7 @@
   "name": "Crystal Skulls",
   "category": "cultural_artifact",
   "description": "Quartz carvings shaped like human skulls long claimed to be pre-Columbian Mesoamerican artifacts. Modern museum analyses have shown the best-known examples are 19th-century European carvings made with rotary tools and abrasives unavailable to ancient craftspeople.",
+  "full_description": "Crystal skulls are human-skull-shaped carvings of clear or milky quartz that became prominent in late 19th-century antiquities markets and gained renewed attention through 20th-century esoteric and New Age circles. Promoters have variously attributed them to the Aztec, Maya, or 'Atlantean' civilizations and ascribed to them paranormal, healing, or telepathic properties. Detailed analyses by curators and scientists at the British Museum (Sax et al.), the Smithsonian Institution (Walsh, 2008), and the musée du quai Branly have identified tool marks consistent with 19th-century rotary cutting wheels and traces of synthetic abrasives such as carborundum (silicon carbide), which was first manufactured in 1893. Documentary research has traced several of the most famous skulls to the Paris-based dealer Eugène Boban (1834–1908). The current scholarly consensus is that no crystal skull in any major museum collection is a genuine pre-Columbian artifact; the most famous examples are 19th-century European carvings, likely produced in Germany or France, that entered Mesoamerican collections through dealers in the second half of the 19th century.",
   "aliases": [
     {
       "name": "Mitchell-Hedges Skull",
@@ -46,5 +47,163 @@
   "origin": "Major specimens are housed in museum and private collections in Europe and North America. Promotional folklore situates their origin in Mesoamerica, but documentary trails trace them to European antiquities markets.",
   "first_reported": "1881",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "English descriptive term; the objects were marketed in the late 19th and 20th centuries as 'rock crystal' or 'crystal' skulls.",
+    "meaning": "A skull-shaped carving in transparent or translucent quartz (rock crystal).",
+    "first_use": "Late 19th century in European antiquities catalogues; the term gained popular currency after the 1924 publicity around the Mitchell-Hedges skull and especially after the 1970s New Age revival."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0,
+    "date_range": {
+      "earliest": "1881",
+      "latest": "2026"
+    }
+  },
+  "timeline": [
+    {
+      "date": "1881",
+      "event": "Eugène Boban exhibits a crystal skull in his Paris shop catalogue",
+      "significance": "Earliest verifiable appearance of a major crystal skull in the European antiquities market",
+      "source": "Walsh, J. M. (2008), Smithsonian analysis"
+    },
+    {
+      "date": "1897",
+      "event": "British Museum acquires its skull from Tiffany & Co., New York",
+      "significance": "Entry into a major public collection",
+      "source": "British Museum object record Am1898,-.1"
+    },
+    {
+      "date": "1924",
+      "event": "Mitchell-Hedges skull purportedly discovered at Lubaantun, Belize, by Anna Mitchell-Hedges",
+      "significance": "Foundational story of the most famous individual skull; documentary records show F. A. Mitchell-Hedges purchased a skull at Sotheby's in 1943",
+      "source": "Nickell, J. (2007), Adventures in Paranormal Investigation"
+    },
+    {
+      "date": "1936",
+      "event": "G. M. Morant publishes the first scholarly comparison of the Mitchell-Hedges and British Museum skulls in the journal Man",
+      "significance": "First peer-reviewed engagement",
+      "source": "Morant, G. M. (1936), 'A Morphological Comparison of Two Crystal Skulls', Man 36"
+    },
+    {
+      "date": "1996",
+      "event": "British Museum analysis (Sax, Walsh, Freestone, Rankin, Meeks) identifies modern rotary tool marks",
+      "significance": "First detailed scanning electron microscopy demonstrating modern manufacture",
+      "source": "Sax et al. (2008), Journal of Archaeological Science"
+    },
+    {
+      "date": "2008",
+      "event": "Smithsonian (Jane MacLaren Walsh) publishes scanning electron microscopy and Raman spectroscopy of its skull, identifying silicon carbide abrasive",
+      "significance": "Confirms post-1893 manufacture of the Smithsonian skull",
+      "source": "Walsh, J. M. (2008), Archaeology magazine"
+    },
+    {
+      "date": "2008",
+      "event": "Sax et al. publish 'The origins of two purportedly pre-Columbian Mexican crystal skulls' in the Journal of Archaeological Science",
+      "significance": "Definitive peer-reviewed paper identifying the British Museum and Smithsonian skulls as 19th-century carvings",
+      "source": "Journal of Archaeological Science 35:2751-2760"
+    }
+  ],
+  "related": [
+    {
+      "id": "voynich-manuscript",
+      "name": "Voynich Manuscript",
+      "relationship": "related",
+      "description": "Another famous mysterious artifact whose claims of antiquity have been the subject of extensive scientific scrutiny"
+    },
+    {
+      "id": "piri-reis-map",
+      "name": "Piri Reis Map",
+      "relationship": "related",
+      "description": "A genuine artifact often cited in pseudo-archaeological claims"
+    },
+    {
+      "id": "antikythera-mechanism",
+      "name": "Antikythera Mechanism",
+      "relationship": "counterpart",
+      "description": "Contrast: a genuinely ancient artifact whose authenticity is rigorously established"
+    }
+  ],
+  "cultural_notes": "In contemporary New Age circles the skulls are believed to amplify intention, store information from past civilisations, and play a role in a coming planetary awakening; these beliefs are 20th-century in origin and not attested in indigenous Mesoamerican sources.",
+  "sources": [
+    {
+      "id": "sax-2008",
+      "type": "paper",
+      "title": "The origins of two purportedly pre-Columbian Mexican crystal skulls",
+      "authors": [
+        "Margaret Sax",
+        "Jane MacLaren Walsh",
+        "Ian C. Freestone",
+        "Andrew H. Rankin",
+        "Nigel D. Meeks"
+      ],
+      "publication": "Journal of Archaeological Science",
+      "date": "2008",
+      "doi": "10.1016/j.jas.2008.05.007"
+    },
+    {
+      "id": "walsh-2008",
+      "type": "article",
+      "title": "Legend of the Crystal Skulls",
+      "authors": [
+        "Jane MacLaren Walsh"
+      ],
+      "publication": "Archaeology (Archaeological Institute of America)",
+      "date": "2008",
+      "url": "https://archive.archaeology.org/0805/etc/indy.html",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "morant-1936",
+      "type": "paper",
+      "title": "A Morphological Comparison of Two Crystal Skulls",
+      "authors": [
+        "G. M. Morant"
+      ],
+      "publication": "Man (Royal Anthropological Institute)",
+      "date": "1936"
+    },
+    {
+      "id": "nickell-2007",
+      "type": "book",
+      "title": "Adventures in Paranormal Investigation",
+      "authors": [
+        "Joe Nickell"
+      ],
+      "publication": "University Press of Kentucky",
+      "date": "2007",
+      "isbn": "978-0813124674"
+    },
+    {
+      "id": "morton-thomas-1997",
+      "type": "book",
+      "title": "The Mystery of the Crystal Skulls",
+      "authors": [
+        "Chris Morton",
+        "Ceri Louise Thomas"
+      ],
+      "publication": "Thorsons",
+      "date": "1997",
+      "isbn": "978-0722535561"
+    },
+    {
+      "id": "british-museum-record",
+      "type": "website",
+      "title": "British Museum collection record Am1898,-.1 (rock crystal skull)",
+      "url": "https://www.britishmuseum.org/collection/object/E_Am1898--1",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "wikipedia-crystal-skull",
+      "type": "website",
+      "title": "Crystal skull",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Crystal_skull",
+      "accessed": "2026-05-07"
+    }
+  ],
+  "locations": []
 }

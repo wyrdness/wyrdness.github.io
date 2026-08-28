@@ -3,6 +3,7 @@
   "name": "Yama-no-kami",
   "category": "entity_spirit",
   "description": "A Shinto kami (divine spirit) of the mountains revered across Japan, who rules over mountains and forests in winter and descends to become Ta-no-kami (rice-field god) in spring. Worshipped by hunters, woodcutters, and farmers, Yama-no-kami is accompanied by strict taboos and is generally depicted as a female deity.",
+  "full_description": "Yama-no-kami (山の神, 'mountain kami') is one of the most widely worshipped nature deities in Japanese Shinto tradition and folk religion. The term functions both as a specific deity name and as a class of mountain kami found throughout Japan. Yama-no-kami is primarily considered a female deity — an older or mature divine woman — though regional traditions depict both female and male forms. The deity's most distinctive feature is seasonal transformation: in winter and autumn, Yama-no-kami presides over the mountains and forests, protecting those who enter respectfully (hunters, woodcutters, charcoal-burners). In spring, the deity descends from the mountain to the rice paddies, where it is honored as Ta-no-kami (田の神, rice-field god), governing agricultural fertility through the growing season. In autumn after the harvest, the deity returns to the mountain. This mountain-to-paddy migration encodes the Japanese agricultural cycle in divine terms and connects mountain forest ecology with wet-rice cultivation. Worship is associated with specific Kannabi (natural sacred areas, often mountains) which serve as the deity's Shintai (sacred physical body or dwelling place). Significant named examples include Ōyamatsumi (great mountain deity, father of the flower goddess Konohanasakuya-hime) and Oyamakui no Kami (god of Mount Hiei). Strict taboos govern interaction: violations can cause misfortune or death. Women are excluded from certain mountain sacred spaces in some regional traditions, reflecting Yama-no-kami's female nature and the danger of encountering a same-gendered deity.",
   "aliases": [
     {
       "name": "山の神",
@@ -46,5 +47,85 @@
   "origin": "Worshipped throughout Japan, with active shrines in all mountainous regions. The tradition is most prominent in rural agricultural and forestry communities. Cognate traditions extend across East Asia (Korea's Sansin, China's Shanshen, Vietnam's Son than).",
   "first_reported": "0712-01-01",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Japanese; Shinto religious tradition. The reading yama-no-kami is native Japanese (kun'yomi); the alternate reading yamagami uses the on'yomi of the same characters.",
+    "meaning": "Yama (山): mountain. No: possessive particle. Kami (神): divine spirit, deity, god. 'The kami of the mountain' or 'mountain god'.",
+    "first_use": "Documented in the Kojiki (712 CE) and Nihon Shoki (720 CE); active worship predates written records"
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "0712-01-01",
+      "event": "Kojiki compiled; documents Ōyamatsumi as a major mountain deity and father of Konohanasakuya-hime",
+      "significance": "Earliest written documentation of named Yama-no-kami",
+      "source": "Kojiki (712 CE)"
+    },
+    {
+      "date": "0720-01-01",
+      "event": "Nihon Shoki compiled; additional mountain kami accounts recorded",
+      "significance": "Second major textual source for Japanese mountain deity tradition",
+      "source": "Nihon Shoki (720 CE)"
+    }
+  ],
+  "related": [
+    {
+      "id": "ta-no-kami",
+      "name": "Ta-no-kami",
+      "relationship": "subset",
+      "description": "The rice-field form of the same deity; Yama-no-kami descends to become Ta-no-kami in spring and returns to the mountain in autumn"
+    },
+    {
+      "id": "oyamatsumi",
+      "name": "Ōyamatsumi",
+      "relationship": "subset",
+      "description": "The great mountain deity of Japanese mythology; the most prominent named Yama-no-kami in the Kojiki and Nihon Shoki"
+    },
+    {
+      "id": "sansin",
+      "name": "Sansin",
+      "relationship": "similar",
+      "description": "Korean mountain spirit tradition; East Asian cognate to Yama-no-kami, worshipped at mountain shrines throughout Korea"
+    },
+    {
+      "id": "shanshen",
+      "name": "Shanshen",
+      "relationship": "similar",
+      "description": "Chinese mountain god tradition; cognate deity in the East Asian mountain deity complex"
+    },
+    {
+      "id": "yama-uba",
+      "name": "Yama-uba",
+      "relationship": "related",
+      "description": "Ambiguous mountain hag yokai of Japanese folklore; shares the mountain setting and female characterization but is a distinct, morally dangerous figure rather than a worship deity"
+    }
+  ],
+  "cultural_notes": "Yama-no-kami is revered as the sovereign of the mountain domain. Those who enter the mountain (hunters, woodcutters, charcoal-burners) must seek the deity's blessing and observe strict taboos. The mountain itself is often understood as the deity's sacred body (Kannabi). The seasonal dual-identity as Ta-no-kami makes Yama-no-kami one of the most important deities of the Japanese agricultural cycle.",
+  "sources": [
+    {
+      "id": "wikipedia-yama-no-kami",
+      "type": "website",
+      "title": "Yama-no-kami",
+      "url": "https://en.wikipedia.org/wiki/Yama-no-kami",
+      "accessed": "2026-05-08"
+    },
+    {
+      "id": "kojiki-712",
+      "type": "archive",
+      "title": "Kojiki",
+      "date": "0712-01-01"
+    },
+    {
+      "id": "nihon-shoki-720",
+      "type": "archive",
+      "title": "Nihon Shoki",
+      "date": "0720-01-01"
+    }
+  ],
+  "locations": []
 }

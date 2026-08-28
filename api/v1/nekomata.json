@@ -3,6 +3,7 @@
   "name": "Nekomata",
   "category": "entity_spirit",
   "description": "A class of supernatural cat (yōkai) of Japanese folklore, distinguished by a forked tail and powers of necromancy and shapeshifting. Two principal subtypes are recognized: large mountain nekomata that prey on humans, and household cats that transform into nekomata with great age.",
+  "full_description": "The nekomata (猫また / 猫又) is a class of yōkai (supernatural creatures) in Japanese folklore, conceived as a transformed or supernaturally aged cat with a forked tail. Two principal subtypes are recognized: mountain nekomata (yama-neko-mata), which inhabit deep mountain regions of Japan and grow exceptionally large — described in some historical accounts as being 'as large as a wild boar' or about 2.8 m long — and domestic nekomata, ordinary house cats that transform with old age into yōkai. Both share the diagnostic forked tail and the power of necromancy: they are said to raise and control the dead with ritualistic dances, gesturing with paws and tails, to manipulate strange fires, and to take the form of human beings (typically elderly women) to spread gloom and malevolence. The nekomata is well-attested in classical Japanese literature: the earliest documented Japanese reference is in Fujiwara no Teika's diary Meigetsuki, where an entry of 1233 mentions a nekomata killing several people in Nara, and Yoshida Kenkō's Tsurezuregusa (c. 1331) describes mountain nekomata that eat humans. Edo-period collections (Tonoigusa, Sorori Monogatari, Yamato Kaiiki 1708, Taihei Hyakumonogatari 1723, Rōō Chabanashi 1742) elaborate the figure, and Toriyama Sekien depicts it in his Hyakkai Zukan (1737) and Gazu Hyakki Yagyō (1776). The nekomata is distinguished from the related bakeneko by having multiple tails and far greater malevolence; cultural associations with the nekomata gave rise to widespread Edo-period practices including tail-docking of household cats to prevent their eventual transformation.",
   "aliases": [
     {
       "name": "猫また / 猫又 / 猫股 / 猫胯",
@@ -33,5 +34,92 @@
   "origin": "The nekomata is a Japanese folkloric figure attested across the Japanese archipelago, with particular regional associations including Mount Nekomata (Nekomatayama) in Etchū Province (modern Toyama Prefecture).",
   "first_reported": "1233",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Compound of Japanese 猫 (neko, 'cat') with 'mata', conventionally read as 'forked' (and so 'forked tail'). Folklorists have suggested alternative readings, including 'repetition' (referring to age-related transformation) or references to monkeys or tree-dwelling creatures.",
+    "meaning": "Most commonly glossed as 'forked-tail cat'.",
+    "first_use": "Earliest recorded reference in Fujiwara no Teika's diary Meigetsuki (1233)."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "1233",
+      "event": "Fujiwara no Teika's Meigetsuki records a nekomata killing several people in Nara",
+      "significance": "Earliest documented Japanese reference to the nekomata",
+      "source": "Fujiwara no Teika, Meigetsuki"
+    },
+    {
+      "date": "1331",
+      "event": "Yoshida Kenkō's Tsurezuregusa describes mountain nekomata that eat humans",
+      "significance": "Major literary attestation in late Kamakura / early Muromachi period",
+      "source": "Yoshida Kenkō, Tsurezuregusa"
+    },
+    {
+      "date": "1708",
+      "event": "Yamato Kaiiki published, including nekomata accounts",
+      "significance": "Early-Edo elaboration of the figure",
+      "source": "Yamato Kaiiki (1708)"
+    },
+    {
+      "date": "1723",
+      "event": "Taihei Hyakumonogatari published, including nekomata stories",
+      "significance": "Edo-period kaidan compilation",
+      "source": "Taihei Hyakumonogatari (1723)"
+    },
+    {
+      "date": "1737",
+      "event": "Toriyama Sekien's Hyakkai Zukan published, with a nekomata illustration",
+      "significance": "Canonical Edo-period visual depiction",
+      "source": "Toriyama Sekien, Hyakkai Zukan (1737)"
+    },
+    {
+      "date": "1742",
+      "event": "Rōō Chabanashi published, including nekomata stories",
+      "significance": "Edo-period collection",
+      "source": "Rōō Chabanashi (1742)"
+    },
+    {
+      "date": "1776",
+      "event": "Toriyama Sekien's Gazu Hyakki Yagyō published, including a nekomata illustration",
+      "significance": "Influential illustrated yōkai compendium",
+      "source": "Toriyama Sekien, Gazu Hyakki Yagyō (1776)"
+    }
+  ],
+  "related": [
+    {
+      "id": "bakeneko",
+      "name": "Bakeneko",
+      "relationship": "similar",
+      "description": "Related Japanese cat-yōkai with a single tail and generally less malevolent disposition"
+    },
+    {
+      "id": "kasha",
+      "name": "Kasha",
+      "relationship": "similar",
+      "description": "Cat-like yōkai associated with stealing corpses"
+    },
+    {
+      "id": "xianli",
+      "name": "Xianli (仙狸)",
+      "relationship": "similar",
+      "description": "Chinese leopard-cat that gains divine power through age, sometimes connected by scholars to the nekomata tradition"
+    }
+  ],
+  "cultural_notes": "Folk practice of docking the tails of house cats to prevent their eventual transformation into nekomata; broader taboos against killing cats.",
+  "sources": [
+    {
+      "id": "wikipedia-nekomata",
+      "type": "website",
+      "title": "Nekomata",
+      "publication": "English Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Nekomata",
+      "accessed": "2026-05-07"
+    }
+  ],
+  "locations": []
 }

@@ -3,6 +3,7 @@
   "name": "Night Marchers",
   "category": "ghost_haunting",
   "description": "Spectral processions of ancient Hawaiian warriors said to march along ancient trails in the islands at night, escorting deceased aliʻi and dangerous to mortals who look upon them.",
+  "full_description": "In Hawaiian tradition the Night Marchers, or Huakaʻi pō ('procession of the night'), are the spirits of ancient Hawaiian warriors and their attendants, marching as the vanguard or escort of a sacred king, chief, or chiefess. They are also called ʻoiʻo, 'spirit ranks'. They are said to emerge from their burial sites or rise from the sea on nights honoring the gods Kāne, Kū, Lono, or Kanaloa, and to follow ancient trails between heiau (temples), villages, and battlefields — paths that often predate modern roads. Witnesses describe the marchers as warriors in battle dress carrying spears and clubs, sometimes accompanied by drums (pahu), conch shells (pū), chants, torches, and a foul, musky odor; their feet are said not to touch the ground. Tradition holds that any mortal who looks upon the marchers in defiance will die violently, but that lying motionless face-down, or being recognised by an ancestor in the procession who calls out 'Naʻu!' ('mine!'), affords protection. Planting kī (ti, Cordyline fruticosa) is said to keep the marchers away from a dwelling.",
   "aliases": [
     {
       "name": "Huakaʻi pō",
@@ -37,5 +38,55 @@
   "origin": "Reports are concentrated on the Hawaiian Islands, particularly along ancient trails, near heiau, and at recorded battlefields.",
   "first_reported": "Pre-contact",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Hawaiian",
+    "meaning": "Huakaʻi = 'procession, journey'; pō = 'night'; ʻoiʻo = 'spirit ranks'",
+    "first_use": "Pre-contact Hawaiian oral tradition"
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "Pre-contact",
+      "event": "Hawaiian oral tradition of Huakaʻi pō and ʻOiʻo predates European contact",
+      "significance": "Cultural baseline",
+      "source": "Hawaiian oral tradition"
+    }
+  ],
+  "related": [
+    {
+      "id": "wild-hunt",
+      "name": "The Wild Hunt",
+      "relationship": "similar",
+      "description": "European spectral procession of dead warriors and hunters"
+    }
+  ],
+  "cultural_notes": "Many Hawaiians treat the Huakaʻi pō as real and dangerous; building practices, plantings, and personal conduct continue to acknowledge them in some communities.",
+  "sources": [
+    {
+      "id": "wikipedia-nightmarchers",
+      "type": "website",
+      "title": "Nightmarchers",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Nightmarchers",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "kapanui-2023",
+      "type": "book",
+      "title": "Hawaii's Night Marchers: A History of the Huakaʻi Pō",
+      "authors": [
+        "Lopaka Kapanui",
+        "Tanya Kapanui",
+        "Alika Spahn Naihe"
+      ],
+      "date": "2023"
+    }
+  ],
+  "locations": []
 }

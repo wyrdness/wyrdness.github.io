@@ -3,6 +3,7 @@
   "name": "Lindworm",
   "category": "mythological_creature",
   "description": "A lindworm is a serpentine dragon of Germanic, Norse and Central European folklore — typically wingless, with two clawed forelimbs in continental traditions and entirely limbless in much Swedish lore. Unlike fire-breathing medieval dragons, lindworms emphasise venom, constriction, and treasure-hoarding.",
+  "full_description": "The lindworm (Old Norse linnormr 'ensnaring snake'; German Lindwurm; Middle High German lintrache, lintwurm) is a serpent-form dragon of Germanic, Norse and broader Central and Northern European folklore. Continental traditions (Germany, Austria, the Low Countries) typically depict the lindworm with a long, scaly serpentine body, a draconic head and two clawed forelimbs, often wingless and moving by slithering with its arms providing traction; in 19th-century English heraldic usage Charles Boutell glossed it as 'a dragon without wings'. Swedish folklore preserves a substantially different image: huge limbless forest serpents with dark backs, lighter undersides, sometimes a horse-like mane (manorm) or the ability to bite the tail and roll like a hoop (hjulorm), believed to hatch from eggs laid under the bark of linden trees and to spit a blinding milk-like venom. Famous lindworms include the dwarf Fáfnir, transformed into a draconic linnormr in the Volsung tradition; the Klagenfurt lindworm whose 16th-century fountain skull was modelled on a woolly-rhinoceros find (often cited as the earliest known palaeontological reconstruction); the legend of the lindworm of Worms; the British Lambton Worm; and the Scandinavian fairy tale 'Prince Lindworm' (ATU 433B). Folkloric beliefs included that whatever a lindworm lay upon (especially gold) would grow at its rate, and that shed lindworm skin enhanced knowledge of nature and medicine.",
   "aliases": [
     {
       "name": "Linnormr",
@@ -72,5 +73,139 @@
   "origin": "Lindworm folklore is concentrated in the Germanic-speaking and North European world: Scandinavia, the German-speaking lands, the Low Countries, and the British Isles, with regional offshoots reaching into Slavic and Baltic dragon imagery.",
   "first_reported": "Pre-modern",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "A Germanic compound: *linþia- ('flexible, soft') + *wurma- ('worm, serpent, dragon'). Cognates run through Old Norse linnormr, Old Swedish lindormber, Middle High German lintrache (later lintwurm), Middle Low German lintworm and Middle Dutch lindeworm.",
+    "meaning": "'Ensnaring serpent', 'flexible serpent' or 'lin-dragon'; in heraldry, conventionally a wingless dragon (Boutell) or a four-footed dragon (Gritzner).",
+    "first_use": "Attested in Old Norse and Middle High German sources; first English appearance lintworm in 1423."
+  },
+  "sightings_stats": {
+    "total_documented": 50,
+    "verified": 0,
+    "disputed": 50,
+    "debunked": 0,
+    "date_range": {
+      "earliest": "Pre-modern",
+      "latest": "1884"
+    }
+  },
+  "timeline": [
+    {
+      "date": "1200-01-01",
+      "event": "Middle High German lintrache attested in the Nibelungenlied tradition",
+      "significance": "Key medieval poetic attestation",
+      "source": "Wikipedia, Lindworm"
+    },
+    {
+      "date": "1280-01-01",
+      "event": "Þiðreks saga uses linnormr, the Old Norse form",
+      "significance": "Old Norse prose attestation",
+      "source": "Wikipedia, Lindworm"
+    },
+    {
+      "date": "1423-01-01",
+      "event": "First English appearance of lintworm",
+      "significance": "Spread of the term into English",
+      "source": "Wikipedia, Lindworm"
+    },
+    {
+      "date": "1593-01-01",
+      "event": "The Lindwurmbrunnen (Lindworm Fountain) is erected in Klagenfurt, Austria; its dragon skull is modelled on a woolly-rhinoceros find",
+      "significance": "Often cited as the earliest known palaeontological reconstruction of an extinct animal",
+      "source": "Wikipedia, Lindworm"
+    },
+    {
+      "date": "1876-01-01",
+      "event": "Jens Peter Jacobsen's novel Fru Marie Grubbe employs Scandinavian lindworm imagery",
+      "significance": "Lindworm in modern Danish literature",
+      "source": "Wikipedia, Lindworm"
+    },
+    {
+      "date": "1884-01-01",
+      "event": "Swedish folklorist Gunnar Olof Hyltén-Cavallius publishes a collection of roughly 50 lindworm eyewitness reports and offers a reward for a specimen",
+      "significance": "Late example of cryptozoological-style engagement with a folkloric dragon",
+      "source": "Wikipedia, Lindworm"
+    },
+    {
+      "date": "1897-01-01",
+      "event": "Henry Justice Ford's Pink Fairy Book illustrations include 'King Lindworm'",
+      "significance": "Popularises 'Prince Lindworm' (ATU 433B) in English",
+      "source": "Wikipedia, Lindworm"
+    }
+  ],
+  "related": [
+    {
+      "id": "wyrm",
+      "name": "Wyrm",
+      "relationship": "similar",
+      "description": "Old English term for serpent-dragons such as the dragon of Beowulf"
+    },
+    {
+      "id": "wyvern",
+      "name": "Wyvern",
+      "relationship": "similar",
+      "description": "British two-legged winged dragon often confused with the lindworm in heraldry"
+    },
+    {
+      "id": "tatzelwurm",
+      "name": "Tatzelwurm",
+      "relationship": "similar",
+      "description": "Alpine cryptid serpent with two clawed forelimbs"
+    },
+    {
+      "id": "knucker",
+      "name": "Knucker",
+      "relationship": "similar",
+      "description": "English water-dwelling dragon of Sussex tradition"
+    },
+    {
+      "id": "guivre",
+      "name": "Guivre / Vouivre",
+      "relationship": "similar",
+      "description": "French wingless serpentine dragon"
+    },
+    {
+      "id": "jormungandr",
+      "name": "Jörmungandr",
+      "relationship": "related",
+      "description": "Norse world-serpent; sometimes grouped with linnormr in Old Norse usage"
+    },
+    {
+      "id": "lambton-worm",
+      "name": "Lambton Worm",
+      "relationship": "regional_variant",
+      "description": "English lindworm-type legend from County Durham"
+    }
+  ],
+  "cultural_notes": "Pre-modern Scandinavian and Central European communities treated lindworms as real if rare creatures inhabiting forests, lakes and rocky uplands; eggs were said to be laid under linden bark, and a lindworm's hoard would grow as it slept on it.",
+  "sources": [
+    {
+      "id": "wikipedia-lindworm",
+      "type": "website",
+      "title": "Lindworm",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Lindworm",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "wikipedia-germanic-dragon",
+      "type": "website",
+      "title": "Germanic dragon",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Germanic_dragon",
+      "accessed": "2026-05-07"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Klagenfurt",
+      "lat": 46.6247,
+      "lng": 14.3055
+    },
+    {
+      "name": "Worms, Germany",
+      "lat": 49.63,
+      "lng": 8.36
+    }
+  ]
 }

@@ -3,6 +3,7 @@
   "name": "Tamamo-no-Mae",
   "category": "shapeshifter",
   "description": "A legendary Japanese nine-tailed fox spirit who, disguised as a beautiful court lady, infiltrated the Heian Imperial court and bewitched the Emperor before being exposed and slain on the Nasu plain.",
+  "full_description": "Tamamo-no-Mae is a legendary figure of late-medieval Japanese narrative, first appearing in Muromachi-period otogizōshi and elaborated through the Edo period. In the canonical legend she is a nine-tailed fox (kyūbi no kitsune) who, having previously corrupted Chinese and Indian rulers in earlier lives (often identified with the Shang concubine Daji and with 'Lady Kayō' of India), arrives in Japan and serves Emperor Konoe (or, in many later sources, Emperor Toba) as the courtesan Tamamo-no-Mae. She is so beautiful and erudite that the Emperor falls under her spell and falls gravely ill. The astrologer Abe no Yasuchika divines her true nature, and the warriors Kazusa-no-suke (Hirotsune) and Miura-no-suke (Yoshiaki) are dispatched to hunt her on the Nasu plain in Shimotsuke (modern Tochigi prefecture), where she is killed. Her vengeful spirit then enters a stone, the Sesshō-seki ('Killing Stone'), which emits poisonous vapours and kills any creature that approaches. The stone is finally exorcised by the Buddhist monk Gennō Shinshō, who shatters it into fragments. The Sesshō-seki at Nasu split visibly in two on March 5, 2022, an event widely reported in Japanese and international press. Some scholarship connects Tamamo-no-Mae to the historical Empress consort Bifukumon-in (Fujiwara no Nariko, 1117–1160).",
   "aliases": [
     {
       "name": "玉藻前",
@@ -38,5 +39,102 @@
   "origin": "The legend is centered in Japan, with the climactic events on the Nasu plain in modern Tochigi prefecture. Earlier 'lives' of the fox spirit are set in China (Shang court) and India.",
   "first_reported": "Muromachi period",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Japanese 玉藻 'tamamo' ('jeweled / beautiful seaweed-like duckweed') + 前 'mae' (a respectful title for a lady).",
+    "meaning": "Approximately 'Lady Duckweed' or 'Jeweled Maiden'.",
+    "first_use": "Muromachi period (1336–1573), in otogizōshi narrative literature."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "1156-01-01",
+      "event": "Reign of Emperor Toba ends; the historical period in which the legend later sets the events",
+      "significance": "Anchor for the historical-fiction frame",
+      "source": "Wikipedia, 'Tamamo-no-Mae'"
+    },
+    {
+      "date": "1450-01-01",
+      "event": "The Tamamo-no-Mae legend is in circulation in Muromachi-period otogizōshi prose",
+      "significance": "Earliest extant narrative form of the legend",
+      "source": "Wikipedia, 'Tamamo-no-Mae'"
+    },
+    {
+      "date": "1653-01-01",
+      "event": "Edo-period addendum introduces the Sesshō-seki ('Killing Stone') episode and the exorcism by the Buddhist monk Gennō Shinshō",
+      "significance": "Establishes the canonical post-mortem stone episode",
+      "source": "Wikipedia, 'Tamamo-no-Mae'"
+    },
+    {
+      "date": "2022-03-05",
+      "event": "The Sesshō-seki at Nasu Yumoto is found to have split in two",
+      "significance": "Widely reported as a 'release' of Tamamo-no-Mae's spirit; geologists attribute the splitting to natural cracking from rainwater penetration",
+      "source": "Asahi Shimbun and international press, March 2022"
+    }
+  ],
+  "related": [
+    {
+      "id": "kitsune",
+      "name": "Kitsune",
+      "relationship": "superset",
+      "description": "Tamamo-no-Mae is the most famous individual kitsune in Japanese folklore"
+    },
+    {
+      "id": "huli-jing",
+      "name": "Huli jing (Daji)",
+      "relationship": "counterpart",
+      "description": "Chinese nine-tailed fox tradition; the legend explicitly identifies Tamamo-no-Mae with Daji of the Shang"
+    },
+    {
+      "id": "gumiho",
+      "name": "Gumiho",
+      "relationship": "counterpart",
+      "description": "Korean nine-tailed fox tradition"
+    },
+    {
+      "id": "kuzunoha",
+      "name": "Kuzunoha",
+      "relationship": "related",
+      "description": "Another famous Japanese kitsune from the Abe no Seimei legend cycle"
+    }
+  ],
+  "cultural_notes": "Tamamo-no-Mae is a paradigmatic example of the dangers of foreign or supernatural influence at court and of the protective role of Buddhist clergy and court diviners. She also exemplifies the cross-cultural figure of the seductive fox spirit shared with China and Korea.",
+  "sources": [
+    {
+      "id": "wikipedia-tamamo-no-mae",
+      "type": "website",
+      "title": "Tamamo-no-Mae",
+      "publication": "English Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Tamamo-no-Mae",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "wikipedia-sessho-seki",
+      "type": "website",
+      "title": "Sesshō-seki",
+      "publication": "English Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sessh%C5%8D-seki",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "asahi-2022-sessho",
+      "type": "news",
+      "title": "'Killing Stone' said to contain evil spirit of nine-tailed fox splits in two",
+      "publication": "Asahi Shimbun",
+      "date": "2022-03",
+      "accessed": "2026-05-07"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Sesshō-seki ('Killing Stone'), Nasu Yumoto",
+      "lat": 37.1242,
+      "lng": 139.9669
+    }
+  ]
 }

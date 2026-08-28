@@ -3,6 +3,7 @@
   "name": "Orang Minyak",
   "category": "entity_spirit",
   "description": "A figure from Malay folklore and urban legend described as a naked man covered entirely in black oil who breaks into homes to assault women, associated with a 1950s–1970s moral panic in Malaysia and Singapore and depicted in multiple films.",
+  "full_description": "The Orang Minyak ('Oily Man' in Malay) is a supernatural figure from Malay folklore and urban legend who became the subject of widespread moral panic in Malaysia and Singapore, particularly from the late 1950s through the 1970s. He is described as a naked man covered entirely in dark, slippery oil — initially described as hair oil, with later versions depicting coconut oil mixed with soot, and film adaptations portraying crude oil. His oil coating makes him extraordinarily difficult to apprehend, enabling him to evade capture and climb walls with ease. According to legend, he breaks into homes at night to assault women, targeting virgins in some accounts. In some versions of the legend, the Orang Minyak is a cursed human or a warlock who has made a pact with supernatural forces, with his oily covering marking his diabolical compact. The legend's first documented appearance in modern media was a report in Singapore's Malay-language newspaper Berita Harian dated October 12, 1957. Sightings were reported in Malaysian villages through the 1960s and 1970s. A 2012 incident saw residents of Kampung Laksamana in Gombak, Selangor, report encounters near Pangsapuri Laksamana and Jalan Laksamana. The figure has been interpreted by scholars as reflecting gendered anxieties about sexual violence in mid-20th century Malaysia, and as a supernatural vehicle for real social fears. Writer Yogesh Tulsi interpreted crude oil depictions as representing 'horrific petromodernity' — the disruption of traditional ways of life by industrialization.",
   "aliases": [
     {
       "name": "Orang Minyak",
@@ -36,5 +37,84 @@
   "origin": "Reported from Malaysia and Singapore, with the legend originating in the Malay-speaking communities of both countries. Specific modern incident reports from Gombak, Selangor, Malaysia (2012).",
   "first_reported": "1957-10-12",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "From Malay orang (person, man) and minyak (oil). The name is a straightforward description of the creature's defining physical characteristic.",
+    "meaning": "Oily man",
+    "first_use": "1957 — first documented modern media reference in Berita Harian (Singapore), October 12, 1957"
+  },
+  "sightings_stats": {
+    "total_documented": 20,
+    "verified": 0,
+    "disputed": 18,
+    "debunked": 2,
+    "date_range": {
+      "earliest": "1957",
+      "latest": "2012"
+    }
+  },
+  "timeline": [
+    {
+      "date": "1957-10-12",
+      "event": "Berita Harian (Singapore) publishes the first documented modern media reference to the Orang Minyak",
+      "significance": "Establishes the documented origin of the modern legend",
+      "source": "Berita Harian (Singapore), 12 October 1957"
+    },
+    {
+      "date": "1958-01-01",
+      "event": "The film Orang Minyak (1958, dir. L. Krishnan) is produced, popularizing the legend",
+      "significance": "First major film adaptation; established the visual iconography of the Orang Minyak",
+      "source": "Orang Minyak (film, 1958)"
+    },
+    {
+      "date": "1958-02-01",
+      "event": "P. Ramlee directs Sumpah Orang Minyak (1958), the most famous Malay film treatment of the legend",
+      "significance": "Major cultural milestone; P. Ramlee was Malaysia's most celebrated filmmaker",
+      "source": "Sumpah Orang Minyak (film, 1958, dir. P. Ramlee)"
+    },
+    {
+      "date": "2012-01-01",
+      "event": "Residents of Kampung Laksamana, Gombak, Selangor report encounters with a figure matching the Orang Minyak description",
+      "significance": "Most recent documented incident report",
+      "source": "Media reports (2012)"
+    }
+  ],
+  "related": [
+    {
+      "id": "pontianak",
+      "name": "Pontianak",
+      "relationship": "related",
+      "description": "Malay vampire ghost; another major figure in Malay supernatural tradition"
+    },
+    {
+      "id": "penanggalan",
+      "name": "Penanggalan",
+      "relationship": "related",
+      "description": "Malay detached-head vampire; related Malay supernatural tradition"
+    }
+  ],
+  "cultural_notes": "In traditional Malay belief, the Orang Minyak exists at the intersection of the supernatural and criminal worlds — a human empowered by demonic compact, using black magic to assault the vulnerable. This framing places the creature within the broader Malay Islamic framework of supernatural evil.",
+  "sources": [
+    {
+      "id": "berita-harian-1957",
+      "type": "news",
+      "title": "First documented Orang Minyak report",
+      "publication": "Berita Harian (Singapore)",
+      "date": "1957-10-12"
+    },
+    {
+      "id": "wikipedia-orang-minyak",
+      "type": "website",
+      "title": "Orang Minyak",
+      "url": "https://en.wikipedia.org/wiki/Orang_Minyak",
+      "accessed": "2026-05-08"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Kampung Laksamana, Gombak, Selangor",
+      "lat": 3.25,
+      "lng": 101.7
+    }
+  ]
 }

@@ -3,6 +3,7 @@
   "name": "Werewolf",
   "category": "shapeshifter",
   "description": "A human capable of transforming into a wolf or wolf-human hybrid, featuring in the folklore and mythology of many cultures, with the most developed European tradition producing historical trials and executions between the 1500s and 1700s.",
+  "full_description": "The werewolf — from Old English wer(e)wulf, 'man-wolf' — is one of the most widely attested shapeshifter figures in world folklore, appearing across European, Slavic, Caucasian, and New World traditions. In medieval and early modern Europe, lycanthropy was treated as a genuine supernatural phenomenon subject to ecclesiastical and civil law. Trials for werewolfery peaked in late 16th- and early 17th-century France and the Holy Roman Empire, running parallel to the broader witch-trial era and resulting in numerous executions, the most notorious being that of Peter Stumpp in Cologne in 1589. Classical antiquity provides early documentary evidence: Herodotus recorded that the Neuri tribe allegedly transformed annually into wolves; Pausanias described King Lycaon's punishment by Zeus; Ovid's Metamorphoses and Petronius's Satyricon (c. AD 60) include transformation narratives. Medieval traditions elaborated the theme: Marie de France's lai Bisclavret (c. 1200) depicts a nobleman forced to transform weekly. Regional variations proliferated across Europe and beyond — Hungarian, Slavic, Armenian, Caribbean, and Amerindian traditions all feature human-to-animal transformation with distinct triggering mechanisms and moral frameworks. The modern cinematic stereotype — full-moon transformation, silver vulnerability, infectious bite — is largely a 20th-century invention, introduced through Universal Pictures' horror cycle (The Wolf Man, 1941; Frankenstein Meets the Wolf Man, 1943). Clinical lycanthropy, a rare psychiatric condition in which patients believe they have transformed into an animal, provides a medical parallel studied by modern psychiatry.",
   "aliases": [
     {
       "name": "Lycanthrope",
@@ -69,5 +70,122 @@
   "origin": "Werewolf traditions are documented across Europe (with especially dense legal and trial records in France, Germany, Switzerland, and the Low Countries), Slavic Europe, the Caucasus, and, through colonial transmission, the Americas (particularly French Canada, Louisiana, and Haiti).",
   "first_reported": "Pre-contact",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Old English wer(e)wulf, attested in glossaries and law codes; cognates in Middle Dutch weerwolf, Middle High German werwolf, West Frisian waer-ûl(e). The Greek form lycanthrope (lukánthrōpos) originally described a delusional psychiatric condition, not a supernatural being.",
+    "meaning": "Man-wolf: wer (Old English/Germanic for 'man') + wulf (wolf). The Slavic branch developed independently from vьlko-dlakь, meaning 'wolf-haired'.",
+    "first_use": "Old English (pre-Norman Conquest); found in Cnut the Great's law codes and ecclesiastical glossaries"
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "430-01-01",
+      "event": "Herodotus describes the Neuri people of Scythia as transforming annually into wolves, one of the earliest textual werewolf references",
+      "significance": "Classical anchor for the European werewolf tradition",
+      "source": "Herodotus, Histories"
+    },
+    {
+      "date": "0060-01-01",
+      "event": "Petronius's Satyricon includes an explicit werewolf transformation narrative",
+      "significance": "One of the most detailed Classical-era literary werewolf accounts",
+      "source": "Petronius, Satyricon, c. AD 60"
+    },
+    {
+      "date": "1200-01-01",
+      "event": "Marie de France composes the Breton lai Bisclavret, depicting a nobleman who transforms into a wolf weekly",
+      "significance": "Most sophisticated medieval literary treatment of werewolf transformation, emphasizing sympathy for the afflicted human",
+      "source": "Marie de France, Bisclavret, c. 1200"
+    },
+    {
+      "date": "1521-01-01",
+      "event": "Trial of Michel Verdun and Pierre Burgot in Poligny, France; both executed after confessing to transforming into wolves and killing children",
+      "significance": "One of the earliest major French werewolf trials",
+      "source": "Historical court records; documented in Sabine Baring-Gould, The Book of Werewolves (1865)"
+    },
+    {
+      "date": "1589-10-31",
+      "event": "Execution of Peter Stumpp ('Werewolf of Bedburg') in Cologne; convicted of serial murder, cannibalism, and werewolfery after confessing under torture to 25 years of killings",
+      "significance": "Most notorious European werewolf trial; generated a widely-circulated 1590 London pamphlet",
+      "source": "1590 London pamphlet (two copies extant: British Museum and Lambeth Library); rediscovered by Montague Summers, 1920"
+    },
+    {
+      "date": "1603-01-01",
+      "event": "Trial of Jean Grenier in Bordeaux, France; a teenager claiming to be a werewolf; court ruled him mentally ill rather than executing him",
+      "significance": "Transitional case: French legal system beginning to treat lycanthropy as delusion rather than genuine transformation",
+      "source": "Documented in historical records; referenced in Baring-Gould (1865)"
+    },
+    {
+      "date": "1941-01-01",
+      "event": "Universal Pictures releases The Wolf Man, starring Lon Chaney Jr.; introduces full-moon transformation as a cinematic convention",
+      "significance": "Foundational text of modern pop-cultural werewolf archetype; most cinematic conventions trace to this film and its 1943 sequel",
+      "source": "The Wolf Man (1941), Universal Pictures"
+    }
+  ],
+  "related": [
+    {
+      "id": "skin-walker",
+      "name": "Skinwalker",
+      "relationship": "similar",
+      "description": "Navajo witch figure capable of taking animal form, including wolf; conceptually parallel but culturally distinct"
+    },
+    {
+      "id": "rougarou",
+      "name": "Rougarou",
+      "relationship": "regional_variant",
+      "description": "Cajun/Louisiana Creole variant of loup-garou, blending French and indigenous traditions"
+    },
+    {
+      "id": "vukodlak",
+      "name": "Vukodlak",
+      "relationship": "regional_variant",
+      "description": "South Slavic wolf-demon tradition; sometimes overlaps with vampire lore"
+    },
+    {
+      "id": "clinical-lycanthropy",
+      "name": "Clinical Lycanthropy",
+      "relationship": "related",
+      "description": "Rare psychiatric syndrome in which patients believe they are transforming into an animal"
+    }
+  ],
+  "cultural_notes": "In medieval European belief, lycanthropy could result from Satanic pact, divine punishment, witchcraft, hereditary curse, or involuntary affliction. Cures ranged from wolfsbane and surgical interventions to Christian exorcism and addressing the werewolf by its Christian name. After 1650, educated European opinion increasingly pathologized lycanthropy as delusion rather than genuine supernatural transformation.",
+  "sources": [
+    {
+      "id": "wikipedia-werewolf",
+      "type": "website",
+      "title": "Werewolf",
+      "url": "https://en.wikipedia.org/wiki/Werewolf",
+      "accessed": "2026-05-08"
+    },
+    {
+      "id": "wikipedia-peter-stumpp",
+      "type": "website",
+      "title": "Peter Stumpp",
+      "url": "https://en.wikipedia.org/wiki/Peter_Stumpp",
+      "accessed": "2026-05-08"
+    },
+    {
+      "id": "baring-gould-1865",
+      "type": "book",
+      "title": "The Book of Werewolves",
+      "authors": [
+        "Sabine Baring-Gould"
+      ],
+      "publication": "Smith, Elder & Co.",
+      "date": "1865"
+    },
+    {
+      "id": "stumpp-pamphlet-1590",
+      "type": "archive",
+      "title": "A True Discourse. Declaring the Damnable Life and Death of One Stubbe Peeter (London pamphlet)",
+      "date": "1590",
+      "url": "https://en.wikipedia.org/wiki/Peter_Stumpp",
+      "accessed": "2026-05-08"
+    }
+  ],
+  "locations": []
 }

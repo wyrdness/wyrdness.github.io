@@ -3,6 +3,7 @@
   "name": "Michigan Dogman",
   "category": "cryptid",
   "description": "A bipedal, dog-headed humanoid cryptid reported primarily in the northwestern Lower Peninsula of Michigan, popularized by a 1987 radio prank song by disc jockey Steve Cook of WTCM-FM in Traverse City.",
+  "full_description": "The Michigan Dogman is a cryptid said to inhabit the forests of the northwestern Lower Peninsula of Michigan, particularly around Wexford, Manistee, and Cross Village. Witnesses describe a roughly seven-foot-tall bipedal creature with a man-like torso, fur, and the head of a dog or wolf, with blue or amber eyes and a vocalization sometimes likened to a human scream. The phenomenon entered popular awareness through 'The Legend', a song that disc jockey Steve Cook recorded as an April Fools' Day prank for WTCM-FM (Traverse City) in 1987. Cook has consistently described the song as fiction; nevertheless it generated more than a hundred reports from listeners and helped seed a regional folklore that was subsequently reinforced by media including MonsterQuest (2010) and the local feature film Dogman (2011). Investigative work by author Linda S. Godfrey, originally focused on Wisconsin's Beast of Bray Road, has since extended to Michigan and the wider Great Lakes region. Mainstream zoology does not recognize the Dogman; reports are typically attributed to misidentification, hoaxes, or the cultural transmission set in motion by Cook's song.",
   "aliases": [
     {
       "name": "Dogman",
@@ -32,5 +33,125 @@
   "origin": "Reports cluster in the northwestern Lower Peninsula of Michigan, particularly around the Manistee River and historically Odawa lands; occasional reports extend into other Great Lakes states.",
   "first_reported": "1887",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Modern English compound 'Dog-man'",
+    "meaning": "Bipedal humanoid with a dog or wolf-like head",
+    "first_use": "1987 (Steve Cook's song 'The Legend', WTCM-FM)"
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0,
+    "date_range": {
+      "earliest": "1887",
+      "latest": "2026"
+    }
+  },
+  "timeline": [
+    {
+      "date": "1887",
+      "event": "Two lumberjacks in Wexford County, Michigan, reportedly encounter a creature with a man's body and dog-like head",
+      "significance": "Most-cited early report",
+      "source": "Folkloric, repeated in later media coverage"
+    },
+    {
+      "date": "1937",
+      "event": "Robert Fortney, near Paris, Michigan, reports being attacked by five wild dogs, one walking upright",
+      "significance": "Often cited in mid-20th-century retellings",
+      "source": "Folkloric, repeated in later media coverage"
+    },
+    {
+      "date": "1987-04-01",
+      "event": "Disc jockey Steve Cook of WTCM-FM (Traverse City, Michigan) airs 'The Legend' as an April Fools' Day prank",
+      "significance": "Foundational moment of the modern phenomenon",
+      "source": "WTCM-FM / Steve Cook public statements"
+    },
+    {
+      "date": "1997",
+      "event": "Cook re-records 'The Legend' following further regional interest",
+      "significance": "Sustained the phenomenon into the late 1990s",
+      "source": "Steve Cook public statements"
+    },
+    {
+      "date": "2007",
+      "event": "Cook releases another version of 'The Legend' with mandolin backing",
+      "significance": "Reinforced the ten-years-ending-in-seven folklore",
+      "source": "Steve Cook public statements"
+    },
+    {
+      "date": "2010-03",
+      "event": "MonsterQuest airs an episode investigating the Michigan Dogman",
+      "significance": "Brought wider national attention",
+      "source": "MonsterQuest, History Channel"
+    },
+    {
+      "date": "2011",
+      "event": "The independent feature film Dogman, starring Larry Joe Campbell, premieres at the State Theater in Traverse City",
+      "significance": "Embedded the cryptid in regional pop culture",
+      "source": "Public premiere coverage"
+    },
+    {
+      "date": "2014-01",
+      "event": "Monsters and Mysteries in America airs 'Great Lakes: Wolfman, Dogman, Wendigo'",
+      "significance": "Continued media attention into the 2010s",
+      "source": "Destination America"
+    }
+  ],
+  "related": [
+    {
+      "id": "beast-of-bray-road",
+      "name": "Beast of Bray Road",
+      "relationship": "similar",
+      "description": "Wisconsin bipedal canine cryptid investigated by Linda Godfrey"
+    },
+    {
+      "id": "werewolves",
+      "name": "Werewolves",
+      "relationship": "similar",
+      "description": "European tradition of human-wolf shapeshifters"
+    },
+    {
+      "id": "loup-garou",
+      "name": "Loup-garou",
+      "relationship": "similar",
+      "description": "French and Cajun werewolf tradition"
+    },
+    {
+      "id": "wendigo",
+      "name": "Wendigo",
+      "relationship": "related",
+      "description": "Northern Algonquian forest entity sometimes conflated with Great Lakes cryptid reports"
+    }
+  ],
+  "cultural_notes": "Dogman folklore in Michigan is largely a late-20th-century invention amplified by regional radio and tourism, distinct from older Indigenous traditions about forest beings.",
+  "sources": [
+    {
+      "id": "wikipedia-michigan-dogman",
+      "type": "website",
+      "title": "Michigan Dogman",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Michigan_Dogman",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "godfrey-bray-road",
+      "type": "book",
+      "title": "The Beast of Bray Road: Tailing Wisconsin's Werewolf",
+      "authors": [
+        "Linda S. Godfrey"
+      ],
+      "publication": "Prairie Oak Press",
+      "date": "2003"
+    },
+    {
+      "id": "monsterquest-2010",
+      "type": "documentary",
+      "title": "MonsterQuest: America's Wolfman",
+      "publication": "History Channel",
+      "date": "2010"
+    }
+  ],
+  "locations": []
 }

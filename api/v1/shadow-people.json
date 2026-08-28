@@ -3,6 +3,7 @@
   "name": "Shadow People",
   "category": "urban_legend",
   "description": "Shadow people are perceived dark, human-shaped silhouettes — often glimpsed in peripheral vision, in bedrooms during sleep paralysis, or at thresholds — and frequently associated with feelings of dread. Modern folklore consolidates a recognisable 'Hat Man' variant. Mainstream research attributes the experience to sleep paralysis, hypnagogic hallucination, and pareidolia rather than to external entities.",
+  "full_description": "Shadow people are reported as animate human-shaped shadows, sometimes wearing distinctive features such as a wide-brimmed hat (the 'Hat Man'), and typically interpreted by witnesses as supernatural presences. The modern phenomenon is closely tied to the rise of late-night talk radio and online discussion: it was popularised on Art Bell's Coast to Coast AM, particularly in an April 2001 broadcast that solicited drawings from listeners, and elaborated in Heidi Hollis's 2001 book 'The Secret War: A True Story About a Real Alien War and Shadow People Are Real'. Witness accounts share strong structural features — a darker-than-shadow humanoid silhouette, lack of facial features, peripheral or threshold appearance, and an accompanying 'feeling of being watched' or dread — features which the medical and cognitive-science literature explains in terms of REM-sleep intrusion (sleep paralysis), hypnagogic and hypnopompic hallucinations, threat-detection bias in the visual periphery, and the well-documented effects of certain deliriant substances (notably high-dose diphenhydramine) and stimulant sleep-deprivation. A minority paranormal literature treats them as discrete classes of entity (interdimensional beings, demonic entities, or negative extraterrestrials). The 'Hat Man' image has become the most recognisable component of the modern Shadow People canon, with cross-cultural reports of remarkable consistency.",
   "aliases": [
     {
       "name": "Shadow person",
@@ -41,5 +42,115 @@
   "origin": "Reported worldwide. The modern internet-era reporting cluster is heavily English-language (United States, Canada, United Kingdom, Australia), but accounts have been collected from every inhabited continent. The phenomenon is a domestic-interior one; it is not concentrated in particular landscapes.",
   "first_reported": "Late 20th century (modern term)",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "English-language coinage of the late 20th century, popularised in late-night radio and Internet discussion in the 1990s–2000s.",
+    "meaning": "A 'shadow person' is a perceived dark humanoid figure with no clear material form; the term distinguishes the experience from ordinary ghost reports.",
+    "first_use": "Print and broadcast usage from the 1990s; widely popularised after Art Bell's 12 April 2001 Coast to Coast AM broadcast"
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0,
+    "date_range": {
+      "earliest": "1990s",
+      "latest": "2026"
+    }
+  },
+  "timeline": [
+    {
+      "date": "1981",
+      "event": "David J. Hufford publishes 'The Terror That Comes in the Night', the foundational ethnographic study of sleep-paralysis encounters",
+      "significance": "Establishes scientific framework later used to interpret Shadow People accounts",
+      "source": "Hufford (1981)"
+    },
+    {
+      "date": "2001-04-12",
+      "event": "Art Bell hosts a Coast to Coast AM broadcast in which a guest presenting as a Native American elder discusses Shadow People; listeners are invited to submit drawings",
+      "significance": "Major popularisation event in modern Shadow People folklore",
+      "source": "Coast to Coast AM (Premiere Networks)"
+    },
+    {
+      "date": "2001-10",
+      "event": "Heidi Hollis publishes 'The Secret War: A True Story About a Real Alien War and Shadow People Are Real'",
+      "significance": "First book-length popular treatment dedicated to Shadow People",
+      "source": "Hollis (2001)"
+    },
+    {
+      "date": "2014–2015",
+      "event": "Compiled studies link the 'Hat Man' image to high-dose diphenhydramine (Benadryl) use; the connection becomes widespread in popular discussion",
+      "significance": "Pharmacological dimension enters mainstream Shadow People discourse",
+      "source": "Popular and clinical reporting"
+    }
+  ],
+  "related": [
+    {
+      "id": "old-hag",
+      "name": "Old Hag (Newfoundland)",
+      "relationship": "similar",
+      "description": "Sleep-paralysis nightmare figure documented in Newfoundland tradition"
+    },
+    {
+      "id": "incubus-succubus",
+      "name": "Incubus / Succubus",
+      "relationship": "similar",
+      "description": "Historic European sleep-pressure entity tradition"
+    },
+    {
+      "id": "the-this-man",
+      "name": "This Man",
+      "relationship": "related",
+      "description": "Internet-era recurring-dream figure"
+    },
+    {
+      "id": "bedroom-visitor-experience",
+      "name": "Bedroom Visitor experience",
+      "relationship": "superset",
+      "description": "General class of REM-intrusion sleep-paralysis perceptions"
+    }
+  ],
+  "cultural_notes": "In paranormal subculture, Shadow People are commonly held to be malign and to be repelled by religious invocation; in mainstream culture they are recognised as a sleep-paralysis-related folkloric figure.",
+  "sources": [
+    {
+      "id": "wikipedia-shadow-person",
+      "type": "website",
+      "title": "Shadow person",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Shadow_person",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "hufford-1982",
+      "type": "book",
+      "title": "The Terror That Comes in the Night: An Experience-Centered Study of Supernatural Assault Traditions",
+      "authors": [
+        "David J. Hufford"
+      ],
+      "publication": "University of Pennsylvania Press",
+      "date": "1982",
+      "isbn": "978-0812211450"
+    },
+    {
+      "id": "hollis-2001",
+      "type": "book",
+      "title": "The Secret War: A True Story About a Real Alien War and Shadow People Are Real",
+      "authors": [
+        "Heidi Hollis"
+      ],
+      "publication": "1stBooks Library",
+      "date": "2001"
+    },
+    {
+      "id": "cheyne-2003",
+      "type": "paper",
+      "title": "Sleep paralysis and the structure of waking-nightmare hallucinations",
+      "authors": [
+        "J. Allan Cheyne"
+      ],
+      "publication": "Dreaming",
+      "date": "2003"
+    }
+  ],
+  "locations": []
 }

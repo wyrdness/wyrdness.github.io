@@ -3,6 +3,7 @@
   "name": "Agropelter",
   "category": "cryptid",
   "description": "The Agropelter is a fearsome critter of North American lumberjack folklore: a slender, ape-faced beast that lives in hollow trees and amuses itself by hurling dead branches at unwary woodsmen. It was first catalogued by William T. Cox in his 1910 book Fearsome Creatures of the Lumberwoods.",
+  "full_description": "The Agropelter belongs to the body of 'fearsome critters' — fantastical animals invented by 19th- and early-20th-century North American lumberjacks as part of bunkhouse storytelling. Its first published description is in William T. Cox's Fearsome Creatures of the Lumberwoods, With a Few Desert and Mountain Beasts (1910), where Cox gives it the mock-scientific name Anthrocephalus craniofractens and describes a slender, wiry, ape-faced beast inhabiting the hollow tops of dead conifer trees from Maine to Oregon. According to Cox the Agropelter resents intrusion into its forests and ambushes passing loggers by hurling dead branches with great speed and uncanny accuracy — a habit that earned it the nickname 'widow-maker', also applied generally to falling branches in logging slang. The same creature is reprised in Henry H. Tryon's Fearsome Critters (1939) and in later compendia of American folklore. No witnesses, photographs, or physical evidence exist; the Agropelter is a tall-tale creature of the logging camps, whose true documented life is in print rather than in the woods.",
   "aliases": [
     {
       "name": "Anthrocephalus craniofractens",
@@ -32,5 +33,88 @@
   "origin": "According to Cox, the Agropelter ranges through the conifer forests of North America from Maine in the east to Oregon in the west, mirroring the geography of the early-20th-century logging frontier.",
   "first_reported": "1910-01-01",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "American English logger slang, formalised in print by William T. Cox in 1910.",
+    "meaning": "A coinage built from 'agro-' (suggesting field or wild land) and 'pelter' (one who pelts or throws), describing the creature's signature behaviour of hurling branches.",
+    "first_use": "1910, in William T. Cox, Fearsome Creatures of the Lumberwoods"
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "1910-01-01",
+      "event": "William T. Cox publishes Fearsome Creatures of the Lumberwoods, With a Few Desert and Mountain Beasts (Judd & Detweiler, Washington, D.C.), including the Agropelter under the mock-scientific name Anthrocephalus craniofractens",
+      "significance": "First documented appearance of the Agropelter in print",
+      "source": "Cox (1910)"
+    },
+    {
+      "date": "1939-01-01",
+      "event": "Henry H. Tryon includes the Agropelter in Fearsome Critters (Idlewild Press, Cornwall, NY)",
+      "significance": "Cements the Agropelter's place in 20th-century fearsome-critters compendia",
+      "source": "Tryon (1939)"
+    }
+  ],
+  "related": [
+    {
+      "id": "hidebehind",
+      "name": "Hidebehind",
+      "relationship": "similar",
+      "description": "Another fearsome critter from logger folklore, said to hide behind trees and prey on lumberjacks"
+    },
+    {
+      "id": "sidehill-gouger",
+      "name": "Sidehill Gouger",
+      "relationship": "similar",
+      "description": "Mountain-dwelling fearsome critter with legs of unequal length"
+    },
+    {
+      "id": "splinter-cat",
+      "name": "Splinter Cat",
+      "relationship": "similar",
+      "description": "Fearsome critter said to splinter trees apart by ramming them"
+    },
+    {
+      "id": "snipe",
+      "name": "Snipe (folkloric)",
+      "relationship": "similar",
+      "description": "Camp prank-creature of North American folklore"
+    }
+  ],
+  "cultural_notes": "The Agropelter functions in folklore as a comic or cautionary embodiment of the lumberwoods' danger to outsiders.",
+  "sources": [
+    {
+      "id": "wikipedia-fearsome-critters",
+      "type": "website",
+      "title": "Fearsome critters",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Fearsome_critters",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "cox-1910",
+      "type": "book",
+      "title": "Fearsome Creatures of the Lumberwoods, With a Few Desert and Mountain Beasts",
+      "authors": [
+        "William T. Cox"
+      ],
+      "publication": "Judd & Detweiler, Inc., Washington, D.C.",
+      "date": "1910"
+    },
+    {
+      "id": "tryon-1939",
+      "type": "book",
+      "title": "Fearsome Critters",
+      "authors": [
+        "Henry H. Tryon"
+      ],
+      "publication": "Idlewild Press, Cornwall, NY",
+      "date": "1939"
+    }
+  ],
+  "locations": []
 }

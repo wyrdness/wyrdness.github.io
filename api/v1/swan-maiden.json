@@ -3,6 +3,7 @@
   "name": "Swan Maiden",
   "category": "mythological_creature",
   "description": "A widespread folktale motif in which a supernatural woman able to transform into a swan (or other bird) is captured by a man who steals her feather-cloak, forced into marriage, and eventually escapes when she recovers it.",
+  "full_description": "The 'Swan Maiden' is a comparative-folklore label for a recurring tale-type, classified in the Aarne–Thompson–Uther Index as ATU 400 ('The Man on a Quest for His Lost Wife'), in which a man spies a group of bird-maidens bathing in a lake or pool, steals one of their feather garments, and forces the disrobed maiden to marry him. After bearing children, the maiden recovers her cloak, transforms back into a bird, and departs; the husband then sets out to win her back. Variants of the tale span Scandinavia, the Celtic world, the Slavic and Turkic regions, Mongolia, Siberia, China, Japan, Korea, the Indian subcontinent, and Indigenous North America. Closely related motifs include the seal-skin selkie of the Scottish and Faroese north Atlantic, the apsara and Urvashi traditions of Indian literature, and the valkyries of Old Norse poetry. Folklorists from Jacob Grimm onward have treated the swan-maiden complex as a key data point for comparing motifs across Eurasian and circumpolar folklore.",
   "aliases": [
     {
       "name": "Schwanjungfrau",
@@ -46,5 +47,117 @@
   "origin": "The swan-maiden motif is one of the most widely distributed folktale types in Eurasia and adjacent regions, with attested variants from Western Europe through Siberia, East Asia, the Indian subcontinent, and into Indigenous North America.",
   "first_reported": "4th century CE",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "The English term 'swan-maiden' translates the German Schwanjungfrau used in 19th-century folkloristics; the underlying motif is far older, attested in 4th-century Chinese sources and in Old Norse poetry.",
+    "meaning": "A maiden whose 'real' form is a swan (or other waterfowl) and who relies on a feathered garment to switch between forms.",
+    "first_use": "Term in scholarly use from the 19th century; underlying motif attested at least to the 4th century CE in Chinese sources."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "0350-01-01",
+      "event": "A swan-maiden tale is included in the Chinese Sou shen ji (In Search of the Supernatural), conventionally dated to the 4th century CE",
+      "significance": "Earliest reliably datable extant version of the motif",
+      "source": "Sou shen ji; Wikipedia, 'Swan maiden'"
+    },
+    {
+      "date": "1270-01-01",
+      "event": "Völundarkviða preserved in the Codex Regius of the Poetic Edda; valkyries appear in swan-form to the smith Völundr and his brothers",
+      "significance": "Major Old Norse witness to the motif",
+      "source": "Codex Regius / Poetic Edda"
+    },
+    {
+      "date": "1812-01-01",
+      "event": "Jacob and Wilhelm Grimm publish their Kinder- und Hausmärchen, including swan-maiden-related tales such as 'The Drummer' (KHM 193, in later editions)",
+      "significance": "Anchors the motif within 19th-century comparative folklore",
+      "source": "Grimms' Kinder- und Hausmärchen"
+    },
+    {
+      "date": "1888-01-01",
+      "event": "Edwin Sidney Hartland publishes 'The Science of Fairy Tales', with an extended comparative chapter on the swan maiden",
+      "significance": "First major English-language comparative study of the motif",
+      "source": "Hartland, E. S., 'The Science of Fairy Tales' (1891)"
+    }
+  ],
+  "related": [
+    {
+      "id": "selkie",
+      "name": "Selkie",
+      "relationship": "counterpart",
+      "description": "Seal-skin counterpart of the swan-feather captive-bride motif in Scottish, Irish and Faroese folklore"
+    },
+    {
+      "id": "valkyrie",
+      "name": "Valkyrie",
+      "relationship": "related",
+      "description": "In Völundarkviða, valkyries appear in swan form, directly within the swan-maiden motif"
+    },
+    {
+      "id": "apsara",
+      "name": "Apsara",
+      "relationship": "similar",
+      "description": "Indian celestial maidens whose bath and recovered garment are central to the Urvashi–Pururavas tale"
+    },
+    {
+      "id": "kitsune",
+      "name": "Kitsune (Hagoromo)",
+      "relationship": "similar",
+      "description": "The Japanese hagoromo (feather robe) tale follows the same captive-bride pattern"
+    },
+    {
+      "id": "vila",
+      "name": "Vila",
+      "relationship": "similar",
+      "description": "Slavic forest/wind maidens that share elements of the captured-bride motif"
+    }
+  ],
+  "cultural_notes": "The tale is widely understood as a story about the precarious union of a mortal man with an otherworldly female being whose autonomy is signified by a removable garment.",
+  "sources": [
+    {
+      "id": "wikipedia-swan-maiden",
+      "type": "website",
+      "title": "Swan maiden",
+      "publication": "English Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Swan_maiden",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "hartland-1891",
+      "type": "book",
+      "title": "The Science of Fairy Tales: An Inquiry into Fairy Mythology",
+      "authors": [
+        "Edwin Sidney Hartland"
+      ],
+      "publication": "Walter Scott, London",
+      "date": "1891"
+    },
+    {
+      "id": "leavy-1994",
+      "type": "book",
+      "title": "In Search of the Swan Maiden: A Narrative on Folklore and Gender",
+      "authors": [
+        "Barbara Fass Leavy"
+      ],
+      "publication": "New York University Press",
+      "date": "1994",
+      "isbn": "978-0814750681"
+    },
+    {
+      "id": "uther-2004",
+      "type": "book",
+      "title": "The Types of International Folktales: A Classification and Bibliography (ATU)",
+      "authors": [
+        "Hans-Jörg Uther"
+      ],
+      "publication": "Suomalainen Tiedeakatemia (FF Communications)",
+      "date": "2004"
+    }
+  ],
+  "locations": []
 }

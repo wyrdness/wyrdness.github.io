@@ -3,6 +3,7 @@
   "name": "Langsuir",
   "category": "entity_spirit",
   "description": "The Langsuir is a female revenant of Malay folklore, the ghost of a woman who died in or shortly after childbirth, who flies as a beautiful long-haired woman or as a floating head trailing entrails and feeds on the blood of newborns through a hole in the back of her neck.",
+  "full_description": "The Langsuir (Malay: langsuyar) is a female revenant of Malay folklore and of related traditions in the Malay Archipelago. According to the canonical account in Walter William Skeat's 'Malay Magic' (1900), the Langsuir originated as a woman of dazzling beauty who died from the shock of hearing that her child was stillborn; she clapped her hands and 'flew whinnying away to a tree'. She is described in two main forms: a beautiful woman with long black hair reaching to her ankles, and a floating woman's head from which entrails and a spinal column hang. She possesses unusually long fingernails and arms reaching to her feet, and is dressed in green robes. She preys on newborns, preferring male infants, drinking their blood through a hole in the back of her neck. The Langsuir is closely related to but distinct from the Pontianak — the ghost of a child who died at or before birth — and to the Penanggalan, the Malay detached-head female vampire. Belief in the Langsuir is documented in the wider Malay world (Malaysia, Indonesia, Singapore, Brunei, parts of southern Thailand and the southern Philippines).",
   "aliases": [
     {
       "name": "Langsuyar",
@@ -39,5 +40,100 @@
   "origin": "Belief in the Langsuir is found throughout the Malay world: peninsular Malaysia, Indonesia, Singapore, Brunei, parts of southern Thailand and the southern Philippines.",
   "first_reported": "1900",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Wikipedia and Skeat (1900) trace the name to the Malay word for eagle, helang, reflecting the spirit's flying attribute and its association with shrieking, bird-like cries.",
+    "meaning": "Linked to 'eagle' (helang) in Skeat's etymology.",
+    "first_use": "Recorded in published English-language ethnography in W. W. Skeat, 'Malay Magic' (Macmillan, 1900); embedded in much older Malay oral tradition."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0,
+    "date_range": {
+      "earliest": "pre-modern",
+      "latest": "2013"
+    }
+  },
+  "timeline": [
+    {
+      "date": "Pre-modern",
+      "event": "Langsuir tradition established in Malay folk belief",
+      "significance": "Cultural baseline",
+      "source": "Malay oral tradition"
+    },
+    {
+      "date": "1900",
+      "event": "Walter William Skeat publishes 'Malay Magic' (Macmillan), giving the canonical English-language description and origin myth of the Langsuir",
+      "significance": "Foundational ethnographic source",
+      "source": "Skeat (1900), 'Malay Magic'"
+    },
+    {
+      "date": "2013",
+      "event": "Reported sightings of a 'flying long-haired banshee' in Kelantan, Malaysia, widely covered in Malaysian press; local shamans claim to have captured four creatures",
+      "significance": "Notable modern Malaysian Langsuir panic",
+      "source": "Wikipedia: Langsuyar"
+    }
+  ],
+  "related": [
+    {
+      "id": "pontianak",
+      "name": "Pontianak",
+      "relationship": "related",
+      "description": "Malay female revenant — the ghost of a child who died at or before birth, distinct from the Langsuir"
+    },
+    {
+      "id": "penanggalan",
+      "name": "Penanggalan",
+      "relationship": "similar",
+      "description": "Malay detached-head female vampire"
+    },
+    {
+      "id": "krasue",
+      "name": "Krasue",
+      "relationship": "similar",
+      "description": "Thai cognate detached-head female spirit"
+    },
+    {
+      "id": "leyak",
+      "name": "Leyak",
+      "relationship": "similar",
+      "description": "Balinese detached-head female witch"
+    },
+    {
+      "id": "manananggal",
+      "name": "Manananggal",
+      "relationship": "similar",
+      "description": "Philippine winged self-segmenting female vampire"
+    },
+    {
+      "id": "kuntilanak",
+      "name": "Kuntilanak",
+      "relationship": "similar",
+      "description": "Indonesian female ghost with overlapping Pontianak/Langsuir features"
+    }
+  ],
+  "cultural_notes": "Prevention practices for the corpse of a woman who died pregnant or in childbirth: glass beads placed in the mouth (so she cannot shriek), an egg placed under each armpit (so she cannot wave her arms), and needles in the palms (so she cannot open and close her hands to fly). Leaves of the gandasuli plant are used as protective charms.",
+  "sources": [
+    {
+      "id": "wikipedia-langsuyar",
+      "type": "website",
+      "title": "Langsuyar",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Langsuyar",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "skeat-1900",
+      "type": "book",
+      "title": "Malay Magic: An Introduction to the Folklore and Popular Religion of the Malay Peninsula",
+      "authors": [
+        "Walter William Skeat"
+      ],
+      "publication": "Macmillan",
+      "date": "1900"
+    }
+  ],
+  "locations": []
 }

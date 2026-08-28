@@ -3,6 +3,7 @@
   "name": "Flatwoods Monster",
   "category": "ufo_uap",
   "description": "The Flatwoods Monster is a 10-foot-tall, spade-headed entity allegedly encountered by a group of seven witnesses in Flatwoods, West Virginia, on the night of 12 September 1952, in connection with a fireball that crossed the eastern United States.",
+  "full_description": "The Flatwoods Monster, also called the Braxton County Monster, is one of the most famous American UFO-related entity encounters of the 1950s. On the evening of 12 September 1952, a brilliant meteor was widely observed crossing the skies of Pennsylvania, Maryland, Ohio, and West Virginia. Around 7:15 PM, three boys in Flatwoods, West Virginia (Edward May, Fred May, and Tommy Hyer) saw what they took to be the object descending toward the property of farmer G. Bailey Fisher. Joined by Kathleen May (Edward and Fred's mother), 17-year-old West Virginia National Guardsman Eugene 'Gene' Lemon, and Neil Nunley and Ronnie Shaver, the group climbed Fisher's hill with a flashlight and Lemon's dog. Near the top they reported a pulsating glow, a foul mist that made them nauseous, and, in the beam of their light, a creature roughly 10 feet tall with a 'blood-red' face, glowing greenish-orange eyes, a spade-shaped head behind a black cowl, and clawed hands or appendages. The figure hissed, glided toward them, and the witnesses fled. The story was investigated locally by Sheriff Robert Carr, picked up by Charleston journalists, and given national circulation by Gray Barker in Fate magazine (January 1953) and by the early UFO community. The most-cited skeptical explanation, advanced in detail by Joe Nickell of the Committee for Skeptical Inquiry in 2000, identifies the entity as a barn owl perched in an oak tree, with the cowl and 'body' an artefact of the foliage and the witnesses' panic; the 'UFO' is widely accepted as a meteor that night, with a possible aircraft beacon contributing the pulsing red light. The case remains a foundational episode of West Virginia high-strangeness folklore and is now embodied in the Flatwoods Monster Museum in Sutton (opened 2018) and a series of giant monster-shaped chairs along the 'Braxxie Trail'.",
   "aliases": [
     {
       "name": "Braxton County Monster",
@@ -37,5 +38,156 @@
   "origin": "A single localized incident in central West Virginia. Subsequent regional folklore and tourism are concentrated in Braxton County and the town of Sutton.",
   "first_reported": "1952-09-12",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Named for the unincorporated community of Flatwoods in Braxton County, West Virginia, where the encounter occurred. 'Braxton County Monster' was the alternative name used in the early West Virginia press.",
+    "meaning": "A locative cryptid name; 'Flatwoods' is the name of the village where the witnesses lived.",
+    "first_use": "September 1952 in West Virginia regional press; 'Flatwoods Monster' became the standard name through the 1950s UFO literature."
+  },
+  "sightings_stats": {
+    "total_documented": 1,
+    "verified": 0,
+    "disputed": 1,
+    "debunked": 0,
+    "date_range": {
+      "earliest": "1952-09-12",
+      "latest": "1952-09-12"
+    }
+  },
+  "timeline": [
+    {
+      "date": "1952-09-12",
+      "event": "At c. 7:15 PM, a group of seven witnesses (Kathleen May, Edward May, Fred May, Tommy Hyer, Eugene Lemon, Neil Nunley, Ronnie Shaver) climb Fisher's hill in Flatwoods, WV and report encountering a 10-foot spade-headed entity by a glowing object",
+      "significance": "Primary incident",
+      "source": "Braxton Democrat (Sutton, WV), September 1952"
+    },
+    {
+      "date": "1952-09-13",
+      "event": "Sheriff Robert Carr, A. Lee Stewart Jr. of the Braxton Democrat, and others investigate the site, finding flattened grass, an oily substance, and an odor",
+      "significance": "First on-site investigation",
+      "source": "Stewart, A. L., Braxton Democrat (1952)"
+    },
+    {
+      "date": "1952-09-19",
+      "event": "Kathleen May and Eugene Lemon appear on the CBS television programme We the People, hosted by Dan Seymour",
+      "significance": "First national television exposure of the case",
+      "source": "We the People, CBS Television (1952)"
+    },
+    {
+      "date": "1953-01-01",
+      "event": "Gray Barker publishes 'The Monster and the Saucer' in Fate magazine (January 1953)",
+      "significance": "Foundational national-magazine treatment",
+      "source": "Barker, G., Fate, January 1953"
+    },
+    {
+      "date": "1956-01-01",
+      "event": "Gray Barker expands the case in They Knew Too Much About Flying Saucers",
+      "significance": "Anchors the case in 1950s UFO literature",
+      "source": "Barker, G. (1956)"
+    },
+    {
+      "date": "2000-10-01",
+      "event": "Joe Nickell publishes a detailed skeptical investigation in Skeptical Inquirer identifying the entity as a barn owl in foliage",
+      "significance": "Standard skeptical reference for the case",
+      "source": "Nickell, J. (2000), Skeptical Inquirer 24:6"
+    },
+    {
+      "date": "2018-09-01",
+      "event": "Flatwoods Monster Museum opens in Sutton, West Virginia, run by the Braxton County Convention and Visitors Bureau",
+      "significance": "Civic/tourism reception",
+      "source": "Braxton County CVB"
+    }
+  ],
+  "related": [
+    {
+      "id": "mothman",
+      "name": "Mothman",
+      "relationship": "regional_variant",
+      "description": "Other major West Virginia high-strangeness cryptid (Point Pleasant, 1966–67)"
+    },
+    {
+      "id": "hopkinsville-goblins",
+      "name": "Hopkinsville Goblins",
+      "relationship": "similar",
+      "description": "1955 Kentucky entity / saucer encounter often paired with Flatwoods"
+    },
+    {
+      "id": "kelly-cahill-encounter",
+      "name": "Kelly–Cahill encounter",
+      "relationship": "similar",
+      "description": "1993 Australian close encounter with humanoid entities"
+    }
+  ],
+  "cultural_notes": "Locally treated as a defining piece of Braxton County identity, regardless of the believer/skeptic split, and curated through the Flatwoods Monster Museum and the Braxxie Trail.",
+  "sources": [
+    {
+      "id": "barker-1956",
+      "type": "book",
+      "title": "They Knew Too Much About Flying Saucers",
+      "authors": [
+        "Gray Barker"
+      ],
+      "publication": "University Books",
+      "date": "1956"
+    },
+    {
+      "id": "feschino-2004",
+      "type": "book",
+      "title": "The Braxton County Monster: The Cover-up of the Flatwoods Monster Revealed",
+      "authors": [
+        "Frank C. Feschino Jr."
+      ],
+      "publication": "Quarrier Press",
+      "date": "2004",
+      "isbn": "978-1891852442"
+    },
+    {
+      "id": "nickell-2000",
+      "type": "article",
+      "title": "The Flatwoods UFO Monster",
+      "authors": [
+        "Joe Nickell"
+      ],
+      "publication": "Skeptical Inquirer 24:6",
+      "date": "2000-11"
+    },
+    {
+      "id": "barker-1953",
+      "type": "article",
+      "title": "The Monster and the Saucer",
+      "authors": [
+        "Gray Barker"
+      ],
+      "publication": "Fate magazine",
+      "date": "1953-01"
+    },
+    {
+      "id": "wikipedia-flatwoods-monster",
+      "type": "website",
+      "title": "Flatwoods Monster",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Flatwoods_monster",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "flatwoods-museum",
+      "type": "website",
+      "title": "Flatwoods Monster Museum",
+      "publication": "Braxton County Convention and Visitors Bureau",
+      "url": "https://flatwoodsmonster.com/",
+      "accessed": "2026-05-07"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Fisher Farm hill, Flatwoods",
+      "lat": 38.7212,
+      "lng": -80.652
+    },
+    {
+      "name": "Flatwoods Monster Museum, Sutton",
+      "lat": 38.6701,
+      "lng": -80.7028
+    }
+  ]
 }

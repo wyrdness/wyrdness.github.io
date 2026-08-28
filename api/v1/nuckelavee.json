@@ -3,6 +3,7 @@
   "name": "Nuckelavee",
   "category": "entity_spirit",
   "description": "A skinless horse-and-rider demon of Orkney folklore, described as the most malevolent being in Orcadian tradition. Blamed for droughts, epidemics, and mortasheen, and repelled by fresh water.",
+  "full_description": "The Nuckelavee is a horse-like sea demon of Orcadian (Orkney) folklore in northern Scotland, described by 19th-century folklorist Walter Traill Dennison and called by 20th-century folklorist Katharine Briggs 'the nastiest' demon in Scotland's Northern Isles. It is described as a fleshless centaur-like monster: a horse's body with finned legs and a single burning red eye, ridden — or fused at the back — by a human-shaped torso with arms long enough to reach the ground and a head reportedly up to 3 feet (about 90 cm) wide, lolling on the shoulders. Black blood is visible coursing through yellow veins beneath the bare muscle. Its breath is a toxic vapour said to wilt crops, sicken livestock, cause epidemics (the disease mortasheen, now identified with glanders), and bring drought. The Nuckelavee cannot abide fresh, flowing water and can be escaped by crossing a stream. Only the Mither o' the Sea, an ancient Orcadian sea-spirit, can bind the Nuckelavee, and is said to do so during the summer months. Dennison's account is built around the testimony of an Orkney islander named Tammas (Tammie), who escaped by splashing the demon with loch water and crossing a freshwater channel.",
   "aliases": [
     {
       "name": "Knoggelvi",
@@ -28,5 +29,88 @@
   "origin": "Orkney Islands, off the north coast of Scotland.",
   "first_reported": "Pre-modern",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Orcadian Scots / Norn substrate",
+    "meaning": "Per Walter Traill Dennison, derived from Orcadian knoggelvi, 'Devil of the Sea'; possibly also influenced by 'Old Nick' and Latin necare ('to kill')",
+    "first_use": "Orcadian oral tradition; recorded in print by Walter Traill Dennison in the late 19th century"
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "1722-01-01",
+      "event": "Seaweed-burning (kelp industry) begins on Stronsay; Orcadian tradition holds the Nuckelavee retaliated against this practice with epidemics on horses (mortasheen / glanders)",
+      "significance": "Anchors a specific historical referent in Nuckelavee tradition",
+      "source": "Wikipedia, 'Nuckelavee'"
+    },
+    {
+      "date": "1891-01-01",
+      "event": "Walter Traill Dennison publishes The Orcadian Sketch-Book (and earlier articles) documenting Orcadian folklore, including the Nuckelavee",
+      "significance": "Brings the Nuckelavee into the printed folklore record",
+      "source": "Dennison, W. T., The Orcadian Sketch-Book (1880)"
+    },
+    {
+      "date": "1959-01-01",
+      "event": "Ernest Marwick documents Orcadian folklore including the Nuckelavee",
+      "significance": "Major 20th-century compilation of Orkney supernatural traditions",
+      "source": "Marwick, E. (1975), The Folklore of Orkney and Shetland"
+    }
+  ],
+  "related": [
+    {
+      "id": "kelpie",
+      "name": "Kelpie",
+      "relationship": "related",
+      "description": "Scottish water-horse spirit; possibly a Celtic-mythology contributor to the Nuckelavee"
+    },
+    {
+      "id": "each-uisge",
+      "name": "Each-uisge",
+      "relationship": "related",
+      "description": "Highland water-horse"
+    },
+    {
+      "id": "mither-o-the-sea",
+      "name": "Mither o' the Sea",
+      "relationship": "counterpart",
+      "description": "Orcadian summer sea-spirit who binds the Nuckelavee; opposed in Orcadian tradition by the winter spirit Teran"
+    }
+  ],
+  "cultural_notes": "Islanders considered the Nuckelavee so dangerous that they would not speak its name without immediately saying a prayer.",
+  "sources": [
+    {
+      "id": "wikipedia-nuckelavee",
+      "type": "website",
+      "title": "Nuckelavee",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Nuckelavee",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "marwick-1975",
+      "type": "book",
+      "title": "The Folklore of Orkney and Shetland",
+      "authors": [
+        "Ernest Marwick"
+      ],
+      "publication": "B.T. Batsford",
+      "date": "1975"
+    },
+    {
+      "id": "briggs-1976",
+      "type": "book",
+      "title": "A Dictionary of Fairies",
+      "authors": [
+        "Katharine Briggs"
+      ],
+      "publication": "Allen Lane",
+      "date": "1976"
+    }
+  ],
+  "locations": []
 }

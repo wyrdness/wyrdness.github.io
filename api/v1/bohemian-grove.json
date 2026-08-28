@@ -3,6 +3,7 @@
   "name": "Bohemian Grove",
   "category": "conspiracy_theory",
   "description": "Bohemian Grove is a 2,700-acre (1,100 ha) campground near Monte Rio, California, owned by the private Bohemian Club, which hosts an annual two-week summer encampment attended by political, business, and cultural elites and is the focus of long-running conspiracy theories.",
+  "full_description": "Bohemian Grove is a 2,700-acre (1,100 ha) redwood retreat owned by the San Francisco-based Bohemian Club at 20601 Bohemian Avenue, Monte Rio, Sonoma County, California. The Bohemian Club was founded in 1872; the summer encampment tradition dates to 1878, when fewer than 100 members gathered at a redwood site to honor departing actor Henry Edwards. The club has rented the current site since 1893 and purchased it in 1899 from Melvin Cyrus Meeker. Each July, members and guests — restricted to men — convene for two weeks of theatrical productions ('Grove Plays'), 'Lakeside Talks' lectures, fireside camps, and informal networking. The encampment opens with the 'Cremation of Care', a torchlit allegorical performance staged before a 30-foot concrete owl shrine designed by sculptor Haig Patigian (constructed in the late 1920s) in which a humanoid effigy representing 'Dull Care' is symbolically burned. Bohemian Grove has been documented as a venue for genuinely consequential meetings — most notably a September 1942 Manhattan Project planning session attended by Ernest Lawrence and J. Robert Oppenheimer, and a July 1950 introduction between Dwight Eisenhower and Richard Nixon — but conspiracy theorists, most prominently Alex Jones in his 2000 hidden-camera infiltration, have characterized the Cremation of Care as occult or sacrificial. Mainstream journalists, sociologists, and infiltrating reporters such as Philip Weiss (1989, Spy magazine) have generally described the rituals as theatrical and the Grove as a study in elite male sociology rather than a site of literal occult practice.",
   "aliases": [
     {
       "name": "The Grove",
@@ -32,5 +33,151 @@
   "origin": "A single fixed property near Monte Rio, Sonoma County, California, in the redwood country of the Russian River.",
   "first_reported": "1878",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Named after the Bohemian Club of San Francisco, founded in 1872 by journalists, artists, and musicians who styled themselves 'Bohemians'. The encampment grounds are sited in a coastal redwood grove, hence 'Bohemian Grove'.",
+    "meaning": "'Bohemian' here refers to the 19th-century artistic/literary self-identification, not to Bohemia in central Europe.",
+    "first_use": "1878 (first encampment); the term 'Bohemian Grove' for the current site dates from the club's lease beginning in 1893."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0,
+    "date_range": {
+      "earliest": "1878",
+      "latest": "2026"
+    }
+  },
+  "timeline": [
+    {
+      "date": "1872",
+      "event": "Bohemian Club founded in San Francisco by a group of journalists and artists",
+      "significance": "Origin of the parent organization",
+      "source": "Bohemian Club historical records"
+    },
+    {
+      "date": "1878",
+      "event": "First summer encampment, fewer than 100 members, honoring departing actor Henry Edwards",
+      "significance": "Beginning of the Bohemian Grove tradition",
+      "source": "Bohemian Club records"
+    },
+    {
+      "date": "1881",
+      "event": "First 'Cremation of Care' ceremony performed",
+      "significance": "Founding of the Grove's signature opening ritual",
+      "source": "Bohemian Club records"
+    },
+    {
+      "date": "1893",
+      "event": "Club begins renting the current Monte Rio site",
+      "significance": "The Grove acquires its present geographic identity",
+      "source": "Bohemian Club records"
+    },
+    {
+      "date": "1899",
+      "event": "Club purchases the property from Melvin Cyrus Meeker",
+      "significance": "Permanent ownership of the redwood grove",
+      "source": "Bohemian Club records"
+    },
+    {
+      "date": "1913",
+      "event": "'Cremation of Care' separated from other Grove Plays as its own opening ritual",
+      "significance": "Formalizes the modern ceremonial structure",
+      "source": "Bohemian Club records"
+    },
+    {
+      "date": "1942-09",
+      "event": "Manhattan Project planning meeting at the Grove involving Ernest Lawrence and J. Robert Oppenheimer",
+      "significance": "Documented case of consequential government work conducted at the Grove",
+      "source": "Manhattan Project historical record"
+    },
+    {
+      "date": "1950-07",
+      "event": "First meeting between Dwight Eisenhower and Richard Nixon at the Grove",
+      "significance": "Frequently cited example of political networking at the Grove",
+      "source": "Eisenhower / Nixon biographical record"
+    },
+    {
+      "date": "1989-11",
+      "event": "Reporter Philip Weiss publishes 'Inside Bohemian Grove' in Spy magazine after infiltrating the encampment",
+      "significance": "First detailed mainstream-press infiltration account",
+      "source": "Spy magazine, November 1989"
+    },
+    {
+      "date": "2000-07-15",
+      "event": "Alex Jones and Mike Hanson covertly film the Cremation of Care ceremony",
+      "significance": "Catalyst for modern conspiracy-theory framing of the Grove",
+      "source": "Infowars/Alex Jones, 'Dark Secrets: Inside Bohemian Grove' (2000)"
+    }
+  ],
+  "related": [
+    {
+      "id": "bilderberg-group",
+      "name": "Bilderberg Group",
+      "relationship": "similar",
+      "description": "Annual private conference of political, financial, and media elites, also frequent target of conspiracy theory"
+    },
+    {
+      "id": "skull-and-bones",
+      "name": "Skull and Bones",
+      "relationship": "similar",
+      "description": "Yale University secret society subject to comparable conspiracy claims"
+    },
+    {
+      "id": "illuminati",
+      "name": "Illuminati",
+      "relationship": "related",
+      "description": "Conspiracy framing often links Bohemian Grove to a generalized 'Illuminati'"
+    }
+  ],
+  "cultural_notes": "Conspiracy traditions hold that policy is decided in informal Grove conversations and ratified through occult ceremony; mainstream observers hold that the Grove functions as elite social infrastructure rather than as a decision-making body.",
+  "sources": [
+    {
+      "id": "wikipedia-bohemian-grove",
+      "type": "website",
+      "title": "Bohemian Grove",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Bohemian_Grove",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "domhoff-1974",
+      "type": "book",
+      "title": "The Bohemian Grove and Other Retreats: A Study in Ruling-Class Cohesiveness",
+      "authors": [
+        "G. William Domhoff"
+      ],
+      "publication": "Harper & Row",
+      "date": "1974",
+      "isbn": "978-0061360855"
+    },
+    {
+      "id": "weiss-1989",
+      "type": "article",
+      "title": "Inside Bohemian Grove",
+      "authors": [
+        "Philip Weiss"
+      ],
+      "publication": "Spy magazine",
+      "date": "1989-11"
+    },
+    {
+      "id": "jones-2000",
+      "type": "documentary",
+      "title": "Dark Secrets: Inside Bohemian Grove",
+      "authors": [
+        "Alex Jones"
+      ],
+      "publication": "Infowars",
+      "date": "2000"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Bohemian Grove",
+      "lat": 38.4681,
+      "lng": -123.0028
+    }
+  ]
 }

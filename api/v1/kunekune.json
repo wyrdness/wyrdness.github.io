@@ -3,6 +3,7 @@
   "name": "Kunekune",
   "category": "urban_legend",
   "description": "Kunekune is an internet-born Japanese urban legend describing a slender, white humanoid figure said to appear at midday in summer rice fields, writhing in the wind. Looking at it closely is said to drive the observer insane.",
+  "full_description": "Kunekune (くねくね, 'wiggling') is an internet-born Japanese urban legend that emerged on the message-board site 2channel in 2001. The figure is described as a slender, white, humanoid shape resembling a paper mannequin or a piece of fine fabric, observed at lunchtime on hot summer days in widely extended rice fields and, more rarely, over the open sea. Its limbs writhe constantly, as if there were a steady wind, even when the air is still. The Kunekune is said to be safe when observed only from a distance; according to the legend, a viewer who tries to make out its features close-up will go insane, and in some variants anyone who actually approaches or touches it will die. The story originated in a short first-person 'eyewitness' horror text posted on 2channel in 2001 and was elaborated in the same template by other users; mundane explanations have included scarecrows, plastic 'wick drains' used in agriculture, and heat-stroke or dehydration hallucinations.",
   "aliases": [
     {
       "name": "くねくね",
@@ -32,5 +33,74 @@
   "origin": "A Japanese internet-born legend; locations are narrative rather than mapped, but the canonical setting is the rural Japanese rice paddy.",
   "first_reported": "2001",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Japanese onomatopoeia くねくね (kunekune), describing a wiggling or writhing motion.",
+    "meaning": "'Wiggling' or 'writhing'; named for the figure's reported limb movements.",
+    "first_use": "First documented use as the name of the entity in a 2channel post in 2001."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0,
+    "date_range": {
+      "earliest": "2001",
+      "latest": "2026"
+    }
+  },
+  "timeline": [
+    {
+      "date": "2001-01-01",
+      "event": "First Kunekune story posted on 2channel, describing a sibling sighting in a rural rice field",
+      "significance": "Origin of the Kunekune urban legend",
+      "source": "Wikipedia: Kunekune (urban legend)"
+    },
+    {
+      "date": "2001-06-01",
+      "event": "Spread of derivative 'eyewitness' Kunekune accounts on 2channel through summer 2001",
+      "significance": "Establishment of the 2channel-style memetic template",
+      "source": "Wikipedia: Kunekune (urban legend)"
+    }
+  ],
+  "related": [
+    {
+      "id": "slender-man",
+      "name": "Slender Man",
+      "relationship": "similar",
+      "description": "American internet-born tall thin humanoid creepypasta"
+    },
+    {
+      "id": "hanako-san",
+      "name": "Hanako-san",
+      "relationship": "related",
+      "description": "Japanese schoolyard urban legend"
+    },
+    {
+      "id": "hachishakusama",
+      "name": "Hachishakusama",
+      "relationship": "similar",
+      "description": "Japanese internet-born tall woman urban legend"
+    }
+  ],
+  "cultural_notes": "Not a live folk-religious belief; treated as a horror-narrative tradition. The Kunekune is, however, sometimes invoked as a cautionary 'do not look closely' story to children in rural Japan.",
+  "sources": [
+    {
+      "id": "wikipedia-kunekune",
+      "type": "website",
+      "title": "Kunekune (urban legend)",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Kunekune_(urban_legend)",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "wikipedia-japanese-urban-legends",
+      "type": "website",
+      "title": "Japanese urban legends",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Japanese_urban_legends",
+      "accessed": "2026-05-07"
+    }
+  ],
+  "locations": []
 }

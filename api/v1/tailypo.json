@@ -3,6 +3,7 @@
   "name": "Tailypo",
   "category": "cryptid",
   "description": "An Appalachian folktale creature, dog- or cat-like with a long tail, that returns night after night to a hunter who cut off and ate its tail, demanding its return and ultimately killing him.",
+  "full_description": "The Tailypo is a creature of North American folklore, particularly Appalachian and Southern oral tradition. In the standard tale, an isolated hunter or hermit shoots an unfamiliar animal in his cabin and severs its long tail, which he then cooks and eats. That night, and on subsequent nights, the creature returns to scratch at the cabin and call (variously) 'Tailypo, tailypo, all I want is my tailypo' or 'Who's got my tailypo?' The hunter's three hounds (often named in regional variants 'Uno, Ino, and Cumptico-Calico') drive the creature off on the first nights but are killed or scattered one by one, until on the final night the creature breaks into the cabin and kills the hunter. The Tailypo itself is described as roughly dog-sized, dark-furred, with yellow or red eyes, pointed bobcat-like ears, and a long thin tail; despite an animal appearance, it speaks plainly. Folklorists treat the Tailypo as a cautionary story about isolation, theft, and disrespect for wild creatures rather than as a cryptozoological claim.",
   "aliases": [
     {
       "name": "Taily-po",
@@ -29,5 +30,61 @@
   "origin": "Folktale concentrated in the Appalachian region and the broader American South. The tale also appears, with variations, in African-American Southern oral tradition and in 20th-century children's-literature retellings.",
   "first_reported": "Late 19th–early 20th century",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Appalachian English; the name imitates the creature's repeated call 'tailypo' for its severed tail. Spellings vary widely (Tailypo, Tailipoe, Taily-po) reflecting oral transmission.",
+    "meaning": "An onomatopoeic / dialect form of 'tail' used in the creature's refrain.",
+    "first_use": "Oral tradition; the tale is widely cited in 20th-century Appalachian and African-American folktale collections."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "1977-01-01",
+      "event": "Joanna Galdone publishes the picture-book retelling 'The Tailypo: A Ghost Story' (illustrated by Paul Galdone)",
+      "significance": "Introduces the tale to a wide American children's-literature audience and stabilizes a canonical version",
+      "source": "Galdone, J. (1977), The Tailypo: A Ghost Story (Clarion Books)"
+    }
+  ],
+  "related": [
+    {
+      "id": "wampus-cat",
+      "name": "Wampus Cat",
+      "relationship": "similar",
+      "description": "Other Appalachian / Southern feline cryptid of cabin-and-forest folklore"
+    },
+    {
+      "id": "fearsome-critters",
+      "name": "Fearsome Critters",
+      "relationship": "related",
+      "description": "North American lumberjack tall-tale tradition that overlaps Appalachian creature lore"
+    }
+  ],
+  "cultural_notes": "The Tailypo is not generally treated as a real animal, but as a frightening cautionary tale used in cabin and campfire storytelling, in which violation of an unfamiliar creature's body brings disproportionate retribution.",
+  "sources": [
+    {
+      "id": "wikipedia-tailypo",
+      "type": "website",
+      "title": "Tailypo",
+      "publication": "English Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Tailypo",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "galdone-1977",
+      "type": "book",
+      "title": "The Tailypo: A Ghost Story",
+      "authors": [
+        "Joanna Galdone"
+      ],
+      "publication": "Clarion Books",
+      "date": "1977",
+      "isbn": "978-0395299555"
+    }
+  ],
+  "locations": []
 }

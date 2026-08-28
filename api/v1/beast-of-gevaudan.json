@@ -3,6 +3,7 @@
   "name": "Beast of Gévaudan",
   "category": "cryptid",
   "description": "An animal or animals that killed roughly 100 people, mostly women and children, in the former French province of Gévaudan between 1764 and 1767. The historical case generated nationwide panic, royal hunts, and centuries of debate over its zoological identity.",
+  "full_description": "The Beast of Gévaudan (La Bête du Gévaudan) is the historical name given to a man-eating animal — or more likely a series of large canids — that terrorized the former French province of Gévaudan, in the Margeride Mountains of south-central France, between 1764 and 1767. Contemporary accounts describe a tawny, wolf-like creature larger than a wolf, with a long tufted tail and dark dorsal stripe, that targeted the head and neck of solitary herders, mostly women and children. Estimates vary; a 1987 quantitative study counted 210 attacks resulting in 113 deaths and 49 injuries, with 98 of the victims partly eaten. The case escalated into a national crisis under King Louis XV, who dispatched first the Norman wolf-hunter Jean-Charles-Marc-Antoine Vaumesle d'Enneval and then his own gun-bearer François Antoine. Antoine killed a large wolf at the Chazes Abbey on 21 September 1765, but attacks resumed in December. The killings finally ended after local hunter Jean Chastel shot a creature on 19 June 1767 during a hunt organized by the Marquis d'Apcher. Modern scholars overwhelmingly favour wolves (single, multiple, or wolf-dog hybrids) as the explanation.",
   "aliases": [
     {
       "name": "La Bête du Gévaudan",
@@ -38,5 +39,130 @@
   "origin": "Former French province of Gévaudan in the Margeride Mountains of south-central France, corresponding mainly to the modern department of Lozère and parts of Haute-Loire.",
   "first_reported": "1764-06-01",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "French. Gévaudan was the historical pre-revolutionary province corresponding largely to modern Lozère and parts of Haute-Loire.",
+    "meaning": "'The Beast of Gévaudan' — the unnamed man-eating animal of that province.",
+    "first_use": "Contemporary 1764–1767 French press, especially the Courrier d'Avignon and the Gazette de France"
+  },
+  "sightings_stats": {
+    "total_documented": 210,
+    "verified": 113,
+    "disputed": 0,
+    "debunked": 0,
+    "date_range": {
+      "earliest": "1764-06",
+      "latest": "1767-06-19"
+    }
+  },
+  "timeline": [
+    {
+      "date": "1764-06-01",
+      "event": "First reported encounter: a young cowherd in the Mercoire Forest near Langogne is attacked by a beast 'like a wolf, yet not a wolf', driven off by her cattle",
+      "significance": "Beginning of the case",
+      "source": "Smith, J. M. (2011), Monsters of the Gévaudan"
+    },
+    {
+      "date": "1764-06-30",
+      "event": "Jeanne Boulet, age 14, is killed near Les Hubacs (commune of Saint-Étienne-de-Lugdarès) — first officially recorded victim",
+      "significance": "First documented fatality",
+      "source": "Parish register, Saint-Étienne-de-Lugdarès"
+    },
+    {
+      "date": "1765-09-21",
+      "event": "François Antoine, the king's gunbearer, kills a very large wolf at the Chazes Abbey; the corpse is sent to Versailles",
+      "significance": "Royal hunt's apparent success; attacks briefly subside",
+      "source": "Courrier d'Avignon, October 1765"
+    },
+    {
+      "date": "1765-12-01",
+      "event": "Attacks resume in December 1765 in southern Gévaudan",
+      "significance": "Demonstrates that the original beast was not the killed wolf, or that multiple animals were involved",
+      "source": "Smith, J. M. (2011), Monsters of the Gévaudan"
+    },
+    {
+      "date": "1767-06-19",
+      "event": "Jean Chastel kills a large canid during a hunt organized by the Marquis d'Apcher near La Sogne d'Auvers; attacks cease",
+      "significance": "End of the case",
+      "source": "Marin Report (autopsy by surgeon Antoine Boulanger / Marin)"
+    }
+  ],
+  "related": [
+    {
+      "id": "wolves-of-paris",
+      "name": "Wolves of Paris",
+      "relationship": "similar",
+      "description": "1450 wolf attacks in and around Paris"
+    },
+    {
+      "id": "beast-of-cevennes",
+      "name": "Beast of the Cévennes",
+      "relationship": "similar",
+      "description": "Other 18th–19th-century French man-eating canid cases"
+    },
+    {
+      "id": "champawat-tiger",
+      "name": "Champawat Tiger",
+      "relationship": "similar",
+      "description": "Notable historical man-eating predator"
+    }
+  ],
+  "cultural_notes": "In contemporary Gévaudan villages, the Beast was variously understood as a very large wolf, a divine punishment, or a werewolf. Today it is a centerpiece of regional identity and tourism.",
+  "sources": [
+    {
+      "id": "wiki-gevaudan",
+      "type": "website",
+      "title": "Beast of Gévaudan",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Beast_of_G%C3%A9vaudan",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "smith-2011",
+      "type": "book",
+      "title": "Monsters of the Gévaudan: The Making of a Beast",
+      "authors": [
+        "Jay M. Smith"
+      ],
+      "publication": "Harvard University Press",
+      "date": "2011",
+      "isbn": "978-0674047167"
+    },
+    {
+      "id": "history-com-gevaudan",
+      "type": "article",
+      "title": "What Was the Beast of Gévaudan?",
+      "publication": "History.com",
+      "url": "https://www.history.com/articles/beast-gevaudan-france-theories",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "smithsonian-gevaudan",
+      "type": "article",
+      "title": "When the Beast of Gévaudan Terrorized France",
+      "publication": "Smithsonian Magazine",
+      "url": "https://www.smithsonianmag.com/history/beast-gevaudan-terrorized-france-countryside-180963820/",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "natgeo-gevaudan",
+      "type": "article",
+      "title": "Did a 'werewolf' really terrorize France in the 1700s?",
+      "publication": "National Geographic",
+      "url": "https://www.nationalgeographic.com/history/history-magazine/article/did-a-werewolf-really-terrorize-france-in-the-1700s",
+      "accessed": "2026-05-07"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Mercoire Forest near Langogne",
+      "lat": 44.7281,
+      "lng": 3.8597
+    },
+    {
+      "name": "Mont Mouchet / La Sogne d'Auvers",
+      "lat": 44.85,
+      "lng": 3.5
+    }
+  ]
 }

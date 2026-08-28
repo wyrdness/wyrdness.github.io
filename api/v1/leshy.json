@@ -3,6 +3,7 @@
   "name": "Leshy",
   "category": "entity_spirit",
   "description": "A male woodland spirit from Slavic folklore who serves as supernatural guardian and ruler of the forest, capable of changing size and shape, leading travelers astray, and abducting children who venture too deep into the woods.",
+  "full_description": "Leshy is the tutelary forest deity of Slavic mythology, functioning as the master and protector of woodlands and all creatures within them. He embodies the forest itself and his power rises and falls with the seasons. In appearance he is highly variable: he may present as a tall man with a green beard and grass-like hair, as a familiar relative of the observer, as various forest animals, or as a towering giant matching the height of the tallest trees, only to shrink to grass level in open fields. He shares the forest's left-over-right inversion — his garments fasten on the wrong side, his shoes are on the wrong feet, and his left eye is typically larger than the right. Leshy's attitude toward humans is ambiguous and conditioned by their behavior: those who enter the forest respectfully, make proper offerings, and follow forest taboos may receive guidance to mushrooms, berries, or lost livestock. Those who disrespect the forest face disorientation, abduction, illness, or worse. He was a central figure in the practical spiritual economy of Slavic peasants, whose livelihoods depended on the forest for hunting, timber, berrying, herding, and agriculture. Hunters and shepherds entered explicit ritual pacts with Leshy to secure favorable outcomes, while ordinary forest-goers carried protective talismans and observed behavioral codes to avoid his wrath.",
   "aliases": [
     {
       "name": "Леший",
@@ -102,5 +103,89 @@
   "origin": "Slavic forest regions of Eastern Europe. Leshy beliefs are most densely documented in the northern forest zones of Russia, Belarus, and Ukraine, extending into Poland and other Slavic territories wherever dense old-growth forest was central to peasant economy.",
   "first_reported": "1600-01-01",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "The name derives from Old Slavic *lěsŭ (forest). Over 30 variant names exist across Slavic languages, many euphemistic, as directly naming the spirit was considered dangerous.",
+    "meaning": "Forest man; he of the forest",
+    "first_use": "Medieval Slavic oral tradition; first attested in written ethnographic sources from the 17th–19th centuries"
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "1855-01-01",
+      "event": "Alexander Afanasyev begins publishing Народные русские сказки (Russian Fairy Tales), the major academic collection of Slavic folklore including Leshy narratives",
+      "significance": "Foundational academic documentation of Leshy in print",
+      "source": "Afanasyev, A. (1855–63), Народные русские сказки"
+    },
+    {
+      "date": "1889-01-01",
+      "event": "Anton Chekhov's play Леший (The Wood Demon) features a character nicknamed Leshy; the play was later reworked as Uncle Vanya",
+      "significance": "Entry of Leshy into Russian literary culture",
+      "source": "Chekhov, A. (1889), Леший (The Wood Demon)"
+    },
+    {
+      "date": "2023-01-01",
+      "event": "Ukrainian animated film Mavka: The Forest Song features Leshy as a forest guardian character",
+      "significance": "Contemporary representation of Leshy in global animation",
+      "source": "Mavka: The Forest Song (2023)"
+    }
+  ],
+  "related": [
+    {
+      "id": "domovoi",
+      "name": "Domovoi",
+      "relationship": "related",
+      "description": "Slavic household spirit; counterpart to Leshy in the domestic sphere"
+    },
+    {
+      "id": "vodyanoy",
+      "name": "Vodyanoy",
+      "relationship": "related",
+      "description": "Slavic water spirit; territorial counterpart ruling rivers and lakes"
+    },
+    {
+      "id": "kikimora",
+      "name": "Kikimora",
+      "relationship": "related",
+      "description": "Slavic household/swamp spirit; sometimes identified as Leshy's wife in northern traditions"
+    },
+    {
+      "id": "basajaun",
+      "name": "Basajaun",
+      "relationship": "similar",
+      "description": "Basque wild-man forest guardian; cross-cultural parallel"
+    },
+    {
+      "id": "green-man",
+      "name": "Green Man",
+      "relationship": "similar",
+      "description": "European foliate head tradition of the forest spirit"
+    }
+  ],
+  "cultural_notes": "In traditional Slavic peasant culture, Leshy was as real as any other environmental force. Hunters, shepherds, and gatherers conducted explicit pacts and rituals with him as a matter of economic necessity. He was simultaneously feared and respected, invoked and appeased, treated as a genuine party to human-forest relations.",
+  "sources": [
+    {
+      "id": "afanasyev-1855",
+      "type": "book",
+      "title": "Народные русские сказки (Russian Fairy Tales)",
+      "authors": [
+        "Alexander Afanasyev"
+      ],
+      "publication": "Moscow",
+      "date": "1855"
+    },
+    {
+      "id": "wikipedia-leshy",
+      "type": "website",
+      "title": "Leshy",
+      "url": "https://en.wikipedia.org/wiki/Leshy",
+      "accessed": "2026-05-08"
+    }
+  ],
+  "locations": []
 }

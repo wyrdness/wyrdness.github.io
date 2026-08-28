@@ -3,6 +3,7 @@
   "name": "Hessdalen Lights",
   "category": "atmospheric_phenomenon",
   "description": "Recurring unexplained luminous phenomena observed in the Hessdalen valley of central Norway, instrumentally recorded since the early 1980s and the subject of a long-running scientific monitoring programme.",
+  "full_description": "The Hessdalen lights are unexplained light phenomena observed along a roughly 12-kilometre stretch of the Hessdalen valley in Sør-Trøndelag, central Norway. They typically appear as bright white, yellow, or red luminous balls or shapes, ranging from brief flashes to slow, hovering displays lasting more than an hour. The phenomenon was occasionally reported earlier in the 20th century, but a dramatic peak between December 1981 and mid-1984 — when locals reported sightings 15–20 times per week — drew researchers from UFO-Norge and UFO-Sverige, who launched the field campaign Project Hessdalen in 1983. Since 1998, an automatic measurement station (Hessdalen AMS) operated by Østfold University College has continuously monitored the valley with cameras, magnetometers, radio-frequency sensors, and other instruments, joined since the early 2000s by Italian National Research Council (CNR) groups in the EMBLA programme. The phenomenon is one of the few classes of 'ghost light' to be repeatedly captured on calibrated instruments, including spectroscopy and radar. No single mechanism has achieved scientific consensus; leading hypotheses include dusty-plasma processes driven by ionising radiation from radon decay, combustion involving metallic dust (notably scandium identified in valley air samples), piezoelectric stresses in quartz-rich rock, and a 'natural battery' model proposed by Jader Monari in 2014 in which the two sides of the valley act as electrodes across the Hesja river.",
   "aliases": [
     {
       "name": "Hessdalslysene",
@@ -34,5 +35,170 @@
   "origin": "The phenomenon is concentrated almost entirely within the Hessdalen valley (Holtålen municipality) in Sør-Trøndelag, central Norway, with occasional reports from neighbouring valleys.",
   "first_reported": "1930s",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Named for the Hessdalen valley in Holtålen municipality, Sør-Trøndelag, Norway, where the modern phenomenon was systematically reported beginning in the early 1980s.",
+    "meaning": "'Hessdalen lights' is a descriptive English calque of Norwegian 'Hessdalslysene'.",
+    "first_use": "Used in popular and scientific literature from circa 1982 onward, established by Project Hessdalen (1983)."
+  },
+  "sightings_stats": {
+    "total_documented": 1500,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0,
+    "date_range": {
+      "earliest": "1930s",
+      "latest": "2026"
+    }
+  },
+  "timeline": [
+    {
+      "date": "1981-12",
+      "event": "Onset of the major sighting wave in Hessdalen, with 15–20 reports per week through 1984",
+      "significance": "Catalyses the modern phenomenon and motivates scientific fieldwork",
+      "source": "Project Hessdalen reports"
+    },
+    {
+      "date": "1983",
+      "event": "Project Hessdalen launched by UFO-Norge and UFO-Sverige with Norwegian researchers including Erling Strand",
+      "significance": "First systematic field campaign with cameras, spectroscopes, magnetometers, and radio receivers",
+      "source": "Project Hessdalen field reports (1983–1985)"
+    },
+    {
+      "date": "1984",
+      "event": "Field campaign records multiple instrumented events; activity begins to decline from peak levels",
+      "significance": "Key dataset for subsequent analyses",
+      "source": "Project Hessdalen final report"
+    },
+    {
+      "date": "1998",
+      "event": "Hessdalen Automatic Measurement Station (AMS) installed",
+      "significance": "Provides continuous, calibrated multi-instrument monitoring of the valley",
+      "source": "Østfold University College / Project Hessdalen"
+    },
+    {
+      "date": "2000",
+      "event": "EMBLA collaboration between Østfold University College and the Italian National Research Council (CNR) begins",
+      "significance": "Brings spectroscopy, radar, and additional instrumentation to the valley",
+      "source": "Teodorani, M. (2004), JSE"
+    },
+    {
+      "date": "2004",
+      "event": "Massimo Teodorani publishes statistical and instrumental analysis of EMBLA campaigns, including elevated radioactivity correlations and ~5,000 K effective temperatures for some events",
+      "significance": "Most-cited peer-reviewed survey of Hessdalen instrumental data",
+      "source": "Teodorani, M. (2004), Journal of Scientific Exploration 18(2)"
+    },
+    {
+      "date": "2010",
+      "event": "Paiva and Taft propose a dust-plasma / Coulomb-crystal model in which radon decay and dust ionisation form macroscopic plasma structures over the valley",
+      "significance": "First detailed peer-reviewed plasma-physics hypothesis tied specifically to Hessdalen",
+      "source": "Paiva, G. S. & Taft, C. A. (2010), Journal of Atmospheric and Solar-Terrestrial Physics"
+    },
+    {
+      "date": "2014",
+      "event": "Jader Monari and collaborators propose the 'natural battery' geological model in which the two sides of the valley act as electrodes across the Hesja river",
+      "significance": "Provides a testable geo-electrochemical hypothesis",
+      "source": "INAF / CNR Hessdalen working group"
+    }
+  ],
+  "related": [
+    {
+      "id": "marfa-lights",
+      "name": "Marfa lights",
+      "relationship": "similar",
+      "description": "Recurring unexplained lights in west Texas, USA"
+    },
+    {
+      "id": "brown-mountain-lights",
+      "name": "Brown Mountain lights",
+      "relationship": "similar",
+      "description": "Recurring lights observed near Brown Mountain, North Carolina, USA"
+    },
+    {
+      "id": "min-min-lights",
+      "name": "Min Min lights",
+      "relationship": "similar",
+      "description": "Outback Queensland luminous phenomenon, Australia"
+    },
+    {
+      "id": "will-o-the-wisp",
+      "name": "Will-o'-the-wisp",
+      "relationship": "related",
+      "description": "Folkloric marsh lights of European tradition"
+    },
+    {
+      "id": "ball-lightning",
+      "name": "Ball lightning",
+      "relationship": "related",
+      "description": "Rare luminous atmospheric phenomenon during thunderstorms"
+    },
+    {
+      "id": "earthquake-lights",
+      "name": "Earthquake lights",
+      "relationship": "related",
+      "description": "Luminous phenomena reported in association with seismic stress"
+    },
+    {
+      "id": "st-elmos-fire",
+      "name": "St. Elmo's fire",
+      "relationship": "related",
+      "description": "Coronal discharge from pointed objects in strong electric fields"
+    }
+  ],
+  "cultural_notes": "The phenomenon has limited folkloric tradition in the valley itself, where it is treated primarily as a contemporary event rather than as part of an inherited tradition.",
+  "sources": [
+    {
+      "id": "wikipedia-hessdalen-2026",
+      "type": "website",
+      "title": "Hessdalen lights",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Hessdalen_lights",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "teodorani-2004-jse",
+      "type": "paper",
+      "title": "A Long-Term Scientific Survey of the Hessdalen Phenomenon",
+      "authors": [
+        "Massimo Teodorani"
+      ],
+      "publication": "Journal of Scientific Exploration",
+      "date": "2004"
+    },
+    {
+      "id": "paiva-taft-2010",
+      "type": "paper",
+      "title": "A hypothetical dusty plasma mechanism of Hessdalen lights",
+      "authors": [
+        "Gerson S. Paiva",
+        "Carlton A. Taft"
+      ],
+      "publication": "Journal of Atmospheric and Solar-Terrestrial Physics",
+      "date": "2010"
+    },
+    {
+      "id": "project-hessdalen-website",
+      "type": "website",
+      "title": "Project Hessdalen",
+      "url": "https://www.hessdalen.org",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "strand-1985-report",
+      "type": "archive",
+      "title": "Project Hessdalen 1984 — Final Technical Report",
+      "authors": [
+        "Erling Strand"
+      ],
+      "publication": "Project Hessdalen / UFO-Norge",
+      "date": "1985"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Hessdalen valley",
+      "lat": 62.7933,
+      "lng": 11.1883
+    }
+  ]
 }

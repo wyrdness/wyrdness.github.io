@@ -3,6 +3,7 @@
   "name": "Luferlang",
   "category": "cryptid",
   "description": "The Luferlang is a 'fearsome critter' of North American logging-camp tall tales, recorded in Henry H. Tryon's 1939 Fearsome Critters as a hideous equine beast with triple-jointed legs that allow it to run equally fast in any direction, a dark blue dorsal stripe, a swivel-jointed tail set in the middle of its back, and a single deadly bite delivered only once a year.",
+  "full_description": "The Luferlang (also Lufferlang) is a creature of North American logging-camp folklore, belonging to the genre known as 'fearsome critters'. Its canonical description is from Henry H. Tryon's 1939 Fearsome Critters: a horse-like beast with all four legs triple-jointed, allowing it to run equally fast in any direction, a dark blue stripe down the spine, and a bushy, swivel-jointed tail set in the middle of its back. It is reputed to be exceptionally dangerous and likely to attack without provocation, but bites only once a year — though, the tradition holds, that single bite is invariably fatal. The standard defences cited by Tryon are unusually specific: holding up a large mirror so the doubled image confuses the beast and drives it off, or wearing or displaying an orange-coloured handkerchief, which is said to give 'full protection'. Like other fearsome critters — the Hodag, the Snoligoster, the Hidebehind, the Squonk — the Luferlang originated as an oral tall-tale tradition in the logging camps of the Great Lakes and northeast United States, used to entertain seasoned loggers and to haze new recruits. It survives almost entirely as a literary tradition, principally through Tryon's book.",
   "aliases": [
     {
       "name": "Lufferlang",
@@ -26,5 +27,102 @@
   "origin": "A creature of the oral tradition of North American logging camps, with no fixed real-world range. Tryon (1939) places fearsome critters generally in the forests of the northern United States and Canada.",
   "first_reported": "1939",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Coined within North American logging-camp oral tradition; the etymology is opaque and not given in the cited literature. The word's first published appearance in cryptid bestiaries is in Henry H. Tryon's Fearsome Critters (1939).",
+    "meaning": "Not glossed in the original sources.",
+    "first_use": "1939 (Tryon, Fearsome Critters)"
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "1910-01-01",
+      "event": "William T. Cox publishes Fearsome Creatures of the Lumberwoods, codifying the genre but not including the Luferlang",
+      "significance": "Establishes the published fearsome-critter genre",
+      "source": "Wikipedia, Fearsome critters"
+    },
+    {
+      "date": "1939-01-01",
+      "event": "Henry H. Tryon publishes Fearsome Critters, including the canonical Luferlang entry",
+      "significance": "Earliest known print appearance of the Luferlang",
+      "source": "Wikipedia, Fearsome critters; Tryon, H. H. (1939)"
+    }
+  ],
+  "related": [
+    {
+      "id": "hodag",
+      "name": "Hodag",
+      "relationship": "similar",
+      "description": "Wisconsin lumberjack fearsome critter"
+    },
+    {
+      "id": "hidebehind",
+      "name": "Hidebehind",
+      "relationship": "similar",
+      "description": "Lumberjack fearsome critter that hides behind trees"
+    },
+    {
+      "id": "squonk",
+      "name": "Squonk",
+      "relationship": "similar",
+      "description": "Pennsylvania lumberjack fearsome critter"
+    },
+    {
+      "id": "agropelter",
+      "name": "Agropelter",
+      "relationship": "similar",
+      "description": "Branch-throwing lumberjack fearsome critter"
+    },
+    {
+      "id": "splinter-cat",
+      "name": "Splinter Cat",
+      "relationship": "similar",
+      "description": "Tree-shattering lumberjack fearsome critter"
+    }
+  ],
+  "cultural_notes": "Audiences of these tall tales never literally believed in fearsome critters; the tradition functions as occupational humour and initiation.",
+  "sources": [
+    {
+      "id": "tryon-1939",
+      "type": "book",
+      "title": "Fearsome Critters",
+      "authors": [
+        "Henry H. Tryon"
+      ],
+      "publication": "Idlewild Press",
+      "date": "1939"
+    },
+    {
+      "id": "cox-1910",
+      "type": "book",
+      "title": "Fearsome Creatures of the Lumberwoods, With a Few Desert and Mountain Beasts",
+      "authors": [
+        "William T. Cox"
+      ],
+      "publication": "Judd & Detweiler",
+      "date": "1910"
+    },
+    {
+      "id": "wikipedia-fearsome-critters",
+      "type": "website",
+      "title": "Fearsome critters",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Fearsome_critters",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "lumberwoods-cox",
+      "type": "website",
+      "title": "William T. Cox's Fearsome Creatures of the Lumberwoods (full text)",
+      "publication": "lumberwoods.com",
+      "url": "http://www.lib.lumberwoods.com/fclw/title.html",
+      "accessed": "2026-05-07"
+    }
+  ],
+  "locations": []
 }

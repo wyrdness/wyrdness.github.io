@@ -3,6 +3,7 @@
   "name": "Headless Horseman",
   "category": "ghost_haunting",
   "description": "The Headless Horseman is a transcultural folk figure of a decapitated rider on horseback. The most famous American version is Washington Irving's Galloping Hessian of the Hollow in 'The Legend of Sleepy Hollow' (1820), but headless horseman figures appear in earlier Irish, Scottish, German, and Welsh folklore.",
+  "full_description": "The Headless Horseman is a recurrent folk figure across European and North American traditions: a decapitated rider, often a soldier, who haunts a particular road, bridge, or stretch of country. In Irish folklore the dullahan — also called gan ceann ('without a head') — is a fairy rider carrying his own head; in Scottish lore, a headless clan member named Ewen rides Glen Cainnir on the Isle of Mull, and Cape Breton diaspora traditions treat the sight of a headless rider as a death omen. In German Rhineland folklore headless horsemen are revenants warning the living of danger or seeking expiation, and Welsh and English regional traditions have their own variants. The American Headless Horseman was canonized by Washington Irving in his short story 'The Legend of Sleepy Hollow' (1820), in which the schoolmaster Ichabod Crane is pursued through Sleepy Hollow, New York, by the ghost of a Hessian artilleryman decapitated by a cannonball during the American Revolutionary War, said to be searching for his missing head; in Irving's narrative, the rival Brom Bones is implied to have impersonated the spectre to drive Ichabod from the area. Irving's Horseman has been adapted across two centuries of American culture, including Disney's animated The Adventures of Ichabod and Mr. Toad (1949), Tim Burton's Sleepy Hollow (1999), and the Fox television series Sleepy Hollow (2013). Outside Sleepy Hollow, the South Texas legend of 'El Muerto' identifies a headless rider with a real 19th-century Mexican-American Texas Ranger episode involving the bandit Vidal.",
   "aliases": [
     {
       "name": "Galloping Hessian of the Hollow",
@@ -58,5 +59,110 @@
   "origin": "Pan-European folk traditions (Irish, Scottish, English, Welsh, German) and their North American descendants. The most famous geographic locus is Sleepy Hollow (Tarrytown), New York.",
   "first_reported": "Pre-modern",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "English compound 'headless' + 'horseman', applied to a long-standing European folk type. The Irish term dullahan (Old Irish dorchadhan, 'dark man') and Scottish/English regional names predate the English term.",
+    "meaning": "A rider on horseback who is missing — or carries — his own head.",
+    "first_use": "European folklore precedents (Irish dullahan, German revenant tales) attested in pre-modern oral tradition; the term in its definitive American form was popularised by Washington Irving in 1820."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "1820-06-23",
+      "event": "Washington Irving's 'The Legend of Sleepy Hollow' published in The Sketch Book of Geoffrey Crayon, Gent.",
+      "significance": "Canonizes the American Headless Horseman of Sleepy Hollow",
+      "source": "Irving, W., The Sketch Book of Geoffrey Crayon, Gent. (1820)"
+    },
+    {
+      "date": "1949-10-05",
+      "event": "Disney releases The Adventures of Ichabod and Mr. Toad, with the segment 'The Legend of Sleepy Hollow' bringing the Horseman to mass twentieth-century audiences",
+      "significance": "Introduces the Horseman as a literal ghost (rather than Brom's prank) to several generations",
+      "source": "Walt Disney Productions"
+    },
+    {
+      "date": "1999-11-19",
+      "event": "Tim Burton's Sleepy Hollow released, depicting the Horseman as a controlled Hessian mercenary ghost",
+      "significance": "Major late-20th-century cinematic recasting of the legend",
+      "source": "Paramount Pictures / Mandalay Pictures"
+    },
+    {
+      "date": "2013-09-16",
+      "event": "Fox television series Sleepy Hollow premieres, reimagining the Horseman as one of the Four Horsemen of the Apocalypse",
+      "significance": "Modern serial-television adaptation of the legend",
+      "source": "Fox Broadcasting Company"
+    }
+  ],
+  "related": [
+    {
+      "id": "dullahan",
+      "name": "Dullahan",
+      "relationship": "regional_variant",
+      "description": "Irish headless fairy rider; major folkloric ancestor of the figure"
+    },
+    {
+      "id": "wild-hunt",
+      "name": "Wild Hunt",
+      "relationship": "related",
+      "description": "European spectral cavalcade tradition with overlapping motifs"
+    },
+    {
+      "id": "sleepy-hollow-legend",
+      "name": "The Legend of Sleepy Hollow",
+      "relationship": "subset",
+      "description": "Washington Irving's 1820 story that canonized the American Headless Horseman"
+    },
+    {
+      "id": "el-muerto",
+      "name": "El Muerto (Texas)",
+      "relationship": "regional_variant",
+      "description": "South Texas headless rider associated with the bandit Vidal"
+    },
+    {
+      "id": "ewen-of-the-little-head",
+      "name": "Ewen of the Little Head",
+      "relationship": "regional_variant",
+      "description": "Headless rider of Glen Cainnir, Isle of Mull, Scotland"
+    }
+  ],
+  "cultural_notes": "The Headless Horseman is now overwhelmingly received as a literary and folkloric figure rather than as an active object of belief, though regional traditions (Sleepy Hollow tourism, Irish dullahan retellings) preserve it as a living cultural narrative.",
+  "sources": [
+    {
+      "id": "wiki-headless-horseman",
+      "type": "website",
+      "title": "Headless Horseman",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Headless_Horseman",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "irving-1820",
+      "type": "book",
+      "title": "The Sketch Book of Geoffrey Crayon, Gent. (containing 'The Legend of Sleepy Hollow')",
+      "authors": [
+        "Washington Irving"
+      ],
+      "publication": "C. S. Van Winkle (New York)",
+      "date": "1820"
+    },
+    {
+      "id": "wiki-dullahan",
+      "type": "website",
+      "title": "Dullahan",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Dullahan",
+      "accessed": "2026-05-07"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Sleepy Hollow",
+      "lat": 41.0859,
+      "lng": -73.8587
+    }
+  ]
 }

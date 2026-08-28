@@ -3,6 +3,7 @@
   "name": "Hidebehind",
   "category": "cryptid",
   "description": "A fearsome critter from American lumberjack folklore that always hides behind the nearest object, making it impossible to observe directly; used to explain unexplained disappearances of loggers in the deep woods.",
+  "full_description": "The hidebehind is a creature from the 'fearsome critters' tradition of late-19th- and early-20th-century North American lumber camps. By definition impossible to see — the moment a person turns to look, the hidebehind darts behind the nearest tree, stump, or stone — it serves both as occupational humour and as a mock-folkloric explanation for loggers who walked into the woods alone and never came back. According to the published tales, the creature is nocturnal, preys on lumberjacks, subsists chiefly on the intestines of its victims, and has a strong aversion to alcohol, which is therefore considered an effective repellent. The story is documented most prominently in Henry H. Tryon's 1939 collection Fearsome Critters and in Walker D. Wyman's 1978 Mythical Creatures of the USA and Canada. The hidebehind belongs to a broader corpus of fearsome critters — including the agropelter, hodag, hugag, hoopsnake, splintercat, squonk, sidehill gouger, and wampus cat — invented or elaborated in lumber camps as initiation pranks for greenhorns and as set-pieces of campfire storytelling.",
   "aliases": [
     {
       "name": "Hide-behind",
@@ -33,5 +34,98 @@
   "origin": "Reported throughout the lumber-camp belt of North America: the upper Midwest (Michigan, Wisconsin, Minnesota), the Pacific Northwest, New England, and adjacent parts of Canada.",
   "first_reported": "Late 19th century",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "American English, lumberjack camp slang of the late 19th to early 20th century, from the creature's defining behaviour of hiding behind objects.",
+    "meaning": "Literal compound: a thing that hides behind.",
+    "first_use": "Documented in lumberjack tall-tale traditions; appears in Henry H. Tryon's Fearsome Critters (1939)."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0,
+    "date_range": {
+      "earliest": "Late 19th century (oral)",
+      "latest": "20th century (printed)"
+    }
+  },
+  "timeline": [
+    {
+      "date": "1939-01-01",
+      "event": "Henry H. Tryon publishes Fearsome Critters (Idlewild Press, Cornwall, NY), with an entry on the hidebehind",
+      "significance": "Establishes the modern canonical description of the creature",
+      "source": "Tryon, H. H. (1939), Fearsome Critters"
+    },
+    {
+      "date": "1978-01-01",
+      "event": "Walker D. Wyman publishes Mythical Creatures of the USA and Canada (University of Wisconsin – River Falls Press)",
+      "significance": "Reintroduces the hidebehind to mid-20th-century academic folklore study",
+      "source": "Wyman, W. D. (1978)"
+    }
+  ],
+  "related": [
+    {
+      "id": "agropelter",
+      "name": "Agropelter",
+      "relationship": "similar",
+      "description": "Fearsome critter that hurls branches at passing lumberjacks"
+    },
+    {
+      "id": "splintercat",
+      "name": "Splintercat",
+      "relationship": "similar",
+      "description": "Fearsome critter said to shatter trees by ramming them"
+    },
+    {
+      "id": "wampus-cat",
+      "name": "Wampus cat",
+      "relationship": "similar",
+      "description": "Elusive feline cryptid of Appalachian and lumber-camp folklore"
+    },
+    {
+      "id": "squonk",
+      "name": "Squonk",
+      "relationship": "similar",
+      "description": "Self-pitying fearsome critter said to dissolve into tears when cornered"
+    },
+    {
+      "id": "hodag",
+      "name": "Hodag",
+      "relationship": "similar",
+      "description": "Wisconsin fearsome critter associated with lumber-camp tall tales"
+    }
+  ],
+  "cultural_notes": "Treated as humorous folklore rather than a sincere belief; the comedic premise is precisely that the creature's existence can never be confirmed.",
+  "sources": [
+    {
+      "id": "wikipedia-hidebehind-2026",
+      "type": "website",
+      "title": "Hidebehind",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Hidebehind",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "tryon-1939",
+      "type": "book",
+      "title": "Fearsome Critters",
+      "authors": [
+        "Henry H. Tryon"
+      ],
+      "publication": "Idlewild Press, Cornwall, New York",
+      "date": "1939"
+    },
+    {
+      "id": "wyman-1978",
+      "type": "book",
+      "title": "Mythical Creatures of the USA and Canada",
+      "authors": [
+        "Walker D. Wyman"
+      ],
+      "publication": "University of Wisconsin – River Falls Press",
+      "date": "1978"
+    }
+  ],
+  "locations": []
 }

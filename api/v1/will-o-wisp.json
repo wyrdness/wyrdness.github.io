@@ -3,6 +3,7 @@
   "name": "Will-o'-the-Wisp",
   "category": "atmospheric_phenomenon",
   "description": "A faint, drifting nocturnal light reported above bogs, marshes, and graveyards. Long woven into folklore as fairy lights, ghost candles, or treasure markers, and chiefly explained by modern science as the spontaneous combustion of swamp gases (methane, phosphine, diphosphane).",
+  "full_description": "Will-o'-the-wisp (Latin ignis fatuus, 'foolish fire') is the umbrella term for a class of pale, flickering lights reported to drift above wetlands at night. The phenomenon is attested across the British Isles, continental Europe, the Americas, India, and Australia under many regional names — jack-o'-lantern, friar's lantern, hinkypunk, Irrlicht, feu follet, aleya, chir batti, and the Australian Min Min light. In folklore the lights are widely interpreted as fairies, ghosts of unbaptised infants, the souls of the dead, or markers of buried treasure. They were said to lead unwary travellers off paths and into mires, drowning or stranding them. Scientific explanation begins with Alessandro Volta's 1776 proposal that natural electrical discharge could ignite methane (CH₄) released from rotting marsh organic matter; a sustained experimental literature (notably Major Louis Blesson's field work of 1832–33, and Alan A. Mills's 'cold flame' experiments c. 2000) supports a chemical-luminescence explanation involving methane in combination with the spontaneously flammable phosphorus compounds phosphine (PH₃) and diphosphane (P₂H₄). Sightings have become much rarer with the drainage of historic wetlands such as the English Fens, but anomalous lights with no obvious wetland source — including the Australian Min Min light and the Hessdalen lights of Norway — remain incompletely explained.",
   "aliases": [
     {
       "name": "Ignis fatuus",
@@ -80,5 +81,124 @@
   "origin": "Reported worldwide wherever organic-rich wetlands or bogs occur, with strong concentrations in the British Isles, north-western Europe, North America, the Indian subcontinent, and Australia.",
   "first_reported": "Antiquity",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "English; 'will' is a personal name (from a folkloric character 'Will of the Wisp') and 'wisp' is a bundle of straw or twigs used as a torch.",
+    "meaning": "Literally 'Will with the torch' — the spectral lantern-bearer of folklore. The Latin equivalent ignis fatuus means 'foolish/fool's fire'.",
+    "first_use": "English ignis fatuus attested from the 16th century; 'will-o'-the-wisp' attested in English from the 17th century."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0,
+    "date_range": {
+      "earliest": "antiquity",
+      "latest": "2025"
+    }
+  },
+  "timeline": [
+    {
+      "date": "1776",
+      "event": "Alessandro Volta proposes that ignis fatuus is the result of natural electrical discharge igniting methane from decaying marsh material",
+      "significance": "Foundational scientific hypothesis",
+      "source": "Wikipedia, 'Will-o'-the-wisp'"
+    },
+    {
+      "date": "1832",
+      "event": "Major Louis Blesson begins systematic field experiments on ignis fatuus, confirming gas-ignition origins",
+      "significance": "First sustained experimental field study",
+      "source": "Wikipedia, 'Will-o'-the-wisp'"
+    },
+    {
+      "date": "2000",
+      "event": "Alan A. Mills publishes the 'cold flame' hypothesis: pre-combustion luminescent halos at sub-ignition temperatures",
+      "significance": "Refinement of the chemistry beyond simple methane combustion",
+      "source": "Wikipedia, 'Will-o'-the-wisp'"
+    },
+    {
+      "date": "2008",
+      "event": "Luigi Garlaschelli and Paolo Boschetti reproduce glowing flames in the laboratory by mixing phosphine with air",
+      "significance": "Strong experimental support for phosphine-ignition models",
+      "source": "Wikipedia, 'Will-o'-the-wisp'"
+    },
+    {
+      "date": "2025",
+      "event": "Xia et al. publish a study in PNAS proposing 'microlightning' between microbubbles as a candidate ignition mechanism for marsh gases",
+      "significance": "Most recent peer-reviewed contribution to the chemistry",
+      "source": "Wikipedia, 'Will-o'-the-wisp'; Xia et al. (2025), Proceedings of the National Academy of Sciences"
+    }
+  ],
+  "related": [
+    {
+      "id": "min-min-light",
+      "name": "Min Min Light",
+      "relationship": "regional_variant",
+      "description": "Australian outback drifting light"
+    },
+    {
+      "id": "hessdalen-lights",
+      "name": "Hessdalen Lights",
+      "relationship": "similar",
+      "description": "Norwegian valley light phenomenon, partially explained by ionised dust and natural batteries"
+    },
+    {
+      "id": "marfa-lights",
+      "name": "Marfa Lights",
+      "relationship": "similar",
+      "description": "West Texas anomalous lights"
+    },
+    {
+      "id": "st-elmos-fire",
+      "name": "St. Elmo's Fire",
+      "relationship": "related",
+      "description": "Atmospheric corona discharge with similar 'fool's fire' historical naming"
+    },
+    {
+      "id": "fairy-lights",
+      "name": "Fairy lights / corpse candles",
+      "relationship": "related",
+      "description": "Folkloric category encompassing similar lights in Welsh and Irish tradition"
+    }
+  ],
+  "cultural_notes": "Folk traditions almost universally treat the lights as warnings or lures: they should not be followed, and travellers should keep to known paths. In some cases the lights mark the location of buried treasure but only at the cost of the seeker's life or soul.",
+  "sources": [
+    {
+      "id": "wikipedia-willowisp",
+      "type": "website",
+      "title": "Will-o'-the-wisp — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Will-o%27-the-wisp",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "andersen-1865",
+      "type": "book",
+      "title": "The Will-o'-the-Wisps Are in Town",
+      "authors": [
+        "Hans Christian Andersen"
+      ],
+      "date": "1865"
+    },
+    {
+      "id": "garlaschelli-2008",
+      "type": "paper",
+      "title": "Reproduction of glowing flames from phosphine and air mixtures",
+      "authors": [
+        "Luigi Garlaschelli",
+        "Paolo Boschetti"
+      ],
+      "date": "2008"
+    },
+    {
+      "id": "xia-2025",
+      "type": "paper",
+      "title": "Microlightning between microbubbles as an ignition mechanism for marsh gases",
+      "authors": [
+        "Xia et al."
+      ],
+      "publication": "Proceedings of the National Academy of Sciences",
+      "date": "2025"
+    }
+  ],
+  "locations": []
 }

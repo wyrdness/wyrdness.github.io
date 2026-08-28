@@ -3,6 +3,7 @@
   "name": "Kongamato",
   "category": "cryptid",
   "description": "A reported flying creature of the swamps of north-western Zambia, eastern Angola, and the southern Democratic Republic of the Congo, said by Kaonde and Lunda informants to attack boats and inflict severe wounds, and frequently described in cryptozoological literature as resembling a pterosaur — a long-beaked, leathery-winged, toothed flying reptile.",
+  "full_description": "Kongamato is a cryptid reported from the swamp country of north-western Zambia (the Jiundu and surrounding marshes of the Mwinilunga District), eastern Angola, and the southern DRC. It owes its place in Western cryptozoology almost entirely to the British colonial administrator Frank Hulme Melland, whose 1923 book In Witchbound Africa: An Account of the Primitive Kaonde Tribe and Their Beliefs reported that Kaonde informants described a feared, water-dwelling creature called the kongamato — 'the overturner of boats' — which, when shown an illustration of a pterodactyl from one of his books, his informants identified as the same creature. Subsequent reports include G. Ward Price's 1925 retelling, while accompanying the Prince of Wales's tour of southern Africa, of an account given to him of a wounded man's claim to have been attacked by such a creature in a Zambian swamp; J. P. F. Brown's claimed 1956 sighting at Lake Bangweulu; and a 1957 Fort Rosebery (now Mansa) hospital case in which a man with a severe chest wound described being attacked by a 'large bird-like creature with a long beak and huge wings' and reportedly drew a picture resembling a pterosaur. American zoologist and cryptozoologist Roy P. Mackal led a 1980 expedition to the Jiundu Swamp area searching for kongamato but produced no specimen or photograph. Mainstream zoologists generally regard kongamato reports as a mixture of folkloric water-monster traditions, misidentification of large native birds (especially the shoebill, Balaeniceps rex, and the saddle-billed stork, Ephippiorhynchus senegalensis), and the artifacts of leading questions and book-illustration influence. The figure is regularly treated by 'living dinosaur' pop-cryptozoology, which the academic mainstream rejects.",
   "aliases": [
     {
       "name": "Kongamato",
@@ -43,5 +44,145 @@
   "origin": "North-western Zambia (Mwinilunga District and adjacent swamps), the Bangweulu wetlands of north-eastern Zambia, eastern Angola, and the southern Democratic Republic of the Congo, with secondary reports from Zimbabwe and Cameroon (where similar cryptids are reported under other names).",
   "first_reported": "1923",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Kaonde (a Bantu language of north-western Zambia and the southern DRC). The name is conventionally glossed in English-language cryptozoological literature as 'overturner / breaker of boats', from a verb root associated with capsizing.",
+    "meaning": "'The one who overturns / breaks boats.'",
+    "first_use": "First widely reported in English in Frank H. Melland's In Witchbound Africa (Seeley, Service & Co., 1923)."
+  },
+  "sightings_stats": {
+    "total_documented": 4,
+    "verified": 0,
+    "disputed": 4,
+    "debunked": 0,
+    "date_range": {
+      "earliest": "1923",
+      "latest": "1957"
+    }
+  },
+  "timeline": [
+    {
+      "date": "1923-01-01",
+      "event": "Frank H. Melland publishes In Witchbound Africa, including a chapter on the kongamato; reports that Kaonde informants identify a pterodactyl illustration as the kongamato",
+      "significance": "Origin of the kongamato in Western cryptozoological literature",
+      "source": "F. H. Melland, In Witchbound Africa (Seeley, Service & Co., 1923)"
+    },
+    {
+      "date": "1925-01-01",
+      "event": "Newspaper correspondent G. Ward Price, accompanying the Prince of Wales's tour of southern Africa, reports an account given to him of a wounded man attacked by a kongamato-like creature in a Zambian swamp",
+      "significance": "Second-hand colonial account that further publicized the cryptid",
+      "source": "G. Ward Price, contemporary newspaper coverage"
+    },
+    {
+      "date": "1956-01-01",
+      "event": "J. P. F. Brown reportedly observes two large flying creatures matching kongamato descriptions near Lake Bangweulu, Zambia",
+      "significance": "Mid-20th-century cryptozoological landmark",
+      "source": "Cryptozoological literature; Mackal (1987) cites the case"
+    },
+    {
+      "date": "1957-01-01",
+      "event": "A patient at Fort Rosebery (Mansa) Hospital, Zambia, with a severe chest wound, reportedly describes being attacked by a 'large bird-like creature with a long beak and huge wings' and produces a sketch resembling a pterosaur",
+      "significance": "Most-cited 20th-century anecdotal case",
+      "source": "Cryptozoological literature; Mackal (1987)"
+    },
+    {
+      "date": "1980-01-01",
+      "event": "Roy P. Mackal leads an expedition to the Jiundu and surrounding swamps in search of kongamato; no specimen or photograph is produced",
+      "significance": "Most prominent academic-adjacent expedition",
+      "source": "R. P. Mackal, Searching for Hidden Animals (1980) and follow-on writings"
+    }
+  ],
+  "related": [
+    {
+      "id": "olitiau",
+      "name": "Olitiau",
+      "relationship": "similar",
+      "description": "Cameroonian flying cryptid; sometimes grouped with kongamato by cryptozoologists"
+    },
+    {
+      "id": "ropen",
+      "name": "Ropen",
+      "relationship": "similar",
+      "description": "Reported pterosaur-like cryptid of Papua New Guinea"
+    },
+    {
+      "id": "mokele-mbembe",
+      "name": "Mokele-mbembe",
+      "relationship": "related",
+      "description": "Other 'living dinosaur' cryptid of central African swamps; popularized by similar cryptozoological literature"
+    },
+    {
+      "id": "shoebill",
+      "name": "Shoebill (Balaeniceps rex)",
+      "relationship": "related",
+      "description": "Real, prehistoric-looking African swamp bird often suggested as a misidentification source"
+    }
+  ],
+  "cultural_notes": "Sensitivity note: Indigenous accounts of dangerous swamp beings should not be reductively conflated with the European 'living pterosaur' framing imposed by Melland and later cryptozoologists.",
+  "sources": [
+    {
+      "id": "melland-1923",
+      "type": "book",
+      "title": "In Witchbound Africa: An Account of the Primitive Kaonde Tribe and Their Beliefs",
+      "authors": [
+        "Frank H. Melland"
+      ],
+      "publication": "Seeley, Service & Co.",
+      "date": "1923"
+    },
+    {
+      "id": "mackal-1987",
+      "type": "book",
+      "title": "A Living Dinosaur? In Search of Mokele-Mbembe",
+      "authors": [
+        "Roy P. Mackal"
+      ],
+      "publication": "E. J. Brill",
+      "date": "1987",
+      "isbn": "978-9004085435"
+    },
+    {
+      "id": "shuker-1995",
+      "type": "book",
+      "title": "In Search of Prehistoric Survivors",
+      "authors": [
+        "Karl P. N. Shuker"
+      ],
+      "publication": "Blandford",
+      "date": "1995",
+      "isbn": "978-0713725438"
+    },
+    {
+      "id": "loxton-prothero-2013",
+      "type": "book",
+      "title": "Abominable Science! Origins of the Yeti, Nessie, and Other Famous Cryptids",
+      "authors": [
+        "Daniel Loxton",
+        "Donald R. Prothero"
+      ],
+      "publication": "Columbia University Press",
+      "date": "2013",
+      "isbn": "978-0231153201"
+    },
+    {
+      "id": "monstropedia-kongamato",
+      "type": "website",
+      "title": "Kongamato",
+      "publication": "Monstropedia",
+      "url": "https://www.monstropedia.org/index.php?title=Kongamato",
+      "accessed": "2026-05-07"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Jiundu Swamp",
+      "lat": -11.7333,
+      "lng": 24.4333
+    },
+    {
+      "name": "Bangweulu wetlands",
+      "lat": -11.05,
+      "lng": 29.75
+    }
+  ]
 }

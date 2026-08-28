@@ -3,6 +3,7 @@
   "name": "Hoop snake",
   "category": "cryptid",
   "description": "A legendary serpent of North American (and Australian) folklore that grasps its tail in its mouth and rolls like a wheel to chase prey, striking with a venomous stinger on its tail.",
+  "full_description": "The hoop snake is a legendary creature of North American frontier and lumberjack folklore — and, more sparingly, of Australian folklore — characterised by an unusual mode of locomotion. Rather than slithering, the hoop snake reportedly grasps its tail in its mouth, forms a hoop, and rolls along the ground like a wheel to pursue prey at high speed; at the moment of attack it straightens out and stabs the victim with a venomous stinger on its tail. According to one frequently quoted 1784 letter, the hoop snake 'throws himself into a circle, running rapidly around, advancing like a hoop, with his tail arising and pointed forward.' One distinctive defensive lore: a person attacked by a hoop snake is said to be able to dodge behind a tree, which receives the venomous strike and dies from the toxin, leaving the would-be victim unharmed. The creature is reported across the Eastern and Midwestern United States — particularly Virginia, West Virginia, Minnesota, Wisconsin, and the Carolinas — as well as Prince Edward Island and parts of British Columbia. Naturalist Raymond Ditmars famously offered a standing reward for verified evidence; no specimen has ever been produced. Folklorists and herpetologists generally treat the hoop snake as a tall-tale figure, noting possible inspirations in the rainbow snake (Farancia erytrogramma), mud snake (Farancia abacura), sidewinder rattlesnakes, and the cartwheeling defensive behaviour of the Southeast Asian dwarf reed snake.",
   "aliases": [
     {
       "name": "Hoop-snake",
@@ -35,5 +36,88 @@
   "origin": "Reports cluster in the eastern and midwestern United States and parts of Canada, with Australian parallels.",
   "first_reported": "1784",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "American English compound: 'hoop' (a circular band) + 'snake'. Named for the legendary tail-in-mouth wheel form of locomotion.",
+    "meaning": "A snake that forms a hoop.",
+    "first_use": "Documented in late 18th-century letters; widely circulated in 19th-century American frontier and lumberjack folklore."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0,
+    "date_range": {
+      "earliest": "Late 18th century",
+      "latest": "20th century"
+    }
+  },
+  "timeline": [
+    {
+      "date": "1784-01-01",
+      "event": "Frequently cited 1784 letter describes the hoop snake's hoop-rolling pursuit and venomous tail strike",
+      "significance": "Earliest commonly cited written description of the hoop snake",
+      "source": "Wikipedia article on the hoop snake (citing 1784 letter)"
+    },
+    {
+      "date": "1939-01-01",
+      "event": "Henry H. Tryon's Fearsome Critters (Idlewild Press) includes the hoop snake among classic lumberjack fearsome critters",
+      "significance": "Codifies the hoop snake within the printed fearsome-critter canon",
+      "source": "Tryon, H. H. (1939), Fearsome Critters"
+    }
+  ],
+  "related": [
+    {
+      "id": "hidebehind",
+      "name": "Hidebehind",
+      "relationship": "similar",
+      "description": "Lumber-camp fearsome critter"
+    },
+    {
+      "id": "hugag",
+      "name": "Hugag",
+      "relationship": "similar",
+      "description": "Lumber-camp fearsome critter"
+    },
+    {
+      "id": "ouroboros",
+      "name": "Ouroboros",
+      "relationship": "similar",
+      "description": "Ancient mythic serpent biting its own tail; iconographic parallel"
+    },
+    {
+      "id": "rainbow-snake",
+      "name": "Rainbow snake (Farancia erytrogramma)",
+      "relationship": "related",
+      "description": "Real Southeast US snake sometimes proposed as inspiration for hoop snake reports"
+    },
+    {
+      "id": "mud-snake",
+      "name": "Mud snake (Farancia abacura)",
+      "relationship": "related",
+      "description": "Real US snake sometimes proposed as inspiration for hoop snake reports"
+    }
+  ],
+  "cultural_notes": "Treated by some 19th-century rural Americans as a real species; treated today as folklore in both popular and herpetological literature.",
+  "sources": [
+    {
+      "id": "wikipedia-hoop-snake-2026",
+      "type": "website",
+      "title": "Hoop snake",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Hoop_snake",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "tryon-1939",
+      "type": "book",
+      "title": "Fearsome Critters",
+      "authors": [
+        "Henry H. Tryon"
+      ],
+      "publication": "Idlewild Press, Cornwall, New York",
+      "date": "1939"
+    }
+  ],
+  "locations": []
 }

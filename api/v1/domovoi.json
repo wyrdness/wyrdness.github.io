@@ -3,6 +3,7 @@
   "name": "Domovoy",
   "category": "fae_folklore",
   "description": "The domovoy is the tutelary household spirit of Slavic folklore — a small old man, often bearded and grey, who lives behind the stove or under the threshold and guards the family, livestock, and prosperity of the home.",
+  "full_description": "The domovoy is the household spirit of Russian, Ukrainian, Belarusian, and broader Slavic folk tradition. Folklorist E. G. Kagarov characterized the domovoy as a 'personification of the supreme Rod in the microcosm of kinship'. The spirit is most commonly described as an old, grey-haired man with flashing eyes, but may also appear as a cat, dog, bear, the household master, or a departed ancestor; some traditions give it horns and a tail or describe it as a serpent. The domovoy attends to the welfare of the family across generations, paying particular attention to children and animals. It can foretell deaths, plagues, and calamities, and may abandon a household whose members live immorally. Specialized variants — the dvorovoy of the courtyard, the bannik of the bathhouse, and the ovinnik of the threshing barn — extend its tutelary role to other domestic spaces. Slavic householders maintained the domovoy with offerings of leftover food, bread and salt, and (in some traditions) the blood of a midnight rooster. When moving to a new home, families performed an explicit invocation inviting the domovoy to follow, often burying a hen and the first slice of the inaugural meal's bread in the courtyard. Helmold's Chronica Slavorum (12th century) and Cosmas of Prague's Chronica Boemorum (12th century) record household 'penates' among the Elbe and Bohemian Slavs that correspond to this tradition.",
   "aliases": [
     {
       "name": "Domovoy",
@@ -60,5 +61,104 @@
   "origin": "Across the Slavic world, with the densest tradition in Russia, Ukraine, and Belarus and parallel traditions in Poland, the Czech lands, Slovakia, and the South Slavic regions.",
   "first_reported": "12th century",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Slavic root dom- ('house, abode'), ultimately Indo-European *dom-",
+    "meaning": "'House one' or 'house spirit'; cognate with Roman di penates as a tutelary class",
+    "first_use": "Recorded in medieval chronicles of the Slavs (12th century, e.g., Helmold's Chronica Slavorum)"
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "1100-01-01",
+      "event": "Cosmas of Prague's Chronica Boemorum records household penates among the Bohemian Slavs",
+      "significance": "Among the earliest written attestations",
+      "source": "Cosmas of Prague, Chronica Boemorum"
+    },
+    {
+      "date": "1170-01-01",
+      "event": "Helmold of Bosau's Chronica Slavorum records household penates among the Elbe Slavs",
+      "significance": "Foundational medieval source for Slavic household spirits",
+      "source": "Helmold, Chronica Slavorum"
+    },
+    {
+      "date": "1900-01-01",
+      "event": "Russian and Soviet ethnographers (D. K. Zelenin, E. G. Kagarov, later V. V. Ivanov and V. N. Toporov) systematize the domovoy in Slavic folklore studies",
+      "significance": "Modern academic framework for the tradition",
+      "source": "Slavic ethnographic literature"
+    }
+  ],
+  "related": [
+    {
+      "id": "kikimora",
+      "name": "Kikimora",
+      "relationship": "related",
+      "description": "Female Slavic household spirit sometimes paired with the domovoy"
+    },
+    {
+      "id": "bannik",
+      "name": "Bannik",
+      "relationship": "subset",
+      "description": "Specialized Slavic spirit of the bathhouse"
+    },
+    {
+      "id": "leshy",
+      "name": "Leshy",
+      "relationship": "counterpart",
+      "description": "Slavic forest counterpart of the domestic domovoy"
+    },
+    {
+      "id": "vodyanoy",
+      "name": "Vodyanoy",
+      "relationship": "counterpart",
+      "description": "Slavic water spirit, counterpart of the household domovoy"
+    },
+    {
+      "id": "brownie",
+      "name": "Brownie",
+      "relationship": "similar",
+      "description": "Scottish household spirit performing comparable tutelary roles"
+    },
+    {
+      "id": "duende",
+      "name": "Duende",
+      "relationship": "similar",
+      "description": "Iberian household and forest spirit with comparable behaviors"
+    }
+  ],
+  "cultural_notes": "The domovoy bonds to a family across generations and may follow them to new homes if invoked. Modern households in some regions still informally observe small offerings or polite verbal address.",
+  "sources": [
+    {
+      "id": "wikipedia-domovoy",
+      "type": "website",
+      "title": "Domovoy",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Domovoy",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "helmold-chronica",
+      "type": "book",
+      "title": "Chronica Slavorum",
+      "authors": [
+        "Helmold of Bosau"
+      ],
+      "date": "c. 1170"
+    },
+    {
+      "id": "cosmas-chronica",
+      "type": "book",
+      "title": "Chronica Boemorum",
+      "authors": [
+        "Cosmas of Prague"
+      ],
+      "date": "c. 1125"
+    }
+  ],
+  "locations": []
 }

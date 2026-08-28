@@ -3,6 +3,7 @@
   "name": "Gumberoo",
   "category": "cryptid",
   "description": "The Gumberoo is a fearsome critter of Pacific Northwest lumberjack folklore — a hairless bear-shaped creature with a hide so tough that bullets bounce off, but which explodes when set on fire.",
+  "full_description": "The Gumberoo is one of the 'fearsome critters' of North American lumberjack folklore, codified in William T. Cox's 1910 book Fearsome Creatures of the Lumberwoods (Washington, D.C.: Judd & Detweiler), with mock-scientific Latin classifications by U.S. Forest Service chief George B. Sudworth. Cox locates the Gumberoo in the heavy timber of the Pacific Coast — particularly Oregon, Washington and British Columbia — and describes it as a hairless, bear-like creature about the size of a black bear, with a tough, glossy black, leathery hide. The hide is so resilient that bullets and clubs bounce off; the only way to dispatch a Gumberoo is by setting it ablaze, whereupon it explodes loudly. Cox's text includes the famous claim that a man named A. B. Patterson tried to photograph one, after which the photographic plate exploded in the developer. The Gumberoo is a humorous tall-tale figure that circulated in logging camps in the late 19th and early 20th centuries; it is not the subject of any cryptozoological investigation.",
   "aliases": [
     {
       "name": "Megalogaster repercussus",
@@ -28,5 +29,94 @@
   "origin": "Confined in folklore to the Pacific Northwest of North America — the heavy-timber districts of Oregon, Washington, northern California, and coastal British Columbia.",
   "first_reported": "1910",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "American lumberjack slang, late 19th–early 20th century. Cox (1910) gives no formal etymology; the name follows the broader lumberjack pattern of comically mock-Latinate or onomatopoeic critter names (cf. hodag, hidebehind, agropelter, squonk).",
+    "meaning": "Not analytically meaningful; nonsense / playful coinage.",
+    "first_use": "William T. Cox, Fearsome Creatures of the Lumberwoods (1910)"
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "1910",
+      "event": "William T. Cox publishes Fearsome Creatures of the Lumberwoods (Judd & Detweiler, Washington, D.C.) describing the Gumberoo and 19 other lumberwoods critters",
+      "significance": "Source text for the modern Gumberoo legend",
+      "source": "Cox, W. T. (1910)"
+    },
+    {
+      "date": "1939",
+      "event": "Henry H. Tryon publishes Fearsome Critters (Idlewild Press), a successor compendium that also features the Gumberoo",
+      "significance": "Reinforces the Gumberoo as a stock fearsome critter",
+      "source": "Tryon, H. H. (1939)"
+    }
+  ],
+  "related": [
+    {
+      "id": "hodag",
+      "name": "Hodag",
+      "relationship": "similar",
+      "description": "Wisconsin fearsome critter (Cox, 1910; promoted by Eugene Shepard from 1893)"
+    },
+    {
+      "id": "hidebehind",
+      "name": "Hidebehind",
+      "relationship": "similar",
+      "description": "Pacific Northwest critter that hides behind trees"
+    },
+    {
+      "id": "agropelter",
+      "name": "Agropelter",
+      "relationship": "similar",
+      "description": "Critter that hurls branches at lumberjacks"
+    },
+    {
+      "id": "squonk",
+      "name": "Squonk",
+      "relationship": "similar",
+      "description": "Pennsylvania fearsome critter that dissolves into tears"
+    },
+    {
+      "id": "snallygaster",
+      "name": "Snallygaster",
+      "relationship": "related",
+      "description": "Maryland tall-tale creature in the same fearsome-critter tradition"
+    }
+  ],
+  "cultural_notes": "Always told as joke or prank; never seriously believed in even in the original logging-camp tradition.",
+  "sources": [
+    {
+      "id": "wikipedia-gumberoo",
+      "type": "website",
+      "title": "Gumberoo",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Gumberoo",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "cox-1910",
+      "type": "book",
+      "title": "Fearsome Creatures of the Lumberwoods, with a Few Desert and Mountain Beasts",
+      "authors": [
+        "William T. Cox"
+      ],
+      "publication": "Judd & Detweiler",
+      "date": "1910"
+    },
+    {
+      "id": "tryon-1939",
+      "type": "book",
+      "title": "Fearsome Critters",
+      "authors": [
+        "Henry H. Tryon"
+      ],
+      "publication": "Idlewild Press",
+      "date": "1939"
+    }
+  ],
+  "locations": []
 }

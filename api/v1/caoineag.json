@@ -3,6 +3,7 @@
   "name": "Caoineag",
   "category": "entity_spirit",
   "description": "A female death-portent spirit of the Scottish Highlands, associated particularly with certain clans, who weeps at waterfalls, streams, and lonely places before a death — most famously before the Massacre of Glencoe.",
+  "full_description": "The Caoineag (Scottish Gaelic for 'the weeper') is a female spirit of the Scottish Highlands whose lamentation is heard before deaths, especially violent or mass deaths. She is normally invisible and is heard wailing at waterfalls, in glens, by streams, and on mountainsides. Unlike the related bean nighe (the 'washer at the ford'), the Caoineag cannot be approached, questioned, or compelled to grant wishes. She is closely associated with specific clans, including Clan MacDonald of Glencoe, whose Caoineag was said to wail repeatedly the night before the 1692 Massacre of Glencoe. The closely related Caointeach is recorded in Islay tradition as a green-shawled figure heard outside the homes of those about to die. The figure is documented in Alexander Carmichael's Carmina Gadelica and in Edward Dwelly's Scottish Gaelic dictionary, and is part of a broader Gaelic family of female death-portent beings that includes the Irish bean sídhe (banshee).",
   "aliases": [
     {
       "name": "Caoineag",
@@ -36,5 +37,94 @@
   "origin": "Scottish Highlands and the Hebrides, with strong attestation in Lochaber (Glencoe), Argyll, and Islay.",
   "first_reported": "1900",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Scottish Gaelic caoin- ('to weep, lament') with the feminine agent suffix -eag.",
+    "meaning": "'The weeper' / 'one who keens'.",
+    "first_use": "Recorded in Scottish Gaelic oral tradition; published English-language records in the 19th and early 20th centuries (Carmichael, Campbell, Dwelly)."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "1692-02-13",
+      "event": "Massacre of Glencoe; later Highland tradition holds that the Caoineag of Clan MacDonald wailed nightly before the killings",
+      "significance": "The most-cited single legend involving the Caoineag",
+      "source": "Highland oral tradition; recorded in Carmichael (1900) and later sources"
+    },
+    {
+      "date": "1900-01-01",
+      "event": "Alexander Carmichael publishes Carmina Gadelica, including material on the Caoineag",
+      "significance": "First major scholarly publication of the tradition in English",
+      "source": "Carmichael, A., Carmina Gadelica vol. II"
+    },
+    {
+      "date": "1911-01-01",
+      "event": "Edward Dwelly's Illustrated Gaelic-English Dictionary appears, defining caoineag among Scottish Gaelic supernatural terms",
+      "significance": "Lexical attestation in the standard Gaelic dictionary",
+      "source": "Dwelly, E. (1911)"
+    }
+  ],
+  "related": [
+    {
+      "id": "banshee",
+      "name": "Bean sídhe (Banshee)",
+      "relationship": "counterpart",
+      "description": "Irish female death-portent spirit; the closest cognate to the Caoineag"
+    },
+    {
+      "id": "bean-nighe",
+      "name": "Bean nighe",
+      "relationship": "related",
+      "description": "Scottish Gaelic 'washer at the ford' — a related, but distinct, death-portent figure who can be approached"
+    },
+    {
+      "id": "caointeach",
+      "name": "Caointeach",
+      "relationship": "regional_variant",
+      "description": "Islay variant of the Caoineag, appearing in a green shawl"
+    }
+  ],
+  "cultural_notes": "In Highland Gaelic tradition, the Caoineag is understood as a real spirit-being whose lamentation warns of impending death. She is feared and respected rather than venerated.",
+  "sources": [
+    {
+      "id": "carmichael-1900",
+      "type": "book",
+      "title": "Carmina Gadelica: Hymns and Incantations",
+      "authors": [
+        "Alexander Carmichael"
+      ],
+      "publication": "T. and A. Constable, Edinburgh",
+      "date": "1900"
+    },
+    {
+      "id": "dwelly-1911",
+      "type": "book",
+      "title": "The Illustrated Gaelic-English Dictionary",
+      "authors": [
+        "Edward Dwelly"
+      ],
+      "publication": "Edward Dwelly, Herne Bay",
+      "date": "1911"
+    },
+    {
+      "id": "wikipedia-caoineag",
+      "type": "website",
+      "title": "Caoineag",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Caoineag",
+      "accessed": "2026-05-07"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Glen Coe",
+      "lat": 56.6743,
+      "lng": -5.0103
+    }
+  ]
 }

@@ -3,6 +3,7 @@
   "name": "Goofang",
   "category": "cryptid",
   "description": "The Goofang is a fictional fish from North American lumberjack tall tale folklore, described as swimming exclusively backward to keep water out of its eyes, and listed in the Paul Bunyan Natural History tradition.",
+  "full_description": "The Goofang is a fantastical fish from the tall tale tradition of North American lumberjack camps, belonging to the category of creatures known as 'fearsome critters.' According to the tradition, the Goofang swims exclusively backward — tail first — to keep water out of its eyes. This is its sole defining characteristic. The creature was described as 'about the size of a sunfish, only larger' in Charles E. Brown's Paul Bunyan Natural History (1935), which documented the fictional wildlife associated with Paul Bunyan's logging camps. The Goofang is also mentioned by Jorge Luis Borges in his Book of Imaginary Beings (1957) with the same description. Like other fearsome critters, the Goofang originated as entertainment in Great Lakes region logging camps of the late 19th and early 20th centuries, serving to amuse workers and haze newcomers. The fearsome critters tradition was first documented in print by William T. Cox in Fearsome Creatures of the Lumberwoods (1910), published by Judd & Detweiler, Washington D.C., with illustrations and Latin classifications by George B. Sudworth. Henry H. Tryon published a later collection, Fearsome Critters, in 1939.",
   "aliases": [],
   "tags": [
     "fearsome-critter",
@@ -24,5 +25,102 @@
   "origin": "Associated with the Great Lakes lumberjack camp tradition, particularly Minnesota and Wisconsin. As a fictional tall tale creature, it has no real geographic distribution.",
   "first_reported": "1935-01-01",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "North American lumberjack oral tradition; coined in logging camp tall tales",
+    "meaning": "No documented etymology; the name appears to be a humorous coinage from lumberjack camp culture",
+    "first_use": "1935 in Charles E. Brown's Paul Bunyan Natural History; Borges mentions it in Book of Imaginary Beings (1957)"
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "1910-01-01",
+      "event": "William T. Cox publishes Fearsome Creatures of the Lumberwoods with illustrations by George B. Sudworth, documenting the fearsome critters tradition",
+      "significance": "First systematic print documentation of the fearsome critters tradition to which the Goofang belongs",
+      "source": "Wikipedia article on Fearsome critters; web search results"
+    },
+    {
+      "date": "1935-01-01",
+      "event": "Charles E. Brown publishes Paul Bunyan Natural History (self-published, Madison, WI), which includes the Goofang described as 'about the size of a sunfish, only larger'",
+      "significance": "First documented print appearance of the Goofang specifically",
+      "source": "Web search results; museum library reference"
+    },
+    {
+      "date": "1957-01-01",
+      "event": "Jorge Luis Borges includes the Goofang in the Book of Imaginary Beings with the same backward-swimming description",
+      "significance": "Introduces the Goofang to a global literary audience through one of the 20th century's most celebrated works of imaginative literature",
+      "source": "Web search results"
+    }
+  ],
+  "related": [
+    {
+      "id": "jackalope",
+      "name": "Jackalope",
+      "relationship": "similar",
+      "description": "Another American tall tale creature; jackrabbit with antelope horns"
+    },
+    {
+      "id": "fur-bearing-trout",
+      "name": "Fur-Bearing Trout",
+      "relationship": "similar",
+      "description": "Another fearsome critter fish; a trout with a thick fur coat"
+    },
+    {
+      "id": "gillygaloo",
+      "name": "Gillygaloo Bird",
+      "relationship": "similar",
+      "description": "Another fearsome critter; a bird that lays square eggs to prevent rolling on hillsides"
+    },
+    {
+      "id": "hodag",
+      "name": "Hodag",
+      "relationship": "similar",
+      "description": "Famous fearsome critter from Wisconsin lumberjack tradition"
+    }
+  ],
+  "cultural_notes": "The fearsome critters, including the Goofang, were part of a conscious tradition of humorous invention in lumberjack culture. They served as entertainment and social bonding tools in isolated logging camps, and as hazing mechanisms for newcomers ('greenhorns').",
+  "sources": [
+    {
+      "id": "brown-1935",
+      "type": "book",
+      "title": "Paul Bunyan Natural History",
+      "authors": [
+        "Charles E. Brown"
+      ],
+      "publication": "Self-published",
+      "date": "1935"
+    },
+    {
+      "id": "cox-1910",
+      "type": "book",
+      "title": "Fearsome Creatures of the Lumberwoods, With a Few Desert and Mountain Beasts",
+      "authors": [
+        "William T. Cox"
+      ],
+      "publication": "Judd & Detweiler",
+      "date": "1910"
+    },
+    {
+      "id": "borges-1957",
+      "type": "book",
+      "title": "Book of Imaginary Beings",
+      "authors": [
+        "Jorge Luis Borges"
+      ],
+      "date": "1957"
+    },
+    {
+      "id": "wikipedia-fearsome-critters",
+      "type": "website",
+      "title": "Fearsome critters — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Fearsome_critters",
+      "accessed": "2026-05-08"
+    }
+  ],
+  "locations": []
 }

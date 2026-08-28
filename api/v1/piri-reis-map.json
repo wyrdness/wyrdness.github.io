@@ -3,6 +3,7 @@
   "name": "Piri Reis Map",
   "category": "cultural_artifact",
   "description": "A 1513 world map by the Ottoman admiral and cartographer Piri Reis, of which roughly one third survives at Topkapı Palace, Istanbul. The map gained global attention after its 1929 rediscovery and became famous in fringe-history literature for the disputed claim that it depicts an ice-free Antarctic coast.",
+  "full_description": "The Piri Reis map is a portolan-style world map drawn on gazelle-skin parchment by the Ottoman admiral and cartographer Piri Reis in 1513 (AH 919). About one-third of the original survives, measuring roughly 87 × 63 cm, and is held at the Topkapı Palace Museum in Istanbul. The surviving fragment shows the eastern coast of South America, the western coast of Africa, parts of Europe, and a large southern landmass. The map's marginal notes state that it is compiled from some 20 source maps including 'Jaferiyes' (likely after Ptolemy), an Arabic map of India, four Portuguese maps of Asia, and a map by Christopher Columbus of the West Indies — a claim that makes the map an important indirect witness to Columbus's lost cartography. The map was rediscovered at Topkapı in 1929 during the palace's conversion to a museum and was first scholarly published by the orientalist Paul Kahle. It became a fixture of fringe-history writing after the engineer Arlington Mallery, and later the historian Charles Hapgood in 'Maps of the Ancient Sea Kings' (1966), argued that the southern landmass on the map represents Antarctica drawn before the continent was glaciated, and therefore proves the existence of an advanced lost civilization. This 'ice-free Antarctica' claim has been comprehensively rejected by mainstream scholarship — most thoroughly by the geologist Paul V. Heinrich and the cartographer Gregory C. McIntosh, whose 'The Piri Reis Map of 1513' (2000) showed that the southern coastline is best explained as an artifact of contemporary cartographic conventions for 'Terra Australis' and as compressed/extended South American coast, not as a memory of pre-glacial Antarctica.",
   "aliases": [
     {
       "name": "Piri Reis Haritası",
@@ -32,5 +33,113 @@
   "origin": "A single physical artifact; held at the Topkapı Palace Museum in Istanbul, Turkey.",
   "first_reported": "1513",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Named for its author, Piri Reis (Hadji Muhiddin Piri Ibn Hadji Mehmed), an Ottoman Turkish admiral and cartographer (c. 1465–1553).",
+    "meaning": "'Reis' is an Ottoman naval rank meaning 'admiral' or 'captain'.",
+    "first_use": "AH 919 / AD 1513 — the date inscribed on the map itself."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "1513",
+      "event": "Piri Reis completes the world map at Gallipoli (or possibly Constantinople)",
+      "significance": "Creation of the artifact",
+      "source": "Map's own inscription; Wikipedia, 'Piri Reis map'"
+    },
+    {
+      "date": "1929",
+      "event": "Map rediscovered at the Topkapı Palace during its conversion into a museum",
+      "significance": "Returns the map to scholarly and public attention",
+      "source": "Wikipedia, 'Piri Reis map'"
+    },
+    {
+      "date": "1933",
+      "event": "Paul Kahle publishes a major early scholarly study of the map",
+      "significance": "Begins modern academic study",
+      "source": "Kahle, P. (1933)"
+    },
+    {
+      "date": "1956",
+      "event": "U.S. Navy hydrographic engineer Arlington H. Mallery argues the southern coastline depicts Antarctica before the ice",
+      "significance": "Origin of the 'ice-free Antarctica' claim",
+      "source": "Hapgood (1966) cites Mallery"
+    },
+    {
+      "date": "1966",
+      "event": "Publication of Charles Hapgood's 'Maps of the Ancient Sea Kings'",
+      "significance": "Mainstream popularization of the lost-civilization reading; widely circulated through fringe-history media",
+      "source": "Hapgood, C. (1966)"
+    },
+    {
+      "date": "2000",
+      "event": "Publication of Gregory C. McIntosh, 'The Piri Reis Map of 1513'",
+      "significance": "Definitive academic refutation of the Hapgood thesis and detailed reconstruction of the map's actual sources",
+      "source": "McIntosh, G. C. (2000)"
+    }
+  ],
+  "related": [
+    {
+      "id": "oronteus-finaeus-map",
+      "name": "Oronteus Finaeus map (1531)",
+      "relationship": "related",
+      "description": "Another 16th-century map cited by Hapgood as showing 'Antarctica before the ice'"
+    },
+    {
+      "id": "lost-civilization-claims",
+      "name": "Lost-civilization claims",
+      "relationship": "related",
+      "description": "Frame in which the Piri Reis map is enrolled by fringe-history writers"
+    },
+    {
+      "id": "vinland-map",
+      "name": "Vinland Map",
+      "relationship": "similar",
+      "description": "Other much-debated historical map controversies"
+    }
+  ],
+  "cultural_notes": "Among fringe-history audiences, the map is widely believed to depict ice-free Antarctica; mainstream historians regard this reading as definitively wrong.",
+  "sources": [
+    {
+      "id": "wikipedia-piri-reis-map",
+      "type": "website",
+      "title": "Piri Reis map",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Piri_Reis_map",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "mcintosh-2000",
+      "type": "book",
+      "title": "The Piri Reis Map of 1513",
+      "authors": [
+        "Gregory C. McIntosh"
+      ],
+      "publication": "University of Georgia Press",
+      "date": "2000",
+      "isbn": "978-0820321578"
+    },
+    {
+      "id": "hapgood-1966",
+      "type": "book",
+      "title": "Maps of the Ancient Sea Kings: Evidence of Advanced Civilization in the Ice Age",
+      "authors": [
+        "Charles H. Hapgood"
+      ],
+      "publication": "Chilton Books",
+      "date": "1966"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Topkapı Palace Museum",
+      "lat": 41.0115,
+      "lng": 28.9833
+    }
+  ]
 }

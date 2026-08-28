@@ -3,6 +3,7 @@
   "name": "Tommyknockers",
   "category": "fae_folklore",
   "description": "An American mining spirit of Cornish origin, brought to the United States by Welsh and Cornish immigrant miners in the 19th century. Described as a small, bearded, mining-clothed figure whose knocking on mine walls warns miners of collapse or guides them to ore.",
+  "full_description": "Tommyknockers are mine-dwelling spirits derived from the Cornish 'knocker' or 'knacker' tradition. In Cornwall and Devon they were described as gnome-like creatures roughly two feet tall with a disproportionately large head, long arms, wrinkled skin, and white whiskers. Welsh and Cornish miners brought the belief to Pennsylvania in the 1820s, and following the gold and silver rushes Cornish miners (nicknamed 'Cousin Jacks') carried it to Colorado, Nevada, and California. American tommyknockers were said to knock on mine walls to warn miners of impending collapse, lead them toward ore, and reward those who left bits of pasty as offerings. Belief persisted strikingly late: in 1956, when a large Western mine closed, fourth- and fifth-generation miners reportedly petitioned the owners to set the knockers free so they could move on. Folklorist Ronald M. James's 1992 article 'Knockers, Knackers, and Ghosts: Immigrant Folklore in the Western Mines' (Western Folklore 51:2, 153-177) is the standard scholarly reference. Stephen King's 1987 novel The Tommyknockers brought the term to a mass audience, though King's plot diverges from the historical folklore.",
   "aliases": [
     {
       "name": "Knocker",
@@ -48,5 +49,120 @@
   "origin": "Original tradition in Cornwall and Devon, England, and Wales; carried by Cornish and Welsh immigrant miners to the eastern United States from the 1820s and to the American West following gold and silver rushes.",
   "first_reported": "Pre-19th century",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Cornish English 'knocker' / 'knacker' for the knocking spirit; 'tommyknocker' is the American compound. 'Tommy' likely from the British nickname for an ordinary man (as in 'Tommy Atkins').",
+    "meaning": "A spirit that knocks on mine walls",
+    "first_use": "American 'tommyknocker' usage attested in 19th-century Western mining communities; Cornish 'knocker' attested earlier"
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "Pre-1820",
+      "event": "Knocker tradition established in Cornwall and Devon",
+      "significance": "Origin of the tradition",
+      "source": "Cornish oral tradition"
+    },
+    {
+      "date": "1820s",
+      "event": "Welsh and Cornish miners bring knocker beliefs to Pennsylvania",
+      "significance": "Earliest American transmission",
+      "source": "Ronald M. James (1992)"
+    },
+    {
+      "date": "1849-1860s",
+      "event": "Cornish 'Cousin Jack' miners carry tradition to California, Colorado, and Nevada following gold and silver rushes",
+      "significance": "Establishes American tommyknocker as a distinct regional tradition",
+      "source": "James, R. M. (1992)"
+    },
+    {
+      "date": "1928",
+      "event": "Hardy Boys novel Hunting for Hidden Gold features chapter eight titled 'Tommy-clockers' (variant)",
+      "significance": "Early American popular-culture reference",
+      "source": "Hardy Boys, Hunting for Hidden Gold (1928)"
+    },
+    {
+      "date": "1956",
+      "event": "On the closure of a major Western mine, fourth- and fifth-generation miners reportedly petition the owners to release the knockers so they may move to other mines",
+      "significance": "Striking evidence of mid-20th-century persistence of belief",
+      "source": "James, R. M. (1992)"
+    },
+    {
+      "date": "1987",
+      "event": "Stephen King publishes The Tommyknockers (Putnam)",
+      "significance": "Mass-market revival of the term in horror fiction (with a science-fiction plot diverging from folklore)",
+      "source": "King, S., The Tommyknockers (Putnam, 1987)"
+    },
+    {
+      "date": "1992",
+      "event": "Ronald M. James publishes 'Knockers, Knackers, and Ghosts: Immigrant Folklore in the Western Mines' in Western Folklore 51:2, pp. 153-177",
+      "significance": "Standard scholarly account",
+      "source": "James, R. M. (1992)"
+    }
+  ],
+  "related": [
+    {
+      "id": "knocker",
+      "name": "Knocker (Cornish/Devon)",
+      "relationship": "superset",
+      "description": "Cornish original tradition"
+    },
+    {
+      "id": "leprechaun",
+      "name": "Leprechaun",
+      "relationship": "similar",
+      "description": "Irish dwarf-being (cited in Wikipedia as Irish counterpart)"
+    },
+    {
+      "id": "kobold",
+      "name": "Kobold",
+      "relationship": "similar",
+      "description": "German mine and household spirit"
+    },
+    {
+      "id": "duende",
+      "name": "Duende",
+      "relationship": "similar",
+      "description": "Iberian dwarf-being"
+    }
+  ],
+  "cultural_notes": "Miners gave offerings (pasty crusts) and avoided whistling underground; tommyknockers were respected as protectors so long as they were respected in turn.",
+  "sources": [
+    {
+      "id": "wikipedia-knocker",
+      "type": "website",
+      "title": "Knocker (folklore)",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Knocker_(folklore)",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "james-1992",
+      "type": "article",
+      "title": "Knockers, Knackers, and Ghosts: Immigrant Folklore in the Western Mines",
+      "authors": [
+        "Ronald M. James"
+      ],
+      "publication": "Western Folklore",
+      "date": "1992",
+      "pages": "vol. 51, no. 2, pp. 153-177"
+    },
+    {
+      "id": "king-1987",
+      "type": "book",
+      "title": "The Tommyknockers",
+      "authors": [
+        "Stephen King"
+      ],
+      "publication": "G. P. Putnam's Sons",
+      "date": "1987",
+      "isbn": "978-0399133145"
+    }
+  ],
+  "locations": []
 }

@@ -3,6 +3,7 @@
   "name": "Vampires",
   "category": "undead",
   "description": "Vampires are undead or supernatural beings from predominantly Eastern European folklore that survive by feeding on the blood of the living; the modern concept emerged primarily from 18th-century Slavic vampire panics and was transformed into the aristocratic Gothic figure through 19th-century literature.",
+  "full_description": "Vampires are one of the most globally recognized supernatural figures — undead or supernatural beings that survive by consuming the blood or life force of the living. While blood-drinking supernatural entities appear in folklore worldwide (Mesopotamian demons, Hebrew demonology's Lilith, Greek Lamia, Chinese jiangshi, Malay penanggalan), the specific 'vampire' tradition emerged primarily from Eastern European — especially South Slavic and Romanian — folklore and 18th-century documented 'vampire panics.' The word 'vampire' likely derives from Old Slavic 'onpyr' and entered English around 1732 in reports about Eastern European outbreaks. In folkloric tradition (before 19th-century literary influence), vampires were typically bloated, dark-complexioned undead who rose from graves to prey on relatives and neighbors. They were associated with disease outbreaks, suspicious deaths, and decomposition misinterpreted as supernatural activity. The most dramatic documented outbreaks include the cases of Petar Blagojević (1725) and Arnold Paole (1726–1732), which prompted official Habsburg imperial investigations and widespread European publications. The 19th-century literary tradition — beginning with John Polidori's 'The Vampyre' (1819) and culminating in Bram Stoker's Dracula (1897) — transformed the bloated peasant revenant into the aristocratic, pale, sophisticated seducer, reversing many folkloric characteristics. Modern attributes such as vulnerability to sunlight, the inability to cast reflections, and the high-collared cape are largely literary inventions.",
   "aliases": [
     {
       "name": "Vampir",
@@ -70,5 +71,159 @@
   "origin": "The vampire tradition is most strongly associated with Eastern and Southeastern Europe (Serbia, Romania, Bulgaria, Greece, Poland, Russia), but blood-drinking supernatural beings appear in folklore worldwide.",
   "first_reported": "Ancient",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "The word 'vampire' entered European languages in the early 18th century, likely from Serbian vampir. The ultimate origin is disputed but commonly traced to Old Slavic onpyr (with characteristic nasal vowels of Old Bulgarian). The word first appeared in English around 1732 in news reports about Eastern European cases.",
+    "meaning": "Undead blood-drinker; the specific etymology of the Slavic root remains debated by philologists",
+    "first_use": "English: approximately 1732 (in reports about Eastern European vampire panics). Serbian/South Slavic written attestation: earlier, mid-17th century"
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "1725-01-01",
+      "event": "Petar Blagojević case in Kisolova, Serbia: a man reportedly dies and then returns to kill nine neighbors within eight days; official Habsburg investigation exhumes and destroys the corpse",
+      "significance": "First widely publicized documented vampire investigation; attracted European-wide attention",
+      "source": "Habsburg official records, 1725; reported in Wienerisches Diarium"
+    },
+    {
+      "date": "1726-01-01",
+      "event": "Arnold Paole case begins in Medveđa, Serbia: an ex-soldier claims before death to have been bitten by a vampire; after his death, neighbors begin dying; Habsburg military physician Johann Flückinger conducts an official investigation producing the Visum et Repertum report",
+      "significance": "Most thoroughly documented historical vampire investigation; the Visum et Repertum (1732) is the primary historical source",
+      "source": "Flückinger, J. (1732), Visum et Repertum"
+    },
+    {
+      "date": "1732-01-01",
+      "event": "The Visum et Repertum report on the Arnold Paole case published; triggers continent-wide vampire debate in European intellectual circles",
+      "significance": "Brings vampire belief to the attention of Enlightenment Europe; prompts official Habsburg prohibition of corpse exhumations",
+      "source": "Flückinger, J. (1732), Visum et Repertum"
+    },
+    {
+      "date": "1819-01-01",
+      "event": "John Polidori publishes The Vampyre; the first influential prose vampire fiction, featuring the aristocratic Lord Ruthven; published alongside Byron's fragment",
+      "significance": "Founding text of literary vampire tradition; establishes the aristocratic seducer template",
+      "source": "Polidori, J. (1819), The Vampyre, New Monthly Magazine"
+    },
+    {
+      "date": "1871-01-01",
+      "event": "Sheridan Le Fanu publishes Carmilla; first significant lesbian vampire narrative; features a sympathetic vampire antagonist",
+      "significance": "Significant expansion of the literary vampire tradition; influence on Stoker and subsequent fiction",
+      "source": "Le Fanu, S. (1872), Carmilla (in In a Glass Darkly)"
+    },
+    {
+      "date": "1892-01-01",
+      "event": "Mercy Brown case in Exeter, Rhode Island: family of tuberculosis victims exhume Mercy Brown's body and burn her heart and organs, believing her vampirism to be causing the deaths of other family members",
+      "significance": "Most documented American vampire case; reflects New England vampire panic tradition",
+      "source": "Providence Journal (March 1892)"
+    },
+    {
+      "date": "1897-01-01",
+      "event": "Bram Stoker publishes Dracula; the definitive vampire novel; creates Count Dracula based in Transylvania",
+      "significance": "The defining literary vampire; establishes nearly all modern vampire conventions",
+      "source": "Stoker, B. (1897), Dracula, Archibald Constable and Company"
+    }
+  ],
+  "related": [
+    {
+      "id": "strigoi",
+      "name": "Strigoi",
+      "relationship": "regional_variant",
+      "description": "Romanian vampire/undead figure; closely related to the general vampire tradition"
+    },
+    {
+      "id": "vrykolakas",
+      "name": "Vrykolakas",
+      "relationship": "regional_variant",
+      "description": "Greek revenant/vampire; a bloated undead that preys on living relatives"
+    },
+    {
+      "id": "jiangshi",
+      "name": "Jiangshi",
+      "relationship": "similar",
+      "description": "Chinese hopping undead that absorbs life force; Asian parallel to the European vampire"
+    },
+    {
+      "id": "kuntilanak",
+      "name": "Kuntilanak",
+      "relationship": "similar",
+      "description": "Indonesian female spirit that drinks blood; Southeast Asian parallel"
+    },
+    {
+      "id": "chupacabra",
+      "name": "Chupacabra",
+      "relationship": "related",
+      "description": "Modern Latin American cryptid that drains the blood of livestock; described as a modern vampire continuation"
+    },
+    {
+      "id": "lilith",
+      "name": "Lilith",
+      "relationship": "related",
+      "description": "Hebrew demoness who preys on sleeping men and infants; ancient antecedent of the vampire tradition"
+    }
+  ],
+  "cultural_notes": "In Eastern European folk tradition, vampires were understood as genuine physical threats — undead bodies that physically rose from graves to harm the living. Prevention focused on proper burial rituals, and destruction required physical methods (staking, beheading, burning). The belief system provided a framework for understanding disease, unexpected death, and the fear of premature burial.",
+  "sources": [
+    {
+      "id": "barber-1988",
+      "type": "book",
+      "title": "Vampires, Burial, and Death: Folklore and Reality",
+      "authors": [
+        "Paul Barber"
+      ],
+      "publication": "Yale University Press",
+      "date": "1988"
+    },
+    {
+      "id": "stoker-1897",
+      "type": "book",
+      "title": "Dracula",
+      "authors": [
+        "Bram Stoker"
+      ],
+      "publication": "Archibald Constable and Company",
+      "date": "1897"
+    },
+    {
+      "id": "polidori-1819",
+      "type": "article",
+      "title": "The Vampyre",
+      "authors": [
+        "John Polidori"
+      ],
+      "publication": "New Monthly Magazine",
+      "date": "1819"
+    },
+    {
+      "id": "fluckinger-1732",
+      "type": "archive",
+      "title": "Visum et Repertum (Report on the Arnold Paole case)",
+      "authors": [
+        "Johann Flückinger"
+      ],
+      "date": "1732",
+      "notes": "Habsburg official investigation report; primary historical source for the Arnold Paole vampire case"
+    },
+    {
+      "id": "bell-2001",
+      "type": "book",
+      "title": "Food for the Dead: On the Trail of New England's Vampires",
+      "authors": [
+        "Michael E. Bell"
+      ],
+      "publication": "Carroll & Graf",
+      "date": "2001"
+    },
+    {
+      "id": "wikipedia-vampire",
+      "type": "website",
+      "title": "Vampire — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Vampire",
+      "accessed": "2026-05-08"
+    }
+  ],
+  "locations": []
 }

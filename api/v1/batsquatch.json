@@ -3,6 +3,7 @@
   "name": "Batsquatch",
   "category": "cryptid",
   "description": "A winged, ape-like cryptid said to inhabit the area around Mount St. Helens and adjacent forests of western Washington. Best known from a 1994 sighting by Brian Canfield in Pierce County.",
+  "full_description": "Batsquatch is a modern American cryptid associated with the volcanic and forested terrain around Mount St. Helens in Washington State. The name is a portmanteau of 'bat' and 'Sasquatch'. The creature is described as roughly nine feet tall with a humanoid, ape-like body, leathery bat-like wings, blue or purple fur, sharp teeth, yellow eyes, and a wolf- or dog-like muzzle. The most cited encounter is the April 1994 report by 18-year-old Brian Canfield, who said his pickup truck stalled on a remote road south of Mount Rainier and a winged figure landed in front of him before flying away; the Tacoma News Tribune ran the story and reporter C. R. Roberts is credited with coining the name 'Batsquatch'. Older popular accounts also tie the cryptid to the period following the 1980 eruption of Mount St. Helens, but contemporary 1980 reports are not well documented in mainstream sources.",
   "aliases": [
     {
       "name": "Bat-Squatch",
@@ -29,5 +30,111 @@
   "origin": "Reports center on the southern Cascades of Washington State, particularly around Mount St. Helens and Mount Rainier in Pierce, Skamania, and Lewis counties.",
   "first_reported": "1980-05-18",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Coined in print in 1994 by Tacoma News Tribune reporter C. R. Roberts following Brian Canfield's reported encounter, blending 'bat' with 'Sasquatch'.",
+    "meaning": "Portmanteau describing a Sasquatch-like being with bat wings.",
+    "first_use": "1994, in C. R. Roberts's reporting in the Tacoma News Tribune (Washington)"
+  },
+  "sightings_stats": {
+    "total_documented": 5,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0,
+    "date_range": {
+      "earliest": "1994",
+      "latest": "2026"
+    }
+  },
+  "timeline": [
+    {
+      "date": "1980-05-18",
+      "event": "Eruption of Mount St. Helens; popular accounts associate the early Batsquatch lore with the eruption's aftermath",
+      "significance": "Provides the geographic and folkloric backdrop",
+      "source": "Popular cryptid sources"
+    },
+    {
+      "date": "1994-04-16",
+      "event": "Brian Canfield reports a winged creature near Camp One Road, Pierce County, Washington; his pickup truck stalls before the encounter",
+      "significance": "Foundational documented sighting; coining of the term 'Batsquatch'",
+      "source": "Tacoma News Tribune (C. R. Roberts), April 1994"
+    },
+    {
+      "date": "1994-04",
+      "event": "Reporter C. R. Roberts coins the name 'Batsquatch' in the Tacoma News Tribune",
+      "significance": "Anchors the cryptid's name in print",
+      "source": "Tacoma News Tribune"
+    }
+  ],
+  "related": [
+    {
+      "id": "mothman",
+      "name": "Mothman",
+      "relationship": "similar",
+      "description": "Winged humanoid cryptid of West Virginia"
+    },
+    {
+      "id": "bigfoot",
+      "name": "Bigfoot",
+      "relationship": "related",
+      "description": "Pacific Northwest hominid cryptid; Batsquatch borrows the 'Sasquatch' element of its name"
+    },
+    {
+      "id": "jersey-devil",
+      "name": "Jersey Devil",
+      "relationship": "similar",
+      "description": "Winged cryptid of the New Jersey Pine Barrens"
+    },
+    {
+      "id": "owlman",
+      "name": "Owlman",
+      "relationship": "similar",
+      "description": "Winged humanoid cryptid of Cornwall, England"
+    }
+  ],
+  "cultural_notes": "Treated locally as a quirky regional cryptid, often invoked in tourism, brewery branding, and cryptid media.",
+  "sources": [
+    {
+      "id": "cryptidz-batsquatch",
+      "type": "website",
+      "title": "Batsquatch",
+      "publication": "Cryptid Wiki (Fandom)",
+      "url": "https://cryptidz.fandom.com/wiki/Batsquatch",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "tacoma-news-tribune-1994",
+      "type": "news",
+      "title": "Article on Brian Canfield's encounter (coining 'Batsquatch')",
+      "authors": [
+        "C. R. Roberts"
+      ],
+      "publication": "Tacoma News Tribune",
+      "date": "1994-04"
+    },
+    {
+      "id": "coleman-clark-1999",
+      "type": "book",
+      "title": "Cryptozoology A to Z: The Encyclopedia of Loch Monsters, Sasquatch, Chupacabras, and Other Authentic Mysteries of Nature",
+      "authors": [
+        "Loren Coleman",
+        "Jerome Clark"
+      ],
+      "publication": "Simon & Schuster",
+      "date": "1999",
+      "isbn": "978-0684856025"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Mount St. Helens",
+      "lat": 46.1912,
+      "lng": -122.1944
+    },
+    {
+      "name": "Camp One Road / Lake Kapowsin area",
+      "lat": 46.95,
+      "lng": -122.2
+    }
+  ]
 }

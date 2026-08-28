@@ -3,6 +3,7 @@
   "name": "Belial",
   "category": "demon_angel",
   "description": "A major figure of evil in Jewish, Christian and Western occult tradition. Originally a Hebrew Bible noun meaning 'worthlessness' or 'wickedness'; personified in Second Temple literature, especially the Dead Sea Scrolls, as the Angel of Darkness. Later named one of the four crown princes of Hell.",
+  "full_description": "Belial (בְּלִיַּעַל, Beliyaʿal) is a Hebrew term meaning 'worthlessness' or 'wickedness' that appears 27 times in the Hebrew Bible, most often in the phrases 'sons of Belial' (b'nei beliyaʿal) and 'man of Belial' to denote scoundrels and lawbreakers. In Second Temple Jewish literature — most prominently the Qumran Dead Sea Scrolls (c. 200 BCE – 70 CE) — Belial is fully personified as a demonic figure, the Angel of Darkness who leads the Sons of Darkness against the Sons of Light in the War Scroll (1QM). The Damascus Document speaks of the 'three nets of Belial' (fornication, wealth, and pollution of the sanctuary). The Christian New Testament uses the form Beliar (2 Cor 6:15) as a name for Satan or his counterpart. Late-medieval and early-modern grimoires (Pseudomonarchia Daemonum, 1577; Lesser Key of Solomon / Goetia, 17th c.) catalog Belial as a great king of Hell who commands legions of spirits. Anton LaVey's Satanic Bible (1969) names Belial one of the Four Crown Princes of Hell. The 15th-century Buch Belial / Book of Belial (Jacobus de Teramo, 1382) is the earliest extended literary work centered on him.",
   "aliases": [
     {
       "name": "Beliyaʿal (בְּלִיַּעַל)",
@@ -44,5 +45,181 @@
   "origin": "Originating in the Hebrew Bible and the Second Temple Jewish literature of the southern Levant, especially the Qumran Dead Sea Scrolls. Subsequently a figure of Christian theology and Western esoteric tradition.",
   "first_reported": "c. 7th century BCE",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "From Biblical Hebrew בְּלִיַּעַל (Beliyaʿal). Most commonly analyzed as bĕlî ('without') + yaʿal ('worth' or 'use'), giving 'worthlessness' or 'wickedness'.",
+    "meaning": "Originally a common abstract noun for worthlessness or wickedness, used in formulae such as 'sons of Belial' for scoundrels. In Second Temple usage, the abstract becomes a personified demonic figure.",
+    "first_use": "Pre-exilic Hebrew Bible (e.g. Deut 13:13; Judges 19:22); fully personified in the Qumran Dead Sea Scrolls (c. 2nd century BCE)"
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "c. 7th c. BCE",
+      "event": "Belial appears as a common noun for 'worthlessness' / 'wickedness' in the Hebrew Bible (Deut 13:13; Judges 19:22; 1 Sam 2:12; etc.)",
+      "significance": "Lexical origin",
+      "source": "Hebrew Bible"
+    },
+    {
+      "date": "c. 2nd c. BCE",
+      "event": "Qumran texts (War Scroll 1QM, Community Rule 1QS) personify Belial as the Angel of Darkness leading the Sons of Darkness",
+      "significance": "Earliest full personification",
+      "source": "Dead Sea Scrolls (1QM, 1QS)"
+    },
+    {
+      "date": "c. 1st c. BCE – 1st c. CE",
+      "event": "Damascus Document (CD) speaks of the 'three nets of Belial': fornication, wealth, and pollution of the sanctuary",
+      "significance": "Major Qumran demonological motif",
+      "source": "Damascus Document (CD)"
+    },
+    {
+      "date": "c. 56 CE",
+      "event": "Paul, 2 Corinthians 6:15: 'What concord has Christ with Beliar?'",
+      "significance": "Earliest Christian use of the name (in Greek form)",
+      "source": "2 Corinthians 6:15"
+    },
+    {
+      "date": "1382",
+      "event": "Jacobus de Teramo writes Liber Belial / Buch Belial, a literary trial of Christ before God in which Belial accuses on behalf of Hell",
+      "significance": "Earliest sustained literary work on Belial",
+      "source": "Jacobus de Teramo, Liber Belial (1382)"
+    },
+    {
+      "date": "1577",
+      "event": "Johann Weyer's Pseudomonarchia Daemonum lists Belial as a king of Hell commanding 80 legions",
+      "significance": "Brings Belial into the early-modern grimoire tradition",
+      "source": "Weyer, Pseudomonarchia Daemonum (1577)"
+    },
+    {
+      "date": "17th c.",
+      "event": "The Lesser Key of Solomon (Lemegeton) names Belial as the 68th demon of the Ars Goetia, mighty king with two beautiful angelic forms",
+      "significance": "Standardizes early-modern occult image",
+      "source": "Lemegeton (Ars Goetia)"
+    },
+    {
+      "date": "1969",
+      "event": "Anton LaVey's The Satanic Bible names Belial one of the Four Crown Princes of Hell, with the Book of Belial as its third book",
+      "significance": "20th-century re-anchoring in modern Satanism",
+      "source": "LaVey, A. (1969), The Satanic Bible"
+    }
+  ],
+  "related": [
+    {
+      "id": "satan",
+      "name": "Satan",
+      "relationship": "related",
+      "description": "In some traditions Belial is identified with Satan; in others he is a distinct major demon"
+    },
+    {
+      "id": "beelzebub",
+      "name": "Beelzebub",
+      "relationship": "similar",
+      "description": "Other major demon-prince of biblical origin"
+    },
+    {
+      "id": "lucifer",
+      "name": "Lucifer",
+      "relationship": "similar",
+      "description": "Other figure of major fallen-angel tradition"
+    },
+    {
+      "id": "asmodeus",
+      "name": "Asmodeus",
+      "relationship": "similar",
+      "description": "Major Jewish/Christian demon of post-biblical literature"
+    },
+    {
+      "id": "mastema",
+      "name": "Mastema",
+      "relationship": "similar",
+      "description": "Demonic figure of the Book of Jubilees, conceptually parallel"
+    }
+  ],
+  "cultural_notes": "Across traditions, Belial signifies wickedness so absolute that it is named: from a label for human scoundrels to the principle of cosmic darkness itself.",
+  "sources": [
+    {
+      "id": "wiki-belial",
+      "type": "website",
+      "title": "Belial",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Belial",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "ddd-1999-belial",
+      "type": "book",
+      "title": "Dictionary of Deities and Demons in the Bible (DDD), entry 'Belial'",
+      "authors": [
+        "Karel van der Toorn",
+        "Bob Becking",
+        "Pieter W. van der Horst (eds.)"
+      ],
+      "publication": "Brill / Eerdmans (2nd ed.)",
+      "date": "1999",
+      "isbn": "978-0802824912"
+    },
+    {
+      "id": "war-scroll-1qm",
+      "type": "archive",
+      "title": "The War Scroll (1QM)",
+      "publication": "Qumran Cave 1",
+      "date": "c. 1st c. BCE"
+    },
+    {
+      "id": "community-rule-1qs",
+      "type": "archive",
+      "title": "The Community Rule (1QS)",
+      "publication": "Qumran Cave 1",
+      "date": "c. 100 BCE"
+    },
+    {
+      "id": "damascus-document",
+      "type": "archive",
+      "title": "The Damascus Document (CD)",
+      "publication": "Cairo Genizah / Qumran",
+      "date": "c. 1st c. BCE"
+    },
+    {
+      "id": "weyer-1577",
+      "type": "book",
+      "title": "Pseudomonarchia Daemonum",
+      "authors": [
+        "Johann Weyer"
+      ],
+      "date": "1577"
+    },
+    {
+      "id": "goetia-mathers",
+      "type": "book",
+      "title": "The Lesser Key of Solomon (Ars Goetia)",
+      "authors": [
+        "S. L. MacGregor Mathers (ed.)",
+        "Aleister Crowley (ed.)"
+      ],
+      "publication": "Society for the Propagation of Religious Truth",
+      "date": "1904 (modern ed.)"
+    },
+    {
+      "id": "lavey-1969",
+      "type": "book",
+      "title": "The Satanic Bible",
+      "authors": [
+        "Anton Szandor LaVey"
+      ],
+      "publication": "Avon Books",
+      "date": "1969",
+      "isbn": "978-0380015399"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Qumran (Dead Sea Scrolls)",
+      "lat": 31.7411,
+      "lng": 35.4592
+    }
+  ]
 }

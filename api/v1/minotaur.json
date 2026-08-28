@@ -3,6 +3,7 @@
   "name": "Minotaur",
   "category": "mythological_creature",
   "description": "In Greek mythology, the bull-headed son of Pasiphaë and the Cretan Bull, kept by King Minos in Daedalus's Labyrinth at Knossos and slain by the Athenian hero Theseus with the help of Ariadne and her thread.",
+  "full_description": "The Minotaur (Greek Μῑνώταυρος, Mīnṓtauros, 'Bull of Minos') was, in classical Greek mythology, a hybrid creature with the body of a man and the head and tail of a bull. His proper name in Pseudo-Apollodorus's Bibliotheca is Asterion (Asterius). He was born to Pasiphaë, queen of Crete, after her unnatural union with a magnificent white bull sent to King Minos by Poseidon — a union she consummated with the aid of a wooden cow built by the master craftsman Daedalus. Unable to be raised normally, the Minotaur was confined by Minos in an elaborate maze (the Labyrinth) that Daedalus built at Knossos. As a war indemnity, Athens was compelled to send seven youths and seven maidens to Crete every nine years (or annually, in some versions) as tribute to be devoured by the Minotaur. The Athenian prince Theseus volunteered as one of the tributes, killed the Minotaur in the heart of the Labyrinth (with a sword in some versions, with his bare hands in others), and escaped by following a thread provided by Minos's daughter Ariadne. The myth is principally preserved in Pseudo-Apollodorus's Bibliotheca, Plutarch's Life of Theseus, Ovid's Metamorphoses and Heroides, Catullus's Carmen 64, and Diodorus Siculus, with iconographic and architectural echoes at Knossos.",
   "aliases": [
     {
       "name": "Asterion",
@@ -40,5 +41,179 @@
   "origin": "The Minotaur is a figure of ancient Cretan and pan-Hellenic Greek mythology, transmitted across the Greek and Roman Mediterranean and into the wider European tradition.",
   "first_reported": "c. 700 BCE",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Ancient Greek Μῑνώταυρος (Mīnṓtauros), a compound of the proper name Μίνως (Minos) and ταῦρος (taûros, 'bull').",
+    "meaning": "'Bull of Minos.' The creature's personal name in Pseudo-Apollodorus is Asterion ('starry').",
+    "first_use": "Earliest extant attestations are in Hesiod (fragmentary Catalogue of Women) and in 5th-century Athenian literature (notably Sophocles, Euripides)"
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "0700-01-01",
+      "event": "Earliest extant Greek references to Pasiphaë, the Bull of Minos, and Asterion (the Minotaur) in archaic poetry and vase painting",
+      "significance": "Establishes the myth in Greek tradition",
+      "source": "Hesiod, Catalogue of Women fragments; archaic Cretan and Athenian vase painting"
+    },
+    {
+      "date": "0050-01-01",
+      "event": "Ovid's Metamorphoses VIII recounts the myth with Daedalus, the Labyrinth, and Theseus",
+      "significance": "Standard Latin literary version",
+      "source": "Ovid, Metamorphoses VIII"
+    },
+    {
+      "date": "0100-01-01",
+      "event": "Pseudo-Apollodorus's Bibliotheca III.1.4 and Epitome 1 names the Minotaur 'Asterion' and gives the canonical prose narrative",
+      "significance": "Standard mythographic reference",
+      "source": "Pseudo-Apollodorus, Bibliotheca"
+    },
+    {
+      "date": "0125-01-01",
+      "event": "Plutarch's Life of Theseus integrates the myth into a quasi-historical narrative of early Athens",
+      "significance": "Most influential ancient biographical treatment",
+      "source": "Plutarch, Life of Theseus"
+    },
+    {
+      "date": "1900-03-23",
+      "event": "Sir Arthur Evans begins excavations at Knossos, uncovering the Bronze Age palace complex he names 'Minoan'",
+      "significance": "Modern archaeological anchor for the Cretan elements of the myth",
+      "source": "Evans, A. (1921–1936), The Palace of Minos"
+    },
+    {
+      "date": "1947-01-01",
+      "event": "Pablo Picasso completes his Vollard Suite Minotaur etchings",
+      "significance": "Influential 20th-century artistic reception of the figure",
+      "source": "Picasso, P. (Vollard Suite, 1933–1937; further work 1947)"
+    }
+  ],
+  "related": [
+    {
+      "id": "centaur",
+      "name": "Centaur",
+      "relationship": "similar",
+      "description": "Other Greek mythological hybrid (horse-man)"
+    },
+    {
+      "id": "satyr",
+      "name": "Satyr",
+      "relationship": "similar",
+      "description": "Other Greek mythological hybrid (goat-man)"
+    },
+    {
+      "id": "lamassu",
+      "name": "Lamassu",
+      "relationship": "similar",
+      "description": "Mesopotamian bull-bodied protective deity"
+    },
+    {
+      "id": "medusa",
+      "name": "Medusa",
+      "relationship": "related",
+      "description": "Other Greek mythological monster slain by a hero"
+    },
+    {
+      "id": "sphinx",
+      "name": "Sphinx",
+      "relationship": "related",
+      "description": "Other Greek mythological hybrid encountered by a hero"
+    }
+  ],
+  "cultural_notes": "The Minotaur survives as a foundational figure of Western mythological imagination, used as a symbol of confinement, the bestial within the human, and the heroic confrontation with the unknown.",
+  "sources": [
+    {
+      "id": "apollodorus-bibliotheca",
+      "type": "book",
+      "title": "Bibliotheca (The Library)",
+      "authors": [
+        "Pseudo-Apollodorus"
+      ],
+      "publication": "Loeb Classical Library",
+      "date": "1st–2nd c. CE"
+    },
+    {
+      "id": "ovid-metamorphoses",
+      "type": "book",
+      "title": "Metamorphoses",
+      "authors": [
+        "Ovid"
+      ],
+      "publication": "Loeb Classical Library",
+      "date": "c. 8 CE"
+    },
+    {
+      "id": "plutarch-theseus",
+      "type": "book",
+      "title": "Life of Theseus (Parallel Lives)",
+      "authors": [
+        "Plutarch"
+      ],
+      "publication": "Loeb Classical Library",
+      "date": "c. 100 CE"
+    },
+    {
+      "id": "catullus-64",
+      "type": "book",
+      "title": "Carmen 64",
+      "authors": [
+        "Catullus"
+      ],
+      "publication": "Loeb Classical Library",
+      "date": "1st c. BCE"
+    },
+    {
+      "id": "diodorus-siculus",
+      "type": "book",
+      "title": "Bibliotheca historica IV",
+      "authors": [
+        "Diodorus Siculus"
+      ],
+      "publication": "Loeb Classical Library",
+      "date": "1st c. BCE"
+    },
+    {
+      "id": "evans-1921",
+      "type": "book",
+      "title": "The Palace of Minos at Knossos",
+      "authors": [
+        "Arthur Evans"
+      ],
+      "publication": "Macmillan",
+      "date": "1921–1936"
+    },
+    {
+      "id": "nilsson-1950",
+      "type": "book",
+      "title": "The Minoan-Mycenaean Religion and Its Survival in Greek Religion",
+      "authors": [
+        "Martin P. Nilsson"
+      ],
+      "publication": "Lund: C. W. K. Gleerup",
+      "date": "1950"
+    },
+    {
+      "id": "wikipedia-minotaur",
+      "type": "website",
+      "title": "Minotaur",
+      "url": "https://en.wikipedia.org/wiki/Minotaur",
+      "publication": "Wikipedia",
+      "accessed": "2026-05-07"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Knossos",
+      "lat": 35.2978,
+      "lng": 25.1631
+    },
+    {
+      "name": "Athens",
+      "lat": 37.9838,
+      "lng": 23.7275
+    }
+  ]
 }

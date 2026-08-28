@@ -3,6 +3,7 @@
   "name": "Toyol",
   "category": "entity_spirit",
   "description": "An undead infant familiar in Malay and Indonesian folklore, kept by a shaman or owner to steal money and small valuables for its master. Belief remains widespread across the Malay Archipelago.",
+  "full_description": "The toyol (Malay) or tuyul (Indonesian) is a small, child-like spirit kept as a familiar by a bomoh, dukun, or pawang (shaman) for the benefit of a paying client. Traditionally described as resembling a near-naked toddler with greenish-grey or pale skin, sharp teeth, red eyes, and pointed ears, the toyol is set to tasks such as theft of small sums of money - tradition holds it 'steals half' rather than the whole, allowing the loss to go unnoticed. Other regional names include Javanese thuyul, Sundanese kecit, and the Hokkien Chinese-diaspora kwee kia. Belief is widespread across Malaysia, Indonesia, Singapore, and Brunei, persisting alongside official Islam (which deems such practices haram). Origins are sometimes attributed to deceased fetuses or stillborn infants, though this is folkloric rather than ethnographically uniform. The toyol is a recurring figure in Malay-language horror cinema (notably the long-running Toyol franchise) and in popular Indonesian and Malaysian television and literature.",
   "aliases": [
     {
       "name": "Tuyul",
@@ -51,5 +52,80 @@
   "origin": "Belief is found throughout the Malay Archipelago and the Malay-Chinese diaspora, including Malaysia, Indonesia, Singapore, Brunei, and southern Thailand.",
   "first_reported": "Pre-colonial",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Malay toyol; cognate with Indonesian tuyul and Javanese thuyul. Etymology is uncertain.",
+    "meaning": "A small, infantile spirit kept as a familiar",
+    "first_use": "Recorded in 19th- and 20th-century ethnographies of Malay and Indonesian folk religion"
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "Pre-colonial",
+      "event": "Toyol/tuyul beliefs in Malay and Indonesian folk-religion oral tradition",
+      "significance": "Cultural baseline",
+      "source": "Malay/Indonesian oral tradition"
+    },
+    {
+      "date": "20th century",
+      "event": "Toyol/tuyul recorded in ethnographies of Malay and Indonesian folk religion",
+      "significance": "Scholarly documentation",
+      "source": "Various ethnographic works"
+    },
+    {
+      "date": "2007-2018",
+      "event": "Toyol horror franchise and other Malay-language films featuring the toyol drive popular culture engagement",
+      "significance": "Mass-media transmission of the figure",
+      "source": "Malay-language film industry"
+    }
+  ],
+  "related": [
+    {
+      "id": "tiyanak",
+      "name": "Tiyanak",
+      "relationship": "similar",
+      "description": "Filipino infant-vampire (Wikipedia identifies the Philippine equivalent of toyol as tiyanak)"
+    },
+    {
+      "id": "pontianak",
+      "name": "Pontianak",
+      "relationship": "related",
+      "description": "Malay female vampire-spirit; another major figure of Malay supernatural belief"
+    },
+    {
+      "id": "pelesit",
+      "name": "Pelesit",
+      "relationship": "related",
+      "description": "Another Malay familiar spirit"
+    },
+    {
+      "id": "polong",
+      "name": "Polong",
+      "relationship": "related",
+      "description": "Malay bottled-blood familiar"
+    },
+    {
+      "id": "hantu-raya",
+      "name": "Hantu Raya",
+      "relationship": "related",
+      "description": "Malay 'great spirit' familiar"
+    }
+  ],
+  "cultural_notes": "Belief persists widely across Malaysia and Indonesia despite religious orthodoxy declaring such practices haram.",
+  "sources": [
+    {
+      "id": "wikipedia-toyol",
+      "type": "website",
+      "title": "Toyol",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Toyol",
+      "accessed": "2026-05-07"
+    }
+  ],
+  "locations": []
 }

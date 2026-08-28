@@ -3,6 +3,7 @@
   "name": "Jinn",
   "category": "entity_spirit",
   "description": "The jinn are sapient, invisible beings of pre-Islamic Arabian religion and Islamic theology, said to be created by God from smokeless fire. The Quran devotes Surah 72 (Al-Jinn) to them; belief in jinn remains widespread across the Muslim world.",
+  "full_description": "Jinn (Arabic: جِنّ; singular jinnī, جنّي) are a category of sapient supernatural beings central to pre-Islamic Arabian religion and to Islamic theology. The Quran teaches that God created humans from clay and jinn from a 'smokeless fire' or 'scorching wind' (Q 15:27, 55:15). Unlike angels, jinn possess free will and can be Muslim, Jewish, Christian, or unbelieving. Surah 72 of the Quran (سورة الجن, Al-Jinn) records a group of jinn overhearing the Prophet Muhammad's recitation and accepting Islam. Jinn live in a parallel world ordinarily concealed from the senses (the root j-n-n meaning 'to hide / cover'), have their own societies and tribes, can take many forms (especially serpents, dogs, and humans), can possess places and people, and can interbreed with humans in some traditional accounts. The Quran identifies Iblīs (the chief shaytān, 'devil') as a jinn who refused God's command to bow before Adam (Q 18:50). Sub-classes recognized in classical Arabic literature include the marid, ifrit, ghul, si'lat, and shaytan. The figure of the genie in a lamp comes via Antoine Galland's early-18th-century French translation of the One Thousand and One Nights and the embedded tale of 'Aladdin' (added to the Galland edition c. 1710). Survey data (Pew Research Center, 2012) shows that belief in jinn remains majority-held across many Muslim-majority societies — Morocco 86 %, Bangladesh 84 %, Pakistan 77 %, Afghanistan 70 %. Within contemporary Muslim communities, jinn are commonly invoked in explanations of mental illness, sleep paralysis, and uncanny events, and ruqyah (Islamic exorcism using Quranic recitation) is widely practiced.",
   "aliases": [
     {
       "name": "جن (jinn)",
@@ -72,5 +73,137 @@
   "origin": "Conceptually present throughout the Islamic world, with strong continuity with pre-Islamic Arabian religion and parallels in Persian, Turkic, Berber, Swahili, and Malay cultures.",
   "first_reported": "Pre-Islamic Arabia (pre-7th century CE)",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Arabic root ج-ن-ن (j-n-n), 'to hide, to conceal, to cover'",
+    "meaning": "'Hidden ones' / 'concealed beings'",
+    "first_use": "Pre-Islamic Arabian religion; explicit Quranic occurrences (7th century CE)"
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "0610-01-01",
+      "event": "Beginning of the Quranic revelation; jinn doctrine begins to take Islamic shape",
+      "significance": "Foundational scriptural framing",
+      "source": "Quran (traditional Islamic chronology)"
+    },
+    {
+      "date": "0860-01-01",
+      "event": "Al-Jahiz writes 'Kitab al-Hayawan' (Book of Animals), discussing jinn alongside natural creatures",
+      "significance": "Early classical-Arabic systematic discussion",
+      "source": "Al-Jahiz, Kitab al-Hayawan (c. 9th century)"
+    },
+    {
+      "date": "1372-01-01",
+      "event": "Al-Damiri's 'Hayat al-Hayawan' (Life of Animals) catalogues jinn taxonomy in detail",
+      "significance": "Major medieval Islamic encyclopedia of natural and supernatural beings",
+      "source": "Muhammad ibn Musa al-Damiri (c. 1372)"
+    },
+    {
+      "date": "1704-01-01",
+      "event": "Antoine Galland begins publishing 'Les Mille et Une Nuits' in French (1704–1717)",
+      "significance": "Introduces 'génie' / genie to European imagination, including the embedded Aladdin tale",
+      "source": "Galland, A. (1704–1717), Les Mille et Une Nuits"
+    },
+    {
+      "date": "2012-08-09",
+      "event": "Pew Research Center publishes 'The World's Muslims: Unity and Diversity', documenting that majorities in many Muslim-majority countries believe in jinn",
+      "significance": "First large-scale comparative survey of contemporary jinn belief",
+      "source": "Pew Research Center (2012)"
+    }
+  ],
+  "related": [
+    {
+      "id": "demon",
+      "name": "Demon",
+      "relationship": "similar",
+      "description": "Comparable supernatural-being category in Christian and Jewish traditions"
+    },
+    {
+      "id": "shaytan",
+      "name": "Shaytan / Iblis",
+      "relationship": "subset",
+      "description": "Rebellious jinn class in Islamic theology"
+    },
+    {
+      "id": "angel",
+      "name": "Angel (malak)",
+      "relationship": "counterpart",
+      "description": "In Islamic cosmology, jinn (free-willed, smokeless fire) parallel angels (obedient, light)"
+    },
+    {
+      "id": "pari",
+      "name": "Pari",
+      "relationship": "related",
+      "description": "Persian winged spirits often paralleled with jinn"
+    },
+    {
+      "id": "ghoul",
+      "name": "Ghoul (ghul)",
+      "relationship": "subset",
+      "description": "Cannibalistic, shapeshifting class of jinn of desolate places"
+    }
+  ],
+  "cultural_notes": "Jinn are accepted as real beings in mainstream Islamic theology and remain a living folk-religious presence across the Muslim world.",
+  "sources": [
+    {
+      "id": "wikipedia-jinn",
+      "type": "website",
+      "title": "Jinn",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Jinn",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "quran",
+      "type": "book",
+      "title": "The Quran",
+      "notes": "Especially Q 15:27, 55:15, 72 (Surah Al-Jinn), 18:50"
+    },
+    {
+      "id": "lebling-2010",
+      "type": "book",
+      "title": "Legends of the Fire Spirits: Jinn and Genies from Arabia to Zanzibar",
+      "authors": [
+        "Robert Lebling"
+      ],
+      "publication": "I. B. Tauris",
+      "date": "2010"
+    },
+    {
+      "id": "el-zein-2009",
+      "type": "book",
+      "title": "Islam, Arabs, and the Intelligent World of the Jinn",
+      "authors": [
+        "Amira El-Zein"
+      ],
+      "publication": "Syracuse University Press",
+      "date": "2009"
+    },
+    {
+      "id": "pew-2012",
+      "type": "paper",
+      "title": "The World's Muslims: Unity and Diversity",
+      "publication": "Pew Research Center",
+      "date": "2012",
+      "url": "https://www.pewresearch.org/religion/2012/08/09/the-worlds-muslims-unity-and-diversity-executive-summary/",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "galland-1704",
+      "type": "book",
+      "title": "Les Mille et Une Nuits",
+      "authors": [
+        "Antoine Galland (translator)"
+      ],
+      "publication": "Paris",
+      "date": "1704–1717"
+    }
+  ],
+  "locations": []
 }

@@ -3,6 +3,7 @@
   "name": "Owlman",
   "category": "cryptid",
   "description": "A winged humanoid cryptid reported around the parish church of St Mawnan and St Stephen in Cornwall, England, in 1976 and a handful of subsequent years. The case is heavily entangled with the self-described wizard and showman Tony 'Doc' Shiels, and is widely considered a hoax or folkloric construction.",
+  "full_description": "The Owlman of Mawnan is a winged humanoid cryptid associated with the wooded coastal churchyard of St Mawnan and St Stephen near the village of Mawnan Smith on the Helford River, Cornwall, England. The case was opened by sisters June (12) and Vicky (9) Melling on 17 April 1976, who reported seeing 'a large winged creature' hovering above the church tower; their father Don abruptly ended their family holiday after hearing the account, and the artist Tony 'Doc' Shiels collected a drawing from one of the girls and named the creature 'Owlman'. A second cluster of reports followed on 3 July 1976, when 14-year-olds Sally Chapman and Barbara Perry, camping in woods nearby, claimed to have seen 'a big owl with pointed ears, as big as a man', with glowing eyes and black pincer-like claws. Sporadic further reports were filed in 1978, 1979, 1989 and 1995, almost all collected by Shiels or by the cryptozoologist Jonathan Downes, who began investigating the case in 1989 and published The Owlman and Others in 1997. Witnesses describe a roughly 1.5-metre-tall figure with feathers, large wings, a flat owl-like face, pointed ears, red glowing eyes and clawed feet. The phenomenon has been compared, by Shiels and Downes among others, to the Mothman of Point Pleasant, West Virginia. Sceptics including occult historian Gareth Medway argue that the case has the hallmarks of a Shiels-orchestrated hoax: every detailed witness was either Shiels himself, a member of his circle, an anonymous letter-writer to the press, or someone who reported only to Shiels and was never independently interviewed. Mundane candidates include the Eurasian eagle-owl (Bubo bubo), occasional escapees of which have settled in the British countryside, and large barn owls or short-eared owls roosting in the church tower.",
   "aliases": [
     {
       "name": "Owlman of Mawnan",
@@ -39,5 +40,157 @@
   "origin": "Confined to the immediate vicinity of the parish church of St Mawnan and St Stephen, near Mawnan Smith on the Helford River in south Cornwall, England.",
   "first_reported": "1976-04-17",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "English; coined by artist and self-described wizard Tony 'Doc' Shiels after the first 1976 sightings",
+    "meaning": "'Owl-man'; a humanoid figure with the features of an owl",
+    "first_use": "1976, in Tony 'Doc' Shiels's reporting and pamphlets following the first Mawnan sightings"
+  },
+  "sightings_stats": {
+    "total_documented": 8,
+    "verified": 0,
+    "disputed": 8,
+    "debunked": 0,
+    "date_range": {
+      "earliest": "1976-04-17",
+      "latest": "1995"
+    }
+  },
+  "timeline": [
+    {
+      "date": "1976-04-17",
+      "event": "June and Vicky Melling, on holiday in Mawnan, see a large winged creature above the church tower; their father Don ends the family holiday early",
+      "significance": "Origin of the Owlman case",
+      "source": "Wikipedia, 'Owlman'"
+    },
+    {
+      "date": "1976-07-03",
+      "event": "Sally Chapman and Barbara Perry, both 14, camping near Mawnan church, report seeing a man-sized owl-like creature with glowing eyes and black claws",
+      "significance": "Best-corroborated initial sighting cluster",
+      "source": "Wikipedia, 'Owlman'"
+    },
+    {
+      "date": "1976-08-02",
+      "event": "Anonymous letter from a 'Sally Chapman' to the Falmouth Packet describing the encounter — a key contemporary print source",
+      "significance": "Earliest contemporary print account",
+      "source": "Falmouth Packet (1976)"
+    },
+    {
+      "date": "1978-06",
+      "event": "Two further reports from anonymous tourists, collected by Tony Shiels",
+      "significance": "Continuation of the case under Shiels's curation",
+      "source": "Wikipedia, 'Owlman'"
+    },
+    {
+      "date": "1979",
+      "event": "Further sporadic Mawnan-area reports collected by Shiels",
+      "significance": "Maintains the case in the Fortean press",
+      "source": "Wikipedia, 'Owlman'"
+    },
+    {
+      "date": "1989",
+      "event": "Jonathan Downes interviews witness 'Gavin' near Mawnan, describing a grey, ~5-foot creature with two huge black toes",
+      "significance": "First formal independent investigation",
+      "source": "Jonathan Downes, The Owlman and Others (1997)"
+    },
+    {
+      "date": "1995",
+      "event": "Further alleged sightings reported around the church",
+      "significance": "Last major cluster",
+      "source": "Wikipedia, 'Owlman'"
+    },
+    {
+      "date": "1997",
+      "event": "Jonathan Downes publishes The Owlman and Others",
+      "significance": "Canonical book-length treatment of the case",
+      "source": "Downes (1997), Bangor: CFZ Press"
+    },
+    {
+      "date": "2000",
+      "event": "Witnesses report hearing a loud, owl-like sound in Mullion churchyard, sometimes filed with the Owlman case",
+      "significance": "Last frequently cited incident",
+      "source": "Wikipedia, 'Owlman'"
+    }
+  ],
+  "related": [
+    {
+      "id": "mothman",
+      "name": "Mothman",
+      "relationship": "similar",
+      "description": "Point Pleasant, West Virginia winged humanoid cryptid (1966–67) often compared to Owlman"
+    },
+    {
+      "id": "morgawr",
+      "name": "Morgawr",
+      "relationship": "related",
+      "description": "Cornish sea-serpent cryptid (Falmouth Bay), also heavily associated with Tony Shiels"
+    },
+    {
+      "id": "spring-heeled-jack",
+      "name": "Spring-heeled Jack",
+      "relationship": "related",
+      "description": "Earlier British anomalous-humanoid tradition occasionally invoked in Owlman discussions"
+    },
+    {
+      "id": "cornwall-folklore-pisky",
+      "name": "Cornish Pisky / fae traditions",
+      "relationship": "related",
+      "description": "Folkloric backdrop in which the Owlman case sits"
+    }
+  ],
+  "cultural_notes": "Locally regarded as a curiosity tied to Mawnan Old Church; widely treated by sceptics as a hoax.",
+  "sources": [
+    {
+      "id": "wiki-owlman",
+      "type": "website",
+      "title": "Owlman",
+      "publication": "Wikipedia, the free encyclopedia",
+      "url": "https://en.wikipedia.org/wiki/Owlman",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "downes-1997",
+      "type": "book",
+      "title": "The Owlman and Others",
+      "authors": [
+        "Jonathan Downes"
+      ],
+      "publication": "CFZ Press",
+      "date": "1997"
+    },
+    {
+      "id": "downes-2006",
+      "type": "book",
+      "title": "The Owlman and Others (30th Anniversary Edition)",
+      "authors": [
+        "Jonathan Downes"
+      ],
+      "publication": "CFZ Press",
+      "date": "2006",
+      "isbn": "978-1905723027"
+    },
+    {
+      "id": "cornishbird-owlman",
+      "type": "website",
+      "title": "The Owlman of Mawnan Smith",
+      "publication": "The Cornish Bird Blog",
+      "url": "https://cornishbirdblog.com/the-owlman-of-mawnan-smith/",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "paranormaldailynews-owlman",
+      "type": "website",
+      "title": "Owlman of Mawnan: Cornwall's Mothman legend explained",
+      "publication": "Paranormal Daily News",
+      "url": "https://paranormaldailynews.com/mawnan-owlman-blurs-hoax-folklore-nightmare/7336/",
+      "accessed": "2026-05-07"
+    }
+  ],
+  "locations": [
+    {
+      "name": "St Mawnan and St Stephen's Church",
+      "lat": 50.0928,
+      "lng": -5.1042
+    }
+  ]
 }

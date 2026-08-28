@@ -3,6 +3,7 @@
   "name": "Strzyga",
   "category": "undead",
   "description": "The strzyga is a usually female demon from Polish Slavic folklore — a dual-souled being born with two hearts and two rows of teeth, whose demonic soul leaves the body after death to prey on the living by drinking blood and consuming organs.",
+  "full_description": "The strzyga (Polish, usually feminine; plural strzygi) is a creature from Polish and broader Slavic folklore occupying a unique position in vampire tradition. Unlike the conventional undead vampire who becomes monstrous through death, the strzyga is born with two souls — one human and one demonic — and two hearts, sometimes with two sets of teeth (the second barely visible) or other physical markers that identify the condition at birth. Children born with teeth already developed were also considered potential strzygi. The strzyga dies young, typically in childhood or early adulthood, and only one of the two souls passes to the afterlife. The remaining demonic soul animates the body, which rises as an undead creature. After death, the strzyga flies at night in the form of an owl, attacking travelers on lonely roads and woodland wanderers, drinking blood and consuming internal organs — with particular appetite for the heart and liver. The strzyga could temporarily satisfy itself with animal blood. In some traditions the strzyga resembles a banshee-like figure, heralding imminent death. Communities had specific countermeasures: decapitating the suspected strzyga corpse and burying the head separately, driving a stake through the body, burning the remains, or burying the body face-down with a sickle positioned around the head to prevent it from rising. Scattering poppy seeds near the grave forced the strzyga to stop and count before it could proceed, allowing time for protection. The strzyga tradition remained active in Polish rural communities through the late 19th and early 20th century, as documented in Władysław Reymont's Nobel Prize-winning novel Chłopi (The Peasants).",
   "aliases": [
     {
       "name": "Strzygi",
@@ -46,5 +47,99 @@
   "origin": "Primarily Polish folklore, with cognate traditions in Romanian, Albanian, and Hungarian folk belief. The broader strix tradition extends throughout the ancient and medieval Mediterranean and Eastern European world.",
   "first_reported": "1200-01-01",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "According to philologist Aleksander Brückner, the Polish strzyga derives from the Latin strix (plural striges) — a screech-owl or monstrous bird that fed on human flesh and blood in Roman and Greek mythology. The root spread into Slavic languages and Romanian (strigă), Albanian, and Hungarian cognates.",
+    "meaning": "From Latin strix: screech-owl; blood-drinking demon. The original Latin term appears in Ovid's Fasti and Pliny's Natural History as a blood-drinking, child-threatening nocturnal creature.",
+    "first_use": "The Latin strix tradition is attested in Roman literature (Ovid, 1st century CE). The Polish strzyga appears in medieval and early modern sources; remains documented in rural Polish folklore through at least the early 20th century."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "0001-01-01",
+      "event": "Ovid's Fasti describes the strix — a blood-drinking nocturnal owl-demon threatening children — establishing the Latin ancestor of the strzyga tradition",
+      "significance": "Classical Roman textual source for the strix concept",
+      "source": "Ovid, Fasti (c. 8 CE)"
+    },
+    {
+      "date": "1904-01-01",
+      "event": "Władysław Reymont begins publication of Chłopi (The Peasants), which depicts strzyga belief as an active part of late 19th-century Polish rural life; the novel wins the Nobel Prize in Literature in 1924",
+      "significance": "Most important literary documentation of the strzyga tradition in its lived context",
+      "source": "Reymont, W.S., Chłopi (The Peasants) (1904–1909)"
+    }
+  ],
+  "related": [
+    {
+      "id": "strigoi",
+      "name": "Strigoi",
+      "relationship": "similar",
+      "description": "Romanian undead vampire; shares the Latin strix etymological root and some characteristics but is a distinct tradition"
+    },
+    {
+      "id": "upior",
+      "name": "Upiór",
+      "relationship": "related",
+      "description": "Polish and broader Slavic vampire tradition; the strzyga is sometimes distinguished from the upiór by its living-born dual-soul nature"
+    },
+    {
+      "id": "strix",
+      "name": "Strix (Roman)",
+      "relationship": "related",
+      "description": "The Roman strix — blood-drinking, owl-like nocturnal demon — is the direct etymological and conceptual ancestor of the strzyga"
+    },
+    {
+      "id": "vampire",
+      "name": "Vampire (general)",
+      "relationship": "related",
+      "description": "The strzyga belongs to the broader Eastern European vampire complex but with the distinctive feature of being born rather than made"
+    }
+  ],
+  "cultural_notes": "The strzyga occupies an unusual and troubling position in folk cosmology: it is a person who is cursed from birth, through no fault of their own, to become a monster after death. Communities facing such individuals had to balance pity for the person with fear of what they would become. Protective measures were applied after death rather than during life, reflecting this ambivalence.",
+  "sources": [
+    {
+      "id": "wikipedia-strzyga",
+      "type": "website",
+      "title": "Strzyga",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Strzyga",
+      "accessed": "2026-05-08"
+    },
+    {
+      "id": "reymont-chlopi",
+      "type": "book",
+      "title": "Chłopi (The Peasants)",
+      "authors": [
+        "Władysław Stanisław Reymont"
+      ],
+      "publication": "Various (originally serialized in Tygodnik Ilustrowany)",
+      "date": "1904"
+    },
+    {
+      "id": "barber-1988",
+      "type": "book",
+      "title": "Vampires, Burial, and Death: Folklore and Reality",
+      "authors": [
+        "Paul Barber"
+      ],
+      "publication": "Yale University Press",
+      "date": "1988",
+      "isbn": "978-0300048599"
+    },
+    {
+      "id": "ovid-fasti",
+      "type": "archive",
+      "title": "Fasti",
+      "authors": [
+        "Ovid"
+      ],
+      "date": "0008-01-01",
+      "notes": "Latin source for the strix tradition; Book VI describes the blood-drinking nocturnal strix as direct ancestor of the strzyga"
+    }
+  ],
+  "locations": []
 }

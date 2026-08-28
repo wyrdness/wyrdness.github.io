@@ -3,6 +3,7 @@
   "name": "Spring-Heeled Jack",
   "category": "urban_legend",
   "description": "A leaping, claw-handed, sometimes flame-breathing figure reported in England from the late 1830s through the early 20th century. Initially a panic in suburban London, Spring-Heeled Jack became one of the foundational characters of Victorian urban legend and penny dreadful fiction.",
+  "full_description": "Spring-Heeled Jack is the popular name for a humanoid figure who, beginning in 1837–1838, was reported to attack pedestrians (most often young women) in suburban London by leaping out of darkness, scratching them with metallic claws, and sometimes breathing blue or white flame in their faces before bounding away over walls and rooftops. Reports from this initial London panic concentrated in 1838, prompted civic action by the Lord Mayor of London, and were taken seriously enough to attract national newspaper coverage. Through the rest of the 19th century, similar reports surfaced periodically across England — Aldershot, the Midlands, Lincolnshire, Liverpool — before tapering off in the early 20th century. The figure was rapidly absorbed into popular culture: penny dreadfuls of the 1860s–80s recast him alternately as villain, vigilante, and even nobleman in disguise. Modern historians and folklorists treat Spring-Heeled Jack as a composite of pranksters and assailants, an early example of mass-mediated urban legend, and a bogeyman invoked to frighten Victorian children. Identity theories ranging from Henry Beresford, the 3rd Marquess of Waterford, to extraterrestrials and demons have been proposed, none of them established.",
   "aliases": [
     {
       "name": "Spring-heel'd Jack",
@@ -39,5 +40,150 @@
   "origin": "Concentrated initially in the suburbs of London (1837–1843), then in scattered reports across the English Midlands, the Home Counties, Lincolnshire, Hampshire (Aldershot Garrison, 1877), and northern England (Liverpool, 1888 and 1904).",
   "first_reported": "1837",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "English popular press of the 1830s; the figure is named for his alleged ability to make great leaps as if his heels were spring-loaded.",
+    "meaning": "'Spring-heeled' (with springs in the heels) + 'Jack' (a generic English nickname for an unnamed assailant or trickster, as in 'Jack the Ripper').",
+    "first_use": "1837–1838 (English newspapers and broadsheets)"
+  },
+  "sightings_stats": {
+    "total_documented": 200,
+    "verified": 0,
+    "disputed": 100,
+    "debunked": 0,
+    "date_range": {
+      "earliest": "1837",
+      "latest": "1904"
+    }
+  },
+  "timeline": [
+    {
+      "date": "1837-10-01",
+      "event": "Reported attack on Mary Stevens, a servant, by a cloaked, claw-handed figure on Clapham Common, London",
+      "significance": "First widely-cited Spring-Heeled Jack incident",
+      "source": "London newspapers (1837–38)"
+    },
+    {
+      "date": "1838-01-09",
+      "event": "The Lord Mayor of London, Sir John Cowan, reads aloud at the Mansion House an anonymous letter describing wager-driven attacks by a 'gentleman' as ghost, bear, and devil, prompting national press coverage",
+      "significance": "Transforms the case from local rumour to national panic",
+      "source": "The Times of London (January 1838)"
+    },
+    {
+      "date": "1838-02-19",
+      "event": "Jane Alsop, 18, is attacked at her father's house in Bearbinder Lane, Old Ford, by a cloaked figure who breathes blue flame and tears her dress with metallic claws",
+      "significance": "The signature incident of the legend; reported in every London paper of the week",
+      "source": "The Times (1838-02-22), Old Bailey trial coverage"
+    },
+    {
+      "date": "1838-02-28",
+      "event": "Lucy Scales, 18, is attacked in Limehouse on her way home from her brother's house; the assailant breathes blue flame in her face and bounds away",
+      "significance": "Confirms a pattern of leaping, flame-breathing attacker reports",
+      "source": "The Times (March 1838)"
+    },
+    {
+      "date": "1872-11",
+      "event": "The 'Peckham Ghost' panic: cloaked, leaping figure reported attacking residents of Peckham, south London",
+      "source": "London press"
+    },
+    {
+      "date": "1877-08",
+      "event": "Aldershot Garrison sentry incidents: soldiers report being slapped by a leaping figure who is unaffected by gunfire",
+      "source": "Illustrated Police News (1877)"
+    },
+    {
+      "date": "1888",
+      "event": "Reports in Everton, Liverpool, of a Spring-Heeled Jack figure leaping between rooftops near St Francis Xavier's Church",
+      "source": "Liverpool Citizen (1888)"
+    },
+    {
+      "date": "1904",
+      "event": "William Henry Street, Everton: reports of a leaping cloaked figure on the rooftops, traditionally treated as the last episode of the original legend",
+      "source": "Liverpool Echo (September 1904)"
+    }
+  ],
+  "related": [
+    {
+      "id": "mothman",
+      "name": "Mothman",
+      "relationship": "similar",
+      "description": "Later flying-humanoid panic with similar regional-press dynamics"
+    },
+    {
+      "id": "phantom-attackers",
+      "name": "Phantom attackers (mad gassers etc.)",
+      "relationship": "similar",
+      "description": "Anomalous-assailant urban legends"
+    },
+    {
+      "id": "owlman",
+      "name": "Owlman of Mawnan",
+      "relationship": "similar",
+      "description": "Later British anomalous-humanoid panic"
+    }
+  ],
+  "cultural_notes": "By the late Victorian era, 'Spring-Heeled Jack' was a generic British bogeyman invoked to make children come home before dark.",
+  "sources": [
+    {
+      "id": "wikipedia-shj",
+      "type": "website",
+      "title": "Spring-heeled Jack",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Spring-heeled_Jack",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "haining-1977",
+      "type": "book",
+      "title": "The Legend and Bizarre Crimes of Spring-Heeled Jack",
+      "authors": [
+        "Peter Haining"
+      ],
+      "publication": "Frederick Muller",
+      "date": "1977",
+      "isbn": "978-0584103267"
+    },
+    {
+      "id": "bell-2012",
+      "type": "book",
+      "title": "The Legend of Spring-Heeled Jack: Victorian Urban Folklore and Popular Cultures",
+      "authors": [
+        "Karl Bell"
+      ],
+      "publication": "Boydell Press",
+      "date": "2012",
+      "isbn": "978-1843837237"
+    },
+    {
+      "id": "dash-1996",
+      "type": "article",
+      "title": "Spring-Heeled Jack: To Victorian Bugaboo from Suburban Ghost",
+      "authors": [
+        "Mike Dash"
+      ],
+      "publication": "Fortean Studies",
+      "date": "1996"
+    },
+    {
+      "id": "times-1838",
+      "type": "news",
+      "title": "The Late Outrages at Old Ford",
+      "publication": "The Times of London",
+      "date": "1838-02-22"
+    },
+    {
+      "id": "old-bailey-online",
+      "type": "archive",
+      "title": "Old Bailey Proceedings Online",
+      "url": "https://www.oldbaileyonline.org",
+      "accessed": "2026-05-07"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Old Ford / Bow",
+      "lat": 51.53,
+      "lng": -0.0265
+    }
+  ]
 }

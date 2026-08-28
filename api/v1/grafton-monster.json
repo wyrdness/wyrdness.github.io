@@ -3,6 +3,7 @@
   "name": "Grafton Monster",
   "category": "cryptid",
   "description": "A pale, headless humanoid creature reportedly seen by a local journalist near Grafton, West Virginia, on the night of 16 June 1964. The legend rests on this single newspaper-published account.",
+  "full_description": "The Grafton Monster is a West Virginian cryptid associated with a single, well-documented sighting in June 1964. On the night of 16 June 1964, journalist Robert Cockrell, a reporter for the Grafton Sentinel, was driving along U.S. Route 119 near the Tygart Valley River outside Grafton when he reported encountering a large, smooth, 'seal-like' figure roughly 7–9 feet (2.1–2.7 m) tall with no visible head. Cockrell published an account in the Grafton Sentinel; a 18 June 1964 follow-up reported teenagers searching the Riverside Drive area armed with flashlights, and a 19 June piece characterised the affair as 'spring fever'. No further widely accepted sightings have been reliably documented in the news record. Modern commentators frequently group the Grafton Monster with other West Virginia cryptids of the 1960s such as the Mothman of Point Pleasant (1966–1967) and the Flatwoods Monster (1952). The town of Grafton has since adopted the legend, hosting a Grafton Monster Festival from 2024 onward.",
   "aliases": [
     {
       "name": "Headless Monster of Grafton",
@@ -29,5 +30,99 @@
   "origin": "Restricted to a single sighting near Grafton, Taylor County, West Virginia.",
   "first_reported": "1964-06-16",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Named for the city of Grafton, Taylor County, West Virginia, where the 1964 sighting occurred.",
+    "meaning": "'Monster of Grafton'",
+    "first_use": "Grafton Sentinel newspaper coverage, June 1964"
+  },
+  "sightings_stats": {
+    "total_documented": 1,
+    "verified": 0,
+    "disputed": 1,
+    "debunked": 0,
+    "date_range": {
+      "earliest": "1964-06-16",
+      "latest": "1964-06-16"
+    }
+  },
+  "timeline": [
+    {
+      "date": "1964-06-16",
+      "event": "Robert Cockrell reports encountering a 7–9 ft headless figure on Riverside Drive near the Tygart Valley River, Grafton, WV",
+      "significance": "Foundational sighting",
+      "source": "Grafton Sentinel, June 1964"
+    },
+    {
+      "date": "1964-06-18",
+      "event": "Grafton Sentinel reports teenagers armed with flashlights searching Riverside Drive for the creature",
+      "significance": "Local response and amplification",
+      "source": "Grafton Sentinel, 18 June 1964"
+    },
+    {
+      "date": "1964-06-19",
+      "event": "Grafton Sentinel follow-up characterises the affair as 'spring fever'",
+      "significance": "Earliest local skeptical reframing",
+      "source": "Grafton Sentinel, 19 June 1964"
+    },
+    {
+      "date": "2024-06",
+      "event": "Inaugural Grafton Monster Festival held in Grafton, WV",
+      "significance": "Formal civic adoption of the cryptid for tourism",
+      "source": "Local news coverage, 2024"
+    }
+  ],
+  "related": [
+    {
+      "id": "mothman",
+      "name": "Mothman",
+      "relationship": "related",
+      "description": "Contemporary West Virginia cryptid (Point Pleasant, 1966–67)"
+    },
+    {
+      "id": "flatwoods-monster",
+      "name": "Flatwoods Monster",
+      "relationship": "related",
+      "description": "Earlier West Virginia humanoid sighting (1952)"
+    },
+    {
+      "id": "bigfoot",
+      "name": "Bigfoot",
+      "relationship": "similar",
+      "description": "Large bipedal humanoid cryptid; Grafton Monster lacks the hairy ape-like description"
+    }
+  ],
+  "cultural_notes": "Treated locally as a quasi-mascot rather than as a being widely believed to exist.",
+  "sources": [
+    {
+      "id": "wikipedia-grafton-monster",
+      "type": "website",
+      "title": "Grafton monster",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Grafton_monster",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "wv-encyclopedia-grafton-monster",
+      "type": "website",
+      "title": "Grafton Monster",
+      "publication": "e-WV: The West Virginia Encyclopedia",
+      "url": "https://www.wvencyclopedia.org/entries/2435",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "grafton-sentinel-1964-06",
+      "type": "news",
+      "title": "Grafton Sentinel coverage of the Grafton Monster sightings",
+      "publication": "Grafton Sentinel",
+      "date": "1964-06"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Riverside Drive / U.S. Route 119, Grafton",
+      "lat": 39.3406,
+      "lng": -80.0192
+    }
+  ]
 }

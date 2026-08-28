@@ -3,6 +3,7 @@
   "name": "Mary Celeste",
   "category": "anomaly",
   "description": "An American brigantine found drifting in good order but completely abandoned in the Atlantic east of the Azores on 4 December 1872; her ten-person company — Captain Benjamin Briggs, his wife and infant daughter, and seven crew — were never seen again.",
+  "full_description": "The Mary Celeste was a 282-ton American merchant brigantine discovered drifting between the Azores and Portugal on 4 December 1872 by the Canadian brigantine Dei Gratia under Captain David Morehouse. The ship was largely seaworthy under partial sail with cargo (1,701 barrels of denatured alcohol bound for Genoa) intact, but her single lifeboat was missing and her crew gone. The last log entry was dated 25 November 1872. The case was investigated at salvage hearings in Gibraltar from 17 December 1872 by Attorney General Frederick Solly-Flood, whose suspicions of foul play were never substantiated. Subsequent theories include a panicked abandonment due to fears of an alcohol-vapour explosion, a misread sounding of the pumps suggesting the ship was sinking, a waterspout, and seaquake-induced cargo shift. The vessel — built in 1861 at Spencer's Island, Nova Scotia, originally as the Amazon — was deliberately wrecked in 1885 off Haiti by Captain Gilman C. Parker as part of an insurance fraud. Arthur Conan Doyle's fictional 1884 short story 'J. Habakuk Jephson's Statement' is largely responsible for the modern legend, including the spelling 'Marie Celeste'.",
   "aliases": [
     {
       "name": "Marie Celeste",
@@ -32,5 +33,172 @@
   "origin": "The events occurred in the central North Atlantic, with the abandonment somewhere east of the Azores. The ship was found at approximately 38°20′N 17°15′W, midway between the Azores and the Portuguese coast.",
   "first_reported": "1872-12-04",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "The brigantine was launched in 1861 at Spencer's Island, Nova Scotia, as the Amazon. After grounding, salvage and resale to American owners in 1868 she was re-registered under the name Mary Celeste.",
+    "meaning": "The name combines the English Christian name Mary with celeste, from Latin caelestis ('heavenly').",
+    "first_use": "Re-registration as Mary Celeste, 1868"
+  },
+  "sightings_stats": {
+    "total_documented": 1,
+    "verified": 1,
+    "disputed": 0,
+    "debunked": 0,
+    "date_range": {
+      "earliest": "1872-12-04",
+      "latest": "1872-12-13"
+    }
+  },
+  "timeline": [
+    {
+      "date": "1861-05-18",
+      "event": "Brigantine Amazon launched at Spencer's Island, Nova Scotia",
+      "significance": "Construction of the vessel later known as Mary Celeste",
+      "source": "Wikipedia, citing Hicks (2004) and Begg (2005)"
+    },
+    {
+      "date": "1868-01-01",
+      "event": "Vessel sold to American owners and re-registered as Mary Celeste",
+      "significance": "Renaming under U.S. flag",
+      "source": "Wikipedia, citing Begg (2005)"
+    },
+    {
+      "date": "1872-11-05",
+      "event": "Mary Celeste, under Captain Benjamin Spooner Briggs, departs New York for Genoa with 1,701 barrels of denatured alcohol",
+      "significance": "Beginning of the fatal voyage",
+      "source": "Wikipedia, citing court records"
+    },
+    {
+      "date": "1872-11-25",
+      "event": "Final log entry on board Mary Celeste, recorded at 8 a.m.",
+      "significance": "Last documented activity by the crew",
+      "source": "Wikipedia, citing court records"
+    },
+    {
+      "date": "1872-12-04",
+      "event": "Mary Celeste sighted by the Canadian brigantine Dei Gratia, Captain David Morehouse, and found abandoned at approximately 38°20′N 17°15′W",
+      "significance": "Discovery of the abandoned vessel",
+      "source": "Dei Gratia log; Vice-Admiralty Court of Gibraltar"
+    },
+    {
+      "date": "1872-12-13",
+      "event": "Mary Celeste brought into Gibraltar by a Dei Gratia prize crew",
+      "significance": "Beginning of the salvage process",
+      "source": "Vice-Admiralty Court of Gibraltar"
+    },
+    {
+      "date": "1872-12-17",
+      "event": "Salvage hearings open before Attorney General Frederick Solly-Flood",
+      "significance": "Foul-play hypotheses explored but not substantiated",
+      "source": "Vice-Admiralty Court of Gibraltar"
+    },
+    {
+      "date": "1873-04-08",
+      "event": "Salvage award of £1,700 (about one fifth of the value of ship and cargo) determined",
+      "significance": "Formal close of the salvage proceedings",
+      "source": "Vice-Admiralty Court of Gibraltar"
+    },
+    {
+      "date": "1884-01-01",
+      "event": "Arthur Conan Doyle publishes 'J. Habakuk Jephson's Statement' in the Cornhill Magazine",
+      "significance": "Fictional account introduces the spelling 'Marie Celeste' and many enduring legendary embellishments",
+      "source": "Cornhill Magazine, January 1884"
+    },
+    {
+      "date": "1885-01-03",
+      "event": "Mary Celeste deliberately wrecked on the Rochelois Bank, Haiti, by Captain Gilman C. Parker as part of an insurance fraud",
+      "significance": "Final fate of the vessel",
+      "source": "Wikipedia, citing Hicks (2004)"
+    }
+  ],
+  "related": [
+    {
+      "id": "phantom-ships",
+      "name": "Phantom Ships",
+      "relationship": "related",
+      "description": "Broader maritime tradition of crewless or vanished vessels"
+    },
+    {
+      "id": "bermuda-triangle",
+      "name": "Bermuda Triangle",
+      "relationship": "similar",
+      "description": "Sometimes invoked as a comparable disappearance, despite the Mary Celeste being far from the Triangle"
+    },
+    {
+      "id": "eilean-mor-lighthouse",
+      "name": "Eilean Mor Lighthouse",
+      "relationship": "similar",
+      "description": "Another well-known unsolved disappearance of a small crew"
+    }
+  ],
+  "cultural_notes": "The Mary Celeste's modern cultural status as the archetypal 'ghost ship' is largely a 20th-century construction; the historical record itself supports an unromantic, mundane reading.",
+  "sources": [
+    {
+      "id": "fay-1942",
+      "type": "book",
+      "title": "The Story of the Mary Celeste",
+      "authors": [
+        "Charles Edey Fay"
+      ],
+      "publication": "Salem, MA: Peabody Museum",
+      "date": "1942"
+    },
+    {
+      "id": "begg-2005",
+      "type": "book",
+      "title": "Mary Celeste: The Greatest Mystery of the Sea",
+      "authors": [
+        "Paul Begg"
+      ],
+      "publication": "Pearson Longman",
+      "date": "2005",
+      "isbn": "978-0582782259"
+    },
+    {
+      "id": "hicks-2004",
+      "type": "book",
+      "title": "Ghost Ship: The Mysterious True Story of the Mary Celeste and Her Missing Crew",
+      "authors": [
+        "Brian Hicks"
+      ],
+      "publication": "Ballantine Books",
+      "date": "2004",
+      "isbn": "978-0345466662"
+    },
+    {
+      "id": "doyle-1884",
+      "type": "article",
+      "title": "J. Habakuk Jephson's Statement",
+      "authors": [
+        "Arthur Conan Doyle"
+      ],
+      "publication": "Cornhill Magazine",
+      "date": "1884-01"
+    },
+    {
+      "id": "wikipedia-mary-celeste",
+      "type": "website",
+      "title": "Mary Celeste",
+      "url": "https://en.wikipedia.org/wiki/Mary_Celeste",
+      "publication": "Wikipedia",
+      "accessed": "2026-05-07"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Discovery position",
+      "lat": 38.333,
+      "lng": -17.25
+    },
+    {
+      "name": "Spencer's Island, Nova Scotia",
+      "lat": 45.4,
+      "lng": -64.7
+    },
+    {
+      "name": "Gibraltar (Vice-Admiralty Court)",
+      "lat": 36.14,
+      "lng": -5.35
+    }
+  ]
 }

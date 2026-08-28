@@ -3,6 +3,7 @@
   "name": "Al-Mi'raj",
   "category": "mythological_creature",
   "description": "Al-Mi'raj is a yellow, hare- or rabbit-like creature with a single black horn described in medieval Arabic 'wonders' literature, most famously in Zakariya al-Qazwini's 13th-century Marvels of Things Created. It is said to live on Dragon Island in the Indian Ocean and to drive all other beasts to flight at the sight of it.",
+  "full_description": "Al-Mi'raj (Arabic: ٱلْمِعْرَاج, al-miʿrāj) is a mythical creature of medieval Arabic literature. Its earliest sustained description is in the cosmographical work ʿAjāʾib al-Makhlūqāt wa Gharāʾib al-Mawjūdāt ('Marvels of Things Created and Miraculous Aspects of Things Existing', also known as The Wonders of Creation) by the 13th-century Persian polymath Zakariya al-Qazwini (c. 1203–1283). Qazwini describes the al-mi'raj as a yellow beast resembling a hare or rabbit in size and shape, distinguished by a single prominent black horn rising from its head like that of a unicorn. The animal is said to inhabit a place called Jazīrat al-Tinnīn ('Dragon Island' or 'Sea-Serpent Island') in the Indian Ocean. According to a version of the legend of Iskandar (Alexander the Great), the islanders gave the creature to him as a gift after he defeated a dragon menacing their flocks. Despite its small, otherwise rabbit-like form, the al-mi'raj is described as fearsome: all wild beasts flee at the sight of it, and Arabic and Persian sources treat it as dangerous to humans as well. The oldest surviving illustrated manuscripts of Qazwini's text — including Bavarian State Library Cod. arab. 464, dated to c. 1279/1280 or 1377 — preserve early depictions of the creature. Qazwini's al-Mi'raj sits within a wider Arabic-Persian tradition of horned hares and 'unicorns' that overlaps with the European jackalope motif and with the karkadann.",
   "aliases": [
     {
       "name": "ٱلْمِعْرَاج",
@@ -43,5 +44,84 @@
   "origin": "A creature of Arabic-Persian wonders literature; located in the storyworld of the medieval Indian Ocean, on the unmapped 'Dragon Island'.",
   "first_reported": "c. 1260",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Arabic; manuscript transmission yields several variants (al-miʿrāj, ʿarāj, baqrāj, al-Maharāj).",
+    "meaning": "The standard form al-miʿrāj is unrelated to the better-known Islamic term miʿrāj for the Prophet Muhammad's ascent to heaven; the creature's name is treated as a proper noun.",
+    "first_use": "13th century, in Qazwini's Marvels of Things Created."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "c. 1260",
+      "event": "Zakariya al-Qazwini composes ʿAjāʾib al-Makhlūqāt wa Gharāʾib al-Mawjūdāt (Marvels of Things Created)",
+      "significance": "Earliest sustained description of the al-Mi'raj",
+      "source": "Qazwini (c. 1260)"
+    },
+    {
+      "date": "c. 1279",
+      "event": "Earliest surviving illustrated manuscript of Qazwini's Marvels of Things Created (Bavarian State Library, Cod. arab. 464)",
+      "significance": "Preserves early visual depictions of the al-Mi'raj",
+      "source": "Bavarian State Library, Cod. arab. 464, fol. 63"
+    }
+  ],
+  "related": [
+    {
+      "id": "karkadann",
+      "name": "Karkadann",
+      "relationship": "similar",
+      "description": "Persian / Arabic single-horned beast, sometimes equated with the rhinoceros, often appearing in the same wonders literature"
+    },
+    {
+      "id": "jackalope",
+      "name": "Jackalope",
+      "relationship": "similar",
+      "description": "North American horned-hare folkloric creature with later popular and taxidermy traditions"
+    },
+    {
+      "id": "abada",
+      "name": "Abada",
+      "relationship": "similar",
+      "description": "Two-horned Central African 'unicorn' with antidotal properties"
+    },
+    {
+      "id": "unicorn",
+      "name": "Unicorn",
+      "relationship": "similar",
+      "description": "European single-horned mythical creature"
+    }
+  ],
+  "cultural_notes": "Treated within the wonders-literature framework as a real but remote creature of the Indian Ocean.",
+  "sources": [
+    {
+      "id": "wikipedia-al-miraj",
+      "type": "website",
+      "title": "Al-Mi'raj",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Al-Mi%27raj",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "qazwini-aja'ib",
+      "type": "book",
+      "title": "ʿAjāʾib al-Makhlūqāt wa Gharāʾib al-Mawjūdāt (Marvels of Things Created and Miraculous Aspects of Things Existing)",
+      "authors": [
+        "Zakariya al-Qazwini"
+      ],
+      "date": "c. 1260"
+    },
+    {
+      "id": "bsb-cod-arab-464",
+      "type": "archive",
+      "title": "Bavarian State Library, Cod. arab. 464 — illustrated Qazwini manuscript including al-Mi'raj",
+      "publication": "Bayerische Staatsbibliothek, Munich",
+      "date": "c. 1279/1280 or 1377"
+    }
+  ],
+  "locations": []
 }

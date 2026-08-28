@@ -3,6 +3,7 @@
   "name": "Dames Blanches",
   "category": "fae_folklore",
   "description": "Female fairy beings of French folklore, particularly recorded in Lorraine, Normandy, and the Pyrenees, who haunt liminal places — bridges, fords, ravines, forest paths — and confront travellers with a ritual challenge such as a dance.",
+  "full_description": "The Dames Blanches ('White Ladies') are a class of female supernatural beings in French folklore, attested most strongly in Lorraine, Normandy, and the Pyrenean region of southwestern France. They appear as beautiful pale women dressed in white, lurking at narrow or liminal places — bridges, fords, ravines, woodland paths — typically by night. A traveller who meets one is required to perform a courtesy: a curtsey, a dance, a passage on the knees. Compliance is rewarded with safe passage and sometimes small gifts; refusal is punished by being thrown into a ravine, tormented by the Dame's animal allies (lutins, cats, owls), or driven mad. The most famous individual figures include La Dame d'Aprigny at Bayeux, who demanded a dance in a ravine on the road into the city, and the Dame of Pont d'Angot, who required travellers to cross her bridge on their knees. Folklorist John Arnott MacCulloch and 19th-century French folklorists such as Pierre Saintyves and Paul Sébillot interpreted them as Christianised echoes of pre-Christian female deities (Matres, fountain-goddesses), comparable to the German Weiße Frauen and the Dutch Witte Wieven. In Brittany the term Dame Blanche is also applied to a banshee-like wailing spirit who portends death in noble families.",
   "aliases": [
     {
       "name": "White Ladies",
@@ -50,5 +51,116 @@
   "origin": "France, especially Lorraine, Normandy, and the Pyrenees; cognate traditions across the Germanic and Low-Countries area.",
   "first_reported": "1882",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "French dame ('lady') + blanche ('white').",
+    "meaning": "'White Ladies', a calque of the Germanic Weiße Frauen tradition.",
+    "first_use": "Documented in French folkloric collections from at least the early 19th century; isolated medieval references (e.g. the chronicle traditions concerning the Counts of Lusignan and the fairy Mélusine) prefigure the type."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "1190-01-01",
+      "event": "Walter Map's De Nugis Curialium records fairy-bride traditions in Anglo-Norman France",
+      "significance": "Medieval prefiguration of fairy-lady traditions",
+      "source": "Walter Map (c. 1190)"
+    },
+    {
+      "date": "1882-01-01",
+      "event": "Paul Sébillot publishes Traditions et superstitions de la Haute-Bretagne",
+      "significance": "Major regional folkloric collection including Dame Blanche material",
+      "source": "Sébillot (1882)"
+    },
+    {
+      "date": "1904-01-01",
+      "event": "Pierre Saintyves and other folklorists collect Norman and Lorrain Dame Blanche stories",
+      "significance": "Period of systematic collection",
+      "source": "Saintyves and others"
+    },
+    {
+      "date": "1932-01-01",
+      "event": "John Arnott MacCulloch's Celtic Mythology offers comparative analysis linking Dames Blanches to Celtic Matres",
+      "significance": "Comparative-mythology framing",
+      "source": "MacCulloch (1932)"
+    }
+  ],
+  "related": [
+    {
+      "id": "white-lady",
+      "name": "White Lady",
+      "relationship": "superset",
+      "description": "Pan-European class of pale female ghosts and spirits"
+    },
+    {
+      "id": "banshee",
+      "name": "Banshee",
+      "relationship": "similar",
+      "description": "Irish wailing female death-omen, paralleled by Breton Dame Blanche"
+    },
+    {
+      "id": "rusalka",
+      "name": "Rusalka",
+      "relationship": "similar",
+      "description": "Slavic female water-spirit haunting bridges and rivers"
+    },
+    {
+      "id": "vila",
+      "name": "Vila",
+      "relationship": "similar",
+      "description": "South Slavic female spirit of forests and waters"
+    },
+    {
+      "id": "huldre",
+      "name": "Huldre",
+      "relationship": "related",
+      "description": "Scandinavian forest fairy"
+    }
+  ],
+  "cultural_notes": "The Dames Blanches enforce courtesy at dangerous liminal points — bridges, fords, mountain passes — by rewarding the polite traveller and punishing the rude.",
+  "sources": [
+    {
+      "id": "sebillot-1882",
+      "type": "book",
+      "title": "Traditions et superstitions de la Haute-Bretagne",
+      "authors": [
+        "Paul Sébillot"
+      ],
+      "publication": "Maisonneuve et Cie",
+      "date": "1882"
+    },
+    {
+      "id": "sebillot-folklore",
+      "type": "book",
+      "title": "Le Folk-Lore de France",
+      "authors": [
+        "Paul Sébillot"
+      ],
+      "publication": "Guilmoto, Paris",
+      "date": "1904-1907"
+    },
+    {
+      "id": "macculloch-1932",
+      "type": "book",
+      "title": "The Celtic and Scandinavian Religions",
+      "authors": [
+        "John Arnott MacCulloch"
+      ],
+      "publication": "Hutchinson's University Library",
+      "date": "1948"
+    },
+    {
+      "id": "wikipedia-dames-blanches",
+      "type": "website",
+      "title": "Dames blanches (folklore)",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Dames_blanches",
+      "accessed": "2026-05-07"
+    }
+  ],
+  "locations": []
 }

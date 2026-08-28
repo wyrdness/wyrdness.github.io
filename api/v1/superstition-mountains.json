@@ -3,6 +3,7 @@
   "name": "Superstition Mountains",
   "category": "location",
   "description": "A rugged volcanic mountain range east of Phoenix, Arizona, famous for the Lost Dutchman's Gold Mine legend and a long sequence of disappearances and unexplained deaths within its wilderness.",
+  "full_description": "The Superstition Mountains are a volcanic range in Maricopa, Pinal, and Gila counties, Arizona, immediately east of the Phoenix metropolitan area. The highest summit is Mound Mountain at 6,266 feet, and the most recognizable feature is the eroded volcanic neck called Weavers Needle. The range is the legendary setting of the Lost Dutchman's Gold Mine, said to have been worked by German immigrant Jacob Waltz, who died in Phoenix on October 25, 1891. According to Yavapai and Western Apache traditions reported in 19th- and 20th-century ethnographic accounts, the range is a place of spiritual significance; one tradition collected by anthropologists describes a hole within the range as an entrance to a lower world. Beginning with the 1931 disappearance of amateur explorer Adolph Ruth, the area has accumulated a notorious record of missing persons and unexplained deaths, fueling its reputation as one of the most legend-haunted landscapes in the United States. The Superstition Wilderness was federally designated in 1939 and now encompasses 159,757 acres administered by the U.S. Forest Service.",
   "aliases": [
     {
       "name": "Sierra de la Espuma",
@@ -39,5 +40,123 @@
   "origin": "Volcanic mountain range east of Phoenix, Arizona, spanning Maricopa, Pinal, and Gila counties.",
   "first_reported": "Pre-contact",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "The English name 'Superstition Mountains' is attested in 19th-century Anglo-American usage; earlier Spanish maps called the range 'Sierra de la Espuma' ('Foam Mountain'). The Yavapai name is Wi:kchsawa.",
+    "meaning": "'Superstition' references the body of legend, fear, and Indigenous belief associated with the range as known to early settlers.",
+    "first_use": "Mid-to-late 19th century (English)"
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0,
+    "date_range": {
+      "earliest": "1891",
+      "latest": "2026"
+    }
+  },
+  "timeline": [
+    {
+      "date": "1845",
+      "event": "Jacob Waltz born in Württemberg (Germany), per his 1848 affidavit (\"about 38 years old\")",
+      "significance": "Establishes the historical figure behind the Dutchman legend",
+      "source": "U.S. naturalization records cited in Wikipedia (Jacob Waltz)"
+    },
+    {
+      "date": "1891-10-25",
+      "event": "Jacob Waltz dies in Phoenix while being cared for by Julia Thomas",
+      "significance": "Triggers the Lost Dutchman's Gold Mine legend; Thomas is the source of the deathbed-directions account",
+      "source": "Wikipedia, 'Lost Dutchman's Gold Mine'"
+    },
+    {
+      "date": "1931-06-14",
+      "event": "Adolph Ruth disappears while searching for the mine; his skull, with two reported holes interpreted as bullet wounds, is recovered approximately six months later",
+      "significance": "First nationally publicized disappearance in the Superstitions; helped establish the range's deadly reputation",
+      "source": "Wikipedia, 'Lost Dutchman's Gold Mine'"
+    },
+    {
+      "date": "1939",
+      "event": "Superstition Wilderness designated by the U.S. Forest Service",
+      "significance": "Formal protection of 159,757 acres",
+      "source": "U.S. Forest Service"
+    },
+    {
+      "date": "1947",
+      "event": "James A. Cravey reported missing after a helicopter drop into the range; remains later found",
+      "significance": "High-profile mid-20th-century disappearance",
+      "source": "Wikipedia, 'Lost Dutchman's Gold Mine'"
+    }
+  ],
+  "related": [
+    {
+      "id": "lost-dutchman-mine",
+      "name": "Lost Dutchman's Gold Mine",
+      "relationship": "subset",
+      "description": "Associated lost-mine legend at the heart of the Superstitions' modern fame"
+    },
+    {
+      "id": "skinwalker-ranch",
+      "name": "Skinwalker Ranch",
+      "relationship": "similar",
+      "description": "Another western U.S. landscape with a layered cluster of paranormal claims and Indigenous traditions"
+    },
+    {
+      "id": "mount-shasta",
+      "name": "Mount Shasta",
+      "relationship": "similar",
+      "description": "Western U.S. mountain with rich legend, Indigenous tradition, and disappearance lore"
+    }
+  ],
+  "cultural_notes": "The mountains are widely treated, in popular culture, as a place where unprepared searchers can be killed by terrain, heat, and (in folklore) hostile guardians. Indigenous traditions stress respect for the range as a place of spiritual power.",
+  "sources": [
+    {
+      "id": "wikipedia-superstition-mountains",
+      "type": "website",
+      "title": "Superstition Mountains",
+      "publication": "English Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Superstition_Mountains",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "wikipedia-lost-dutchman",
+      "type": "website",
+      "title": "Lost Dutchman's Gold Mine",
+      "publication": "English Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Lost_Dutchman%27s_Gold_Mine",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "granger-1977",
+      "type": "book",
+      "title": "A Motif Index for Lost Mines and Treasures Applied to Redaction of Arizona Legends",
+      "authors": [
+        "Byrd Granger"
+      ],
+      "publication": "University of Arizona",
+      "date": "1977"
+    },
+    {
+      "id": "sikorsky-1983",
+      "type": "book",
+      "title": "Fool's Gold: The Lost Dutchman Mine",
+      "authors": [
+        "Robert Sikorsky"
+      ],
+      "publication": "Golden West Publishers",
+      "date": "1983"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Weavers Needle",
+      "lat": 33.3833,
+      "lng": -111.3667
+    },
+    {
+      "name": "Apache Junction trailheads",
+      "lat": 33.4151,
+      "lng": -111.5495
+    }
+  ]
 }

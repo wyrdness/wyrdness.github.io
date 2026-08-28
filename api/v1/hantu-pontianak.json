@@ -3,6 +3,7 @@
   "name": "Pontianak",
   "category": "ghost_haunting",
   "description": "Pontianak is the ghost of a woman who died during pregnancy or childbirth in Malay-Indonesian folklore. She appears as a beautiful long-haired woman in white whose form changes into a fanged, bloody monster when she attacks, and she primarily preys on men.",
+  "full_description": "Pontianak (Malay; Indonesian Kuntilanak) is one of the most prominent figures in Malay-Indonesian ghost folklore: a female revenant of a woman who died while pregnant or in childbirth, returning as a vengeful, vampiric spirit. She is typically described as a beautiful, pale woman with long black hair and a long white dress, who reveals her true form — clawed hands, fanged or bloody mouth, sometimes a hollow back — when she strikes. She is associated with banana trees (pokok pisang), with the strong sweet scent of frangipani (a sign of her presence becoming sweeter as she draws nearer and turning foul as she attacks), and with the cry of an infant: a faint cry indicates she is close, a loud cry that she is distant. Folk methods of subduing or repelling her include driving an iron nail into the hole at the nape of her neck (which is said to transform her into a docile and obedient woman) and the customary placement of needles, glass beads, or eggs in the body of a woman who has died in childbirth to prevent her transformation. Pontianak has been a central figure in Malay-language horror cinema since Cathay-Keris's 1957 film Pontianak, and the legend gave its name to the city of Pontianak in West Kalimantan, Indonesia. The Indonesian Kuntilanak variant emphasises shapeshifting into a bird (often an owl) and a preference for virgin women, while the Malaysian Pontianak variant is more often depicted as a vampiric attacker of men.",
   "aliases": [
     {
       "name": "Hantu Pontianak",
@@ -49,5 +50,110 @@
   "origin": "Throughout the Malay-Indonesian world: Malaysia, Indonesia, Singapore, Brunei, southern Thailand, and the Malay diaspora.",
   "first_reported": "1900-01-01",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Malay; commonly derived from 'perempuan mati beranak' / 'mati anak' ('woman who died in childbirth' / 'child-death'). The older spelling 'matianak' / 'boentianak' is attested.",
+    "meaning": "Literally a contraction of 'woman who died giving birth'.",
+    "first_use": "Documented in colonial-era Malay ethnography (e.g. Skeat 1900) and in continuous oral tradition; popularised in cinema from 1957."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "1900-01-01",
+      "event": "W. W. Skeat publishes Malay Magic, including documentation of the Pontianak/Langsuir complex",
+      "significance": "First systematic English-language ethnography of the figure",
+      "source": "Skeat, W. W. (1900), Malay Magic"
+    },
+    {
+      "date": "1957-04-27",
+      "event": "Cathay-Keris releases Pontianak, directed by B. N. Rao, in Singapore — the first Malay-language Pontianak film",
+      "significance": "Launches the Pontianak horror-film genre and recodifies the legend for the cinematic era",
+      "source": "Cathay-Keris studio records"
+    },
+    {
+      "date": "2004-01-01",
+      "event": "Shuhaimi Baba's Pontianak Harum Sundal Malam released in Malaysia",
+      "significance": "Major modern Malaysian Pontianak film and revival of the genre",
+      "source": "Malaysian film records"
+    }
+  ],
+  "related": [
+    {
+      "id": "langsuir",
+      "name": "Langsuir",
+      "relationship": "related",
+      "description": "Closely related Malay female ghost; in some traditions the Pontianak is Langsuir's stillborn child"
+    },
+    {
+      "id": "penanggalan",
+      "name": "Penanggalan",
+      "relationship": "related",
+      "description": "Detached-head female vampire of Malay folklore"
+    },
+    {
+      "id": "pelesit",
+      "name": "Pelesit",
+      "relationship": "related",
+      "description": "Familiar of the Langsuir/Pontianak complex in Malay folklore"
+    },
+    {
+      "id": "kuntilanak",
+      "name": "Kuntilanak",
+      "relationship": "regional_variant",
+      "description": "Indonesian variant of the Pontianak"
+    },
+    {
+      "id": "churel",
+      "name": "Churel",
+      "relationship": "counterpart",
+      "description": "South Asian female revenant of childbirth death"
+    },
+    {
+      "id": "la-llorona",
+      "name": "La Llorona",
+      "relationship": "counterpart",
+      "description": "Latin American weeping-woman ghost associated with the death of children"
+    }
+  ],
+  "cultural_notes": "Belief remains active in rural communities; widely known as a cultural figure even where literal belief has waned. Customary protective practices for women who die in childbirth (placing needles, beads, eggs in the body) are documented across the region.",
+  "sources": [
+    {
+      "id": "wiki-pontianak-folklore",
+      "type": "website",
+      "title": "Pontianak (folklore)",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Pontianak_(folklore)",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "wiki-ghosts-malay",
+      "type": "website",
+      "title": "Ghosts in Malay culture",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ghosts_in_Malay_culture",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "skeat-1900-pontianak",
+      "type": "book",
+      "title": "Malay Magic: Being an Introduction to the Folklore and Popular Religion of the Malay Peninsula",
+      "authors": [
+        "Walter William Skeat"
+      ],
+      "publication": "Macmillan",
+      "date": "1900"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Pontianak (city)",
+      "lat": -0.0263,
+      "lng": 109.3425
+    }
+  ]
 }

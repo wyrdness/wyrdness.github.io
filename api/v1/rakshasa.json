@@ -3,6 +3,7 @@
   "name": "Rakshasa",
   "category": "mythological_creature",
   "description": "A class of powerful supernatural beings in Hindu, Buddhist, and Jain traditions, often depicted as malevolent shape-shifting demons but including morally complex and even virtuous individuals.",
+  "full_description": "Rakshasas (Sanskrit rākṣasa) are a class of supernatural beings in Indian religious and epic literature, prominently in the Ramayana and Mahabharata. They are commonly described as fierce, shape-shifting beings with two protruding fangs, sharp claw-like nails, flaming red eyes, and the ability to assume any form through māyā (illusion). Their characterizations span a wide moral range: man-eating warriors of darkness in many epic episodes, neutral or merely powerful beings in others, and morally virtuous figures such as Vibhīṣaṇa, the brother of Rāvaṇa who allies with Rāma. In Buddhist scripture, several rakshasas convert to the dharma and become protectors of Buddhist teachings. The tradition spread with Indic religion across South and Southeast Asia, where Indonesian and Malay raksasa came to mean simply 'giant'.",
   "aliases": [
     {
       "name": "Rākṣasa",
@@ -63,5 +64,131 @@
   "origin": "Rakshasa traditions span the entire Indic cultural sphere: South Asia (India, Nepal, Sri Lanka, Bangladesh), Buddhist East Asia by way of scripture, and Southeast Asia where the loanword 'raksasa' is widely used.",
   "first_reported": "1500-01-01",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "From Sanskrit रक्षस् (rakṣas), connected to the verbal root rakṣ- 'to guard, protect', with the noun originally referring to that which must be guarded against.",
+    "meaning": "'Demon', 'fiend', or literally 'that which is to be warded off'.",
+    "first_use": "Attested in the Ṛgveda (c. 1500–1200 BCE) as rakṣas, denoting harmful spirits opposed by Agni and Indra."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0,
+    "date_range": {
+      "earliest": "Pre-historic",
+      "latest": "Mythological"
+    }
+  },
+  "timeline": [
+    {
+      "date": "c. 1500–1200 BCE",
+      "event": "Earliest references to rakṣas as harmful spirits in the Ṛgveda",
+      "significance": "Foundational Vedic stratum of the concept",
+      "source": "Ṛgveda"
+    },
+    {
+      "date": "c. 5th century BCE – 4th century CE",
+      "event": "Composition and redaction of the Mahābhārata, including rakshasa figures such as Hiḍimba, Bakāsura, and Ghatotkaca",
+      "significance": "Rakshasas as fully developed epic characters",
+      "source": "Mahābhārata"
+    },
+    {
+      "date": "c. 5th century BCE – 3rd century CE",
+      "event": "Composition of the Vālmīki Rāmāyaṇa, with Rāvaṇa and the rakshasas of Lankā as principal antagonists",
+      "significance": "Establishes the canonical narrative of rakshasa kingdom",
+      "source": "Rāmāyaṇa"
+    },
+    {
+      "date": "c. 1st century BCE – 1st century CE",
+      "event": "Lotus Sūtra (Saddharma Puṇḍarīka) and other Mahāyāna scriptures depict rakṣasīs as dharma-protectors after conversion",
+      "significance": "Buddhist reframing of rakshasas as potential protectors",
+      "source": "Lotus Sūtra, chapter 26"
+    },
+    {
+      "date": "c. 1000 CE",
+      "event": "Indic loanword raksasa fully established in Old Javanese and Malay literatures with sense 'giant'",
+      "significance": "Southeast Asian semantic shift",
+      "source": "Old Javanese kakawin literature"
+    }
+  ],
+  "related": [
+    {
+      "id": "asura",
+      "name": "Asura",
+      "relationship": "related",
+      "description": "Broader class of power-seeking beings often opposed to the devas; sometimes overlapping with rakshasas"
+    },
+    {
+      "id": "yaksha",
+      "name": "Yaksha",
+      "relationship": "related",
+      "description": "Class of nature spirits, generally more benevolent but sometimes paired with rakshasas in epic literature"
+    },
+    {
+      "id": "pisacha",
+      "name": "Pisacha",
+      "relationship": "similar",
+      "description": "Flesh-eating demonic beings in Hindu mythology"
+    },
+    {
+      "id": "vetala",
+      "name": "Vetāla",
+      "relationship": "related",
+      "description": "Corpse-inhabiting spirits in Indian folklore"
+    },
+    {
+      "id": "raksasa-southeast-asia",
+      "name": "Raksasa (Indonesia/Malaysia)",
+      "relationship": "regional_variant",
+      "description": "Semantic shift to mean 'giant' in maritime Southeast Asia"
+    }
+  ],
+  "cultural_notes": "In classical Hindu cosmology, rakshasas are real ontological beings within a tiered cosmos that includes devas, asuras, yakshas, gandharvas, and other classes. Folk belief in many regions has historically associated misfortune at night with rakshasa-like spirits, addressed through mantra, amulet, and ritual.",
+  "sources": [
+    {
+      "id": "wikipedia-rakshasa",
+      "type": "website",
+      "title": "Rakshasa",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Rakshasa",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "goldman-ramayana",
+      "type": "book",
+      "title": "The Rāmāyaṇa of Vālmīki: An Epic of Ancient India (Princeton translation, 7 vols.)",
+      "authors": [
+        "Robert P. Goldman",
+        "Sally J. Sutherland Goldman",
+        "Sheldon I. Pollock",
+        "Rosalind Lefeber",
+        "Barend A. van Nooten"
+      ],
+      "publication": "Princeton University Press",
+      "date": "1984-2017"
+    },
+    {
+      "id": "doniger-hindus",
+      "type": "book",
+      "title": "The Hindus: An Alternative History",
+      "authors": [
+        "Wendy Doniger"
+      ],
+      "publication": "Penguin Press",
+      "date": "2009",
+      "isbn": "978-1594202056"
+    },
+    {
+      "id": "bori-mahabharata",
+      "type": "book",
+      "title": "The Mahābhārata (Critical Edition)",
+      "authors": [
+        "V. S. Sukthankar (general editor)"
+      ],
+      "publication": "Bhandarkar Oriental Research Institute",
+      "date": "1933-1966"
+    }
+  ],
+  "locations": []
 }

@@ -3,6 +3,7 @@
   "name": "La Diablesse",
   "category": "entity_spirit",
   "description": "La Diablesse ('the She-Devil') is a Caribbean folkloric demoness, especially associated with Trinidad and Tobago, who appears as a beautiful woman in old-fashioned dress with one human leg and one cloven cow-hoof, luring men into the forest where they become lost and die.",
+  "full_description": "La Diablesse — Trinidadian Creole 'Lajables' or 'La Jablesse' — is a demoness of Caribbean folklore whose home tradition is in Trinidad and Tobago, with cognate figures in Grenada and the wider French-Creole Caribbean. The legend blends French-Creole, West African and Indigenous Amerindian folkloric strands. According to oral tradition, she was originally an enslaved African woman who made a pact with the Devil for eternal beauty in exchange for her soul, becoming a demi-human creature. She walks the roads at night dressed in elegant old-fashioned clothes and a wide-brimmed hat that hides her hideous face; under her long skirt one leg ends in a cloven cow-hoof. She lures unwary men — typically returning from rumshops or village dances — into the forest, where she vanishes and the victim is left to die in a ravine, river or on a precipice. She is invoked in Trinidad and Tobago as a moral cautionary figure warning against drunkenness, infidelity and night-time wandering.",
   "aliases": [
     {
       "name": "Lajables",
@@ -40,5 +41,90 @@
   "origin": "Trinidad and Tobago is the heartland of the La Diablesse tradition, with cognate figures in Grenada, Saint Lucia, Dominica and other French-Creole Caribbean islands.",
   "first_reported": "Pre-modern",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "From French la diablesse, the feminine form of le diable ('the devil'). Her Creole names — Lajables, La Jablesse — reflect Trinidadian French-Creole pronunciation.",
+    "meaning": "'The She-Devil' / 'the female devil'.",
+    "first_use": "Embedded in 19th- and 20th-century French-Creole Caribbean oral tradition; first attested in print in 20th-century Trinidad and Tobago folklore collections."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0,
+    "date_range": {
+      "earliest": "pre-modern",
+      "latest": "2026"
+    }
+  },
+  "timeline": [
+    {
+      "date": "Pre-modern",
+      "event": "La Diablesse / Lajables tradition established in rural Trinidad and the wider French-Creole Caribbean",
+      "significance": "Cultural baseline",
+      "source": "Trinidadian oral tradition"
+    },
+    {
+      "date": "1970-04-12",
+      "event": "Premiere of Derek Walcott's play 'Dream on Monkey Mountain' in Toronto, which draws on Caribbean folkloric figures including La Diablesse",
+      "significance": "High-profile literary deployment of Trinidadian folklore",
+      "source": "Wikipedia: La Diablesse"
+    },
+    {
+      "date": "2007-09-06",
+      "event": "Publication of Junot Díaz's novel 'The Brief Wondrous Life of Oscar Wao', which references La Diablesse alongside other Caribbean folk figures",
+      "significance": "Pulitzer-winning North American literary reference to the figure",
+      "source": "Wikipedia: La Diablesse"
+    },
+    {
+      "date": "2015-04-28",
+      "event": "Publication of Tracey Baptiste's middle-grade novel 'The Jumbies', which features La Diablesse as a central antagonist",
+      "significance": "Mainstream children's-literature deployment of the figure",
+      "source": "Wikipedia: La Diablesse"
+    }
+  ],
+  "related": [
+    {
+      "id": "soucouyant",
+      "name": "Soucouyant",
+      "relationship": "related",
+      "description": "Trinidadian vampire-witch who sheds her skin at night"
+    },
+    {
+      "id": "papa-bois",
+      "name": "Papa Bois",
+      "relationship": "related",
+      "description": "Trinidadian male forest spirit and counterpart to La Diablesse"
+    },
+    {
+      "id": "douen",
+      "name": "Douen",
+      "relationship": "related",
+      "description": "Trinidadian spirits of unbaptized dead children"
+    },
+    {
+      "id": "duppy",
+      "name": "Duppy",
+      "relationship": "related",
+      "description": "Anglophone Caribbean ghost / spirit category"
+    },
+    {
+      "id": "lagahoo",
+      "name": "Lagahoo",
+      "relationship": "related",
+      "description": "Trinidadian shapeshifter cognate to French loup-garou"
+    }
+  ],
+  "cultural_notes": "Treated as a cautionary moral figure rather than as the object of formal worship; in rural Trinidad and Tobago belief in her remains real for many older speakers.",
+  "sources": [
+    {
+      "id": "wikipedia-la-diablesse",
+      "type": "website",
+      "title": "La Diablesse",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/La_Diablesse",
+      "accessed": "2026-05-07"
+    }
+  ],
+  "locations": []
 }

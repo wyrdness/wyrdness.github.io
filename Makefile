@@ -35,7 +35,7 @@ help:
 	@echo "  make install          Install npm deps inside the node container"
 	@echo "  make aggregate        Fetch api.json from all org repos via GitHub API (needs GITHUB_TOKEN)"
 	@echo "  make aggregate-local  Aggregate from sibling phenomenon repos on disk"
-	@echo "  make categories       Regenerate api/v1/categories.json"
+	@echo "  make categories       Regenerate api/v1/categories.json and categories/<slug>/index.html"
 	@echo "  make stats            Regenerate api/v1/stats.json"
 	@echo "  make pages            Regenerate phenomena/<id>/index.html"
 	@echo "  make build            aggregate-local + categories + stats + pages"

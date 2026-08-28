@@ -3,6 +3,7 @@
   "name": "Nachtkrapp",
   "category": "entity_spirit",
   "description": "A folkloric nocturnal bird-like creature of Germanic and Central European tradition, invoked chiefly to frighten children into obedience and bed. Reports cluster in southern Germany and Austria, with related figures across northern Germany, Hungary, Poland, and Sweden.",
+  "full_description": "The Nachtkrapp ('night raven') is a folkloric night-bird of Germanic tradition, found chiefly in southern Germany and Austria with cognate figures across Central and Northern Europe. In its most widespread form it is described as a large, raven-like nocturnal bird that emerges after dark to seize disobedient or unsupervised children. Some accounts have it carrying children off in a sack or to a hidden nest where they are killed; in milder local variants the so-called Wütender Nachtkrapp ('angry Nachtkrapp') merely terrifies children with its cries and beating wings, while a Guter Nachtkrapp ('good Nachtkrapp') sings them gently to sleep. A northern German variant has wings of iron, giving rise to the byname eiserner Vogel ('iron bird'). The closely related Swedish nattramn is described not as a living bird but as the revenant of an unbaptized child or of someone buried in unconsecrated ground, often depicted in skeletal form. Although clearly a creature of legend rather than zoology, the Nachtkrapp is well-attested in 19th-century German lexicography (notably the Grimms' Deutsches Wörterbuch) and in regional folklore collections, and the figure passed into early-19th-century literature through works such as Johann August Apel's 1810 tale Der Freischütz.",
   "aliases": [
     {
       "name": "Nachtrabe",
@@ -53,5 +54,87 @@
   "origin": "Primarily attested in southern Germany and Austria, with cognate figures across northern Germany, Central Europe (Hungary, Poland), and Sweden.",
   "first_reported": "1810",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Compound of Middle High German naht ('night') and krapp/rabe ('raven'). Originally used in older German to denote real nocturnal birds (nightjars, owls, herons) before crystallizing as a folkloric creature.",
+    "meaning": "Literally 'night raven'.",
+    "first_use": "Attested in German folkloric and lexicographic sources from at least the 19th century; literary use by Johann August Apel (Der Freischütz, 1810)"
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "1810",
+      "event": "Johann August Apel's Der Freischütz features 'night-ravens' flying around a magic circle of skulls and bones",
+      "significance": "Earliest prominent literary attestation in German Romantic literature",
+      "source": "Apel, J. A. (1810), Der Freischütz"
+    },
+    {
+      "date": "19th century",
+      "event": "Nachtkrapp documented in regional German folklore collections and lexicographic works including the Deutsches Wörterbuch",
+      "significance": "Anchors the figure in scholarly record of Germanic folklore",
+      "source": "Grimm Deutsches Wörterbuch"
+    }
+  ],
+  "related": [
+    {
+      "id": "nattramn",
+      "name": "Nattramn",
+      "relationship": "regional_variant",
+      "description": "Swedish night raven, conceived as the revenant of an unbaptized child or unholy burial"
+    },
+    {
+      "id": "krampus",
+      "name": "Krampus",
+      "relationship": "similar",
+      "description": "Alpine child-disciplining bogey figure"
+    },
+    {
+      "id": "boogeyman",
+      "name": "Boogeyman",
+      "relationship": "similar",
+      "description": "General Western child-frightener archetype"
+    },
+    {
+      "id": "valkyrie",
+      "name": "Valkyrie",
+      "relationship": "related",
+      "description": "Norse battle-spirits associated with raven-shape shifting"
+    }
+  ],
+  "cultural_notes": "The Nachtkrapp functions as a household disciplinary figure invoked by parents to keep children indoors and in bed after dark.",
+  "sources": [
+    {
+      "id": "wikipedia-nachtkrapp",
+      "type": "website",
+      "title": "Nachtkrapp",
+      "publication": "English Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Nachtkrapp",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "apel-1810",
+      "type": "book",
+      "title": "Der Freischütz",
+      "authors": [
+        "Johann August Apel"
+      ],
+      "date": "1810"
+    },
+    {
+      "id": "grimm-dwb",
+      "type": "book",
+      "title": "Deutsches Wörterbuch",
+      "authors": [
+        "Jacob Grimm",
+        "Wilhelm Grimm"
+      ],
+      "publication": "S. Hirzel"
+    }
+  ],
+  "locations": []
 }

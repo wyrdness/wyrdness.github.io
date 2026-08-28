@@ -3,6 +3,7 @@
   "name": "Liminal Spaces",
   "category": "anomaly",
   "description": "Liminal spaces are an internet-born aesthetic of empty, transitional or transitionary built environments — corridors, hotel hallways, abandoned malls, stairwells — photographed without people, where the absence of human presence makes a familiar place feel uncanny, eerie, and dreamlike.",
+  "full_description": "Liminal space, in its internet-aesthetic sense, refers to images of transitional or in-between locations — hotel corridors, school hallways, empty shopping malls, parking garages, motel pools, stairwells — depicted in a way that evokes eeriness, nostalgia, surrealism, and a vague uncanny familiarity. The visual language relies on late 20th- and early 21st-century architecture and furnishings (linoleum floors, cool-toned fluorescent lighting, ceiling tiles, beige carpet, generic late-1990s and 2000s decor) photographed without people. The term draws from the anthropological concept of liminality developed by Arnold van Gennep (Les Rites de Passage, 1909) and elaborated by Victor Turner in the 1960s. The contemporary aesthetic crystallised online in the late 2010s and exploded in popularity from March 2020, coinciding with COVID-19 lockdowns that emptied public spaces. The 2019 4chan thread that gave rise to The Backrooms creepypasta is a direct outgrowth of liminal-space imagery; by November 2022 the r/LiminalSpace subreddit had over 500,000 members, the @SpaceLiminalBot Twitter account had over 1.2 million followers, and the #liminalspaces TikTok hashtag had over 2 billion views. Cognitive-science explanations for the unease tend to invoke the uncanny valley applied to environments and a 'failure of presence' — the unsettlement caused by spaces designed to be inhabited that appear unnaturally empty.",
   "aliases": [
     {
       "name": "Liminal space (aesthetic)",
@@ -36,5 +37,116 @@
   "origin": "Global, networked phenomenon: imagery is sourced from buildings worldwide but circulates almost entirely online via Anglophone social-media platforms.",
   "first_reported": "2018",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "From Latin līmen ('threshold'). The anthropological term 'liminality' was introduced by Arnold van Gennep in Les Rites de Passage (1909) and elaborated by Victor Turner from the 1960s. The aesthetic application to empty transitional architectural photographs developed on social media in the late 2010s.",
+    "meaning": "'Of or relating to a threshold'; in aesthetic usage, photographs of transitional architectural spaces depicted without occupants.",
+    "first_use": "1909 (anthropological); circa 2018–2019 (internet-aesthetic usage)"
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "1909-01-01",
+      "event": "Arnold van Gennep publishes Les Rites de Passage, introducing the anthropological concept of liminality",
+      "significance": "Provides the term and conceptual framework later borrowed by the internet aesthetic",
+      "source": "van Gennep, A. (1909)"
+    },
+    {
+      "date": "1960-01-01",
+      "event": "Victor Turner elaborates liminality in his anthropological writings on ritual",
+      "significance": "Extends the term beyond rites of passage to broader experiences of in-between states",
+      "source": "Turner, V., subsequent works through the 1960s–70s"
+    },
+    {
+      "date": "2019-05-12",
+      "event": "A 4chan post on the /x/ paranormal board pairs an image of a yellow-carpeted, fluorescent-lit room with a fictional account of 'noclipping out of reality' — the founding Backrooms post",
+      "significance": "Crystallises the liminal-space aesthetic into a horror mythology",
+      "source": "Wikipedia, The Backrooms; The MIT Press Reader, 'Backrooms and the Rise of the Institutional Gothic'"
+    },
+    {
+      "date": "2020-03-01",
+      "event": "Liminal-space imagery sees its first major popularity spike during global COVID-19 lockdowns",
+      "significance": "Real-world emptying of public space supercharges the aesthetic",
+      "source": "Wikipedia, Liminal space (aesthetic)"
+    },
+    {
+      "date": "2022-01-07",
+      "event": "American YouTuber Kane Parsons (Kane Pixels) publishes the first installment of his Backrooms short-film series",
+      "significance": "Ignites a mainstream surge in liminal/Backrooms content",
+      "source": "Wikipedia, The Backrooms"
+    },
+    {
+      "date": "2022-11-01",
+      "event": "r/LiminalSpace surpasses 500,000 members; @SpaceLiminalBot exceeds 1.2M Twitter followers; #liminalspaces on TikTok exceeds 2 billion views",
+      "significance": "Aesthetic firmly mainstream",
+      "source": "Wikipedia, Liminal space (aesthetic)"
+    }
+  ],
+  "related": [
+    {
+      "id": "the-backrooms",
+      "name": "The Backrooms",
+      "relationship": "subset",
+      "description": "Creepypasta world built directly on liminal-space imagery, originating in a 2019 4chan thread"
+    },
+    {
+      "id": "weirdcore",
+      "name": "Weirdcore",
+      "relationship": "similar",
+      "description": "Adjacent low-fidelity, dreamlike internet aesthetic often using similar image vocabulary"
+    },
+    {
+      "id": "dreamcore",
+      "name": "Dreamcore",
+      "relationship": "similar",
+      "description": "Related online aesthetic emphasising oneiric and surreal qualities"
+    },
+    {
+      "id": "uncanny-valley",
+      "name": "Uncanny valley",
+      "relationship": "related",
+      "description": "Cognitive concept extended from human likenesses to environments to explain liminal-space unease"
+    }
+  ],
+  "cultural_notes": "Participants generally treat liminal spaces as an aesthetic and storytelling framework rather than literal paranormal locations, though some online discourse blurs the line for effect.",
+  "sources": [
+    {
+      "id": "wikipedia-liminal-space",
+      "type": "website",
+      "title": "Liminal space (aesthetic)",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Liminal_space_(aesthetic)",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "wikipedia-backrooms",
+      "type": "website",
+      "title": "The Backrooms",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Backrooms",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "mit-press-backrooms",
+      "type": "article",
+      "title": "Backrooms and the Rise of the Institutional Gothic",
+      "publication": "The MIT Press Reader",
+      "url": "https://thereader.mitpress.mit.edu/backrooms-and-the-rise-of-the-institutional-gothic/",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "yahoo-backrooms",
+      "type": "news",
+      "title": "How Backrooms went from a viral 4chan post to an A24 movie starring an Oscar-nominated actor",
+      "publication": "Yahoo News",
+      "url": "https://www.yahoo.com/news/articles/backrooms-went-viral-4chan-post-155354240.html",
+      "accessed": "2026-05-07"
+    }
+  ],
+  "locations": []
 }

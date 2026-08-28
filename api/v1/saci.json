@@ -3,6 +3,7 @@
   "name": "Saci",
   "category": "entity_spirit",
   "description": "A one-legged black or dark-skinned boy from Brazilian folklore who wears a magical red cap, smokes a pipe, and travels in whirlwinds, playing pranks but rarely causing serious harm. October 31 is officially Saci Day in Brazil.",
+  "full_description": "The Saci is one of the most beloved figures in Brazilian folklore: a one-legged Black or dark-skinned boy who wears a magical red cap (carapuça), smokes a long pipe, travels inside whirlwinds (redemoinhos), and plays mischief on humans and animals. The figure synthesises Indigenous Tupi–Guarani, African (especially Yoruba and Bantu), and European elements that converged in the colonial and post-colonial Brazilian interior. The Saci's pranks are characteristically irritating rather than malevolent: souring milk, snarling horses' manes, hiding household objects, breaking needles, scaring travellers and whistling at night. He is bound by classical folkloric vulnerabilities — he cannot cross running water, he fears blessed rosaries and straw crosses, and if his red cap is removed he loses his magic. A Saci can be captured by trapping him in a bottle (often with a blessed rosary on the cork), and a captured Saci will grant a wish in exchange for freedom. Three regional subtypes are usually distinguished: the canonical Saci-pererê (one-legged, Black), the milder Saci-trique, and the red-eyed Saci-saçurá. The figure was codified in print by Monteiro Lobato, who collected reader contributions in 1917, published a synthesis in 1918, and embedded the Saci in his 1921 children's book 'O Saci', after which the modern Saci-pererê became a national symbol. Federal Law 11.929 (2009) made October 31 'Saci Day' to celebrate the figure as an alternative to Halloween.",
   "aliases": [
     {
       "name": "Saci-pererê",
@@ -46,5 +47,122 @@
   "origin": "Found across Brazil; particularly strongly attested in the Southeast (São Paulo, Minas Gerais, Rio de Janeiro), the South (Paraná, Santa Catarina, Rio Grande do Sul) and the Centre-West, with regional variants throughout the country.",
   "first_reported": "Pre-contact",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Tupi (Tupinambá), with influence from African languages of the Brazilian colonial period",
+    "meaning": "From Tupinambá 'çaci' ('sick eye' / 'evil eye') and 'pererê' ('jumpy, hopping'); the original referent may have been a cuckoo-family bird (the striped cuckoo, Tapera naevia)",
+    "first_use": "Indigenous Tupi-language usage well predating European contact; the modern Portuguese spelling was canonised in 19th- and early-20th-century Brazilian folklore literature"
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "1917-01-01",
+      "event": "Monteiro Lobato launches a public inquiry through the São Paulo newspaper 'O Estado de S. Paulo' soliciting Saci stories from readers",
+      "significance": "First systematic national collection of Saci folklore",
+      "source": "Lobato, M. (1918), 'O Sacy-Pererê: Resultado de um Inquérito'"
+    },
+    {
+      "date": "1918-01-01",
+      "event": "Lobato publishes 'O Sacy-Pererê: Resultado de um Inquérito', synthesising the responses",
+      "significance": "Foundational 20th-century scholarly treatment",
+      "source": "Lobato, M. (1918)"
+    },
+    {
+      "date": "1921-01-01",
+      "event": "Lobato's children's book 'O Saci' is published",
+      "significance": "Embeds the Saci in Brazilian children's literature and the national imagination",
+      "source": "Lobato, M. (1921), 'O Saci'"
+    },
+    {
+      "date": "2003-01-01",
+      "event": "Sociedade dos Observadores de Saci (SOSACI) and other groups campaign for 31 October as Saci Day in opposition to Halloween",
+      "significance": "Beginning of the legal recognition movement",
+      "source": "SOSACI press materials"
+    },
+    {
+      "date": "2009-04-29",
+      "event": "Federal Law 11.929 establishes 31 October as the 'Dia do Saci' (Saci Day) in Brazil",
+      "significance": "Official national recognition of the Saci as cultural heritage",
+      "source": "Lei nº 11.929, de 29 de abril de 2009 (Brazil)"
+    }
+  ],
+  "related": [
+    {
+      "id": "curupira",
+      "name": "Curupira",
+      "relationship": "related",
+      "description": "Brazilian forest-protector spirit of Tupi origin, often paired with the Saci in Brazilian folklore"
+    },
+    {
+      "id": "boitata",
+      "name": "Boitatá",
+      "relationship": "related",
+      "description": "Brazilian fire serpent, a fellow figure in the Brazilian folkloric pantheon"
+    },
+    {
+      "id": "duende",
+      "name": "Duende",
+      "relationship": "similar",
+      "description": "Iberian household goblin, a partial structural analogue"
+    },
+    {
+      "id": "leprechaun",
+      "name": "Leprechaun",
+      "relationship": "similar",
+      "description": "Irish trickster spirit who likewise grants wishes when captured"
+    }
+  ],
+  "cultural_notes": "Rural traditions advise hanging a blessed rosary, leaving a knot in a strand of straw, or carrying wormwood to protect against Saci mischief. Crossing running water is the classic means of escape.",
+  "sources": [
+    {
+      "id": "wikipedia-saci",
+      "type": "website",
+      "title": "Saci (Brazilian folklore) — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Saci_(Brazilian_folklore)",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "lobato-1918",
+      "type": "book",
+      "title": "O Sacy-Pererê: Resultado de um Inquérito",
+      "authors": [
+        "Monteiro Lobato"
+      ],
+      "publication": "Tipografia da Casa Mayença",
+      "date": "1918"
+    },
+    {
+      "id": "lobato-1921",
+      "type": "book",
+      "title": "O Saci",
+      "authors": [
+        "Monteiro Lobato"
+      ],
+      "publication": "Editora Monteiro Lobato",
+      "date": "1921"
+    },
+    {
+      "id": "cascudo-1947",
+      "type": "book",
+      "title": "Geografia dos Mitos Brasileiros",
+      "authors": [
+        "Luís da Câmara Cascudo"
+      ],
+      "publication": "José Olympio",
+      "date": "1947"
+    },
+    {
+      "id": "lei-11929",
+      "type": "other",
+      "title": "Lei nº 11.929, de 29 de abril de 2009 — institui o Dia Nacional do Saci",
+      "publication": "Diário Oficial da União, Brazil",
+      "date": "2009-04-29"
+    }
+  ],
+  "locations": []
 }

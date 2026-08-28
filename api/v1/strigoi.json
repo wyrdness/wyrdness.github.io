@@ -3,6 +3,7 @@
   "name": "Strigoi",
   "category": "undead",
   "description": "Vampiric undead of Romanian folklore, distinguished from many other European vampire traditions by an active 'living' form (strigoi viu, a sorcerer or witch) and a 'dead' form (strigoi mort) that rises from the grave to torment family members.",
+  "full_description": "Strigoi are vampiric beings of Romanian folklore. Tradition distinguishes the strigoi viu — a living person, often described as a witch or sorcerer, identified at birth by features such as being born with a caul, with teeth, or as the seventh child of the same sex — and the strigoi mort, a deceased person who returns from the grave to harm the living, especially their own family. The strigoi mort is the type most directly continuous with the broader European vampire tradition: it is said to drink blood, drain vitality, and cause family members and livestock to weaken and die. Folklore holds that strigoi avoid garlic, onions, and incense, fear iron, and may be detected in the grave by uncorrupted flesh and a body posture suggesting recent activity. Defensive practices include exhumation followed by staking with hawthorn, oak, or ash; decapitation; burning of the heart; and reburial face-down. Although the tradition is ancient, it has remained living: in February 2004 family members in Marotinu de Sus, Dolj County, exhumed the corpse of Petre Toma, removed his heart, burned it, and mixed the ash with water for a sick relative — leading to criminal prosecution under Romanian law. Romanian strigoi traditions form part of the wider Balkan and Slavic vampire complex and are sometimes cited as a major influence on Bram Stoker's Dracula (1897).",
   "aliases": [
     {
       "name": "Strigoi viu",
@@ -51,5 +52,133 @@
   "origin": "Folk traditions of Romania, especially rural Wallachia, Moldavia, Transylvania, and Oltenia. Cognate beliefs extend across the Balkans and into the Slavic world.",
   "first_reported": "Pre-modern",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Romanian, ultimately from Latin striga (witch) and strix (screech-owl), via long-attested Roman beliefs in nocturnal blood-drinking female demons.",
+    "meaning": "Strigoi (masculine), strigoaică (feminine); the augmentative -oi denotes a large, dangerous form of the strigă.",
+    "first_use": "Documented in Romanian ethnographic literature from the 19th century; the underlying Latin striga is attested from antiquity"
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "1656",
+      "event": "Death of Jure Grando Alilović of Kringa, Istria; later 17th-century accounts (Johann Weichard von Valvasor, 1689) describe him as a strigon (closely related Slavic / Romance term) and detail his exhumation and decapitation",
+      "source": "Valvasor, J. W. (1689), Die Ehre des Herzogthums Crain"
+    },
+    {
+      "date": "1718-1732",
+      "event": "Habsburg administrative reports (notably the 1731–32 Visum et Repertum on the Serbian villager Arnold Paole) document Balkan vampire panics, contributing to the European Enlightenment debate that drew on the same beliefs as Romanian strigoi tradition",
+      "source": "Habsburg medical commission reports (1731–1732)"
+    },
+    {
+      "date": "1885",
+      "event": "Emily Gerard, Transylvanian Superstitions in The Nineteenth Century magazine (July 1885), describes Romanian strigoi and 'nosferatu' beliefs; the article is read by Bram Stoker",
+      "source": "Gerard, E. (1885), The Nineteenth Century 18: 130-150"
+    },
+    {
+      "date": "1897",
+      "event": "Bram Stoker publishes Dracula, drawing on Gerard and other sources; the count is broadly modelled on Romanian strigoi traditions and contemporary Balkan vampire reports",
+      "source": "Stoker, B. (1897), Dracula"
+    },
+    {
+      "date": "2004-02",
+      "event": "Marotinu de Sus, Dolj County: relatives of the late Petre Toma exhume his body, remove the heart, burn it, and mix the ash with water for his ailing niece. Six family members are subsequently arrested under Romanian law",
+      "source": "BBC News (2004-03-25); Romanian press"
+    }
+  ],
+  "related": [
+    {
+      "id": "strzyga",
+      "name": "Strzyga",
+      "relationship": "similar",
+      "description": "Polish two-souled vampiric undead; cognate with strigoi via Latin strix/striga"
+    },
+    {
+      "id": "vampire",
+      "name": "Vampire",
+      "relationship": "superset",
+      "description": "Pan-European vampiric undead tradition"
+    },
+    {
+      "id": "moroi",
+      "name": "Moroi",
+      "relationship": "regional_variant",
+      "description": "Romanian vampiric being closely related to strigoi"
+    },
+    {
+      "id": "pricolici",
+      "name": "Pricolici",
+      "relationship": "related",
+      "description": "Romanian undead werewolf form"
+    },
+    {
+      "id": "vrykolakas",
+      "name": "Vrykolakas",
+      "relationship": "similar",
+      "description": "Greek undead, closely paralleling strigoi mort"
+    },
+    {
+      "id": "nosferatu",
+      "name": "Nosferatu",
+      "relationship": "related",
+      "description": "Term used by Emily Gerard and Bram Stoker for Romanian undead, of disputed Romanian origin"
+    }
+  ],
+  "cultural_notes": "Strigoi are widely understood in Romanian folk religion as the spirits of the unbaptised, the unsettled dead, sorcerers, or those who lived sinful lives, returning to torment family. Garlic, onion, incense, and hawthorn provide protection; in serious cases, exhumation and staking or heart-burning are practised.",
+  "sources": [
+    {
+      "id": "wikipedia-strigoi",
+      "type": "website",
+      "title": "Strigoi",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Strigoi",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "barber-1988",
+      "type": "book",
+      "title": "Vampires, Burial, and Death: Folklore and Reality",
+      "authors": [
+        "Paul Barber"
+      ],
+      "publication": "Yale University Press",
+      "date": "1988",
+      "isbn": "978-0300048599"
+    },
+    {
+      "id": "gerard-1885",
+      "type": "article",
+      "title": "Transylvanian Superstitions",
+      "authors": [
+        "Emily Gerard"
+      ],
+      "publication": "The Nineteenth Century",
+      "date": "1885-07"
+    },
+    {
+      "id": "stoker-1897",
+      "type": "book",
+      "title": "Dracula",
+      "authors": [
+        "Bram Stoker"
+      ],
+      "publication": "Archibald Constable and Company",
+      "date": "1897"
+    },
+    {
+      "id": "bbc-marotinu-2004",
+      "type": "news",
+      "title": "Romania village rejects vampire claims",
+      "publication": "BBC News",
+      "date": "2004-03-25",
+      "url": "https://news.bbc.co.uk/2/hi/europe/3520884.stm",
+      "accessed": "2026-05-07"
+    }
+  ],
+  "locations": []
 }

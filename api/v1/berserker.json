@@ -3,6 +3,7 @@
   "name": "Berserker",
   "category": "entity_spirit",
   "description": "Old Norse warriors said to fight in a trance-like fury (berserkergang), sometimes ascribed bear-like or wolf-like ferocity. Documented in skaldic poetry and the sagas, and outlawed in early-medieval Scandinavia.",
+  "full_description": "Berserkers (Old Norse berserkr, plural berserkir) were elite warriors of the Viking Age and earlier, described in Old Norse literature as fighting in a trance-like rage called berserksgangr. The earliest surviving reference appears in the late-9th-century skaldic poem Haraldskvæði by Þórbjörn Hornklofi, composed in honour of King Harald Fairhair. Sagas including Snorri Sturluson's Ynglinga saga, Egils saga, Vatnsdæla saga, and Grettis saga describe berserkers howling like animals, biting their shield-rims, and being momentarily impervious to fire and edged weapons. They are closely associated with the úlfheðnar, 'wolf-coats', who wore wolf pelts. Later Christian and legal sources treated berserkers as outlaws and 'heathen devils'; Earl Eiríkr Hákonarson is recorded as outlawing berserker bands in Norway around 1015, and the Icelandic Grágás laws prescribed outlawry for the practice. Modern scholarship treats the berserker as a real historical role within Norse warrior culture whose more spectacular features are partly mythologised, with proposed explanations ranging from ritual hysteria and trauma states to alcohol or hallucinogen-induced trance.",
   "aliases": [
     {
       "name": "berserkr",
@@ -42,5 +43,164 @@
   "origin": "Documented across the Viking-Age Norse world: Norway, Iceland, Sweden, Denmark, and the wider areas of Norse settlement and raiding (British Isles, Faroes, North Atlantic).",
   "first_reported": "c. 875",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Old Norse berserkr, generally taken as a compound of ber- ('bear') + serkr ('shirt, coat'), thus 'bear-shirt'. Snorri Sturluson's 13th-century gloss as 'bare-shirt' (fighting without armour) is now generally rejected.",
+    "meaning": "'Bear-shirted one'; one who wears a bear's pelt as a sign of warrior status.",
+    "first_use": "Late 9th century (Haraldskvæði); the modern English noun 'berserker' is attested from the early 19th century (Walter Scott)."
+  },
+  "sightings_stats": {
+    "date_range": {
+      "earliest": "c. 875",
+      "latest": "c. 1300"
+    }
+  },
+  "timeline": [
+    {
+      "date": "c. 875",
+      "event": "Composition of Haraldskvæði by Þórbjörn Hornklofi describing berserkir and úlfheðnar at Harald Fairhair's court",
+      "significance": "Earliest surviving textual reference",
+      "source": "Haraldskvæði (Þórbjörn Hornklofi)"
+    },
+    {
+      "date": "1015",
+      "event": "Earl Eiríkr Hákonarson outlaws berserker bands in Norway",
+      "significance": "Documents the legal suppression of the practice",
+      "source": "Snorri Sturluson, Heimskringla — Saga of Olaf Haraldsson"
+    },
+    {
+      "date": "c. 1118",
+      "event": "Grágás (Icelandic Gray Goose Laws) compiled, prescribing outlawry for berserkergang",
+      "significance": "Christian-era criminalisation of the practice",
+      "source": "Grágás (manuscript Konungsbók c. 1250)"
+    },
+    {
+      "date": "c. 1230",
+      "event": "Snorri Sturluson completes Heimskringla, including the Ynglinga saga's classic description of berserker rage",
+      "significance": "Canonical literary description (chapter 6)",
+      "source": "Heimskringla / Ynglinga saga"
+    },
+    {
+      "date": "1784",
+      "event": "Samuel Ödmann proposes the Amanita muscaria (fly agaric) hypothesis for berserksgangr",
+      "significance": "First influential pharmacological theory",
+      "source": "Ödmann, S. (1784), Försök at utur naturens historia förklara de nordiske gamle Kämpars Berserka-gång"
+    },
+    {
+      "date": "1956",
+      "event": "Howard Fabing publishes 'On Going Berserk: A Neurochemical Inquiry'",
+      "significance": "Mid-20th-century medical/pharmacological re-examination",
+      "source": "Fabing, H. (1956), Scientific Monthly 83:232–237"
+    },
+    {
+      "date": "2019",
+      "event": "Karsten Fatur publishes a hypothesis implicating Hyoscyamus niger (black henbane) rather than fly agaric",
+      "significance": "Recent peer-reviewed revival of the pharmacological debate",
+      "source": "Fatur, K. (2019), Journal of Ethnopharmacology"
+    }
+  ],
+  "related": [
+    {
+      "id": "ulfhednar",
+      "name": "Úlfheðnar",
+      "relationship": "counterpart",
+      "description": "Closely related Norse 'wolf-coat' warriors"
+    },
+    {
+      "id": "valkyrie",
+      "name": "Valkyrie",
+      "relationship": "related",
+      "description": "Norse battle-spirits associated with Odin and warrior death"
+    },
+    {
+      "id": "wild-hunt",
+      "name": "Wild Hunt",
+      "relationship": "related",
+      "description": "Northern European nocturnal warrior procession"
+    },
+    {
+      "id": "shapeshifters",
+      "name": "Shapeshifters",
+      "relationship": "similar",
+      "description": "Norse skin-changers (hamrammr) overlap conceptually with berserkers"
+    }
+  ],
+  "cultural_notes": "Berserkers were both feared and revered: indispensable shock troops of pre-Christian kings, but increasingly demonised as the Norse world Christianised.",
+  "sources": [
+    {
+      "id": "snorri-heimskringla",
+      "type": "book",
+      "title": "Heimskringla: History of the Kings of Norway (trans. Lee M. Hollander)",
+      "authors": [
+        "Snorri Sturluson",
+        "Lee M. Hollander (translator)"
+      ],
+      "publication": "University of Texas Press",
+      "date": "1964",
+      "isbn": "978-0292730618"
+    },
+    {
+      "id": "egils-saga",
+      "type": "book",
+      "title": "Egil's Saga (trans. Bernard Scudder)",
+      "authors": [
+        "Anonymous (Icelandic)"
+      ],
+      "publication": "Penguin Classics",
+      "date": "2004",
+      "isbn": "978-0140447705"
+    },
+    {
+      "id": "price-2002",
+      "type": "book",
+      "title": "The Viking Way: Magic and Mind in Late Iron Age Scandinavia",
+      "authors": [
+        "Neil Price"
+      ],
+      "publication": "Oxbow Books",
+      "date": "2002",
+      "isbn": "978-1842172605"
+    },
+    {
+      "id": "shay-1994",
+      "type": "book",
+      "title": "Achilles in Vietnam: Combat Trauma and the Undoing of Character",
+      "authors": [
+        "Jonathan Shay"
+      ],
+      "publication": "Atheneum",
+      "date": "1994",
+      "isbn": "978-0689121821"
+    },
+    {
+      "id": "fabing-1956",
+      "type": "paper",
+      "title": "On Going Berserk: A Neurochemical Inquiry",
+      "authors": [
+        "Howard D. Fabing"
+      ],
+      "publication": "Scientific Monthly",
+      "date": "1956"
+    },
+    {
+      "id": "fatur-2019",
+      "type": "paper",
+      "title": "Sagas of the Solanaceae: Speculative ethnobotanical perspectives on the Norse berserkers",
+      "authors": [
+        "Karsten Fatur"
+      ],
+      "publication": "Journal of Ethnopharmacology",
+      "date": "2019",
+      "doi": "10.1016/j.jep.2019.112151"
+    },
+    {
+      "id": "wikipedia-berserker",
+      "type": "website",
+      "title": "Berserker",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Berserker",
+      "accessed": "2026-05-07"
+    }
+  ],
+  "locations": []
 }

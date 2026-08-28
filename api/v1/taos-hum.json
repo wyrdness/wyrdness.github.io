@@ -3,6 +3,7 @@
   "name": "The Taos Hum",
   "category": "atmospheric_phenomenon",
   "description": "A persistent low-frequency hum reported by a small minority of residents around Taos, New Mexico from the early 1990s onward, investigated by a 1993 university-led panel without identifying a specific source.",
+  "full_description": "The Taos Hum is a low-frequency humming, droning, or rumbling sound reported by a small fraction of residents in and around Taos, New Mexico, beginning in the early 1990s. Hearers commonly describe a sound resembling a distant diesel engine that is most noticeable indoors and at night. Surveys in the early 1990s indicated that roughly 2% of the local population could hear it, with hearers reporting perceived frequencies in the range of about 32–80 Hz, modulated at approximately 0.5–2 Hz. In 1993, prompted by Taos residents and U.S. Representative Bill Richardson, a multi-institution team led by Joe Mullins (University of New Mexico) and including investigators from Sandia National Laboratories, Los Alamos National Laboratory, and Phillips Laboratory carried out a public investigation of the Hum. The team was unable to identify a single environmental acoustic source. The Taos Hum is one member of a wider class of regional 'Hum' phenomena, including the Bristol Hum (England), the Windsor Hum (Ontario/Michigan), the West Seattle Hum, and the Auckland Hum, which collectively remain unexplained.",
   "aliases": [
     {
       "name": "Taos Hum",
@@ -30,5 +31,113 @@
   "origin": "Reports center on Taos and surrounding Taos County in northern New Mexico, with one early hearer reporting a perceived range of approximately 30 miles (48 km).",
   "first_reported": "1991",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Named for the town of Taos, New Mexico, where the phenomenon was first widely reported and investigated in the early 1990s.",
+    "meaning": "'Hum' in the technical popular sense of a persistent low-frequency drone audible to a minority of nearby observers.",
+    "first_use": "Early 1990s in U.S. press coverage of the Taos investigation."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0,
+    "date_range": {
+      "earliest": "1991",
+      "latest": "2026"
+    }
+  },
+  "timeline": [
+    {
+      "date": "1991-01-01",
+      "event": "Residents of Taos, New Mexico, begin reporting a persistent low-frequency hum",
+      "significance": "Beginning of the documented Taos Hum phenomenon",
+      "source": "Wikipedia, 'The Hum'"
+    },
+    {
+      "date": "1993-05-01",
+      "event": "Multi-institution investigation announced, led by Joe Mullins (University of New Mexico) and supported by Sandia, Los Alamos, and Phillips Laboratory, in response to a petition by Taos residents and U.S. Representative Bill Richardson",
+      "significance": "Single largest scientific effort to identify the source of the Taos Hum",
+      "source": "Mullins, J. & Kelly, J. (1995), report to U.S. Congress"
+    },
+    {
+      "date": "1995-01-01",
+      "event": "Mullins and Kelly publish the final 'Taos Hum' investigation report; no specific environmental acoustic source identified",
+      "significance": "Establishes the Taos Hum as scientifically unresolved",
+      "source": "U.S. Congress / University of New Mexico report"
+    }
+  ],
+  "related": [
+    {
+      "id": "the-hum",
+      "name": "The Hum (general)",
+      "relationship": "superset",
+      "description": "Worldwide class of localized low-frequency hum reports"
+    },
+    {
+      "id": "bristol-hum",
+      "name": "Bristol Hum",
+      "relationship": "similar",
+      "description": "Documented Hum phenomenon in southwest England since the 1970s"
+    },
+    {
+      "id": "windsor-hum",
+      "name": "Windsor Hum",
+      "relationship": "similar",
+      "description": "Hum reported in Windsor, Ontario, attributed in 2014 reports to industrial activity on Zug Island"
+    },
+    {
+      "id": "auckland-hum",
+      "name": "Auckland Hum",
+      "relationship": "similar",
+      "description": "New Zealand Hum reports"
+    }
+  ],
+  "cultural_notes": "Some Taos hearers attribute the Hum to government or military activity; others to unidentified geophysical or psychic phenomena. Hearers' communities also exist online via the World Hum Map.",
+  "sources": [
+    {
+      "id": "wikipedia-the-hum",
+      "type": "website",
+      "title": "The Hum",
+      "publication": "English Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Hum",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "wikipedia-taos-hum",
+      "type": "website",
+      "title": "Taos Hum",
+      "publication": "English Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Taos_Hum",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "mullins-kelly-1995",
+      "type": "other",
+      "title": "The Taos Hum: An Investigation of Reported Low-Frequency Sound (Report to U.S. Congress)",
+      "authors": [
+        "Joe P. Mullins",
+        "Jim Kelly"
+      ],
+      "publication": "University of New Mexico",
+      "date": "1995"
+    },
+    {
+      "id": "world-hum-database",
+      "type": "website",
+      "title": "World Hum Map and Database Project",
+      "authors": [
+        "Glen MacPherson"
+      ],
+      "url": "https://www.thehum.info",
+      "accessed": "2026-05-07"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Taos, New Mexico",
+      "lat": 36.4072,
+      "lng": -105.5734
+    }
+  ]
 }

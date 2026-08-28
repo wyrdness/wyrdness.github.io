@@ -3,6 +3,7 @@
   "name": "Nazca Lines",
   "category": "cultural_artifact",
   "description": "An extensive group of pre-Columbian geoglyphs scratched into the desert pampa between the towns of Nazca and Palpa in southern Peru, created by the Paracas and Nazca cultures roughly between 500 BCE and 500 CE. Inscribed as a UNESCO World Heritage Site in 1994.",
+  "full_description": "The Nazca Lines are an extensive group of geoglyphs scored into the surface of the Pampas de Jumana plateau in southern Peru, between the towns of Nazca and Palpa about 400 km south of Lima. The site covers roughly 50 km² and contains lines whose combined length exceeds 1,300 km. The geoglyphs were created in two principal phases — a Paracas-culture phase (c. 400–200 BCE) and a Nazca-culture phase (c. 200 BCE – 500 CE) — by removing the reddish-brown ferric-oxide-coated pebbles of the desert pavement to expose the lighter subsoil beneath. Most lines are 10–15 cm deep and around 33 cm wide, with some up to 1.8 m wide. The figures include geometric shapes, plant motifs, and hundreds of zoomorphic and anthropomorphic designs, the most famous including a 93 m hummingbird, a 134 m condor, a 93×58 m monkey, and a 47 m spider. The Lines were first noted in modern times by the Peruvian archaeologist Toribio Mejía Xesspe in 1927 and were systematically studied from 1940–41 by the American historian Paul Kosok and from the 1940s onward by the German mathematician Maria Reiche. They were inscribed as a UNESCO World Heritage Site in 1994. Major scholarly debates concern whether the lines functioned as an astronomical calendar (Kosok, Reiche), as ritual pathways or shamanistic features, or as indicators tied to underground water sources (Reinhard, Johnson). Recent decades have seen the discovery of hundreds of additional geoglyphs through aerial survey, drones, satellite imagery, and machine-learning analysis, including a 2019 announcement of 143 new geoglyphs identified in collaboration between Yamagata University and IBM Japan, and the 2020 discovery of a giant cat figure on a steep hillside.",
   "aliases": [
     {
       "name": "Líneas de Nazca",
@@ -34,5 +35,118 @@
   "origin": "Concentrated in the arid Pampas de Jumana plateau between Nazca and Palpa in southern Peru, approximately 400 km south of Lima.",
   "first_reported": "1927",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Named after the modern town of Nazca in the Ica Region of Peru, near which most of the geoglyphs are found.",
+    "meaning": "'Lines of Nazca'.",
+    "first_use": "Modern terminology, used in scholarly literature from the early 20th century onward."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "1927",
+      "event": "Peruvian archaeologist Toribio Mejía Xesspe first records the Nazca Lines in modern scholarship",
+      "significance": "Beginning of formal study of the geoglyphs",
+      "source": "Wikipedia: Nazca Lines"
+    },
+    {
+      "date": "1940",
+      "event": "American historian Paul Kosok begins systematic field study of the Nazca Lines",
+      "significance": "Initiation of the astronomical / calendrical hypothesis",
+      "source": "Wikipedia: Nazca Lines"
+    },
+    {
+      "date": "1969",
+      "event": "Erich von Däniken publishes Chariots of the Gods?, popularizing the extraterrestrial-runway hypothesis for the Nazca Lines",
+      "significance": "Catalyzes mainstream pseudoscientific interpretations",
+      "source": "Von Däniken, E. (1969)"
+    },
+    {
+      "date": "1990",
+      "event": "Gerald Hawkins and Anthony Aveni conclude that 'the evidence was insufficient to support' the astronomical-calendar hypothesis",
+      "significance": "Mainstream archaeoastronomical critique of the Reiche hypothesis",
+      "source": "Wikipedia: Nazca Lines"
+    },
+    {
+      "date": "1994",
+      "event": "UNESCO inscribes the Lines and Geoglyphs of Nazca and Pampas de Jumana on the World Heritage List (18th Session, criteria i, iii, iv)",
+      "significance": "Formal international recognition of the site's outstanding universal value",
+      "source": "UNESCO"
+    },
+    {
+      "date": "2014-12-08",
+      "event": "Greenpeace activists damage the area around the hummingbird geoglyph during a protest banner stunt",
+      "significance": "Major modern conservation incident; one activist was later convicted",
+      "source": "Wikipedia: Nazca Lines"
+    },
+    {
+      "date": "2019",
+      "event": "Yamagata University and IBM Japan announce 143 new geoglyphs identified using machine-learning analysis",
+      "significance": "First major application of AI to Nazca survey",
+      "source": "Wikipedia: Nazca Lines"
+    },
+    {
+      "date": "2020",
+      "event": "Discovery of a giant cat figure on a steep hillside in the Nazca complex",
+      "significance": "Notable individual discovery, dated stylistically to the late Paracas period",
+      "source": "Wikipedia: Nazca Lines"
+    },
+    {
+      "date": "2024",
+      "event": "AI-assisted survey announces 303 previously unknown geoglyphs depicting parrots, cats, monkeys, killer whales, and severed heads",
+      "significance": "Largest single expansion of the known corpus",
+      "source": "Wikipedia: Nazca Lines"
+    }
+  ],
+  "related": [
+    {
+      "id": "palpa-geoglyphs",
+      "name": "Palpa geoglyphs",
+      "relationship": "related",
+      "description": "Adjacent and partially overlapping Paracas-period geoglyphs at Palpa"
+    },
+    {
+      "id": "atacama-giant",
+      "name": "Atacama Giant",
+      "relationship": "similar",
+      "description": "Other South American geoglyph traditions in the Atacama Desert"
+    },
+    {
+      "id": "uffington-white-horse",
+      "name": "Uffington White Horse",
+      "relationship": "similar",
+      "description": "Other large land-art figures elsewhere in the world"
+    }
+  ],
+  "cultural_notes": "The geoglyphs are now embedded in modern Peruvian national heritage and global popular culture; their original ritual meanings are reconstructed only through archaeology.",
+  "sources": [
+    {
+      "id": "wikipedia-nazca-lines",
+      "type": "website",
+      "title": "Nazca Lines",
+      "publication": "English Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Nazca_Lines",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "unesco-nazca",
+      "type": "website",
+      "title": "Lines and Geoglyphs of Nasca and Pampas de Jumana",
+      "publication": "UNESCO World Heritage Centre",
+      "url": "https://whc.unesco.org/en/list/700/",
+      "accessed": "2026-05-07"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Pampas de Jumana / Nazca-Palpa plateau",
+      "lat": -14.739,
+      "lng": -75.13
+    }
+  ]
 }

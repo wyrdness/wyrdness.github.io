@@ -3,6 +3,7 @@
   "name": "Wolpertinger",
   "category": "cryptid",
   "description": "A mythical hybrid creature of southern Bavaria and Baden-Württemberg: a small mammal — typically a rabbit or hare — fitted with antlers, fangs, wings, and other animal parts, popularised through 19th- and 20th-century 'gaff' taxidermy mounts displayed in inns and museums.",
+  "full_description": "The Wolpertinger is a folkloric beast of the alpine forests of Bavaria and Baden-Württemberg in southern Germany. It is conventionally depicted as a chimera with the head of a hare or rabbit, the body of a squirrel, the antlers of a deer or roebuck, the wings (and sometimes legs) of a pheasant, and prominent fangs, though the exact mix varies between specimens. The Wolpertinger is closely allied to other European hybrid creatures — the Thuringian Rasselbock, the Swedish Skvader, the Palatinate Elwedritsch, the Austrian Raurackl — and to the American Jackalope. It exists primarily as folklore and as a Bavarian taxidermy tradition: 19th-century Bavarian taxidermists assembled fanciful 'Wolpertinger' mounts from parts of multiple animals as inn decoration and tourist amusement, and these mounts remain staples of mountain-region inns and souvenir shops. The Deutsches Jagd- und Fischereimuseum (German Hunting and Fishing Museum) in Munich maintains a permanent display of Wolpertinger specimens. Some 17th-century European woodcuts of horned hares are now thought to depict real rabbits afflicted with the Shope papilloma virus, which produces horn-like growths and may have helped seed the Wolpertinger and Jackalope traditions.",
   "aliases": [
     {
       "name": "Wolperdinger",
@@ -56,5 +57,93 @@
   "origin": "Folkloric range is the alpine and pre-alpine forests of southern Germany, particularly Bavaria and Baden-Württemberg, with extensions into the broader Alpine region.",
   "first_reported": "1800",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Origin of the Bavarian name is uncertain; one proposed derivation is from glassmakers of the village of Wolterdingen, who produced animal-shaped schnapps glasses called 'Wolterdinger'.",
+    "meaning": "The exact meaning is unclear; popularly understood simply as the proper name of the creature.",
+    "first_use": "Bavarian folk usage from at least the 19th century; Wolpertinger taxidermy mounts attested in 1800s Bavaria."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "1600",
+      "event": "European woodcuts and engravings of horned hares circulate; some images are now thought to reflect rabbits affected by Shope papilloma virus",
+      "significance": "Earliest visual antecedents of the antlered-rabbit motif",
+      "source": "Wikipedia, 'Wolpertinger'"
+    },
+    {
+      "date": "1800",
+      "event": "Bavarian taxidermists begin producing Wolpertinger gaff mounts for inns and tourists",
+      "significance": "Foundation of the Wolpertinger as a living folk-tourism tradition",
+      "source": "Wikipedia, 'Wolpertinger'"
+    },
+    {
+      "date": "1918",
+      "event": "Swedish taxidermist Rudolf Granberg creates the Skvader, a parallel European hybrid creature",
+      "significance": "Demonstrates the wider European context of antlered/winged hare gaff creatures",
+      "source": "Wikipedia, 'Wolpertinger'"
+    }
+  ],
+  "related": [
+    {
+      "id": "jackalope",
+      "name": "Jackalope",
+      "relationship": "regional_variant",
+      "description": "American antlered hare, popularised in 1930s Wyoming"
+    },
+    {
+      "id": "skvader",
+      "name": "Skvader",
+      "relationship": "similar",
+      "description": "Swedish hare/grouse hybrid (1918 taxidermy mount by Rudolf Granberg)"
+    },
+    {
+      "id": "rasselbock",
+      "name": "Rasselbock",
+      "relationship": "regional_variant",
+      "description": "Thuringian Forest cousin of the Wolpertinger"
+    },
+    {
+      "id": "elwedritsch",
+      "name": "Elwedritsch",
+      "relationship": "similar",
+      "description": "Palatinate German hybrid creature"
+    },
+    {
+      "id": "raurackl",
+      "name": "Raurackl",
+      "relationship": "similar",
+      "description": "Austrian counterpart of the Wolpertinger"
+    }
+  ],
+  "cultural_notes": "The Wolpertinger is a clearly tongue-in-cheek figure: it functions as folklore, tourist humour, and regional iconography, not as a sincere cryptozoological claim.",
+  "sources": [
+    {
+      "id": "wikipedia-wolpertinger",
+      "type": "website",
+      "title": "Wolpertinger — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Wolpertinger",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "wikipedia-jackalope",
+      "type": "website",
+      "title": "Jackalope — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Jackalope",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "wikipedia-skvader",
+      "type": "website",
+      "title": "Skvader — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Skvader",
+      "accessed": "2026-05-07"
+    }
+  ],
+  "locations": []
 }

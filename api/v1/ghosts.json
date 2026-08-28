@@ -3,6 +3,7 @@
   "name": "Ghosts and Hauntings",
   "category": "ghost_haunting",
   "description": "Ghosts are alleged manifestations of the dead — visual apparitions, voices, sounds, and physical effects — reported across virtually every human culture from Mesopotamia to the present. Mainstream science treats them as folklore and misperception; parapsychology and Spiritualism continue to study them as a possible class of phenomena.",
+  "full_description": "A ghost is the alleged spirit, soul, or image of a dead person manifesting to the living. The belief is one of the oldest and most cross-cultural in human history, attested in Mesopotamian, Egyptian, Greek, Roman, Chinese, Japanese, Indian, and many Indigenous traditions, and continuing through medieval Christendom, the Renaissance, and the modern era. Common features of ghost reports include visual apparitions (full-body, partial, or 'misty'), disembodied voices and sounds, cold spots, object movement, electromagnetic anomalies, and a sense of presence or being watched. Hauntings are commonly classified as 'intelligent' (apparently aware and interactive) or 'residual' (repeating, non-interactive recordings of past events). The Spiritualist movement in the United States and Britain — usually dated from the Hydesville rappings reported by the Fox sisters in 1848 — produced an enormous public engagement with mediumship and ghosts, and led directly to the founding of the (British) Society for Psychical Research in 1882, the American SPR in 1885, and the academic discipline of parapsychology. Famous modern cases include the Borley Rectory investigations by Harry Price (1929–1939), the Enfield poltergeist investigated by Maurice Grosse and Guy Lyon Playfair (1977–1979), and the Rosenheim poltergeist studied by Hans Bender (1967). Mainstream scientific consensus treats ghosts as a non-existent phenomenon explicable by perceptual error, sleep paralysis, infrasound, electromagnetic fields, hoaxing, and cultural expectation; the Committee for Skeptical Inquiry and individual investigators such as Joe Nickell and Benjamin Radford are leading skeptical voices. Despite this, polling consistently shows that a substantial minority of adults in many countries report personal ghost experiences.",
   "aliases": [
     {
       "name": "Apparition",
@@ -85,5 +86,224 @@
   "origin": "Ghost beliefs are virtually universal across human cultures, attested from at least the third millennium BC (Mesopotamian texts) to the present. Reports occur worldwide; concentrations of widely-publicized cases exist in the British Isles, the United States, Japan, China, and Latin America.",
   "first_reported": "c. 2000 BC",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "English 'ghost' from Old English gāst ('breath, spirit'), from Proto-Germanic *gaistaz. Cognate with German Geist.",
+    "meaning": "Originally 'breath' or 'soul'; came to mean 'spirit of the dead' through Christian usage.",
+    "first_use": "Old English (e.g. Beowulf, c. 8th–11th century)"
+  },
+  "sightings_stats": {
+    "total_documented": 100000,
+    "verified": 0,
+    "disputed": 100000,
+    "debunked": 0,
+    "date_range": {
+      "earliest": "0090-01-01",
+      "latest": "2026-05-07"
+    }
+  },
+  "timeline": [
+    {
+      "date": "1100-01-01",
+      "event": "Mesopotamian incantation literature describes the etemmu (ghost) and rituals to placate the unquiet dead",
+      "significance": "Among the earliest documented ghost beliefs",
+      "source": "Akkadian incantation texts (Wikipedia, Ghost)"
+    },
+    {
+      "date": "0090-01-01",
+      "event": "Pliny the Younger's letter to Sura describes Athenodorus and the chained ghost in Athens",
+      "significance": "Foundational Western haunted-house narrative",
+      "source": "Pliny the Younger, Epistles 7.27"
+    },
+    {
+      "date": "1848-03-31",
+      "event": "Maggie and Kate Fox report communicating with rappings at their home in Hydesville, New York",
+      "significance": "Conventional starting date of modern Spiritualism",
+      "source": "Wikipedia, Spiritualism"
+    },
+    {
+      "date": "1882-02-20",
+      "event": "Society for Psychical Research founded in London, with Henry Sidgwick as first president",
+      "significance": "Beginnings of systematic, evidence-based investigation of ghost reports",
+      "source": "Society for Psychical Research, official history"
+    },
+    {
+      "date": "1885-01-01",
+      "event": "American Society for Psychical Research founded in Boston",
+      "significance": "Establishes parallel SPR programme in the United States",
+      "source": "ASPR official history"
+    },
+    {
+      "date": "1929-06-10",
+      "event": "Harry Price begins investigation of Borley Rectory, later called 'the most haunted house in England'",
+      "significance": "Most-publicized British ghost investigation of the early 20th century",
+      "source": "Price, H. (1940), The Most Haunted House in England"
+    },
+    {
+      "date": "1967-11-01",
+      "event": "Hans Bender investigates the Rosenheim poltergeist case in Bavaria",
+      "significance": "Major mid-20th-century parapsychology case",
+      "source": "Bender, H. (1969), Modern Poltergeist Research"
+    },
+    {
+      "date": "1977-08-30",
+      "event": "Onset of the Enfield poltergeist case in north London; investigated by Maurice Grosse and Guy Lyon Playfair for the SPR",
+      "significance": "Most-publicized poltergeist case of the late 20th century",
+      "source": "Playfair, G. L. (1980), This House Is Haunted"
+    }
+  ],
+  "related": [
+    {
+      "id": "poltergeist",
+      "name": "Poltergeist",
+      "relationship": "subset",
+      "description": "Ghost-type phenomenon characterized by object movement and noise"
+    },
+    {
+      "id": "shadow-people",
+      "name": "Shadow people",
+      "relationship": "related",
+      "description": "Reported dark, humanoid apparitions; sometimes classified as a ghost subtype"
+    },
+    {
+      "id": "doppelganger",
+      "name": "Doppelgänger",
+      "relationship": "related",
+      "description": "Apparition of a living person; treated alongside ghost lore"
+    },
+    {
+      "id": "crisis-apparition",
+      "name": "Crisis apparition",
+      "relationship": "subset",
+      "description": "Apparition of a person at the moment of their death — a major SPR research category"
+    },
+    {
+      "id": "haunted-places",
+      "name": "Haunted places",
+      "relationship": "related",
+      "description": "Locations associated with ghost activity"
+    },
+    {
+      "id": "electronic-voice-phenomena",
+      "name": "Electronic voice phenomena (EVP)",
+      "relationship": "related",
+      "description": "Audio recordings interpreted as voices of the dead"
+    },
+    {
+      "id": "near-death-experiences",
+      "name": "Near-death experiences",
+      "relationship": "related",
+      "description": "Experiences sometimes interpreted as evidence of post-mortem consciousness"
+    },
+    {
+      "id": "stone-tape-theory",
+      "name": "Stone tape theory",
+      "relationship": "related",
+      "description": "Speculative theory of residual hauntings as recorded environmental data"
+    }
+  ],
+  "cultural_notes": "Ghost beliefs are near-universal across cultures, varying widely in their theological framing. Common motifs include the importance of proper funerary rites, the special danger of the violent or untimely dead, and protective practices (light, salt, threshold rituals, prayer).",
+  "sources": [
+    {
+      "id": "wikipedia-ghost",
+      "type": "website",
+      "title": "Ghost",
+      "url": "https://en.wikipedia.org/wiki/Ghost",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "gurney-myers-podmore-1886",
+      "type": "book",
+      "title": "Phantasms of the Living",
+      "authors": [
+        "Edmund Gurney",
+        "Frederic W. H. Myers",
+        "Frank Podmore"
+      ],
+      "publication": "Trübner & Co.",
+      "date": "1886"
+    },
+    {
+      "id": "sidgwick-1894",
+      "type": "paper",
+      "title": "Report on the Census of Hallucinations",
+      "authors": [
+        "Henry Sidgwick",
+        "Eleanor Sidgwick",
+        "Alice Johnson"
+      ],
+      "publication": "Proceedings of the Society for Psychical Research",
+      "date": "1894"
+    },
+    {
+      "id": "price-1940",
+      "type": "book",
+      "title": "The Most Haunted House in England: Ten Years' Investigation of Borley Rectory",
+      "authors": [
+        "Harry Price"
+      ],
+      "publication": "Longmans, Green and Co.",
+      "date": "1940"
+    },
+    {
+      "id": "playfair-1980",
+      "type": "book",
+      "title": "This House Is Haunted: The True Story of a Poltergeist",
+      "authors": [
+        "Guy Lyon Playfair"
+      ],
+      "publication": "Souvenir Press",
+      "date": "1980"
+    },
+    {
+      "id": "raudive-1971",
+      "type": "book",
+      "title": "Breakthrough: An Amazing Experiment in Electronic Communication with the Dead",
+      "authors": [
+        "Konstantin Raudive"
+      ],
+      "publication": "Colin Smythe",
+      "date": "1971"
+    },
+    {
+      "id": "tandy-1998",
+      "type": "paper",
+      "title": "The ghost in the machine",
+      "authors": [
+        "Vic Tandy",
+        "Tony Lawrence"
+      ],
+      "publication": "Journal of the Society for Psychical Research",
+      "date": "1998"
+    },
+    {
+      "id": "spr-website",
+      "type": "website",
+      "title": "Society for Psychical Research",
+      "url": "https://www.spr.ac.uk/",
+      "accessed": "2026-05-07"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Tower of London",
+      "lat": 51.5081,
+      "lng": -0.0759
+    },
+    {
+      "name": "Borley Rectory",
+      "lat": 52.0563,
+      "lng": 0.7184
+    },
+    {
+      "name": "Hydesville (Fox sisters' cottage)",
+      "lat": 43.083,
+      "lng": -77.046
+    },
+    {
+      "name": "Enfield (Hodgson family home)",
+      "lat": 51.6523,
+      "lng": -0.0708
+    }
+  ]
 }

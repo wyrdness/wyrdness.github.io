@@ -3,6 +3,7 @@
   "name": "Hitotsume-kozō",
   "category": "entity_spirit",
   "description": "A Japanese yōkai depicted as a bald child-monk with a single large eye in the centre of its face; widely treated in folklore as comparatively harmless, surprising rather than injuring those who encounter it.",
+  "full_description": "Hitotsume-kozō (一つ目小僧) is a yōkai of Japanese folklore, classically depicted as a small bald child resembling a Buddhist acolyte (kozō, 小僧) with a single large eye in the middle of its forehead. It appears in classical yōkai bestiaries — most famously in Toriyama Sekien's Edo-period illustrated catalogues — and in regional folk tradition across Japan, especially in the Kantō region. Unlike many yōkai, hitotsume-kozō is generally considered harmless: its principal activity is to startle people by suddenly appearing on dark roads, in temples, or beside bridges. In Kantō tradition, it is associated with the kotoyōka days (the eighth day of the second and twelfth lunar months), on which households place woven bamboo baskets (megokago) on the eaves; the basket's many woven 'eyes' are believed to frighten away the one-eyed visitor. Some local traditions describe the hitotsume-kozō as a recorder of household misdeeds, listing transgressions in a book that is later submitted to a god of plague or misfortune. The creature is part of a wider Japanese folklore family of one-eyed beings — including the larger hitotsume-nyūdō, the one-eyed-and-one-legged ichigan-hitoashi, and various regional one-eyed deities — and has been linked by some scholars to fragmentary traditions about Mount Hiei's Tendai patriarch Ryōgen.",
   "aliases": [
     {
       "name": "一つ目小僧",
@@ -37,5 +38,68 @@
   "origin": "Reported across Japan in classical and regional folklore, with the densest tradition in the Kantō region. Notable strands of tradition link the figure to Mount Hiei (Shiga / Kyōto) and to local folklore in eastern and central Japan.",
   "first_reported": "Edo period (18th century)",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Japanese: 一つ目 (hitotsume, 'one eye') + 小僧 (kozō, 'young Buddhist acolyte / boy / brat'). The kozō element places the figure within the Buddhist temple-servant register that recurs across Japanese yōkai imagery.",
+    "meaning": "'One-eyed little monk' or 'one-eyed boy'.",
+    "first_use": "Classical Edo-period yōkai literature (18th century)."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "1700-01-01",
+      "event": "Edo-period Japan develops a rich illustrated yōkai literature in which hitotsume-kozō appears as a recurring figure",
+      "significance": "Codification of the modern canonical image of hitotsume-kozō",
+      "source": "Edo-period yōkai bestiaries (general)"
+    }
+  ],
+  "related": [
+    {
+      "id": "hitotsume-nyudo",
+      "name": "Hitotsume-nyūdō",
+      "relationship": "related",
+      "description": "Larger one-eyed yōkai monk; an adult counterpart to hitotsume-kozō"
+    },
+    {
+      "id": "ichigan-hitoashi-hoshi",
+      "name": "Ichigan-hitoashi hōshi",
+      "relationship": "related",
+      "description": "One-eyed, one-legged Buddhist priest figure of Mount Hiei tradition"
+    },
+    {
+      "id": "ao-bozu",
+      "name": "Ao-bōzu",
+      "relationship": "similar",
+      "description": "One-eyed blue monk yōkai of Japanese folklore"
+    },
+    {
+      "id": "mehitotsubo",
+      "name": "Mehitotsubō",
+      "relationship": "regional_variant",
+      "description": "Regional one-eyed yōkai variant"
+    },
+    {
+      "id": "cyclops",
+      "name": "Cyclops",
+      "relationship": "similar",
+      "description": "One-eyed humanoid of Greek mythology (cross-cultural parallel)"
+    }
+  ],
+  "cultural_notes": "Generally treated as a comparatively harmless yōkai; rituals on kotoyōka days were ordinary domestic observances rather than emergency measures.",
+  "sources": [
+    {
+      "id": "wikipedia-hitotsume-kozo-2026",
+      "type": "website",
+      "title": "Hitotsume-kozō",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Hitotsume-koz%C5%8D",
+      "accessed": "2026-05-07"
+    }
+  ],
+  "locations": []
 }

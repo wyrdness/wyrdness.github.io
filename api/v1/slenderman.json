@@ -3,6 +3,7 @@
   "name": "Slender Man",
   "category": "urban_legend",
   "description": "Slender Man is a fictional supernatural character created by Eric Knudsen ('Victor Surge') on the Something Awful forums on June 10, 2009. He is depicted as an unnaturally tall, thin, faceless figure in a black suit and is one of the foundational figures of digital folklore.",
+  "full_description": "Slender Man is a fictional supernatural entity that originated as an internet creation on the Something Awful forum 'Create Paranormal Images' Photoshop contest. On June 10, 2009, user Eric Knudsen (forum name 'Victor Surge') posted two black-and-white photographs in which a tall, thin figure in a black suit had been added to images of children, with brief invented witness-account captions. The character rapidly proliferated across the internet, becoming the central figure of an early-2010s wave of collaborative horror fiction known as creepypasta. Slender Man is depicted as unnaturally tall and thin, with a featureless white face, a black suit, and tentacle-like appendages, and is associated with the stalking and abduction of children. Major fictional treatments include the Marble Hornets web series (2009–2014), the video games Slender: The Eight Pages (2012) and Slender: The Arrival (2013), the HBO documentary Beware the Slenderman (2016), and the 2018 feature film Slender Man. The character is widely studied as an example of digital folklore (e.g., Trevor J. Blank, Andrew Peck). A 2014 stabbing in Waukesha, Wisconsin, in which two 12-year-old girls attacked a classmate and cited Slender Man, generated extensive moral-panic coverage and academic analysis.",
   "aliases": [
     {
       "name": "Slenderman",
@@ -35,5 +36,123 @@
   "origin": "As an internet-native fictional entity, Slender Man's 'distribution' is global wherever the anglophone internet reaches. The originating community is North American, but the character has become a globally recognised piece of digital folklore.",
   "first_reported": "2009-06-10",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Coined by Eric Knudsen ('Victor Surge') on the Something Awful forum, June 10, 2009.",
+    "meaning": "Descriptive — a 'slender' (tall and thin) figure in human form.",
+    "first_use": "June 10, 2009, in the Something Awful 'Create Paranormal Images' thread."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0,
+    "date_range": {
+      "earliest": "2009-06-10 (creation date)",
+      "latest": "present"
+    }
+  },
+  "timeline": [
+    {
+      "date": "2009-06-10",
+      "event": "Eric Knudsen ('Victor Surge') posts the first two Slender Man images on Something Awful's 'Create Paranormal Images' thread",
+      "significance": "Creation of the character",
+      "source": "Something Awful forum archives; Wikipedia, 'Slender Man'"
+    },
+    {
+      "date": "2009-06-20",
+      "event": "The Marble Hornets web series begins on YouTube, expanding the character into video",
+      "significance": "Establishes the most influential fictional treatment",
+      "source": "Marble Hornets YouTube channel"
+    },
+    {
+      "date": "2012-06-26",
+      "event": "Slender: The Eight Pages is released by Mark J. Hadley",
+      "significance": "Brings Slender Man into mainstream gaming",
+      "source": "Wikipedia, 'Slender: The Eight Pages'"
+    },
+    {
+      "date": "2014-05-31",
+      "event": "Two 12-year-old girls (Morgan Geyser and Anissa Weier) stab a classmate 19 times in Waukesha, Wisconsin, and later cite Slender Man as motivation",
+      "significance": "The 'Slender Man stabbing'; becomes a focal moral-panic event",
+      "source": "Waukesha County Court records; HBO Beware the Slenderman (2016)"
+    },
+    {
+      "date": "2016-01-23",
+      "event": "Beware the Slenderman, directed by Irene Taylor Brodsky, premieres at the Sundance Film Festival",
+      "significance": "HBO documentary on the Waukesha case",
+      "source": "HBO; Sundance 2016 records"
+    },
+    {
+      "date": "2018-08-10",
+      "event": "Sony Pictures' Slender Man film opens in U.S. theaters",
+      "significance": "First major-studio feature film treatment",
+      "source": "Sony Pictures release records"
+    }
+  ],
+  "related": [
+    {
+      "id": "creepypasta",
+      "name": "Creepypasta",
+      "relationship": "superset",
+      "description": "Genre of internet horror writing within which Slender Man is the central figure"
+    },
+    {
+      "id": "smile-dog",
+      "name": "Smile Dog",
+      "relationship": "similar",
+      "description": "Roughly contemporary creepypasta entity also originating in image-board communities"
+    },
+    {
+      "id": "the-rake",
+      "name": "The Rake",
+      "relationship": "similar",
+      "description": "Another foundational creepypasta entity from the same era"
+    },
+    {
+      "id": "enderman",
+      "name": "Enderman (Minecraft)",
+      "relationship": "related",
+      "description": "2011 Minecraft mob inspired in part by Slender Man"
+    }
+  ],
+  "cultural_notes": "Treated by adult communities as fiction; the Waukesha case demonstrates how some young people can come to treat fictional entities as real, with serious consequences.",
+  "sources": [
+    {
+      "id": "wikipedia-slenderman",
+      "type": "website",
+      "title": "Slender Man",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Slender_Man",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "peck-2015",
+      "type": "paper",
+      "title": "Tall, Dark, and Loathsome: The Emergence of a Legend Cycle in the Digital Age",
+      "authors": [
+        "Andrew Peck"
+      ],
+      "publication": "Journal of American Folklore",
+      "date": "2015",
+      "doi": "10.5406/jamerfolk.128.509.0333"
+    },
+    {
+      "id": "beware-slenderman-2016",
+      "type": "documentary",
+      "title": "Beware the Slenderman",
+      "authors": [
+        "Irene Taylor Brodsky"
+      ],
+      "publication": "HBO Films",
+      "date": "2016"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Waukesha, Wisconsin (2014 stabbing)",
+      "lat": 43.0117,
+      "lng": -88.2315
+    }
+  ]
 }

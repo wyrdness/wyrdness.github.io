@@ -3,6 +3,7 @@
   "name": "Chipekwe",
   "category": "cryptid",
   "description": "The Chipekwe is a large, horned, hippo-killing aquatic cryptid reported from the swamps and rivers of Zambia and parts of the Democratic Republic of the Congo. Bemba-language sources describe it as a 'water rhinoceros' with smooth hairless skin and a single white horn.",
+  "full_description": "Chipekwe (sometimes chimpelwi) is a Bemba-language word, glossed by colonial-era ethnographers as roughly equivalent to 'water monster', that has been applied since the early 20th century to a class of large amphibious cryptids reported from Lake Bangweulu, the Kafue Flats, and adjoining wetlands of Zambia (the former Northern Rhodesia). The most consistent description is of a robust, hippopotamus-sized animal with smooth hairless hide, a heavy build, and a single prominent horn or tusk on its snout — for which the colonial term 'water rhinoceros' was coined. Local oral tradition holds that the Chipekwe attacks and kills hippopotamuses, accounting for the reported scarcity of hippos in some sections of Bangweulu. The Chipekwe was first introduced to a European audience in the early 1900s through the writings of big-game hunter John Alfred Jordan and was popularised by Carl Hagenbeck. Subsequent expedition reports (notably Hans Schomburgk in the 1910s and Thomas Alexander Barns in 1922) repeated and elaborated the descriptions. Because the Bemba term operates as a generic 'water monster', several distinct cryptids — including more sauropod-like forms sometimes equated with mokele-mbembe and the rhinoceros-like emela-ntouka — have been folded into the Chipekwe category. No specimen, photograph, or unambiguous physical evidence has been produced; mainstream zoologists treat the reports as folkloric, with possible roots in cultural memory of extinct horned megafauna or in dramatic encounters with bull hippos.",
   "aliases": [
     {
       "name": "Chimpelwi",
@@ -38,5 +39,163 @@
   "origin": "Centred on the wetlands of north-central and northeastern Zambia, particularly Lake Bangweulu and its associated swamps, the Kafue Flats, and the Luapula river system. Reports also extend into adjoining parts of the Democratic Republic of the Congo and to Lake Tanganyika in some 20th-century retellings.",
   "first_reported": "1907",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Bemba (chiBemba), Northern Province of Zambia. Recorded by colonial ethnographers and hunters of the early 20th century.",
+    "meaning": "Glossed by Carl Hagenbeck and later writers as 'water monster' or 'water rhinoceros'.",
+    "first_use": "European-language usage from c. 1909 (Carl Hagenbeck, Beasts and Men); described in print as a 'water rhinoceros' from 1907 onward."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0,
+    "date_range": {
+      "earliest": "1907",
+      "latest": "20th century"
+    }
+  },
+  "timeline": [
+    {
+      "date": "1907",
+      "event": "First European-language description of the chipekwe as a hippo-eating 'water rhinoceros' on the Kafue Flats",
+      "significance": "Introduces the cryptid into the colonial literature",
+      "source": "Cited in Hagenbeck (1909) and subsequent compilations"
+    },
+    {
+      "date": "1909",
+      "event": "Carl Hagenbeck publishes Beasts and Men (Von Tieren und Menschen), referring to a half-elephant, half-dragon creature in Rhodesia and igniting public interest",
+      "significance": "Launches the European mythology of African dinosaur-like cryptids",
+      "source": "Hagenbeck, C. (1909), Beasts and Men"
+    },
+    {
+      "date": "1922",
+      "event": "Thomas Alexander Barns describes the chipekwe / chimpelwi as a 'water rhinoceros' on the testimony of the Buanga people of Bangweulu",
+      "significance": "First published ethnographic account from a non-hunter source",
+      "source": "Barns, T. A. (1922), The Wonderland of the Eastern Congo"
+    },
+    {
+      "date": "1932",
+      "event": "Hans Schomburgk publishes a popular account of his 1912 Bangweulu expedition, citing the apparent scarcity of hippopotamus there as evidence consistent with a Chipekwe predator",
+      "significance": "Builds the popular cryptozoological case",
+      "source": "Schomburgk, H. (1932), Mein Afrika"
+    },
+    {
+      "date": "1981",
+      "event": "Roy Mackal devotes a chapter to the Chipekwe in the context of his Mokele-mbembe research, drawing the modern equivalence between Bangweulu and Likouala accounts",
+      "significance": "Anchors the cryptid in late-20th-century cryptozoology",
+      "source": "Mackal, R. (1987), A Living Dinosaur? In Search of Mokele-Mbembe"
+    }
+  ],
+  "related": [
+    {
+      "id": "mokele-mbembe",
+      "name": "Mokele-mbembe",
+      "relationship": "related",
+      "description": "Congolese sauropod-like aquatic cryptid; sometimes confused or grouped with the Chipekwe in regional accounts"
+    },
+    {
+      "id": "emela-ntouka",
+      "name": "Emela-ntouka",
+      "relationship": "similar",
+      "description": "Congolese 'killer of elephants' cryptid, also described as a horned aquatic mammal that attacks large herbivores"
+    },
+    {
+      "id": "ninki-nanka",
+      "name": "Ninki-nanka",
+      "relationship": "related",
+      "description": "West African swamp cryptid in the same broad 'African water-dragon' tradition"
+    },
+    {
+      "id": "kongamato",
+      "name": "Kongamato",
+      "relationship": "related",
+      "description": "Zambian / Angolan flying cryptid reported in the same regional folklore as the Chipekwe"
+    }
+  ],
+  "cultural_notes": "The Chipekwe is treated in oral tradition as both a real and dangerous animal of the deep swamps and as a moral figure that polices respect for sacred or restricted waters.",
+  "sources": [
+    {
+      "id": "wikipedia-chipekwe",
+      "type": "website",
+      "title": "Chipekwe (search results / cryptozoological wikis)",
+      "publication": "A Book of Creatures and other compilations",
+      "url": "https://abookofcreatures.com/2020/05/29/chipekwe/",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "hagenbeck-1909",
+      "type": "book",
+      "title": "Von Tieren und Menschen (Beasts and Men)",
+      "authors": [
+        "Carl Hagenbeck"
+      ],
+      "publication": "Vita Deutsches Verlagshaus",
+      "date": "1909"
+    },
+    {
+      "id": "barns-1922",
+      "type": "book",
+      "title": "The Wonderland of the Eastern Congo",
+      "authors": [
+        "Thomas Alexander Barns"
+      ],
+      "publication": "G. P. Putnam's Sons",
+      "date": "1922"
+    },
+    {
+      "id": "schomburgk-1932",
+      "type": "book",
+      "title": "Mein Afrika",
+      "authors": [
+        "Hans Schomburgk"
+      ],
+      "publication": "Hobbing",
+      "date": "1932"
+    },
+    {
+      "id": "mackal-1987",
+      "type": "book",
+      "title": "A Living Dinosaur? In Search of Mokele-Mbembe",
+      "authors": [
+        "Roy P. Mackal"
+      ],
+      "publication": "E. J. Brill",
+      "date": "1987",
+      "isbn": "978-9004085435"
+    },
+    {
+      "id": "shuker-1995",
+      "type": "book",
+      "title": "In Search of Prehistoric Survivors",
+      "authors": [
+        "Karl P. N. Shuker"
+      ],
+      "publication": "Blandford",
+      "date": "1995",
+      "isbn": "978-0713724691"
+    },
+    {
+      "id": "heuvelmans-1955",
+      "type": "book",
+      "title": "On the Track of Unknown Animals",
+      "authors": [
+        "Bernard Heuvelmans"
+      ],
+      "publication": "Plon (French original); Hill and Wang (English)",
+      "date": "1955"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Lake Bangweulu",
+      "lat": -11.0833,
+      "lng": 29.75
+    },
+    {
+      "name": "Kafue Flats / Lake Chirengwa",
+      "lat": -15.75,
+      "lng": 27.5
+    }
+  ]
 }

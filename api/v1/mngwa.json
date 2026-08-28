@@ -3,6 +3,7 @@
   "name": "Mngwa",
   "category": "cryptid",
   "description": "A large, grey-brindled mystery cat reported from the coastal regions of Tanzania and Zanzibar, East Africa, described as significantly larger than a lion with tabby-like markings and held responsible for a series of human fatalities investigated by British officials in the 1920s.",
+  "full_description": "The Mngwa (also known as the Nunda) is a cryptid feline from Swahili-speaking East African tradition, reported primarily from the coastal regions of Tanzania and the island of Zanzibar. It is described as a large cat substantially bigger than a lion, with distinctive grey fur patterned in a brindle or tabby-like arrangement similar to a civet's markings. In 1922, William Hitchens, serving as a magistrate in Lindi, Tanzania, investigated a series of attacks in which several local constables were killed or badly injured by a large cat. Grey hair found in the hands of one victim was sent to a laboratory for analysis; the results were inconclusive. A second series of maulings occurred in the Mchinga area in the 1930s. The creature's name Mngwa, meaning 'strange one,' and its alternative name Nunda, meaning 'fierce animal,' appear independently in East African oral tradition and in a Swahili fairy tale ('The Nunda, Eater of People') collected by Edward Steere in Zanzibar in 1870. Cryptozoologist Bernard Heuvelmans considered the Mngwa one of the more credible African mystery cats due to the consistency of descriptions and the official investigation of attacks. Skeptical researchers, including Karl Shuker, suggest the attacks were committed by a known large cat (lion or leopard), with the grey fur evidence potentially planted by local witchdoctors (mjobo). No specimen has been captured or confirmed.",
   "aliases": [
     {
       "name": "Nunda",
@@ -43,5 +44,123 @@
   "origin": "Reported from the coastal regions of mainland Tanzania and the island of Zanzibar; tradition associated with Swahili-speaking peoples of the East African coast.",
   "first_reported": "1870-01-01",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Swahili mu-nwga; the alternative name Nunda derives from a Swahili word meaning 'fierce animal,' 'cruel man,' or 'something heavy.' Both names appear in Swahili oral tradition and were recorded in colonial-era accounts.",
+    "meaning": "Strange one (Mngwa); fierce animal (Nunda)",
+    "first_use": "1870 — 'The Nunda, Eater of People' collected by Edward Steere in Zanzibar; Mngwa name appears in 1920s colonial accounts"
+  },
+  "sightings_stats": {
+    "total_documented": 3,
+    "verified": 0,
+    "disputed": 3,
+    "debunked": 0,
+    "date_range": {
+      "earliest": "1922",
+      "latest": "1930"
+    }
+  },
+  "timeline": [
+    {
+      "date": "1870-01-01",
+      "event": "Edward Steere collects 'The Nunda, Eater of People' in Zanzibar, published in Swahili Tales",
+      "significance": "Earliest documented written record of the Nunda name and tradition",
+      "source": "Steere, E. (1870), Swahili Tales"
+    },
+    {
+      "date": "1901-01-01",
+      "event": "Andrew Lang publishes an abridged version of 'The Nunda, Eater of People' in The Violet Fairy Book",
+      "significance": "Brings the Nunda to Western readers",
+      "source": "Lang, A. (1901), The Violet Fairy Book"
+    },
+    {
+      "date": "1922-01-01",
+      "event": "William Hitchens, magistrate of Lindi, Tanzania, investigates multiple constable deaths attributed to a large grey cat; grey hair found in a victim's hands sent for lab analysis (results inconclusive)",
+      "significance": "Primary modern documentation of Mngwa attacks; first official investigation",
+      "source": "Hitchens, W. (1922); cited in cryptozoological literature"
+    },
+    {
+      "date": "1930-01-01",
+      "event": "Second series of maulings attributed to the Mngwa in the Mchinga area of Tanzania",
+      "significance": "Follow-up incident confirming the ongoing tradition",
+      "source": "Colonial records; cited in cryptozoological literature"
+    }
+  ],
+  "related": [
+    {
+      "id": "maltese-tiger",
+      "name": "Maltese Tiger",
+      "relationship": "similar",
+      "description": "Reported blue-grey tiger from China; another mystery big cat with unusual coloration"
+    },
+    {
+      "id": "marozi",
+      "name": "Marozi",
+      "relationship": "similar",
+      "description": "Cryptid spotted lion reported from Kenya; another African mystery feline"
+    },
+    {
+      "id": "bush-lion",
+      "name": "Nunda (fairy tale creature)",
+      "relationship": "related",
+      "description": "Swahili fairy tale creature 'Nunda, Eater of People' (Steere 1870) sharing the name"
+    }
+  ],
+  "cultural_notes": "In Swahili coastal tradition, the Mngwa/Nunda is understood as a genuinely different and dangerous creature distinct from lions and leopards. Local communities in the Lindi region maintained specific fear of the creature during the 1920s incident period.",
+  "sources": [
+    {
+      "id": "steere-1870",
+      "type": "book",
+      "title": "Swahili Tales",
+      "authors": [
+        "Edward Steere"
+      ],
+      "publication": "Church Missionary Society",
+      "date": "1870"
+    },
+    {
+      "id": "lang-1901",
+      "type": "book",
+      "title": "The Violet Fairy Book",
+      "authors": [
+        "Andrew Lang"
+      ],
+      "publication": "Longmans, Green and Co.",
+      "date": "1901"
+    },
+    {
+      "id": "heuvelmans-1955",
+      "type": "book",
+      "title": "Sur la piste des bêtes ignorées (On the Track of Unknown Animals)",
+      "authors": [
+        "Bernard Heuvelmans"
+      ],
+      "publication": "Plon (Paris)",
+      "date": "1955"
+    },
+    {
+      "id": "shuker-1989",
+      "type": "book",
+      "title": "Mystery Cats of the World",
+      "authors": [
+        "Karl Shuker"
+      ],
+      "publication": "Robert Hale",
+      "date": "1989"
+    },
+    {
+      "id": "wikipedia-nunda",
+      "type": "website",
+      "title": "The Nunda, Eater of People",
+      "url": "https://en.wikipedia.org/wiki/The_Nunda,_Eater_of_People",
+      "accessed": "2026-05-08"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Lindi district, Tanzania",
+      "lat": -10,
+      "lng": 40
+    }
+  ]
 }

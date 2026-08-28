@@ -3,6 +3,7 @@
   "name": "Antikythera Mechanism",
   "category": "cultural_artifact",
   "description": "A Hellenistic Greek hand-powered geared device, recovered in 1901 from a shipwreck off the island of Antikythera, that calculated and displayed astronomical positions, eclipse cycles, and the four-year cycle of athletic games.",
+  "full_description": "The Antikythera Mechanism is a hand-powered geared device of Hellenistic Greek manufacture, dated to the 2nd or early 1st century BCE, recovered in 1900–1901 from the wreck of a cargo ship off the island of Antikythera in the southern Aegean. The mechanism survives in 82 corroded bronze fragments and is held by the National Archaeological Museum of Athens. It originally consisted of a wooden box approximately 34 × 18 × 9 cm housing at least 30 interlocking bronze gears with hand-cut triangular teeth. Operated by a hand crank, the device modelled the motions of the Sun and Moon, predicted lunar and solar eclipses through the Saros cycle, tracked the 19-year Metonic cycle, displayed the four-year cycle of the Panhellenic games on a dedicated dial, and is now believed to have indicated the positions of the five planets known to antiquity. Modern study began with Derek J. de Solla Price's pioneering 1959 and 1974 work and has been transformed since 2005 by the Antikythera Mechanism Research Project, which used high-resolution X-ray computed tomography (Bladed Surface Imaging at X-Tek) to read the inscriptions hidden in the corroded fragments. The mechanism stands as the earliest known geared analog computer and the most sophisticated surviving piece of Hellenistic mechanical technology.",
   "aliases": [
     {
       "name": "Antikythera Device",
@@ -31,5 +32,176 @@
   "origin": "A unique surviving artifact, currently held in the National Archaeological Museum of Athens; recovered from the seafloor off Antikythera, Greece.",
   "first_reported": "1900",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Named after the Greek island of Antikythera (Αντικύθηρα), off whose coast the wreck was discovered.",
+    "meaning": "'Antikythera' means 'opposite Kythera', i.e. the island opposite Kythera (Cythera).",
+    "first_use": "The artifact was first identified as something more than ordinary corroded bronze on 17 May 1902, when archaeologist Valerios Stais noticed a gear embedded in one of the fragments."
+  },
+  "sightings_stats": null,
+  "timeline": [
+    {
+      "date": "1900-04-01",
+      "event": "Sponge divers under Captain Dimitrios Kontos discover the Antikythera shipwreck off Antikythera",
+      "significance": "Initial discovery of the wreck",
+      "source": "Wikipedia: Antikythera mechanism"
+    },
+    {
+      "date": "1901-07-01",
+      "event": "Mechanism fragments are recovered from the wreck during a Greek government salvage operation",
+      "significance": "Recovery of the mechanism's surviving fragments",
+      "source": "National Archaeological Museum of Athens"
+    },
+    {
+      "date": "1902-05-17",
+      "event": "Archaeologist Valerios Stais identifies a gear embedded in one of the corroded fragments",
+      "significance": "First recognition that the object is mechanical",
+      "source": "Stais (1902) report to the Athens Archaeological Society"
+    },
+    {
+      "date": "1959",
+      "event": "Derek J. de Solla Price publishes 'An Ancient Greek Computer' in Scientific American",
+      "significance": "First sustained scientific analysis",
+      "source": "Price, D. (1959), Scientific American 200(6), 60–67"
+    },
+    {
+      "date": "1974",
+      "event": "Price publishes 'Gears from the Greeks' in Trans. Am. Phil. Soc.",
+      "significance": "Comprehensive monograph; foundational reconstruction",
+      "source": "Price, D. (1974), Trans. Am. Phil. Soc. 64(7)"
+    },
+    {
+      "date": "2006-11-30",
+      "event": "Freeth et al. publish 'Decoding the ancient Greek astronomical calculator known as the Antikythera Mechanism' in Nature",
+      "significance": "Reveals 37-gear scheme and lunar anomaly mechanism via X-ray CT",
+      "source": "Freeth et al. (2006), Nature 444:587–591"
+    },
+    {
+      "date": "2008-07-31",
+      "event": "Freeth et al. publish in Nature on the Olympiad / games dial",
+      "significance": "Identifies the Panhellenic games dial on the back of the mechanism",
+      "source": "Freeth et al. (2008), Nature 454:614–617"
+    },
+    {
+      "date": "2021-03-12",
+      "event": "UCL Antikythera Research Team publish 'A Model of the Cosmos in the ancient Greek Antikythera Mechanism' in Scientific Reports",
+      "significance": "Comprehensive proposed reconstruction of the front cosmos display including all five planets",
+      "source": "Freeth et al. (2021), Scientific Reports 11:5821"
+    }
+  ],
+  "related": [
+    {
+      "id": "baghdad-battery",
+      "name": "Baghdad Battery",
+      "relationship": "similar",
+      "description": "Other ancient artifact often grouped (popularly) with anomalous technology"
+    },
+    {
+      "id": "saqqara-bird",
+      "name": "Saqqara Bird",
+      "relationship": "similar",
+      "description": "Egyptian artefact frequently invoked in 'ancient technology' discussions"
+    }
+  ],
+  "cultural_notes": "The mechanism is widely (and largely incorrectly) cited in popular 'ancient technology' discourse as anomalous; among historians of science it is celebrated as a remarkable but contextually intelligible artifact.",
+  "sources": [
+    {
+      "id": "wikipedia-antikythera",
+      "type": "website",
+      "title": "Antikythera mechanism",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Antikythera_mechanism",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "freeth-2006",
+      "type": "paper",
+      "title": "Decoding the ancient Greek astronomical calculator known as the Antikythera Mechanism",
+      "authors": [
+        "Tony Freeth",
+        "Yanis Bitsakis",
+        "Xenophon Moussas",
+        "John H. Seiradakis",
+        "A. Tselikas",
+        "H. Mangou",
+        "M. Zafeiropoulou",
+        "R. Hadland",
+        "D. Bate",
+        "A. Ramsey",
+        "M. Allen",
+        "A. Crawley",
+        "P. Hockley",
+        "T. Malzbender",
+        "D. Gelb",
+        "W. Ambrisco",
+        "M. G. Edmunds"
+      ],
+      "publication": "Nature",
+      "date": "2006-11-30",
+      "doi": "10.1038/nature05357"
+    },
+    {
+      "id": "freeth-2008",
+      "type": "paper",
+      "title": "Calendars with Olympiad display and eclipse prediction on the Antikythera Mechanism",
+      "authors": [
+        "Tony Freeth",
+        "Alexander Jones",
+        "John M. Steele",
+        "Yanis Bitsakis"
+      ],
+      "publication": "Nature",
+      "date": "2008-07-31",
+      "doi": "10.1038/nature07130"
+    },
+    {
+      "id": "freeth-2021",
+      "type": "paper",
+      "title": "A Model of the Cosmos in the ancient Greek Antikythera Mechanism",
+      "authors": [
+        "Tony Freeth",
+        "David Higgon",
+        "Aris Dacanalis",
+        "Lindsay MacDonald",
+        "Myrto Georgakopoulou",
+        "Adam Wojcik"
+      ],
+      "publication": "Scientific Reports",
+      "date": "2021-03-12",
+      "doi": "10.1038/s41598-021-84310-w"
+    },
+    {
+      "id": "price-1974",
+      "type": "paper",
+      "title": "Gears from the Greeks: The Antikythera Mechanism — A Calendar Computer from ca. 80 BC",
+      "authors": [
+        "Derek J. de Solla Price"
+      ],
+      "publication": "Transactions of the American Philosophical Society",
+      "date": "1974"
+    },
+    {
+      "id": "marchant-2008",
+      "type": "book",
+      "title": "Decoding the Heavens: A 2,000-Year-Old Computer—and the Century-Long Search to Discover Its Secrets",
+      "authors": [
+        "Jo Marchant"
+      ],
+      "publication": "Da Capo Press",
+      "date": "2008",
+      "isbn": "978-0306817427"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Antikythera shipwreck site",
+      "lat": 35.8703,
+      "lng": 23.3056
+    },
+    {
+      "name": "National Archaeological Museum of Athens",
+      "lat": 37.9893,
+      "lng": 23.7325
+    }
+  ]
 }

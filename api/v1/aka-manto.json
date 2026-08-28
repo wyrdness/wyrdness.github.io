@@ -3,6 +3,7 @@
   "name": "Aka Manto",
   "category": "ghost_haunting",
   "description": "Aka Manto ('Red Cloak') is a Japanese urban legend about a masked, red-cloaked spirit who haunts public and school toilets and asks the occupant to choose between red or blue toilet paper (or red or blue cloak). Either choice ends in death; only refusal lets the victim escape.",
+  "full_description": "Aka Manto (赤マント, 'Red Cloak'), also known as Red Cape, Red Vest, or in some regional variants Aoi Manto ('Blue Cloak'), is a long-standing Japanese urban legend told in schoolyards from at least the 1930s. According to the most common form of the tale, a masked male spirit wearing a flowing red cloak appears to people sitting on the toilet in a public or school bathroom — typically the last stall, late at night — and asks whether they want red paper or blue paper. Choosing red causes the victim to be slashed or flayed until their blood soaks through their clothes, producing the 'red cloak'; choosing blue causes them to be strangled or drained of blood until their skin turns blue. Naming any other colour brings a worse death (often being dragged into the floor or 'underworld'). Survival requires either ignoring the spirit or refusing both options. Variant forms swap the toilet paper for cloaks or capes, or substitute the Kainade legend in which a hairy yokai's coloured arm reaches up from inside the toilet. According to folklorist Matthew Meyer, accounts circulate from as early as the 1930s; one tradition places the legend's origin in an Osaka elementary school around 1935, with the legend reaching Tokyo within a year or two and spreading to Kitakyushu and Japanese-administered Korea by 1940. The historic word 'manto' originally referred to a sleeveless kimono-style jacket and only later came to mean a Western-style cloak, which has produced generational variation in retellings. Aka Manto sits within a network of Japanese school-toilet legends including Hanako-san, the Akaname, Teke Teke, and Kuchisake-onna.",
   "aliases": [
     {
       "name": "赤マント",
@@ -45,5 +46,114 @@
   "origin": "Originally a Japanese school-yard legend; widely retold across Japan and exported through pop culture to East Asia, North America, and beyond.",
   "first_reported": "1930s",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Japanese; combination of 赤 (aka, 'red') and マント (manto, originally a sleeveless kimono jacket, later a Western-style cloak or cape).",
+    "meaning": "'Red Cloak' or 'Red Cape'.",
+    "first_use": "School-yard rumour from at least the 1930s; the term 'manto' shifts in meaning across the 20th century, producing both 'red coat / vest' and 'red cloak / cape' descriptions of the entity."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "1935-01-01",
+      "event": "Aka Manto reportedly originates in an Osaka elementary school, according to a tradition recorded by Matthew Meyer",
+      "significance": "Earliest dating of the legend in the secondary literature",
+      "source": "Wikipedia: Aka Manto, citing Matthew Meyer"
+    },
+    {
+      "date": "1940-01-01",
+      "event": "The legend reaches Kitakyushu and Japanese-administered Korea",
+      "significance": "First documented spread beyond Honshu",
+      "source": "Wikipedia: Aka Manto"
+    },
+    {
+      "date": "2000-10-22",
+      "event": "Aka Manto appears as the antagonist of episode 2 of the anime Ghost Stories (Gakkō no Kaidan)",
+      "significance": "Major anime exposure",
+      "source": "Ghost Stories (anime), 2000"
+    },
+    {
+      "date": "2017-10-02",
+      "event": "Eric Grundhauser publishes 'Aka Manto Is the Bathroom Ghost That Wants You to Choose Wisely' in Atlas Obscura",
+      "significance": "Notable English-language coverage",
+      "source": "Grundhauser, Atlas Obscura, 2017-10-02"
+    },
+    {
+      "date": "2019-01-01",
+      "event": "Indie horror studio Chilla's Art releases the Aka Manto video game",
+      "significance": "Modern interactive retelling of the legend",
+      "source": "Chilla's Art (2019)"
+    },
+    {
+      "date": "2021-09-17",
+      "event": "Squid Game premieres on Netflix; director Hwang Dong-hyuk later confirms its red/blue card colour scheme is a nod to Aka Manto",
+      "significance": "Mass-audience exposure to the legend's choice motif",
+      "source": "Director interview cited in Wikipedia"
+    }
+  ],
+  "related": [
+    {
+      "id": "hanako-san",
+      "name": "Hanako-san",
+      "relationship": "similar",
+      "description": "Female schoolgirl ghost said to haunt school toilets, especially the third stall"
+    },
+    {
+      "id": "kuchisake-onna",
+      "name": "Kuchisake-onna",
+      "relationship": "similar",
+      "description": "Slit-mouthed woman urban legend with a similar choice-based killing structure"
+    },
+    {
+      "id": "akaname",
+      "name": "Akaname",
+      "relationship": "related",
+      "description": "Yokai associated with dirty bathrooms"
+    },
+    {
+      "id": "teke-teke",
+      "name": "Teke Teke",
+      "relationship": "similar",
+      "description": "Legless schoolyard ghost from Japanese urban legend"
+    }
+  ],
+  "cultural_notes": "Aka Manto is treated as a hostile spirit specifically tied to public and school toilets; standard 'protective' responses involve refusing both options or saying nothing.",
+  "sources": [
+    {
+      "id": "wikipedia-aka-manto",
+      "type": "website",
+      "title": "Aka Manto",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Aka_Manto",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "yokai-com-akamanto",
+      "type": "website",
+      "title": "Aka manto",
+      "authors": [
+        "Matthew Meyer"
+      ],
+      "publication": "yokai.com",
+      "url": "https://yokai.com/akamanto/",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "atlas-obscura-akamanto-2017",
+      "type": "article",
+      "title": "Aka Manto Is the Bathroom Ghost That Wants You to Choose Wisely",
+      "authors": [
+        "Eric Grundhauser"
+      ],
+      "publication": "Atlas Obscura",
+      "date": "2017-10-02",
+      "accessed": "2026-05-07"
+    }
+  ],
+  "locations": []
 }

@@ -3,6 +3,7 @@
   "name": "Jörmungandr",
   "category": "mythological_creature",
   "description": "Jörmungandr is the colossal sea serpent of Norse mythology, son of Loki and Angrboða, sibling of Fenrir and Hel, who encircles the world (Midgard) biting his own tail. He is the cosmic adversary of the thunder god Thor, whom he kills and is killed by at Ragnarök.",
+  "full_description": "Jörmungandr (Old Norse Jǫrmungandr; also Miðgarðsormr, the 'Midgard Serpent') is the colossal serpent of Norse mythology that lies beneath the sea encircling Midgard, the world of humans, biting his own tail in an ouroboros configuration. Snorri Sturluson's Prose Edda (compiled c. 1220) and the Eddic poems of the Codex Regius (c. 1270) preserve the canonical narratives. Jörmungandr is the middle child of the trickster god Loki and the jötunn Angrboða; his siblings are the wolf Fenrir and the underworld ruler Hel. According to Snorri, the All-Father Odin cast the young serpent into the encircling ocean, where he grew so large as to bite his own tail. Three myths dominate: (1) the fishing trip with the giant Hymir, in which Thor uses an ox-head as bait, hooks the serpent, and is on the verge of striking it with Mjǫllnir before Hymir cuts the line in terror (preserved in Hymiskviða and the Prose Edda; depicted on the Altuna Runestone, the Gosforth fishing-stone, the Hørdum stone, and the Ardre VIII picture stone); (2) the Útgarða-Loki episode, in which Thor is challenged to lift a 'cat' that turns out to be the serpent in disguise — Thor manages to raise one of its paws, frightening Útgarða-Loki and his court; and (3) Ragnarök, when the serpent rises from the sea, poisons the air, and meets Thor in single combat: Thor slays Jörmungandr but staggers nine paces and falls dead from the venom. Jörmungandr is thus a cosmic boundary-being whose movement signals the end of the world.",
   "aliases": [
     {
       "name": "Jǫrmungandr",
@@ -42,5 +43,152 @@
   "origin": "Mythological. Within Norse cosmology, Jörmungandr inhabits the world-ocean encircling Midgard. Cultural distribution covers the Viking Age and post-Viking Norse-speaking world (Scandinavia, Iceland, the British Isles, parts of the North Atlantic).",
   "first_reported": "Pre-Viking oral tradition; Eddic poetry compiled 13th century",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Old Norse Jǫrmungandr, from jǫrmun- ('huge, vast, mighty') + gandr ('staff', 'wand', 'monster', often glossed as 'magical staff' or 'monster'); the name combines 'huge' with the same gandr seen in Vánagandr (one of Fenrir's bynames) and gandreið ('witch's ride')",
+    "meaning": "'Huge monster' or 'great staff'; the alternative name Miðgarðsormr means 'Midgard Serpent'",
+    "first_use": "Attested in Old Norse poetry (e.g. Völuspá, Hymiskviða); systematized in Snorri Sturluson's Prose Edda (c. 1220)"
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "c. 800–1100 CE",
+      "event": "Viking-Age oral tradition and skaldic poetry referencing the Midgard Serpent and Thor's fishing",
+      "significance": "Pre-textual transmission of the myth",
+      "source": "Skaldic kennings and surviving poetry"
+    },
+    {
+      "date": "c. 0930-01-01",
+      "event": "Approximate dating of the Altuna Runestone, Sweden, depicting Thor fishing for Jörmungandr",
+      "significance": "One of the earliest surviving artistic depictions",
+      "source": "Altuna Runestone (Sweden, U 1161)"
+    },
+    {
+      "date": "c. 1000-01-01",
+      "event": "Approximate dating of the Gosforth fishing-stone, Cumbria, England, depicting Thor and Hymir fishing for the serpent",
+      "significance": "Anglo-Norse cross-cultural depiction of the myth",
+      "source": "Gosforth Cross / fishing-stone, Cumbria"
+    },
+    {
+      "date": "c. 1220-01-01",
+      "event": "Snorri Sturluson compiles the Prose Edda in Iceland, systematizing the Jörmungandr narratives",
+      "significance": "Canonical literary source for modern knowledge of the myth",
+      "source": "Snorri Sturluson, Prose Edda"
+    },
+    {
+      "date": "c. 1270-01-01",
+      "event": "Compilation of the Codex Regius, the chief Eddic poetic manuscript, including Hymiskviða and Völuspá",
+      "significance": "Canonical poetic source",
+      "source": "Codex Regius (GKS 2365 4to)"
+    }
+  ],
+  "related": [
+    {
+      "id": "ouroboros",
+      "name": "Ouroboros",
+      "relationship": "similar",
+      "description": "Self-tail-biting cosmic serpent of Egyptian and Greek tradition"
+    },
+    {
+      "id": "leviathan",
+      "name": "Leviathan",
+      "relationship": "similar",
+      "description": "Hebrew Bible's primordial sea serpent / dragon"
+    },
+    {
+      "id": "tiamat",
+      "name": "Tiamat",
+      "relationship": "similar",
+      "description": "Mesopotamian primordial sea-monster goddess slain by Marduk"
+    },
+    {
+      "id": "vritra",
+      "name": "Vritra",
+      "relationship": "similar",
+      "description": "Vedic serpent-dragon slain by Indra; Indo-European cognate of the Thor / Jörmungandr myth"
+    },
+    {
+      "id": "fenrir",
+      "name": "Fenrir",
+      "relationship": "related",
+      "description": "Wolf, brother of Jörmungandr; also kills and is killed at Ragnarök"
+    },
+    {
+      "id": "hel",
+      "name": "Hel",
+      "relationship": "related",
+      "description": "Underworld ruler, sister of Jörmungandr"
+    },
+    {
+      "id": "loki",
+      "name": "Loki",
+      "relationship": "related",
+      "description": "Father of Jörmungandr"
+    }
+  ],
+  "cultural_notes": "Pre-Christian Norse cosmology held Jörmungandr as a real cosmic being; in modern Scandinavia he is a celebrated literary and cultural figure rather than an object of belief.",
+  "sources": [
+    {
+      "id": "wikipedia-jormungandr",
+      "type": "website",
+      "title": "Jörmungandr",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/J%C3%B6rmungandr",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "snorri-prose-edda",
+      "type": "book",
+      "title": "Prose Edda (Snorra Edda)",
+      "authors": [
+        "Snorri Sturluson"
+      ],
+      "date": "c. 1220"
+    },
+    {
+      "id": "codex-regius",
+      "type": "archive",
+      "title": "Codex Regius (GKS 2365 4to) — Poetic Edda manuscript",
+      "date": "c. 1270",
+      "publication": "Árni Magnússon Institute, Reykjavík"
+    },
+    {
+      "id": "lindow-2001",
+      "type": "book",
+      "title": "Norse Mythology: A Guide to the Gods, Heroes, Rituals, and Beliefs",
+      "authors": [
+        "John Lindow"
+      ],
+      "publication": "Oxford University Press",
+      "date": "2001",
+      "isbn": "978-0195153828"
+    },
+    {
+      "id": "watkins-1995",
+      "type": "book",
+      "title": "How to Kill a Dragon: Aspects of Indo-European Poetics",
+      "authors": [
+        "Calvert Watkins"
+      ],
+      "publication": "Oxford University Press",
+      "date": "1995",
+      "isbn": "978-0195085952"
+    },
+    {
+      "id": "bailey-1980",
+      "type": "book",
+      "title": "Viking Age Sculpture in Northern England",
+      "authors": [
+        "Richard N. Bailey"
+      ],
+      "publication": "Collins",
+      "date": "1980"
+    }
+  ],
+  "locations": []
 }

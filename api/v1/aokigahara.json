@@ -3,6 +3,7 @@
   "name": "Aokigahara",
   "category": "location",
   "description": "A dense forest at the northwestern foot of Mount Fuji in Yamanashi Prefecture, Japan, grown on the lava flow of the 864 CE Jōgan eruption and associated in modern reputation with yūrei folklore and a high incidence of suicide.",
+  "full_description": "Aokigahara (青木ヶ原), also called Jukai (樹海, 'Sea of Trees'), is a roughly 30 km² (≈12 sq mi) forest at the northwestern foot of Mount Fuji in Yamanashi Prefecture, Japan. The forest grew on the Aokigahara lava flow produced by the 864 CE Jōgan eruption of Mount Fuji's flank vents (in particular Mount Nagao). Its substrate of porous basalt, weak compass-disturbing magnetic anomalies in places, dense undergrowth and acoustic dampening have given the forest a reputation for disorientation. Aokigahara is associated in Japanese folklore with yūrei (restless ghosts) and is the setting of Seichō Matsumoto's 1960 novel 'Tower of Waves' (Nami no Tō), which is widely credited with shaping its modern reputation. From the late 20th century onward Aokigahara has become widely known internationally as a site of suicide; Japanese authorities and volunteer organisations conduct annual sweeps and have installed signs encouraging visitors to seek help. In 2017 the forest gained additional global notoriety when American YouTuber Logan Paul uploaded a video showing a deceased person filmed inside the forest, prompting widespread condemnation and changes to YouTube's policies. Conservationists, mental-health advocates, and local communities increasingly object to sensationalised 'suicide forest' framings, emphasising Aokigahara's ecological, geological, and cultural significance.",
   "aliases": [
     {
       "name": "Jukai",
@@ -35,5 +36,95 @@
   "origin": "A single contiguous forest at the northwestern base of Mount Fuji.",
   "first_reported": "864",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Japanese 青木ヶ原 (Aokigahara): 'aoki' (青木) is the green-leaved shrub Aucuba japonica; 'ga' is a possessive particle; 'hara' (原) means 'plain' or 'field'.",
+    "meaning": "Approximately 'Aokigi (Aucuba) plain'; commonly rendered loosely as 'sea of green trees'. The compound Jukai (樹海) means 'sea of trees'.",
+    "first_use": "Place name long established in Edo-period and modern Japanese gazetteers."
+  },
+  "sightings_stats": null,
+  "timeline": [
+    {
+      "date": "864",
+      "event": "Jōgan eruption of Mount Fuji creates the Aokigahara lava flow",
+      "significance": "Geological origin of the forest substrate",
+      "source": "Heian-period chronicles"
+    },
+    {
+      "date": "1960",
+      "event": "Seichō Matsumoto publishes the novel 'Nami no Tō' (Tower of Waves), set in part in Aokigahara",
+      "significance": "Often credited with consolidating the forest's modern reputation",
+      "source": "Matsumoto, S. (1960), Tower of Waves"
+    },
+    {
+      "date": "1993",
+      "event": "Wataru Tsurumi publishes 'The Complete Manual of Suicide' (Kanzen Jisatsu Manyuaru), which mentions Aokigahara",
+      "significance": "Reinforces the forest's modern reputation",
+      "source": "Tsurumi, W. (1993)"
+    },
+    {
+      "date": "2003",
+      "event": "Local authorities report 105 bodies recovered from the forest in 2003",
+      "significance": "Widely cited datum in international coverage",
+      "source": "Yamanashi Prefectural Police; reported in Wikipedia: Aokigahara"
+    },
+    {
+      "date": "2017-12-31",
+      "event": "Logan Paul uploads a YouTube video filmed inside Aokigahara showing a deceased person",
+      "significance": "International controversy; YouTube subsequently revises monetisation policies and removes Paul from preferred ad programs",
+      "source": "International press coverage, January 2018"
+    }
+  ],
+  "related": [
+    {
+      "id": "yurei",
+      "name": "Yūrei",
+      "relationship": "related",
+      "description": "Japanese restless ghosts, traditionally associated with the forest"
+    },
+    {
+      "id": "suicide-forest-troping",
+      "name": "Suicide-site folklore",
+      "relationship": "similar",
+      "description": "Comparable global folklore around sites of self-harm"
+    }
+  ],
+  "cultural_notes": "The forest is regarded by many local residents and Japanese cultural commentators as deserving respect rather than sensationalism.",
+  "sources": [
+    {
+      "id": "wikipedia-aokigahara",
+      "type": "website",
+      "title": "Aokigahara",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Aokigahara",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "matsumoto-1960",
+      "type": "book",
+      "title": "Nami no Tō (Tower of Waves)",
+      "authors": [
+        "Seichō Matsumoto"
+      ],
+      "publication": "Bungeishunjū",
+      "date": "1960"
+    },
+    {
+      "id": "tsurumi-1993",
+      "type": "book",
+      "title": "Kanzen Jisatsu Manyuaru (The Complete Manual of Suicide)",
+      "authors": [
+        "Wataru Tsurumi"
+      ],
+      "publication": "Ōta Publishing",
+      "date": "1993"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Aokigahara forest core",
+      "lat": 35.4833,
+      "lng": 138.7
+    }
+  ]
 }

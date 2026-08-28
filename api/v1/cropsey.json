@@ -3,6 +3,7 @@
   "name": "Cropsey",
   "category": "urban_legend",
   "description": "Cropsey is a New York urban legend about a boogeyman figure — originally an escaped mental patient from the abandoned Willowbrook State School — who haunted Staten Island and kidnapped children, later converging with the real crimes of convicted child kidnapper Andre Rand.",
+  "full_description": "Cropsey is one of New York's most enduring urban legends, a boogeyman figure that originated as a campfire story told to keep children away from the abandoned buildings of the Willowbrook State School on Staten Island. In the legend, Cropsey is a deranged escaped patient or disgruntled former employee — sometimes described with a hook for a hand, other times with a bloody axe — who lurks in the tunnels and woods around Willowbrook, abducting children. For decades this was pure folklore. But beginning in the 1970s, a series of real child disappearances on Staten Island, culminating in the 1987 case of Jennifer Schweiger, led investigators to Andre Rand (born Frank Rostum Rushan), a former custodian and aide at Willowbrook who had been living in a campsite on the abandoned grounds. Rand was convicted in 1988 of the first-degree kidnapping of Jennifer Schweiger, and again in 2004 for the kidnapping of Holly Ann Hughes. He is suspected in at least six other disappearances. The convergence of folklore and real crime — termed 'ostension' by folklorists — created a uniquely disturbing case in which the urban legend appeared to have a real-world referent. The 2009 documentary Cropsey, directed by Joshua Zeman and Barbara Brancaccio, explored this intersection.",
   "aliases": [
     {
       "name": "The Cropsey Maniac",
@@ -33,5 +34,108 @@
   "origin": "The Cropsey legend is centered on Staten Island, New York, and is also found in upstate New York summer camp traditions. It is primarily a New York regional legend.",
   "first_reported": "1960-01-01",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "New York regional urban legend tradition; the precise origin of the name 'Cropsey' is not documented",
+    "meaning": "Name of the legendary boogeyman figure; possibly derived from a surname common in the New York area",
+    "first_use": "Oral tradition; circulating by at least the 1960s–1970s in New York area summer camps and schools"
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "1966-01-01",
+      "event": "Andre Rand begins working at Willowbrook State School under the name Frank Bruchette, as custodian and physical therapy aide",
+      "significance": "Establishes Rand's connection to the site central to the legend",
+      "source": "Andre Rand Wikipedia article / Andre Rand court records"
+    },
+    {
+      "date": "1972-07-07",
+      "event": "Alice Pereira, age 5, vanishes from Tysens Lane Apartments, Staten Island; Rand was working there as a painter. Never found.",
+      "significance": "Earliest suspected Rand victim; never charged",
+      "source": "Andre Rand Wikipedia article"
+    },
+    {
+      "date": "1981-07-15",
+      "event": "Holly Ann Hughes, age 7, disappears near Richmond Terrace, Staten Island",
+      "significance": "One of two cases for which Rand was convicted; her disappearance contributed to public panic",
+      "source": "Andre Rand Wikipedia article"
+    },
+    {
+      "date": "1987-07-09",
+      "event": "Jennifer Schweiger, age 12, disappears on Staten Island; her body found in a shallow grave near Willowbrook after a 35-day search",
+      "significance": "The case that led to Rand's arrest and first conviction; anchor case linking real crime to legend",
+      "source": "Andre Rand Wikipedia article"
+    },
+    {
+      "date": "1988-01-01",
+      "event": "Andre Rand convicted of first-degree kidnapping of Jennifer Schweiger; sentenced to 25 years to life",
+      "significance": "First conviction; the real-world Cropsey figure is identified and imprisoned",
+      "source": "Andre Rand Wikipedia article"
+    },
+    {
+      "date": "2004-01-01",
+      "event": "Rand convicted of first-degree kidnapping of Holly Ann Hughes; receives consecutive 25-years-to-life sentence",
+      "significance": "Second conviction; parole eligibility set to 2037",
+      "source": "Andre Rand Wikipedia article"
+    },
+    {
+      "date": "2009-01-01",
+      "event": "Documentary Cropsey directed by Joshua Zeman and Barbara Brancaccio premieres at the Tribeca Film Festival",
+      "significance": "Brings the legend and its real-crime convergence to national audience",
+      "source": "Cropsey (film) Wikipedia article"
+    }
+  ],
+  "related": [
+    {
+      "id": "slenderman",
+      "name": "Slender Man",
+      "relationship": "similar",
+      "description": "Another boogeyman figure who preys on children; originated as internet folklore"
+    },
+    {
+      "id": "hook-man",
+      "name": "The Hook",
+      "relationship": "similar",
+      "description": "Classic American urban legend of a hook-handed killer stalking teenagers"
+    }
+  ],
+  "cultural_notes": "Used as a cautionary tale to keep children away from the genuinely dangerous abandoned buildings of the former Willowbrook State School. The legend gained particular power because Willowbrook had a real history of documented abuse and neglect of mentally disabled residents (exposed by Geraldo Rivera's 1972 television report).",
+  "sources": [
+    {
+      "id": "andre-rand-wikipedia",
+      "type": "website",
+      "title": "Andre Rand — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Andre_Rand",
+      "accessed": "2026-05-08"
+    },
+    {
+      "id": "cropsey-film-wikipedia",
+      "type": "website",
+      "title": "Cropsey (film) — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Cropsey_(film)",
+      "accessed": "2026-05-08"
+    },
+    {
+      "id": "cropsey-documentary",
+      "type": "documentary",
+      "title": "Cropsey",
+      "authors": [
+        "Joshua Zeman",
+        "Barbara Brancaccio"
+      ],
+      "date": "2009"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Willowbrook State School (Staten Island Developmental Center)",
+      "lat": 40.6023,
+      "lng": -74.1502
+    }
+  ]
 }

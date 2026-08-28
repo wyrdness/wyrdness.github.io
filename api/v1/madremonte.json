@@ -3,6 +3,7 @@
   "name": "Madremonte",
   "category": "entity_spirit",
   "description": "Madremonte (Madre Monte, 'Mother Mountain' or 'Mother of the Forest') is a powerful female nature-spirit in Colombian folklore — protector of forests, rivers, and animals — who punishes those who damage the environment and is recognised across Andean Colombia and parts of the Caribbean coast.",
+  "full_description": "Madremonte, also called Madre Monte, Madre de Monte or Madre del Monte ('Mother of the Mountain' or 'Mother of the Forest'), is a major female nature-spirit of Colombian folklore. She is one of the most prominent figures in the country's broader supernatural ecology — alongside La Llorona, El Mohán and La Patasola — and is documented by the Wikipedia summary of Colombian folklore as 'a beautiful, tall woman, who has hair made of plants and glowing eyes', usually regarded as protective of nature and the forest animals and unforgiving when humans enter their domains to alter or destroy them. Local oral traditions further describe her as cloaked in leaves and moss, wearing a hat of leaves, sometimes only partially visible through the foliage. She is most strongly associated with the Andean regions of Colombia — including Antioquia and the central and western cordilleras, the Eje Cafetero coffee-growing zones, and parts of the Magdalena and Valle del Cauca river basins — and shades into related figures across South America: Argentine Fantasma del Monte, Brazilian Madre Selva and Paraguayan Madre de los Cerros. The figure is considered to have indigenous pre-Hispanic roots overlaid by Spanish colonial Catholic and African-diaspora influences, producing a distinctly mestizo Colombian tradition. Note that the Caribbean Colombian / Barranquilla Carnival figure 'Marimonda' is sometimes treated as a regional name for Madremonte and sometimes as a separate carnival character; sources differ.",
   "aliases": [
     {
       "name": "Madre Monte",
@@ -61,5 +62,82 @@
   "origin": "Madremonte is most prominent in the Andean regions of Colombia — including Antioquia, the central and western Andes, the Eje Cafetero coffee-growing zones, and the Magdalena and Valle del Cauca river basins. Closely related figures (Fantasma del Monte, Madre Selva, Madre de los Cerros) appear in Argentina, Brazil and Paraguay.",
   "first_reported": "Pre-Hispanic",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Spanish: madre ('mother') + monte ('mountain', 'wild country', 'forest'). The compound 'Madre Monte' or 'Madremonte' is the standard Colombian Spanish form.",
+    "meaning": "'Mother Mountain' or 'Mother of the Forest' — a maternal personification of wild country.",
+    "first_use": "Documented in Colombian folklore through the 19th and 20th centuries; underlying figure is older and indigenous in origin."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "1500-01-01",
+      "event": "Pre-Hispanic indigenous communities of present-day Colombia maintain forest- and mountain-spirit traditions that contribute to the later Madremonte figure",
+      "significance": "Cultural baseline",
+      "source": "Wikipedia, Colombian folklore"
+    },
+    {
+      "date": "1900-01-01",
+      "event": "Madremonte is consolidated as a named figure within Colombian Andean folklore alongside La Llorona, El Mohán and La Patasola",
+      "significance": "Standard 20th-century folklore framing",
+      "source": "Wikipedia, Colombian folklore"
+    }
+  ],
+  "related": [
+    {
+      "id": "la-patasola",
+      "name": "La Patasola",
+      "relationship": "related",
+      "description": "Colombian one-legged forest huntress who punishes men who venture into the forest"
+    },
+    {
+      "id": "la-llorona",
+      "name": "La Llorona",
+      "relationship": "related",
+      "description": "Wider Latin American weeping-woman spirit; co-listed with Madremonte in Colombian folklore overviews"
+    },
+    {
+      "id": "el-mohan",
+      "name": "El Mohán",
+      "relationship": "related",
+      "description": "Colombian river-spirit also part of the same regional folkloric ecosystem"
+    },
+    {
+      "id": "curupira",
+      "name": "Curupira",
+      "relationship": "similar",
+      "description": "Brazilian indigenous forest-guardian spirit with a comparable protective role"
+    },
+    {
+      "id": "ci-anhanga",
+      "name": "Caipora / Anhangá",
+      "relationship": "similar",
+      "description": "Tupi-Guarani forest-protector spirits paralleling Madremonte's role"
+    }
+  ],
+  "cultural_notes": "In rural Andean Colombia Madremonte is widely cited in explanations of bad luck, illness, lost paths and storms following damage to the forest. Respect for the forest, its animals and its waters is framed as keeping faith with her.",
+  "sources": [
+    {
+      "id": "wikipedia-colombian-folklore",
+      "type": "website",
+      "title": "Colombian folklore",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Colombian_folklore",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "colombia-country-brand-myths",
+      "type": "website",
+      "title": "Colombia's myths and legends",
+      "publication": "Colombia Country Brand",
+      "url": "https://colombia.co/en/colombia-country/history/colombias-myths-legends",
+      "accessed": "2026-05-07"
+    }
+  ],
+  "locations": []
 }

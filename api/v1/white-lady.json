@@ -3,6 +3,7 @@
   "name": "White Lady",
   "category": "ghost_haunting",
   "description": "A globally recurring ghost archetype: a female apparition in white clothing tied to a specific location and a story of tragic, often violent death — most commonly suicide, murder, accident, or death in childbirth.",
+  "full_description": "The 'White Lady' is one of the most widely distributed ghost archetypes in the world. Apparitions matching the type — a female figure dressed in white (often a wedding dress, gown, or shroud), tied to a particular castle, road, bridge, hospital, lake, or rural site — appear in folklore and reported sightings across Europe, the Americas, and parts of Asia. The associated narrative is almost always one of tragedy: the woman is said to have been murdered, to have died in childbirth, to have lost a husband or fiancé, or to have taken her own life, and her spirit is bound to the place by unfinished business, grief, or vengeance. Behavior ranges from sorrowful watching to active hauntings, and in some traditions she is an omen of death (notably the German Berliner Schloss apparition reportedly seen before the deaths of members of the House of Hohenzollern). White Lady traditions span centuries: medieval Czech accounts of Perchta of Rožmberk (c. 1429–1476), early-modern German court legends, 19th- and 20th-century English country-house and roadside stories, and modern urban legends such as the Balete Drive White Lady in the Philippines and the Lady of White Rock Lake in Dallas. Folklorists treat the figure as an archetype rather than a single entity, a recurring narrative slot that is locally inhabited by countless individual ghost stories.",
   "aliases": [
     {
       "name": "Dama Branca",
@@ -71,5 +72,123 @@
   "origin": "The White Lady is a globally distributed archetype with attested local traditions across Europe (Germany, Czech Republic, England, Wales, Ireland, Netherlands, Switzerland, Hungary, Estonia, Russia, Serbia), the Americas (United States, Brazil), and parts of Asia (Philippines, Thailand).",
   "first_reported": "1429",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "English calque of widespread European usages — German 'Weiße Frau', Dutch 'Witte Wieven', Welsh 'Y Ladi Wen' — referring to the recurring colour-coded female-ghost type.",
+    "meaning": "Literally 'White Lady', the white usually being a wedding dress, shroud, gown, or simply 'white clothing' as a marker of a returning spirit.",
+    "first_use": "Medieval European usage; English-language 'White Lady' attested in ghost-lore writing from at least the 19th century."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0,
+    "date_range": {
+      "earliest": "1598",
+      "latest": "2026"
+    }
+  },
+  "timeline": [
+    {
+      "date": "1429",
+      "event": "Approximate birth of Perchta of Rožmberk (d. 1476), later identified as the Czech 'White Lady'",
+      "significance": "Earliest named historical figure attached to a major White Lady tradition",
+      "source": "Wikipedia, 'White Lady (ghost)' / Czech historical records"
+    },
+    {
+      "date": "1598",
+      "event": "Reported appearance of the Weiße Frau at the Berliner Schloss before the death of John George of Brandenburg",
+      "significance": "Founding event of the most famous German White Lady tradition",
+      "source": "Wikipedia, 'White Lady (ghost)'"
+    },
+    {
+      "date": "1618",
+      "event": "Reappearance of the Berliner Schloss White Lady",
+      "significance": "Reinforces the tradition as a Hohenzollern death-omen",
+      "source": "Wikipedia, 'White Lady (ghost)'"
+    },
+    {
+      "date": "1625",
+      "event": "Further reported sighting of the Berliner Schloss White Lady",
+      "significance": "Continues the dynastic-omen pattern",
+      "source": "Wikipedia, 'White Lady (ghost)'"
+    },
+    {
+      "date": "1830",
+      "event": "Worstead Church (Norfolk) White Lady stories first widely circulated",
+      "significance": "Documented English country-church example",
+      "source": "Wikipedia, 'White Lady (ghost)'"
+    },
+    {
+      "date": "1950",
+      "event": "Balete Drive White Lady modern urban legend takes shape in Quezon City; reportedly originated in 1950s Manila newspaper coverage",
+      "significance": "Canonical 20th-century urban-legend White Lady",
+      "source": "Wikipedia, 'White Lady (ghost)'"
+    },
+    {
+      "date": "1960",
+      "event": "Newspaper accounts of the 'Lady of White Rock Lake' phantom hitchhiker in Dallas",
+      "significance": "Emblematic American 20th-century White Lady",
+      "source": "Wikipedia, 'White Lady (ghost)'"
+    },
+    {
+      "date": "1975",
+      "event": "Worstead Church White Lady allegedly photographed",
+      "significance": "Often-cited but disputed photograph in the modern White Lady canon",
+      "source": "Wikipedia, 'White Lady (ghost)'"
+    }
+  ],
+  "related": [
+    {
+      "id": "la-llorona",
+      "name": "La Llorona",
+      "relationship": "similar",
+      "description": "Latin American 'Weeping Woman' in white, tied to drowned children"
+    },
+    {
+      "id": "banshee",
+      "name": "Banshee",
+      "relationship": "similar",
+      "description": "Irish female death-omen spirit, sometimes white-clad"
+    },
+    {
+      "id": "perchta",
+      "name": "Perchta",
+      "relationship": "related",
+      "description": "Alpine female spirit; the historical Perchta of Rožmberk is the most famous Czech White Lady"
+    },
+    {
+      "id": "yuki-onna",
+      "name": "Yuki-onna",
+      "relationship": "similar",
+      "description": "Japanese 'Snow Woman' — a white-clad female spirit of cold and winter"
+    },
+    {
+      "id": "kuchisake-onna",
+      "name": "Kuchisake-onna",
+      "relationship": "related",
+      "description": "Modern Japanese female-ghost urban legend"
+    }
+  ],
+  "cultural_notes": "Across cultures, the White Lady is most often understood as the soul of a wronged or tragic woman whose state cannot be settled — variably feared as an omen, pitied as a sorrowing spirit, or treated as a moral exemplar.",
+  "sources": [
+    {
+      "id": "wikipedia-white-lady",
+      "type": "website",
+      "title": "White Lady (ghost) — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/White_Lady_(ghost)",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "scott-1828",
+      "type": "book",
+      "title": "The Monastery",
+      "authors": [
+        "Walter Scott"
+      ],
+      "publication": "Cadell & Co., Edinburgh",
+      "date": "1820"
+    }
+  ],
+  "locations": []
 }

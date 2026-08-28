@@ -3,6 +3,7 @@
   "name": "La Patasola",
   "category": "entity_spirit",
   "description": "La Patasola ('one foot') is a vampiric forest spirit of Colombian and wider Andean folklore who appears to lone men in the wilderness as a beautiful woman, then reveals her true one-legged, fanged form to feed on their blood and flesh.",
+  "full_description": "La Patasola is one of the best-known monstrous figures of Colombian folklore, with related variants in Venezuela and Ecuador. She is described as a one-legged woman whose single leg ends in a cleaved bovine-like hoof; in her revealed form she has bulging eyes, a hooked nose, large lips, feline fangs, and a single breast. La Patasola haunts mountain forests, jungle, and other heavily wooded country, appearing chiefly to lone men in the bush at night - hunters, loggers, miners, millers, and animal herders. She first manifests as a beautiful seductive woman, often resembling a man's wife or sweetheart, lures him deeper into the forest, and then drops her disguise to attack and drink his blood. Multiple origin stories explain her condition: in different traditions she is a mother who killed her child, an unfaithful wife mutilated by her husband, or a temptress condemned and burned by villagers. Folklorists also read her as a moral cautionary figure and a protector of the forest against extractive male labor.",
   "aliases": [
     {
       "name": "Patasola",
@@ -37,5 +38,100 @@
   "origin": "La Patasola is a creature of Colombian folklore with related traditions in Venezuela and Ecuador. She is most strongly associated with Andean Colombia and adjacent Amazonian and inter-Andean valleys.",
   "first_reported": "1800s",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Colombian Spanish, from pata ('foot/leg') + sola ('single', 'only').",
+    "meaning": "'Single leg' / 'one foot'.",
+    "first_use": "Documented in Colombian folklore literature of the 20th century; circulates in oral tradition before that."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "1800s",
+      "event": "La Patasola circulates in Colombian rural oral tradition as a forest spirit and cautionary figure",
+      "significance": "Crystallization of the figure in Colombian folklore",
+      "source": "Colombian folklore scholarship"
+    },
+    {
+      "date": "2006",
+      "event": "Javier Ocampo Lopez publishes major collections of Colombian myths and legends including Patasola material",
+      "significance": "Authoritative folkloric documentation of the figure",
+      "source": "Lopez, J. O. - Mitos y leyendas latinoamericanas (2006)"
+    }
+  ],
+  "related": [
+    {
+      "id": "tunda",
+      "name": "La Tunda",
+      "relationship": "regional_variant",
+      "description": "Colombian Pacific-coast shapeshifting forest woman with a wooden leg"
+    },
+    {
+      "id": "sayona",
+      "name": "La Sayona",
+      "relationship": "similar",
+      "description": "Venezuelan vengeful female shapeshifter who targets unfaithful men"
+    },
+    {
+      "id": "matlacihua",
+      "name": "La Matlacihua",
+      "relationship": "similar",
+      "description": "Mesoamerican forest seductress and phantom 'White Lady' figure"
+    },
+    {
+      "id": "ciguapa",
+      "name": "Ciguapa",
+      "relationship": "similar",
+      "description": "Dominican forest woman with backward-facing feet who lures men"
+    },
+    {
+      "id": "llorona",
+      "name": "La Llorona",
+      "relationship": "related",
+      "description": "Pan-Hispanic weeping-woman ghost; another major female cautionary figure"
+    }
+  ],
+  "cultural_notes": "She is treated in folklore as a real danger of lone forest travel; men working in the bush are advised to carry tobacco, garlic, or salt and to avoid lustful thoughts that summon her.",
+  "sources": [
+    {
+      "id": "wikipedia-patasola",
+      "type": "website",
+      "title": "Patasola",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Patasola",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "atlas-obscura-patasola",
+      "type": "article",
+      "title": "La Patasola Is the Vengeful Protector of the Andes",
+      "publication": "Atlas Obscura",
+      "url": "https://www.atlasobscura.com/articles/monster-mythology-la-patasola",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "ocampo-lopez-2006",
+      "type": "book",
+      "title": "Mitos y leyendas latinoamericanas",
+      "authors": [
+        "Javier Ocampo Lopez"
+      ],
+      "publication": "Plaza & Janes",
+      "date": "2006"
+    },
+    {
+      "id": "usc-folklore-patasola",
+      "type": "archive",
+      "title": "La Patasola",
+      "publication": "USC Digital Folklore Archives",
+      "url": "https://folklore.usc.edu/la-patasola/",
+      "accessed": "2026-05-07"
+    }
+  ],
+  "locations": []
 }

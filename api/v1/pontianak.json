@@ -3,6 +3,7 @@
   "name": "Pontianak",
   "category": "undead",
   "description": "The Pontianak (known as Kuntilanak in Indonesia) is a vengeful female vampire spirit in Malay and Indonesian folklore, originating from women who died during pregnancy or childbirth. She appears as a beautiful woman in white to lure victims before revealing her monstrous true form.",
+  "full_description": "The Pontianak (Malay) or Kuntilanak (Indonesian) is one of the most feared supernatural beings in Malay, Indonesian, and Singaporean folklore. The spirit originates from women who died during pregnancy, childbirth, or from a stillbirth, or is sometimes described as the stillborn child of the Langsuir — another Southeast Asian female ghost. The Pontianak typically manifests as a beautiful woman with pale skin, red eyes, and long black hair, wearing a white dress stained with blood. She uses this appearance to lure victims, particularly men, before revealing her monstrous nature and attacking with long fingernails to remove internal organs for consumption. She can also assume the form of an owl or large white bird for reconnaissance. Her presence is announced by the cry of an infant, feminine laughter, and the smell of a decaying corpse or plumeria (frangipani) flower — in folk tradition, the scent of frangipani is strong when she is distant and faint when she is close. She appears only under the full moon. The Pontianak can be subdued by driving a nail into the top of her head; according to tradition, this transforms her into a normal woman until the nail is removed. The legend serves in part as a cultural expression of anxieties around childbirth mortality and the social status of women who die without fulfilling maternal roles. The city of Pontianak in West Kalimantan, Indonesia, is named after the spirits — local legend holds that the area was once infested with Pontianak until Syarif Abdurrahman Alkadrie and his army drove them away with cannon fire during the city's founding.",
   "aliases": [
     {
       "name": "Kuntilanak",
@@ -45,5 +46,73 @@
   "origin": "Pontianak / Kuntilanak beliefs are widespread throughout the Malay Archipelago, including Malaysia, Indonesia (especially Kalimantan, Java, and Sumatra), Singapore, and Brunei.",
   "first_reported": "Pre-colonial",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "The word 'Pontianak' is of Malay origin. It derives from 'puntianak' or 'mati anak' (meaning 'dead child' in Malay) or more likely from the combination of 'perempuan mati beranak' (a woman who dies in childbirth). The city of Pontianak in West Kalimantan, Indonesia, takes its name from the spirit.",
+    "meaning": "Commonly glossed as 'spirit of a woman who died in childbirth'; associated with maternal death and infant death in Malay-speaking cultures.",
+    "first_use": "Pre-colonial Malay oral tradition; first European documentation during Dutch and British colonial period"
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "1771-01-01",
+      "event": "Syarif Abdurrahman Alkadrie founds the city that would bear the name Pontianak in West Kalimantan, Indonesia; local legend holds the area was cleared of Pontianak spirits",
+      "significance": "The city's foundation narrative preserves the name and concept in Indonesian geography",
+      "source": "Local historical tradition"
+    },
+    {
+      "date": "1957-01-01",
+      "event": "Pontianak (1957) released in Singapore — one of the earliest and most influential Pontianak horror films",
+      "significance": "Launches the Pontianak as a major figure in Southeast Asian horror cinema",
+      "source": "Pontianak (1957), Shaw Brothers Singapore"
+    }
+  ],
+  "related": [
+    {
+      "id": "langsuir",
+      "name": "Langsuir",
+      "relationship": "related",
+      "description": "Another Malay female ghost; sometimes described as the Pontianak's progenitor — women who die in childbirth become Langsuir, whose stillborn children become Pontianak"
+    },
+    {
+      "id": "manananggal",
+      "name": "Manananggal",
+      "relationship": "similar",
+      "description": "Filipino female vampire spirit that targets pregnant women"
+    },
+    {
+      "id": "aswang",
+      "name": "Aswang",
+      "relationship": "similar",
+      "description": "Filipino shapeshifting vampire monster with overlapping characteristics"
+    },
+    {
+      "id": "penanggalan",
+      "name": "Penanggalan",
+      "relationship": "related",
+      "description": "Another Malay female spirit that attacks pregnant women and newborns"
+    }
+  ],
+  "cultural_notes": "The Pontianak is considered an active supernatural threat in many rural Malay and Indonesian communities. Traditional protective measures include carrying iron objects, using specific prayers, and avoiding banana trees at night.",
+  "sources": [
+    {
+      "id": "wikipedia-kuntilanak",
+      "type": "website",
+      "title": "Kuntilanak",
+      "url": "https://en.wikipedia.org/wiki/Pontianak_(folklore)",
+      "accessed": "2026-05-08"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Pontianak, West Kalimantan",
+      "lat": -0.0263,
+      "lng": 109.3425
+    }
+  ]
 }

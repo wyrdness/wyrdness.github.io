@@ -3,6 +3,7 @@
   "name": "Abumi-guchi",
   "category": "entity_spirit",
   "description": "The abumi-guchi is a furry tsukumogami (object spirit) of Japanese folklore that takes the form of a stirrup left behind on a battlefield, said to wait for its dead owner to return. It appears in Toriyama Sekien's late-18th-century yokai compendium Gazu Hyakki Tsurezure Bukuro.",
+  "full_description": "The abumi-guchi (鐙口, 'stirrup mouth') is a yokai depicted by the Edo-period artist Toriyama Sekien in his Gazu Hyakki Tsurezure Bukuro ('Illustrated Bag of One Hundred Random Demons', 1784), the third volume of his yokai catalogue. It is a tsukumogami — an object-turned-spirit — formed from a single stirrup (abumi) left behind on a battlefield after its samurai rider has been killed. Sekien depicts it as a small, furry quadruped with the iron stirrup forming its mouth and frayed leather straps trailing from its body. Folklore commentary that has built up around Sekien's image describes the creature as harmless and pitiable: it lingers in the grass of old battlefields, eternally waiting for the dead horseman who will not return. The abumi-guchi is one of many one-off yokai invented or compiled by Sekien from earlier puns and motifs, and like the rest of the Tsurezure Bukuro creatures it relies entirely on his illustration and short caption as its primary source.",
   "aliases": [
     {
       "name": "鐙口",
@@ -30,5 +31,77 @@
   "origin": "A figure of Japanese yokai art and folklore; geographically associated with old samurai battlefields throughout Japan.",
   "first_reported": "1784",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Japanese; coined or compiled by Toriyama Sekien from 'abumi' (鐙, stirrup) and 'kuchi/guchi' (口, mouth).",
+    "meaning": "'Stirrup mouth' — the iron stirrup forms the creature's open, gaping mouth.",
+    "first_use": "1784, in Toriyama Sekien's Gazu Hyakki Tsurezure Bukuro"
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "1784",
+      "event": "Toriyama Sekien publishes Gazu Hyakki Tsurezure Bukuro, including an illustration and brief caption for the abumi-guchi",
+      "significance": "Original and definitive primary source for the yokai",
+      "source": "Toriyama Sekien (1784)"
+    }
+  ],
+  "related": [
+    {
+      "id": "tsukumogami",
+      "name": "Tsukumogami",
+      "relationship": "superset",
+      "description": "Broad class of Japanese object spirits to which the abumi-guchi belongs"
+    },
+    {
+      "id": "bakezori",
+      "name": "Bake-zōri",
+      "relationship": "similar",
+      "description": "Animated straw sandal yokai, another tsukumogami"
+    },
+    {
+      "id": "karakasa-obake",
+      "name": "Karakasa-obake",
+      "relationship": "similar",
+      "description": "Animated paper umbrella yokai, frequently paired with abumi-guchi in yokai catalogues"
+    }
+  ],
+  "cultural_notes": "The abumi-guchi is treated as a melancholy, harmless yokai illustrating the loyalty and grief of objects left behind by fallen warriors.",
+  "sources": [
+    {
+      "id": "wikipedia-abumi-guchi",
+      "type": "website",
+      "title": "Abumi-guchi",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Abumi-guchi",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "yokai-com-abumiguchi",
+      "type": "website",
+      "title": "Abumiguchi",
+      "authors": [
+        "Matthew Meyer"
+      ],
+      "publication": "yokai.com",
+      "url": "https://yokai.com/abumiguchi/",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "sekien-1784",
+      "type": "book",
+      "title": "Gazu Hyakki Tsurezure Bukuro (画図百器徒然袋)",
+      "authors": [
+        "Toriyama Sekien"
+      ],
+      "date": "1784",
+      "notes": "Third volume of Sekien's yokai picture-book series; original primary source for the abumi-guchi."
+    }
+  ],
+  "locations": []
 }

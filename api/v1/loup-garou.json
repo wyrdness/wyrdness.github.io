@@ -3,6 +3,7 @@
   "name": "Loup-Garou",
   "category": "shapeshifter",
   "description": "The Loup-Garou is the French-language werewolf, transplanted by French settlers into Louisiana (where it became the Rougarou of the bayous), into Haitian and Caribbean Creole cultures (Lougarou, Loogaroo), and into French Canadian / Métis tradition. It is typically a human cursed to transform into a wolf-like or hybrid form by breaking Catholic Lenten observance.",
+  "full_description": "The Loup-Garou is the French werewolf — loup ('wolf') plus garou (from Frankish *werwolf, cognate with English werewolf). The term and its variants travelled through French colonisation: in Louisiana French it became Rougarou (also spelled roux-ga-roux, rugaroo), in Haitian Creole Lougarou, and in the wider Caribbean Loogaroo. Continental French Catholic folklore typically frames the loup-garou as a human punished for breaking religious observance — most often by failing to keep Lent for seven consecutive years — who transforms into a wolf-like creature. In Louisiana the Rougarou is most often described as a creature with a human body and the head of a wolf or dog that prowls the swamps, sugar-cane fields and bayous of Acadiana and Greater New Orleans, and is invoked to enforce Catholic discipline (especially Lent) and to frighten children. A common motif is the curse-transfer: the rougarou must transmit its curse by drawing the blood of a victim within a fixed period (commonly cited as 101 days), or remain trapped in beast form. In Haitian Vodou-influenced tradition the Lougarou is more often associated with witchcraft and pacts. Métis and Ojibwe communities in the Great Lakes have a related rugaru, which the writer Peter Matthiessen suggests was carried by French Canadian trappers into Indigenous oral tradition. The phenomenon is treated by folklorists as a transatlantic Catholic-Creole-Indigenous synthesis rather than a literal cryptid.",
   "aliases": [
     {
       "name": "Loup-garou",
@@ -62,5 +63,102 @@
   "origin": "The loup-garou tradition is found wherever French and French-Creole communities settled: continental France (especially rural Catholic regions), French Canada, Louisiana (Acadiana and Greater New Orleans), Haiti, and the wider Francophone Caribbean. Métis and Ojibwe communities of the Great Lakes have a related rugaru figure.",
   "first_reported": "12th century",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "From French loup-garou: loup ('wolf') + garou (Old French garoul, from Frankish *werwulf 'man-wolf'), formally a redundant compound 'wolf-werewolf'. The Louisiana form rougarou shows characteristic L↔R liquid metathesis common in Louisiana French oral tradition.",
+    "meaning": "Werewolf; a human transformed into a wolf or wolf-like creature.",
+    "first_use": "Old French garoul attested in 12th-century lays (Marie de France's Bisclavret, c. 1170s); loup-garou as a compound in standard French by the late Middle Ages; rougarou in Louisiana French by the 19th century."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "1175-01-01",
+      "event": "Marie de France composes Bisclavret, an Old French werewolf lay",
+      "significance": "Earliest major literary attestation of the French werewolf tradition",
+      "source": "Standard literary history of Old French lays"
+    },
+    {
+      "date": "1700-01-01",
+      "event": "French settlers carry loup-garou folklore to New France and the Louisiana colony",
+      "significance": "Transatlantic transmission to North America",
+      "source": "Wikipedia, Rougarou; 64 Parishes, 'Rougarou'"
+    },
+    {
+      "date": "1900-01-01",
+      "event": "Cajun, Creole and Quebecois communities consolidate distinct local rougarou and loup-garou traditions documented in early 20th-century folklore collections",
+      "significance": "Crystallisation of regional variants",
+      "source": "Wikipedia, Rougarou; Barry Jean Ancelet (University of Louisiana at Lafayette)"
+    }
+  ],
+  "related": [
+    {
+      "id": "werewolf",
+      "name": "Werewolf",
+      "relationship": "superset",
+      "description": "European-wide tradition of human-to-wolf shapeshifters; loup-garou is the French branch"
+    },
+    {
+      "id": "rougarou",
+      "name": "Rougarou",
+      "relationship": "regional_variant",
+      "description": "Louisiana French form of the loup-garou"
+    },
+    {
+      "id": "lougarou-haiti",
+      "name": "Lougarou (Haiti)",
+      "relationship": "regional_variant",
+      "description": "Haitian Creole form, often associated with Vodou witchcraft"
+    },
+    {
+      "id": "loogaroo-caribbean",
+      "name": "Loogaroo / Loup-Garou (Caribbean)",
+      "relationship": "regional_variant",
+      "description": "Caribbean (especially Trinidad) form, often blood-drinking and witch-associated"
+    },
+    {
+      "id": "wendigo",
+      "name": "Wendigo",
+      "relationship": "similar",
+      "description": "Algonquian winter cannibal-spirit sometimes conflated with rugaru in Métis usage"
+    }
+  ],
+  "cultural_notes": "In Catholic French and Louisiana tradition, breaking Lent (especially seven years in a row) was widely believed to risk transformation into a loup-garou; counting tricks (e.g. leaving thirteen grains of rice at the door) and ritual blood-drawing were cited as defences.",
+  "sources": [
+    {
+      "id": "wikipedia-rougarou",
+      "type": "website",
+      "title": "Rougarou",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Rougarou",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "64parishes-rougarou",
+      "type": "website",
+      "title": "Rougarou",
+      "publication": "64 Parishes (Louisiana Endowment for the Humanities)",
+      "url": "https://64parishes.org/entry/rougarou",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "tpl-rougarou",
+      "type": "website",
+      "title": "Rougarou: The Swamp Werewolf",
+      "publication": "Terrebonne Parish Library System",
+      "url": "https://mytpl.org/project/rougarou-the-swamp-werewolf/",
+      "accessed": "2026-05-07"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Acadiana / Cajun Country",
+      "lat": 30.2241,
+      "lng": -92.0198
+    }
+  ]
 }

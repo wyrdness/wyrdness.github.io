@@ -3,6 +3,7 @@
   "name": "Hoia-Baciu Forest",
   "category": "location",
   "description": "An oak forest west of Cluj-Napoca in Transylvania, Romania, internationally known as a hotspot of paranormal claims — UFO sightings, ghost reports, missing-person legends, and an alleged 'dead zone' clearing — and the subject of paranormal-tourism interest.",
+  "full_description": "Hoia-Baciu Forest (Romanian: Pădurea Hoia-Baciu) is a forest of approximately 250–295 hectares (about 3 km²) on the western edge of Cluj-Napoca in Cluj County, Transylvania, Romania, adjacent to the open-air section of the Ethnographic Museum of Transylvania. Since the 1960s it has been promoted as a hotspot of paranormal phenomena and is now widely nicknamed the 'Bermuda Triangle of Transylvania'. According to the most-circulated local legend, the forest takes its name from a shepherd called Baciu (Romanian for 'shepherd' or 'head shepherd') who is said to have vanished in the forest with his flock of about 200 sheep; folklorists note that the legend has no documented date or corroborating record. The forest gained international notoriety after biologist Alexandru Sift began taking photographs of unusual phenomena in the area from the late 1950s, and after military technician Emil Barnea's photographs of a disc-shaped object over the forest on 18 August 1968 became some of the most-circulated UFO images associated with Romania. The forest also contains a circular clearing, the Poiana Rotundă ('round glade'), where vegetation reportedly fails to grow normally, and is famous for unusually twisted, contorted trees. Reported phenomena include ghosts, sudden anxiety and nausea, electronic device malfunctions, unaccountable rashes and burns, and missing-time experiences. Skeptical commentators stress that no confirmed death, disappearance, or instrumentally documented paranormal event is on record.",
   "aliases": [
     {
       "name": "Pădurea Hoia-Baciu",
@@ -38,5 +39,86 @@
   "origin": "A specific location: an oak forest of approximately 250–295 hectares on the western outskirts of Cluj-Napoca, Cluj County, Transylvania, Romania.",
   "first_reported": "Late 1950s",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Romanian. 'Hoia' is an old local toponym; 'Baciu' is the Romanian word for a head shepherd. The forest's name is traditionally explained by a legend of a shepherd, Baciu, who is said to have disappeared in the woods with his sheep.",
+    "meaning": "'Hoia of the head shepherd', or simply 'Hoia [forest of] Baciu (the shepherd)'.",
+    "first_use": "Local Romanian usage; widely adopted in international paranormal literature from the late 20th century onward."
+  },
+  "sightings_stats": {
+    "total_documented": 200,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0,
+    "date_range": {
+      "earliest": "1957",
+      "latest": "2026"
+    }
+  },
+  "timeline": [
+    {
+      "date": "1957-01-01",
+      "event": "Romanian biologist Alexandru Sift begins photographing alleged anomalies in the Hoia-Baciu Forest",
+      "significance": "Earliest known systematic investigation of paranormal claims in the forest",
+      "source": "Popular and paranormal literature on Hoia-Baciu (drawing on later Romanian press summaries)"
+    },
+    {
+      "date": "1968-08-18",
+      "event": "Military technician Emil Barnea, on an afternoon picnic with three companions, photographs a disc-shaped object over Hoia-Baciu Forest",
+      "significance": "Produces the most-circulated UFO photographs associated with Romania and cements Hoia-Baciu's international reputation",
+      "source": "Romanian and international UFO literature"
+    },
+    {
+      "date": "1993-01-01",
+      "event": "Alexandru Sift dies; the bulk of his Hoia-Baciu photographic archive is reported lost",
+      "significance": "Ends the original line of investigation begun in the late 1950s",
+      "source": "Popular literature on Sift and Hoia-Baciu"
+    }
+  ],
+  "related": [
+    {
+      "id": "aokigahara",
+      "name": "Aokigahara Forest",
+      "relationship": "similar",
+      "description": "Forest on the slopes of Mount Fuji in Japan associated with paranormal claims and a high suicide rate"
+    },
+    {
+      "id": "skinwalker-ranch",
+      "name": "Skinwalker Ranch",
+      "relationship": "similar",
+      "description": "Utah ranch widely treated as a paranormal hotspot location"
+    },
+    {
+      "id": "bridgewater-triangle",
+      "name": "Bridgewater Triangle",
+      "relationship": "similar",
+      "description": "Massachusetts area associated with multiple reported paranormal phenomena"
+    }
+  ],
+  "cultural_notes": "Local belief is divided between treating the forest as a genuinely dangerous, supernaturally active place and treating it as ordinary woodland whose reputation is largely a tourist phenomenon.",
+  "sources": [
+    {
+      "id": "wikipedia-hoia-baciu-2026",
+      "type": "website",
+      "title": "Hoia-Baciu Forest",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Hoia-Baciu_Forest",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "atlas-obscura-hoia-baciu",
+      "type": "website",
+      "title": "Hoia-Baciu Forest in Cluj-Napoca",
+      "publication": "Atlas Obscura",
+      "url": "https://www.atlasobscura.com/places/hoia-baciu-forest",
+      "accessed": "2026-05-07"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Hoia-Baciu Forest (Poiana Rotundă)",
+      "lat": 46.7825,
+      "lng": 23.5194
+    }
+  ]
 }

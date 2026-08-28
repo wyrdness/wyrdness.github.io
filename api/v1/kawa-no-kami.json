@@ -3,6 +3,7 @@
   "name": "Kawa-no-Kami",
   "category": "entity_spirit",
   "description": "Kawa-no-Kami is the generic Shinto designation for a river deity in Japanese mythology — the spirit or god (kami) of a river, sometimes treated as a single 'king of the river gods' and at other times as a class of localized spirits resident in specific rivers.",
+  "full_description": "Kawa-no-Kami (河の神 / 川之神, lit. 'river god'), also called Kahaku (河伯, a borrowing modeled on the Chinese river deity Hebo), is in Japanese tradition the deity (kami) of a river. In Shinto's animistic framework, every significant river — and many small streams — is understood to have a presiding spirit, and 'Kawa-no-Kami' functions both as a proper-name divinity in early texts and as a generic class shared by countless local water gods. Kawa-no-Kami is a sub-type of suijin (水神, 'water deity'). Early references appear in the Man'yōshū (8th century), where the river kami are invoked as serving the imperial table by providing fish offerings, and in mythological texts such as the Kojiki and Nihon Shoki. Folk practice attached a wide range of behaviors to Kawa-no-Kami: presiding over fish and irrigation, requiring purification rites (misogi) at riverside shrines, accepting offerings (in earlier eras, including reported human sacrifice during severe floods, later replaced — under Buddhist influence — by straw and flower dolls), and overlapping with the figure of the kappa, which is sometimes interpreted as a degraded or yōkai form of the river kami.",
   "aliases": [
     {
       "name": "河の神",
@@ -43,5 +44,140 @@
   "origin": "Throughout the Japanese archipelago wherever rivers are venerated; the figure is part of the broader East Asian river-deity complex (Chinese Hebo, Korean Habaek).",
   "first_reported": "0700s",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Japanese: kawa (川 / 河) 'river' + no (の) genitive particle + kami (神) 'god, spirit'. Kahaku (河伯) is a Sino-Japanese borrowing from Chinese 河伯 Hé Bó, the god of the Yellow River.",
+    "meaning": "'God of the river'. Kahaku ≈ 'river earl/lord'.",
+    "first_use": "Earliest textual occurrences in 8th-century Japanese works (Kojiki 712, Nihon Shoki 720, Man'yōshū c. 759)."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0,
+    "date_range": {
+      "earliest": "n/a",
+      "latest": "n/a"
+    }
+  },
+  "timeline": [
+    {
+      "date": "0712-01-01",
+      "event": "Kojiki compiled, including river deities in genealogies of kami",
+      "significance": "Earliest extant Japanese written reference",
+      "source": "Kojiki (712 CE)"
+    },
+    {
+      "date": "0720-01-01",
+      "event": "Nihon Shoki compiled, expanding the cosmogony and naming further water kami",
+      "significance": "Foundational mytho-historical source",
+      "source": "Nihon Shoki (720 CE)"
+    },
+    {
+      "date": "0759-01-01",
+      "event": "Man'yōshū anthology completed; poems invoke river kami serving the imperial table",
+      "significance": "Embeds Kawa-no-Kami into court poetic culture",
+      "source": "Man'yōshū"
+    },
+    {
+      "date": "1603-01-01",
+      "event": "Edo period begins; folk veneration of river kami flourishes alongside the kappa folk-yōkai complex",
+      "significance": "Robust popular cult",
+      "source": "General Edo-period folk religion scholarship"
+    }
+  ],
+  "related": [
+    {
+      "id": "suijin",
+      "name": "Suijin",
+      "relationship": "superset",
+      "description": "Wider category of Japanese water deities encompassing river, well, and sea spirits"
+    },
+    {
+      "id": "kappa",
+      "name": "Kappa",
+      "relationship": "related",
+      "description": "River-dwelling yōkai sometimes folkloristically interpreted as a degraded form or attendant of Kawa-no-Kami"
+    },
+    {
+      "id": "hebo",
+      "name": "Hebo (Hé Bó)",
+      "relationship": "counterpart",
+      "description": "Chinese deity of the Yellow River from whom the name Kahaku is adapted"
+    },
+    {
+      "id": "habaek",
+      "name": "Habaek",
+      "relationship": "counterpart",
+      "description": "Korean river deity equivalent"
+    },
+    {
+      "id": "watatsumi",
+      "name": "Watatsumi",
+      "relationship": "related",
+      "description": "Sea-deity counterpart in Japanese mythology"
+    }
+  ],
+  "cultural_notes": "Rivers are alive and personal; gratitude, purification, and offerings maintain their goodwill. Pollution is a religious as well as ecological offense.",
+  "sources": [
+    {
+      "id": "wikipedia-kawa-no-kami",
+      "type": "website",
+      "title": "Kawa-no-Kami",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Kawa-no-Kami",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "wikipedia-suijin",
+      "type": "website",
+      "title": "Suijin",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Suijin",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "foster-2015",
+      "type": "book",
+      "title": "The Book of Yokai: Mysterious Creatures of Japanese Folklore",
+      "authors": [
+        "Michael Dylan Foster"
+      ],
+      "publication": "University of California Press",
+      "date": "2015",
+      "isbn": "978-0520271029"
+    },
+    {
+      "id": "hearn-1894",
+      "type": "book",
+      "title": "Glimpses of Unfamiliar Japan",
+      "authors": [
+        "Lafcadio Hearn"
+      ],
+      "publication": "Houghton Mifflin",
+      "date": "1894"
+    },
+    {
+      "id": "kojiki-712",
+      "type": "book",
+      "title": "Kojiki (古事記)",
+      "authors": [
+        "Ō no Yasumaro (compiler)"
+      ],
+      "date": "712"
+    },
+    {
+      "id": "nihon-shoki-720",
+      "type": "book",
+      "title": "Nihon Shoki (日本書紀)",
+      "date": "720"
+    },
+    {
+      "id": "manyoshu-759",
+      "type": "book",
+      "title": "Man'yōshū (万葉集)",
+      "date": "c. 759"
+    }
+  ],
+  "locations": []
 }

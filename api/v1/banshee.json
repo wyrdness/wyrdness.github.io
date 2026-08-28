@@ -3,6 +3,7 @@
   "name": "Banshee",
   "category": "entity_spirit",
   "description": "A female supernatural figure of Irish folklore — the bean sí, 'woman of the fairy mound' — whose mourning cry, the keen, foretells the death of a member of certain Irish families.",
+  "full_description": "The banshee (Irish: bean sí, from Old Irish ben síde — 'woman of the fairy mound') is one of the most widely-known figures of Irish folklore. She is a female spirit, traditionally attached to specific Gaelic Irish families (especially those whose surnames begin with Ó or Mac, indicating ancient Milesian descent), whose appearance or wailing cry — the caoineadh, or 'keen' — foretells the death of a family member. Descriptions vary considerably across the corpus: some accounts describe her as a beautiful young woman with long streaming red or fair hair, in a green dress beneath a grey cloak, with eyes red from weeping; others describe her as an old hag or a small shrouded figure beneath the trees; her height ranges from one to four feet. She often appears combing her hair, and a folk taboo forbids picking up a discarded comb in case it is hers. She is not malevolent: her role is to mourn, not to cause death. The figure is documented as far back as the 14th-century Irish chronicle Caithréim Thoirdhealbhaigh ('The Triumphs of Turlough', c. 1380), and is collected extensively in Lady Wilde's Ancient Legends, Mystic Charms, and Superstitions of Ireland (1887), W. B. Yeats's Fairy and Folk Tales of the Irish Peasantry (1888), and the standard modern scholarly study, Patricia Lysaght's The Banshee: The Irish Supernatural Death-Messenger (Glendale Press, 1986). Closely related figures appear in other Celtic traditions: the Scottish bean nighe (washerwoman at the ford) and caoineag, and the Welsh cyhyraeth. The banshee remains a living element of Irish folk culture, with claimed encounters periodically reported into the 21st century.",
   "aliases": [
     {
       "name": "Bean sí / Bean sídhe",
@@ -54,5 +55,156 @@
   "origin": "Native to Ireland; cognate figures across the Celtic-speaking world (Scotland, Wales, Isle of Man). With the Irish diaspora the banshee tradition has been carried to North America, Australia, and other Anglophone regions.",
   "first_reported": "c. 1380",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Modern Irish bean sí (older bean sídhe), from Old Irish ben síde — 'woman of the síd', the fairy mound; síd / síde is the Old Irish word for the prehistoric burial mounds inhabited by the Aos Sí (people of the mounds).",
+    "meaning": "'Woman of the fairy mound'; by extension, a female supernatural mourner.",
+    "first_use": "Old and Middle Irish prose; the 14th-century chronicle Caithréim Thoirdhealbhaigh (c. 1380) is among the early prose attestations of a banshee-like figure prophesying death."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "c. 1380",
+      "event": "Caithréim Thoirdhealbhaigh — Irish chronicle of the wars of Turlough O'Brien — describes a supernatural female figure (Aoibheall) foretelling the death of a Dál gCais king.",
+      "significance": "Among the earliest documented prose accounts of a banshee-type figure.",
+      "source": "Caithréim Thoirdhealbhaigh (c. 1380)."
+    },
+    {
+      "date": "1602",
+      "event": "The death of Edmund Mac Sweeney is preceded, according to family tradition, by the keening of a banshee — referenced in early modern Irish chronicles.",
+      "significance": "Early-modern family tradition attestation.",
+      "source": "Patricia Lysaght, The Banshee (1986), and earlier Annals of the Four Masters references."
+    },
+    {
+      "date": "1887",
+      "event": "Lady Jane Wilde publishes Ancient Legends, Mystic Charms, and Superstitions of Ireland.",
+      "significance": "Major Victorian folkloric source.",
+      "source": "Wilde, Ancient Legends... (1887)."
+    },
+    {
+      "date": "1888",
+      "event": "W. B. Yeats publishes Fairy and Folk Tales of the Irish Peasantry, with banshee material.",
+      "significance": "Anchors banshee folklore in the literary revival.",
+      "source": "Yeats, Fairy and Folk Tales of the Irish Peasantry (1888)."
+    },
+    {
+      "date": "1920",
+      "event": "Lady Gregory publishes Visions and Beliefs in the West of Ireland, with extensive collected banshee testimony.",
+      "significance": "Major collected oral testimony.",
+      "source": "Lady Gregory, Visions and Beliefs in the West of Ireland (1920)."
+    },
+    {
+      "date": "1986",
+      "event": "Patricia Lysaght publishes The Banshee: The Irish Supernatural Death-Messenger (Glendale Press, Dublin).",
+      "significance": "Standard modern scholarly study based on Irish Folklore Commission archive material.",
+      "source": "Lysaght, P., The Banshee (1986), ISBN 978-0907606215."
+    }
+  ],
+  "related": [
+    {
+      "id": "bean-nighe",
+      "name": "Bean nighe",
+      "relationship": "regional_variant",
+      "description": "Scottish Highland washerwoman at the ford — washes the grave-clothes of those about to die."
+    },
+    {
+      "id": "caoineag",
+      "name": "Caoineag",
+      "relationship": "regional_variant",
+      "description": "Scottish lamenting fairy — 'the weeper'."
+    },
+    {
+      "id": "cyhyraeth",
+      "name": "Cyhyraeth",
+      "relationship": "similar",
+      "description": "Welsh death-wailing spirit."
+    },
+    {
+      "id": "morrigan",
+      "name": "The Morrígan",
+      "relationship": "related",
+      "description": "Old Irish goddess of war and fate; sometimes appears as a death-foretelling washerwoman at the ford in early Irish saga."
+    },
+    {
+      "id": "lhiannan-shee",
+      "name": "Lhiannan-shee",
+      "relationship": "related",
+      "description": "Manx fairy-lover; another Aos Sí figure."
+    }
+  ],
+  "cultural_notes": "Treated as a real but rarely encountered supernatural figure attached to specific Irish families; she does not cause death but mourns it in advance. Hearing her keen is taken as warning rather than threat.",
+  "sources": [
+    {
+      "id": "wikipedia-banshee",
+      "type": "website",
+      "title": "Banshee — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Banshee",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "lysaght-1986",
+      "type": "book",
+      "title": "The Banshee: The Irish Supernatural Death-Messenger",
+      "authors": [
+        "Patricia Lysaght"
+      ],
+      "publication": "Glendale Press, Dublin",
+      "date": "1986",
+      "isbn": "978-0907606215"
+    },
+    {
+      "id": "wilde-1887",
+      "type": "book",
+      "title": "Ancient Legends, Mystic Charms, and Superstitions of Ireland",
+      "authors": [
+        "Lady Jane Francesca Wilde"
+      ],
+      "publication": "Ward and Downey, London",
+      "date": "1887"
+    },
+    {
+      "id": "yeats-1888",
+      "type": "book",
+      "title": "Fairy and Folk Tales of the Irish Peasantry",
+      "authors": [
+        "W. B. Yeats"
+      ],
+      "publication": "Walter Scott, London",
+      "date": "1888"
+    },
+    {
+      "id": "gregory-1920",
+      "type": "book",
+      "title": "Visions and Beliefs in the West of Ireland",
+      "authors": [
+        "Lady Augusta Gregory"
+      ],
+      "publication": "G. P. Putnam's Sons",
+      "date": "1920"
+    },
+    {
+      "id": "logan-1981",
+      "type": "book",
+      "title": "The Old Gods: The Facts About Irish Fairies",
+      "authors": [
+        "Patrick Logan"
+      ],
+      "publication": "Appletree Press, Belfast",
+      "date": "1981",
+      "isbn": "978-0904651751"
+    },
+    {
+      "id": "duchas-folklore",
+      "type": "archive",
+      "title": "Dúchas — The National Folklore Collection (UCD)",
+      "url": "https://www.duchas.ie",
+      "accessed": "2026-05-07"
+    }
+  ],
+  "locations": []
 }

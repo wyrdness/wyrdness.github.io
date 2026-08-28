@@ -3,6 +3,7 @@
   "name": "Selkie",
   "category": "shapeshifter",
   "description": "Selkies are shapeshifting beings of Northern Isles, Faroese, Icelandic, and Irish folklore who live as seals in the sea but can shed their sealskins to take human form on land. They are best known for stories in which a human steals and hides a selkie's skin, trapping the selkie in human form.",
+  "full_description": "Selkies (Scots silkie, selchie; from selch 'grey seal') are shapeshifting beings of the folklore of the Northern Isles of Scotland, with cognate traditions in Ireland, the Faroe Islands, and Iceland. In their seal form they swim and hunt; on coming ashore they shed their seal-skins and take on a beautiful human form. The most common narrative type involves a man who finds a selkie woman bathing on the rocks, steals her hidden skin, and forces her into marriage; she lives as a seemingly contented wife and mother for years until she rediscovers the skin (often through a child's innocent disclosure) and immediately returns to the sea, sometimes meeting her seal husband and seal-children. Counterpart tales describe male selkies who come ashore to seduce dissatisfied human women, particularly fishermen's wives. Children of mixed unions are often marked by webbed fingers and toes, an affinity for the sea, or a recurring longing to return there. The figure has been the subject of ballad ('The Great Silkie of Sule Skerry'), Faroese narrative tradition (Kópakonan of Mikladalur), and academic folklore study by W. Traill Dennison, Samuel Hibbert, Ernest Marwick, and Alan Bruford. The tales have been read both as a regional swan-maiden type and as encoded reflections on Indigenous-Norse contact, on women's confinement in island marriages, and on the porousness of the sea-edge.",
   "aliases": [
     {
       "name": "Silkie",
@@ -81,5 +82,170 @@
   "origin": "Selkie traditions cluster in the Northern Isles of Scotland (Orkney and Shetland) and along the Hebridean and northern Scottish coasts, with cognate traditions in coastal Ireland, the Faroe Islands, and Iceland. The cultural distribution corresponds closely to the historic range of Norse settlement and the grey seal's North Atlantic range.",
   "first_reported": "1641",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Scots language",
+    "meaning": "Diminutive of selch ('grey seal'); selkie literally means 'little seal' or 'seal-folk'.",
+    "first_use": "19th century in printed Scots; oral usage older"
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0,
+    "date_range": {
+      "earliest": "1641",
+      "latest": "1900"
+    }
+  },
+  "timeline": [
+    {
+      "date": "1641",
+      "event": "Jón Guðmundsson the Learned records an early Icelandic version of the seal-skin tale",
+      "significance": "Earliest known written form of the selkie-type narrative in the North Atlantic",
+      "source": "Jón Guðmundsson, Tíðfordríf"
+    },
+    {
+      "date": "1822",
+      "event": "Samuel Hibbert publishes 'A Description of the Shetland Islands', describing Shetland selkie traditions",
+      "significance": "First widely-read English-language treatment",
+      "source": "Hibbert (1822)"
+    },
+    {
+      "date": "1893",
+      "event": "W. Traill Dennison publishes North Ronaldsay and Deerness selkie tales in The Scottish Antiquary",
+      "significance": "Foundational scholarly collection of Orcadian selkie material",
+      "source": "Dennison, The Scottish Antiquary, 1893"
+    },
+    {
+      "date": "1975",
+      "event": "Ernest Marwick publishes 'The Folklore of Orkney and Shetland'",
+      "significance": "Synthesis of Northern Isles selkie tradition",
+      "source": "Marwick (1975)"
+    },
+    {
+      "date": "1994",
+      "event": "Release of John Sayles's film 'The Secret of Roan Inish'",
+      "significance": "Major cinematic treatment introducing selkie folklore to a wide audience",
+      "source": "Skerry Movies / Sayles (1994)"
+    },
+    {
+      "date": "2014-08-01",
+      "event": "Bronze statue of the Kópakonan unveiled at Mikladalur, Faroe Islands (sculptor Hans Pauli Olsen)",
+      "significance": "Public monument to the Faroese seal-woman tradition",
+      "source": "Visit Faroe Islands / Olsen"
+    },
+    {
+      "date": "2014",
+      "event": "Release of Tomm Moore's animated film 'Song of the Sea'",
+      "significance": "Internationally distributed film centred on Irish selkie folklore",
+      "source": "Cartoon Saloon (2014)"
+    }
+  ],
+  "related": [
+    {
+      "id": "merrow",
+      "name": "Merrow",
+      "relationship": "similar",
+      "description": "Irish merfolk; merrow females have a magical cohuleen druith (red cap) analogous to the sealskin"
+    },
+    {
+      "id": "kopakonan",
+      "name": "Kópakonan",
+      "relationship": "regional_variant",
+      "description": "Faroese seal-woman of Mikladalur on Kalsoy"
+    },
+    {
+      "id": "swan-maiden",
+      "name": "Swan maiden",
+      "relationship": "similar",
+      "description": "Cross-cultural folkloric type in which a captured skin/feather garment binds a supernatural bride to a human"
+    },
+    {
+      "id": "finfolk",
+      "name": "Finfolk",
+      "relationship": "related",
+      "description": "Orcadian sorcerous sea-folk; share Northern Isles folklore complex"
+    },
+    {
+      "id": "mermaid",
+      "name": "Mermaid",
+      "relationship": "related",
+      "description": "Broader European sea-woman tradition with which selkie tales sometimes intersect"
+    }
+  ],
+  "cultural_notes": "In Northern Isles tradition selkies are typically considered real, neither demonic nor angelic; some Orcadian families claimed selkie ancestry, citing webbed digits or an affinity for the sea.",
+  "sources": [
+    {
+      "id": "wikipedia-selkie",
+      "type": "website",
+      "title": "Selkie",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Selkie",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "hibbert-1822",
+      "type": "book",
+      "title": "A Description of the Shetland Islands",
+      "authors": [
+        "Samuel Hibbert"
+      ],
+      "publication": "Archibald Constable & Co.",
+      "date": "1822"
+    },
+    {
+      "id": "dennison-1893",
+      "type": "article",
+      "title": "Orkney Folklore: Sea Myths",
+      "authors": [
+        "W. Traill Dennison"
+      ],
+      "publication": "The Scottish Antiquary",
+      "date": "1893"
+    },
+    {
+      "id": "thomson-1954",
+      "type": "book",
+      "title": "The People of the Sea",
+      "authors": [
+        "David Thomson"
+      ],
+      "publication": "Turnstile Press",
+      "date": "1954"
+    },
+    {
+      "id": "marwick-1975",
+      "type": "book",
+      "title": "The Folklore of Orkney and Shetland",
+      "authors": [
+        "Ernest Marwick"
+      ],
+      "publication": "B.T. Batsford",
+      "date": "1975",
+      "isbn": "978-0713419498"
+    },
+    {
+      "id": "child-ballads",
+      "type": "book",
+      "title": "The English and Scottish Popular Ballads (Ballad 113: The Great Silkie of Sule Skerry)",
+      "authors": [
+        "Francis James Child"
+      ],
+      "publication": "Houghton Mifflin",
+      "date": "1882–1898"
+    },
+    {
+      "id": "silver-1999",
+      "type": "book",
+      "title": "Strange and Secret Peoples: Fairies and Victorian Consciousness",
+      "authors": [
+        "Carole G. Silver"
+      ],
+      "publication": "Oxford University Press",
+      "date": "1999",
+      "isbn": "978-0195144116"
+    }
+  ],
+  "locations": []
 }

@@ -3,6 +3,7 @@
   "name": "Mystery Airships (1896-1897)",
   "category": "ufo_uap",
   "description": "The 'Mystery Airships' wave of 1896-1897 was a major pre-aviation mass sighting episode in which thousands of Americans reported large cigar-shaped craft with searchlights and propellers crossing the night sky, beginning over Sacramento, California in November 1896 and spreading across much of the United States by April 1897.",
+  "full_description": "Beginning on the night of November 17, 1896 in Sacramento, California, witnesses began reporting a large illuminated craft moving slowly through the night sky at approximately 1,000 feet altitude. Sightings spread rapidly across California (Sacramento, San Francisco, Oakland, Stockton, San Jose, Los Angeles, San Diego) and were extensively covered in regional newspapers including the Sacramento Bee, the San Francisco Call, the San Francisco Chronicle and the San Francisco Examiner. The wave then jumped to the Midwest in February 1897 (Nebraska sightings around February 2-5) and peaked in March-April 1897 with reports from Kansas (Topeka sighting witnessed by Governor John W. Leedy and several hundred people on March 28), Michigan, Missouri, Texas, and elsewhere. The most famous tall tales of the episode include the alleged April 17, 1897 Aurora, Texas crash (reported in the Dallas Morning News on April 19) and Alexander Hamilton's April 1897 cattle-abduction story, which Jerome Clark debunked in 1977 by obtaining Hamilton's affidavit confirming it was a fabrication for a Liars' Club competition. William Randolph Hearst, in a December 5, 1896 editorial, called the airship story 'pure myth' produced by 'fake journalism'. The phenomenon disappeared from public consciousness after 1897 and was rediscovered by UFO investigators in the 1960s, who reframed it as a precursor to the modern UFO wave that began in the late 1940s. Historian Mike Dash summarised the modern consensus: many simpler sightings were misidentifications of planets and stars, and many of the more elaborate reports were hoaxes and yellow-journalism tall tales.",
   "aliases": [
     {
       "name": "1896-1897 airship wave",
@@ -36,5 +37,163 @@
   "origin": "Reports spread across California beginning in November 1896, reached Arizona Territory, Nevada, Oregon, Washington and British Columbia, and then jumped to the Midwest (Nebraska, Kansas, Missouri, Texas, Oklahoma, Arkansas, Wisconsin, Michigan, Minnesota) in February-April 1897, with thousands of reported sightings.",
   "first_reported": "1896-11-17",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "American English 'mystery airship', as used in 1896-1897 newspaper coverage and revived in 1960s UFO writing.",
+    "meaning": "Unidentified airship-like craft seen in 1896-1897 over the United States, before any practical heavier-than-air aircraft existed.",
+    "first_use": "November 1896, in California newspaper coverage."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0,
+    "date_range": {
+      "earliest": "1896-11-17",
+      "latest": "1897-06"
+    }
+  },
+  "timeline": [
+    {
+      "date": "1896-11-17",
+      "event": "First widely reported sighting in Sacramento, California; witnesses describe a moving light at approximately 1,000 feet altitude",
+      "significance": "Start of the wave",
+      "source": "Wikipedia: Mystery airship; Sacramento Bee (1896-11-18)"
+    },
+    {
+      "date": "1896-11-19",
+      "event": "Colonel H. G. Shaw near Lodi, California, reports an encounter with three slender beings who attempt to force him aboard a landed craft",
+      "significance": "Famous early 'occupant' report",
+      "source": "Wikipedia: Mystery airship"
+    },
+    {
+      "date": "1896-11-21",
+      "event": "Light reappears over Sacramento; observers include the deputy sheriff and district attorney; sightings spread across California",
+      "significance": "Wave broadens in California",
+      "source": "Wikipedia: Mystery airship"
+    },
+    {
+      "date": "1896-11-29",
+      "event": "Over 100 Tulare residents report seeing red, white and blue lights from the airship in succession",
+      "significance": "Mass-sighting incident",
+      "source": "Wikipedia: Mystery airship"
+    },
+    {
+      "date": "1896-12-05",
+      "event": "William Randolph Hearst publishes editorial calling the airship story 'pure myth' produced by 'fake journalism'",
+      "significance": "Major contemporary skeptical voice",
+      "source": "Wikipedia: Mystery airship"
+    },
+    {
+      "date": "1897-02-02",
+      "event": "Sightings reported near Hastings and Inavale, Nebraska",
+      "significance": "Wave jumps to the Midwest",
+      "source": "Wikipedia: Mystery airship"
+    },
+    {
+      "date": "1897-03-28",
+      "event": "Topeka, Kansas sighting witnessed by Governor John W. Leedy and several hundred people",
+      "significance": "High-profile witnesses",
+      "source": "Wikipedia: Mystery airship"
+    },
+    {
+      "date": "1897-04-17",
+      "event": "Alleged Aurora, Texas crash on Judge Proctor's property; reported in the Dallas Morning News on April 19",
+      "significance": "Most-cited 'crash' story of the wave; almost certainly fictional",
+      "source": "Dallas Morning News (1897-04-19); Wikipedia: Mystery airship"
+    },
+    {
+      "date": "1897-04-23",
+      "event": "Alexander Hamilton of Leroy, Kansas, publishes account of an airship's red 'cable' lassoing a heifer from his pen and lifting it away",
+      "significance": "Most-cited 'abduction' story of the wave",
+      "source": "Yates Center Farmer's Advocate (1897)"
+    },
+    {
+      "date": "1903-12-17",
+      "event": "Wright brothers' first powered, controlled, sustained heavier-than-air flight at Kitty Hawk",
+      "significance": "Demonstrates the technology described in 1896-1897 reports did not exist contemporaneously",
+      "source": "Standard aviation history"
+    },
+    {
+      "date": "1977-01-01",
+      "event": "Jerome Clark obtains Alexander Hamilton's own affidavit confirming the 1897 cattle-abduction story was a fabrication for a Liars' Club competition",
+      "significance": "Definitive debunking of the most-cited 'abduction' story",
+      "source": "Clark, J. (1977), per Wikipedia: Mystery airship"
+    }
+  ],
+  "related": [
+    {
+      "id": "foo-fighters",
+      "name": "Foo fighters",
+      "relationship": "related",
+      "description": "Later WWII-era unexplained aerial phenomena"
+    },
+    {
+      "id": "ghost-rockets",
+      "name": "Ghost rockets",
+      "relationship": "related",
+      "description": "1946 Scandinavian unexplained aerial phenomena wave"
+    },
+    {
+      "id": "ufo-uap",
+      "name": "UFO/UAP phenomena",
+      "relationship": "superset",
+      "description": "The wider category, of which the 1896-1897 airships are now considered a precursor"
+    },
+    {
+      "id": "phantom-armies",
+      "name": "Phantom airships (UK 1909, 1913)",
+      "relationship": "similar",
+      "description": "Later British 'phantom airship' wave"
+    }
+  ],
+  "cultural_notes": "Modern academic consensus treats the wave as a combination of misidentifications, mass hysteria, and yellow-journalism hoaxes; UFO communities re-frame it as a precursor to modern UFO experience.",
+  "sources": [
+    {
+      "id": "wikipedia-mystery-airship",
+      "type": "website",
+      "title": "Mystery airship",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Mystery_airship",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "cohen-1981",
+      "type": "book",
+      "title": "The Great Airship Mystery: A UFO of the 1890s",
+      "authors": [
+        "Daniel Cohen"
+      ],
+      "publication": "Dodd, Mead",
+      "date": "1981"
+    },
+    {
+      "id": "busby-2004",
+      "type": "book",
+      "title": "Solving the 1897 Airship Mystery",
+      "authors": [
+        "Michael Busby"
+      ],
+      "publication": "Pelican Publishing",
+      "date": "2004",
+      "isbn": "978-1589801257"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Sacramento, California",
+      "lat": 38.5816,
+      "lng": -121.4944
+    },
+    {
+      "name": "Aurora, Texas",
+      "lat": 33.0584,
+      "lng": -97.5161
+    },
+    {
+      "name": "Topeka, Kansas",
+      "lat": 39.0473,
+      "lng": -95.6752
+    }
+  ]
 }

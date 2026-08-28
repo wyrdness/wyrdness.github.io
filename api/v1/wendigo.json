@@ -3,6 +3,7 @@
   "name": "Wendigo",
   "category": "entity_spirit",
   "description": "A malevolent spirit-being central to the traditions of Algonquian-speaking peoples of northern North America, embodying winter, famine, greed, and the gravest taboo of cannibalism; humans who break that taboo are said to risk transformation into a wendigo.",
+  "full_description": "The wendigo is a malevolent spirit-being from the traditions of Algonquian-speaking peoples of northern North America, including the Ojibwe (Anishinaabe), Cree, Innu (Naskapi-Montagnais), Algonquin, and Saulteaux. Spellings vary widely across languages and orthographies: Anishinaabemowin wiindigoo, Cree wīhtikōw / wetiko / witiko, and Innu atchen / atshen. Traditional teachings describe the wendigo as gaunt, skeletal, ash-gray, and associated with winter, ice, hunger, and isolation; some teachings cast it as a giant many times human size that grows larger with every victim consumed and yet remains eternally starving. The wendigo is most strongly associated with the gravest of social taboos — cannibalism — and tradition holds that humans may become wendigos through resorting to cannibalism in famine, through sustained contact with a wendigo, or through being overcome by greed. The word's English-language popularisation owes much to Algernon Blackwood's 1910 novella The Wendigo. Within Algonquian communities the wendigo continues to be invoked as a moral and ecological figure — increasingly read by Indigenous scholars (e.g., Jack D. Forbes, Robin Wall Kimmerer, Basil Johnston) as a metaphor for greed, ecological destruction, and colonial violence — quite distinct from the wendigo of horror fiction.",
   "aliases": [
     {
       "name": "Windigo",
@@ -64,5 +65,161 @@
   "origin": "Pan-Algonquian, with strongest presence in the boreal-forest territories of the Ojibwe, Cree, Innu, Algonquin, and Saulteaux peoples across central and eastern Canada and the upper Midwest of the United States.",
   "first_reported": "Pre-contact",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "From Proto-Algonquian *wi·nteko·wa, possibly meaning 'owl' or 'malevolent spirit'; reflexes include Ojibwe wiindigoo, Cree wīhtikōw, and Innu atchen.",
+    "meaning": "Often glossed in English as 'cannibal spirit' or 'evil being of winter'.",
+    "first_use": "Algonquian languages prior to European contact; English-language attestations from the 17th century onwards (e.g., in Jesuit Relations); the spelling 'wendigo' popularised by Blackwood (1910)."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "1878-12-01",
+      "event": "Plains Cree man Swift Runner (Ka-Ki-Si-Kutchin) kills and eats his wife, mother, brother, and six children near Fort Saskatchewan, Alberta, despite available food",
+      "significance": "One of the most fully documented historical 'wendigo'-framed criminal cases",
+      "source": "Carlson, N. (2009), 'Reviving Witiko (Windigo)', Ethnohistory"
+    },
+    {
+      "date": "1879-12-20",
+      "event": "Swift Runner is hanged at Fort Saskatchewan, Alberta — the first judicial execution in what would become Alberta",
+      "significance": "Anchors the historical 'wendigo' record in colonial Canadian legal history",
+      "source": "RCMP / Carlson (2009)"
+    },
+    {
+      "date": "1907-09-30",
+      "event": "Oji-Cree leader Jack Fiddler (Zhauwuno-geezhigo-gaubow), arrested by the North-West Mounted Police on charges relating to the killing of Wahsakapeequay, who was said to have been turning into a wendigo, dies by suicide in custody at Norway House",
+      "significance": "Marks the imposition of Canadian law over Sucker-clan traditional practice on the wendigo",
+      "source": "Fiddler, T. & Stevens, J. R. (1985), Killing the Shamen"
+    },
+    {
+      "date": "1910-01-01",
+      "event": "Algernon Blackwood publishes the novella The Wendigo, popularising the spelling 'wendigo' in English-language fiction",
+      "significance": "Anchors the modern English-language literary form of the figure",
+      "source": "Blackwood, A. (1910), The Wendigo"
+    },
+    {
+      "date": "1982-01-01",
+      "event": "Lou Marano publishes 'Windigo Psychosis: The Anatomy of an Emic-Etic Confusion' in Current Anthropology, arguing that windigo psychosis as a behavioural syndrome did not exist",
+      "significance": "Begins the principal scholarly debate on wendigo psychosis",
+      "source": "Marano, L. (1982), Current Anthropology 23(4)"
+    },
+    {
+      "date": "1988-01-01",
+      "event": "Robert A. Brightman publishes 'The Windigo in the Material World' in Ethnohistory, arguing in response to Marano that the witiko complex was historically substantive in Cree communities",
+      "significance": "Major counter-position in the scholarly debate",
+      "source": "Brightman, R. A. (1988), Ethnohistory 35(4)"
+    }
+  ],
+  "related": [
+    {
+      "id": "wendigo-cree",
+      "name": "Wendigo (Cree)",
+      "relationship": "regional_variant",
+      "description": "Specifically Cree (wīhtikōw / wetiko) treatment of the same underlying tradition"
+    },
+    {
+      "id": "atshen",
+      "name": "Atshen (Innu)",
+      "relationship": "regional_variant",
+      "description": "Innu / Naskapi cognate cannibal-spirit being"
+    },
+    {
+      "id": "skadegamutc",
+      "name": "Skadegamutc (Wabanaki ghost-witch)",
+      "relationship": "similar",
+      "description": "Algonquian neighbour cannibal-undead figure"
+    },
+    {
+      "id": "rugaru",
+      "name": "Rougarou / Rugaru",
+      "relationship": "related",
+      "description": "Métis/French-Canadian shape-shifter, sometimes conflated with wendigo"
+    },
+    {
+      "id": "wechuge",
+      "name": "Wechuge (Dane-zaa)",
+      "relationship": "similar",
+      "description": "Northern-Athabaskan cannibal-spirit being"
+    }
+  ],
+  "cultural_notes": "Across Algonquian communities, the wendigo is associated with the gravest social taboo (cannibalism), with greed, with winter, and with the transformative consequences of unchecked appetite. Community responses historically included ritual, communal action, and at times the killing of the afflicted person.",
+  "sources": [
+    {
+      "id": "wikipedia-wendigo",
+      "type": "website",
+      "title": "Wendigo",
+      "url": "https://en.wikipedia.org/wiki/Wendigo",
+      "publication": "Wikipedia",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "blackwood-1910",
+      "type": "book",
+      "title": "The Wendigo",
+      "authors": [
+        "Algernon Blackwood"
+      ],
+      "publication": "Eveleigh Nash",
+      "date": "1910"
+    },
+    {
+      "id": "johnston-1995",
+      "type": "book",
+      "title": "The Manitous: The Spiritual World of the Ojibway",
+      "authors": [
+        "Basil Johnston"
+      ],
+      "publication": "HarperCollins",
+      "date": "1995",
+      "isbn": "978-0060172473"
+    },
+    {
+      "id": "marano-1982",
+      "type": "paper",
+      "title": "Windigo Psychosis: The Anatomy of an Emic-Etic Confusion",
+      "authors": [
+        "Lou Marano"
+      ],
+      "publication": "Current Anthropology",
+      "date": "1982"
+    },
+    {
+      "id": "brightman-1988",
+      "type": "paper",
+      "title": "The Windigo in the Material World",
+      "authors": [
+        "Robert A. Brightman"
+      ],
+      "publication": "Ethnohistory",
+      "date": "1988"
+    },
+    {
+      "id": "carlson-2009",
+      "type": "paper",
+      "title": "Reviving Witiko (Windigo): An Ethnohistory of 'Cannibal Monsters' in the Athabasca District of Northern Alberta, 1878–1910",
+      "authors": [
+        "Nathan Carlson"
+      ],
+      "publication": "Ethnohistory 56(3)",
+      "date": "2009",
+      "doi": "10.1215/00141801-2009-001"
+    },
+    {
+      "id": "fiddler-stevens-1985",
+      "type": "book",
+      "title": "Killing the Shamen",
+      "authors": [
+        "Thomas Fiddler",
+        "James R. Stevens"
+      ],
+      "publication": "Penumbra Press",
+      "date": "1985"
+    }
+  ],
+  "locations": []
 }

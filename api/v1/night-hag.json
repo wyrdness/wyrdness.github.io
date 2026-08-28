@@ -3,6 +3,7 @@
   "name": "Night Hag",
   "category": "entity_spirit",
   "description": "A supernatural figure reported in folk traditions worldwide as the cause of sleep paralysis: a malevolent presence that sits, presses, or 'rides' on the chest of a paralyzed sleeper.",
+  "full_description": "The Night Hag is the cross-cultural figure invoked to explain sleep paralysis: an experience in which a person, awakening during the transition out of REM sleep, finds themselves unable to move while conscious, often with a sense of crushing chest pressure, difficulty breathing, and an overwhelming feeling of malevolent presence. Almost every documented human culture has a name for this experience and a corresponding entity — Old English mære, Norse mara, Newfoundland 'Old Hag', Japanese kanashibari, Chinese 'ghost pressing on body', Arabic ja-thoom, Turkish karabasan, Yoruba ogun oru, Brazilian pisadeira, and many others. Modern sleep medicine identifies the experience as an isolated episode of sleep paralysis, in which the muscle atonia of REM sleep persists into waking consciousness; hypnagogic and hypnopompic hallucinations occur in roughly a fifth of episodes and supply the perceptual content (figures on the chest, shadow people, abductors). Folklorist David J. Hufford's 1982 study of Newfoundland 'Old Hag' tradition, The Terror that Comes in the Night, was foundational in showing that the experience is biologically grounded but culturally elaborated.",
   "aliases": [
     {
       "name": "Old Hag",
@@ -107,5 +108,79 @@
   "origin": "Reports of night-hag-type sleep paralysis encounters are documented in nearly every studied human culture.",
   "first_reported": "Antiquity",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "English compound: 'night' + 'hag'; the Old English word for the experience itself was mære/mare, source of 'nightmare'",
+    "meaning": "An old or witch-like woman associated with night-time oppression of sleepers",
+    "first_use": "English 'night-hag' attested in early modern usage; 'mare' (the older term for the experience) attested in Old English"
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "1755",
+      "event": "Samuel Johnson defines 'nightmare' in A Dictionary of the English Language as a morbid oppression of the sleeper resembling pressure on the breast",
+      "significance": "Codifies the link between the folkloric night-hag and the experience now known as sleep paralysis",
+      "source": "Johnson, S. (1755), A Dictionary of the English Language"
+    },
+    {
+      "date": "1982",
+      "event": "David J. Hufford publishes The Terror that Comes in the Night, an experiential-source study of the Newfoundland 'Old Hag' tradition",
+      "significance": "Foundational academic work showing the cross-cultural night-hag complex is grounded in a real, biologically constrained experience (sleep paralysis)",
+      "source": "Hufford, D. J. (1982), The Terror that Comes in the Night, University of Pennsylvania Press"
+    }
+  ],
+  "related": [
+    {
+      "id": "nightmare",
+      "name": "Nightmare (mare folklore)",
+      "relationship": "related",
+      "description": "The Germanic mara/mære, the etymological root of 'nightmare' and a direct cognate of the night-hag"
+    },
+    {
+      "id": "incubus",
+      "name": "Incubus",
+      "relationship": "similar",
+      "description": "Male sleep-paralysis demon of medieval European tradition"
+    },
+    {
+      "id": "succubus",
+      "name": "Succubus",
+      "relationship": "similar",
+      "description": "Female sleep-paralysis demon of medieval European tradition"
+    },
+    {
+      "id": "alp",
+      "name": "Alp",
+      "relationship": "similar",
+      "description": "German nightmare-causing entity associated with sleep paralysis"
+    }
+  ],
+  "cultural_notes": "Most folk traditions identify the Night Hag as a real, external being; many specify protective practices, sleeping positions, or charms to avoid her.",
+  "sources": [
+    {
+      "id": "wikipedia-night-hag",
+      "type": "website",
+      "title": "Night hag",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Night_hag",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "hufford-1982",
+      "type": "book",
+      "title": "The Terror that Comes in the Night: An Experience-Centered Study of Supernatural Assault Traditions",
+      "authors": [
+        "David J. Hufford"
+      ],
+      "publication": "University of Pennsylvania Press",
+      "date": "1982",
+      "isbn": "978-0812211450"
+    }
+  ],
+  "locations": []
 }

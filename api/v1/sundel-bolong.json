@@ -3,6 +3,7 @@
   "name": "Sundel Bolong",
   "category": "ghost_haunting",
   "description": "The Sundel Bolong is a female ghost from Indonesian (primarily Javanese) folklore, defined by a large hole in her back; she is the spirit of a woman who died pregnant or in childbirth under shameful circumstances and takes revenge on men and abducts infants.",
+  "full_description": "The Sundel Bolong is one of Indonesia's most distinctive female ghosts. Her name translates literally as 'prostitute/whore with a hole' in Javanese — 'sundel' (sundal) meaning prostitute or whore, and 'bolong' meaning hole — referring to the defining characteristic: a gaping cavity in her back, sometimes described as revealing internal organs or filled with maggots. She appears as a beautiful woman dressed in traditional white clothing (often a white kebaya) with long black hair flowing down her back, concealing the hole. She superficially resembles the pontianak or kuntilanak, fellow Indonesian female ghosts associated with pregnancy and death. According to the folklore, the Sundel Bolong is the spirit of a woman who died during pregnancy or childbirth under tragic or shameful circumstances — often as an unmarried woman, a victim of sexual violence, or a woman who died in disgrace. In one variant, the child was born posthumously, emerging through her back, creating the hole. Modern folklore scholars suggest the myth developed in Javanese culture partly to discourage prostitution during the Dutch East Indies colonial period. As a vengeful spirit, she targets men and children — reportedly able to castrate men who reject her and abduct newborns to replace her lost child.",
   "aliases": [
     {
       "name": "Sundal Bolong",
@@ -36,5 +37,77 @@
   "origin": "Indonesian folklore, centered in Java but present throughout the archipelago including Sumatra, Kalimantan, and other islands.",
   "first_reported": "Pre-modern",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Javanese Indonesian. The term developed in Java and spread throughout the Indonesian archipelago.",
+    "meaning": "'Sundel' (from sundal) means prostitute or whore in Javanese/Indonesian; 'bolong' means hole or hollow. The name describes both her social status in death-narrative and her defining physical characteristic.",
+    "first_use": "Exact first written attestation unknown; tradition is pre-modern, existing in oral form before Dutch colonial documentation"
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "1981-01-01",
+      "event": "Indonesian horror film Sundelbolong (directed by Sisworo Gautama Putra) is released, starring Suzzanna; brings the figure to mainstream Indonesian popular culture",
+      "significance": "Most influential modern popularization of the legend",
+      "source": "Sundelbolong (1981 film, directed by Sisworo Gautama Putra)"
+    },
+    {
+      "date": "2007-01-01",
+      "event": "Legenda Sundel Bolong released as a modern Indonesian horror film",
+      "significance": "Revival of the legend in contemporary horror cinema",
+      "source": "Legenda Sundel Bolong (2007 film)"
+    },
+    {
+      "date": "2018-01-01",
+      "event": "Suzzanna: Bernapas dalam Kubur released — a remake of the 1981 classic featuring the Sundel Bolong figure",
+      "significance": "Demonstrates ongoing cultural relevance of the legend",
+      "source": "Suzzanna: Bernapas dalam Kubur (2018 film)"
+    }
+  ],
+  "related": [
+    {
+      "id": "kuntilanak",
+      "name": "Kuntilanak / Pontianak",
+      "relationship": "similar",
+      "description": "Indonesian/Malay female ghost also associated with pregnancy death; the kuntilanak has a hole in her back as well but differs in origin narrative and behavior"
+    },
+    {
+      "id": "langsuir",
+      "name": "Langsuir",
+      "relationship": "similar",
+      "description": "Malay female ghost of a woman who died in childbirth; closely related to the pontianak tradition"
+    },
+    {
+      "id": "phi-tai-hong",
+      "name": "Phi Tai Hong",
+      "relationship": "similar",
+      "description": "Thai spirit of someone who died violently or in childbirth; shares vengeful characteristics"
+    }
+  ],
+  "cultural_notes": "The Sundel Bolong is understood in Indonesian folk belief as a genuine spiritual threat, particularly to men who travel alone at night and to unprotected newborns. She is simultaneously a figure of horror and of sympathy — a victim of social shame who became monstrous through the injustice she experienced.",
+  "sources": [
+    {
+      "id": "wikipedia-sundel-bolong",
+      "type": "website",
+      "title": "Sundel bolong — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sundel_bolong",
+      "accessed": "2026-05-08"
+    },
+    {
+      "id": "sundelbolong-1981",
+      "type": "documentary",
+      "title": "Sundelbolong",
+      "authors": [
+        "Sisworo Gautama Putra"
+      ],
+      "date": "1981",
+      "notes": "Indonesian horror film; primary vehicle of modern popular transmission of the legend"
+    }
+  ],
+  "locations": []
 }

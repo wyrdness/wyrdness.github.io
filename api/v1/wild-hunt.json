@@ -3,6 +3,7 @@
   "name": "Wild Hunt",
   "category": "mythological_creature",
   "description": "A widespread northern and central European folk motif of a spectral troop of hunters, hounds, and horses tearing through the night sky or wild lands, led by a mythological or legendary figure and often regarded as an omen of war, plague, or death.",
+  "full_description": "The Wild Hunt is a recurring motif of European folklore in which a spectral or supernatural hunting party — riders, hounds, and sometimes the recently dead or unbaptised souls — passes overhead at night, often accompanied by storm winds, thunder, and the cries of dogs. The motif is best attested in Germanic and Scandinavian areas under names such as Wilde Jagd, Wütendes Heer, and Oskoreia, but cognate traditions appear across France (the Mesnée d'Hellequin), England (Herla's host, the Cŵn Annwn in Wales), and Iberia (the Estantigua and Galician Santa Compaña). The leader varies regionally and across time: Germanic and Scandinavian sources often place Wodan/Odin at the head; medieval English sources name King Herla and, later, Herne the Hunter; female leaders include Holda, Perchta, Diana, and Frau Holle; King Arthur appears in some British versions. The earliest detailed description in writing is in the Peterborough Chronicle entry for the year 1127, which describes black, monstrous huntsmen riding through the deer park of Peterborough Abbey for nine weeks. The Wild Hunt was systematised as an academic concept by Jacob Grimm in his Deutsche Mythologie (1835), and has since been studied at length by scholars including Otto Höfler, Carlo Ginzburg, the French medievalist Lecouteux, and Ronald Hutton, who connect it to ancient warrior-band cults, ecstatic-seeress traditions, and the night-flying witches of the early-modern witch trials.",
   "aliases": [
     {
       "name": "Wilde Jagd",
@@ -73,5 +74,169 @@
   "origin": "The Wild Hunt motif spans most of northern, central, and parts of southern Europe, with distinct regional families in Germanic-speaking lands, Scandinavia, the British Isles, France, and Iberia.",
   "first_reported": "1127",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "The English term 'Wild Hunt' is a calque of the German 'Wilde Jagd', popularised in academic use by Jacob Grimm's Deutsche Mythologie (1835).",
+    "meaning": "'Wild' in the sense of untamed and supernatural; 'Hunt' / 'Jagd' / 'Heer' (host, army) referring to the spectral company of riders and hounds.",
+    "first_use": "1835 in Grimm's Deutsche Mythologie as a unified scholarly term; earlier vernacular forms (Wilde Jagd, Mesnée d'Hellequin, Herlaþing) attested for centuries before."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0,
+    "date_range": {
+      "earliest": "1127",
+      "latest": "present"
+    }
+  },
+  "timeline": [
+    {
+      "date": "1127",
+      "event": "The Peterborough Chronicle records 'huntsmen black, huge, and hideous' riding for nine weeks through Peterborough Abbey's deer park",
+      "significance": "Earliest detailed written account of a Wild Hunt in English-language sources",
+      "source": "Peterborough Chronicle (Anglo-Saxon Chronicle, E manuscript)"
+    },
+    {
+      "date": "1190",
+      "event": "Walter Map's De nugis curialium gives the legend of King Herla and his eternally riding host",
+      "significance": "Anchors the English/French 'Herlaþing'/'Mesnée d'Hellequin' line",
+      "source": "Walter Map, De nugis curialium"
+    },
+    {
+      "date": "1835",
+      "event": "Jacob Grimm publishes Deutsche Mythologie, systematising the 'Wilde Jagd' as a single scholarly category",
+      "significance": "Foundational academic treatment",
+      "source": "Grimm, J. (1835), Deutsche Mythologie"
+    },
+    {
+      "date": "1934",
+      "event": "Otto Höfler's Kultische Geheimbünde der Germanen interprets the Wild Hunt as a vestige of warrior-band cults of Wodan",
+      "significance": "Major (and now controversial) early-20th-century scholarly framing",
+      "source": "Höfler, O. (1934)"
+    },
+    {
+      "date": "1966",
+      "event": "Carlo Ginzburg's I benandanti documents Friulian night-flight beliefs that converge with Wild Hunt motifs",
+      "significance": "Reframes the Hunt within the long history of European ecstatic religion and witch trials",
+      "source": "Ginzburg, C. (1966)"
+    },
+    {
+      "date": "1989",
+      "event": "Carlo Ginzburg's Storia notturna (Ecstasies) develops the connection between Wild Hunt, processions of the dead, and witches' Sabbath across Europe",
+      "significance": "Major comparative-history synthesis",
+      "source": "Ginzburg, C. (1989)"
+    },
+    {
+      "date": "1999",
+      "event": "Lecouteux's comparative work on phantom armies of the night collects and analyses Wild Hunt material across medieval Europe",
+      "significance": "Standard modern reference work on the motif",
+      "source": "Lecouteux (1999/2011)"
+    }
+  ],
+  "related": [
+    {
+      "id": "cwn-annwn",
+      "name": "Cŵn Annwn",
+      "relationship": "regional_variant",
+      "description": "Welsh spectral hounds of Annwn, often included in the wider Wild Hunt complex"
+    },
+    {
+      "id": "santa-compana",
+      "name": "Santa Compaña",
+      "relationship": "regional_variant",
+      "description": "Galician procession of the dead"
+    },
+    {
+      "id": "perchta",
+      "name": "Perchta",
+      "relationship": "related",
+      "description": "Alpine female figure who in some traditions leads the Hunt"
+    },
+    {
+      "id": "frau-holda",
+      "name": "Frau Holda / Holle",
+      "relationship": "related",
+      "description": "Germanic figure sometimes given as Hunt-leader"
+    },
+    {
+      "id": "herne-the-hunter",
+      "name": "Herne the Hunter",
+      "relationship": "related",
+      "description": "Windsor Forest spectral huntsman drawn into the Wild Hunt complex"
+    },
+    {
+      "id": "benandanti",
+      "name": "Benandanti",
+      "relationship": "related",
+      "description": "Friulian 'good walkers' studied by Carlo Ginzburg, whose night-flights connect to Wild Hunt mythology"
+    }
+  ],
+  "cultural_notes": "Across regions: the Hunt is a force of the otherworld passing through the world of the living, dangerous to the imprudent and an omen of war, plague, or personal death. Many traditions prescribe lying down, hiding behind a wheel-rut, or remaining indoors during the Twelve Nights to avoid being carried off.",
+  "sources": [
+    {
+      "id": "wikipedia-wild-hunt",
+      "type": "website",
+      "title": "Wild Hunt — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Wild_Hunt",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "grimm-1835",
+      "type": "book",
+      "title": "Deutsche Mythologie",
+      "authors": [
+        "Jacob Grimm"
+      ],
+      "publication": "Dieterich, Göttingen",
+      "date": "1835"
+    },
+    {
+      "id": "lecouteux-2011",
+      "type": "book",
+      "title": "Phantom Armies of the Night: The Wild Hunt and the Ghostly Processions of the Undead",
+      "authors": [
+        "Lecouteux"
+      ],
+      "publication": "Inner Traditions",
+      "date": "2011",
+      "isbn": "978-1594774362"
+    },
+    {
+      "id": "ginzburg-1966",
+      "type": "book",
+      "title": "I benandanti: Stregoneria e culti agrari tra Cinquecento e Seicento",
+      "authors": [
+        "Carlo Ginzburg"
+      ],
+      "publication": "Einaudi",
+      "date": "1966"
+    },
+    {
+      "id": "ginzburg-1989",
+      "type": "book",
+      "title": "Storia notturna: Una decifrazione del sabba",
+      "authors": [
+        "Carlo Ginzburg"
+      ],
+      "publication": "Einaudi",
+      "date": "1989"
+    },
+    {
+      "id": "peterborough-chronicle",
+      "type": "archive",
+      "title": "Peterborough Chronicle (Anglo-Saxon Chronicle, MS E), entry for 1127",
+      "date": "c. 1127"
+    },
+    {
+      "id": "walter-map-de-nugis",
+      "type": "book",
+      "title": "De nugis curialium (Courtiers' Trifles)",
+      "authors": [
+        "Walter Map"
+      ],
+      "date": "c. 1180–1193"
+    }
+  ],
+  "locations": []
 }

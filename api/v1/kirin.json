@@ -3,6 +3,7 @@
   "name": "Kirin (Qilin)",
   "category": "mythological_creature",
   "description": "An auspicious chimerical creature of East Asian mythology — qilin in Chinese, kirin in Japanese, girin in Korean, kỳ lân in Vietnamese — said to appear at the birth or death of a sage or just ruler, and so gentle that it will not tread on living grass or eat living things.",
+  "full_description": "The kirin (Japanese 麒麟; Chinese qilin; Korean girin; Vietnamese kỳ lân) is one of the most revered creatures of East Asian mythology and one of the Four Auspicious Beasts (四靈, sì líng) alongside the dragon, phoenix, and tortoise. The original Chinese qilin is a chimera — sources variously give it the body of a deer or ox, the tail of an ox, the hooves of a horse or cleft cloven hooves, scales of a fish or dragon, a dragon-like head, and one or two horns. Although Western translation often calls it the 'Chinese unicorn', the qilin is rarely depicted with a single horn; the name itself is a compound of 麒 (qí, the male) and 麟 (lín, the female). The earliest mention of the lin appears in the Classic of Poetry (Shijing, 11th–7th c. BCE), and the Spring and Autumn Annals records that Confucius identified a captured lin in 481 BCE shortly before his death — a passage central to later Confucian commentary. The kirin is gentle, will not walk on growing grass, will not eat living vegetation, and serves as an omen of the imminent birth or death of a great sage or ruler. In Japanese culture the kirin retains all this lore but is also the modern Japanese word for the giraffe — a usage that dates to the Ming dynasty, when the giraffes brought back from Africa by the eunuch admiral Zheng He's voyages (early 15th century) were celebrated at the Chinese court as living qilin. The figure is heavily represented in East Asian visual culture (komainu-style stone guardians, palace iconography, and the heraldry of Buddhist temples) and remains a major motif in modern manga, anime, and video games.",
   "aliases": [
     {
       "name": "Qilin",
@@ -57,5 +58,130 @@
   "origin": "Throughout the East Asian cultural sphere — China, Japan, Korea, Vietnam — and in adjacent traditions of Mongolia, Tibet, and Thailand.",
   "first_reported": "1000 BCE",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Chinese 麒麟 (qílín), in which 麒 (qí) names the male and 麟 (lín) the female. Borrowed into Japanese as 'kirin', Korean as 'girin/kirin', and Vietnamese as 'kỳ lân'.",
+    "meaning": "An auspicious chimerical beast; literally a male/female pair-word, treated as a single species name.",
+    "first_use": "Earliest known reference is in the poem 'Lin zhi zhi' (麟之趾, 'Feet of the Lin') in the Classic of Poetry (Shijing), 11th–7th century BCE."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0,
+    "date_range": {
+      "earliest": "n/a",
+      "latest": "n/a"
+    }
+  },
+  "timeline": [
+    {
+      "date": "1000-01-01",
+      "event": "Earliest reference to the lin in the poem 'Lin zhi zhi' in the Classic of Poetry",
+      "significance": "Foundational textual attestation",
+      "source": "Shijing, Mao no. 11"
+    },
+    {
+      "date": "0481-01-01",
+      "event": "According to the Spring and Autumn Annals, a unicorn-like beast (lin) is captured during a hunt; Confucius identifies it as a lin and weeps, taking it as an omen of the Zhou dynasty's decline",
+      "significance": "Anchors the qilin in classical Confucian narrative",
+      "source": "Spring and Autumn Annals (Chunqiu)"
+    },
+    {
+      "date": "1414-09-20",
+      "event": "A giraffe brought from East Africa by the eunuch admiral Zheng He's fleet is presented to the Yongle Emperor at the Ming court and celebrated as a living qilin",
+      "significance": "Fixes the giraffe-as-kirin double meaning in East Asian languages",
+      "source": "Ming Shilu and Ming-court paintings (e.g., Shen Du's 1414 'Tribute Giraffe')"
+    },
+    {
+      "date": "1776-01-01",
+      "event": "Toriyama Sekien depicts the kirin in his Japanese yōkai-adjacent compendium imagery, contributing to the modern Japanese visual canon",
+      "significance": "Edo-period Japanese visual reception",
+      "source": "Toriyama Sekien"
+    }
+  ],
+  "related": [
+    {
+      "id": "chinese-dragon",
+      "name": "Chinese dragon",
+      "relationship": "related",
+      "description": "Companion among the Four Auspicious Beasts"
+    },
+    {
+      "id": "fenghuang",
+      "name": "Fenghuang (Chinese phoenix)",
+      "relationship": "related",
+      "description": "Another of the Four Auspicious Beasts"
+    },
+    {
+      "id": "tortoise-of-the-north",
+      "name": "Black Tortoise (Xuanwu)",
+      "relationship": "related",
+      "description": "Fourth of the auspicious quartet"
+    },
+    {
+      "id": "unicorn",
+      "name": "Western unicorn",
+      "relationship": "similar",
+      "description": "Often-compared single-horned auspicious beast of European tradition"
+    },
+    {
+      "id": "haetae",
+      "name": "Haetae (haechi)",
+      "relationship": "similar",
+      "description": "Korean lion-like auspicious beast sometimes confused with the girin"
+    }
+  ],
+  "cultural_notes": "Sign of heaven's approval; embodiment of virtue, gentleness, and just rulership.",
+  "sources": [
+    {
+      "id": "wikipedia-qilin",
+      "type": "website",
+      "title": "Qilin",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Qilin",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "britannica-qilin",
+      "type": "website",
+      "title": "Qilin",
+      "publication": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/topic/qilin",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "yokai-com-kirin",
+      "type": "website",
+      "title": "Kirin",
+      "authors": [
+        "Matthew Meyer"
+      ],
+      "publication": "yokai.com",
+      "url": "https://yokai.com/kirin/",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "church-2004",
+      "type": "paper",
+      "title": "Zheng He: An Investigation into the Plausibility of 450-ft Treasure Ships",
+      "authors": [
+        "Sally K. Church"
+      ],
+      "publication": "Monumenta Serica",
+      "date": "2005"
+    },
+    {
+      "id": "schafer-1963",
+      "type": "book",
+      "title": "The Golden Peaches of Samarkand: A Study of T'ang Exotics",
+      "authors": [
+        "Edward H. Schafer"
+      ],
+      "publication": "University of California Press",
+      "date": "1963",
+      "isbn": "978-0520054622"
+    }
+  ],
+  "locations": []
 }

@@ -3,6 +3,7 @@
   "name": "Bilocation",
   "category": "psychic_phenomena",
   "description": "The alleged psychic or miraculous ability to be — or to appear to be — physically present in two distinct places at the same time. Reported in Catholic hagiography, Hindu and Buddhist siddhi literature, and parapsychology.",
+  "full_description": "Bilocation (also called multilocation) is the alleged ability of a person, or rarely an object, to be present in two distinct physical places simultaneously. The concept appears across many religious and esoteric traditions. In the Catholic Church, bilocation is recorded as a charism of the saints, with classic cases attributed to Saint Anthony of Padua, Saint Francis Xavier, Saint Martin de Porres, the Venerable María de Ágreda, and — most famously in the 20th century — Saint Padre Pio of Pietrelcina. In Hindu and Buddhist traditions, bilocation is one of the siddhis, ascribed in the Yoga Sutras of Patanjali. Parallel concepts appear in Theosophy, Sufism, Jewish mysticism, and shamanism. Catholic theologians distinguish between substantial bilocation (the saint physically present in two places) and apparitional bilocation (a non-substantial visible double appearing while the saint remains in one place). Skeptics, including Joe Nickell and the parapsychology critic Susan Blackmore, note that no case of bilocation has been verified under controlled conditions and that all evidence is anecdotal.",
   "aliases": [
     {
       "name": "Multilocation"
@@ -39,5 +40,139 @@
   "origin": "Globally distributed in religious and folkloric tradition: Catholic Europe and Latin America (Marian apparitions, saintly bilocations), Hindu and Buddhist Asia (yogic siddhis), Norse and Finnish Europe (vardøger, etiäinen), and modern parapsychology.",
   "first_reported": "Antiquity",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "From Latin bi- ('two') + locus ('place').",
+    "meaning": "'Two-placed' — the state of being in two places at once.",
+    "first_use": "Latin theological usage from the late medieval / early modern period; English from at least the 19th century."
+  },
+  "sightings_stats": {
+    "date_range": {
+      "earliest": "Antiquity",
+      "latest": "20th century"
+    }
+  },
+  "timeline": [
+    {
+      "date": "0540 BCE",
+      "event": "Pythagoras reportedly seen at Metapontum (Italy) and Tauromenium (Sicily) on the same day",
+      "significance": "Earliest classical bilocation report",
+      "source": "Diogenes Laertius, Lives of the Eminent Philosophers (3rd century CE)"
+    },
+    {
+      "date": "1227",
+      "event": "Saint Anthony of Padua reportedly bilocates between Limoges (France) and Lisbon (Portugal) during Holy Thursday",
+      "significance": "Classic medieval Catholic case",
+      "source": "Liber Miraculorum and later hagiographies"
+    },
+    {
+      "date": "1620",
+      "event": "Spanish nun María de Ágreda reportedly bilocates from her convent in Spain to evangelise the Jumano people of New Mexico",
+      "significance": "Famous early modern case, with Spanish missionary cross-references",
+      "source": "Benavides Memorial (1630)"
+    },
+    {
+      "date": "1774-09-22",
+      "event": "Saint Alphonsus Liguori reportedly bilocates from Arezzo to be at the deathbed of Pope Clement XIV in Rome",
+      "significance": "Often-cited 18th-century case",
+      "source": "Catholic Encyclopedia"
+    },
+    {
+      "date": "1947",
+      "event": "Padre Pio reportedly bilocates to Uruguay to attend Archbishop Antonio María Barbieri",
+      "significance": "Most extensively reported 20th-century case",
+      "source": "Pasquale di Cicco testimony; Catholic biographies of Padre Pio"
+    },
+    {
+      "date": "1968-09-23",
+      "event": "Death of Padre Pio at San Giovanni Rotondo; canonised by Pope John Paul II in 2002",
+      "significance": "Modern Catholic figure most associated with bilocation",
+      "source": "Vatican Acta"
+    }
+  ],
+  "related": [
+    {
+      "id": "doppelganger",
+      "name": "Doppelgänger",
+      "relationship": "related",
+      "description": "Germanic 'double-walker' — apparition of a living person, often as an omen"
+    },
+    {
+      "id": "out-of-body-experiences",
+      "name": "Out-of-body experience",
+      "relationship": "related",
+      "description": "Subjective sense of separation from the body"
+    },
+    {
+      "id": "remote-viewing",
+      "name": "Remote viewing",
+      "relationship": "related",
+      "description": "Claimed psychic perception of distant locations"
+    },
+    {
+      "id": "crisis-apparition",
+      "name": "Crisis apparition",
+      "relationship": "related",
+      "description": "Reported appearance of a person at the moment of their death or distress"
+    },
+    {
+      "id": "psychic-phenomena",
+      "name": "Psychic phenomena (siddhis)",
+      "relationship": "superset",
+      "description": "Yogic and parapsychological category to which bilocation belongs"
+    }
+  ],
+  "cultural_notes": "Bilocation continues to be cited in popular Catholic devotion, particularly around the Padre Pio cult; it is treated metaphorically in modern psychic and New Age literature.",
+  "sources": [
+    {
+      "id": "wikipedia-bilocation",
+      "type": "website",
+      "title": "Bilocation",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Bilocation",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "agreda-mystical-city",
+      "type": "book",
+      "title": "Mystical City of God",
+      "authors": [
+        "María de Ágreda"
+      ],
+      "publication": "(posthumous)",
+      "date": "1670"
+    },
+    {
+      "id": "tannoia-1798",
+      "type": "book",
+      "title": "Vita di Sant'Alfonso Maria de'Liguori",
+      "authors": [
+        "Antonio Tannoia"
+      ],
+      "publication": "Naples",
+      "date": "1798"
+    },
+    {
+      "id": "ruffin-1991",
+      "type": "book",
+      "title": "Padre Pio: The True Story",
+      "authors": [
+        "C. Bernard Ruffin"
+      ],
+      "publication": "Our Sunday Visitor",
+      "date": "1991",
+      "isbn": "978-0879734305"
+    },
+    {
+      "id": "patanjali-yoga-sutras",
+      "type": "book",
+      "title": "Yoga Sutras of Patanjali",
+      "authors": [
+        "Patanjali"
+      ],
+      "publication": "(classical Sanskrit)",
+      "date": "c. 400"
+    }
+  ],
+  "locations": []
 }

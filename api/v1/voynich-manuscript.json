@@ -3,6 +3,7 @@
   "name": "Voynich Manuscript",
   "category": "cultural_artifact",
   "description": "An illustrated 15th-century codex written in an unidentified script and held since 1969 at Yale University's Beinecke Rare Book and Manuscript Library as MS 408; its language and meaning have not been deciphered despite more than a century of expert study.",
+  "full_description": "The Voynich Manuscript (Beinecke MS 408) is a hand-written illustrated codex on vellum whose calfskin support has been radiocarbon-dated to 1404–1438 by University of Arizona researchers (2009). It comprises roughly 240 surviving pages measuring approximately 23.5 × 16.2 × 5 cm, bound in a non-original goatskin cover, and contains approximately 38,000 words written in an unknown script informally called 'Voynichese', accompanied by colored illustrations of unidentified plants, astronomical and cosmological diagrams, balneological scenes featuring nude female figures in elaborate water systems, and pharmaceutical recipes. The contents are conventionally divided into six sections: herbal, astronomical, balneological, cosmological, pharmaceutical, and recipes. Despite a century of intense study by professional cryptographers — including William F. Friedman and Elizebeth Friedman, John Tiltman, and Prescott Currier — and by linguists, computer scientists, and historians, no proposed decipherment has gained scholarly consensus. Major hypotheses are that the text is an enciphered natural language, an unknown natural language, a constructed (artificial) language, an elaborate hoax of meaningless filler, or some form of glossolalia. The manuscript is named for Wilfrid Voynich, the Polish-Lithuanian-American book dealer who acquired it in 1912 from the Society of Jesus at the Villa Mondragone (Frascati, Italy), and was donated to Yale in 1969 by Hans P. Kraus.",
   "aliases": [
     {
       "name": "Beinecke MS 408",
@@ -37,5 +38,139 @@
   "origin": "A single physical artifact whose ownership and physical location have moved across central Europe and the United States; the surrounding research community is global.",
   "first_reported": "1404-1438",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Named for Wilfrid Michael Voynich (1865–1930), the Polish-American antiquarian book dealer who acquired the manuscript in 1912.",
+    "meaning": "Strictly speaking the proper name of an artifact rather than a description; the term 'Voynichese' is used informally for the manuscript's script.",
+    "first_use": "1912 (acquisition by Voynich); the term 'Voynich Manuscript' becomes standard in 20th-century scholarship."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "1404-01-01",
+      "event": "Earliest end of the radiocarbon date range for the vellum",
+      "significance": "Earliest plausible production date",
+      "source": "University of Arizona radiocarbon dating (2009)"
+    },
+    {
+      "date": "1438-01-01",
+      "event": "Latest end of the radiocarbon date range for the vellum",
+      "significance": "Latest plausible production date",
+      "source": "University of Arizona radiocarbon dating (2009)"
+    },
+    {
+      "date": "1665-08-19",
+      "event": "Jan Marek Marci of Kronland sends the manuscript with a covering letter to Athanasius Kircher in Rome",
+      "significance": "Earliest precisely-dated documentary attestation",
+      "source": "Marci letter to Kircher (1665), preserved with the manuscript"
+    },
+    {
+      "date": "1912-01-01",
+      "event": "Wilfrid Voynich purchases the manuscript from the Society of Jesus at the Villa Mondragone",
+      "significance": "Re-introduces the manuscript to public scholarship and gives it its modern name",
+      "source": "Voynich provenance documentation"
+    },
+    {
+      "date": "1921-04-21",
+      "event": "William Romaine Newbold presents his decipherment claim to the College of Physicians of Philadelphia",
+      "significance": "First high-profile decipherment claim; later refuted by John M. Manly in 1931",
+      "source": "Newbold (1921); Manly (1931), Speculum"
+    },
+    {
+      "date": "1969-01-01",
+      "event": "Hans P. Kraus donates the manuscript to Yale University's Beinecke Library",
+      "significance": "Establishes the present custody and shelfmark MS 408",
+      "source": "Beinecke Library accession records"
+    },
+    {
+      "date": "2009-02-09",
+      "event": "Radiocarbon dating of vellum at the University of Arizona dates the manuscript to 1404–1438",
+      "significance": "Eliminates the hypothesis that Wilfrid Voynich himself fabricated the manuscript",
+      "source": "University of Arizona / Beinecke Library (2009)"
+    },
+    {
+      "date": "2020-01-01",
+      "event": "Linguist Claire Bowern and colleagues publish statistical analyses of Voynichese",
+      "significance": "Recent computational research finding language-like statistical structure",
+      "source": "Bowern et al., scholarly literature"
+    }
+  ],
+  "related": [
+    {
+      "id": "rohonc-codex",
+      "name": "Rohonc Codex",
+      "relationship": "similar",
+      "description": "Hungarian undeciphered manuscript"
+    },
+    {
+      "id": "codex-seraphinianus",
+      "name": "Codex Seraphinianus",
+      "relationship": "similar",
+      "description": "Modern (1981) imaginary-language illustrated codex by Luigi Serafini"
+    },
+    {
+      "id": "phaistos-disc",
+      "name": "Phaistos Disc",
+      "relationship": "similar",
+      "description": "Bronze Age undeciphered inscribed clay disc"
+    },
+    {
+      "id": "linear-a",
+      "name": "Linear A",
+      "relationship": "similar",
+      "description": "Undeciphered Minoan script"
+    }
+  ],
+  "cultural_notes": "The Voynich Manuscript has accumulated a popular reputation as a 'cursed' or 'magical' book; mainstream scholarship treats it as a genuine but not-yet-understood early 15th-century artifact.",
+  "sources": [
+    {
+      "id": "wikipedia-voynich",
+      "type": "website",
+      "title": "Voynich manuscript",
+      "url": "https://en.wikipedia.org/wiki/Voynich_manuscript",
+      "publication": "Wikipedia",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "beinecke-ms408",
+      "type": "archive",
+      "title": "Beinecke MS 408 (Voynich Manuscript)",
+      "url": "https://collections.library.yale.edu/catalog/2002046",
+      "publication": "Yale University Beinecke Rare Book and Manuscript Library",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "dimperio-1978",
+      "type": "book",
+      "title": "The Voynich Manuscript: An Elegant Enigma",
+      "authors": [
+        "Mary E. D'Imperio"
+      ],
+      "publication": "National Security Agency",
+      "date": "1978"
+    },
+    {
+      "id": "clemens-2016",
+      "type": "book",
+      "title": "The Voynich Manuscript",
+      "authors": [
+        "Raymond Clemens"
+      ],
+      "publication": "Yale University Press",
+      "date": "2016",
+      "isbn": "978-0300217230"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Beinecke Rare Book and Manuscript Library",
+      "lat": 41.3115,
+      "lng": -72.9269
+    }
+  ]
 }

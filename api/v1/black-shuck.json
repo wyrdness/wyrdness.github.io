@@ -3,6 +3,7 @@
   "name": "Black Shuck",
   "category": "cryptid",
   "description": "Black Shuck is a spectral black dog from East Anglian folklore, associated with the coastlines and country roads of Norfolk, Suffolk, and neighboring counties, traditionally regarded as a death omen whose sighting presages death within a year.",
+  "full_description": "Black Shuck is the most famous of the British black dog phenomena, a ghostly or supernatural hound reported across the East Anglian counties of Norfolk, Suffolk, Cambridgeshire, and Essex. Descriptions are notably variable: the creature ranges from a large black dog to something the size of a horse or calf, with glowing red, green, or fiery eyes — sometimes a single eye in the center of its head. It moves silently despite its size. The most famous account concerns the incident at two Suffolk churches on August 4, 1577: during a violent thunderstorm, a large black dog reportedly burst through the doors of Holy Trinity Church in Blythburgh, killed two worshippers, and caused the steeple to collapse, leaving scorch marks visible on the north church door to this day. A similar appearance was reported simultaneously at St Mary's Church in Bungay, where the creature allegedly killed two parishioners and burned a third. These events were documented by Abraham Fleming in a 1577 pamphlet. An 1901 account from Norfolk describes the creature as 'a huge black dog' with a single fiery central eye, prowling dark lanes in complete silence but capable of a blood-chilling howl. Despite its death-omen reputation, some regional accounts describe Black Shuck as neutral or even protective — accompanying solitary travelers safely along lonely roads before disappearing. The name derives from Old English 'scucca', meaning 'devil' or 'fiend'. The first printed reference appeared in Reverend E. S. Taylor's 1850 contribution to Notes and Queries. Arthur Conan Doyle drew on Black Shuck and related black dog legends for his 1902 novel 'The Hound of the Baskervilles'.",
   "aliases": [
     {
       "name": "Old Shuck",
@@ -57,5 +58,110 @@
   "origin": "Black Shuck is associated primarily with the East Anglian counties of Norfolk, Suffolk, Cambridgeshire, and Essex. Related black dog traditions exist across the British Isles, and the phenomenon has been documented from the Highlands to the West Country, but Black Shuck is specifically the East Anglian form.",
   "first_reported": "1577-08-04",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "The name 'Shuck' derives from Old English 'scucca', meaning 'devil' or 'fiend', potentially rooted in a word meaning 'to terrify.' The 'Black' in the name refers to the creature's color. The first printed use of the name 'Black Shuck' appeared in Reverend E. S. Taylor's 1850 contribution to Notes and Queries.",
+    "meaning": "Black devil / black fiend; the spectral black dog of East Anglia.",
+    "first_use": "First printed reference: Reverend E. S. Taylor, Notes and Queries (1850)"
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0,
+    "date_range": {
+      "earliest": "1127",
+      "latest": "2026"
+    }
+  },
+  "timeline": [
+    {
+      "date": "1127-01-01",
+      "event": "The Peterborough Chronicle records an account of 'black huntsmen' and large black hounds observed in the area — an early East Anglian black dog / Wild Hunt account",
+      "significance": "Pre-dates the named Black Shuck tradition; establishes the regional presence of supernatural black dog belief",
+      "source": "Peterborough Chronicle (12th century)"
+    },
+    {
+      "date": "1577-08-04",
+      "event": "A large black dog reportedly bursts through the doors of Holy Trinity Church in Blythburgh, Suffolk, during a violent thunderstorm, killing two worshippers and causing the steeple to collapse; a simultaneous appearance at St Mary's Church in Bungay kills two and burns one. Abraham Fleming documents both events in a pamphlet published the same year.",
+      "significance": "The most dramatic and best-documented Black Shuck event; the Blythburgh church door scorch marks are still shown to visitors",
+      "source": "Fleming, A. (1577), 'A Straunge and Terrible Wunder'"
+    },
+    {
+      "date": "1850-01-01",
+      "event": "Reverend E. S. Taylor contributes the first printed use of the name 'Black Shuck' to Notes and Queries",
+      "significance": "Establishes the creature's name in print; triggers subsequent documented collection of accounts",
+      "source": "Taylor, E. S. (1850), Notes and Queries"
+    },
+    {
+      "date": "1901-01-01",
+      "event": "A Norfolk account describes Black Shuck as 'a huge black dog' with a single fiery eye in the center of its head, prowling dark lanes in silence",
+      "significance": "One of the most detailed early 20th-century accounts; establishes the single central eye variant",
+      "source": "Norfolk folklore collection (1901)"
+    }
+  ],
+  "related": [
+    {
+      "id": "barguest",
+      "name": "Barguest",
+      "relationship": "regional_variant",
+      "description": "Yorkshire spectral black dog; another major British black dog tradition"
+    },
+    {
+      "id": "gwyllgi",
+      "name": "Gwyllgi",
+      "relationship": "regional_variant",
+      "description": "Welsh 'Dog of Darkness' — a similar spectral black dog from Welsh tradition"
+    },
+    {
+      "id": "cu-sith",
+      "name": "Cu Sith",
+      "relationship": "regional_variant",
+      "description": "Scottish Gaelic spectral dog, though typically green rather than black"
+    },
+    {
+      "id": "wild-hunt",
+      "name": "Wild Hunt",
+      "relationship": "related",
+      "description": "Earlier accounts connect Black Shuck to the Wild Hunt tradition; a 12th-century Peterborough account describes black huntsmen and hounds"
+    },
+    {
+      "id": "hellhound",
+      "name": "Hellhound (general)",
+      "relationship": "superset",
+      "description": "Black Shuck is the English East Anglian instance of the global hellhound / spectral dog tradition"
+    }
+  ],
+  "cultural_notes": "In East Anglian tradition, encountering Black Shuck was primarily understood as a death omen. The Blythburgh church door marks are treated as genuine physical evidence of the creature's visit. Some regional accounts present a more ambiguous creature capable of protection as well as harm.",
+  "sources": [
+    {
+      "id": "fleming-1577",
+      "type": "archive",
+      "title": "A Straunge and Terrible Wunder",
+      "authors": [
+        "Abraham Fleming"
+      ],
+      "date": "1577",
+      "notes": "Primary source for the 1577 Bungay and Blythburgh church incidents"
+    },
+    {
+      "id": "wikipedia-black-shuck",
+      "type": "website",
+      "title": "Black Shuck",
+      "url": "https://en.wikipedia.org/wiki/Black_Shuck",
+      "accessed": "2026-05-08"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Blythburgh, Holy Trinity Church",
+      "lat": 52.33,
+      "lng": 1.6
+    },
+    {
+      "name": "Bungay, St Mary's Church",
+      "lat": 52.46,
+      "lng": 1.44
+    }
+  ]
 }

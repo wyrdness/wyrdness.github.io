@@ -3,6 +3,7 @@
   "name": "Phi Tai Hong",
   "category": "ghost_haunting",
   "description": "A vengeful ghost in Thai folklore arising from a person who died suddenly or violently — by murder, accident, drowning, suicide, or childbirth — and was unable to perform proper funeral rites, leaving the spirit angry and unwilling to depart.",
+  "full_description": "Phi Tai Hong (Thai: ผีตายโหง) is one of the most feared classes of ghost in Thai supernatural belief. The compound 'tai hong' refers to dying an unnatural and violent death — by murder, drowning, accident, suicide, or other sudden cause — and the term emphasizes both the great suffering and the unexpectedness of the death. Such a death is held to prevent the spirit from passing peacefully to the next existence; instead it remains earthbound, full of resentment and unfulfilled desire, and may seek vengeance on those it holds responsible. Phi Tai Hong are described as especially dangerous in the first seven days after death, when they are most active and may try to kill others in the same manner they themselves died. The most violent variant is Tai Thang Klom — the ghost of a pregnant woman who died together with her unborn child — which is regarded as carrying the power of two spirits at once. Belief in Phi Tai Hong is rooted in Theravāda Buddhist concerns about the importance of proper death rites and a peaceful state of mind at the moment of dying. The figure has become a staple of Thai horror cinema, comics, and television.",
   "aliases": [
     {
       "name": "ผีตายโหง",
@@ -42,5 +43,98 @@
   "origin": "Thailand and culturally adjacent Tai-speaking regions of mainland Southeast Asia.",
   "first_reported": "Ayutthaya period (17th century)",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Thai. 'Phi' (ผี) = ghost; 'tai' (ตาย) = to die; 'hong' (โหง) is glossed as combining the senses of great suffering and suddenness/unexpectedness.",
+    "meaning": "'The ghost that died unexpectedly and violently'.",
+    "first_use": "Traditional Thai usage; documented at least since the Ayutthaya period via 17th-century European observers."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0,
+    "date_range": {
+      "earliest": "17th century",
+      "latest": "2026"
+    }
+  },
+  "timeline": [
+    {
+      "date": "17th century",
+      "event": "Jeremias van Vliet documents beliefs about violent-death spirits in Ayutthaya, including reported practices of burying pregnant women alive beneath fortifications to create protective spirits",
+      "significance": "Earliest European-language documentation of Thai bad-death ghost traditions",
+      "source": "van Vliet, J. (17th c.), accounts of Ayutthaya"
+    },
+    {
+      "date": "1999-04-01",
+      "event": "Release of Nonzee Nimibutr's film 'Nang Nak'",
+      "significance": "Modern blockbuster retelling of the Mae Nak legend — the archetypal Tai Thang Klom — re-popularizing Phi Tai Hong in Thai cinema",
+      "source": "Thai film industry records"
+    },
+    {
+      "date": "2003-10-08",
+      "event": "Release of 'Buppah Rahtree', a Thai comedy-horror centered on a Phi Tai Hong haunting",
+      "significance": "Introduces the figure to a new generation; spawns sequels",
+      "source": "Thai film industry records"
+    },
+    {
+      "date": "2010",
+      "event": "Release of the Thai film 'Tai Hong' ('Still')",
+      "significance": "Anthology film built explicitly around violent-death ghosts",
+      "source": "Thai film industry records"
+    }
+  ],
+  "related": [
+    {
+      "id": "mae-nak",
+      "name": "Mae Nak Phra Khanong",
+      "relationship": "related",
+      "description": "Thailand's most famous individual ghost, herself a Tai Thang Klom (woman who died in childbirth)"
+    },
+    {
+      "id": "phi-tai-thang-klom",
+      "name": "Phi Tai Thang Klom",
+      "relationship": "subset",
+      "description": "Pregnant-death subtype of Phi Tai Hong, considered the most dangerous form"
+    },
+    {
+      "id": "onryo",
+      "name": "Onryō",
+      "relationship": "counterpart",
+      "description": "Japanese vengeful ghost arising from violent or wronged death"
+    },
+    {
+      "id": "pontianak",
+      "name": "Pontianak / Kuntilanak",
+      "relationship": "similar",
+      "description": "Malay/Indonesian vengeful ghost of a woman who died in pregnancy or childbirth"
+    },
+    {
+      "id": "hungry-ghost",
+      "name": "Hungry ghost (preta)",
+      "relationship": "related",
+      "description": "Buddhist concept of an earthbound spirit with unfulfilled desires"
+    }
+  ],
+  "cultural_notes": "A violent or sudden death without proper rites produces a dangerous spirit that must be appeased through Buddhist merit-making and ritual.",
+  "sources": [
+    {
+      "id": "wikipedia-phi-tai-hong",
+      "type": "website",
+      "title": "Phi Tai Hong",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Phi_Tai_Hong",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "wikipedia-ghosts-thai",
+      "type": "website",
+      "title": "Ghosts in Thai culture",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ghosts_in_Thai_culture",
+      "accessed": "2026-05-07"
+    }
+  ],
+  "locations": []
 }

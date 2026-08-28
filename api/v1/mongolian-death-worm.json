@@ -3,6 +3,7 @@
   "name": "Mongolian Death Worm",
   "category": "cryptid",
   "description": "The Mongolian Death Worm (olgoi-khorkhoi, 'large intestine worm') is a cryptid said to inhabit the Gobi Desert of Mongolia, described by Mongolian herders as a thick, dark-red, intestine-like worm credited with the ability to kill at a distance.",
+  "full_description": "The Mongolian Death Worm, called olgoi-khorkhoi (олгой-хорхой, 'large intestine worm') in Mongolian, is a cryptid reported from the Gobi Desert. According to Mongolian herders' accounts, the creature is roughly two feet (0.6 m) long, dark red, sausage-shaped, with no clearly distinguishable head or legs, resembling a section of cow intestine. It is said to live underground in the most desolate parts of the western or southern Gobi, surfacing rarely (sometimes after rainfall or near water sources) and producing detectable sand waves as it moves. It is credited in folklore with the ability to kill at a distance via venom-spraying or electric discharge. Western awareness of the legend dates to American naturalist and explorer Roy Chapman Andrews, whose 1926 book On the Trail of Ancient Man recounted second-hand accounts (notably from then-Prime Minister Damdinbazar in 1922) while expressing personal skepticism. Multiple expeditions have searched for the creature, including those of Czech researcher Ivan Mackerle (1990 and 1992), the Centre for Fortean Zoology (Richard Freeman, 2005), Destination Truth (2006-2007), and David Farrier (2009). None has produced physical evidence, and a 1983 study reported that locals identified the Tartar sand boa (Eryx tataricus) as a likely zoological referent for some descriptions.",
   "aliases": [
     {
       "name": "Olgoi-khorkhoi",
@@ -38,5 +39,102 @@
   "origin": "The most desolate parts of the Gobi Desert, principally in southern and western Mongolia, with adjacent ranges sometimes mentioned in folklore.",
   "first_reported": "1922",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Mongolian olgoi (large intestine) + khorkhoi (worm).",
+    "meaning": "'Large intestine worm', from the creature's likeness to a section of cow intestine.",
+    "first_use": "Mongolian oral tradition; first widely cited Western use in Roy Chapman Andrews' 1926 book On the Trail of Ancient Man."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "1922",
+      "event": "Mongolian Prime Minister Damdinbazar describes the olgoi-khorkhoi to American explorer Roy Chapman Andrews",
+      "significance": "Earliest documented Western record",
+      "source": "Andrews, R. C. (1926), On the Trail of Ancient Man"
+    },
+    {
+      "date": "1926",
+      "event": "Andrews publishes On the Trail of Ancient Man, recounting Mongolian Death Worm legends while expressing personal skepticism",
+      "significance": "First Western popularisation of the legend",
+      "source": "Andrews, R. C. (1926)"
+    },
+    {
+      "date": "1983",
+      "event": "A study reports that local interview subjects identify the Tartar sand boa (Eryx tataricus) as a likely match for some olgoi-khorkhoi descriptions",
+      "significance": "Earliest serious zoological identification candidate",
+      "source": "Per Wikipedia: Mongolian death worm"
+    },
+    {
+      "date": "1990",
+      "event": "Czech researcher Ivan Mackerle leads a Gobi expedition using motor-driven 'thumpers'",
+      "significance": "Best-known Western expedition",
+      "source": "Wikipedia: Mongolian death worm"
+    },
+    {
+      "date": "1992",
+      "event": "Mackerle returns to the Gobi for a second expedition",
+      "significance": "Continuation of the Western expedition era",
+      "source": "Wikipedia: Mongolian death worm"
+    },
+    {
+      "date": "2005",
+      "event": "Centre for Fortean Zoology (Richard Freeman) expedition concludes the Tartar sand boa or worm lizards (amphisbaena) are the most plausible referents",
+      "significance": "Cryptozoological-skeptic conclusion",
+      "source": "Wikipedia: Mongolian death worm"
+    },
+    {
+      "date": "2009",
+      "event": "New Zealand journalist David Farrier visits Mongolia for an investigation; finds no evidence and notes that local sightings reportedly peaked in the 1950s",
+      "significance": "Modern journalistic investigation",
+      "source": "Wikipedia: Mongolian death worm"
+    }
+  ],
+  "related": [
+    {
+      "id": "minhocao",
+      "name": "Minhocão",
+      "relationship": "similar",
+      "description": "Brazilian giant earthworm cryptid"
+    },
+    {
+      "id": "hoopsnake",
+      "name": "Hoop snake",
+      "relationship": "similar",
+      "description": "American folkloric serpent with mythical abilities"
+    },
+    {
+      "id": "buru",
+      "name": "Buru",
+      "relationship": "related",
+      "description": "Indian Himalayan aquatic cryptid"
+    }
+  ],
+  "cultural_notes": "Mongolian herders are described as genuinely fearing the olgoi-khorkhoi and advising travellers to avoid it.",
+  "sources": [
+    {
+      "id": "wikipedia-mongolian-death-worm",
+      "type": "website",
+      "title": "Mongolian death worm",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Mongolian_death_worm",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "andrews-1926",
+      "type": "book",
+      "title": "On the Trail of Ancient Man",
+      "authors": [
+        "Roy Chapman Andrews"
+      ],
+      "publication": "G. P. Putnam's Sons",
+      "date": "1926"
+    }
+  ],
+  "locations": []
 }

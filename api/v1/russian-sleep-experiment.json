@@ -3,6 +3,7 @@
   "name": "The Russian Sleep Experiment",
   "category": "urban_legend",
   "description": "A widely-shared internet horror story, posted to the Creepypasta Wiki on 10 August 2010, framed as a declassified record of a Soviet experiment in which prisoners kept awake for 15 days by a stimulant gas descend into psychotic violence. It is fiction; investigations by Snopes and others have repeatedly confirmed there is no such Soviet experiment.",
+  "full_description": "'The Russian Sleep Experiment' is one of the most-shared horror creepypastas of the early internet era. Originally posted on 10 August 2010 to the Creepypasta Wiki by a user with the handle 'OrangeSoda', the story claims to be a leaked record of a Soviet research project conducted between 1940 and 1951 in which five political prisoners are kept awake for fifteen days by a stimulant gas, sealed in a chamber and observed via microphone and one-way glass. The text describes the subjects' progressive psychosis, paranoid hallucinations, refusal to be allowed to sleep, self-mutilation, evisceration, and apparent transformation into superhumanly strong, near-immortal creatures. The story circulated on Reddit, YouTube narrations, Tumblr and link-aggregators, and is widely re-shared as if it were a genuine Soviet record. It is, however, fiction: there is no archival or scientific evidence of such an experiment, and Snopes, news.com.au, LiveAbout and the Creepypasta Wiki itself classify it as fabricated. The story has nonetheless been hugely influential, generating multiple novels and at least two feature-film adaptations and serving as a paradigm case of mistaken-for-true internet folklore in academic discussions of digital legend.",
   "aliases": [
     {
       "name": "Soviet Sleep Experiment"
@@ -28,5 +29,110 @@
   "origin": "Internet-native phenomenon: originated on the Creepypasta Wiki and spread through English-language forums, Reddit, YouTube and Tumblr; subsequently translated into many languages.",
   "first_reported": "2010-08-10",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Internet horror-fiction subculture (creepypasta), originally on the Creepypasta Wiki",
+    "meaning": "'Creepypasta' is a portmanteau of 'creepy' + 'copypasta' (text copy-pasted across forums); 'Russian Sleep Experiment' is descriptive of the framing.",
+    "first_use": "10 August 2010 on the Creepypasta Wiki"
+  },
+  "sightings_stats": {
+    "total_documented": 1,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 1,
+    "date_range": {
+      "earliest": "2010-08-10",
+      "latest": "2010-08-10"
+    }
+  },
+  "timeline": [
+    {
+      "date": "2010-08-10",
+      "event": "User 'OrangeSoda' posts 'The Russian Sleep Experiment' on the Creepypasta Wiki",
+      "significance": "Canonical first publication",
+      "source": "Creepypasta Wiki edit history"
+    },
+    {
+      "date": "2014-01-01",
+      "event": "Story spreads on YouTube horror narration channels with millions of cumulative views",
+      "significance": "Peak viral phase; many viewers begin sharing it as a genuine Soviet record",
+      "source": "Snopes (2019)"
+    },
+    {
+      "date": "2019-01-01",
+      "event": "Snopes publishes fact-check confirming the story is fiction",
+      "significance": "Authoritative debunking widely cited thereafter",
+      "source": "Snopes.com"
+    },
+    {
+      "date": "2022-01-01",
+      "event": "Feature film adaptation 'The Soviet Sleep Experiment' (dir. Barry Andersson) is released, starring Chris Kattan",
+      "significance": "High-profile screen adaptation",
+      "source": "IMDb / press coverage"
+    }
+  ],
+  "related": [
+    {
+      "id": "scp-foundation",
+      "name": "SCP Foundation",
+      "relationship": "similar",
+      "description": "Faux-clinical horror fiction in document form, contemporaneous with the Russian Sleep Experiment in early creepypasta culture"
+    },
+    {
+      "id": "slender-man",
+      "name": "Slender Man",
+      "relationship": "similar",
+      "description": "Major 2009-era internet legend, frequently cited alongside the Russian Sleep Experiment in studies of digital folklore"
+    },
+    {
+      "id": "philadelphia-experiment",
+      "name": "Philadelphia Experiment",
+      "relationship": "similar",
+      "description": "Earlier 'secret government experiment' urban legend with comparable plausibility-by-redaction structure"
+    },
+    {
+      "id": "mk-ultra",
+      "name": "MKULTRA",
+      "relationship": "related",
+      "description": "Real Cold-War psychological-experimentation programme often invoked to lend false plausibility to the Russian Sleep Experiment"
+    }
+  ],
+  "cultural_notes": "Frequently mistaken for a genuine Soviet record by casual readers; treated by online horror communities as a canonical fictional reference.",
+  "sources": [
+    {
+      "id": "wikipedia-russian-sleep-experiment",
+      "type": "website",
+      "title": "Russian Sleep Experiment — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Russian_Sleep_Experiment",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "creepypasta-wiki",
+      "type": "website",
+      "title": "The Russian Sleep Experiment",
+      "publication": "Creepypasta Wiki",
+      "url": "https://creepypasta.fandom.com/wiki/The_Russian_Sleep_Experiment",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "snopes-rse",
+      "type": "website",
+      "title": "Did the 'Russian Sleep Experiment' Really Happen?",
+      "publication": "Snopes",
+      "url": "https://www.snopes.com/fact-check/russian-sleep-experiment/",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "bates-2019",
+      "type": "book",
+      "title": "The Sleep Experiment",
+      "authors": [
+        "Jeremy Bates"
+      ],
+      "publication": "Ghillinnein Books",
+      "date": "2019",
+      "isbn": "978-1988091365"
+    }
+  ],
+  "locations": []
 }

@@ -3,6 +3,7 @@
   "name": "Sleipnir",
   "category": "mythological_creature",
   "description": "In Norse mythology, Sleipnir is the eight-legged grey horse of Odin, son of the trickster god Loki and the stallion Svaðilfari. He is described as the best of horses and is attested in both the Poetic Edda and the Prose Edda.",
+  "full_description": "Sleipnir (Old Norse, conventionally translated 'the slipper' or 'the slipping one') is one of the most famous animals in Norse mythology: the eight-legged grey stallion ridden by Odin, the chief of the Æsir. According to the Prose Edda's Gylfaginning, Sleipnir was conceived when Loki, in the form of a mare, distracted the stallion Svaðilfari from his work on the unnamed builder's wall around Asgard, and later gave birth to the foal. The horse is repeatedly described as the swiftest and best of horses, capable of carrying riders between the worlds — most famously when Hermóðr rides Sleipnir on a nine-night journey to Hel to plead for Baldr's release. Sleipnir appears in several Eddic poems (Grímnismál, Sigrdrífumál, Baldrs draumar, Hyndluljóð), in Snorri Sturluson's Prose Edda (Gylfaginning chs. 15, 41–42, 49; Skáldskaparmál), in legendary sagas such as Hervarar saga and Völsunga saga, and in Saxo Grammaticus's Gesta Danorum. Two 8th-century Gotlandic image stones — the Tjängvide stone and Ardre VIII — depict eight-legged horses with mounted riders, often interpreted as Sleipnir bearing Odin. Modern scholars including Hilda Ellis Davidson and John Lindow discuss possible shamanic and Indo-European parallels for the eight-legged horse motif.",
   "aliases": [
     {
       "name": "Sleipnir",
@@ -29,5 +30,115 @@
   "origin": "As a mythological figure, Sleipnir 'inhabits' the cosmological geography of Old Norse religion. The textual and material attestations are concentrated in medieval Iceland and in Viking-Age Scandinavia (especially Gotland).",
   "first_reported": "0700",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Old Norse Sleipnir, related to the verb sleipr ('slippery, smooth-running').",
+    "meaning": "Conventionally glossed as 'the slipper' or 'the slipping/gliding one'; emphasises speed and smooth movement.",
+    "first_use": "Attested in 13th-century Old Norse manuscripts of the Poetic Edda and Snorri Sturluson's Prose Edda; the underlying tradition is older."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0,
+    "date_range": {
+      "earliest": "8th century (artistic depiction)",
+      "latest": "13th century (manuscript)"
+    }
+  },
+  "timeline": [
+    {
+      "date": "0750-01-01",
+      "event": "Tjängvide image stone is carved on Gotland, depicting an eight-legged horse with rider",
+      "significance": "Earliest material attestation of the eight-legged horse motif in Norse art",
+      "source": "Tjängvide image stone (Swedish History Museum)"
+    },
+    {
+      "date": "1220-01-01",
+      "event": "Snorri Sturluson composes the Prose Edda, including detailed accounts of Sleipnir in Gylfaginning",
+      "significance": "Definitive medieval narrative source",
+      "source": "Snorri Sturluson, Prose Edda (Gylfaginning, Skáldskaparmál)"
+    },
+    {
+      "date": "1270-01-01",
+      "event": "Codex Regius of the Poetic Edda is compiled in Iceland, preserving Eddic poems referencing Sleipnir",
+      "significance": "Codifies the poetic tradition",
+      "source": "Codex Regius (GKS 2365 4to)"
+    }
+  ],
+  "related": [
+    {
+      "id": "odin",
+      "name": "Odin",
+      "relationship": "related",
+      "description": "Sleipnir's rider; the chief Norse god"
+    },
+    {
+      "id": "loki",
+      "name": "Loki",
+      "relationship": "related",
+      "description": "Mother of Sleipnir (transformed into a mare)"
+    },
+    {
+      "id": "pegasus",
+      "name": "Pegasus",
+      "relationship": "similar",
+      "description": "Greek divine winged horse — analogous as a divine equine"
+    },
+    {
+      "id": "uchchaihshravas",
+      "name": "Uchchaihshravas",
+      "relationship": "similar",
+      "description": "Hindu seven-headed flying divine horse"
+    }
+  ],
+  "cultural_notes": "Within Old Norse religion Sleipnir is a real figure of sacred narrative, not a metaphor; in modern reception he is an iconic mythological figure rather than a believed-in being.",
+  "sources": [
+    {
+      "id": "wikipedia-sleipnir",
+      "type": "website",
+      "title": "Sleipnir",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sleipnir",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "snorri-prose-edda",
+      "type": "book",
+      "title": "Edda (Prose Edda)",
+      "authors": [
+        "Snorri Sturluson"
+      ],
+      "date": "1220"
+    },
+    {
+      "id": "poetic-edda",
+      "type": "book",
+      "title": "Poetic Edda (Codex Regius, GKS 2365 4to)",
+      "date": "1270"
+    },
+    {
+      "id": "lindow-2001",
+      "type": "book",
+      "title": "Norse Mythology: A Guide to the Gods, Heroes, Rituals, and Beliefs",
+      "authors": [
+        "John Lindow"
+      ],
+      "publication": "Oxford University Press",
+      "date": "2001",
+      "isbn": "978-0195153828"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Tjängvide image stone",
+      "lat": 57.3,
+      "lng": 18.65
+    },
+    {
+      "name": "Ardre VIII image stone",
+      "lat": 57.31,
+      "lng": 18.79
+    }
+  ]
 }

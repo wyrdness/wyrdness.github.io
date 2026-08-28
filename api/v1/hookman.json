@@ -3,6 +3,7 @@
   "name": "The Hookman",
   "category": "urban_legend",
   "description": "A classic American urban legend in which a couple parked at a lovers' lane flee from a radio-warned escaped killer with a hook for a hand and find his hook torn off and dangling from the car door handle.",
+  "full_description": "The Hookman (also called 'The Hook' or 'The Hook Man') is a classic American urban legend that began circulating in the 1950s and was widely told among teenagers by 1959. In its standard form, a young couple is parked at a remote lovers' lane when a radio bulletin announces that a dangerous prisoner — variously a serial killer or escaped patient from a mental institution — has just escaped, identifiable by a hook in place of one hand. The girl insists they leave; the boy reluctantly drives off. When they arrive home and the boy walks around to open her door, they find a bloody hook hanging from the handle. The legend was first published, so far as documented, in the 'Dear Abby' advice column on 8 November 1960, and was treated as a foundational example by folklorists including Jan Harold Brunvand, who placed it at the centre of his 1981 The Vanishing Hitchhiker. Folklorists have read the legend as a coded warning to teenagers about isolated places and adolescent sexuality (Alan Dundes), as a contest between conventional and deviant social actors (Bengt af Klintberg), and as a moralistic 'custodian' tale (Bill Ellis). The Hookman has been a recurring template in modern horror cinema and television, including a hook-wielding killer in I Know What You Did Last Summer (1997) and episodes of Supernatural and Community.",
   "aliases": [
     {
       "name": "The Hook",
@@ -37,5 +38,106 @@
   "origin": "American urban legend with countless local variants throughout the contiguous United States; the legend has also circulated in Canada and the United Kingdom.",
   "first_reported": "1960-11-08",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "American English. The character is identified by his prosthetic hook in place of a hand; 'hookman' is a descriptive nickname rather than a proper name.",
+    "meaning": "'The man with the hook'; a hook-handed killer character in an urban-legend script.",
+    "first_use": "Circulating orally in the United States from the early-to-mid 1950s; first documented in print in 1960 in the 'Dear Abby' newspaper column."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "1959-01-01",
+      "event": "By 1959, the Hookman story is described by folklorists as widespread among American teenagers",
+      "significance": "Marks the legend's transition from local oral story to nationally distributed urban legend",
+      "source": "Jan Harold Brunvand, The Vanishing Hitchhiker (1981), citing earlier oral evidence"
+    },
+    {
+      "date": "1960-11-08",
+      "event": "First documented printed version of the Hookman legend appears in the 'Dear Abby' column, attributed to a reader 'Jeanette'",
+      "significance": "Earliest fixed printed version of the legend",
+      "source": "'Dear Abby', 8 November 1960"
+    },
+    {
+      "date": "1981-01-01",
+      "event": "Jan Harold Brunvand publishes The Vanishing Hitchhiker, treating the Hookman as a foundational case study of urban legend",
+      "significance": "Anchors the legend in academic folklore",
+      "source": "Brunvand, J. H. (1981), The Vanishing Hitchhiker"
+    },
+    {
+      "date": "1981-01-01",
+      "event": "Alvin Schwartz publishes Scary Stories to Tell in the Dark, with a Hookman story",
+      "significance": "Carries the legend to a generation of American children in print",
+      "source": "Schwartz, A. (1981), Scary Stories to Tell in the Dark"
+    },
+    {
+      "date": "1997-10-17",
+      "event": "I Know What You Did Last Summer is released in US cinemas, featuring a hook-wielding killer overtly based on the legend",
+      "significance": "Fixes the Hookman as a cinematic horror template",
+      "source": "I Know What You Did Last Summer (Columbia Pictures, 1997)"
+    }
+  ],
+  "related": [
+    {
+      "id": "vanishing-hitchhiker",
+      "name": "Vanishing Hitchhiker",
+      "relationship": "similar",
+      "description": "Closely associated American urban legend popularised by Brunvand"
+    },
+    {
+      "id": "babysitter-and-the-man-upstairs",
+      "name": "The Babysitter and the Man Upstairs",
+      "relationship": "similar",
+      "description": "Fellow classic American urban legend with a teenage protagonist"
+    },
+    {
+      "id": "bloody-mary",
+      "name": "Bloody Mary",
+      "relationship": "similar",
+      "description": "Adolescent ritual urban legend"
+    },
+    {
+      "id": "i-know-what-you-did-last-summer",
+      "name": "I Know What You Did Last Summer",
+      "relationship": "related",
+      "description": "Horror franchise that draws extensively on the Hookman template"
+    }
+  ],
+  "cultural_notes": "Generally told as a 'true story that happened to a friend of a friend', with the irony of its evident folkloric structure usually invisible to the original tellers.",
+  "sources": [
+    {
+      "id": "wikipedia-the-hook-2026",
+      "type": "website",
+      "title": "The Hook (urban legend)",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Hook_(urban_legend)",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "brunvand-1981",
+      "type": "book",
+      "title": "The Vanishing Hitchhiker: American Urban Legends and Their Meanings",
+      "authors": [
+        "Jan Harold Brunvand"
+      ],
+      "publication": "W. W. Norton",
+      "date": "1981"
+    },
+    {
+      "id": "schwartz-1981",
+      "type": "book",
+      "title": "Scary Stories to Tell in the Dark",
+      "authors": [
+        "Alvin Schwartz"
+      ],
+      "publication": "HarperCollins",
+      "date": "1981"
+    }
+  ],
+  "locations": []
 }

@@ -3,6 +3,7 @@
   "name": "Hantu Air",
   "category": "entity_spirit",
   "description": "Hantu Air ('water ghost') is the Malay/Indonesian name for an unseen inhabitant of rivers, lakes, swamps, and the sea in the animist traditions of Maritime Southeast Asia. It can be benevolent or malevolent depending on how humans treat the body of water it occupies.",
+  "full_description": "Hantu Air (literally 'water ghost' in Malay), also called Puaka Air or Mambang Air, is a category of supernatural entity in the animist substrate of Malay, Indonesian, Bruneian, and broader Maritime Southeast Asian belief. Hantu Air inhabits all kinds of water — rivers, lakes, swamps, ditches, the sea — and is sometimes said to be the lingering spirit of a person who drowned, though more commonly it is treated as an independent, place-bound entity. It is most often invisible but is reported to manifest as a floating log, a beautiful woman, a fish, or other animals to lure people into the water, where they drown or are consumed. The belief encodes practical knowledge about water hazards (currents, hidden snags, deep pools) and motivates respectful behavior toward bodies of water — including ritual offerings such as the East Coast Malaysian Semah Pantai sea ceremony, the last recorded instance of which occurred on 22 April 1960. In coastal and riverine communities, Hantu Air is treated as both a danger and a tutelary presence; correct ritual conduct is held to secure good fishing and safe passage, while disrespect or pollution invites illness, drowning, or other misfortune. The belief survives most strongly in rural Malay and Indonesian communities and has been syncretised with Islamic frameworks, in which the Hantu Air is often understood as a kind of jinn.",
   "aliases": [
     {
       "name": "Puaka Air",
@@ -42,5 +43,98 @@
   "origin": "Maritime Southeast Asia, especially the Malay-speaking world: peninsular Malaysia, Indonesia, Brunei, Singapore, southern Thailand, and the broader Malay diaspora.",
   "first_reported": "Pre-Islamic",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Malay: hantu ('ghost' or 'spirit') + air ('water'). 'Puaka' and 'mambang' are alternative Malay terms for nature-spirits or genii loci.",
+    "meaning": "Literally 'water ghost' or 'water spirit'.",
+    "first_use": "Pre-Islamic Malay animism; documented in colonial-era ethnographies of Malay folklore (e.g. Skeat, 1900)."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "1900-01-01",
+      "event": "W. W. Skeat publishes Malay Magic, documenting hantu air and related water-spirit beliefs in the Malay Peninsula",
+      "significance": "Foundational ethnographic record of Malay folk religion in English",
+      "source": "Skeat, W. W. (1900), Malay Magic"
+    },
+    {
+      "date": "1960-04-22",
+      "event": "Last recorded Semah Pantai ceremony performed on the East Coast of Malaysia",
+      "significance": "Marks the decline of large-scale public propitiation of sea spirits in Peninsular Malaysia",
+      "source": "Wikipedia (Hantu Air) citing Malaysian ethnographic records"
+    }
+  ],
+  "related": [
+    {
+      "id": "hantu-laut",
+      "name": "Hantu Laut",
+      "relationship": "regional_variant",
+      "description": "Specifically a sea-spirit subtype of Hantu Air"
+    },
+    {
+      "id": "hantu-jerangan",
+      "name": "Hantu Jerangan",
+      "relationship": "related",
+      "description": "Malay maritime spirit associated with fishing-related drownings"
+    },
+    {
+      "id": "hantu-pontianak",
+      "name": "Pontianak",
+      "relationship": "related",
+      "description": "Other major class of Malay female ghost; sometimes overlapping water-adjacent contexts"
+    },
+    {
+      "id": "orang-bunian",
+      "name": "Orang Bunian",
+      "relationship": "related",
+      "description": "Other Malay invisible nature-folk inhabiting forests and waterways"
+    },
+    {
+      "id": "kappa",
+      "name": "Kappa",
+      "relationship": "counterpart",
+      "description": "Japanese water yokai with comparable role as a luring water-dweller"
+    },
+    {
+      "id": "naga",
+      "name": "Naga",
+      "relationship": "related",
+      "description": "Hindu-Buddhist water serpent spirits in the same regional substrate"
+    }
+  ],
+  "cultural_notes": "Hantu Air is treated as morally ambivalent: dangerous when disrespected, helpful when properly propitiated. Many fishing and river communities maintain customary prohibitions (pantang) when working on water.",
+  "sources": [
+    {
+      "id": "wiki-hantu-air",
+      "type": "website",
+      "title": "Hantu Air",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Hantu_Air",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "wiki-ghosts-malay",
+      "type": "website",
+      "title": "Ghosts in Malay culture",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ghosts_in_Malay_culture",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "skeat-1900",
+      "type": "book",
+      "title": "Malay Magic: Being an Introduction to the Folklore and Popular Religion of the Malay Peninsula",
+      "authors": [
+        "Walter William Skeat"
+      ],
+      "publication": "Macmillan",
+      "date": "1900"
+    }
+  ],
+  "locations": []
 }

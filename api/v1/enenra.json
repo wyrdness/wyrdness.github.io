@@ -3,6 +3,7 @@
   "name": "Enenra",
   "category": "entity_spirit",
   "description": "A Japanese yōkai composed of smoke, said to dwell in bonfires and to be visible only to the pure of heart; first illustrated by Toriyama Sekien in the 1781 yōkai compendium Konjaku Hyakki Shūi.",
+  "full_description": "Enenra (煙々羅) is a yōkai of Japanese folklore composed of smoke and darkness. Its name uses the kanji for 'smoke' (煙) doubled and joined with the character for thin gauze fabric (羅), evoking a spirit that drifts like sheer cloth on the air. Enenra reside in bonfires and similar wood-fires; when they emerge they take a vague humanoid shape within the rising smoke. They were introduced into the canonical yōkai bestiary by Toriyama Sekien in his 'Konjaku Hyakki Shūi' (今昔百鬼拾遺), the third book of his Gazu Hyakki Yagyō tetralogy, published c. 1781. Sekien's work appears to be loosely based on a passage in 'Tsurezuregusa' (the 14th-century Yoshida Kenkō essay collection) describing the smoke from summer mosquito-fires. According to subsequent commentary, an enenra can only be seen by those who are pure of heart. Two types are distinguished in later folklore literature: those born as enenra and (less commonly) the spirits of dead humans transformed into them. The enenra is generally treated as neutral or peaceful rather than malevolent.",
   "aliases": [
     {
       "name": "煙々羅",
@@ -30,5 +31,101 @@
   "origin": "Japanese folklore; the figure originates in Edo-period yōkai literature and is part of the contemporary national Japanese supernatural canon.",
   "first_reported": "1781-01-01",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Japanese, coined or transmitted by Toriyama Sekien (1712–1788) in the late 18th century.",
+    "meaning": "The kanji combine 'smoke' (煙) reduplicated with the character 羅, meaning a thin gauze fabric: 'thin-fabric of smoke', a poetic image of a spirit drifting like sheer cloth.",
+    "first_use": "Konjaku Hyakki Shūi by Toriyama Sekien, c. 1781."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0,
+    "date_range": {
+      "earliest": "1781",
+      "latest": "Contemporary"
+    }
+  },
+  "timeline": [
+    {
+      "date": "1781-01-01",
+      "event": "Toriyama Sekien publishes 'Konjaku Hyakki Shūi' (今昔百鬼拾遺), introducing the Enenra in illustration and short text",
+      "significance": "Founding documentation of the figure",
+      "source": "Sekien (c. 1781)"
+    },
+    {
+      "date": "1788-01-01",
+      "event": "Death of Toriyama Sekien (1712–1788), author of the four Hyakki series including the volume that introduced Enenra",
+      "significance": "Closes the foundational period of the figure",
+      "source": "Wikipedia: Toriyama Sekien"
+    },
+    {
+      "date": "2016-01-01",
+      "event": "Matt Alt and Hiroko Yoda publish 'Japandemonium Illustrated: The Yokai Encyclopedias of Toriyama Sekien' (Dover, 2016, ISBN 978-0486800356), making Sekien's work, including Enenra, available in English translation",
+      "significance": "Major English-language scholarly translation",
+      "source": "Alt & Yoda (2016)"
+    }
+  ],
+  "related": [
+    {
+      "id": "yokai",
+      "name": "Yōkai (general)",
+      "relationship": "superset",
+      "description": "Broad Japanese category of supernatural beings to which Enenra belongs."
+    },
+    {
+      "id": "tsukumogami",
+      "name": "Tsukumogami",
+      "relationship": "related",
+      "description": "Yōkai born from the long use of objects; conceptually adjacent in Sekien's compendia."
+    },
+    {
+      "id": "rokurokubi",
+      "name": "Rokurokubi",
+      "relationship": "similar",
+      "description": "Other Edo-period yōkai illustrated by Sekien."
+    }
+  ],
+  "cultural_notes": "Treated as a generally neutral or peaceful spirit, embodying the ephemeral and impermanent (a Buddhist resonance with mujō).",
+  "sources": [
+    {
+      "id": "wikipedia-enenra",
+      "type": "website",
+      "title": "Enenra",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Enenra",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "wikipedia-konjaku-hyakki-shui",
+      "type": "website",
+      "title": "Konjaku Hyakki Shūi",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Konjaku_Hyakki_Sh%C5%ABi",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "yokai-com-enenra",
+      "type": "website",
+      "title": "Enenra",
+      "publication": "Yokai.com",
+      "url": "https://yokai.com/enenra/",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "alt-yoda-2016",
+      "type": "book",
+      "title": "Japandemonium Illustrated: The Yokai Encyclopedias of Toriyama Sekien",
+      "authors": [
+        "Toriyama Sekien",
+        "Matt Alt",
+        "Hiroko Yoda"
+      ],
+      "publication": "Dover Publications",
+      "date": "2016",
+      "isbn": "978-0486800356"
+    }
+  ],
+  "locations": []
 }

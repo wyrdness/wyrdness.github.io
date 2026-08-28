@@ -3,6 +3,7 @@
   "name": "Anansi",
   "category": "mythological_creature",
   "description": "A spider trickster of Akan oral tradition, originating among the Ashanti people of present-day Ghana and carried by enslaved West Africans across the Atlantic, where Anansi became one of the central figures of Caribbean and African-American folklore.",
+  "full_description": "Anansi (Akan: Ananse) is a spider trickster figure of Akan oral tradition, especially associated with the Ashanti people of present-day Ghana. The name itself means 'spider' in Akan, and Anansi is variously depicted as a literal spider, an anthropomorphic spider with a human face, or a human-shaped figure with spider-like features. Anansi is the central character of a vast cycle of folktales known in Akan as Anansesem ('Spider Stories'). Two foundational Anansi tales are widely retold: in one, Anansi acquires all stories from the sky-god Nyame by completing a series of impossible tasks, becoming the owner of all stories; in another, Anansi tries to hoard all wisdom in a clay pot, only to break it and disperse wisdom across the world. The Atlantic slave trade carried Anansi narratives to the Caribbean and the Americas, where he survived under names such as Anancy (Jamaica), Aunt Nancy (American South), Kompa Nanzi (Curaçao), and Bro Nansi. In the diaspora, Anansi tales served as resistance narratives that valorised the cleverness of the apparently weak. Anansi has been the subject of substantial 20th- and 21st-century literary adaptation, including Neil Gaiman's 'American Gods' (2001) and 'Anansi Boys' (2005), and remains a living oral tradition in West Africa and the Caribbean.",
   "aliases": [
     {
       "name": "Ananse",
@@ -55,5 +56,94 @@
   "origin": "Originating among the Akan peoples of present-day Ghana and carried through the Atlantic slave trade across West Africa, the Caribbean, and the Americas.",
   "first_reported": "Akan oral tradition (long pre-colonial)",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Akan / Twi 'ananse', meaning 'spider'.",
+    "meaning": "'Spider'; in narrative usage, the trickster spider figure.",
+    "first_use": "Long-standing in Akan oral tradition; recorded in colonial-era ethnography from the late 19th century onward."
+  },
+  "sightings_stats": null,
+  "timeline": [
+    {
+      "date": "1930",
+      "event": "R. S. Rattray publishes 'Akan-Ashanti Folk-Tales', collecting Anansi tales in Twi and English",
+      "significance": "Foundational ethnographic record of the Anansi corpus",
+      "source": "Rattray, R. S. (1930), Akan-Ashanti Folk-Tales, Oxford University Press"
+    },
+    {
+      "date": "1966",
+      "event": "Peggy Appiah publishes 'Ananse the Spider: Tales from an Ashanti Village'",
+      "significance": "Influential English-language retelling for general readers",
+      "source": "Appiah, P. (1966)"
+    },
+    {
+      "date": "2005",
+      "event": "Neil Gaiman publishes the novel 'Anansi Boys'",
+      "significance": "Major 21st-century literary engagement with the Anansi tradition",
+      "source": "Gaiman, N. (2005)"
+    }
+  ],
+  "related": [
+    {
+      "id": "br-rabbit",
+      "name": "Br'er Rabbit",
+      "relationship": "similar",
+      "description": "African-American trickster figure with overlapping motifs"
+    },
+    {
+      "id": "coyote",
+      "name": "Coyote (trickster)",
+      "relationship": "similar",
+      "description": "Native North American trickster"
+    },
+    {
+      "id": "loki",
+      "name": "Loki",
+      "relationship": "similar",
+      "description": "Norse trickster figure"
+    }
+  ],
+  "cultural_notes": "Anansi tales serve as moral, comic, and educational instruction; in the diaspora, they additionally function as narratives of resistance and survival.",
+  "sources": [
+    {
+      "id": "wikipedia-anansi",
+      "type": "website",
+      "title": "Anansi",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Anansi",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "rattray-1930",
+      "type": "book",
+      "title": "Akan-Ashanti Folk-Tales",
+      "authors": [
+        "R. S. Rattray"
+      ],
+      "publication": "Oxford University Press",
+      "date": "1930"
+    },
+    {
+      "id": "appiah-1966",
+      "type": "book",
+      "title": "Ananse the Spider: Tales from an Ashanti Village",
+      "authors": [
+        "Peggy Appiah"
+      ],
+      "publication": "Pantheon Books",
+      "date": "1966"
+    },
+    {
+      "id": "gaiman-2005",
+      "type": "book",
+      "title": "Anansi Boys",
+      "authors": [
+        "Neil Gaiman"
+      ],
+      "publication": "William Morrow",
+      "date": "2005",
+      "isbn": "978-0060515188"
+    }
+  ],
+  "locations": []
 }

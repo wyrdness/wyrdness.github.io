@@ -3,6 +3,7 @@
   "name": "Ninki Nanka",
   "category": "cryptid",
   "description": "A dragon-like cryptid of West African folklore, particularly in the Gambia and Senegal, said to inhabit swamps and rivers and feared as a deadly omen. Investigated in 2006 by the Centre for Fortean Zoology.",
+  "full_description": "The Ninki Nanka ('dragon' or 'great serpent' in Mandinka) is a long-standing legendary creature of Gambian, Senegalese, and broader West African folklore, said to inhabit the swamps, rivers, and mangrove forests of the lower Gambia. Descriptions vary widely: some accounts give a crocodile-like head with a horse- or donkey-like body, others describe a giraffe-necked, three-horned beast roughly 30 feet (9 m) long with reflective scales and a fatal stare. Among the Mandinka, merely seeing the Ninki Nanka is said to bring death within weeks, making it one of West Africa's most feared supernatural figures. The creature occupies a dual role as both guardian spirit and deadly threat. In summer 2006 the Centre for Fortean Zoology mounted the J. T. Downes Memorial Gambia Expedition, led by Richard Freeman, to collect Gambian eyewitness testimony; no specimen was recovered, but the expedition documented a consistent body of recent sightings and was covered by the BBC.",
   "aliases": [
     {
       "name": "Dragon",
@@ -32,5 +33,50 @@
   "origin": "West Africa, with the strongest concentration of accounts in the Gambia, Senegal, and surrounding Mandinka-speaking areas.",
   "first_reported": "Pre-colonial",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Mandinka (West Africa)",
+    "meaning": "Per Mandinka usage, simply 'dragon' or 'great serpent'",
+    "first_use": "Long-standing oral tradition of the Gambia and surrounding region; documented in writing from at least the 20th century"
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "2006-07-01",
+      "event": "Centre for Fortean Zoology launches the J. T. Downes Memorial Gambia Expedition, led by Richard Freeman, to investigate Ninki Nanka eyewitness reports",
+      "significance": "First organised cryptozoological field investigation; produced documented eyewitness testimony and BBC coverage",
+      "source": "Centre for Fortean Zoology / BBC News"
+    }
+  ],
+  "related": [
+    {
+      "id": "mokele-mbembe",
+      "name": "Mokele-mbembe",
+      "relationship": "similar",
+      "description": "Central African aquatic cryptid said to inhabit the Congo Basin"
+    },
+    {
+      "id": "mamlambo",
+      "name": "Mamlambo",
+      "relationship": "similar",
+      "description": "Southern African river cryptid of Zulu tradition"
+    }
+  ],
+  "cultural_notes": "Ninki Nanka tradition functions as both folklore and active community belief in parts of the Gambia and Senegal.",
+  "sources": [
+    {
+      "id": "wikipedia-ninki-nanka",
+      "type": "website",
+      "title": "Ninki Nanka",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ninki_Nanka",
+      "accessed": "2026-05-07"
+    }
+  ],
+  "locations": []
 }

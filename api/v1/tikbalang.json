@@ -3,6 +3,7 @@
   "name": "Tikbalang",
   "category": "entity_spirit",
   "description": "A creature of Philippine folklore depicted as a tall, gaunt humanoid with the head and hooves of a horse, known for leading travelers astray in remote forested or rural areas.",
+  "full_description": "The Tikbalang is one of the most widely recognized creatures in Philippine folklore: a tall, skeletal humanoid with a horse's head and hooves and disproportionately long limbs - in some accounts, its knees rise above its head when it squats. Found in mountains, forests, and isolated rural roads, the Tikbalang is principally a trickster spirit. It causes travelers to lose their bearings, returning them again and again to the same path no matter how far they walk. Pre-Hispanic accounts describe it as a forest phantom unrelated to horses (which were introduced to the Philippines by the Spanish); the equine description appears to enter written record after the conquest, first elaborated in Juan José Delgado's 18th-century Biblioteca Histórica Filipina. Common protective practices include wearing one's clothes inside-out and asking permission aloud (tabi-tabi po) when entering forested areas. Folk tradition holds that one can tame a Tikbalang by plucking three potent spines from its mane during a wild ride. The Tikbalang remains a living part of Philippine cultural heritage, frequently referenced in modern Filipino comics, novels, and screen media.",
   "aliases": [
     {
       "name": "Tigbalang",
@@ -54,5 +55,116 @@
   "origin": "Reported throughout the Philippine archipelago, particularly in mountainous and forested provinces of Luzon and the Visayas.",
   "first_reported": "Pre-Hispanic",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Tagalog tikbalang, with regional variants tigbalang/tigbalan/tikbalan/tigbolan; the etymology is debated but likely derives from older Austronesian roots predating equine imagery.",
+    "meaning": "Often glossed in English as 'demon horse' or 'werehorse'.",
+    "first_use": "Pre-Hispanic oral tradition; werehorse description first written in Juan José Delgado, Biblioteca Histórica Filipina (c. 1750)"
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "Pre-1565",
+      "event": "Pre-Hispanic Tagalog and Visayan oral tradition records 'forest phantoms' (multo, bibit) inhabiting remote areas",
+      "significance": "Pre-conquest baseline",
+      "source": "Indigenous oral tradition"
+    },
+    {
+      "date": "1750",
+      "event": "Juan José Delgado describes a werehorse encounter at San Mateo in his Biblioteca Histórica Filipina",
+      "significance": "First written werehorse description",
+      "source": "Delgado, J. J., Biblioteca Histórica Filipina"
+    },
+    {
+      "date": "1889",
+      "event": "Filipino folklorist Isabelo de los Reyes publishes El folk-lore filipino",
+      "significance": "Early scholarly survey of Filipino lower mythology",
+      "source": "de los Reyes, I., El folk-lore filipino (Manila, 1889)"
+    },
+    {
+      "date": "1985",
+      "event": "Damiana L. Eugenio publishes Philippine Folk Literature: An Anthology (UP Press)",
+      "significance": "Cornerstone academic compilation",
+      "source": "Eugenio, D. L., Philippine Folk Literature series"
+    }
+  ],
+  "related": [
+    {
+      "id": "kapre",
+      "name": "Kapre",
+      "relationship": "related",
+      "description": "Tree-dwelling Filipino giant; sister forest spirit"
+    },
+    {
+      "id": "aswang",
+      "name": "Aswang",
+      "relationship": "related",
+      "description": "Filipino shapeshifting being"
+    },
+    {
+      "id": "manananggal",
+      "name": "Manananggal",
+      "relationship": "related",
+      "description": "Filipino self-segmenting vampire-being"
+    },
+    {
+      "id": "duende",
+      "name": "Duende",
+      "relationship": "related",
+      "description": "Iberian-influenced Filipino dwarf-spirit"
+    },
+    {
+      "id": "centaur",
+      "name": "Centaur",
+      "relationship": "similar",
+      "description": "Greek hybrid horse-human"
+    }
+  ],
+  "cultural_notes": "Travelers should ask permission of unseen forest beings (tabi-tabi po) and may wear clothing inside-out to break a Tikbalang's misdirection.",
+  "sources": [
+    {
+      "id": "wikipedia-tikbalang",
+      "type": "website",
+      "title": "Tikbalang",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Tikbalang",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "delgado-1750",
+      "type": "book",
+      "title": "Biblioteca Histórica Filipina (Historia general sacro-profana...)",
+      "authors": [
+        "Juan José Delgado"
+      ],
+      "publication": "Manila",
+      "date": "c. 1750"
+    },
+    {
+      "id": "delosreyes-1889",
+      "type": "book",
+      "title": "El folk-lore filipino",
+      "authors": [
+        "Isabelo de los Reyes"
+      ],
+      "publication": "Manila",
+      "date": "1889"
+    },
+    {
+      "id": "eugenio-1985",
+      "type": "book",
+      "title": "Philippine Folk Literature: An Anthology",
+      "authors": [
+        "Damiana L. Eugenio"
+      ],
+      "publication": "University of the Philippines Press",
+      "date": "1985"
+    }
+  ],
+  "locations": []
 }

@@ -3,6 +3,7 @@
   "name": "Erlking",
   "category": "fae_folklore",
   "description": "A malevolent fairy-king of Germanic Romanticism, derived via Herder's 1778 mistranslation from the Danish 'ellekonge' ('king of the elves'); famously portrayed in Goethe's 1782 ballad 'Erlkönig' as a supernatural being who lures a child to its death, set to music by Franz Schubert (D. 328, 1815).",
+  "full_description": "The Erlking (German Erlkönig, literally 'alder-king') is a malevolent fairy-king of Germanic Romantic literature whose origins lie in Scandinavian folklore. The figure derives from the Danish folk ballad 'Hr. Oluf han rider' ('Sir Oluf he rides'), printed in 'Danske Kæmpeviser' (1739) and belonging to the wider Elveskud ballad tradition. In 1778 Johann Gottfried von Herder translated a variant of this ballad into German as 'Erlkönigs Tochter' ('The Erl-King's Daughter') in his folk-song collection 'Stimmen der Völker in Liedern'. Linguistically the form 'Erlkönig' arose from a misreading or imaginative recasting of Danish 'elver-/eller-' ('elf') as German 'Erle' ('alder'), as discussed by Jacob Grimm. Goethe took up Herder's vocabulary in his 1782 ballad 'Erlkönig', written for the Singspiel 'Die Fischerin', shifting the antagonist from the elf-king's daughter to the Erlking himself, and presenting him as a supernatural being who lures a sick child to his death while riding through the night with his father. Franz Schubert's setting (D. 328, 1815, published as Opus 1) is among the most famous art songs in the Western canon. The Erlking remains a paradigmatic figure of Germanic Romanticism, frequently invoked as death personified or as a symbol of childhood vulnerability.",
   "aliases": [
     {
       "name": "Erlkönig",
@@ -41,5 +42,127 @@
   "origin": "Originating in Danish ballad tradition and codified in late-18th-century German literature; spread globally through Goethe's poem and Schubert's lied.",
   "first_reported": "1739-01-01",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "From Johann Gottfried von Herder's 1778 German rendering of Danish 'ellekonge' / 'ellerkonge' ('king of the elves'), via German 'Erle' ('alder').",
+    "meaning": "Literally 'alder-king'; the etymological link to alder trees is the result of Herder's translation rather than original Scandinavian usage, in which the figure is the elf-king (or his daughter).",
+    "first_use": "Herder's 'Erlkönigs Tochter' in 'Stimmen der Völker in Liedern' (1778); fixed in literary German by Goethe's 'Erlkönig' (1782)."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0,
+    "date_range": {
+      "earliest": "1739",
+      "latest": "Contemporary"
+    }
+  },
+  "timeline": [
+    {
+      "date": "1739-01-01",
+      "event": "'Hr. Oluf han rider' printed in 'Danske Kæmpeviser'",
+      "significance": "Earliest printed source of the elf-ballad behind the Erlking",
+      "source": "Danske Kæmpeviser (1739)"
+    },
+    {
+      "date": "1778-01-01",
+      "event": "Johann Gottfried von Herder publishes 'Erlkönigs Tochter' in 'Stimmen der Völker in Liedern'",
+      "significance": "Introduces the figure to German letters; coins 'Erlkönig' as a translation of Danish 'ellekonge'",
+      "source": "Herder (1778), Stimmen der Völker in Liedern"
+    },
+    {
+      "date": "1782-01-01",
+      "event": "Goethe writes 'Erlkönig' for his Singspiel 'Die Fischerin'",
+      "significance": "Canonical German Romantic ballad; shifts antagonist from elf-king's daughter to the Erlking himself",
+      "source": "Goethe (1782), Erlkönig"
+    },
+    {
+      "date": "1815-01-01",
+      "event": "Franz Schubert composes his setting of Goethe's 'Erlkönig', D. 328, published as Opus 1 (1821)",
+      "significance": "Most famous art-song version of the figure",
+      "source": "Schubert, F. (1815/1821), Erlkönig D. 328"
+    }
+  ],
+  "related": [
+    {
+      "id": "elveskud",
+      "name": "Elveskud (Hr. Oluf han rider)",
+      "relationship": "superset",
+      "description": "Danish ballad tradition (printed 1739) from which the Erlking is derived."
+    },
+    {
+      "id": "fairy-king",
+      "name": "Fairy-king (general)",
+      "relationship": "superset",
+      "description": "Broader category of fairy royalty in European folklore."
+    },
+    {
+      "id": "elf",
+      "name": "Elf",
+      "relationship": "related",
+      "description": "The original 'ellekonge' is the king of the Scandinavian elves."
+    },
+    {
+      "id": "death-personified",
+      "name": "Death personified",
+      "relationship": "related",
+      "description": "Goethe's Erlking is widely read as a personification of death."
+    }
+  ],
+  "cultural_notes": "In folkloric reading, the Erlking is a perilous fairy-king of forest and night; in Romantic literary reading, he embodies death and childhood vulnerability.",
+  "sources": [
+    {
+      "id": "wikipedia-erlking",
+      "type": "website",
+      "title": "Erlking",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Erlking",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "wikipedia-erlkonig",
+      "type": "website",
+      "title": "Erlkönig (poem)",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Erlk%C3%B6nig",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "britannica-erl-king",
+      "type": "website",
+      "title": "The Erl-King",
+      "publication": "Encyclopædia Britannica",
+      "url": "https://www.britannica.com/topic/The-Erl-King",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "goethe-1782",
+      "type": "book",
+      "title": "Erlkönig (within the Singspiel Die Fischerin)",
+      "authors": [
+        "Johann Wolfgang von Goethe"
+      ],
+      "date": "1782"
+    },
+    {
+      "id": "herder-1778",
+      "type": "book",
+      "title": "Stimmen der Völker in Liedern",
+      "authors": [
+        "Johann Gottfried von Herder"
+      ],
+      "date": "1778"
+    },
+    {
+      "id": "schubert-d328",
+      "type": "other",
+      "title": "Erlkönig, D. 328 (Op. 1)",
+      "authors": [
+        "Franz Schubert"
+      ],
+      "date": "1815"
+    }
+  ],
+  "locations": []
 }

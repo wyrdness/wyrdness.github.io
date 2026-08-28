@@ -3,6 +3,7 @@
   "name": "Kitsune",
   "category": "shapeshifter",
   "description": "A Japanese fox spirit possessing intelligence, longevity, magical powers, and the ability to shapeshift — most often into a beautiful woman — and serving in folklore as either a benevolent messenger of the Shinto deity Inari or as a tricksterous, sometimes dangerous wild fox.",
+  "full_description": "Kitsune (狐, 'fox') in Japanese folklore is the fox understood as a being of magical intelligence and power. Kitsune are said to live unusually long lives — gaining a tail every 100 years until they reach the maximum of nine — and to be able to shapeshift, most commonly into the form of a beautiful young woman. They are conventionally divided into two broad classes. Zenko (善狐, 'good foxes') are benevolent kitsune associated with the Shinto deity Inari Ōkami, the kami of rice, fertility, and prosperity, and serve as Inari's messengers and guardians; pairs of stone fox statues flank the entrances of Inari shrines (most famously Fushimi Inari-taisha in Kyoto) across Japan. Yako (野狐, 'field foxes') or nogitsune are wild, often mischievous or malevolent foxes who play tricks, possess people (kitsunetsuki, a recognized folk-medical category), and were historically blamed for unexplained illness or strange behavior. Within these classes, folklore distinguishes byakko (white auspicious foxes), tenko (celestial foxes of great age and power), kuda-gitsune (pipe-foxes kept by sorcerers), and others. Famous narrative kitsune include Tamamo-no-Mae, a nine-tailed vixen who, according to legend, deceived emperors across India, China, and Japan before being unmasked at the court of Emperor Toba in the 12th century, and Kuzunoha, the white-fox mother of the celebrated Heian-era astrologer-mage Abe no Seimei. Kitsune lore is one of the most-developed and widely cited motifs in Japanese culture and continues to drive contemporary anime, manga, and video games.",
   "aliases": [
     {
       "name": "狐",
@@ -72,5 +73,159 @@
   "origin": "Throughout Japan, with particularly dense lore in central Honshū around Kyoto and Inari shrines; cognate fox-spirit traditions extend across China (huli jing), Korea (kumiho), and Vietnam.",
   "first_reported": "0794-01-01",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Japanese 狐 (kitsune), of disputed deeper origin. Folk etymologies range from kitsu-ne (an onomatopoeia for fox cries plus the suffix -ne) to ki-tsune ('come and sleep', from a famous folkloric pun on kitsune-as-wife stories).",
+    "meaning": "Literally 'fox'; in folkloric usage, the fox-as-supernatural-being.",
+    "first_use": "Stories of supernatural foxes appear in Japanese sources from the 8th century onward, including the Nihon Ryōiki (c. 822) and the Konjaku Monogatarishū (c. 1120)."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0,
+    "date_range": {
+      "earliest": "n/a",
+      "latest": "n/a"
+    }
+  },
+  "timeline": [
+    {
+      "date": "0711-01-01",
+      "event": "Traditional founding of Fushimi Inari-taisha, head shrine of Inari Ōkami",
+      "significance": "Anchors Inari and the zenko kitsune tradition",
+      "source": "Inari shrine tradition"
+    },
+    {
+      "date": "0822-01-01",
+      "event": "Compilation of the Nihon Ryōiki, an early Buddhist setsuwa collection containing fox-wife and fox-magic tales",
+      "significance": "Earliest substantial Japanese kitsune narratives",
+      "source": "Kyōkai, Nihon Ryōiki"
+    },
+    {
+      "date": "1120-01-01",
+      "event": "Konjaku Monogatarishū compiled, with multiple kitsune episodes including possessions and fox-wives",
+      "significance": "Major medieval source for kitsune lore",
+      "source": "Konjaku Monogatarishū"
+    },
+    {
+      "date": "1156-01-01",
+      "event": "Legendary period in which the nine-tailed Tamamo-no-Mae is said to have served Emperor Toba before being unmasked",
+      "significance": "Most famous individual kitsune narrative",
+      "source": "Otogi-zōshi and later Tamamo no Mae materials"
+    },
+    {
+      "date": "1700-01-01",
+      "event": "Edo-period kitsune tales flourish in kabuki, bunraku, and ukiyo-e (e.g., Hokusai and Kuniyoshi)",
+      "significance": "Standardization of the modern visual canon",
+      "source": "Edo-period prints and theatre"
+    },
+    {
+      "date": "1908-01-01",
+      "event": "Lafcadio Hearn's 'Glimpses of Unfamiliar Japan' and other writings introduce Western readers to kitsunetsuki and Inari worship",
+      "significance": "Major English-language entry point",
+      "source": "Lafcadio Hearn"
+    }
+  ],
+  "related": [
+    {
+      "id": "huli-jing",
+      "name": "Huli jing",
+      "relationship": "counterpart",
+      "description": "Chinese fox spirit; cultural ancestor of the kitsune"
+    },
+    {
+      "id": "kumiho",
+      "name": "Kumiho",
+      "relationship": "counterpart",
+      "description": "Korean nine-tailed fox of cognate folklore"
+    },
+    {
+      "id": "tanuki",
+      "name": "Tanuki (Japanese raccoon dog yōkai)",
+      "relationship": "similar",
+      "description": "Major shapeshifting Japanese animal yōkai often paired with the kitsune"
+    },
+    {
+      "id": "tamamo-no-mae",
+      "name": "Tamamo-no-Mae",
+      "relationship": "subset",
+      "description": "Famous individual nine-tailed kitsune of Japanese legend"
+    },
+    {
+      "id": "inari-okami",
+      "name": "Inari Ōkami",
+      "relationship": "related",
+      "description": "Shinto deity served by zenko kitsune messengers"
+    }
+  ],
+  "cultural_notes": "Foxes are powerful and intelligent; respect Inari's messengers, leave offerings (especially fried tofu), avoid mocking foxes near shrines, and beware of strangers met on lonely roads at night.",
+  "sources": [
+    {
+      "id": "wikipedia-kitsune",
+      "type": "website",
+      "title": "Kitsune",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Kitsune",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "britannica-kitsune",
+      "type": "website",
+      "title": "Kitsune",
+      "publication": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/topic/kitsune",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "smyers-1999",
+      "type": "book",
+      "title": "The Fox and the Jewel: Shared and Private Meanings in Contemporary Japanese Inari Worship",
+      "authors": [
+        "Karen A. Smyers"
+      ],
+      "publication": "University of Hawaii Press",
+      "date": "1999",
+      "isbn": "978-0824820589"
+    },
+    {
+      "id": "foster-2015",
+      "type": "book",
+      "title": "The Book of Yokai: Mysterious Creatures of Japanese Folklore",
+      "authors": [
+        "Michael Dylan Foster"
+      ],
+      "publication": "University of California Press",
+      "date": "2015",
+      "isbn": "978-0520271029"
+    },
+    {
+      "id": "hearn-1894",
+      "type": "book",
+      "title": "Glimpses of Unfamiliar Japan",
+      "authors": [
+        "Lafcadio Hearn"
+      ],
+      "publication": "Houghton Mifflin",
+      "date": "1894"
+    },
+    {
+      "id": "yokai-com-kitsune",
+      "type": "website",
+      "title": "Kitsune",
+      "authors": [
+        "Matthew Meyer"
+      ],
+      "publication": "yokai.com",
+      "url": "https://yokai.com/kitsune/",
+      "accessed": "2026-05-07"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Fushimi Inari-taisha",
+      "lat": 34.9671,
+      "lng": 135.7727
+    }
+  ]
 }

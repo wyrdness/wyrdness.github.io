@@ -3,6 +3,7 @@
   "name": "Yowie",
   "category": "cryptid",
   "description": "The Yowie is an Australian hairy bipedal hominid cryptid with deep roots in Aboriginal oral tradition and a continuous record of European-language sightings stretching back to the 19th century. It is widely treated as the Australian counterpart of Bigfoot.",
+  "full_description": "The Yowie is the best-known Australian hairy-hominid cryptid. Aboriginal nations across the continent have long-standing traditions of large, hair-covered bipedal beings under many names — Quinkin and joogabinna in parts of Queensland; Ghindaring, Jurrawarra, Myngawin, Puttikan, Doolaga, Gulaga, and Thoolagal in New South Wales; Pangkarlangu, Jimbra, Tjangara, Wawee, and Noocoonah elsewhere. The English term 'Yowie' itself was first documented in 1875 by Reverend William Ridley as a Gamilaraay word, 'Yō-wī', for 'a spirit that roams the earth at night'. Colonial-era newspapers carried 'indigenous ape' and 'yahoo' reports from the 1850s onward; the most cited 19th-century case is amateur naturalist Henry James McCooey's 1882 description of an ape-like creature on the New South Wales south coast between Batemans Bay and Ulladulla. Modern Yowie research crystallised in the 1970s around the work of Rex Gilroy in the Blue Mountains and was later substantially extended by journalists Tony Healy and Paul Cropper. Witnesses describe a bipedal, hair-covered creature 2.1–3.6 m (7–12 ft) tall with a wide, flat nose and reportedly outsized footprints, though track evidence is highly inconsistent. Reports continue into the 21st century, clustering in Queensland (especially the Springbrook–Gold Coast hinterland), the Blue Mountains and Brindabella Ranges of New South Wales/ACT, and parts of the Northern Territory.",
   "aliases": [
     {
       "name": "Yō-wī",
@@ -92,5 +93,176 @@
   "origin": "Reports occur across most of mainland Australia, with the heaviest contemporary clustering in southeast Queensland (notably the Gold Coast hinterland and Springbrook), the Blue Mountains and Brindabella Ranges of New South Wales and the Australian Capital Territory, and pockets of the Northern Territory. Aboriginal traditions of comparable beings are recorded across the continent.",
   "first_reported": "1875",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "The English form 'Yowie' is drawn from 'Yō-wī', recorded by Reverend William Ridley in 1875 as a Gamilaraay (northern NSW) word for a night-roaming spirit. Some commentators have proposed parallel influences from the colonial-era 'yahoo' (after Swift's Gulliver's Travels), but the Aboriginal-language attestation is older.",
+    "meaning": "Glossed by Ridley as 'a spirit that roams the earth at night'.",
+    "first_use": "1875 (Ridley, Gamilaraay vocabulary); the related English-language 'Yahoo-Devil Devil' is attested from at least 1876."
+  },
+  "sightings_stats": {
+    "total_documented": 3000,
+    "verified": 0,
+    "disputed": 2500,
+    "debunked": 100,
+    "date_range": {
+      "earliest": "1875",
+      "latest": "2020s"
+    }
+  },
+  "timeline": [
+    {
+      "date": "1875",
+      "event": "Reverend William Ridley records 'Yō-wī' in his Gamilaraay vocabulary as 'a spirit that roams the earth at night'",
+      "significance": "Earliest Aboriginal-language attestation of the term in English-language ethnography",
+      "source": "Ridley, W., Kámilarói, and other Australian Languages (1875)"
+    },
+    {
+      "date": "1876",
+      "event": "Earliest documented English-language reference to the 'Yahoo-Devil Devil' in the Australian press",
+      "significance": "Marks the colonial-era 'yahoo' phase that fed into the modern Yowie tradition",
+      "source": "Australian Town and Country Journal (per Holden / Wikipedia review)"
+    },
+    {
+      "date": "1882",
+      "event": "Henry James McCooey reports an 'indigenous ape' on the NSW south coast between Batemans Bay and Ulladulla",
+      "significance": "Most cited 19th-century Yowie sighting",
+      "source": "Australian Town and Country Journal (1882)"
+    },
+    {
+      "date": "1977",
+      "event": "Rex Gilroy investigates unexplained screaming near Taree, NSW; future Senator Bill O'Chee reports a sighting at Springbrook, Queensland",
+      "significance": "Catalyst events for the modern Yowie research scene",
+      "source": "Gilroy, R.; contemporary press"
+    },
+    {
+      "date": "1994",
+      "event": "Tim Bull ('Tim the Yowie Man') reports a sighting in the Brindabella Ranges",
+      "significance": "Origin point of one of the highest-profile Australian Yowie public personas",
+      "source": "Bull, T. — subsequent media columns"
+    },
+    {
+      "date": "2000",
+      "event": "Steve Piper films a bipedal subject in the Brindabella Mountains (the 'Piper Film')",
+      "significance": "Most widely circulated Australian Yowie video",
+      "source": "Piper, S. (2000)"
+    },
+    {
+      "date": "2006",
+      "event": "Tony Healy and Paul Cropper publish 'The Yowie: In Search of Australia's Bigfoot'",
+      "significance": "Single most comprehensive English-language treatment of the Yowie evidence",
+      "source": "Healy & Cropper (2006)"
+    },
+    {
+      "date": "2023-04",
+      "event": "Death of long-time Yowie researcher Rex Gilroy",
+      "significance": "End of the founding-era Yowie research career",
+      "source": "Australian press obituaries"
+    }
+  ],
+  "related": [
+    {
+      "id": "bigfoot",
+      "name": "Bigfoot",
+      "relationship": "similar",
+      "description": "North American hairy-hominid cryptid"
+    },
+    {
+      "id": "yeti",
+      "name": "Yeti",
+      "relationship": "similar",
+      "description": "Himalayan hairy-hominid cryptid"
+    },
+    {
+      "id": "yeren",
+      "name": "Yeren",
+      "relationship": "similar",
+      "description": "Chinese hairy-hominid cryptid"
+    },
+    {
+      "id": "almas",
+      "name": "Almas",
+      "relationship": "similar",
+      "description": "Central Asian hairy-hominid tradition"
+    },
+    {
+      "id": "bunyip",
+      "name": "Bunyip",
+      "relationship": "related",
+      "description": "Aboriginal Australian water-creature, sometimes confused with the Yowie in colonial sources"
+    }
+  ],
+  "cultural_notes": "Aboriginal traditions treat these beings as integral to country and the Dreaming. The colonial-era and modern cryptozoological framing as a 'Bigfoot of Australia' is a parallel layer that has interacted with, but does not replace, those Aboriginal traditions.",
+  "sources": [
+    {
+      "id": "wikipedia-yowie",
+      "type": "website",
+      "title": "Yowie",
+      "url": "https://en.wikipedia.org/wiki/Yowie",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "healy-cropper-2006",
+      "type": "book",
+      "title": "The Yowie: In Search of Australia's Bigfoot",
+      "authors": [
+        "Tony Healy",
+        "Paul Cropper"
+      ],
+      "publication": "Anomalist Books",
+      "date": "2006",
+      "isbn": "978-1933665160"
+    },
+    {
+      "id": "gilroy-2001",
+      "type": "book",
+      "title": "Giants from the Dreamtime: The Yowie in Myth and Reality",
+      "authors": [
+        "Rex Gilroy"
+      ],
+      "date": "2001"
+    },
+    {
+      "id": "joyner-1977",
+      "type": "book",
+      "title": "The Hairy Man of South Eastern Australia",
+      "authors": [
+        "Graham Joyner"
+      ],
+      "date": "1977"
+    },
+    {
+      "id": "holden-2001",
+      "type": "book",
+      "title": "Bunyips: Australia's Folklore of Fear",
+      "authors": [
+        "Robert Holden"
+      ],
+      "publication": "National Library of Australia",
+      "date": "2001"
+    },
+    {
+      "id": "ridley-1875",
+      "type": "book",
+      "title": "Kámilarói, and Other Australian Languages",
+      "authors": [
+        "William Ridley"
+      ],
+      "date": "1875"
+    },
+    {
+      "id": "encyclopedia-com-yowie",
+      "type": "article",
+      "title": "Yowie",
+      "publication": "Encyclopedia.com",
+      "url": "https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/yowie",
+      "accessed": "2026-05-07"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Springbrook / Gold Coast hinterland",
+      "lat": -28.2333,
+      "lng": 153.2667
+    }
+  ]
 }

@@ -3,6 +3,7 @@
   "name": "Ghul",
   "category": "undead",
   "description": "A demonic, shape-shifting being of pre-Islamic Arabian and Islamic folklore, classed as a type of jinn, said to dwell in graveyards, deserts, and ruined places, lure travelers from their path, and consume corpses and human flesh.",
+  "full_description": "The ghul (Arabic: غول, ghūl; feminine ghula/ghulah) is a demonic creature originating in pre-Islamic Arabian religion and continuing through Islamic folklore. Although the ghul is not named in the Qur'an, it appears in hadith literature, in pre-Islamic poetry, and across the wider Arabic and Persian narrative tradition, including 'One Thousand and One Nights'. In Islamic tradition the ghul is classed as a type of jinn — a being created from smokeless fire — that has chosen evil. Ghuls inhabit deserts, graveyards, and ruined places, and are said to lure travellers from their path, kill and devour them, prey on children, drink blood, and consume corpses. They are reputed shape-shifters, often appearing as a beautiful woman ('Mother Ghoul') or as a familiar relative; female ghuls are said to assume the form of the ghul's most recent victim. Pre-Islamic poets including Ta'abbata Sharra describe encounters and combats with ghuls, and Al-Mas'udi reports that the caliph 'Umar killed one in Syria. Al-Jahiz (9th century) was a major sceptic of the tradition, and the rationalist Mu'tazila school denied ghouls' existence outright. The English word 'ghoul' derives from ghul through Antoine Galland's French translation of the Nights and William Beckford's Gothic novel 'Vathek' (1786); H. P. Lovecraft and later authors recast it as a subterranean corpse-eating creature.",
   "aliases": [
     {
       "name": "Ghoul",
@@ -54,5 +55,162 @@
   "origin": "The ghul belongs to Arab, Persian, and broader Islamic folklore. Reports and traditions extend across the Arabian Peninsula, the Levant, Mesopotamia, North Africa, the Maghreb, Iran, Afghanistan, and Central and South Asia, with regional cognates and equivalents elsewhere in the Islamic world.",
   "first_reported": "0570-01-01",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Arabic غول (ghūl), from the root غ-و-ل / ghāla, 'to seize, snatch, attack unexpectedly'.",
+    "meaning": "Literally 'seizer' or 'snatcher'; metaphorically a sudden calamity that destroys travelers.",
+    "first_use": "Pre-Islamic Arabic poetry (e.g. Ta'abbata Sharra, late 6th century AD); attested in English from 1786 (Beckford, Vathek)."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "0570-01-01",
+      "event": "Pre-Islamic poet Ta'abbata Sharra describes his combat with a ghul",
+      "significance": "Earliest extant literary attestation",
+      "source": "Pre-Islamic Arabic poetry; Wikipedia, Ghoul"
+    },
+    {
+      "date": "0644-01-01",
+      "event": "Al-Mas'udi's later report that the second caliph 'Umar ibn al-Khattab killed a ghul with his sword while traveling in Syria",
+      "significance": "Famous ghul-related anecdote in early Islamic historiography",
+      "source": "Al-Mas'udi, Muruj al-Dhahab"
+    },
+    {
+      "date": "0850-01-01",
+      "event": "Al-Jahiz (Kitab al-Hayawan) sceptically discusses the ghul tradition",
+      "significance": "Earliest major rationalist critique of ghul belief",
+      "source": "Al-Jahiz, Kitab al-Hayawan"
+    },
+    {
+      "date": "1372-01-01",
+      "event": "Al-Damiri's Hayat al-Hayawan ('Lives of Animals') records hadiths in which travelers escape ghuls by reciting the adhan",
+      "significance": "Major medieval encyclopaedic treatment of the ghul",
+      "source": "Al-Damiri, Hayat al-Hayawan"
+    },
+    {
+      "date": "1704-01-01",
+      "event": "Antoine Galland's French translation of 'One Thousand and One Nights' (1704–1717) introduces ghuls to Western readers",
+      "significance": "First sustained European exposure to the ghul tradition",
+      "source": "Galland, Les Mille et Une Nuits"
+    },
+    {
+      "date": "1786-01-01",
+      "event": "William Beckford publishes the Gothic novel 'Vathek', introducing 'ghoul' to English",
+      "significance": "First attested English use of 'ghoul'",
+      "source": "Wikipedia, Ghoul"
+    },
+    {
+      "date": "1927-01-01",
+      "event": "H. P. Lovecraft's 'Pickman's Model' published, recasting the ghoul as a subterranean corpse-eating creature",
+      "significance": "Basis for the modern Anglophone fantasy/horror ghoul archetype",
+      "source": "Lovecraft, H. P. (1927), Pickman's Model"
+    }
+  ],
+  "related": [
+    {
+      "id": "djinn",
+      "name": "Djinn / Jinn",
+      "relationship": "superset",
+      "description": "Ghuls are classed as a type of jinn in Islamic tradition"
+    },
+    {
+      "id": "jinn",
+      "name": "Jinn",
+      "relationship": "superset",
+      "description": "Same — broader category to which ghuls belong"
+    },
+    {
+      "id": "ifrit",
+      "name": "Ifrit",
+      "relationship": "related",
+      "description": "Another powerful class of jinn in Arabic and Islamic tradition"
+    },
+    {
+      "id": "marid",
+      "name": "Marid",
+      "relationship": "related",
+      "description": "Powerful class of jinn associated with the sea"
+    },
+    {
+      "id": "vampires",
+      "name": "Vampires",
+      "relationship": "similar",
+      "description": "Blood-drinking, corpse-eating undead with cross-cultural parallels"
+    },
+    {
+      "id": "wendigo",
+      "name": "Wendigo",
+      "relationship": "similar",
+      "description": "Cannibal monster of Algonquian folklore — shared cannibalism motif"
+    },
+    {
+      "id": "gello",
+      "name": "Gello",
+      "relationship": "related",
+      "description": "Greek child-killing demon; argued by some scholars (Frank, Burkert, West) to share a Mesopotamian Gallû etymology with ghul"
+    }
+  ],
+  "cultural_notes": "The ghul is widely understood in Arabic and Islamic folklore as a real (though invisible or shape-shifting) jinn-class demon haunting deserts and graveyards. Apotropaic practices include reciting the adhan and Qur'anic verses, and avoiding solitary night travel through wild places.",
+  "sources": [
+    {
+      "id": "wikipedia-ghoul",
+      "type": "website",
+      "title": "Ghoul",
+      "url": "https://en.wikipedia.org/wiki/Ghoul",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "al-damiri-hayat",
+      "type": "book",
+      "title": "Hayat al-Hayawan al-Kubra (The Lives of Animals)",
+      "authors": [
+        "Kamal al-Din al-Damiri"
+      ],
+      "date": "1372"
+    },
+    {
+      "id": "al-jahiz-hayawan",
+      "type": "book",
+      "title": "Kitab al-Hayawan (The Book of Animals)",
+      "authors": [
+        "Al-Jahiz"
+      ],
+      "date": "0850"
+    },
+    {
+      "id": "al-masudi-muruj",
+      "type": "book",
+      "title": "Muruj al-Dhahab wa Ma'adin al-Jawhar (The Meadows of Gold and Mines of Gems)",
+      "authors": [
+        "Al-Mas'udi"
+      ],
+      "date": "0947"
+    },
+    {
+      "id": "beckford-1786",
+      "type": "book",
+      "title": "Vathek",
+      "authors": [
+        "William Beckford"
+      ],
+      "publication": "London",
+      "date": "1786"
+    },
+    {
+      "id": "lovecraft-1927",
+      "type": "article",
+      "title": "Pickman's Model",
+      "authors": [
+        "H. P. Lovecraft"
+      ],
+      "publication": "Weird Tales",
+      "date": "1927"
+    }
+  ],
+  "locations": []
 }

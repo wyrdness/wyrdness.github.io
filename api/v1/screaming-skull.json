@@ -3,6 +3,7 @@
   "name": "Screaming Skull",
   "category": "ghost_haunting",
   "description": "A screaming skull is a haunted human skull from British folklore believed to scream, cause poltergeist phenomena, or bring misfortune when removed from its home location — most commonly a historic English manor house, farm, or castle.",
+  "full_description": "Screaming skulls are a phenomenon of primarily English folklore involving human skulls alleged to possess supernatural properties, most notably the ability to emit screams or cause violent phenomena when removed from a specific location where they have been kept, sometimes for centuries. The skulls are typically associated with specific manor houses, farmhouses, or historic buildings and are said to be the remains of individuals who died violent or tragic deaths and whose spirits refuse to rest unless the skull remains in its designated place. Attempting to bury or remove the skull is said to cause it to scream, or to bring storms, cattle deaths, poltergeist phenomena, and other misfortunes until the skull is returned. The tradition represents a convergence of medieval relic veneration, death customs surrounding disinterred remains, and the haunting narrative. The phenomenon is documented from approximately the 1600s onward and is almost exclusively concentrated in England. Notable examples include the Bettiscombe skull (Dorset), the Tunstead Farm skull 'Dickie' (Derbyshire), the skull of St. Ambrose Barlow at Wardley Hall (Greater Manchester), and Anne Griffith's skull at Burton Agnes Hall (East Yorkshire).",
   "aliases": [
     {
       "name": "Fetch skull",
@@ -40,5 +41,115 @@
   "origin": "Almost exclusively documented in England, with isolated cases in other English-speaking regions. The phenomenon is particularly concentrated in the north of England (Yorkshire, Derbyshire, Lancashire) and the south (Dorset, Somerset).",
   "first_reported": "1600-01-01",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "English; 'screaming skull' is a descriptive compound term from the folklore tradition rather than a formal naming.",
+    "meaning": "A human skull alleged to scream or cause disturbance when removed from its home location.",
+    "first_use": "Documented in English folklore from approximately the 1600s; first attested in print sources around the 1880s–1890s."
+  },
+  "sightings_stats": {
+    "total_documented": 7,
+    "verified": 0,
+    "disputed": 7,
+    "debunked": 0,
+    "date_range": {
+      "earliest": "1600",
+      "latest": "present"
+    }
+  },
+  "timeline": [
+    {
+      "date": "1620-01-01",
+      "event": "Anne Griffith dies at Burton Agnes Hall, Yorkshire; legend records she requested her skull remain in the house",
+      "significance": "Establishes the Burton Agnes Hall skull legend",
+      "source": "Local tradition; documented in Victorian folklore collections"
+    },
+    {
+      "date": "1641-01-01",
+      "event": "St. Ambrose Barlow executed; skull said to be kept at Wardley Hall",
+      "significance": "Establishes the Wardley Hall skull legend",
+      "source": "Catholic martyrology; local tradition"
+    },
+    {
+      "date": "1883-01-01",
+      "event": "Investigation of the Bettiscombe skull documented; associated with story of an African slave requesting burial in his homeland",
+      "significance": "One of the earliest documented investigations of a screaming skull",
+      "source": "Ingram, J.H. (1897), The Haunted Homes and Family Traditions of Great Britain"
+    },
+    {
+      "date": "1897-01-01",
+      "event": "J.H. Ingram publishes The Haunted Homes and Family Traditions of Great Britain, systematically documenting multiple screaming skull cases",
+      "significance": "First major compendium of English screaming skull cases",
+      "source": "Ingram, J.H. (1897)"
+    },
+    {
+      "date": "1911-01-01",
+      "event": "F. Marion Crawford's short story 'The Screaming Skull' published",
+      "significance": "Major popularization of the legend in fiction",
+      "source": "Crawford, F.M. (1911)"
+    },
+    {
+      "date": "1958-01-01",
+      "event": "Horror film The Screaming Skull released",
+      "significance": "Brought the legend to wider mid-20th-century audience",
+      "source": "The Screaming Skull (1958 film)"
+    }
+  ],
+  "related": [
+    {
+      "id": "poltergeist",
+      "name": "Poltergeist",
+      "relationship": "related",
+      "description": "The phenomena attributed to disturbed screaming skulls (knocking, objects moving, unexplained sounds) overlap with poltergeist activity"
+    },
+    {
+      "id": "haunted-object",
+      "name": "Haunted Object",
+      "relationship": "superset",
+      "description": "Screaming skulls are a specific subtype of the broader haunted object category"
+    }
+  ],
+  "cultural_notes": "The screaming skull tradition reflects a belief that the soul can remain attached to the physical skull, and that the proper final resting place — whether a specific building or the homeland of the deceased — must be honored for the spirit to rest. The skull functions simultaneously as relic, guardian, and trap for an unquiet spirit.",
+  "sources": [
+    {
+      "id": "ingram-1897",
+      "type": "book",
+      "title": "The Haunted Homes and Family Traditions of Great Britain",
+      "authors": [
+        "J.H. Ingram"
+      ],
+      "publication": "Gibbings and Company",
+      "date": "1897"
+    },
+    {
+      "id": "crawford-1911",
+      "type": "other",
+      "title": "The Screaming Skull",
+      "authors": [
+        "F. Marion Crawford"
+      ],
+      "date": "1911",
+      "notes": "Short horror story; major popularization of the screaming skull legend in fiction"
+    },
+    {
+      "id": "wikipedia-screaming-skull",
+      "type": "website",
+      "title": "Screaming skull",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Screaming_skull",
+      "accessed": "2026-05-08"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Bettiscombe Manor",
+      "lat": 50.77,
+      "lng": -2.83
+    },
+    {
+      "name": "Burton Agnes Hall",
+      "lat": 54.01,
+      "lng": -0.3
+    }
+  ]
 }

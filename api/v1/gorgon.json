@@ -3,6 +3,7 @@
   "name": "Gorgon",
   "category": "mythological_creature",
   "description": "The Gorgons are three monstrous sisters of Greek myth — Medusa, Stheno, and Euryale — daughters of the primordial sea-deities Phorcys and Ceto, whose gaze turned mortals to stone.",
+  "full_description": "In Greek mythology the Gorgons (Greek: Gorgones) are three sisters described in archaic sources from Hesiod and Homer onward (c. 700 BC) as monstrous chthonic beings dwelling at the edge of the world. According to Hesiod's Theogony and the later Bibliotheca attributed to Apollodorus, they were daughters of the primordial sea-god Phorcys and his sister-consort Ceto. Their names are Stheno, Euryale (both immortal), and Medusa (mortal). Apollodorus describes them as having serpents for hair, large tusks like a boar's, brazen hands, and golden wings; later iconography emphasized snake-hair and a petrifying gaze. The most famous Gorgon, Medusa, was beheaded by the hero Perseus, who used a polished shield to view her reflection. From her severed neck sprang the winged horse Pegasus and the warrior Chrysaor. The severed head retained its petrifying power and was eventually fixed on Athena's aegis. Beyond myth, the gorgoneion — a frontal image of a Gorgon's face — was one of the most widespread apotropaic motifs in the ancient Mediterranean, appearing on temple pediments, antefixes, shields, coins, and household pottery from the 7th century BC onward. Scholars including Walter Burkert and Jane Ellen Harrison have argued that the gorgoneion mask preceded the developed myth, with the Perseus narrative arising as an explanation for the apotropaic image.",
   "aliases": [
     {
       "name": "Gorgones",
@@ -51,5 +52,182 @@
   "origin": "A creature of Ancient Greek and broader Mediterranean myth. Literary references locate the Gorgons at the edges of the known world; iconographically, gorgoneia were used across the Greek, Etruscan, and Roman worlds and into Roman Britain.",
   "first_reported": "circa 700 BC",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "From Ancient Greek Γοργών (Gorgōn), related to the adjective γοργός (gorgós) meaning 'grim, fierce, terrible', particularly of a glaring eye. Possible Indo-European cognates include Sanskrit garj (to growl, roar).",
+    "meaning": "'Dreadful (one)' or 'grim-faced (one)'; etymologically tied to a fierce, glaring look.",
+    "first_use": "Archaic Greek poetry, c. 8th–7th century BC (Hesiod, Homer)"
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0,
+    "date_range": {
+      "earliest": "c. 700 BC (literary)",
+      "latest": "n/a"
+    }
+  },
+  "timeline": [
+    {
+      "date": "c. 700 BC",
+      "event": "Hesiod's Theogony names Sthenno, Euryale, and Medusa as daughters of Phorcys and Ceto",
+      "significance": "Earliest extant genealogy of the Gorgons",
+      "source": "Hesiod, Theogony 270–283"
+    },
+    {
+      "date": "c. 670 BC",
+      "event": "Eleusis amphora depicts Perseus fleeing from two Gorgons after beheading Medusa",
+      "significance": "Among the earliest narrative depictions of the Perseus myth",
+      "source": "Eleusis Archaeological Museum"
+    },
+    {
+      "date": "c. 580 BC",
+      "event": "Pediment of the Temple of Artemis at Corfu shows a winged Gorgon in 'knielauf' pose",
+      "significance": "Largest surviving archaic stone Gorgon",
+      "source": "Corfu Archaeological Museum"
+    },
+    {
+      "date": "5th century BC",
+      "event": "Pindar describes Medusa with snake hair and as 'beautiful-cheeked', signaling shift to classical type",
+      "significance": "Origin of the 'beautiful Medusa' iconography",
+      "source": "Pindar, Pythian 12"
+    },
+    {
+      "date": "c. 414 BC",
+      "event": "Euripides' Ion mentions Athena giving two drops of Gorgon blood to Erichthonius",
+      "significance": "Source for the 'healing/killing' Gorgon-blood motif",
+      "source": "Euripides, Ion 1003–1017"
+    },
+    {
+      "date": "1st century AD",
+      "event": "Construction of the Temple of Sulis Minerva at Bath, with its famous gorgoneion pediment",
+      "significance": "Diffusion of gorgoneion iconography to Roman Britain",
+      "source": "Roman Baths Museum, Bath"
+    },
+    {
+      "date": "1st–2nd century AD",
+      "event": "Pseudo-Apollodorus (Bibliotheca) compiles the standard mythography of the Gorgons",
+      "significance": "Most-cited canonical narrative",
+      "source": "Apollodorus, Bibliotheca 2.4.2"
+    }
+  ],
+  "related": [
+    {
+      "id": "medusa",
+      "name": "Medusa",
+      "relationship": "subset",
+      "description": "The mortal Gorgon, beheaded by Perseus"
+    },
+    {
+      "id": "graeae",
+      "name": "Graeae",
+      "relationship": "related",
+      "description": "The Gorgons' sisters; three grey-haired women sharing one eye and one tooth"
+    },
+    {
+      "id": "lamia",
+      "name": "Lamia",
+      "relationship": "similar",
+      "description": "Greek child-devouring monstrous female"
+    },
+    {
+      "id": "echidna",
+      "name": "Echidna",
+      "relationship": "similar",
+      "description": "Half-woman, half-serpent mother of monsters in Hesiod"
+    },
+    {
+      "id": "humbaba",
+      "name": "Humbaba",
+      "relationship": "similar",
+      "description": "Mesopotamian forest guardian whose terracotta-mask iconography parallels the gorgoneion"
+    },
+    {
+      "id": "lamashtu",
+      "name": "Lamashtu",
+      "relationship": "similar",
+      "description": "Mesopotamian demoness with iconographic parallels (knielauf pose, snakes) to archaic Gorgons"
+    }
+  ],
+  "cultural_notes": "In Greek and Roman religion the Gorgon's face, fixed on a building, shield, or amulet, was believed to ward off the evil eye and other malevolent influences.",
+  "sources": [
+    {
+      "id": "wikipedia-gorgon",
+      "type": "website",
+      "title": "Gorgon",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Gorgon",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "hesiod-theogony",
+      "type": "book",
+      "title": "Theogony",
+      "authors": [
+        "Hesiod"
+      ],
+      "date": "c. 700 BC"
+    },
+    {
+      "id": "homer-iliad",
+      "type": "book",
+      "title": "Iliad",
+      "authors": [
+        "Homer"
+      ],
+      "date": "c. 8th century BC"
+    },
+    {
+      "id": "apollodorus-bibliotheca",
+      "type": "book",
+      "title": "Bibliotheca (The Library)",
+      "authors": [
+        "Pseudo-Apollodorus"
+      ],
+      "date": "1st–2nd century AD"
+    },
+    {
+      "id": "ovid-metamorphoses",
+      "type": "book",
+      "title": "Metamorphoses",
+      "authors": [
+        "Ovid"
+      ],
+      "date": "8 AD"
+    },
+    {
+      "id": "harrison-1903",
+      "type": "book",
+      "title": "Prolegomena to the Study of Greek Religion",
+      "authors": [
+        "Jane Ellen Harrison"
+      ],
+      "publication": "Cambridge University Press",
+      "date": "1903"
+    },
+    {
+      "id": "burkert-1992",
+      "type": "book",
+      "title": "The Orientalizing Revolution: Near Eastern Influence on Greek Culture in the Early Archaic Age",
+      "authors": [
+        "Walter Burkert"
+      ],
+      "publication": "Harvard University Press",
+      "date": "1992",
+      "isbn": "978-0674643642"
+    },
+    {
+      "id": "wilk-2000",
+      "type": "book",
+      "title": "Medusa: Solving the Mystery of the Gorgon",
+      "authors": [
+        "Stephen R. Wilk"
+      ],
+      "publication": "Oxford University Press",
+      "date": "2000",
+      "isbn": "978-0195128314"
+    }
+  ],
+  "locations": []
 }

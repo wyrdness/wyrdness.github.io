@@ -3,6 +3,7 @@
   "name": "Ijiraq",
   "category": "entity_spirit",
   "description": "The ijiraq is a shapeshifting being of Inuit religion and oral tradition, said to live between the worlds of the living and the dead, glimpsed only at the edge of vision and known to take and hide away children.",
+  "full_description": "The ijiraq (plural ijirait) is a class of spirit being in Inuit religion, especially well-attested in North Baffin Inuktitut, where the term carries the gloss 'Shape Shifter'. Ijirait inhabit a liminal place 'between two worlds; not quite inside this one, nor quite out of it', and are said to be the souls of people who travelled too far north hunting and became trapped between the realm of the living and the dead. They can take any form — caribou, bear, fox, or human — but in any disguise their eyes remain red, their mouth and eyes are set sideways, and they cannot be seen directly: they appear at the edge of vision and are forgotten almost as soon as they are encountered. They sometimes lead travellers astray and are particularly known for stealing children and abandoning them in the tundra. The ijiraq is one of several beings in Inuit cosmology that mark the danger of the polar wilderness, alongside the tariaksuq (half-man, half-caribou), the qallupilluit (water-creatures who steal disobedient children), and the tupilaq.",
   "aliases": [
     {
       "name": "Ijirait",
@@ -38,5 +39,102 @@
   "origin": "The ijiraq is part of Inuit religion and folklore, especially among the Inuit of the eastern Canadian Arctic, the central Arctic islands, and the high Arctic. The term is well-attested in North Baffin Inuktitut.",
   "first_reported": "Pre-contact",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Inuktitut, especially North Baffin dialects, where the term means 'shape shifter'.",
+    "meaning": "Shape shifter; one who appears at the edge of vision; a being-between-worlds.",
+    "first_use": "Inuit oral tradition. The earliest sustained ethnographic English-language documentation of Inuit cosmology dates to the late 19th century (Boas, Rasmussen)."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0,
+    "date_range": {
+      "earliest": "Pre-contact",
+      "latest": "2026"
+    }
+  },
+  "timeline": [
+    {
+      "date": "Pre-contact",
+      "event": "Inuit oral traditions of the ijiraq, transmitted across the Arctic",
+      "significance": "Pre-contact baseline of the tradition",
+      "source": "Inuit oral tradition"
+    },
+    {
+      "date": "2000-09-23",
+      "event": "J. J. Kavelaars and B. J. Gladman discover an irregular moon of Saturn (S/2000 S 6)",
+      "significance": "Astronomical discovery of the body later named after the ijiraq",
+      "source": "Canada–France–Hawaii Telescope (CFHT) discovery announcement"
+    },
+    {
+      "date": "2003-01-08",
+      "event": "The IAU officially names the new Saturnian moon Ijiraq, after the Inuit shapeshifter, on the recommendation of J. J. Kavelaars",
+      "significance": "First official Inuit-named body in the outer solar system; deliberate diversification of astronomical nomenclature",
+      "source": "International Astronomical Union (IAU)"
+    },
+    {
+      "date": "2017-01-01",
+      "event": "Floortje Zwigtman includes the ijiraq in Fabeldieren (2017)",
+      "significance": "Modern children's-encyclopaedia treatment of the figure",
+      "source": "Zwigtman, Fabeldieren (2017)"
+    }
+  ],
+  "related": [
+    {
+      "id": "tariaksuq",
+      "name": "Tariaksuq",
+      "relationship": "similar",
+      "description": "Inuit half-man, half-caribou being seen only peripherally"
+    },
+    {
+      "id": "qallupilluit",
+      "name": "Qallupilluit",
+      "relationship": "related",
+      "description": "Inuit water-being said to take disobedient children"
+    },
+    {
+      "id": "tupilaq",
+      "name": "Tupilaq",
+      "relationship": "related",
+      "description": "Inuit constructed avenging spirit"
+    },
+    {
+      "id": "skinwalker",
+      "name": "Skinwalker",
+      "relationship": "similar",
+      "description": "Diné shapeshifting witch tradition; an analog from a different North American Indigenous tradition"
+    }
+  ],
+  "cultural_notes": "The ijiraq is a real being whose existence is taken seriously in many Inuit communities; encounters require care, not mockery, and stolen children can be recovered through committed family effort and community vigilance.",
+  "sources": [
+    {
+      "id": "wikipedia-ijiraq",
+      "type": "website",
+      "title": "Ijiraq",
+      "url": "https://en.wikipedia.org/wiki/Ijiraq",
+      "publication": "Wikipedia",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "wikipedia-ijiraq-moon",
+      "type": "website",
+      "title": "Ijiraq (moon)",
+      "url": "https://en.wikipedia.org/wiki/Ijiraq_(moon)",
+      "publication": "Wikipedia",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "zwigtman-2017",
+      "type": "book",
+      "title": "Fabeldieren",
+      "authors": [
+        "Floortje Zwigtman"
+      ],
+      "publication": "Lemniscaat",
+      "date": "2017"
+    }
+  ],
+  "locations": []
 }

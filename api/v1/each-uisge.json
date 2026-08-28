@@ -3,6 +3,7 @@
   "name": "Each-uisge",
   "category": "mythological_creature",
   "description": "A shapeshifting Celtic water horse of Scottish and Irish folklore, considered the fiercest of all water horses; lures riders into sea lochs and freshwater lochs and devours all but their livers.",
+  "full_description": "The each-uisge ([ɛxˈɯʃkʲə], 'water horse') is a malevolent water spirit of Scottish Highland folklore, with a close Irish cognate (each-uisce / aughisky) and Manx cognate (cabyll-ushtey). Folklorist Katharine Briggs called it 'perhaps the fiercest and most dangerous of all the water-horses'. It is a shapeshifter, appearing most often as a fine horse or pony but also as a handsome young man or, in some accounts, an enormous bird. When mounted in horse form, the rider is initially safe; once the creature reaches water, its skin turns adhesive and it plunges to the deepest part of the loch, drowning the rider and devouring the body — except, traditionally, the liver, which floats ashore and identifies the cause of death. Unlike the kelpie, which haunts streams and rivers, the each-uisge frequents sea lochs and large freshwater lochs of the Highlands and Hebrides. The creature is documented in 19th-century collections by John Gregorson Campbell and J. F. Campbell, and synthesised in modern scholarship by Katharine Briggs.",
   "aliases": [
     {
       "name": "each-uisge",
@@ -53,5 +54,110 @@
   "origin": "Folkloric range across the Scottish Highlands and Hebrides, with cognates in Ireland (each-uisce / aughisky) and the Isle of Man (cabyll-ushtey).",
   "first_reported": "19th century",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Scottish Gaelic 'each' (horse) + 'uisge' (water); cognates each-uisce in Irish and cabyll-ushtey in Manx (cabbyl 'horse' + ushtey 'water').",
+    "meaning": "'Water horse'.",
+    "first_use": "Recorded throughout 19th-century Scottish Gaelic folklore collections."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "1860-01-01",
+      "event": "John Francis Campbell publishes 'Popular Tales of the West Highlands', containing several each-uisge tales",
+      "significance": "First major scholarly documentation in English",
+      "source": "Campbell, J. F. (1860–1862)"
+    },
+    {
+      "date": "1900-01-01",
+      "event": "John Gregorson Campbell publishes 'Superstitions of the Highlands and Islands of Scotland', with a chapter on water-horses",
+      "significance": "Classic ethnographic treatment of the each-uisge",
+      "source": "Campbell, J. G. (1900)"
+    },
+    {
+      "date": "1976-01-01",
+      "event": "Katharine Briggs publishes 'A Dictionary of Fairies', characterising the each-uisge as 'perhaps the fiercest and most dangerous of all the water-horses'",
+      "significance": "Foundational modern reference",
+      "source": "Briggs, K. (1976)"
+    }
+  ],
+  "related": [
+    {
+      "id": "kelpie",
+      "name": "Kelpie",
+      "relationship": "similar",
+      "description": "Scottish water horse of streams and rivers; close cognate"
+    },
+    {
+      "id": "nuckelavee",
+      "name": "Nuckelavee",
+      "relationship": "similar",
+      "description": "Orcadian skinless sea-monster sometimes grouped with water-horse traditions"
+    },
+    {
+      "id": "loch-ness-monster",
+      "name": "Loch Ness Monster",
+      "relationship": "related",
+      "description": "Modern cryptid sometimes folk-etymologically linked to water-horse tradition"
+    },
+    {
+      "id": "ceffyl-dwr",
+      "name": "Ceffyl Dŵr",
+      "relationship": "regional_variant",
+      "description": "Welsh water horse"
+    },
+    {
+      "id": "dobhar-chu",
+      "name": "Dobhar-chú",
+      "relationship": "related",
+      "description": "Irish water hound; another Gaelic water-monster type"
+    }
+  ],
+  "cultural_notes": "Anyone who mounts an each-uisge near water is doomed; the liver floating ashore is the only sign of the victim's fate. Folk practice held that a horse encountered alone near a loch should never be ridden or even touched.",
+  "sources": [
+    {
+      "id": "campbell-jf-1860",
+      "type": "book",
+      "title": "Popular Tales of the West Highlands",
+      "authors": [
+        "John Francis Campbell"
+      ],
+      "publication": "Edmonston and Douglas, Edinburgh",
+      "date": "1860"
+    },
+    {
+      "id": "campbell-jg-1900",
+      "type": "book",
+      "title": "Superstitions of the Highlands and Islands of Scotland",
+      "authors": [
+        "John Gregorson Campbell"
+      ],
+      "publication": "James MacLehose and Sons, Glasgow",
+      "date": "1900"
+    },
+    {
+      "id": "briggs-1976",
+      "type": "book",
+      "title": "A Dictionary of Fairies",
+      "authors": [
+        "Katharine Briggs"
+      ],
+      "publication": "Penguin / Pantheon",
+      "date": "1976",
+      "isbn": "978-0394734675"
+    },
+    {
+      "id": "wikipedia-each-uisge",
+      "type": "website",
+      "title": "Each-uisge",
+      "url": "https://en.wikipedia.org/wiki/Each-uisge",
+      "accessed": "2026-05-07"
+    }
+  ],
+  "locations": []
 }

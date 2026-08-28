@@ -3,6 +3,7 @@
   "name": "Out-of-Body Experiences",
   "category": "psychic_phenomena",
   "description": "Out-of-body experiences (OBEs) are sensations in which a person perceives their consciousness to have separated from the physical body, allowing perception from an external vantage point. Roughly one in ten people report at least one OBE during their lifetime.",
+  "full_description": "An out-of-body experience (OBE) is a phenomenon in which a person perceives the world from a location outside their physical body. Experiencers commonly report viewing their own body from above, floating or flying sensations, and — in some accounts — traveling to distant locations while maintaining full lucidity. OBEs can occur spontaneously (most often during sleep paralysis or near-death experiences), or be deliberately induced through meditation, sensory deprivation, binaural beats, or certain pharmacological agents. The term 'out-of-the-body experience' was introduced by J. Arthur Hill in 1918 in his book Man is a Spirit and was further popularized by G. N. M. Tyrrell in Apparitions (1943). Robert Monroe, who founded the Monroe Institute in Virginia in 1971, popularized the concept through his 1971 book Journeys Out of the Body. Scientific investigation includes Celia Green's 1968 survey of 400 first-hand accounts, Charles Tart's 1968 monitored study of 'Miss Z', and landmark neuroscience work by Olaf Blanke (EPFL, Switzerland) demonstrating that electrical stimulation of the right temporoparietal junction (TPJ) can reliably induce OBE-like experiences. Henrik Ehrsson (2007, published in Science) experimentally induced OBE sensations in healthy participants using head-mounted displays. The scientific consensus attributes OBEs to temporary disruption of multisensory integration processes in the brain, particularly at the temporoparietal junction, rather than to a literal departure of consciousness from the body.",
   "aliases": [
     {
       "name": "OBE",
@@ -44,5 +45,190 @@
   "origin": "Reported across all human cultures and throughout recorded history. Cross-cultural survey data suggest approximately 10% of the global population reports at least one OBE.",
   "first_reported": "Pre-modern",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "The phrase 'out-of-the-body experience' was coined by J. Arthur Hill in 1918 in Man is a Spirit. G. N. M. Tyrrell used 'out-of-body experience' in Apparitions (1943). The contracted form 'OBE' became the standard abbreviation in parapsychological and neuroscientific literature.",
+    "meaning": "Describes the phenomenological sensation of perceiving from outside one's own physical body.",
+    "first_use": "1918 (J. Arthur Hill, Man is a Spirit)"
+  },
+  "sightings_stats": {
+    "total_documented": 400,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0,
+    "date_range": {
+      "earliest": "1918",
+      "latest": "2026"
+    }
+  },
+  "timeline": [
+    {
+      "date": "1918",
+      "event": "J. Arthur Hill uses 'out-of-the-body experience' in Man is a Spirit",
+      "significance": "First recorded use of the term in English",
+      "source": "Hill, J. A. (1918), Man is a Spirit"
+    },
+    {
+      "date": "1943",
+      "event": "G. N. M. Tyrrell coins 'out-of-body experience' in Apparitions",
+      "significance": "Establishes the modern English term",
+      "source": "Tyrrell, G. N. M. (1943), Apparitions"
+    },
+    {
+      "date": "1968",
+      "event": "Celia Green publishes first large-scale survey of 400 OBE accounts, finding 80% described themselves as 'disembodied consciousness'",
+      "significance": "First systematic empirical study of OBE phenomenology",
+      "source": "Green, C. (1968), Out-of-the-Body Experiences"
+    },
+    {
+      "date": "1968",
+      "event": "Charles Tart monitors 'Miss Z' in a lab setting; she reportedly identifies a five-digit code during an OBE",
+      "significance": "First monitored OBE experiment; methodology subsequently criticized",
+      "source": "Tart, C. (1968)"
+    },
+    {
+      "date": "1971",
+      "event": "Robert Monroe founds the Monroe Institute and publishes Journeys Out of the Body",
+      "significance": "Major popularization of OBEs for general audiences; introduces Hemi-Sync binaural beat technology",
+      "source": "Monroe, R. (1971), Journeys Out of the Body"
+    },
+    {
+      "date": "2002",
+      "event": "Olaf Blanke (EPFL) demonstrates electrical stimulation of the right temporoparietal junction reliably induces OBE-like experiences in a patient",
+      "significance": "First direct neural evidence for the brain substrate of OBEs",
+      "source": "Blanke, O. et al. (2002)"
+    },
+    {
+      "date": "2007",
+      "event": "Henrik Ehrsson publishes experimental induction of OBE in healthy participants using head-mounted displays in Science",
+      "significance": "First replicable laboratory induction of OBE in non-clinical subjects",
+      "source": "Ehrsson, H. H. (2007), Science"
+    },
+    {
+      "date": "2014",
+      "event": "Sam Parnia publishes AWARE study in Resuscitation: no patients successfully identified hidden visual targets; one case of awareness confirmed via auditory stimuli",
+      "significance": "Largest prospective scientific study of OBEs during cardiac arrest",
+      "source": "Parnia, S. et al. (2014), Resuscitation"
+    }
+  ],
+  "related": [
+    {
+      "id": "near-death-experiences",
+      "name": "Near-Death Experiences",
+      "relationship": "related",
+      "description": "OBEs are frequently reported as a component of near-death experiences"
+    },
+    {
+      "id": "sleep-paralysis",
+      "name": "Sleep Paralysis",
+      "relationship": "related",
+      "description": "Sleep paralysis episodes frequently co-occur with or trigger OBEs"
+    },
+    {
+      "id": "lucid-dreaming",
+      "name": "Lucid Dreaming",
+      "relationship": "related",
+      "description": "Some researchers argue OBEs are a form of lucid dreaming; others distinguish them"
+    },
+    {
+      "id": "astral-projection",
+      "name": "Astral Projection",
+      "relationship": "related",
+      "description": "The paranormal framing of OBEs as literal soul travel"
+    }
+  ],
+  "cultural_notes": "Many spiritual and religious traditions interpret OBEs as evidence for the existence of a non-physical soul or consciousness capable of independent existence. Modern practitioners seek to induce OBEs for spiritual development, creative exploration, or claimed healing purposes.",
+  "sources": [
+    {
+      "id": "tyrrell-1943",
+      "type": "book",
+      "title": "Apparitions",
+      "authors": [
+        "G. N. M. Tyrrell"
+      ],
+      "publication": "Society for Psychical Research",
+      "date": "1943"
+    },
+    {
+      "id": "hill-1918",
+      "type": "book",
+      "title": "Man is a Spirit",
+      "authors": [
+        "J. Arthur Hill"
+      ],
+      "publication": "Cassell",
+      "date": "1918"
+    },
+    {
+      "id": "monroe-1971",
+      "type": "book",
+      "title": "Journeys Out of the Body",
+      "authors": [
+        "Robert Monroe"
+      ],
+      "publication": "Doubleday",
+      "date": "1971"
+    },
+    {
+      "id": "green-1968",
+      "type": "book",
+      "title": "Out-of-the-Body Experiences",
+      "authors": [
+        "Celia Green"
+      ],
+      "publication": "Institute of Psychophysical Research",
+      "date": "1968"
+    },
+    {
+      "id": "blackmore-1982",
+      "type": "book",
+      "title": "Beyond the Body: An Investigation of Out-of-the-Body Experiences",
+      "authors": [
+        "Susan Blackmore"
+      ],
+      "publication": "Heinemann",
+      "date": "1982"
+    },
+    {
+      "id": "blanke-2002",
+      "type": "paper",
+      "title": "Stimulating illusory own-body perceptions",
+      "authors": [
+        "Olaf Blanke",
+        "Stephanie Ortigue",
+        "Theodor Landis",
+        "Margitta Seeck"
+      ],
+      "publication": "Nature",
+      "date": "2002"
+    },
+    {
+      "id": "ehrsson-2007",
+      "type": "paper",
+      "title": "The Experimental Induction of Out-of-Body Experiences",
+      "authors": [
+        "H. Henrik Ehrsson"
+      ],
+      "publication": "Science",
+      "date": "2007"
+    },
+    {
+      "id": "parnia-2014",
+      "type": "paper",
+      "title": "AWARE—AWAreness during REsuscitation—A prospective study",
+      "authors": [
+        "Sam Parnia"
+      ],
+      "publication": "Resuscitation",
+      "date": "2014"
+    },
+    {
+      "id": "wikipedia-obe",
+      "type": "website",
+      "title": "Out-of-body experience",
+      "url": "https://en.wikipedia.org/wiki/Out-of-body_experience",
+      "accessed": "2026-05-08"
+    }
+  ],
+  "locations": []
 }

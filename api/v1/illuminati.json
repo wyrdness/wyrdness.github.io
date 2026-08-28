@@ -3,6 +3,7 @@
   "name": "Illuminati",
   "category": "conspiracy_theory",
   "description": "The Illuminati refers both to a real secret society founded in Bavaria in 1776 (suppressed by 1785) and to the enduring conspiracy theory claiming that organization secretly survived to control world governments, finance, and media.",
+  "full_description": "The name 'Illuminati' covers two distinct but related phenomena. First, the historical Bavarian Illuminati: a real Enlightenment-era secret society founded on May 1, 1776 by Adam Weishaupt, a professor at the University of Ingolstadt, originally named the Bund der Perfektibilisten (Covenant of Perfectibility) and renamed Illuminatenorden in April 1778. The organization's stated goals were to oppose superstition, obscurantism, religious influence over public life, and abuses of state power. At its peak it had approximately 650 verified members including Goethe, Herder, and various German nobles. Adolph Knigge joined in 1780 and created the order's elaborate degree system. The Bavarian government banned secret societies by edicts in 1784 and 1785, and the organization was effectively destroyed; Weishaupt fled into exile. The seized documents were published by the government in 1787. Second, the conspiracy theory: beginning in 1797–1798, French Jesuit exile Augustin Barruel and Scottish writer John Robison independently published works claiming the Illuminati had survived and orchestrated the French Revolution. These claims were accepted by some contemporary commentators, spread to the United States (where Rev. Jedidiah Morse delivered an anti-Illuminati sermon on May 9, 1798), and have evolved through multiple iterations into modern conspiracy theories positing a shadowy elite controlling world events. Scholarly consensus holds that the historical Illuminati did not survive its suppression, and that modern Illuminati conspiracy theories are not supported by credible evidence.",
   "aliases": [
     {
       "name": "Bavarian Illuminati",
@@ -52,5 +53,110 @@
   "origin": "The historical society operated in Bavaria and spread to central Europe. The conspiracy theory is globally distributed.",
   "first_reported": "1776-05-01",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Latin illuminati, 'the enlightened ones.' The historical order adopted the name to signify those illuminated by Enlightenment reason.",
+    "meaning": "From Latin illuminare, 'to illuminate'; the illuminati are those possessing special knowledge or enlightenment.",
+    "first_use": "1776 (historical society, as 'Bund der Perfektibilisten'); 1778 (renamed 'Illuminatenorden'); 1797 (conspiracy theory, Barruel)"
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "1776-05-01",
+      "event": "Adam Weishaupt founds the Bund der Perfektibilisten at Ingolstadt; renamed Illuminatenorden in April 1778",
+      "significance": "Foundation of the historical organization",
+      "source": "Wikipedia / Illuminati article"
+    },
+    {
+      "date": "1780-01-01",
+      "event": "Adolph Knigge joins the order and creates its elaborate three-class degree system including integrated Masonic lodge degrees",
+      "significance": "Major expansion of organizational structure",
+      "source": "Wikipedia / Illuminati article"
+    },
+    {
+      "date": "1784-01-01",
+      "event": "Charles Theodore, Elector of Bavaria bans secret societies; initial edicts against the order",
+      "significance": "Beginning of official suppression",
+      "source": "Wikipedia / Illuminati article"
+    },
+    {
+      "date": "1785-03-02",
+      "event": "Government edict of March 2, 1785 deals 'deathblow to the Illuminati in Bavaria'; Weishaupt flees",
+      "significance": "Effective end of the historical organization",
+      "source": "Wikipedia / Illuminati article"
+    },
+    {
+      "date": "1787-01-01",
+      "event": "Bavarian government publishes seized Illuminati documents",
+      "significance": "Public disclosure of the order's actual activities and membership",
+      "source": "Wikipedia / Illuminati article"
+    },
+    {
+      "date": "1797-01-01",
+      "event": "Augustin Barruel publishes Memoirs Illustrating the History of Jacobinism (1797–1798), claiming the Illuminati survived and orchestrated the French Revolution",
+      "significance": "Origin of the Illuminati conspiracy theory",
+      "source": "Barruel, A. (1797–1798)"
+    },
+    {
+      "date": "1798-01-01",
+      "event": "John Robison publishes Proofs of a Conspiracy; Rev. Jedidiah Morse delivers anti-Illuminati sermon in the US on May 9, 1798",
+      "significance": "Conspiracy theory reaches the United States",
+      "source": "Wikipedia / Illuminati article"
+    }
+  ],
+  "related": [
+    {
+      "id": "new-world-order",
+      "name": "New World Order",
+      "relationship": "related",
+      "description": "Broader conspiracy theory of global elite governance into which Illuminati mythology has been absorbed"
+    },
+    {
+      "id": "freemasons",
+      "name": "Freemasonry",
+      "relationship": "related",
+      "description": "Knigge integrated Masonic lodge degrees into the Illuminati degree structure; later conspiracy theories conflate the two organizations"
+    }
+  ],
+  "cultural_notes": "A significant portion of contemporary conspiracy-minded communities believe an Illuminati-type global elite controls world events. Academic analysts including scholars of religion and political science have studied this phenomenon as a form of political theology and social paranoia.",
+  "sources": [
+    {
+      "id": "wikipedia-illuminati",
+      "type": "website",
+      "title": "Illuminati",
+      "url": "https://en.wikipedia.org/wiki/Illuminati",
+      "accessed": "2026-05-08"
+    },
+    {
+      "id": "barruel-1797",
+      "type": "book",
+      "title": "Memoirs Illustrating the History of Jacobinism",
+      "authors": [
+        "Augustin Barruel"
+      ],
+      "date": "1797",
+      "notes": "Origin text of Illuminati conspiracy theory; scholarly consensus considers its central claims unsupported"
+    },
+    {
+      "id": "robison-1798",
+      "type": "book",
+      "title": "Proofs of a Conspiracy",
+      "authors": [
+        "John Robison"
+      ],
+      "date": "1798"
+    }
+  ],
+  "locations": [
+    {
+      "name": "University of Ingolstadt",
+      "lat": 48.7665,
+      "lng": 11.4258
+    }
+  ]
 }

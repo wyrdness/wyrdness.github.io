@@ -3,6 +3,7 @@
   "name": "Kasa-obake",
   "category": "entity_spirit",
   "description": "A whimsical Japanese yōkai depicted as an old paper umbrella that has come to life, characteristically bearing a single eye, a long lolling tongue, and a single sandaled leg on which it hops about.",
+  "full_description": "Kasa-obake (傘お化け, 'umbrella ghost'), also known as karakasa-obake or karakasa-kozō, is one of the most visually iconic creatures in Japanese folklore. It is conventionally classed among the tsukumogami — household objects that, according to medieval and Edo-period belief, acquire a spirit after long use (often glossed as 100 years). Its standard pictorial form, fixed during the Edo period, shows a worn paper-and-bamboo umbrella (karakasa) with a single large eye in the canopy, a long red tongue protruding from a wide mouth, two thin arms in some variants, and a single human leg wearing a wooden geta sandal, on which the umbrella hops. Despite its monstrous appearance, the kasa-obake is regarded as essentially harmless: in most accounts it surprises lone travelers at night by jumping out, licking them, or rolling underfoot, but does no real injury. The figure does not appear in the older oral folk tradition; it is best understood as a creature of Edo-period popular art, kibyōshi books, board games (sugoroku) and the parodic 'hyakki yagyō' (night parade of one hundred demons) imagery, which then carried over into modern manga, anime, and obake-themed entertainment.",
   "aliases": [
     {
       "name": "傘お化け",
@@ -45,5 +46,126 @@
   "origin": "Kasa-obake is a creature of Japanese popular folklore and art; it is not localized to a particular region but is associated broadly with Edo-period urban culture and tsukumogami traditions.",
   "first_reported": "1700s",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Japanese 傘 (kasa, 'umbrella') + お化け (obake, 'transformed thing / ghost'). The variant karakasa derives from 唐傘 (kara-kasa, 'Tang/Chinese-style umbrella'), the imported oiled-paper umbrella common in Edo Japan; -kozō means 'young monk' or 'lad' and is a humorous diminutive frequently attached to small yōkai.",
+    "meaning": "'Umbrella ghost' or 'haunted umbrella'.",
+    "first_use": "Pictorial depictions are found in late Muromachi and Edo period scrolls; the modern one-eyed, one-legged form is consolidated by the late 18th century in works such as Toriyama Sekien's Gazu Hyakki Yagyō (1776)."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0,
+    "date_range": {
+      "earliest": "n/a",
+      "latest": "n/a"
+    }
+  },
+  "timeline": [
+    {
+      "date": "1300s",
+      "event": "Tsukumogami concept appears in medieval Japanese texts, including the Tsukumogami emaki",
+      "significance": "Religious-cultural background for animated-object yōkai",
+      "source": "Tsukumogami emaki (Muromachi period)"
+    },
+    {
+      "date": "1700s",
+      "event": "Kasa-obake / karakasa-obake appear repeatedly in Edo-period bakemono picture books and yōkai prints",
+      "significance": "Standardization of the one-eyed, one-legged umbrella iconography",
+      "source": "Bakemono Zukushi scrolls"
+    },
+    {
+      "date": "1776",
+      "event": "Toriyama Sekien publishes Gazu Hyakki Yagyō, an influential illustrated yōkai compendium that includes umbrella-type tsukumogami",
+      "significance": "Anchors the visual canon for later Japanese yōkai art",
+      "source": "Toriyama Sekien, Gazu Hyakki Yagyō"
+    },
+    {
+      "date": "1968",
+      "event": "Shigeru Mizuki popularizes kasa-obake in the manga/anime GeGeGe no Kitarō",
+      "significance": "Reintroduces the figure to mass culture",
+      "source": "Shigeru Mizuki, GeGeGe no Kitarō"
+    }
+  ],
+  "related": [
+    {
+      "id": "tsukumogami",
+      "name": "Tsukumogami (general)",
+      "relationship": "superset",
+      "description": "Wider class of household objects that gain a spirit after long use"
+    },
+    {
+      "id": "chochin-obake",
+      "name": "Chōchin-obake",
+      "relationship": "similar",
+      "description": "Animated paper-lantern yōkai of the same Edo-period iconographic tradition"
+    },
+    {
+      "id": "boroboroton",
+      "name": "Boroboroton",
+      "relationship": "similar",
+      "description": "Animated futon/bedding tsukumogami"
+    },
+    {
+      "id": "ittan-momen",
+      "name": "Ittan-momen",
+      "relationship": "similar",
+      "description": "Animated cloth/yardage yōkai of Kagoshima folklore"
+    }
+  ],
+  "cultural_notes": "Objects deserve respect and care; neglect can give them a spirit and a grievance — a moral often packaged in a comical, harmless figure.",
+  "sources": [
+    {
+      "id": "wikipedia-kasa-obake",
+      "type": "website",
+      "title": "Kasa-obake",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Kasa-obake",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "yokai-com-karakasa",
+      "type": "website",
+      "title": "Karakasa kozō",
+      "authors": [
+        "Matthew Meyer"
+      ],
+      "publication": "yokai.com",
+      "url": "https://yokai.com/karakasakozou/",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "sekien-1776",
+      "type": "book",
+      "title": "Gazu Hyakki Yagyō (画図百鬼夜行)",
+      "authors": [
+        "Toriyama Sekien"
+      ],
+      "publication": "Edo, Japan",
+      "date": "1776"
+    },
+    {
+      "id": "meyer-2012",
+      "type": "book",
+      "title": "The Night Parade of One Hundred Demons: A Field Guide to Japanese Yokai",
+      "authors": [
+        "Matthew Meyer"
+      ],
+      "date": "2012",
+      "isbn": "978-0985218409"
+    },
+    {
+      "id": "foster-2015",
+      "type": "book",
+      "title": "The Book of Yokai: Mysterious Creatures of Japanese Folklore",
+      "authors": [
+        "Michael Dylan Foster"
+      ],
+      "publication": "University of California Press",
+      "date": "2015",
+      "isbn": "978-0520271029"
+    }
+  ],
+  "locations": []
 }

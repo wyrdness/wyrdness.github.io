@@ -3,6 +3,7 @@
   "name": "Telepathy",
   "category": "psychic_phenomena",
   "description": "The purported direct transmission of information from one mind to another without using any known sensory channel. Coined as a scientific term by Frederic W. H. Myers in 1882; treated by mainstream science as not demonstrated.",
+  "full_description": "Telepathy is the purported transmission of information — thoughts, feelings, mental images, or sensations — from one person's mind directly to another's, without using any known channel of human sensory perception. The term was coined by the classical scholar and Society for Psychical Research (SPR) co-founder Frederic W. H. Myers in 1882, from Ancient Greek τῆλε ('distant') and πάθος ('feeling, perception'). Telepathy has been the central subject of parapsychological research from the SPR's 'Phantasms of the Living' (1886) through J. B. Rhine's Zener-card experiments at Duke University in the 1930s, the Maimonides dream-telepathy studies of the 1960s–70s, and the ganzfeld experiments of the 1970s–2000s. Mainstream scientific reviews — including the 1988 U.S. National Research Council report and successive critiques by Ray Hyman, Susan Blackmore, and others — have concluded that no replicable evidence demonstrates telepathy and that the parapsychological literature is best explained by methodological flaws, sensory leakage, statistical errors, and (in some cases) outright fraud. Telepathy is therefore typically classified as a pseudoscience, while remaining a powerful and widely held cultural belief.",
   "aliases": [
     {
       "name": "Mind reading",
@@ -43,5 +44,164 @@
   "origin": "Telepathy is reported and researched globally; experimental and theoretical work has been concentrated in the UK, USA, USSR/Russia, and continental Europe.",
   "first_reported": "1882",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Coined by Frederic W. H. Myers in 1882 in a paper to the Society for Psychical Research.",
+    "meaning": "From Greek τῆλε (têle, 'distant') + πάθος (páthos, 'feeling, experience'); literally 'distant feeling'.",
+    "first_use": "1882 (Myers, in the Proceedings of the SPR)."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "1882-01-01",
+      "event": "Frederic W. H. Myers coins the term 'telepathy' in a paper for the Society for Psychical Research",
+      "significance": "Establishes the modern scientific term",
+      "source": "Proceedings of the SPR (1882)"
+    },
+    {
+      "date": "1886-01-01",
+      "event": "Edmund Gurney, Frederic Myers, and Frank Podmore publish 'Phantasms of the Living', a two-volume case-collection treated as evidence of telepathic 'crisis apparitions'",
+      "significance": "Foundational Victorian text in psychical research",
+      "source": "Gurney, Myers & Podmore (1886)"
+    },
+    {
+      "date": "1930-01-01",
+      "event": "Upton Sinclair publishes 'Mental Radio', documenting picture-drawing experiments with his wife Mary Craig Sinclair",
+      "significance": "Major popular-press anchor for telepathy in the early 20th c.; preface by Albert Einstein",
+      "source": "Sinclair, U. (1930)"
+    },
+    {
+      "date": "1934-01-01",
+      "event": "J. B. Rhine publishes 'Extra-Sensory Perception', summarising Zener-card experiments at Duke University",
+      "significance": "Foundational text of laboratory parapsychology",
+      "source": "Rhine, J. B. (1934)"
+    },
+    {
+      "date": "1985-01-01",
+      "event": "Ray Hyman and Charles Honorton publish a 'joint communiqué' on the ganzfeld experiments, identifying methodological flaws and proposing improved protocols",
+      "significance": "Defines the modern critical framework for ganzfeld telepathy research",
+      "source": "Hyman & Honorton (1986), Journal of Parapsychology"
+    },
+    {
+      "date": "1988-01-01",
+      "event": "U.S. National Research Council report (Druckman & Swets, eds.) concludes there is 'no scientific justification' for the existence of telepathy or other psi phenomena",
+      "significance": "Major institutional evaluation rejecting telepathy as a demonstrated phenomenon",
+      "source": "NRC, 'Enhancing Human Performance' (1988)"
+    },
+    {
+      "date": "1995-01-01",
+      "event": "American Institutes for Research evaluation of the U.S. Stargate remote-viewing programme concludes that effects are too small and unreliable for operational use; programme closed",
+      "significance": "End of the major Cold-War government programme on telepathy-related psi",
+      "source": "Mumford, Rose & Goslin (1995), AIR"
+    }
+  ],
+  "related": [
+    {
+      "id": "clairvoyance",
+      "name": "Clairvoyance",
+      "relationship": "related",
+      "description": "Purported direct perception of distant events or objects without sensory mediation"
+    },
+    {
+      "id": "precognition",
+      "name": "Precognition",
+      "relationship": "related",
+      "description": "Purported perception of future events"
+    },
+    {
+      "id": "psychokinesis",
+      "name": "Psychokinesis",
+      "relationship": "related",
+      "description": "Purported direct mental influence on physical systems"
+    },
+    {
+      "id": "remote-viewing",
+      "name": "Remote Viewing",
+      "relationship": "subset",
+      "description": "Cold-War-era U.S. military / SRI program closely related to telepathy and clairvoyance"
+    }
+  ],
+  "cultural_notes": "Belief in personal telepathic experiences (especially with close relatives) remains widespread in surveys of Western and non-Western publics, despite the absence of scientific evidence.",
+  "sources": [
+    {
+      "id": "wikipedia-telepathy",
+      "type": "website",
+      "title": "Telepathy",
+      "publication": "English Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Telepathy",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "gurney-myers-podmore-1886",
+      "type": "book",
+      "title": "Phantasms of the Living",
+      "authors": [
+        "Edmund Gurney",
+        "Frederic W. H. Myers",
+        "Frank Podmore"
+      ],
+      "publication": "Trübner, London",
+      "date": "1886"
+    },
+    {
+      "id": "sinclair-1930",
+      "type": "book",
+      "title": "Mental Radio",
+      "authors": [
+        "Upton Sinclair"
+      ],
+      "publication": "Albert & Charles Boni",
+      "date": "1930"
+    },
+    {
+      "id": "rhine-1934",
+      "type": "book",
+      "title": "Extra-Sensory Perception",
+      "authors": [
+        "Joseph Banks Rhine"
+      ],
+      "publication": "Boston Society for Psychic Research",
+      "date": "1934"
+    },
+    {
+      "id": "nrc-1988",
+      "type": "other",
+      "title": "Enhancing Human Performance: Issues, Theories, and Techniques",
+      "authors": [
+        "Daniel Druckman",
+        "John A. Swets"
+      ],
+      "publication": "U.S. National Research Council, National Academy Press",
+      "date": "1988",
+      "isbn": "978-0309037921"
+    },
+    {
+      "id": "hyman-honorton-1986",
+      "type": "paper",
+      "title": "A Joint Communiqué: The Psi Ganzfeld Controversy",
+      "authors": [
+        "Ray Hyman",
+        "Charles Honorton"
+      ],
+      "publication": "Journal of Parapsychology",
+      "date": "1986"
+    },
+    {
+      "id": "milton-wiseman-1999",
+      "type": "paper",
+      "title": "Does Psi Exist? Lack of Replication of an Anomalous Process of Information Transfer",
+      "authors": [
+        "Julie Milton",
+        "Richard Wiseman"
+      ],
+      "publication": "Psychological Bulletin, 125(4)",
+      "date": "1999"
+    }
+  ],
+  "locations": []
 }

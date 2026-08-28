@@ -3,6 +3,7 @@
   "name": "Aurora Phenomena (Northern and Southern Lights Folklore)",
   "category": "atmospheric_phenomenon",
   "description": "Aurora phenomena — the Aurora Borealis (Northern Lights) and Aurora Australis (Southern Lights) — are natural light displays in Earth's upper atmosphere caused by charged solar particles interacting with the magnetosphere, and have inspired rich and varied supernatural traditions across polar and sub-polar cultures worldwide.",
+  "full_description": "The aurora borealis and aurora australis are natural light displays appearing in Earth's upper atmosphere at high latitudes, produced when charged particles from the Sun collide with atmospheric gases, exciting oxygen and nitrogen molecules to emit green, red, blue, and purple light. The scientific explanation was progressively developed by researchers including Anders Celsius, Edmond Halley, and Benjamin Franklin, with the electromagnetic mechanism established in the 19th and early 20th centuries. Before and alongside this scientific understanding, virtually every culture with exposure to the aurora developed rich supernatural interpretations. Sami peoples of northern Scandinavia believed the aurora was created by the souls of the dead dancing across the sky and considered it dangerous to attract the lights' attention by whistling, singing, or waving. Norse traditions variously interpreted the aurora as the breath of brave fallen warriors, the reflections of the Valkyries' shields as they rode across the sky, or the Bifrost bridge connecting the mortal world to Asgard. Maori traditions described the aurora australis as 'Tahunui-a-rangi' (great torches in the sky) created by ancestors who voyaged to southern ice lands around the 7th century. Aboriginal Australian communities associated the aurora australis with fire and spirit beings. Finnish tradition gave rise to the legend of the 'revontulet' (fox fires), imagining a cosmic fox running across the sky, its tail sweeping sparks across the darkness. Inuit and other Arctic peoples often interpreted the aurora as the spirits of animals or deceased ancestors. The Norwegian chronicle Konungs Skuggsjá (circa 1230) records multiple competing Norse explanations, indicating the aurora was already a subject of active philosophical debate in medieval Scandinavia.",
   "aliases": [
     {
       "name": "Aurora Borealis",
@@ -76,5 +77,91 @@
   "origin": "Aurora borealis occurs in a ring around the Arctic (auroral oval), centered on the geomagnetic pole. During strong geomagnetic storms it can be seen as far south as the northern United States, central Europe, and occasionally further. Aurora australis similarly occurs around the Antarctic. Both appear year-round but require darkness and clear skies to be visible.",
   "first_reported": "Pre-contact",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "'Aurora borealis' combines Aurora (Roman goddess of dawn) with Boreas (Greek god of the north wind). The phrase was applied to the northern lights by Pierre Gassendi following an aurora he observed in 1621, and the term entered widespread English use by the 18th century. 'Aurora australis' follows the same pattern with Auster (Latin, south wind). The English colloquial 'northern lights' predates the Latin scholarly terminology.",
+    "meaning": "Aurora: goddess of dawn; Borealis: of the north; Australis: of the south. Together: northern/southern dawn.",
+    "first_use": "1621 (Pierre Gassendi's application of 'Aurora Borealis'); English use from the 18th century onward"
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "1230-01-01",
+      "event": "Norwegian chronicle Konungs Skuggsjá records multiple explanations for the aurora borealis, including ocean fires, solar flares, and fluorescent glacial energy",
+      "significance": "One of the earliest written European attempts to explain the aurora; documents active intellectual debate",
+      "source": "Konungs Skuggsjá (circa 1230)"
+    },
+    {
+      "date": "1621-01-01",
+      "event": "French philosopher Pierre Gassendi observes an aurora and coins the term 'Aurora Borealis' (northern dawn)",
+      "significance": "Origin of the scientific Latin term still in use today",
+      "source": "Gassendi, P. (1621)"
+    },
+    {
+      "date": "1716-01-01",
+      "event": "Edmond Halley publishes observations of a major aurora visible across England, proposing an early magnetic explanation",
+      "significance": "Early step toward the scientific electromagnetic explanation",
+      "source": "Halley, E. (1716), Philosophical Transactions"
+    },
+    {
+      "date": "1770-01-01",
+      "event": "Captain James Cook observes and names the Aurora Australis during his voyage to the Southern Ocean",
+      "significance": "First systematic European documentation of the southern lights",
+      "source": "Cook, J., journals of the second voyage"
+    },
+    {
+      "date": "1896-01-01",
+      "event": "Kristian Birkeland conducts terrella experiments demonstrating that electrons from the Sun, guided by Earth's magnetic field, produce the aurora",
+      "significance": "Foundation of the modern electromagnetic explanation",
+      "source": "Birkeland, K. (1896, 1908)"
+    }
+  ],
+  "related": [
+    {
+      "id": "ball-lightning",
+      "name": "Ball Lightning",
+      "relationship": "related",
+      "description": "Another atmospheric optical phenomenon with extensive paranormal associations and contested scientific explanation"
+    },
+    {
+      "id": "will-o-wisp",
+      "name": "Will-o'-the-Wisp",
+      "relationship": "related",
+      "description": "Another luminous atmospheric phenomenon that generated supernatural interpretation across cultures"
+    }
+  ],
+  "cultural_notes": "Aurora folklore is among the richest and most geographically widespread of any atmospheric phenomenon. For many Arctic indigenous peoples, aurora traditions remain living cultural knowledge integrated with spirituality, ecological knowledge, and oral history — not merely ancient superstition.",
+  "sources": [
+    {
+      "id": "wikipedia-aurora",
+      "type": "website",
+      "title": "Aurora",
+      "url": "https://en.wikipedia.org/wiki/Aurora",
+      "accessed": "2026-05-08"
+    },
+    {
+      "id": "konungs-skuggsjaa",
+      "type": "archive",
+      "title": "Konungs Skuggsjá (The King's Mirror)",
+      "date": "1230-01-01",
+      "notes": "Medieval Norwegian didactic text recording multiple competing explanations for the aurora borealis"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Tromsø, Norway",
+      "lat": 69.65,
+      "lng": 18.96
+    },
+    {
+      "name": "Fairbanks, Alaska",
+      "lat": 64.84,
+      "lng": -147.72
+    }
+  ]
 }

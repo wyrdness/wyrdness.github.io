@@ -3,6 +3,7 @@
   "name": "Roc",
   "category": "mythological_creature",
   "description": "The Roc (Arabic: الرُخّ, al-Rukh) is a legendary giant bird of prey from Arabian and Persian mythology, most famously described in the tales of One Thousand and One Nights, capable of carrying elephants in its talons. Its egg alone was said to measure 50 paces in circumference.",
+  "full_description": "The Roc (Arabic: الرُخّ, romanized al-Rukh; Persian rukh) is an enormous legendary bird of prey from Arabian and Persian mythology, most celebrated through its appearances in the Sinbad voyages of One Thousand and One Nights (Arabian Nights). The English term 'roc' derives from Antoine Galland's French translation of the Arabic ruḵḵ. Described as a bird of such colossal size it could carry elephants in its talons, the roc embodies the wonders of the unknown world beyond the horizon. In the Sinbad narratives, the hero encounters an enormous dome — actually a roc's egg measuring 50 paces in circumference — and escapes his predicament by securing himself to the bird's feet. Marco Polo described the roc in his accounts: 'It was for all the world like an eagle, but one indeed of enormous size; so big in fact that its quills were twelve paces long and thick in proportion.' Polo claimed the bird could carry an elephant, drop it, and consume the carcass. Chou Ch'ű-fei's 1178 work Lingwai Daida mentions 'birds large enough to use their quills as water reservoirs.' Raffia palm fronds were presented to Kublai Khan as alleged roc feathers. Scholars propose several sources for the roc legend: art historian Rudolf Wittkower traced connections to Garuda, the solar bird from Sanskrit epics (the Mahabharata and Ramayana); the pre-Islamic Arabic ˁAnqāˀ ('a giant bird with a human face and four wings') may have influenced the myth; and the extinct Aepyornis (elephant bird) of Madagascar — standing three meters tall with enormous eggs — is widely considered the most likely real-world basis for Indian Ocean roc reports. The Malagasy crowned eagle (Stephanoaetus mahery) may have been the apex avian predator of prehistoric Madagascar.",
   "aliases": [
     {
       "name": "الرُخّ",
@@ -51,5 +52,115 @@
   "origin": "In Arabian and Persian tradition, the roc inhabits remote islands in the Indian Ocean, particularly in the region visited by Sinbad's voyages. Marco Polo located it in the vicinity of Madagascar. As a mythological creature, it has no literal geographic range.",
   "first_reported": "0900-01-01",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Arabic and Persian; the English term 'roc' derives from Antoine Galland's 18th-century French translation of the Arabic al-ruḵḵ (الرُخّ). The word entered European languages through medieval travel literature.",
+    "meaning": "The Arabic and Persian term for the legendary giant bird; no definitive etymology of the root word is established in available sources.",
+    "first_use": "Arabic: medieval period (One Thousand and One Nights texts compiled from 9th century onward); European: Antoine Galland's translation (published 1704–1717)"
+  },
+  "sightings_stats": {
+    "total_documented": 2,
+    "verified": 0,
+    "disputed": 2,
+    "debunked": 0,
+    "date_range": {
+      "earliest": "1178",
+      "latest": "1298"
+    }
+  },
+  "timeline": [
+    {
+      "date": "1178-01-01",
+      "event": "Chou Ch'ű-fei completes Lingwai Daida, mentioning 'birds large enough to use their quills as water reservoirs' in the Indian Ocean region",
+      "significance": "One of the earliest datable references to roc-like giant birds in East Asian literature",
+      "source": "Chou Ch'ű-fei, Lingwai Daida (1178)"
+    },
+    {
+      "date": "1298-01-01",
+      "event": "Marco Polo describes the roc in his travel accounts: 'It was for all the world like an eagle, but one indeed of enormous size; so big in fact that its quills were twelve paces long and thick in proportion.' Polo located the creature in the vicinity of Madagascar",
+      "significance": "Most influential medieval European documentation of the roc; brought the legend to European audiences",
+      "source": "Marco Polo, Il Milione (c. 1298)"
+    },
+    {
+      "date": "1704-01-01",
+      "event": "Antoine Galland publishes his French translation of One Thousand and One Nights (1704–1717), including the Sinbad voyages with roc episodes, introducing the roc to European literary tradition under the name 'roc'",
+      "significance": "The English word 'roc' derives from Galland's translation; the Sinbad stories become widely known in Europe",
+      "source": "Galland, A. (1704–1717), Les Mille et une Nuits"
+    }
+  ],
+  "related": [
+    {
+      "id": "simurgh",
+      "name": "Simurgh",
+      "relationship": "related",
+      "description": "Persian mythological divine bird; benevolent and wise, contrasting with the roc's predatory role, but sharing the giant-bird archetype"
+    },
+    {
+      "id": "garuda",
+      "name": "Garuda",
+      "relationship": "similar",
+      "description": "Solar bird from Sanskrit mythology (Mahabharata, Ramayana) that carries elephants; traced by art historian Rudolf Wittkower as a possible source for the roc legend"
+    },
+    {
+      "id": "thunderbird",
+      "name": "Thunderbird",
+      "relationship": "similar",
+      "description": "North American Indigenous giant bird associated with storms; functionally similar archetype"
+    },
+    {
+      "id": "anqa",
+      "name": "ˁAnqāˀ",
+      "relationship": "related",
+      "description": "Pre-Islamic Arabic giant bird with a human face and four wings; possible precursor to or influence on the roc legend"
+    }
+  ],
+  "cultural_notes": "In medieval Islamic cosmology and geography, the roc was treated as a real creature inhabiting the most remote parts of the world — consistent with the tradition that wonders and extraordinary beings exist at the edges of the known world.",
+  "sources": [
+    {
+      "id": "one-thousand-nights",
+      "type": "book",
+      "title": "One Thousand and One Nights (Arabian Nights) — Sinbad Voyages",
+      "date": "0900",
+      "notes": "Original Arabic source texts; compiled from approximately the 9th century onward. English translations include those of Richard Burton and Andrew Lang."
+    },
+    {
+      "id": "marco-polo",
+      "type": "book",
+      "title": "Il Milione (The Travels of Marco Polo)",
+      "authors": [
+        "Marco Polo"
+      ],
+      "date": "1298",
+      "notes": "Contains the most cited medieval European roc account"
+    },
+    {
+      "id": "chou-1178",
+      "type": "book",
+      "title": "Lingwai Daida",
+      "authors": [
+        "Chou Ch'ű-fei"
+      ],
+      "date": "1178",
+      "notes": "Chinese geographic text mentioning giant Indian Ocean birds whose quills held water"
+    },
+    {
+      "id": "galland-1704",
+      "type": "book",
+      "title": "Les Mille et une Nuits",
+      "authors": [
+        "Antoine Galland"
+      ],
+      "publication": "Paris",
+      "date": "1704",
+      "notes": "Galland's French translation coins the European term 'roc'"
+    },
+    {
+      "id": "wikipedia-roc",
+      "type": "website",
+      "title": "Roc (mythology)",
+      "url": "https://en.wikipedia.org/wiki/Roc_(mythology)",
+      "accessed": "2026-05-08"
+    }
+  ],
+  "locations": []
 }

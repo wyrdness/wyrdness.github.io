@@ -3,6 +3,7 @@
   "name": "Ley Lines",
   "category": "anomaly",
   "description": "A claim, originating with Alfred Watkins in the 1920s, that prehistoric sites across Britain are aligned in straight lines. Later mystical reinterpretations proposed invisible energy conduits running through the Earth. The concept has been comprehensively rejected by archaeology and physics.",
+  "full_description": "The ley line concept was introduced in 1922 by English antiquarian Alfred Watkins after he observed that several ancient sites near Blackwardine, Herefordshire, appeared to fall on a straight line on a map. He proposed these lines represented ancient straight track routes used for prehistoric trade and travel, publishing Early British Trackways (1922) and The Old Straight Track (1925). The Straight Track Club (1926–1948) promoted his ideas. After Watkins's death in 1935, the concept was transformed by the counterculture of the 1960s: Tony Wedd (1961) proposed ley lines were landing guides for extraterrestrial spacecraft, and John Michell's The View Over Atlantis (1969) reframed them as channels of mystical Earth energy, connecting them to Chinese lung mei (dragon veins) and proposing an ancient advanced civilization had created them. This esoteric version, fundamentally different from Watkins's original archaeological hypothesis, became dominant in New Age communities. Mainstream archaeology classifies both versions as pseudoarchaeology. Statistical analysis by Tom Williamson, Liz Bellamy, David Kendall, and Simon Broadbent demonstrated that apparent alignments are statistically inevitable given the high density of ancient monuments in the British landscape. Temporal mixing (grouping monuments from different eras as contemporary), subjective point selection, and confirmation bias account for claimed ley discoveries. No physical evidence of energy channels has been detected. The magazine Ley Hunter (1965–1999) documented the community's evolution.",
   "aliases": [
     {
       "name": "Heilige Linien",
@@ -44,5 +45,161 @@
   "origin": "Claimed in the British Isles (primary focus), Germany, France, and globally in New Age tradition. Watkins's original claims centered on Herefordshire and the wider British Isles. John Michell's later work focused particularly on West Penwith, Cornwall, and Wiltshire.",
   "first_reported": "1922-01-01",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "The word 'ley' is Old English meaning 'cleared space' or 'meadow.' Alfred Watkins adopted it because it appeared in many English place-names along his proposed alignments (e.g. Ley, Leigh, Lea). He believed this linguistic survival confirmed ancient usage of these routes.",
+    "meaning": "Cleared space (Old English); by Watkins's usage, an ancient straight alignment of sites",
+    "first_use": "1922 — Alfred Watkins, Early British Trackways"
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "1846-01-01",
+      "event": "Rev. Edward Duke proposes alignments of Wiltshire sacred sites",
+      "significance": "Earliest predecessor of the ley line concept",
+      "source": "Duke, E. (1846)"
+    },
+    {
+      "date": "1909-01-01",
+      "event": "Wilhelm Teudt proposes Heilige Linien (holy lines) linking German ancient sites",
+      "significance": "Independent parallel development in Germany",
+      "source": "Teudt, W. (1909)"
+    },
+    {
+      "date": "1922-01-01",
+      "event": "Alfred Watkins publishes Early British Trackways, introducing the ley line concept",
+      "significance": "Founding text of the modern ley line tradition",
+      "source": "Watkins, A. (1922), Early British Trackways"
+    },
+    {
+      "date": "1925-01-01",
+      "event": "Alfred Watkins publishes The Old Straight Track, the definitive statement of his trackway hypothesis",
+      "significance": "Most influential ley line text; still in print",
+      "source": "Watkins, A. (1925), The Old Straight Track"
+    },
+    {
+      "date": "1926-01-01",
+      "event": "Watkins establishes the Straight Track Club to promote ley line research; it disbands after his death (1935) by 1948",
+      "significance": "Organized promotion of the original trackway concept",
+      "source": "Watkins, A.; Straight Track Club records"
+    },
+    {
+      "date": "1935-04-07",
+      "event": "Alfred Watkins dies; without his direction, the Straight Track Club declines",
+      "significance": "End of the founding era",
+      "source": "Historical record"
+    },
+    {
+      "date": "1961-01-01",
+      "event": "Tony Wedd reinterprets ley lines as guides for extraterrestrial spacecraft",
+      "significance": "First major departure from Watkins's archaeological framework into the paranormal",
+      "source": "Wedd, T. (1961)"
+    },
+    {
+      "date": "1965-01-01",
+      "event": "Philip Heselton founds Ley Hunter magazine",
+      "significance": "Institutional center of the post-Watkins ley line community",
+      "source": "Ley Hunter magazine (1965–1999)"
+    },
+    {
+      "date": "1969-01-01",
+      "event": "John Michell publishes The View Over Atlantis, popularizing the Earth energy channel interpretation",
+      "significance": "Most influential post-Watkins ley text; defined New Age understanding of ley lines",
+      "source": "Michell, J. (1969), The View Over Atlantis"
+    },
+    {
+      "date": "1983-01-01",
+      "event": "Tom Williamson and Liz Bellamy publish Ley Lines in Question, systematically refuting alignment claims through statistical analysis",
+      "significance": "Definitive academic refutation",
+      "source": "Williamson, T. & Bellamy, L. (1983), Ley Lines in Question"
+    },
+    {
+      "date": "1999-01-01",
+      "event": "Ley Hunter magazine ceases publication after 34 years",
+      "significance": "End of the institutional ley line research community",
+      "source": "Ley Hunter magazine (last issue 1999)"
+    }
+  ],
+  "related": [
+    {
+      "id": "dowsing",
+      "name": "Dowsing",
+      "relationship": "related",
+      "description": "Ley hunting was frequently practiced using dowsing rods; the two pseudosciences often appear together"
+    },
+    {
+      "id": "ancient-astronauts",
+      "name": "Ancient Astronaut Theory",
+      "relationship": "related",
+      "description": "Tony Wedd and others proposed ley lines as extraterrestrial infrastructure, overlapping with ancient astronaut claims"
+    }
+  ],
+  "cultural_notes": "In New Age and modern Pagan communities, ley lines are understood as channels of sacred Earth energy connecting holy sites. Practitioners may use dowsing, meditation, or other techniques at claimed ley intersections. This belief system is maintained largely independent of the archaeological critique.",
+  "sources": [
+    {
+      "id": "watkins-1922",
+      "type": "book",
+      "title": "Early British Trackways",
+      "authors": [
+        "Alfred Watkins"
+      ],
+      "publication": "Simpkin, Marshall, Hamilton, Kent & Co.",
+      "date": "1922"
+    },
+    {
+      "id": "watkins-1925",
+      "type": "book",
+      "title": "The Old Straight Track",
+      "authors": [
+        "Alfred Watkins"
+      ],
+      "publication": "Methuen",
+      "date": "1925"
+    },
+    {
+      "id": "michell-1969",
+      "type": "book",
+      "title": "The View Over Atlantis",
+      "authors": [
+        "John Michell"
+      ],
+      "publication": "Sago Press",
+      "date": "1969"
+    },
+    {
+      "id": "williamson-bellamy-1983",
+      "type": "book",
+      "title": "Ley Lines in Question",
+      "authors": [
+        "Tom Williamson",
+        "Liz Bellamy"
+      ],
+      "publication": "World's Work",
+      "date": "1983"
+    },
+    {
+      "id": "wikipedia-ley-line",
+      "type": "website",
+      "title": "Ley line",
+      "url": "https://en.wikipedia.org/wiki/Ley_line",
+      "accessed": "2026-05-08"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Malvern Hills and Herefordshire (Watkins's original observation area)",
+      "lat": 52.2,
+      "lng": -2.5
+    },
+    {
+      "name": "West Penwith, Cornwall",
+      "lat": 50.12,
+      "lng": -5.65
+    }
+  ]
 }

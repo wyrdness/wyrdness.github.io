@@ -3,6 +3,7 @@
   "name": "Ozark Howler",
   "category": "cryptid",
   "description": "A regional cryptid of the Ozark Mountains of Arkansas and Missouri, described as a stocky, bear-sized animal with a shaggy black coat, glowing eyes, prominent horns, and a distinctive howling cry.",
+  "full_description": "The Ozark Howler is a cryptid in the folklore of the Ozark Mountains, principally reported in northern Arkansas and southern Missouri, with occasional reports from Oklahoma and eastern Texas. Tradition describes the creature as bear-sized and stocky, with a shaggy dark coat, prominent horns and glowing eyes, and a long mournful howl that gives it its name. Most documented reports date from the 20th and early 21st centuries, though enthusiasts trace the lineage of the legend to a tale that the frontiersman Daniel Boone killed an unfamiliar large hairy animal in the region in the late 18th century. The Howler has remained a regional rather than national cryptid; mainstream wildlife authorities have not endorsed any of the claimed evidence. A widely circulated set of 2015 photographs submitted to an Arkansas television station was identified by the Arkansas Game and Fish Commission as a hoax. The phenomenon is treated by folklorists as a piece of regional Ozark legend and tall-tale tradition rather than as evidence of an undescribed mammal.",
   "aliases": [
     {
       "name": "Ozark Black Howler",
@@ -38,5 +39,87 @@
   "origin": "Reports concentrate in the Ozark Mountains of northern Arkansas and southern Missouri, with occasional reports from adjacent Oklahoma and eastern Texas.",
   "first_reported": "1800s",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "The English name refers to the creature's signature long, mournful howl.",
+    "meaning": "'Howler' from the reported nocturnal cry; 'Ozark' from the mountain region in which it is reported.",
+    "first_use": "Mid-to-late 20th century, in regional folklore and cryptozoology literature."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0,
+    "date_range": {
+      "earliest": "1900",
+      "latest": "2026"
+    }
+  },
+  "timeline": [
+    {
+      "date": "1990s",
+      "event": "Ozark Howler reports proliferate on early cryptozoology websites and regional media",
+      "significance": "Crystallization of the modern legend",
+      "source": "Regional Ozark cryptozoology literature"
+    },
+    {
+      "date": "2014-10-01",
+      "event": "A motorist in Springdale, Arkansas reports nearly colliding at night with a bear-sized, gray, fast-running animal on Pump Station Road",
+      "significance": "One of few reports referred to state wildlife officers",
+      "source": "Arkansas Game and Fish Commission report cited on Wikipedia"
+    },
+    {
+      "date": "2015-12-01",
+      "event": "Arkansas television station 40/29 News receives photographs purported to show the Ozark Howler",
+      "significance": "Arkansas Game and Fish Commission reviews the images and concludes they are a hoax",
+      "source": "40/29 News (Arkansas), December 2015; Arkansas Game and Fish Commission statement"
+    }
+  ],
+  "related": [
+    {
+      "id": "wampus-cat",
+      "name": "Wampus Cat",
+      "relationship": "similar",
+      "description": "Southern Appalachian cryptid felid sharing folkloric features"
+    },
+    {
+      "id": "fearsome-critters",
+      "name": "Fearsome critters of North American lumberwoods",
+      "relationship": "related",
+      "description": "Tradition of regional tall-tale animals to which the Howler is sometimes assigned"
+    },
+    {
+      "id": "black-panther-sightings",
+      "name": "Eastern North American 'black panther' reports",
+      "relationship": "related",
+      "description": "Reports of large, dark-coated felids in the eastern US, sometimes conflated with Howler accounts"
+    }
+  ],
+  "cultural_notes": "In regional folklore the Howler is treated as an omen creature; its cry is considered an ill portent in some Ozark traditions.",
+  "sources": [
+    {
+      "id": "wikipedia-ozark-howler",
+      "type": "website",
+      "title": "Ozark Howler",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ozark_Howler",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "garden-and-gun-howler",
+      "type": "article",
+      "title": "Meet the Ozark Howler, the South's Most Cryptic Cryptid",
+      "publication": "Garden & Gun",
+      "url": "https://gardenandgun.com/articles/meet-the-ozark-howler-the-souths-most-cryptic-cryptid/",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "agfc-2015-hoax",
+      "type": "news",
+      "title": "Arkansas Game and Fish Commission identifies submitted Ozark Howler photographs as a hoax",
+      "publication": "40/29 News (Arkansas)",
+      "date": "2015-12"
+    }
+  ],
+  "locations": []
 }

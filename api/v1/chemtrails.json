@@ -3,6 +3,7 @@
   "name": "Chemtrails (chemtrail conspiracy theory)",
   "category": "conspiracy_theory",
   "description": "A conspiracy theory, originating in the late 1990s, claiming that the long-lasting condensation trails (contrails) left by aircraft are in fact 'chemtrails' — chemical or biological agents being deliberately sprayed by governments or other actors for purposes such as population control, weather modification, or covert geoengineering. Atmospheric scientists, public-health agencies, and aviation regulators across many countries have rejected the theory as unsupported.",
+  "full_description": "The chemtrail conspiracy theory holds that the persistent white trails sometimes seen behind high-altitude aircraft are not ordinary water-ice contrails (condensation trails) but rather 'chemtrails' — chemical or biological substances deliberately sprayed by governments, militaries, or other powerful actors for covert purposes. Common claimed motives include weather modification, population control, sterilisation, biological warfare, mind control, and unauthorised geoengineering. The modern theory emerged in the United States in the late 1990s, attributed in part to misreadings of a 1996 U.S. Air Force research paper on theoretical weather-modification ('Weather as a Force Multiplier: Owning the Weather in 2025') and to widely circulated articles by William Thomas and others, amplified by Art Bell's late-night radio programme Coast to Coast AM. Scientifically, contrail formation and persistence are understood as a function of upper-atmosphere temperature, pressure, and humidity (specifically ice-supersaturation), and the variation in trail persistence does not require any chemical additive. A 2016 expert survey by Shearer, West, Caldeira and Davis (Environmental Research Letters) found that 76 of 77 atmospheric chemistry and geochemistry experts surveyed had encountered no evidence consistent with a covert large-scale atmospheric spraying programme. Multiple agencies — including the U.S. EPA, FAA, NASA, NOAA, and the United Kingdom Met Office — have published joint or individual fact sheets explaining contrails and rejecting the chemtrail claim. The conspiracy theory continues to circulate online and has occasionally been amplified by elected officials and celebrities; legitimate climate-policy discussion of solar radiation modification (SRM) and other geoengineering is a separate, openly debated topic that should not be conflated with the chemtrail claim.",
   "aliases": [
     {
       "name": "Chemtrail conspiracy theory",
@@ -28,5 +29,105 @@
   "origin": "The chemtrail claim is a global Anglophone internet conspiracy theory with strongholds in the United States, Canada, the United Kingdom, Australia, and parts of continental Europe.",
   "first_reported": "1996",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Coined as a portmanteau of 'chemical' and 'contrail' in late-1990s online and radio discussions of aviation.",
+    "meaning": "'Chemical trail' — alleged chemically laden version of an aircraft contrail.",
+    "first_use": "Late 1990s in U.S. internet forums and on Coast to Coast AM."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "1996-08-01",
+      "event": "USAF publishes 'Weather as a Force Multiplier: Owning the Weather in 2025'",
+      "significance": "Frequently misread by chemtrail proponents as evidence of an operational programme; in fact a research-school student paper exploring hypothetical capabilities",
+      "source": "Air University Press"
+    },
+    {
+      "date": "1999-01-25",
+      "event": "William Thomas publishes 'Last Call: Chemtrails' (Environment News Service), an early influential article",
+      "significance": "Helps establish the modern chemtrail vocabulary",
+      "source": "Environment News Service (1999)"
+    },
+    {
+      "date": "2000-09-01",
+      "event": "U.S. EPA, FAA, NASA, and NOAA publish joint contrails fact sheet",
+      "significance": "Federal agencies formally address the claim",
+      "source": "EPA-FAA-NASA-NOAA contrails fact sheet"
+    },
+    {
+      "date": "2016-08-10",
+      "event": "Shearer, West, Caldeira, & Davis publish expert survey in Environmental Research Letters: 76/77 experts find no evidence of covert spraying",
+      "significance": "Single most-cited contemporary scientific assessment of the claim",
+      "source": "Shearer, C., West, M., Caldeira, K., & Davis, S. J. (2016)"
+    }
+  ],
+  "related": [
+    {
+      "id": "haarp-conspiracy",
+      "name": "HAARP conspiracy theories",
+      "relationship": "related",
+      "description": "Often paired with chemtrail claims as alleged weather-control infrastructure"
+    },
+    {
+      "id": "geoengineering-srm",
+      "name": "Solar radiation modification (geoengineering)",
+      "relationship": "related",
+      "description": "Legitimate scientific topic of openly published research; routinely conflated by chemtrail believers with covert spraying claims"
+    }
+  ],
+  "cultural_notes": "Belief is structured online, not in geographic communities; surveys (e.g., Tingley & Wagner 2017) have found that around 10% of the U.S. public considers the theory 'completely true' and a further ~20–30% 'somewhat true'.",
+  "sources": [
+    {
+      "id": "shearer-2016",
+      "type": "paper",
+      "title": "Quantifying expert consensus against the existence of a secret, large-scale atmospheric spraying program",
+      "authors": [
+        "Christine Shearer",
+        "Mick West",
+        "Ken Caldeira",
+        "Steven J. Davis"
+      ],
+      "publication": "Environmental Research Letters",
+      "date": "2016",
+      "doi": "10.1088/1748-9326/11/8/084011"
+    },
+    {
+      "id": "epa-faa-nasa-noaa-2000",
+      "type": "archive",
+      "title": "Aircraft Contrails Factsheet",
+      "publication": "U.S. Environmental Protection Agency, Federal Aviation Administration, National Aeronautics and Space Administration, National Oceanic and Atmospheric Administration",
+      "date": "2000-09-01"
+    },
+    {
+      "id": "wikipedia-chemtrail",
+      "type": "website",
+      "title": "Chemtrail conspiracy theory",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Chemtrail_conspiracy_theory",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "house-1996",
+      "type": "archive",
+      "title": "Weather as a Force Multiplier: Owning the Weather in 2025",
+      "authors": [
+        "Tamzy J. House",
+        "James B. Near, Jr.",
+        "William B. Shields",
+        "Ronald J. Celentano",
+        "David M. Husband",
+        "Ann E. Mercer",
+        "James E. Pugh"
+      ],
+      "publication": "Air University Press / U.S. Air Force",
+      "date": "1996"
+    }
+  ],
+  "locations": []
 }

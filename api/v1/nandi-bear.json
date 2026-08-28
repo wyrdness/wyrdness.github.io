@@ -3,6 +3,7 @@
   "name": "Nandi Bear",
   "category": "cryptid",
   "description": "An East African cryptid reported chiefly from western Kenya during the 19th and early 20th centuries, described as a powerful, bipedally-rearing carnivore with high front shoulders and a sloping back. No specimen has ever been collected; mainstream zoologists attribute reports to misidentification of known animals.",
+  "full_description": "The Nandi Bear is a cryptid reported almost exclusively from East Africa, and especially from the territory of the Nandi people of western Kenya, after whom it is named. Reports were most numerous from the late 19th century into the 1930s and have largely faded since. Local names include Chemosit, Kerit, Koddoelo, Ngoloko, Duba, and (among the Samburu) Nkampit. Witnesses describe a ferocious, powerfully built nocturnal carnivore over four feet tall at the shoulder, with high front shoulders, a sloping bear-like back, and reddish hair; some accounts attribute to it the habit of standing or rearing bipedally and even of 'scalping' human victims. Charles William Hobley published a purported footprint diagram in 1913. Naturalists have proposed several candidate identities — variously a relict chalicothere (Andrews 1923; Leakey, 1930s, later abandoned), a giant or aberrant spotted hyena (Pocock), a honey badger / ratel (George Gaylord Simpson, who concluded reports 'turned out to be in most if not all cases a ratel'), or a misremembered or rumour-transmitted gorilla (Louis L. Jacobs). Scientific consensus today holds there is no evidence the Nandi Bear is a real undescribed species, and treats it as a folkloric / cryptozoological tradition explained by misidentification of known African mammals.",
   "aliases": [
     {
       "name": "Chemosit",
@@ -50,5 +51,111 @@
   "origin": "Reports cluster in western Kenya and adjacent parts of East Africa.",
   "first_reported": "19th century",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "English-language coinage from the name of the Nandi people of western Kenya, among whom the creature is most prominently reported; many regional names exist in Indigenous languages.",
+    "meaning": "'Bear of the Nandi'; not actually a bear (no extant bear species inhabits sub-Saharan Africa).",
+    "first_use": "English-language reports from late-19th and early-20th-century East African colonial literature."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0,
+    "date_range": {
+      "earliest": "19th century",
+      "latest": "20th century"
+    }
+  },
+  "timeline": [
+    {
+      "date": "1905",
+      "event": "Richard Meinertzhagen records observations and speculates the creature could be 'an anthropoid ape now extinct on account of decreased rainfall'",
+      "significance": "Early colonial scientific speculation",
+      "source": "Meinertzhagen field notes; cited in Wikipedia: Nandi Bear"
+    },
+    {
+      "date": "1913",
+      "event": "Charles William Hobley publishes a purported footprint diagram of the Nandi Bear",
+      "significance": "First published physical-evidence diagram of the creature",
+      "source": "Hobley, C. W. (1913)"
+    },
+    {
+      "date": "1923",
+      "event": "Charles William Andrews proposes a relict chalicothere identity for the Nandi Bear",
+      "significance": "Influential early scientific hypothesis, later abandoned",
+      "source": "Andrews, C. W. (1923)"
+    },
+    {
+      "date": "1930",
+      "event": "Reginald Innes Pocock argues Nandi Bear reports represent misidentified spotted hyenas",
+      "significance": "Influential skeptical interpretation",
+      "source": "Pocock, R. I. (1930)"
+    },
+    {
+      "date": "1935",
+      "event": "Louis Leakey conducts fieldwork in East Africa during which he engaged with chalicothere-relict hypotheses",
+      "significance": "Leakey later abandoned the chalicothere identification",
+      "source": "Wikipedia: Nandi Bear"
+    },
+    {
+      "date": "1961",
+      "event": "Gardner Soule notes that Nandi Bear sightings had been reported in Kenya throughout the 19th century and early 20th century but that the creature had 'never been caught or identified'",
+      "significance": "Mid-century summary of the dormant case",
+      "source": "Soule, G. (1961)"
+    },
+    {
+      "date": "1984",
+      "event": "George Gaylord Simpson concludes alleged Nandi Bear cases 'turned out to be in most if not all cases a ratel'",
+      "significance": "Authoritative paleontological skeptical assessment",
+      "source": "Simpson, G. G. (1984)"
+    },
+    {
+      "date": "2000",
+      "event": "Louis L. Jacobs proposes that Nandi Bear descriptions reflect word-of-mouth transmission of gorilla descriptions from elsewhere in Africa",
+      "significance": "Information-transmission skeptical hypothesis",
+      "source": "Jacobs, L. L. (2000)"
+    }
+  ],
+  "related": [
+    {
+      "id": "kerit",
+      "name": "Kerit / Chemosit",
+      "relationship": "regional_variant",
+      "description": "Local Kenyan names for the same or closely related creature"
+    },
+    {
+      "id": "agogwe",
+      "name": "Agogwe",
+      "relationship": "related",
+      "description": "Other East African cryptid traditions"
+    },
+    {
+      "id": "chalicothere",
+      "name": "Chalicothere (relict)",
+      "relationship": "related",
+      "description": "Extinct herbivore once proposed as the identity of the Nandi Bear (now abandoned)"
+    }
+  ],
+  "cultural_notes": "Local communities historically regarded the Chemosit as a real and dangerous nocturnal predator.",
+  "sources": [
+    {
+      "id": "wikipedia-nandi-bear",
+      "type": "website",
+      "title": "Nandi Bear",
+      "publication": "English Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Nandi_Bear",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "heuvelmans-1955",
+      "type": "book",
+      "title": "On the Track of Unknown Animals",
+      "authors": [
+        "Bernard Heuvelmans"
+      ],
+      "date": "1955"
+    }
+  ],
+  "locations": []
 }

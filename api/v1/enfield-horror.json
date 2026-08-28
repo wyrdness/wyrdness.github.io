@@ -3,6 +3,7 @@
   "name": "Enfield Horror",
   "category": "cryptid",
   "description": "An unidentified creature reported in and around Enfield, Illinois during a brief sighting cluster in late April and early May 1973, described as a roughly four-and-a-half-foot-tall, gray, three-legged entity with two short arms and pink eyes.",
+  "full_description": "The Enfield Horror (also Enfield Monster) is an unidentified creature reported in Enfield, Illinois, in April and May 1973. The principal witness, Henry McDaniel, reported being scratched at and confronted by an entity at his home about 10 PM on April 25, 1973: he described a creature about four and a half feet tall, gray-coloured, with three legs, a short body, two short arms, and pink eyes 'as big as flashlights'. McDaniel fired four shots at the creature with a pistol; it hissed (compared to a wildcat) and fled across the yard in long bounding leaps. A reported earlier encounter the same night by 10-year-old Greg Garrett was later admitted by the boy to Western Illinois University researchers to have been a hoax. McDaniel reported a second encounter near the railroad on May 6, 1973, and a search party led by WWKI radio's Rick Rainbow reported seeing and recording a similar 'apelike' creature in an abandoned building. Police investigators noted dog-like footprints with six toe pads in the soft earth and described McDaniel as rational and sober. White County Sheriff Roy Poshard Jr. publicly threatened to arrest McDaniel for continuing to discuss the creature. Five out-of-town men who arrived armed to hunt the creature were charged with hunting violations. Western Illinois University researchers later concluded that only three first-hand reports existed, amplified by media into an apparent 'epidemic'. Proposed mundane explanations include an escaped kangaroo (rejected by McDaniel), a wild ape, large dogs, bears, deer, and wildcats.",
   "aliases": [
     {
       "name": "Enfield Monster",
@@ -26,5 +27,93 @@
   "origin": "Reports limited to a small area in and around Enfield, Illinois, during a six-week window in 1973; no documented reports outside this geographic and temporal cluster.",
   "first_reported": "1973-04-25",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Named after Enfield, a small village in White County, Illinois, USA, where the 1973 sightings occurred.",
+    "meaning": "'Enfield Horror' / 'Enfield Monster' is descriptive English coined by local and national press during the 1973 reports.",
+    "first_use": "Local Illinois press coverage of April–May 1973."
+  },
+  "sightings_stats": {
+    "total_documented": 3,
+    "verified": 0,
+    "disputed": 2,
+    "debunked": 1,
+    "date_range": {
+      "earliest": "1973-04-25",
+      "latest": "1973-05-06"
+    }
+  },
+  "timeline": [
+    {
+      "date": "1973-04-25",
+      "event": "Henry McDaniel reports an encounter with the creature at his home in Enfield, Illinois, around 10 PM, firing four shots at it",
+      "significance": "Founding incident of the case",
+      "source": "White County police records / Wikipedia: Enfield Monster"
+    },
+    {
+      "date": "1973-04-25",
+      "event": "Earlier the same evening (~9:30 PM), 10-year-old Greg Garrett reports an encounter; later admits to Western Illinois University researchers it was a hoax",
+      "significance": "First retraction in the case",
+      "source": "Wikipedia: Enfield Monster"
+    },
+    {
+      "date": "1973-05-06",
+      "event": "McDaniel reports a second encounter near a railroad trestle around 3 AM; a search party led by WWKI news director Rick Rainbow reports seeing and recording an apelike creature in an abandoned building",
+      "significance": "Second principal incident",
+      "source": "Wikipedia: Enfield Monster"
+    },
+    {
+      "date": "1973-05-06",
+      "event": "Five young out-of-town men arrive in Enfield armed with rifles and shotguns; the White County sheriff describes them as 'out drinking and raising hell' and they are charged with hunting violations",
+      "significance": "Demonstrates the public-order impact of the reports",
+      "source": "Wikipedia: Enfield Monster"
+    },
+    {
+      "date": "1978-01-01",
+      "event": "Western Illinois University researchers publish an analysis concluding that only three firsthand reports exist, amplified into an apparent 'epidemic' by media coverage",
+      "significance": "Standard sociological reading of the case",
+      "source": "Western Illinois University (1978)"
+    }
+  ],
+  "related": [
+    {
+      "id": "flatwoods-monster",
+      "name": "Flatwoods Monster",
+      "relationship": "similar",
+      "description": "1952 West Virginia 'high-strangeness' humanoid cryptid often grouped with Enfield by researchers."
+    },
+    {
+      "id": "hopkinsville-goblins",
+      "name": "Hopkinsville Goblins",
+      "relationship": "similar",
+      "description": "1955 Kentucky home-invasion entity case often grouped with Enfield."
+    },
+    {
+      "id": "mothman",
+      "name": "Mothman",
+      "relationship": "related",
+      "description": "Adjacent 1960s–70s Midwestern cryptid wave."
+    }
+  ],
+  "cultural_notes": "The case is preserved largely in local Illinois lore and cryptid-enthusiast media.",
+  "sources": [
+    {
+      "id": "wikipedia-enfield-monster",
+      "type": "website",
+      "title": "Enfield Monster",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Enfield_Monster",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "astonishing-legends-232",
+      "type": "other",
+      "title": "Ep 232: The Enfield Horror and Other Midwest Monsters",
+      "publication": "Astonishing Legends podcast",
+      "date": "2022-04-23",
+      "url": "https://astonishinglegends.com/al-podcasts/2022/4/23/ep-232-the-enfield-horror-and-other-midwest-monsters",
+      "accessed": "2026-05-07"
+    }
+  ],
+  "locations": []
 }

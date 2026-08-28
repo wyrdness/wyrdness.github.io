@@ -3,6 +3,7 @@
   "name": "Harpy",
   "category": "mythological_creature",
   "description": "The Harpies are winged spirits in Greek mythology, originally personifications of stormy winds and divine snatchers. They appear in early sources as fair-haired winged maidens and in later literature as bird-bodied, women-faced monsters who steal food and abduct people as agents of divine punishment.",
+  "full_description": "Harpies (Greek Harpyiai, 'snatchers') are winged spirits of Greek and later Roman mythology, originally personifications of the destructive force of stormy winds. In Hesiod's Theogony they are described as 'fair-haired and winged maidens' who fly faster than the wind, daughters of the sea-god Thaumas and the Oceanid Electra and sisters of the rainbow goddess Iris. Later authors — including Virgil in the Aeneid and Roman poets such as Ovid and Hyginus — re-imagined them as foul, bird-bodied creatures with girls' faces, talons, and hunger-haggard features, occupying an emblematic place beside the other monstrous abductors of Greek myth. Three named harpies recur most often: Aello ('storm-swift'), Ocypete ('swift-wing'), and Celaeno ('dark'); Homer additionally names Podarge ('fleet-foot'), said to have borne Achilles' immortal horses Balius and Xanthus to the West Wind Zephyrus. The harpies' best-known myth is their persecution of the blind Thracian seer Phineus, whom Zeus punished by setting them to snatch and foul his food until the Boreads — the winged sons of the North Wind — drove them off during the voyage of the Argonauts. In Virgil's Aeneid, Aeneas encounters the harpies (led by Celaeno) on the Strophades islands, where Celaeno prophesies that the Trojans will be so hungry on reaching Italy that they will eat their own tables. Beyond literal myth, harpies serve as personifications of sudden disappearance, divine retribution, and ungovernable hunger; in modern English the word has acquired a derogatory secondary sense for a shrewish woman, a usage criticized as a misogynistic narrowing of the original mythological figure.",
   "aliases": [
     {
       "name": "Harpyia",
@@ -55,5 +56,123 @@
   "origin": "Mythologically, the wider Greek and Mediterranean world: Thrace (Phineus), the Strophades (Aeneid), the cave of Zephyrus, and stormy maritime regions in general. Culturally, harpies have been received throughout the Greco-Roman, medieval European, and modern global imaginary.",
   "first_reported": "0700 BCE",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "From Ancient Greek Ἅρπυιαι (Harpyiai), connected to the verb ἁρπάζειν (harpazein), 'to snatch, seize'.",
+    "meaning": "'The Snatchers' or 'the swift robbers'.",
+    "first_use": "Hesiod, Theogony (c. 700 BCE), in Homer's Odyssey and Iliad, and continuing through later Greek and Roman literature."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0,
+    "date_range": {
+      "earliest": "0700 BCE",
+      "latest": "Mythological"
+    }
+  },
+  "timeline": [
+    {
+      "date": "0700-01-01",
+      "event": "Hesiod, in the Theogony, names Aello and Ocypete as winged daughters of Thaumas and Electra",
+      "significance": "Earliest extant naming of individual harpies in Greek literature",
+      "source": "Hesiod, Theogony, lines 265–269"
+    },
+    {
+      "date": "0270-01-01",
+      "event": "Apollonius of Rhodes, in the Argonautica (3rd c. BCE), fixes the Phineus episode and the harpies' pursuit by the Boreads",
+      "significance": "Canonical Hellenistic version of the harpies' best-known myth",
+      "source": "Apollonius of Rhodes, Argonautica II"
+    },
+    {
+      "date": "0019-01-01",
+      "event": "Virgil's Aeneid (c. 19 BCE) introduces Celaeno on the Strophades and her prophecy to the Trojans",
+      "significance": "Major Roman recasting of the harpies as monstrous bird-women",
+      "source": "Virgil, Aeneid III.209ff."
+    }
+  ],
+  "related": [
+    {
+      "id": "siren",
+      "name": "Sirens",
+      "relationship": "similar",
+      "description": "Greek bird-women associated with luring sailors with song"
+    },
+    {
+      "id": "erinyes",
+      "name": "Erinyes (Furies)",
+      "relationship": "similar",
+      "description": "Winged Greek goddesses of vengeance with whom harpies are sometimes paired"
+    },
+    {
+      "id": "stymphalian-birds",
+      "name": "Stymphalian Birds",
+      "relationship": "similar",
+      "description": "Greek monstrous birds with metallic feathers"
+    },
+    {
+      "id": "anzu",
+      "name": "Anzu",
+      "relationship": "counterpart",
+      "description": "Mesopotamian storm-bird divine being"
+    },
+    {
+      "id": "iris",
+      "name": "Iris",
+      "relationship": "related",
+      "description": "Sister of the harpies in Hesiod's genealogy"
+    },
+    {
+      "id": "boreads",
+      "name": "Boreads (Zetes and Calais)",
+      "relationship": "counterpart",
+      "description": "Winged sons of Boreas who pursue and drive off the harpies in the Argonautica"
+    }
+  ],
+  "cultural_notes": "Harpies were treated as agents of divine retribution and as personifications of sudden, violent disappearance.",
+  "sources": [
+    {
+      "id": "wiki-harpy",
+      "type": "website",
+      "title": "Harpy",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Harpy",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "hesiod-theogony",
+      "type": "book",
+      "title": "Theogony",
+      "authors": [
+        "Hesiod"
+      ],
+      "date": "c. 700 BCE"
+    },
+    {
+      "id": "apollonius-argonautica",
+      "type": "book",
+      "title": "Argonautica",
+      "authors": [
+        "Apollonius of Rhodes"
+      ],
+      "date": "3rd century BCE"
+    },
+    {
+      "id": "virgil-aeneid",
+      "type": "book",
+      "title": "Aeneid",
+      "authors": [
+        "Virgil"
+      ],
+      "date": "c. 19 BCE"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Strophades",
+      "lat": 37.25,
+      "lng": 21
+    }
+  ]
 }

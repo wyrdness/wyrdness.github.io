@@ -3,6 +3,7 @@
   "name": "Sphinx",
   "category": "mythological_creature",
   "description": "The sphinx is a mythological composite creature — combining human and animal features, primarily a human head and lion body — that appears in both ancient Egyptian and ancient Greek traditions with distinct roles: guardian and royal symbol in Egypt, riddle-posing deadly monster in Greece.",
+  "full_description": "The sphinx is one of the most enduring mythological composite creatures, appearing in both Egyptian and Greek antiquity with significantly different characteristics. In Egyptian tradition, the sphinx is typically a benevolent guardian — a male-headed leonine figure (androsphinx) representing the pharaoh's power, wisdom, and divine protection. Egyptian sphinxes are wingless and guard temples and processional routes; the most famous example is the Great Sphinx of Giza (c. 2500 BCE), approximately 73 meters long and 20 meters high, carved from the living limestone of the Giza Plateau, believed to bear the likeness of Pharaoh Khafre. The Egyptian tradition also includes ram-headed (criosphinx) and hawk-headed (hieracosphinx) variants. The Greek sphinx is an entirely different figure: female, winged, with the body of a lion, the head of a woman, and the wings of an eagle; sometimes with a serpent's tail. She was a deadly monster guarding the approach to Thebes who posed a riddle to travelers — 'What walks on four legs in the morning, two at noon, and three in the evening?' — and killed those who failed to answer correctly. Oedipus famously answered correctly ('a human being, who crawls as an infant, walks upright as an adult, and uses a staff in old age'), causing the sphinx to kill herself. The sphinx figure spread from Egypt and Greece throughout the ancient Mediterranean world, into South and Southeast Asian traditions, and was revived extensively in European Renaissance and later art and architecture.",
   "aliases": [
     {
       "name": "Andro-sphinx",
@@ -56,5 +57,112 @@
   "origin": "Ancient Egypt, ancient Greece, and subsequently throughout the Mediterranean world and into South and Southeast Asia through cultural diffusion. Physical sphinx statues survive primarily in Egypt and in museums worldwide.",
   "first_reported": "2500-01-01",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "The Greek word Σφίγξ (Sphinx) is of uncertain but Greek origin, possibly connected to sphingein (to squeeze, to bind tight), referring to the lion's method of killing prey by constriction of the throat. An alternative theory proposes corruption from the Egyptian shesep-ankh ('living image'), a term applied to royal sphinx statues.",
+    "meaning": "The 'strangler' or 'throttler' in the Greek interpretation; 'living image' in the proposed Egyptian etymology.",
+    "first_use": "Egyptian sphinxes are attested from at least the Old Kingdom (c. 2600–2500 BCE). The Greek sphinx tradition is attested in art and literature from at least the 6th century BCE."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "2500-01-01",
+      "event": "Great Sphinx of Giza carved from the living limestone of the Giza Plateau, likely during the reign of Pharaoh Khafre",
+      "significance": "The oldest and most famous sphinx; the definitive physical form of the Egyptian sphinx tradition",
+      "source": "Egyptological consensus"
+    },
+    {
+      "date": "1400-01-01",
+      "event": "Avenue of Sphinxes at Karnak commissioned (ram-headed criosphinxes); extended during the New Kingdom",
+      "significance": "Exemplifies the Egyptian use of sphinx avenues in temple architecture",
+      "source": "Egyptological documentation"
+    },
+    {
+      "date": "0496-01-01",
+      "event": "Sophocles's Oedipus Rex (c. 496 BCE) dramatizes the Oedipus and Sphinx myth, producing the most influential literary version of the Greek sphinx legend",
+      "significance": "The primary classical literary source for the Greek sphinx riddle tradition",
+      "source": "Sophocles, Oedipus Rex"
+    },
+    {
+      "date": "1699-01-01",
+      "event": "European Egyptomania begins following Napoleon's Egyptian campaign; sphinxes become a major motif in Neoclassical and Empire-style European art and architecture",
+      "significance": "Western cultural revival of sphinx imagery",
+      "source": "Art historical record"
+    }
+  ],
+  "related": [
+    {
+      "id": "griffin",
+      "name": "Griffin",
+      "relationship": "similar",
+      "description": "Another winged composite creature (lion body, eagle head/wings) from ancient Mediterranean mythology; guardian figure"
+    },
+    {
+      "id": "manticore",
+      "name": "Manticore",
+      "relationship": "similar",
+      "description": "Persian composite creature with human face and lion body; the 'man-eater' counterpart"
+    },
+    {
+      "id": "lamassu",
+      "name": "Lamassu",
+      "relationship": "similar",
+      "description": "Assyrian protective deity depicted as a winged bull or lion with human head; functional analog in Mesopotamian tradition"
+    },
+    {
+      "id": "great-sphinx-of-giza",
+      "name": "Great Sphinx of Giza",
+      "relationship": "subset",
+      "description": "The most famous surviving physical sphinx; carved from limestone c. 2500 BCE at Giza, Egypt"
+    }
+  ],
+  "cultural_notes": "In Egyptian tradition, the sphinx embodies royal power, divine wisdom, and the protective ferocity of the lion applied in service of the pharaoh and the gods. In Greek tradition, the sphinx represents the dangerous, unknowable feminine principle that destroys the unworthy.",
+  "sources": [
+    {
+      "id": "wikipedia-sphinx",
+      "type": "website",
+      "title": "Sphinx",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sphinx",
+      "accessed": "2026-05-08"
+    },
+    {
+      "id": "sophocles-oedipus",
+      "type": "archive",
+      "title": "Oedipus Rex",
+      "authors": [
+        "Sophocles"
+      ],
+      "date": "0496-01-01",
+      "notes": "Primary Greek literary source for the sphinx riddle tradition"
+    },
+    {
+      "id": "lehner-1997",
+      "type": "book",
+      "title": "The Complete Pyramids",
+      "authors": [
+        "Mark Lehner"
+      ],
+      "publication": "Thames and Hudson",
+      "date": "1997",
+      "isbn": "978-0500050842"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Great Sphinx of Giza",
+      "lat": 29.9753,
+      "lng": 31.1376
+    },
+    {
+      "name": "Avenue of Sphinxes, Karnak",
+      "lat": 25.7188,
+      "lng": 32.6572
+    }
+  ]
 }

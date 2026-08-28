@@ -3,6 +3,7 @@
   "name": "Menehune",
   "category": "fae_folklore",
   "description": "A legendary race of small, industrious people in Hawaiian tradition, said to have inhabited the islands before Polynesian settlers and to have built stonework, fishponds, and heiau by night — most famously the Menehune (Alekoko) Fishpond and the Kīkīaola ditch on Kauaʻi.",
+  "full_description": "The Menehune are a legendary people of Hawaiian oral tradition, generally described as small in stature (often given as about two feet tall), powerfully built, and master craftspeople — particularly in stonework, fishpond construction, ditch engineering, canoe-building, and heiau (temple) construction. According to Hawaiian tradition the Menehune work only at night, must complete a project in a single night, and abandon it forever if interrupted or if dawn breaks first. Major archaeological structures attributed to them include the Menehune (Alekoko) Fishpond at Niumalu on Kauaʻi, the Kīkīaola ditch (an ancient irrigation aqueduct) at Waimea on Kauaʻi, structures on Necker Island (Mokumanamana), the Pa o ka Menehune breakwater at Kahaluʻu Bay on Hawaiʻi, and the Ulupō Heiau at Kailua, Oʻahu. Folklorist Katharine Luomala argued that the Menehune tradition is a post-European-contact development of the Hawaiian word manahune ('lowly' or 'commoner'), possibly conflated with European brownie folklore. Census records from 1820 list 65 people on Kauaʻi as 'menehune', and an earlier traditional census from the Wainiha Valley reportedly counted 65.",
   "aliases": [
     {
       "name": "Manahune",
@@ -30,5 +31,153 @@
   "origin": "The Menehune are a tradition of the Hawaiian Islands, with the densest cycle of stories on the island of Kauaʻi and adjacent Oʻahu.",
   "first_reported": "Pre-contact",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Hawaiian; cognate with Tahitian manahune. Folklorist Katharine Luomala (1951) argued that the modern fairy-tale 'Menehune' developed by adaptation of the Hawaiian word manahune.",
+    "meaning": "Cognate Tahitian manahune means 'lowly people' or 'commoner' (i.e. of low social status), a sense Luomala argued underlies the Hawaiian usage.",
+    "first_use": "Pre-contact Hawaiian oral tradition; first systematically discussed in print by Abraham Fornander in the late 19th century"
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "1820-01-01",
+      "event": "Census of Kauaʻi lists 65 individuals as 'menehune'",
+      "significance": "Suggestion of an actual sub-population identified by the term",
+      "source": "Wikipedia, citing Kauaʻi census 1820"
+    },
+    {
+      "date": "1865-01-01",
+      "event": "Abraham Fornander begins systematic collection of Hawaiian oral traditions later published as An Account of the Polynesian Race (1878–1885)",
+      "significance": "Anchor early-source compilation including Menehune materials",
+      "source": "Fornander, A. (1878–1885)"
+    },
+    {
+      "date": "1940-01-01",
+      "event": "Martha Warren Beckwith publishes Hawaiian Mythology",
+      "significance": "Standard academic synthesis with Menehune chapter",
+      "source": "Beckwith, M. W. (1940)"
+    },
+    {
+      "date": "1951-01-01",
+      "event": "Katharine Luomala publishes The Menehune of Polynesia and Other Mythical Little People of Oceania",
+      "significance": "Foundational comparative study of the Menehune",
+      "source": "Luomala, K. (1951)"
+    },
+    {
+      "date": "1973-01-01",
+      "event": "Alekoko (Menehune) Fishpond and Kīkīaola added to the National Register of Historic Places",
+      "significance": "Formal heritage recognition of structures traditionally attributed to the Menehune",
+      "source": "U.S. National Register of Historic Places"
+    }
+  ],
+  "related": [
+    {
+      "id": "maui",
+      "name": "Māui",
+      "relationship": "related",
+      "description": "Polynesian demigod from the same Hawaiian mythological corpus"
+    },
+    {
+      "id": "mo-o",
+      "name": "Moʻo",
+      "relationship": "related",
+      "description": "Hawaiian water-guardian lizard spirits in the same corpus"
+    },
+    {
+      "id": "patupaiarehe",
+      "name": "Patupaiarehe",
+      "relationship": "similar",
+      "description": "Māori fairy-like forest people"
+    },
+    {
+      "id": "leprechaun",
+      "name": "Leprechaun",
+      "relationship": "similar",
+      "description": "Irish small-craftsperson folkloric figure"
+    },
+    {
+      "id": "brownie",
+      "name": "Brownie",
+      "relationship": "similar",
+      "description": "Scottish house-spirit small-people figure"
+    }
+  ],
+  "cultural_notes": "Within Hawaiian tradition, Menehune are real cultural ancestors / community memory rather than fairy-tale fancy.",
+  "sources": [
+    {
+      "id": "fornander-1878",
+      "type": "book",
+      "title": "An Account of the Polynesian Race",
+      "authors": [
+        "Abraham Fornander"
+      ],
+      "publication": "Trübner, London",
+      "date": "1878–1885"
+    },
+    {
+      "id": "beckwith-1940",
+      "type": "book",
+      "title": "Hawaiian Mythology",
+      "authors": [
+        "Martha Warren Beckwith"
+      ],
+      "publication": "Yale University Press",
+      "date": "1940"
+    },
+    {
+      "id": "luomala-1951",
+      "type": "book",
+      "title": "The Menehune of Polynesia and Other Mythical Little People of Oceania",
+      "authors": [
+        "Katharine Luomala"
+      ],
+      "publication": "Bernice P. Bishop Museum Bulletin 203",
+      "date": "1951"
+    },
+    {
+      "id": "pukui-1994",
+      "type": "book",
+      "title": "The Water of Kāne and Other Legends of the Hawaiian Islands",
+      "authors": [
+        "Mary Kawena Pukui"
+      ],
+      "publication": "Kamehameha Schools Press",
+      "date": "1994"
+    },
+    {
+      "id": "wikipedia-menehune",
+      "type": "website",
+      "title": "Menehune",
+      "url": "https://en.wikipedia.org/wiki/Menehune",
+      "publication": "Wikipedia",
+      "accessed": "2026-05-07"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Menehune (Alekoko) Fishpond",
+      "lat": 21.9527,
+      "lng": -159.3744
+    },
+    {
+      "name": "Kīkīaola (Menehune Ditch)",
+      "lat": 21.9583,
+      "lng": -159.6694
+    },
+    {
+      "name": "Wainiha Valley",
+      "lat": 22.21,
+      "lng": -159.55
+    },
+    {
+      "name": "Ulupō Heiau",
+      "lat": 21.39,
+      "lng": -157.74
+    }
+  ]
 }

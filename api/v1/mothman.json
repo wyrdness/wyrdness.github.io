@@ -3,6 +3,7 @@
   "name": "Mothman",
   "category": "cryptid",
   "description": "A large winged humanoid creature with glowing red eyes reported in and around Point Pleasant, West Virginia from November 1966 through December 1967. Sightings clustered near the abandoned 'TNT area' of a former World War II munitions plant. The phenomenon culminated, in popular culture, in the December 15, 1967 collapse of the Silver Bridge.",
+  "full_description": "Mothman is the name given to a winged humanoid figure reported by more than 100 witnesses across the Point Pleasant area of West Virginia during a 13-month period beginning November 15, 1966. The first widely-reported sighting was made by Roger and Linda Scarberry and Steve and Mary Mallette near the abandoned West Virginia Ordnance Works (locally called the 'TNT area'). Witnesses described a roughly 7-foot, grey, humanoid creature with a wingspan of 10 feet and large, intensely glowing red eyes. The name 'Mothman' was coined by an Ohio copy editor as a riff on the popular Batman television series. Reports continued through 1967 and ended after the catastrophic collapse of the Silver Bridge on December 15, 1967, which killed 46 people and bound the creature to a harbinger-of-disaster framing in subsequent folklore. Journalist John Keel's investigations, published as The Mothman Prophecies (1975), tied Mothman to a wider 'Fortean' wave of UFO sightings, Men in Black encounters, and the entity 'Indrid Cold'. Skeptical explanations include misidentification of large North American owls (especially the barred owl) and sandhill cranes, with the eye reflectivity attributed to the tapetum lucidum of nocturnal birds. The town has since embraced Mothman as a cultural icon, with an annual festival and a museum in downtown Point Pleasant.",
   "aliases": [
     {
       "name": "Bird",
@@ -39,5 +40,248 @@
   "origin": "Sightings centered on Point Pleasant, West Virginia and the immediate Ohio River Valley (Mason County, WV; Gallia County, OH; Meigs County, OH). A small number of contemporaneous reports came from elsewhere in the eastern United States but the canonical wave is local.",
   "first_reported": "1966-11-12",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "The name 'Mothman' was coined by a copy editor at the Mason County Independent (or, in some accounts, an Athens, Ohio newspaper) drawing on the contemporary popularity of the Batman television series, which ran 1966–1968.",
+    "meaning": "A portmanteau of 'moth' (for the wings) and 'man' (humanoid posture). Witnesses themselves had described 'a bird' or 'a man with wings'.",
+    "first_use": "1966-11 (Point Pleasant, West Virginia and surrounding press coverage)"
+  },
+  "sightings_stats": {
+    "total_documented": 100,
+    "verified": 0,
+    "disputed": 95,
+    "debunked": 5,
+    "date_range": {
+      "earliest": "1966-11-12",
+      "latest": "2005"
+    }
+  },
+  "timeline": [
+    {
+      "date": "1966-11-12",
+      "event": "Five gravediggers near Clendenin, WV report a brown human-shape flying low overhead",
+      "significance": "Earliest reported sighting of the wave",
+      "source": "Keel, J. (1975), The Mothman Prophecies"
+    },
+    {
+      "date": "1966-11-15",
+      "event": "Scarberry/Mallette TNT-area encounter at ~midnight",
+      "significance": "Triggered the Point Pleasant Register article that started the press cycle",
+      "source": "Point Pleasant Register, 1966-11-16"
+    },
+    {
+      "date": "1966-11-16",
+      "event": "Point Pleasant Register publishes 'Couples See Man-Sized Bird... Creature... Something'",
+      "significance": "Anchored the initial reporting",
+      "source": "Point Pleasant Register"
+    },
+    {
+      "date": "1966-11-18",
+      "event": "Mason County Sheriff George Johnson holds press conference confirming reports",
+      "significance": "Lent local-authority credibility to the wave",
+      "source": "Contemporary press"
+    },
+    {
+      "date": "1966-11",
+      "event": "Copy editor at Athens (OH) Messenger or similar coins 'Mothman' as a Batman riff",
+      "significance": "Names the phenomenon",
+      "source": "Keel, J. (1975)"
+    },
+    {
+      "date": "1966-11-25",
+      "event": "Connie Carpenter encounter near Mason, WV (paralyzing red-eyed gaze)",
+      "significance": "Among the most-cited individual sightings",
+      "source": "Keel, J. (1975)"
+    },
+    {
+      "date": "1967",
+      "event": "John Keel makes multiple investigative visits to Point Pleasant; Mary Hyre (local journalist) hosts him and tracks reports",
+      "significance": "Central documentary record of the wave",
+      "source": "Keel, J. (1975)"
+    },
+    {
+      "date": "1967-12-15",
+      "event": "Silver Bridge (Point Pleasant ↔ Kanauga) collapses during evening rush, killing 46",
+      "significance": "Mothman sightings end shortly after; the bridge collapse becomes the harbinger-narrative anchor",
+      "source": "NTSB Highway Accident Report HAR-71-1"
+    },
+    {
+      "date": "1971",
+      "event": "NTSB final report on Silver Bridge identifies an eyebar fatigue crack as the engineering cause",
+      "significance": "Provides the prosaic engineering explanation",
+      "source": "NTSB HAR-71-1"
+    },
+    {
+      "date": "1975",
+      "event": "Publication of John Keel's The Mothman Prophecies",
+      "significance": "Cements Mothman as a Fortean / harbinger figure in pop culture",
+      "source": "Keel, J. (1975)"
+    },
+    {
+      "date": "2002",
+      "event": "Release of the film The Mothman Prophecies (Mark Pellington, dir.)",
+      "significance": "Reintroduces Mothman to mainstream audiences and drives Point Pleasant tourism",
+      "source": "Lakeshore Entertainment"
+    },
+    {
+      "date": "2003",
+      "event": "First annual Mothman Festival held in Point Pleasant",
+      "significance": "Locks in cultural-tourism status",
+      "source": "Mothman Festival press"
+    },
+    {
+      "date": "2005",
+      "event": "Mothman Museum opens in downtown Point Pleasant; Bob Roach commissions the 12-foot Mothman statue (Robert Roach, sculptor)",
+      "significance": "Permanent civic monument",
+      "source": "Mothman Museum"
+    }
+  ],
+  "related": [
+    {
+      "id": "owlman",
+      "name": "Owlman",
+      "relationship": "similar",
+      "description": "Cornish winged humanoid reported in Mawnan, England in 1976; cited as a UK analogue"
+    },
+    {
+      "id": "jersey-devil",
+      "name": "Jersey Devil",
+      "relationship": "similar",
+      "description": "Winged cryptid of the New Jersey Pine Barrens with a longer historical tail"
+    },
+    {
+      "id": "men-in-black",
+      "name": "Men in Black",
+      "relationship": "related",
+      "description": "Keel's investigations tied MIB encounters to the Mothman wave"
+    },
+    {
+      "id": "ufo-uap",
+      "name": "UFO/UAP",
+      "relationship": "related",
+      "description": "Concurrent UFO wave in the Ohio River Valley reported by Keel and others"
+    },
+    {
+      "id": "flatwoods-monster",
+      "name": "Flatwoods Monster",
+      "relationship": "regional_variant",
+      "description": "Earlier (1952) West Virginia winged-entity case in the same state"
+    },
+    {
+      "id": "spring-heeled-jack",
+      "name": "Spring-heeled Jack",
+      "relationship": "similar",
+      "description": "Older British leaping/winged humanoid; sometimes cited as a precedent"
+    }
+  ],
+  "cultural_notes": "Locally, Mothman has shifted from a frightening cryptid to a civic mascot, although the harbinger framing remains in folkloric retellings.",
+  "sources": [
+    {
+      "id": "keel-1975",
+      "type": "book",
+      "title": "The Mothman Prophecies",
+      "authors": [
+        "John A. Keel"
+      ],
+      "publication": "Saturday Review Press",
+      "date": "1975",
+      "isbn": "978-0765322593"
+    },
+    {
+      "id": "wamsley-sergent-2001",
+      "type": "book",
+      "title": "Mothman: The Facts Behind the Legend",
+      "authors": [
+        "Donnie Sergent Jr.",
+        "Jeff Wamsley"
+      ],
+      "publication": "Mothman Lives Publishing",
+      "date": "2001",
+      "isbn": "978-0966724912"
+    },
+    {
+      "id": "wamsley-2002",
+      "type": "book",
+      "title": "Mothman: Behind the Red Eyes",
+      "authors": [
+        "Jeff Wamsley"
+      ],
+      "publication": "Mothman Press",
+      "date": "2005",
+      "isbn": "978-0975596401"
+    },
+    {
+      "id": "coleman-2002",
+      "type": "book",
+      "title": "Mothman and Other Curious Encounters",
+      "authors": [
+        "Loren Coleman"
+      ],
+      "publication": "Paraview Press",
+      "date": "2002",
+      "isbn": "978-1931044349"
+    },
+    {
+      "id": "nickell-2002",
+      "type": "article",
+      "title": "Mothman Solved!",
+      "authors": [
+        "Joe Nickell"
+      ],
+      "publication": "Skeptical Inquirer, Vol. 26 No. 2",
+      "date": "2002-03",
+      "url": "https://skepticalinquirer.org/2002/03/mothman-solved/"
+    },
+    {
+      "id": "nickell-2017",
+      "type": "article",
+      "title": "Mothman Revisited",
+      "authors": [
+        "Joe Nickell"
+      ],
+      "publication": "Skeptical Inquirer, Vol. 41 No. 5",
+      "date": "2017-09"
+    },
+    {
+      "id": "ntsb-har-71-1",
+      "type": "archive",
+      "title": "Highway Accident Report: Collapse of US-35 Highway Bridge, Point Pleasant, West Virginia, December 15, 1967",
+      "authors": [
+        "National Transportation Safety Board"
+      ],
+      "publication": "NTSB HAR-71-1",
+      "date": "1971"
+    },
+    {
+      "id": "point-pleasant-register-1966",
+      "type": "news",
+      "title": "Couples See Man-Sized Bird... Creature... Something",
+      "publication": "Point Pleasant Register",
+      "date": "1966-11-16"
+    },
+    {
+      "id": "mothman-museum",
+      "type": "website",
+      "title": "The Mothman Museum and Research Center",
+      "url": "https://www.mothmanmuseum.com",
+      "accessed": "2026-05-07"
+    }
+  ],
+  "locations": [
+    {
+      "name": "TNT area (West Virginia Ordnance Works)",
+      "lat": 38.9043,
+      "lng": -82.114
+    },
+    {
+      "name": "Silver Bridge site",
+      "lat": 38.8434,
+      "lng": -82.1369
+    },
+    {
+      "name": "Chief Cornstalk Wildlife Management Area",
+      "lat": 38.735,
+      "lng": -82.06
+    }
+  ]
 }

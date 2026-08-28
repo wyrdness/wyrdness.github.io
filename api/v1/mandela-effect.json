@@ -3,6 +3,7 @@
   "name": "Mandela Effect",
   "category": "psychic_phenomena",
   "description": "A phenomenon in which large numbers of people share a confidently held but factually incorrect memory. Named by Fiona Broome in 2009 after the widespread false memory of Nelson Mandela having died in prison in the 1980s — Mandela was in fact released in 1990 and died in 2013.",
+  "full_description": "The Mandela Effect is the popular name for a category of shared false memories — situations in which large groups of people remember the same incorrect detail of a public fact, brand, or media work. The term was coined in 2009 by paranormal researcher Fiona Broome, who at Dragon Con discovered that a number of other attendees shared her vivid false memory of Nelson Mandela having died in prison in the 1980s; Mandela was actually released in 1990, served as President of South Africa from 1994 to 1999, and died on 5 December 2013. Recurring examples include the Berenstain Bears (often misremembered as 'Berenstein'), the Monopoly Man (often falsely recalled as wearing a monocle), Darth Vader's line in The Empire Strikes Back (often misremembered as 'Luke, I am your father' rather than 'No, I am your father'), and a non-existent 1990s film called 'Shazaam' supposedly starring Sinbad as a genie. Mainstream cognitive psychology — drawing on the work of Elizabeth Loftus and others — interprets the phenomenon as a familiar effect of constructive memory, source-monitoring error, the misinformation effect, and social transmission of error, sharpened by the internet age. A small minority of commentators, beginning with Broome, propose paranormal explanations such as parallel universes or timeline shifts.",
   "aliases": [
     {
       "name": "Collective false memory",
@@ -29,5 +30,117 @@
   "origin": "Reported globally wherever there is a shared culture and a strong online discussion community; most documentation is in English-language media.",
   "first_reported": "2009",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Coined by paranormal researcher Fiona Broome at Dragon Con in 2009 (article published 2010) following discussion of widely shared false memories of Nelson Mandela dying in prison.",
+    "meaning": "A 'Mandela Effect' is a vivid, confidently held memory of a fact, event, or detail that turns out to differ from documented reality, particularly when the same false memory is shared by many people.",
+    "first_use": "2009 (oral, Dragon Con); written use widely from 2010 onward."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "1974-01-01",
+      "event": "Elizabeth Loftus and John Palmer publish 'Reconstruction of Automobile Destruction', a foundational study of misinformation effects on memory",
+      "significance": "Establishes scientific framework later used to explain Mandela Effect cases",
+      "source": "Loftus & Palmer (1974), J. Verbal Learning and Verbal Behavior"
+    },
+    {
+      "date": "2009-01-01",
+      "event": "Fiona Broome coins 'Mandela Effect' at Dragon Con and shortly afterward online",
+      "significance": "Names the phenomenon",
+      "source": "Broome's website (mandelaeffect.com)"
+    },
+    {
+      "date": "2013-12-05",
+      "event": "Death of Nelson Mandela at age 95, refocusing attention on the false 1980s prison-death memory",
+      "significance": "Renews discussion of the original namesake case",
+      "source": "International press"
+    },
+    {
+      "date": "2015-01-01",
+      "event": "Viral Reddit and Tumblr discussion of the 'Berenstain Bears' / 'Berenstein Bears' spelling popularises the term",
+      "significance": "Brings the Mandela Effect into mainstream internet culture",
+      "source": "Online community discussion"
+    },
+    {
+      "date": "2016-01-01",
+      "event": "Mainstream press coverage of Mandela Effect cases, often associated with parallel-universe and CERN-related conspiracy theories",
+      "significance": "Cements the term in popular use",
+      "source": "Press coverage"
+    }
+  ],
+  "related": [
+    {
+      "id": "false-memory",
+      "name": "False memory",
+      "relationship": "superset",
+      "description": "Cognitive psychology concept of memories that diverge from the events they purport to represent"
+    },
+    {
+      "id": "confabulation",
+      "name": "Confabulation",
+      "relationship": "related",
+      "description": "Production of fabricated, distorted, or misinterpreted memories without intent to deceive"
+    },
+    {
+      "id": "deja-vu",
+      "name": "Déjà vu",
+      "relationship": "related",
+      "description": "Sensation that a current experience has been previously experienced"
+    },
+    {
+      "id": "mass-hysteria",
+      "name": "Mass psychogenic illness / mass hysteria",
+      "relationship": "related",
+      "description": "Other phenomena of collectively shared subjective experience"
+    }
+  ],
+  "cultural_notes": "In paranormal-leaning communities, Mandela Effect cases are often treated as evidence of reality-shifts; in mainstream culture they are usually treated as curiosities of memory.",
+  "sources": [
+    {
+      "id": "wikipedia-mandela-effect",
+      "type": "website",
+      "title": "Mandela effect",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Mandela_effect",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "broome-2017",
+      "type": "book",
+      "title": "The Mandela Effect: Major Memories, Casual Conjectures, And Speculative Suppositions",
+      "authors": [
+        "Fiona Broome"
+      ],
+      "date": "2017"
+    },
+    {
+      "id": "loftus-palmer-1974",
+      "type": "paper",
+      "title": "Reconstruction of automobile destruction: An example of the interaction between language and memory",
+      "authors": [
+        "Elizabeth F. Loftus",
+        "John C. Palmer"
+      ],
+      "publication": "Journal of Verbal Learning and Verbal Behavior",
+      "date": "1974"
+    },
+    {
+      "id": "roediger-mcdermott-1995",
+      "type": "paper",
+      "title": "Creating false memories: Remembering words not presented in lists",
+      "authors": [
+        "Henry L. Roediger III",
+        "Kathleen B. McDermott"
+      ],
+      "publication": "Journal of Experimental Psychology: Learning, Memory, and Cognition",
+      "date": "1995"
+    }
+  ],
+  "locations": []
 }

@@ -3,6 +3,7 @@
   "name": "Púca",
   "category": "fae_folklore",
   "description": "The Púca is a shapeshifting fairy creature of Irish, Welsh, Cornish, Manx, and Scottish Gaelic folklore — most famously a black horse with luminous golden eyes. Its character is ambiguous: it can be a dangerous trickster or a beneficent helper, and is closely associated with Samhain (1 November).",
+  "full_description": "The Púca (Irish, often anglicised as Pooka or Phouka; Welsh Pwca; Cornish Bucca; Manx Phynnodderee in some treatments; Scottish Gaelic Bòcan) is a Celtic spirit and one of the most prominent figures of Irish fairy belief. It is fundamentally a shapeshifter, taking the form of a black horse, goat, hare, dog, bull, eagle, or human (sometimes with animal ears or a tail) and appearing on remote roads at night. The horse-form Púca is the most famous: a black or dark-coated stallion with glowing golden eyes that may invite or seize a human rider for a wild, terrifying ride before depositing them, often unhurt, in the morning. The Púca's moral character is famously ambiguous — it is mischievous, occasionally malicious, but can also speak in a human voice, give cryptic advice, and even perform helpful labour for those who treat it well. It is associated above all with Samhain (1 November / Lá na Púca), the date after which any wild fruit not yet harvested is said to belong to the Púca and may not be eaten by humans. Iron and references to the saints are traditional defenses. Cognate figures include the Welsh Pwca, the Cornish Bucca, and Shakespeare's Puck (Robin Goodfellow), all sharing the same Common Brittonic / Old English etymological root.",
   "aliases": [
     {
       "name": "Pooka",
@@ -61,5 +62,151 @@
   "origin": "The Púca and its direct cognates are found across the Celtic fringe of the British Isles and Ireland, with the strongest tradition in Ireland (especially Munster, Leinster, and parts of Connacht), and counterparts in Wales (Pwca), Cornwall (Bucca), and the Scottish Highlands (Bòcan).",
   "first_reported": "Early medieval Ireland",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Old Irish púca, cognate with Welsh pwca, Cornish bucca, Old English pūca; further cognates appear in Old Norse púki ('devil, imp') and Middle English pouke",
+    "meaning": "Glossed in Irish lexicons as 'spirit, ghost, hobgoblin, goblin'; the cluster of cognates carries the sense 'mischievous spirit'",
+    "first_use": "Old Irish attestations in early medieval Irish texts; English 'pooka' / 'phouka' from at least the 17th century"
+  },
+  "sightings_stats": {
+    "date_range": {
+      "earliest": "Early medieval Ireland",
+      "latest": "2026"
+    }
+  },
+  "timeline": [
+    {
+      "date": "1825",
+      "event": "Thomas Crofton Croker publishes Fairy Legends and Traditions of the South of Ireland",
+      "significance": "Major early systematic collection including Púca tales",
+      "source": "Croker, T. C. (1825)"
+    },
+    {
+      "date": "1888",
+      "event": "W. B. Yeats publishes Fairy and Folk Tales of the Irish Peasantry, including a section on the Pooka",
+      "significance": "Definitive Anglo-Irish anthology of fairy belief",
+      "source": "Yeats, W. B. (1888)"
+    },
+    {
+      "date": "1888",
+      "event": "Lady Jane Wilde publishes Ancient Legends, Mystic Charms, and Superstitions of Ireland, including Púca material",
+      "significance": "Important 19th-century folklore collection",
+      "source": "Wilde, L. (1888)"
+    },
+    {
+      "date": "1935",
+      "event": "Irish Folklore Commission (Coimisiún Béaloideasa Éireann) founded",
+      "significance": "Initiates the systematic state-supported collection of Irish folklore, including Púca traditions",
+      "source": "Wikipedia: Irish Folklore Commission"
+    }
+  ],
+  "related": [
+    {
+      "id": "puck",
+      "name": "Puck (Robin Goodfellow)",
+      "relationship": "counterpart",
+      "description": "English cognate from the same etymological family, prominent in Shakespeare's A Midsummer Night's Dream"
+    },
+    {
+      "id": "kelpie",
+      "name": "Kelpie",
+      "relationship": "similar",
+      "description": "Scottish water-horse fairy that lures victims onto its back"
+    },
+    {
+      "id": "each-uisge",
+      "name": "Each-uisge",
+      "relationship": "similar",
+      "description": "Highland Scottish water-horse with similarly dangerous behaviour"
+    },
+    {
+      "id": "phynnodderee",
+      "name": "Fynoderee / Phynnodderee",
+      "relationship": "similar",
+      "description": "Manx hobgoblin with overlapping helper / trickster roles"
+    },
+    {
+      "id": "bogeyman",
+      "name": "Bogey / bogeyman",
+      "relationship": "related",
+      "description": "English-language cognate complex with similar etymology"
+    },
+    {
+      "id": "leprechaun",
+      "name": "Leprechaun",
+      "relationship": "related",
+      "description": "Distinct Irish fairy figure within the same Celtic fairy folklore"
+    }
+  ],
+  "cultural_notes": "Within Irish tradition, the Púca is at once a danger and a source of cryptic guidance; respectful behaviour towards it is rewarded, disrespect punished.",
+  "sources": [
+    {
+      "id": "wikipedia-puca",
+      "type": "website",
+      "title": "Púca",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/P%C3%BAca",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "yeats-1888",
+      "type": "book",
+      "title": "Fairy and Folk Tales of the Irish Peasantry",
+      "authors": [
+        "W. B. Yeats"
+      ],
+      "publication": "Walter Scott Publishing",
+      "date": "1888"
+    },
+    {
+      "id": "croker-1825",
+      "type": "book",
+      "title": "Fairy Legends and Traditions of the South of Ireland",
+      "authors": [
+        "Thomas Crofton Croker"
+      ],
+      "publication": "John Murray",
+      "date": "1825"
+    },
+    {
+      "id": "wilde-1888",
+      "type": "book",
+      "title": "Ancient Legends, Mystic Charms, and Superstitions of Ireland",
+      "authors": [
+        "Lady Jane Wilde"
+      ],
+      "publication": "Ward and Downey",
+      "date": "1888"
+    },
+    {
+      "id": "sikes-1880",
+      "type": "book",
+      "title": "British Goblins: Welsh Folk-lore, Fairy Mythology, Legends, and Traditions",
+      "authors": [
+        "Wirt Sikes"
+      ],
+      "publication": "Sampson Low, Marston, Searle, and Rivington",
+      "date": "1880"
+    },
+    {
+      "id": "duchas-puca",
+      "type": "archive",
+      "title": "Schools' Collection (Dúchas)",
+      "publication": "National Folklore Collection, UCD / Dúchas.ie",
+      "url": "https://www.duchas.ie",
+      "accessed": "2026-05-07"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Binevenagh / Mountain peaks of County Down and Wicklow",
+      "lat": 53,
+      "lng": -7
+    },
+    {
+      "name": "Pwca's Glen / Cwm Pwca",
+      "lat": 51.857,
+      "lng": -3.137
+    }
+  ]
 }

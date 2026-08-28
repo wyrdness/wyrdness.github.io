@@ -3,6 +3,7 @@
   "name": "Manananggal",
   "category": "shapeshifter",
   "description": "A creature of Filipino folklore, especially in the Visayan regions, that appears as a woman by day and at night separates her upper torso from her lower body, sprouting bat-like wings and flying in search of pregnant women, infants, and lovers, on whom she preys with an elongated proboscis-like tongue.",
+  "full_description": "The Manananggal is one of the most distinctive creatures of Philippine folklore, particularly associated with the Visayan provinces of Capiz, Iloilo, Antique, and Bohol. By day she lives as an ordinary-looking woman; at night she severs her upper torso at the waist and, with bat-like wings sprouting from her back, flies in search of victims. She is best known for preying on pregnant women, using a long thread-like or proboscis-like tongue to reach unborn fetuses through the thatch of nipa-hut roofs, but also for attacks on newlyweds, infants, and unwary travellers. Folkloric protections include sprinkling salt, ash, garlic, vinegar, or spices on the abandoned lower torso while she is away — preventing reattachment before sunrise will kill her — and the use of the buntot pagi (stingray-tail whip). The Manananggal is the most famous specifically Visayan branch of the broader aswang complex, and was documented as early as the late 16th century in Spanish missionary writings such as Juan de Plasencia's Customs of the Tagalogs (1589).",
   "aliases": [
     {
       "name": "Tanggal",
@@ -35,5 +36,93 @@
   "origin": "Throughout the Philippines, but most strongly associated with the Visayan region — particularly the provinces of Capiz, Iloilo, Antique, and Bohol — which is also the cultural heartland of the broader aswang tradition.",
   "first_reported": "1589",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Tagalog / Visayan, from the root 'tanggál' meaning 'to remove' or 'to separate'.",
+    "meaning": "'Remover' or 'separator' — referring to her ability to detach her upper body from her lower half.",
+    "first_use": "Documented in Spanish colonial sources from at least the late 16th century (Plasencia, 1589)."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "1589-01-01",
+      "event": "Juan de Plasencia describes manananggal-like nocturnal women in Customs of the Tagalogs",
+      "significance": "Earliest known European-language documentation",
+      "source": "Plasencia, Customs of the Tagalogs (1589)"
+    },
+    {
+      "date": "1703-01-01",
+      "event": "Fray Domingo de los Santos records related entries in the Vocabulario de Lengua Tagala",
+      "significance": "Continues colonial documentation of the tradition",
+      "source": "Vocabulario de Lengua Tagala (1703)"
+    }
+  ],
+  "related": [
+    {
+      "id": "aswang",
+      "name": "Aswang",
+      "relationship": "superset",
+      "description": "Broader Philippine category of nocturnal predatory shapeshifters; manananggal is the segmenting subtype"
+    },
+    {
+      "id": "penanggalan",
+      "name": "Penanggalan",
+      "relationship": "similar",
+      "description": "Malay self-segmenting vampiric creature (head with trailing entrails)"
+    },
+    {
+      "id": "krasue",
+      "name": "Krasue",
+      "relationship": "similar",
+      "description": "Thai/Lao floating-head spirit with hanging entrails"
+    },
+    {
+      "id": "leyak",
+      "name": "Leyak",
+      "relationship": "similar",
+      "description": "Balinese flying-head witch"
+    },
+    {
+      "id": "tiyanak",
+      "name": "Tiyanak",
+      "relationship": "related",
+      "description": "Filipino predatory infant spirit, sometimes paired with the manananggal"
+    }
+  ],
+  "cultural_notes": "In many rural Filipino communities the manananggal remains a meaningful figure of fear and caution, particularly in pregnancy and childbirth contexts.",
+  "sources": [
+    {
+      "id": "wikipedia-manananggal",
+      "type": "website",
+      "title": "Manananggal",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Manananggal",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "ramos-1971",
+      "type": "book",
+      "title": "Creatures of Philippine Lower Mythology",
+      "authors": [
+        "Maximo D. Ramos"
+      ],
+      "publication": "University of the Philippines Press",
+      "date": "1971"
+    },
+    {
+      "id": "plasencia-1589",
+      "type": "archive",
+      "title": "Customs of the Tagalogs",
+      "authors": [
+        "Juan de Plasencia"
+      ],
+      "date": "1589"
+    }
+  ],
+  "locations": []
 }

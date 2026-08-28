@@ -3,6 +3,7 @@
   "name": "Poludnitsa",
   "category": "entity_spirit",
   "description": "A noon-time demon of Slavic folklore, said to roam the boundaries of grain fields at the height of summer heat. She tests workers with riddles, demands they dance, and afflicts those who fail with heatstroke, madness, or death. Personifies the very real danger of midday sun for agricultural labor.",
+  "full_description": "Poludnitsa (Russian Полудница; from polden / poluden, 'midday') is a female demon of Slavic folklore associated with the dangerous hours around noon during the height of summer. She appears in slightly different forms across the Slavic world — as Polednice in Czech, Południca in Polish, Pscipolnitsa among the Sorbs of Lusatia, and Полудниця in Ukrainian. She is typically described as a young woman in white roaming the boundaries of grain fields, though regional variants depict her variously as an old hag, a whirlwind of dust, or a young girl. In her hands are a scythe, sickle, or shears, and in some northern Russian traditions a giant frying pan. She approaches workers in the fields at the hottest part of the day, asks them difficult questions or riddles, or compels them to dance. Those who fail her tests, or who simply continue working through the noon hour, are said to be afflicted with heatstroke ('aches in the neck'), madness, or death — including, in some versions, decapitation by her sickle. As a personification of midday sun-stroke, the figure encoded a practical health rule: stop work and rest in the shade during the hottest hours. Poludnitsa is also invoked as a guardian of crops: in certain accounts she protects the grain during flowering and punishes those who damage fields. She is celebrated in 19th- and 20th-century Slavic literature, most famously in K. J. Erben's ballad 'Polednice' (1853) and Antonín Dvořák's symphonic poem of the same name (Op. 108, 1896).",
   "aliases": [
     {
       "name": "Lady Midday",
@@ -61,5 +62,104 @@
   "origin": "Slavic folklore across Eastern, Central, and parts of Southern Europe — Russia, Ukraine, Belarus, Poland, Czechia, Slovakia, Lusatia (Sorbs), and parts of the South Slavic regions.",
   "first_reported": "Pre-Christian Slavic",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "From Common Slavic poludĭne / poluden ('half-day, midday'), with the feminine personal suffix -nitsa.",
+    "meaning": "'Lady (or spirit) of midday'; the demon of the noon hour.",
+    "first_use": "Pre-Christian Slavic; documented in 19th-century Slavic folklore studies."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "Pre-Christian",
+      "event": "Slavic communities identify Poludnitsa as the demon of the noon hour during high summer",
+      "significance": "Cultural baseline",
+      "source": "Slavic oral tradition (later reconstructed)"
+    },
+    {
+      "date": "1853",
+      "event": "Karel Jaromír Erben publishes 'Polednice' in 'Kytice', a ballad in which Polednice comes for a misbehaving child",
+      "significance": "Definitive Czech literary treatment that fixed the figure in modern Slavic culture",
+      "source": "Erben, K. J. (1853), 'Kytice'"
+    },
+    {
+      "date": "1896",
+      "event": "Antonín Dvořák composes 'Polednice' / 'The Noon Witch', symphonic poem Op. 108, B. 196, premiered November 1896 in London",
+      "significance": "Major orchestral setting of the figure",
+      "source": "Burghauser, J., Dvořák thematic catalogue"
+    },
+    {
+      "date": "20th century",
+      "event": "Documented across Slavic folklore by Russian, Polish, Czech, and Sorbian folklorists (e.g. V. Ya. Propp, K. Moszyński, P. Nedo)",
+      "significance": "Establishes the figure in modern academic folklore",
+      "source": "Slavic folkloristics"
+    },
+    {
+      "date": "2015-05-19",
+      "event": "Release of the video game 'The Witcher 3: Wild Hunt' (CD Projekt Red), which features the Noonwraith / Polednice as a major monster type",
+      "significance": "Modern global popularization of the figure",
+      "source": "CD Projekt Red release records"
+    }
+  ],
+  "related": [
+    {
+      "id": "rusalka",
+      "name": "Rusalka",
+      "relationship": "related",
+      "description": "Slavic water-spirit, similarly female and dangerous, attached to a different element and time of day"
+    },
+    {
+      "id": "vila",
+      "name": "Vila / Wila",
+      "relationship": "related",
+      "description": "Female nature spirit of South Slavic folklore"
+    },
+    {
+      "id": "siesta-demon",
+      "name": "Mediterranean midday demon (daemon meridianus)",
+      "relationship": "similar",
+      "description": "Latin / Christian 'noonday demon' of Psalm 91:6, sharing the noon-time peril motif"
+    },
+    {
+      "id": "kornmuhme",
+      "name": "Kornmuhme / Roggenmutter",
+      "relationship": "similar",
+      "description": "Germanic field spirits; analogous agricultural female figures"
+    }
+  ],
+  "cultural_notes": "Stop work, take shelter, and rest from roughly 11 a.m. to 2 p.m. in summer; do not leave children unattended at the field's edge.",
+  "sources": [
+    {
+      "id": "wikipedia-lady-midday",
+      "type": "website",
+      "title": "Lady Midday",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Lady_Midday",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "britannica-poludnitsa",
+      "type": "website",
+      "title": "Poludnitsa",
+      "publication": "Encyclopedia Britannica",
+      "url": "https://www.britannica.com/topic/poludnitsa",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "erben-1853",
+      "type": "book",
+      "title": "Kytice z pověstí národních",
+      "authors": [
+        "Karel Jaromír Erben"
+      ],
+      "publication": "Prague",
+      "date": "1853"
+    }
+  ],
+  "locations": []
 }

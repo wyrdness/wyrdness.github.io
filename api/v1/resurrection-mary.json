@@ -3,6 +3,7 @@
   "name": "Resurrection Mary",
   "category": "ghost_haunting",
   "description": "A long-running Chicago-area vanishing-hitchhiker legend centred on Archer Avenue and Resurrection Cemetery in Justice, Illinois, in which a young blonde woman in white is said to be picked up by drivers and to vanish near the cemetery gates.",
+  "full_description": "Resurrection Mary is the most famous Chicago-area ghost legend, an instance of the international 'vanishing hitchhiker' folk type localised to Archer Avenue between the Willowbrook Ballroom (formerly the Oh Henry Ballroom) in Willow Springs and Resurrection Cemetery in Justice, Illinois. According to the canonical version, a young woman with light blonde hair and blue eyes, wearing a white party dress, thin shawl, and dancing shoes, is encountered at a dance hall or along Archer Avenue, accepts a ride or dance, and either vanishes from the car at or near Resurrection Cemetery or runs in front of the vehicle and disappears. The earliest widely cited encounter is that of Jerry Palus, who in 1939 said he met a woman at the Liberty Grove and Hall (47th and Mozart) and drove her to Archer Avenue, where she walked into the cemetery and disappeared. Reports cluster between the 1930s and 1990s. Two historical women — Mary Bregovy (d. 1934) and Anna 'Marija' Norkus (d. 1927) — have been proposed as 'the real Mary', though neither perfectly fits the legend.",
   "aliases": [
     {
       "name": "Mary of Resurrection Cemetery",
@@ -34,5 +35,153 @@
   "origin": "Localised to the Archer Avenue corridor between Willow Springs and Justice, Illinois, in the southwest suburbs of Chicago.",
   "first_reported": "1939-01-01",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Named for Resurrection Cemetery in Justice, Illinois (founded 1904), where the apparition is said to disappear; the name 'Mary' is folk-traditional and not securely linked to a single historical individual.",
+    "meaning": "The 'Resurrection' element references the cemetery's name (a Roman Catholic burial ground operated by the Archdiocese of Chicago); 'Mary' is the popular folk name attached to the figure.",
+    "first_use": "Mid-20th century; the legend in its current form is widely attested by the late 1970s in Chicago newspapers and folklore collections."
+  },
+  "sightings_stats": {
+    "total_documented": 36,
+    "verified": 0,
+    "disputed": 30,
+    "debunked": 0,
+    "date_range": {
+      "earliest": "1939",
+      "latest": "1990s"
+    }
+  },
+  "timeline": [
+    {
+      "date": "1927-07-20",
+      "event": "Death of Anna 'Marija' Norkus, age 12, in an automobile crash on the way home from the Oh Henry Ballroom; one candidate identity for 'Mary'",
+      "significance": "Candidate historical individual proposed by Ursula Bielski in 1999",
+      "source": "Bielski, U. (1999), Chicago Haunts"
+    },
+    {
+      "date": "1934-03-10",
+      "event": "Death of Mary Bregovy in a Chicago automobile accident; another candidate identity for 'Mary'",
+      "significance": "Candidate historical individual long associated with the legend",
+      "source": "Cook County death records; Hauck (1996), Haunted Places: The National Directory"
+    },
+    {
+      "date": "1939-01-01",
+      "event": "Jerry Palus's reported encounter with 'Mary' at Liberty Grove and Hall (47th and Mozart, Chicago) and subsequent drive to Resurrection Cemetery",
+      "significance": "Earliest first-person account widely cited",
+      "source": "Palus interviews collected by Richard Crowe and others"
+    },
+    {
+      "date": "1973-08-01",
+      "event": "Cluster of sightings reported around Harlow's Nightclub and at Chet's Melody Lounge along Archer Avenue",
+      "significance": "1970s wave of activity",
+      "source": "Crowe, R., Chicago Tribune coverage"
+    },
+    {
+      "date": "1976-08-10",
+      "event": "The 'bent fence' incident: a passing motorist reports seeing a figure clutching the wrought-iron gate of Resurrection Cemetery; bars later found bent and apparently scorched. Cemetery management attributed the damage to a maintenance truck",
+      "significance": "Most-photographed evidentiary claim attached to the legend",
+      "source": "Chicago Tribune (1976); Bielski, U. (1999)"
+    },
+    {
+      "date": "1989-01-31",
+      "event": "Cab driver 'Ralph' picks up a young woman in white on Archer Avenue who vanishes from his cab near Resurrection Cemetery, an account collected by Richard Crowe",
+      "significance": "Often-cited late report",
+      "source": "Crowe, R., interviews"
+    }
+  ],
+  "related": [
+    {
+      "id": "vanishing-hitchhiker",
+      "name": "Vanishing Hitchhiker",
+      "relationship": "superset",
+      "description": "International folktale type studied by Jan Harold Brunvand and Richard K. Beardsley & Rosalie Hankey"
+    },
+    {
+      "id": "la-llorona",
+      "name": "La Llorona",
+      "relationship": "similar",
+      "description": "Latin American weeping-woman roadside apparition"
+    },
+    {
+      "id": "white-lady-ghosts",
+      "name": "White Lady ghosts",
+      "relationship": "similar",
+      "description": "Worldwide pattern of white-clad female apparitions associated with roads, bridges, and water"
+    }
+  ],
+  "cultural_notes": "Treated as the canonical Chicago ghost story; in folklore studies, it is understood as a localised tale-type rather than a single haunting.",
+  "sources": [
+    {
+      "id": "wikipedia-resurrection-mary",
+      "type": "website",
+      "title": "Resurrection Mary",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Resurrection_Mary",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "bielski-1998",
+      "type": "book",
+      "title": "Chicago Haunts: Ghostlore of the Windy City",
+      "authors": [
+        "Ursula Bielski"
+      ],
+      "publication": "Lake Claremont Press",
+      "date": "1998",
+      "isbn": "978-1893121034"
+    },
+    {
+      "id": "brunvand-1981",
+      "type": "book",
+      "title": "The Vanishing Hitchhiker: American Urban Legends and Their Meanings",
+      "authors": [
+        "Jan Harold Brunvand"
+      ],
+      "publication": "W. W. Norton",
+      "date": "1981",
+      "isbn": "978-0393951691"
+    },
+    {
+      "id": "beardsley-hankey-1942",
+      "type": "paper",
+      "title": "The Vanishing Hitchhiker",
+      "authors": [
+        "Richard K. Beardsley",
+        "Rosalie Hankey"
+      ],
+      "publication": "California Folklore Quarterly",
+      "date": "1942"
+    },
+    {
+      "id": "hauck-1996",
+      "type": "book",
+      "title": "Haunted Places: The National Directory",
+      "authors": [
+        "Dennis William Hauck"
+      ],
+      "publication": "Penguin",
+      "date": "1996",
+      "isbn": "978-0140257342"
+    },
+    {
+      "id": "cbs-chicago-hauntings",
+      "type": "news",
+      "title": "Chicago Hauntings: Resurrection Mary, Chicago's most famous ghost",
+      "publication": "CBS Chicago",
+      "url": "https://www.cbsnews.com/chicago/news/chicago-hauntings-resurrection-mary-most-famous-ghost/",
+      "accessed": "2026-05-07"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Resurrection Cemetery",
+      "lat": 41.7311,
+      "lng": -87.8378
+    },
+    {
+      "name": "Willowbrook Ballroom (formerly Oh Henry Ballroom)",
+      "lat": 41.7406,
+      "lng": -87.8703
+    }
+  ]
 }

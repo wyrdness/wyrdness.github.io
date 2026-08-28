@@ -3,6 +3,7 @@
   "name": "Exorcism",
   "category": "psychic_phenomena",
   "description": "A religious or spiritual practice for evicting demons, jinn, or other malevolent entities from a person, place, or object; recognized in Christianity, Judaism, Islam, Hinduism, and Buddhism, with the Catholic 'Roman Ritual' (1614, revised 1999) being the best-known formal rite.",
+  "full_description": "Exorcism is the religious or spiritual practice of evicting demons, jinn, or other unwanted spiritual entities from a person, place, or object. The English word derives from the Ancient Greek 'exorkismós' ('binding by oath'). Christian exorcism is rooted in New Testament accounts of Jesus casting out demons in the synoptic Gospels and forms part of multiple traditions: in the Catholic Church the formal rite of major exorcism is contained in the 'Rituale Romanum' (the Roman Ritual, instituted 1614 and revised in 1999) and may only be performed by a duly-ordained priest with the bishop's permission, after psychological and medical evaluation; minor exorcisms are part of baptism and other liturgies; the Eastern Orthodox Church trains all priests in exorcism; Lutheran and other Protestant churches retain various forms. Islam practices ruqyah (Quranic-recitation cleansing). Judaism preserves a Kabbalistic rite involving Psalm 91 and the shofar. Hinduism employs mantras, yajnas, and protective texts such as the Hanuman Chalisa. Tibetan Buddhism observes the 'Gutor' rite on the 29th lunar day. Mainstream psychiatric medicine does not recognize demonic possession as a diagnosis; phenomena traditionally interpreted as possession are typically associated with conditions such as schizophrenia, dissociative identity disorder, and temporal-lobe epilepsy. Notable historical cases include Martha Brossier (1578), the 1949 case that inspired William Peter Blatty's 1971 novel 'The Exorcist', and Anneliese Michel (1975–1976), whose death after 67 Catholic exorcisms led to a manslaughter conviction of two priests.",
   "aliases": [
     {
       "name": "exorkismós",
@@ -53,5 +54,137 @@
   "origin": "Exorcism is practiced globally, in every major religious tradition, with regional and confessional variations.",
   "first_reported": "0030-01-01",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Latin 'exorcismus', from Ancient Greek 'exorkismós' (ἐξορκισμός) 'a binding by oath', from 'exorkízein' 'to bind by an oath, adjure'.",
+    "meaning": "Literally 'binding by oath'; in religious usage, the act of compelling a demon or other spirit to depart by sacred command.",
+    "first_use": "Greek and Latin Christian writings of late antiquity; the practice itself is documented in the New Testament (1st century CE) and earlier."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0,
+    "date_range": {
+      "earliest": "1st century CE",
+      "latest": "2026"
+    }
+  },
+  "timeline": [
+    {
+      "date": "0030-01-01",
+      "event": "New Testament accounts of Jesus performing exorcisms (synoptic Gospels)",
+      "significance": "Foundational template for Christian exorcism",
+      "source": "New Testament; Wikipedia: Exorcism in Christianity"
+    },
+    {
+      "date": "1614-06-17",
+      "event": "Pope Paul V promulgates the 'Rituale Romanum', codifying Catholic exorcism for the Latin Church",
+      "significance": "First fully codified Latin-rite exorcism rite",
+      "source": "Wikipedia: Roman Ritual"
+    },
+    {
+      "date": "1949-01-01",
+      "event": "The 'Roland Doe' / 'Robbie Mannheim' case in Cottage City, Maryland and St. Louis, Missouri, in which Catholic priests perform an exorcism",
+      "significance": "Inspired William Peter Blatty's 1971 novel 'The Exorcist'",
+      "source": "Wikipedia: Exorcism"
+    },
+    {
+      "date": "1971-01-01",
+      "event": "William Peter Blatty publishes 'The Exorcist', adapted as William Friedkin's 1973 film",
+      "significance": "Drives the 20th-century cultural revival of interest in exorcism",
+      "source": "Wikipedia: Exorcism"
+    },
+    {
+      "date": "1975-09-24",
+      "event": "First exorcism session for Anneliese Michel performed by Father Arnold Renz, with permission from Bishop Josef Stangl of Würzburg",
+      "significance": "Beginning of the most-cited modern exorcism case",
+      "source": "Wikipedia: Anneliese Michel"
+    },
+    {
+      "date": "1976-07-01",
+      "event": "Anneliese Michel dies of malnutrition and dehydration after 67 exorcism sessions",
+      "significance": "Leads to a manslaughter conviction of her parents and the priests Renz and Alt",
+      "source": "Wikipedia: Anneliese Michel"
+    },
+    {
+      "date": "1999-01-26",
+      "event": "The Vatican publishes the revised rite of exorcism ('De exorcismis et supplicationibus quibusdam'), the first revision since 1614",
+      "significance": "Modernizes the Catholic rite and emphasizes psychiatric collaboration",
+      "source": "Wikipedia: Exorcism in the Catholic Church"
+    }
+  ],
+  "related": [
+    {
+      "id": "demonic-possession",
+      "name": "Demonic possession",
+      "relationship": "counterpart",
+      "description": "The condition that exorcism is intended to remedy."
+    },
+    {
+      "id": "ruqyah",
+      "name": "Ruqyah",
+      "relationship": "regional_variant",
+      "description": "Islamic practice of Quranic-recitation cleansing."
+    },
+    {
+      "id": "deliverance-ministry",
+      "name": "Deliverance ministry",
+      "relationship": "regional_variant",
+      "description": "Protestant (especially Pentecostal/charismatic) form of exorcism."
+    },
+    {
+      "id": "shamanic-soul-retrieval",
+      "name": "Shamanic soul retrieval",
+      "relationship": "similar",
+      "description": "Cross-cultural ritual practice of retrieving lost spirits / removing harmful ones."
+    }
+  ],
+  "cultural_notes": "Across the major religions, exorcism is held to be both a real spiritual intervention and a serious matter that requires authorized ritual specialists.",
+  "sources": [
+    {
+      "id": "wikipedia-exorcism",
+      "type": "website",
+      "title": "Exorcism",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Exorcism",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "wikipedia-exorcism-catholic",
+      "type": "website",
+      "title": "Exorcism in the Catholic Church",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Exorcism_in_the_Catholic_Church",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "wikipedia-roman-ritual",
+      "type": "website",
+      "title": "Roman Ritual",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Roman_Ritual",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "wikipedia-anneliese-michel",
+      "type": "website",
+      "title": "Anneliese Michel",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Anneliese_Michel",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "blatty-1971",
+      "type": "book",
+      "title": "The Exorcist",
+      "authors": [
+        "William Peter Blatty"
+      ],
+      "publication": "Harper & Row",
+      "date": "1971",
+      "isbn": "978-0061007224"
+    }
+  ],
+  "locations": []
 }

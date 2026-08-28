@@ -3,6 +3,7 @@
   "name": "Joint Snake",
   "category": "cryptid",
   "description": "The Joint Snake is a creature from Southern US folklore said to shatter into pieces when struck, then reassemble itself; the legend is rooted in misidentification of legless lizards (glass lizards) that can autotomize their tails.",
+  "full_description": "The Joint Snake is a creature from the oral tradition of the Southern United States, ranging from southern Virginia to Texas and north to Wisconsin and Iowa in western areas. In the legend, the joint snake has skin 'as hard as parchment and as smooth as glass' that is 'so stiff that it can hardly bend itself.' When struck, it breaks into pieces 'not an inch long' without producing blood. The snake's defining folkloric ability is that these fragments subsequently reassemble themselves into a complete living snake. An additional detail in some accounts holds that if a piece of the snake is taken away and the knife used to cut it is left in the snake's place, the knife will join up with the whole of the snake in place of the missing piece. The legend is most likely rooted in the behavior of legless lizards (glass lizards, genus Ophisaurus), which are real animals with long snakelike bodies and no legs, a tail often twice the length of the head and body combined, and the genuine ability to shed (autotomize) their tail segments when threatened — a defense mechanism that produces what looks like fragmentation. Benjamin Franklin's 1754 political cartoon Join, or Die featured a jointed snake symbolizing the disunited American colonies, reflecting the currency of the joint-snake image in 18th-century American culture. A related legend, the hoop snake, describes a serpent that grasps its tail in its jaws and rolls after prey like a wheel, straightening at the last moment to skewer victims with a venomous tail; this is documented from 1784 in the United States, Canada, and Australia. Naturalist Raymond Ditmars reportedly offered $10,000 for evidence of the hoop snake; no specimen was produced.",
   "aliases": [
     {
       "name": "Glass snake",
@@ -43,5 +44,62 @@
   "origin": "Southern United States from southern Virginia to Texas; range extends north to Wisconsin and Iowa in western areas. Hoop snake tradition extends to Canada and Australia.",
   "first_reported": "1754-01-01",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "American English; 'joint snake' refers to the creature's described ability to break at joints and reassemble. 'Glass snake' is the alternative name, referring both to the described glassy skin and to the actual glass lizards whose autotomy inspired the legend.",
+    "meaning": "'Joint snake' references the creature's jointed, breakable body. The name also evokes the actual glass lizards (genus Ophisaurus) which autotomize — shedding body segments — when threatened.",
+    "first_use": "1754 (join-or-die symbolism in Franklin's cartoon, reflecting pre-existing imagery); 1784 (hoop snake documented in published letter)"
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "1754-05-09",
+      "event": "Benjamin Franklin publishes the Join, or Die cartoon in the Pennsylvania Gazette, depicting the American colonies as segments of a jointed snake — reflecting the established folklore image",
+      "significance": "Earliest documented cultural reference using the joint-snake motif",
+      "source": "Wikipedia / Joint snake article"
+    },
+    {
+      "date": "1784-01-01",
+      "event": "A published letter documents the hoop snake legend — a related serpent that grasps its tail and rolls like a wheel",
+      "significance": "Earliest specific dated documentation of the related hoop snake tradition",
+      "source": "Wikipedia / Hoop snake article"
+    }
+  ],
+  "related": [
+    {
+      "id": "hoop-snake",
+      "name": "Hoop Snake",
+      "relationship": "related",
+      "description": "Related American folklore serpent that rolls like a hoop; overlapping tradition with joint snake"
+    },
+    {
+      "id": "hugag",
+      "name": "Hugag",
+      "relationship": "similar",
+      "description": "Fellow American tall-tale fearsome critter defined by an anatomical peculiarity"
+    }
+  ],
+  "cultural_notes": "In Southern US rural tradition, the joint snake was regarded as a genuinely dangerous and uncanny creature that could not be permanently killed by normal means.",
+  "sources": [
+    {
+      "id": "wikipedia-joint-snake",
+      "type": "website",
+      "title": "Joint snake",
+      "url": "https://en.wikipedia.org/wiki/Joint_snake",
+      "accessed": "2026-05-08"
+    },
+    {
+      "id": "wikipedia-hoop-snake",
+      "type": "website",
+      "title": "Hoop snake",
+      "url": "https://en.wikipedia.org/wiki/Hoop_snake",
+      "accessed": "2026-05-08"
+    }
+  ],
+  "locations": []
 }

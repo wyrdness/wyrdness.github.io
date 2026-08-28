@@ -3,6 +3,7 @@
   "name": "Aswang",
   "category": "shapeshifter",
   "description": "The aswang is an umbrella term for a complex of shape-shifting evil creatures in Filipino folklore — among the most feared supernatural beings in the Philippines — that live as ordinary humans by day and become predatory monsters by night.",
+  "full_description": "The aswang is not a single creature but an umbrella term covering at least five distinct supernatural categories in Filipino folk belief, as systematized by folklorist Maximo D. Ramos: vampires (blood-drinkers who attack through thin walls or under floorboards), viscera suckers (the manananggal, which separates its upper torso and flies on bat-like wings, draining unborn children through a long hollow tongue), weredogs (humans who transform into canines, pigs, or cats), witches (who use illness-causing concoctions and possess eyes that reflect images upside-down), and ghouls (who consume corpse flesh). Spanish colonial documents from the 16th century record the aswang as the most feared creature in Philippine folk belief. Regional variants are prominent across the Visayas (especially the province of Capiz in Panay Island, considered the aswang's traditional homeland), southern Luzon, and parts of Mindanao. The aswang inverts Filipino social values: it infiltrates communities through feigned normalcy, preferentially targets pregnant women and unborn children, and severs the kinship bonds central to Philippine culture. Scholars have proposed that the genetic disorder X-linked dystonia parkinsonism (XDP), endemic to Panay, may have contributed to aswang belief through its visible symptoms of bodily contortion. Aswang belief remains a source of genuine cultural fear in some rural Philippine communities and is not merely a literary or entertainment tradition.",
   "aliases": [
     {
       "name": "Manananggal",
@@ -57,5 +58,89 @@
   "origin": "Aswang belief is widespread across the Philippine archipelago, with the highest concentration of tradition in the Visayas region, particularly the province of Capiz in Panay Island (historically called the 'aswang capital'). Variants are also prominent in southern Luzon and parts of Mindanao.",
   "first_reported": "16th century",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "The term 'aswang' is documented in Spanish colonial records of the Philippines from the 16th century. One Bicol origin tradition traces the word to 'Asuang', the name of an evil god who rivaled the good god Gugurang for control of the cosmos. The exact pre-colonial etymology is not definitively established in academic sources.",
+    "meaning": "Broadly denotes a malevolent shapeshifting creature; the specific meaning varies by region and variant.",
+    "first_use": "16th century in Spanish colonial documentation of Philippine indigenous beliefs"
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "16th century",
+      "event": "Spanish colonial missionaries document the aswang as the most feared creature in Philippine folk belief",
+      "significance": "Earliest written record; establishes continuity of the tradition from pre-colonial period",
+      "source": "Spanish colonial records (cited in Ramos, M. D., 1971)"
+    },
+    {
+      "date": "1971",
+      "event": "Folklorist Maximo D. Ramos publishes systematic classification of the aswang into five types in 'Creatures of Philippine Lower Mythology'",
+      "significance": "Foundational academic systematization of aswang variants",
+      "source": "Ramos, M. D. (1971)"
+    },
+    {
+      "date": "1992",
+      "event": "'Shake, Rattle & Roll' horror anthology film series begins featuring aswang stories, cementing the creature in Philippine popular cinema",
+      "significance": "Marks mainstream popularization of aswang in Philippine horror film",
+      "source": "Philippine film records"
+    }
+  ],
+  "related": [
+    {
+      "id": "manananggal",
+      "name": "Manananggal",
+      "relationship": "subset",
+      "description": "The self-segmenting viscera-sucker variant of the aswang, sometimes treated as a separate creature"
+    },
+    {
+      "id": "penanggalan",
+      "name": "Penanggalan",
+      "relationship": "similar",
+      "description": "Malay floating detached head vampire with similar self-segmentation motif"
+    },
+    {
+      "id": "pontianak",
+      "name": "Pontianak",
+      "relationship": "similar",
+      "description": "Malay/Indonesian female vampiric spirit with overlapping characteristics"
+    },
+    {
+      "id": "leyak",
+      "name": "Leyak",
+      "relationship": "similar",
+      "description": "Balinese shapeshifting sorcerer creature with overlapping characteristics"
+    }
+  ],
+  "cultural_notes": "In many rural Philippine communities, especially in the Visayas, aswang belief is a living tradition. Protective practices are observed by pregnant women and their families. The province of Capiz is popularly associated with aswang activity, which has shaped its modern identity and tourism. These beliefs reflect genuine cultural fears rather than merely folkloric entertainment, and should be engaged with respectfully.",
+  "sources": [
+    {
+      "id": "ramos-1971",
+      "type": "book",
+      "title": "Creatures of Philippine Lower Mythology",
+      "authors": [
+        "Maximo D. Ramos"
+      ],
+      "publication": "University of the Philippines Press",
+      "date": "1971"
+    },
+    {
+      "id": "wikipedia-aswang",
+      "type": "website",
+      "title": "Aswang",
+      "url": "https://en.wikipedia.org/wiki/Aswang",
+      "accessed": "2026-05-08"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Capiz Province, Panay Island",
+      "lat": 11.35,
+      "lng": 122.62
+    }
+  ]
 }

@@ -3,6 +3,7 @@
   "name": "Ammit",
   "category": "mythological_creature",
   "description": "An ancient Egyptian funerary demon depicted with the head of a crocodile, the foreparts of a lion, and the hindparts of a hippopotamus, who devours the hearts of the unworthy dead in the Hall of Two Truths.",
+  "full_description": "Ammit (also Ammut, Ahemait) is a hybrid demon-figure of ancient Egyptian funerary religion. Her name is conventionally translated 'Devourer of the Dead' or 'Swallower of the Dead'. She is depicted with the head of a crocodile, the forequarters of a lion (or leopard), and the hindquarters of a hippopotamus — a composite of three of the most dangerous animals known to the Egyptian Nile world. Ammit's role is set in Chapter 125 of the Book of the Dead: in the Hall of Two Truths (the judgment of Osiris) the heart of the deceased is weighed on a scale against the feather of Maat. If the heart proves heavier than truth, Ammit consumes it — annihilating the deceased's existence and denying them the afterlife in the Field of Reeds (Aaru). Ammit was not worshipped, received no temples, and had no priesthood; rather, she was a feared guardian whose presence in tomb and papyrus imagery enforced the moral logic of the judgment. She becomes prominent in funerary iconography from the New Kingdom (especially the 19th Dynasty onward) and is shown beside the scales in such famous papyri as the Papyrus of Ani and the Papyrus of Hunefer.",
   "aliases": [
     {
       "name": "Ammut",
@@ -44,5 +45,91 @@
   "origin": "Ammit appears in the funerary religion of ancient Egypt, with iconography distributed across tombs, papyri, and temples throughout the Nile Valley and the Egyptian-controlled regions of the New Kingdom.",
   "first_reported": "New Kingdom (c. 1550 BCE)",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Ancient Egyptian, with the verb ʿm 'to swallow / devour' and the participle 'mwt 'the dead'.",
+    "meaning": "'Devourer of the Dead' or 'She who swallows the dead'.",
+    "first_use": "Attested in funerary literature of the New Kingdom (c. 1550–1070 BCE), most prominently in the Book of the Dead."
+  },
+  "sightings_stats": null,
+  "timeline": [
+    {
+      "date": "c. 1550 BCE",
+      "event": "Earliest appearance of Ammit in New Kingdom funerary imagery",
+      "significance": "Establishes the figure in the canonical judgment scene",
+      "source": "Book of the Dead corpus"
+    },
+    {
+      "date": "c. 1250 BCE",
+      "event": "Papyrus of Ani is produced (19th Dynasty); Ammit appears beside the scales in the judgment vignette",
+      "significance": "Most famous individual Book of the Dead manuscript depicting Ammit",
+      "source": "British Museum, EA 10470"
+    },
+    {
+      "date": "c. 1280 BCE",
+      "event": "Papyrus of Hunefer (19th Dynasty) depicts the weighing of the heart with Ammit at the foot of the scales",
+      "significance": "Classic visual reference for the Ammit motif",
+      "source": "British Museum, EA 9901"
+    }
+  ],
+  "related": [
+    {
+      "id": "anubis",
+      "name": "Anubis",
+      "relationship": "related",
+      "description": "Conducts the weighing of the heart at which Ammit is present"
+    },
+    {
+      "id": "osiris",
+      "name": "Osiris",
+      "relationship": "related",
+      "description": "Presides over the judgment of the dead"
+    },
+    {
+      "id": "maat",
+      "name": "Maat",
+      "relationship": "related",
+      "description": "Goddess of truth whose feather is weighed against the heart"
+    },
+    {
+      "id": "taweret",
+      "name": "Taweret",
+      "relationship": "similar",
+      "description": "Hippopotamus-headed Egyptian protective demoness; iconographic relative"
+    }
+  ],
+  "cultural_notes": "Ammit's threat enforced the moral logic of the negative confession; the dead asserted innocence of forty-two named transgressions before the gods.",
+  "sources": [
+    {
+      "id": "wikipedia-ammit",
+      "type": "website",
+      "title": "Ammit",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ammit",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "taylor-2010",
+      "type": "book",
+      "title": "Journey through the Afterlife: Ancient Egyptian Book of the Dead",
+      "authors": [
+        "John H. Taylor"
+      ],
+      "publication": "British Museum Press",
+      "date": "2010",
+      "isbn": "978-0714119892"
+    },
+    {
+      "id": "hornung-1999",
+      "type": "book",
+      "title": "The Ancient Egyptian Books of the Afterlife",
+      "authors": [
+        "Erik Hornung"
+      ],
+      "publication": "Cornell University Press",
+      "date": "1999",
+      "isbn": "978-0801485152"
+    }
+  ],
+  "locations": []
 }

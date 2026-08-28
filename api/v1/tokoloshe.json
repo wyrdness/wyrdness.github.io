@@ -3,6 +3,7 @@
   "name": "Tokoloshe",
   "category": "entity_spirit",
   "description": "A dwarf-like water spirit of Nguni (Zulu, Xhosa) folklore in Southern Africa, traditionally summoned by witch doctors to harm enemies. Known for invisibility, biting sleeping victims, and aggressive nocturnal behavior.",
+  "full_description": "The tokoloshe (also tikoloshe, tikolosh, tonkolosh, or hili) is a dwarf-like water spirit central to Nguni mythology in Southern Africa, prominent among Zulu, Xhosa, and other Bantu-speaking peoples. Traditionally hip-high or smaller, hairy, and grotesque, it is most often described as a malevolent entity summoned by a witch (umthakathi) to torment a victim. According to Zulu tradition, the tokoloshe achieves invisibility by drinking water or swallowing a stone, allowing it to enter homes unseen and bite sleeping persons - especially their toes - cause illness, frighten children, or kill. The most enduring protective practice is to raise one's bed off the ground on bricks, placing the sleeper out of reach. A widely cited 1955 South African newspaper headline, dated 7 December 1955, demonstrates the depth of mid-20th-century public concern. The tokoloshe remains a living part of Southern African folk belief and a recurring figure in regional pop culture, including the Madam & Eve comic strip and the South African film A Reasonable Man (1999).",
   "aliases": [
     {
       "name": "Tikoloshe",
@@ -55,5 +56,98 @@
   "origin": "Reported throughout Southern Africa, especially among Nguni-speaking peoples (Zulu, Xhosa, Swazi, Ndebele) and into neighboring states.",
   "first_reported": "Pre-colonial",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "isiZulu uthikoloshe / isiXhosa utikoloshe; the term spans Nguni-language groups across Southern Africa.",
+    "meaning": "Often glossed simply as 'tokoloshe' or 'water sprite/dwarf'.",
+    "first_use": "Recorded in 19th- and early-20th-century missionary and colonial ethnographies of Zulu and Xhosa belief"
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "Pre-colonial",
+      "event": "Tokoloshe traditions in Nguni oral tradition",
+      "significance": "Cultural baseline",
+      "source": "Nguni oral tradition"
+    },
+    {
+      "date": "1955-12-07",
+      "event": "South African newspaper headline cited as evidence of widespread mid-20th-century public concern about the tokoloshe",
+      "significance": "Documents persistence of belief into the modern era",
+      "source": "Wikipedia 'Tokoloshe' article"
+    },
+    {
+      "date": "1999",
+      "event": "Release of South African film A Reasonable Man (Gavin Hood), in which the tokoloshe is central to the plot",
+      "significance": "Brings tokoloshe folklore to international cinema",
+      "source": "Hood, G., A Reasonable Man (1999)"
+    }
+  ],
+  "related": [
+    {
+      "id": "impundulu",
+      "name": "Impundulu",
+      "relationship": "related",
+      "description": "Nguni 'lightning bird' witch familiar"
+    },
+    {
+      "id": "shtriga",
+      "name": "Shtriga",
+      "relationship": "similar",
+      "description": "Albanian witch tradition"
+    },
+    {
+      "id": "duende",
+      "name": "Duende",
+      "relationship": "similar",
+      "description": "Iberian dwarf-being"
+    },
+    {
+      "id": "leprechaun",
+      "name": "Leprechaun",
+      "relationship": "similar",
+      "description": "Irish dwarf-being"
+    },
+    {
+      "id": "knocker",
+      "name": "Knocker",
+      "relationship": "similar",
+      "description": "Cornish mine-dwarf"
+    }
+  ],
+  "cultural_notes": "Belief in the tokoloshe remains widespread in Southern Africa, particularly in rural communities and townships, and is invoked in narratives of unexplained illness, domestic conflict, and misfortune.",
+  "sources": [
+    {
+      "id": "wikipedia-tokoloshe",
+      "type": "website",
+      "title": "Tokoloshe",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Tokoloshe",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "hood-1999",
+      "type": "documentary",
+      "title": "A Reasonable Man",
+      "authors": [
+        "Gavin Hood"
+      ],
+      "date": "1999"
+    },
+    {
+      "id": "pikwane-2018",
+      "type": "documentary",
+      "title": "The Tokoloshe",
+      "authors": [
+        "Jerome Pikwane"
+      ],
+      "date": "2018"
+    }
+  ],
+  "locations": []
 }

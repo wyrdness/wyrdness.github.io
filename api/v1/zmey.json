@@ -3,6 +3,7 @@
   "name": "Zmey (Slavic Dragon)",
   "category": "mythological_creature",
   "description": "The zmey (Russian zmei, Ukrainian zmiy, Polish żmij, Serbian/Croatian/Slovenian zmaj, Bulgarian zmei) is the dragon of Slavic mythology — a flying, often multi-headed, fire-breathing serpent that shapeshifts between dragon and human form, with sharply different moral roles in East Slavic and South Slavic traditions.",
+  "full_description": "The zmey is the dragon of Slavic mythology, attested across the Russian (zmei, змей), Ukrainian (zmiy, змій), Polish (żmij), Serbian and Croatian (zmaj, змај), Slovenian (zmaj), and Bulgarian (zmei, змей) traditions, with the related Romanian zmeu sometimes treated alongside it. The terms descend from Proto-Slavic *zmьjь, formally a 'flying serpent', and are linguistically related to ordinary words for snake. Across Slavic folk tradition the zmey is consistently portrayed as a winged serpent-like being, often with four legs, scaled hide, and sometimes a fish-like tail; depictions range from a serpentine winged dragon to a half-man / half-snake hybrid. Multi-headed forms — three, six, seven, nine, or twelve heads — are characteristic, the most famous being Russia's Zmey Gorynych, the bylina opponent of the bogatyr Dobrynya Nikitich. Slavic dragons are typically shapeshifters: a male zmey may take the form of a handsome man to seduce mortal women, while female zmeitsa may court shepherds; in many tales the dragon also commands weather, drinks rivers and seas, and breathes fire. East Slavic traditions tend to cast the zmey as a malevolent abductor and chief antagonist, while in the South Slavic Balkans the zmey is often a benevolent guardian dragon who defends the homeland against worse beings such as the lamia, ala/hala, and aždaja. The zmey appears across Russian bylinas, Serbian epic and folktale collections (notably Vuk Karadžić's), Bulgarian ethnographies (e.g. Dimitar Marinov's), and Polish heraldry and place lore (the Wawel Dragon).",
   "aliases": [
     {
       "name": "Zmei",
@@ -72,5 +73,159 @@
   "origin": "Pan-Slavic. The zmey is documented across the Slavic-speaking world: East Slavic (Russia, Ukraine, Belarus), South Slavic (Bulgaria, Serbia, Croatia, North Macedonia, Slovenia), and West Slavic (Poland, Czech, Slovak) traditions, with related figures in Romania.",
   "first_reported": "Medieval Slavic period",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "From Proto-Slavic *zmьjь, ultimately related to the Indo-European root for 'earth' (Proto-Slavic *zemja); the linguist Petar Skok argued that Serbo-Croatian zmaj 'dragon' and zemlja 'earth' descend from the same root, marking the zmey as a chthonic flying serpent.",
+    "meaning": "Literally 'serpent' / 'flying serpent', extended to 'dragon'.",
+    "first_use": "Proto-Slavic; attested across the medieval Slavic literary record."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "Medieval period",
+      "event": "Zmey traditions take shape across Slavic oral and ecclesiastical literature; Russian bylinas develop the Dobrynya Nikitich / Zmey Gorynych narrative",
+      "significance": "Formation of the canonical East Slavic zmey corpus",
+      "source": "Russian bylina tradition"
+    },
+    {
+      "date": "1814–1864",
+      "event": "Vuk Karadžić collects and publishes Serbian folktales and epic songs containing zmaj material (e.g. 'The Golden Apple-Tree and the Nine Peahens')",
+      "significance": "Foundational South Slavic folklore corpus",
+      "source": "Karadžić, V., Srpske narodne pripovijetke; Srpske narodne pjesme"
+    },
+    {
+      "date": "1855–1863",
+      "event": "Alexander Afanasyev publishes 'Narodnye russkie skazki' (Russian Folk-Tales), containing the major Russian zmei tales including 'Ivan Bykovich' (Chudo-Yudo)",
+      "significance": "Foundational East Slavic folklore corpus",
+      "source": "Afanasyev, A. (1855–1863)"
+    },
+    {
+      "date": "1891–1894",
+      "event": "Dimitar Marinov publishes major ethnographic surveys of Bulgarian folk religion documenting zmei, lamia, and ala",
+      "significance": "Foundational South Slavic ethnographic corpus",
+      "source": "Marinov, D., Živa Starina (1891–1894)"
+    }
+  ],
+  "related": [
+    {
+      "id": "zmey-gorynych",
+      "name": "Zmey Gorynych",
+      "relationship": "subset",
+      "description": "Specific multi-headed Russian dragon of the bylinas"
+    },
+    {
+      "id": "chudo-yudo",
+      "name": "Chudo-Yudo",
+      "relationship": "related",
+      "description": "Multi-headed water-dwelling Russian folktale dragon"
+    },
+    {
+      "id": "lamia",
+      "name": "Lamia (Slavic ламя)",
+      "relationship": "counterpart",
+      "description": "Reptilian, multi-headed Bulgarian water demon often opposed to the benevolent zmey"
+    },
+    {
+      "id": "ala",
+      "name": "Ala / Hala",
+      "relationship": "counterpart",
+      "description": "Storm-demon of South Slavic tradition"
+    },
+    {
+      "id": "azhdaja",
+      "name": "Aždaja / Aždaha",
+      "relationship": "counterpart",
+      "description": "Malevolent South Slavic dragon contrasted with the benevolent zmaj"
+    },
+    {
+      "id": "wawel-dragon",
+      "name": "Wawel Dragon (Smok Wawelski)",
+      "relationship": "subset",
+      "description": "Famous Polish dragon of Kraków"
+    },
+    {
+      "id": "zmeu",
+      "name": "Zmeu",
+      "relationship": "related",
+      "description": "Romanian dragon-like figure with disputed but possibly shared etymology"
+    }
+  ],
+  "cultural_notes": "The zmey is widely treated in folk tradition as a real, locally situated being — guarding mountains and rivers, courting and abducting mortals, and locking with rival sky-demons during storms. In South Slavic regions in particular, the zmaj has historically been welcomed as a guardian rather than feared.",
+  "sources": [
+    {
+      "id": "wikipedia-slavic-dragon",
+      "type": "website",
+      "title": "Slavic dragon",
+      "url": "https://en.wikipedia.org/wiki/Slavic_dragon",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "wikipedia-zmei-russian",
+      "type": "website",
+      "title": "Zmei (Russian)",
+      "url": "https://en.wikipedia.org/wiki/Zmei_(Russian)",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "afanasyev-skazki",
+      "type": "book",
+      "title": "Narodnye russkie skazki (Russian Folk-Tales)",
+      "authors": [
+        "Alexander Afanasyev"
+      ],
+      "date": "1855-1863"
+    },
+    {
+      "id": "karadzic-pripovijetke",
+      "type": "book",
+      "title": "Srpske narodne pripovijetke (Serbian Folk-Tales)",
+      "authors": [
+        "Vuk Stefanović Karadžić"
+      ],
+      "date": "1853"
+    },
+    {
+      "id": "karadzic-pjesme",
+      "type": "book",
+      "title": "Srpske narodne pjesme (Serbian Folk Songs)",
+      "authors": [
+        "Vuk Stefanović Karadžić"
+      ],
+      "date": "1841-1862"
+    },
+    {
+      "id": "marinov-ziva-starina",
+      "type": "book",
+      "title": "Živa Starina: Ethnographic Survey of Bulgarian Folk Religion",
+      "authors": [
+        "Dimitar Marinov"
+      ],
+      "date": "1891-1894"
+    },
+    {
+      "id": "ancient-origins-zmaj",
+      "type": "article",
+      "title": "Zmaj and the Dragon Lore of Slavic Mythology",
+      "publication": "Ancient Origins",
+      "url": "https://www.ancient-origins.net/myths-legends-europe/zmaj-and-dragon-lore-slavic-mythology-002984",
+      "accessed": "2026-05-07"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Wawel Hill, Kraków",
+      "lat": 50.054,
+      "lng": 19.9354
+    },
+    {
+      "name": "Ljubljana",
+      "lat": 46.0569,
+      "lng": 14.5058
+    }
+  ]
 }

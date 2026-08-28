@@ -3,6 +3,7 @@
   "name": "Chupacabra",
   "category": "cryptid",
   "description": "A modern livestock-predator cryptid first widely reported in Puerto Rico in 1995. Two distinct forms dominate: an upright, spined, alien-like Puerto Rican type and a hairless, dog-like type reported in Mexico and the southwestern United States.",
+  "full_description": "The Chupacabra ('goat-sucker') is among the youngest internationally recognised cryptids. The phenomenon erupted in Puerto Rico in 1995, when a wave of livestock killings — primarily goats, sheep, and chickens, found with puncture wounds and reportedly drained of blood — was attributed to an unknown creature. Witness Madelyne Tolentino's August 1995 description, given to journalists in Canóvanas, fixed the popular image of an upright, bipedal, spined creature with large red eyes. From the late 1990s the Chupacabra label spread across Latin America and into the United States, where reports increasingly described a different animal: a hairless, dog-like quadruped. Necropsies of several alleged southwestern-US Chupacabra carcasses, including the 2007 Cuero, Texas specimen recovered by Phylis Canion, identified them as canids — coyotes, coyote-dog hybrids, or grey foxes — affected by Sarcoptes scabiei (sarcoptic mange). Folklorist and investigator Benjamin Radford spent five years researching the phenomenon and concluded in his 2011 book Tracking the Chupacabra that Tolentino's foundational 1995 description was substantively shaped by the alien creature 'Sil' from the science-fiction film Species (1995), which she had seen shortly before her sighting. The Chupacabra is now treated by mainstream folklorists as a 20th-century legend whose physical-evidence cases reduce to mange-affected canids and other known animals.",
   "aliases": [
     {
       "name": "Chupacabras",
@@ -45,5 +46,146 @@
   "origin": "Reports originated in Puerto Rico in 1995 and within a few years spread across Latin America and into the southwestern and southern United States. Sightings have been reported in Mexico, Argentina, Bolivia, Brazil, Chile, Colombia, the Dominican Republic, Nicaragua, Panama, Peru, Texas, New Mexico, Arizona, Maine, and Russia (rare).",
   "first_reported": "1995-03",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Spanish 'chupacabras', a compound of chupa ('sucks') and cabras ('goats'), coined in 1995 by Puerto Rican comedian and broadcaster Silverio Pérez during radio coverage of the Canóvanas livestock killings.",
+    "meaning": "Goat-sucker",
+    "first_use": "1995 (Puerto Rico, Spanish; English use within months)"
+  },
+  "sightings_stats": {
+    "total_documented": 2000,
+    "verified": 0,
+    "disputed": 1500,
+    "debunked": 300,
+    "date_range": {
+      "earliest": "1995",
+      "latest": "2026"
+    }
+  },
+  "timeline": [
+    {
+      "date": "1975",
+      "event": "'Vampiro de Moca' livestock killings reported around Moca, Puerto Rico",
+      "significance": "Sometimes cited retrospectively as a Chupacabra precursor",
+      "source": "Puerto Rican press archives"
+    },
+    {
+      "date": "1995-03",
+      "event": "Wave of livestock killings begins in Puerto Rico, with goats and sheep found drained of blood through small puncture wounds",
+      "significance": "Onset of the modern Chupacabra phenomenon",
+      "source": "El Nuevo Día and other Puerto Rican press coverage"
+    },
+    {
+      "date": "1995-08",
+      "event": "Madelyne Tolentino reports the foundational sighting in Canóvanas; the term 'chupacabras' is coined on Puerto Rican radio by Silverio Pérez",
+      "significance": "Establishes the alien-like Puerto Rican type",
+      "source": "Puerto Rican radio and press, August 1995"
+    },
+    {
+      "date": "1996",
+      "event": "Reports spread through Mexico and into the United States via Spanish-language media",
+      "significance": "International dissemination",
+      "source": "Mexican and US press coverage"
+    },
+    {
+      "date": "2004",
+      "event": "The 'Elmendorf Beast', a hairless canid, is shot near Elmendorf, Texas by Devin McAnally and identified as a mange-affected coyote",
+      "significance": "First widely-publicised carcass of the Texan/Mexican 'hairless canid' type",
+      "source": "Texas Parks and Wildlife identification (2004)"
+    },
+    {
+      "date": "2007-07",
+      "event": "Phylis Canion of Cuero, Texas, recovers the carcass of a hairless canid near her ranch",
+      "significance": "Foundational US specimen of the canine Chupacabra wave",
+      "source": "Press coverage and subsequent DNA work"
+    },
+    {
+      "date": "2010",
+      "event": "Researchers at Texas State University and the University of California, Davis, sequence the Cuero specimen and identify it as a coyote / Mexican wolf hybrid affected by mange",
+      "significance": "Major peer-reviewed identification of a Texan Chupacabra carcass",
+      "source": "Texas State University / UC Davis DNA work (2010)"
+    },
+    {
+      "date": "2011",
+      "event": "Benjamin Radford publishes Tracking the Chupacabra, presenting evidence that Tolentino's 1995 description was substantively shaped by the film Species (1995)",
+      "significance": "Major folkloric debunking of the foundational sighting",
+      "source": "Radford, B. (2011), Tracking the Chupacabra"
+    }
+  ],
+  "related": [
+    {
+      "id": "moca-vampire",
+      "name": "Moca Vampire",
+      "relationship": "related",
+      "description": "1975 Puerto Rican livestock-killing wave, retrospectively considered a Chupacabra precursor"
+    },
+    {
+      "id": "jersey-devil",
+      "name": "Jersey Devil",
+      "relationship": "similar",
+      "description": "American bipedal cryptid blamed for livestock attacks"
+    },
+    {
+      "id": "elmendorf-beast",
+      "name": "Elmendorf Beast",
+      "relationship": "regional_variant",
+      "description": "2004 Texas hairless canid identified as a mange-affected coyote, often called a Chupacabra"
+    }
+  ],
+  "cultural_notes": "The Chupacabra is unusual among cryptids in having no deep folklore baseline; it is widely treated by folklorists as a 20th-century legend whose dissemination tracks Spanish-language television and the early Internet.",
+  "sources": [
+    {
+      "id": "radford-2011",
+      "type": "book",
+      "title": "Tracking the Chupacabra: The Vampire Beast in Fact, Fiction, and Folklore",
+      "authors": [
+        "Benjamin Radford"
+      ],
+      "publication": "University of New Mexico Press",
+      "date": "2011",
+      "isbn": "978-0826350152"
+    },
+    {
+      "id": "corrales-1997",
+      "type": "book",
+      "title": "Chupacabras and Other Mysteries",
+      "authors": [
+        "Scott Corrales"
+      ],
+      "publication": "Greenleaf Publications",
+      "date": "1997",
+      "isbn": "978-1883729066"
+    },
+    {
+      "id": "wikipedia-chupacabra",
+      "type": "website",
+      "title": "Chupacabra",
+      "url": "https://en.wikipedia.org/wiki/Chupacabra",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "natgeo-chupacabra",
+      "type": "website",
+      "title": "Chupacabra Science: How Evolution Made a Mythical Monster",
+      "url": "https://www.nationalgeographic.com/animals/article/chupacabra-myth",
+      "accessed": "2026-05-07"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Canóvanas, Puerto Rico",
+      "lat": 18.379,
+      "lng": -65.901
+    },
+    {
+      "name": "Cuero, Texas",
+      "lat": 29.094,
+      "lng": -97.29
+    },
+    {
+      "name": "Elmendorf, Texas",
+      "lat": 29.262,
+      "lng": -98.328
+    }
+  ]
 }

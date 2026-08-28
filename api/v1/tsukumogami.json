@@ -3,6 +3,7 @@
   "name": "Tsukumogami",
   "category": "entity_spirit",
   "description": "Tsukumogami (付喪神) are a class of Japanese yokai in which household items and tools gain sentience and spiritual essence after approximately 100 years of existence; rooted in Shinto animism and Buddhist teachings, they can range from benign pranksters to vengeful spirits if discarded carelessly.",
+  "full_description": "Tsukumogami (付喪神) are a broad class of Japanese yokai in which everyday objects — household implements, tools, musical instruments, umbrellas, sandals, lanterns — gain consciousness, life, and spiritual essence after approximately 100 years of use. The concept is grounded in Shinto animism, the belief that all things possess a spiritual essence (kami), combined with Buddhist teachings about impermanence, attachment, and the spiritual consequences of treating objects carelessly. The threshold of 100 years is somewhat fluid in the tradition — the alternate kanji rendering 九十九神 (ninety-nine spirits) emphasizes great age rather than a precise number. Objects that are cared for, used faithfully, and respectfully disposed of are unlikely to become problematic tsukumogami; those discarded carelessly or thoughtlessly may awaken in anger and seek revenge on their former owners. The tradition encouraged practical piety: people performed susu-harai (year-end cleaning) to discard or replace very old objects before they reached the dangerous age of 100, preventing them from becoming troublesome spirits. Common examples include the karakasa-kozō (umbrella ghost with one eye and one leg), bakezōri (animated sandals), chōchin'obake (lantern ghost), and zenfushō (animated tea kettles). The tradition was used by Shingon Buddhist missionaries from the 10th century onward to teach doctrinal concepts about attachment and impermanence to broad audiences. Today, the concept is echoed in Shinto shrine ceremonies that 'console' broken and unusable items — kuyō rituals that honor the spirit of old objects before their disposal.",
   "aliases": [
     {
       "name": "付喪神",
@@ -35,5 +36,87 @@
   "origin": "Japan; the tsukumogami concept is specific to Japanese culture and is rooted in Shinto animism and Japanese Buddhist traditions.",
   "first_reported": "0900-01-01",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Japanese. The term combines tsukumo (つくも, old) with kami (神, spirit or god). The kanji 付喪神 dates to the Tenpō period (1830–1844 CE). An alternate kanji form 九十九神 (ninety-nine spirits) is also attested.",
+    "meaning": "Approximately 'old-thing spirit' or 'spirit of the aged object.' The ninety-nine reading emphasizes the age at which objects gain spiritual essence.",
+    "first_use": "The concept appears in 9th-century Japanese poetry (The Tales of Ise / Ise Monogatari); the specific term tsukumogami was documented in the Tenpō period (1830s) but the phenomenon it names is attested far earlier."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "0905-01-01",
+      "event": "The Tales of Ise (Ise Monogatari) composed; contains conceptual precursors to the tsukumogami belief",
+      "significance": "Earliest literary context for the animist beliefs underlying tsukumogami",
+      "source": "Ise Monogatari (c. 9th century CE)"
+    },
+    {
+      "date": "1300-01-01",
+      "event": "Tsukumogami ki (付喪神記) composed — a tale describing discarded utensils gaining spirit and seeking vengeance on humans during the New Year period",
+      "significance": "Primary medieval literary text on tsukumogami",
+      "source": "Tsukumogami ki (Muromachi period, c. 14th–16th century)"
+    },
+    {
+      "date": "1400-01-01",
+      "event": "Hyakki Yagyō Emaki (Picture scroll of the night parade of one hundred demons) produced in the Muromachi period; prominently depicts tsukumogami among supernatural marchers",
+      "significance": "Most influential visual representation of tsukumogami",
+      "source": "Hyakki Yagyō Emaki (Muromachi period)"
+    },
+    {
+      "date": "1835-01-01",
+      "event": "Tsukumogami Emaki (Tenpō period picture scroll) produced, providing the most focused visual catalog of tsukumogami types",
+      "significance": "Canonical visual reference for tsukumogami taxonomy",
+      "source": "Tsukumogami Emaki (Tenpō period, c. 1830s)"
+    }
+  ],
+  "related": [
+    {
+      "id": "yokai",
+      "name": "Yokai (broadly)",
+      "relationship": "superset",
+      "description": "Tsukumogami are a subclass of the broad category of Japanese supernatural beings called yokai"
+    },
+    {
+      "id": "kami",
+      "name": "Kami",
+      "relationship": "related",
+      "description": "In Shinto belief, all objects possess kami (spirit/essence); tsukumogami represent the awakening of that essence in aged objects"
+    },
+    {
+      "id": "karakasa",
+      "name": "Karakasa-kozō",
+      "relationship": "subset",
+      "description": "The umbrella ghost — one of the most famous specific tsukumogami"
+    }
+  ],
+  "cultural_notes": "Tsukumogami belief reflects the Shinto understanding that spiritual essence inhabits all things and the Buddhist teaching that careless attachment to — or careless disposal of — objects has consequences. The tradition encourages gratitude and respect: faithful objects should be honored before disposal, not simply discarded. Modern kuyō rituals at Shinto shrines for broken dolls, needles, and electronics continue this tradition.",
+  "sources": [
+    {
+      "id": "wikipedia-tsukumogami",
+      "type": "website",
+      "title": "Tsukumogami — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Tsukumogami",
+      "accessed": "2026-05-08"
+    },
+    {
+      "id": "hyakki-yagyo-emaki",
+      "type": "archive",
+      "title": "Hyakki Yagyō Emaki (Night parade of one hundred demons)",
+      "date": "1400",
+      "notes": "Muromachi period picture scroll; multiple versions exist in Japanese collections"
+    },
+    {
+      "id": "tsukumogami-emaki-tenpo",
+      "type": "archive",
+      "title": "Tsukumogami Emaki",
+      "date": "1835",
+      "notes": "Tenpō period emakimono; focused catalog of tsukumogami types"
+    }
+  ],
+  "locations": []
 }

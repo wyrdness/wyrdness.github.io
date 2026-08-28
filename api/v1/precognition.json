@@ -3,6 +3,7 @@
   "name": "Precognition",
   "category": "psychic_phenomena",
   "description": "Precognition is the claimed ability to perceive or gain knowledge of future events without using known sensory channels or rational inference. Mainstream science classifies it as pseudoscience, citing the absence of replicable evidence and conflict with causality.",
+  "full_description": "Precognition (Latin prae-, 'before' + cognitio, 'acquiring knowledge') is the alleged paranormal ability to perceive future events directly. It is a subtype of extrasensory perception (ESP) studied historically within parapsychology, particularly through forced-choice card tests at J. B. Rhine's Duke University laboratory from the 1930s. Notable later work includes Helmut Schmidt's random-event-generator experiments in the 1960s and Daryl Bem's nine-experiment 'Feeling the Future' paper in the Journal of Personality and Social Psychology (2011, doi:10.1037/a0021524). Bem reported small effects consistent with precognition; pre-registered replications by Ritchie, Wiseman, and French (2012, PLOS ONE) and a large 2023 multi-lab pre-registered study failed to find an effect. Samuel Soal's 1940s ESP experiments, originally cited as supportive evidence, were shown by Betty Markwick (1978) to involve data manipulation. Mainstream scientific bodies and the broader psychological community treat precognition as pseudoscience: it conflicts with the causal direction of time in physics, has not produced replicable effects, and is plausibly explained by coincidence, confirmation bias, false memory, retrofitted prediction, and selection effects.",
   "aliases": [
     {
       "name": "Premonition",
@@ -42,5 +43,238 @@
   "origin": "Precognition is reported across most human cultures and has been studied principally in laboratories in the United States and Western Europe.",
   "first_reported": "Antiquity",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Late Latin praecognitio, from prae- ('before') and cognitio ('knowing')",
+    "meaning": "Knowledge before the event",
+    "first_use": "English usage attested from the 17th century; modern parapsychological sense from J. B. Rhine's writings in the 1930s"
+  },
+  "sightings_stats": {
+    "date_range": {
+      "earliest": "1934",
+      "latest": "2023"
+    }
+  },
+  "timeline": [
+    {
+      "date": "1882",
+      "event": "Founding of the Society for Psychical Research (SPR) in London",
+      "significance": "Beginning of systematic Western study of psychic phenomena including precognition",
+      "source": "Wikipedia: Society for Psychical Research"
+    },
+    {
+      "date": "1934",
+      "event": "J. B. Rhine publishes Extra-Sensory Perception, presenting Zener-card experiments at Duke University",
+      "significance": "Foundational text of laboratory parapsychology and forced-choice ESP testing",
+      "source": "Rhine, J. B. (1934), Extra-Sensory Perception"
+    },
+    {
+      "date": "1940",
+      "event": "Samuel Soal's ESP experiments begin in London",
+      "significance": "Initially cited as strong support for ESP/precognition; later shown by Markwick (1978) to involve data manipulation",
+      "source": "Markwick, B. (1978), 'The Soal–Goldney Experiments with Basil Shackleton'"
+    },
+    {
+      "date": "1969",
+      "event": "Helmut Schmidt publishes precognition / PK experiments using electronic random number generators",
+      "significance": "Inaugurates an electronic-RNG era of psi testing",
+      "source": "Schmidt, H. (1969), Journal of Parapsychology"
+    },
+    {
+      "date": "1978",
+      "event": "Betty Markwick demonstrates data tampering in Soal's experiments",
+      "significance": "Major historical correction to the parapsychological record",
+      "source": "Markwick, B. (1978), Proceedings of the SPR"
+    },
+    {
+      "date": "1995",
+      "event": "U.S. government Stargate Project (remote viewing) terminated; AIR review concludes operational use unjustified",
+      "significance": "Ends the most prominent state-funded psi-research program",
+      "source": "Mumford, M. D., Rose, A. M., & Goslin, D. A. (1995), AIR Stargate review"
+    },
+    {
+      "date": "2011-03",
+      "event": "Daryl Bem publishes 'Feeling the Future: Experimental Evidence for Anomalous Retroactive Influences on Cognition and Affect' in JPSP",
+      "significance": "Catalysed the modern psychology replication crisis and renewed methodological reform",
+      "source": "Bem, D. J. (2011), J. Personality and Social Psychology, doi:10.1037/a0021524"
+    },
+    {
+      "date": "2012-03",
+      "event": "Ritchie, Wiseman, and French publish failed pre-registered replications of Bem's experiments in PLOS ONE",
+      "significance": "Independent failure to replicate; widely cited in the replication-crisis literature",
+      "source": "Ritchie, S. J., Wiseman, R., & French, C. C. (2012), PLOS ONE 7(3): e33423"
+    },
+    {
+      "date": "2012",
+      "event": "Galak et al. report seven non-replications of Bem's precognition effects in JPSP",
+      "significance": "Same-journal failed replications; reinforces null result",
+      "source": "Galak, J., LeBoeuf, R. A., Nelson, L. D., & Simmons, J. P. (2012), JPSP"
+    },
+    {
+      "date": "2023",
+      "event": "Large pre-registered multi-lab replication including ESP-proponent labs reports null results for precognition",
+      "significance": "Most rigorous independent test to date; null",
+      "source": "Wikipedia: Precognition (citing 2023 multi-lab study)"
+    }
+  ],
+  "related": [
+    {
+      "id": "telepathy",
+      "name": "Telepathy",
+      "relationship": "similar",
+      "description": "Mind-to-mind communication; another claimed ESP modality"
+    },
+    {
+      "id": "clairvoyance",
+      "name": "Clairvoyance",
+      "relationship": "similar",
+      "description": "Direct perception of distant or hidden contemporaneous events"
+    },
+    {
+      "id": "retrocognition",
+      "name": "Retrocognition",
+      "relationship": "counterpart",
+      "description": "Claimed knowledge of past events through anomalous cognition"
+    },
+    {
+      "id": "psychometry",
+      "name": "Psychometry",
+      "relationship": "related",
+      "description": "Object-mediated retrocognitive claims"
+    },
+    {
+      "id": "psychic-phenomena",
+      "name": "Psychic phenomena",
+      "relationship": "superset",
+      "description": "Umbrella category for ESP and PK claims"
+    },
+    {
+      "id": "remote-viewing",
+      "name": "Remote viewing",
+      "relationship": "related",
+      "description": "Stargate-era precognition / clairvoyance protocol"
+    }
+  ],
+  "cultural_notes": "Precognition remains widely believed in popular culture, with surveys consistently finding that a substantial fraction of the public reports having had at least one apparent precognitive experience.",
+  "sources": [
+    {
+      "id": "wikipedia-precognition",
+      "type": "website",
+      "title": "Precognition",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Precognition",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "wikipedia-bem",
+      "type": "website",
+      "title": "Daryl Bem",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Daryl_Bem",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "bem-2011",
+      "type": "paper",
+      "title": "Feeling the Future: Experimental Evidence for Anomalous Retroactive Influences on Cognition and Affect",
+      "authors": [
+        "Daryl J. Bem"
+      ],
+      "publication": "Journal of Personality and Social Psychology",
+      "date": "2011",
+      "doi": "10.1037/a0021524"
+    },
+    {
+      "id": "ritchie-2012",
+      "type": "paper",
+      "title": "Failing the Future: Three Unsuccessful Attempts to Replicate Bem's 'Retroactive Facilitation of Recall' Effect",
+      "authors": [
+        "Stuart J. Ritchie",
+        "Richard Wiseman",
+        "Christopher C. French"
+      ],
+      "publication": "PLOS ONE",
+      "date": "2012",
+      "doi": "10.1371/journal.pone.0033423"
+    },
+    {
+      "id": "galak-2012",
+      "type": "paper",
+      "title": "Correcting the Past: Failures to Replicate Psi",
+      "authors": [
+        "Jeff Galak",
+        "Robyn A. LeBoeuf",
+        "Leif D. Nelson",
+        "Joseph P. Simmons"
+      ],
+      "publication": "Journal of Personality and Social Psychology",
+      "date": "2012",
+      "doi": "10.1037/a0029709"
+    },
+    {
+      "id": "rhine-1934",
+      "type": "book",
+      "title": "Extra-Sensory Perception",
+      "authors": [
+        "J. B. Rhine"
+      ],
+      "publication": "Boston Society for Psychic Research",
+      "date": "1934"
+    },
+    {
+      "id": "markwick-1978",
+      "type": "paper",
+      "title": "The Soal–Goldney Experiments with Basil Shackleton: New Evidence of Data Manipulation",
+      "authors": [
+        "Betty Markwick"
+      ],
+      "publication": "Proceedings of the Society for Psychical Research",
+      "date": "1978"
+    },
+    {
+      "id": "air-stargate-1995",
+      "type": "archive",
+      "title": "An Evaluation of Remote Viewing: Research and Applications (Stargate Review)",
+      "authors": [
+        "Michael D. Mumford",
+        "Andrew M. Rose",
+        "David A. Goslin"
+      ],
+      "publication": "American Institutes for Research",
+      "date": "1995"
+    },
+    {
+      "id": "radin-1997",
+      "type": "book",
+      "title": "The Conscious Universe: The Scientific Truth of Psychic Phenomena",
+      "authors": [
+        "Dean Radin"
+      ],
+      "publication": "HarperEdge",
+      "date": "1997",
+      "isbn": "978-0062515025"
+    },
+    {
+      "id": "alcock-2003",
+      "type": "book",
+      "title": "Give the Null Hypothesis a Chance: Reasons to Remain Doubtful about the Existence of Psi",
+      "authors": [
+        "James E. Alcock"
+      ],
+      "publication": "Journal of Consciousness Studies",
+      "date": "2003"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Duke University Parapsychology Laboratory",
+      "lat": 36.0014,
+      "lng": -78.9382
+    },
+    {
+      "name": "Cornell University (Bem laboratory)",
+      "lat": 42.4534,
+      "lng": -76.4735
+    }
+  ]
 }

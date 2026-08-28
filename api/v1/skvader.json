@@ -3,6 +3,7 @@
   "name": "Skvader",
   "category": "cryptid",
   "description": "The skvader is a Swedish fictional taxidermy creature combining the front half of a European hare with the back, wings, and tail of a female western capercaillie (wood grouse). It originated in a tall tale by Håkan Dahlmark and was constructed by taxidermist Rudolf Granberg in 1918.",
+  "full_description": "The skvader is one of the best-known Swedish 'tall-tale' or composite taxidermy creatures. Its origin lies in an early-20th-century dinner story by hunter Håkan Dahlmark of Sundsvall, who claimed to have shot the animal in 1874. In 1907 his housekeeper presented him with a painting of the creature, which he later donated to a local museum. In 1918 the museum asked taxidermist Rudolf Granberg to mount an actual specimen, which combined the head, forequarters, and hindlegs of a European hare (Lepus europaeus) with the back, wings, and tail of a female western capercaillie (Tetrao urogallus). The completed mount was given the joke Latin name Tetrao lepus pseudo-hybridus rarissimus and is permanently displayed at the museum at Norra Berget in Sundsvall, Sweden. The skvader is now an unofficial symbol of Sundsvall and of the Medelpad province, and the noun 'skvader' has entered Swedish as a colloquialism for an awkward combination of contradictory things.",
   "aliases": [
     {
       "name": "Tetrao lepus pseudo-hybridus rarissimus",
@@ -27,5 +28,84 @@
   "origin": "The skvader is a place-bound cultural artefact of the Medelpad province in central Sweden, with the original specimen on permanent display at the Norra Berget museum in Sundsvall.",
   "first_reported": "1874",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Swedish — a portmanteau coined for Granberg's taxidermy mount.",
+    "meaning": "Combines 'skva-' from skvattra ('to chatter' / 'to chirp') and '-der' from tjäder ('western capercaillie / wood grouse').",
+    "first_use": "1918, when Granberg constructed the original specimen."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0,
+    "date_range": {
+      "earliest": "1874 (in tall-tale form)",
+      "latest": "1918 (specimen constructed)"
+    }
+  },
+  "timeline": [
+    {
+      "date": "1874",
+      "event": "Håkan Dahlmark claims, in a tall tale, to have shot the skvader during a hunt near Sundsvall",
+      "significance": "Origin of the story",
+      "source": "Wikipedia, 'Skvader'"
+    },
+    {
+      "date": "1907",
+      "event": "Dahlmark's housekeeper presents him with a painting of the skvader",
+      "significance": "First visual representation of the creature",
+      "source": "Wikipedia, 'Skvader'"
+    },
+    {
+      "date": "1918",
+      "event": "Taxidermist Rudolf Granberg constructs the original skvader mount at the request of museum staff in Sundsvall",
+      "significance": "Creation of the canonical specimen",
+      "source": "Wikipedia, 'Skvader'"
+    }
+  ],
+  "related": [
+    {
+      "id": "jackalope",
+      "name": "Jackalope",
+      "relationship": "similar",
+      "description": "American taxidermy tall-tale: hare with antelope/deer antlers"
+    },
+    {
+      "id": "wolpertinger",
+      "name": "Wolpertinger",
+      "relationship": "similar",
+      "description": "Bavarian composite taxidermy creature"
+    },
+    {
+      "id": "rasselbock",
+      "name": "Rasselbock",
+      "relationship": "similar",
+      "description": "Thuringian composite hare/roe-deer creature"
+    },
+    {
+      "id": "fearsome-critters",
+      "name": "Fearsome critters",
+      "relationship": "related",
+      "description": "American lumberjack tall-tale fauna of comparable folkloric register"
+    }
+  ],
+  "cultural_notes": "Treated openly as a humorous regional symbol rather than a believed-in cryptid; the creature's tall-tale status is part of its appeal.",
+  "sources": [
+    {
+      "id": "wikipedia-skvader",
+      "type": "website",
+      "title": "Skvader",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Skvader",
+      "accessed": "2026-05-07"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Norra Berget museum, Sundsvall",
+      "lat": 62.4006,
+      "lng": 17.3035
+    }
+  ]
 }

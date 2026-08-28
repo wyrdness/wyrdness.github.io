@@ -3,6 +3,7 @@
   "name": "Jersey Devil",
   "category": "cryptid",
   "description": "The Jersey Devil is a legendary winged, bipedal creature of the New Jersey Pine Barrens, traditionally said to be the cursed thirteenth child of 'Mother Leeds' born in 1735. Its most famous burst of activity was a week of mass sightings across South Jersey and Philadelphia in January 1909.",
+  "full_description": "The Jersey Devil is one of the oldest and most culturally entrenched regional cryptids of the United States. Witnesses describe a bipedal, kangaroo-like or wyvern-like creature with the head of a horse or goat, leathery bat-like wings, small clawed forearms, hooved hindlegs, and a long forked or barbed tail. The legend's origin tale, recorded in many forms since the 19th century, is that in 1735 a Pine Barrens woman known as Mother Leeds, pregnant with her thirteenth child, cursed it ('Let it be the devil!'), whereupon the newborn took monstrous form and flew up the chimney into the swamps. Historian Brian Regal has argued that the legend congealed around the real Leeds family of colonial New Jersey — particularly the almanac-maker Daniel Leeds and his son Titan Leeds, whose feud with Benjamin Franklin and reputation for occult sympathies, plus the wyvern on the Leeds family crest, supplied the iconography. The phenomenon's defining episode was the week of 16–23 January 1909, when more than a thousand reports of a flying or hopping monster came in from towns across South Jersey and the Philadelphia region, accompanied by school closures, vigilante hunts, and a notorious hoax in which Norman Jeffries and Jacob Hope displayed a kangaroo with glued-on bat wings and claws as 'the captured Jersey Devil'. The creature persists in regional folklore, lent its name to the New Jersey Devils NHL franchise (1982), and continues to generate occasional sightings in the Pine Barrens.",
   "aliases": [
     {
       "name": "Leeds Devil",
@@ -34,5 +35,134 @@
   "origin": "The Jersey Devil is a distinctly regional cryptid associated with the Pine Barrens of southern New Jersey and adjacent areas of southeastern Pennsylvania and the Delaware Valley.",
   "first_reported": "1735",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Originally 'Leeds Devil' in 18th–19th century New Jersey usage, from association with the Leeds family of Burlington County. 'Jersey Devil' became dominant after the 1909 sighting wave.",
+    "meaning": "'Devil' from the curse-narrative origin and the creature's demonic appearance",
+    "first_use": "'Leeds Devil' from 18th–19th century oral tradition; 'Jersey Devil' fixed in print c. 1909"
+  },
+  "sightings_stats": {
+    "total_documented": 2000,
+    "verified": 0,
+    "disputed": 1500,
+    "debunked": 50,
+    "date_range": {
+      "earliest": "1735",
+      "latest": "2026"
+    }
+  },
+  "timeline": [
+    {
+      "date": "1735",
+      "event": "Traditional date of the Mother Leeds curse-birth in the Pine Barrens",
+      "significance": "Foundational legend of the Jersey Devil",
+      "source": "New Jersey colonial folklore"
+    },
+    {
+      "date": "1909-01-16",
+      "event": "Beginning of a week-long wave of more than a thousand sightings across South Jersey, Philadelphia, and the Delaware Valley",
+      "significance": "Defining mass-sighting episode of the Jersey Devil phenomenon",
+      "source": "Philadelphia and South Jersey newspapers, January 1909"
+    },
+    {
+      "date": "1909-01-23",
+      "event": "End of the 1909 sighting wave, with hoax exhibition by Norman Jeffries and Jacob Hope of a kangaroo with glued-on wings and claws",
+      "significance": "Wave subsides; hoax becomes a touchstone for skeptics",
+      "source": "Philadelphia newspaper coverage, January 1909"
+    },
+    {
+      "date": "1982",
+      "event": "The Colorado Rockies NHL franchise relocates to East Rutherford, New Jersey and is renamed the New Jersey Devils after the legend",
+      "significance": "Major mainstreaming of the legend",
+      "source": "NHL franchise records"
+    },
+    {
+      "date": "2013",
+      "event": "Historian Brian Regal publishes work tracing the legend to the historical Leeds family and the Daniel Leeds–Benjamin Franklin rivalry",
+      "significance": "Historiographic re-grounding of the legend in colonial New Jersey politics",
+      "source": "Regal, B. (2013), 'The Jersey Devil: The Real Story', Skeptical Inquirer"
+    }
+  ],
+  "related": [
+    {
+      "id": "mothman",
+      "name": "Mothman",
+      "relationship": "similar",
+      "description": "American winged humanoid cryptid (West Virginia, 1966–67)"
+    },
+    {
+      "id": "snallygaster",
+      "name": "Snallygaster",
+      "relationship": "similar",
+      "description": "Mid-Atlantic winged dragon-like cryptid of Maryland Pennsylvania Dutch lore"
+    },
+    {
+      "id": "thunderbird",
+      "name": "Thunderbird",
+      "relationship": "related",
+      "description": "Indigenous and cryptozoological winged megafauna of North America"
+    }
+  ],
+  "cultural_notes": "Widely treated as folklore in modern New Jersey, but the legend retains real cultural force in the Pine Barrens, where some residents continue to report sightings.",
+  "sources": [
+    {
+      "id": "wikipedia-jersey-devil",
+      "type": "website",
+      "title": "Jersey Devil",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Jersey_Devil",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "mccloy-miller-1976",
+      "type": "book",
+      "title": "The Jersey Devil",
+      "authors": [
+        "James F. McCloy",
+        "Ray Miller Jr."
+      ],
+      "publication": "Middle Atlantic Press",
+      "date": "1976"
+    },
+    {
+      "id": "regal-esposito-2018",
+      "type": "book",
+      "title": "The Secret History of the Jersey Devil: How Quakers, Hucksters, and Benjamin Franklin Created a Monster",
+      "authors": [
+        "Brian Regal",
+        "Frank J. Esposito"
+      ],
+      "publication": "Johns Hopkins University Press",
+      "date": "2018"
+    },
+    {
+      "id": "regal-skeptical-inquirer",
+      "type": "article",
+      "title": "The Jersey Devil: The Real Story",
+      "authors": [
+        "Brian Regal"
+      ],
+      "publication": "Skeptical Inquirer",
+      "date": "2013"
+    },
+    {
+      "id": "phila-newspapers-1909",
+      "type": "news",
+      "title": "Coverage of the Jersey Devil sightings, January 1909",
+      "publication": "Philadelphia Inquirer / Philadelphia Public Ledger / Trenton Times",
+      "date": "1909-01"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Pine Barrens",
+      "lat": 39.8,
+      "lng": -74.5
+    },
+    {
+      "name": "Leeds Point",
+      "lat": 39.4884,
+      "lng": -74.4332
+    }
+  ]
 }

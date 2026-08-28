@@ -3,6 +3,7 @@
   "name": "Goatman",
   "category": "cryptid",
   "description": "An umbrella name for several American urban-legend creatures described as half-man, half-goat. The best-attested versions are the Maryland Goatman of Prince George's County (popularized 1971), the Lake Worth Monster of Fort Worth, Texas (sightings July 1969), and the Pope Lick Monster of Fisherville, Kentucky.",
+  "full_description": "'Goatman' is an umbrella term in American folklore for hybrid creatures described as half-human, half-goat. There are three principal regional clusters. The Maryland Goatman, focused on Prince George's County (especially Fletchertown Road near Bowie and Tucker Road near Clinton), was popularized in October 1971 by Karen Hosler's article in the Prince George's County News, building on a folklore-class project completed in May 1971 by University of Maryland student George Lizama; common origin stories tie the creature to a fictional 'Dr. Stephen Fletcher' at the Beltsville Agricultural Research Center. The Lake Worth Monster of Greer Island in Lake Worth, Texas, was reported by witnesses including a group of three couples on the night of 9–10 July 1969; the case made the front page of the Fort Worth Star-Telegram and was followed by a famous Allen Plaster photograph; an anonymous letter to the Star-Telegram in 2005 claimed the sightings had been a high-school prank using a tinfoil mask. The Pope Lick Monster of Fisherville, Kentucky, is centred on a Norfolk Southern railway trestle over Pope Lick Creek; the legend has been linked to multiple real deaths, including 17-year-old Jack 'J.C.' Bahm II in 1988, 26-year-old Roquel Bain in 2016, and 15-year-old Savanna Bright in 2019. Folklorists treat the Goatman complex as classic American urban legend with no zoological basis, drawing on Greek satyr imagery, post-1970s satanic-panic motifs, and the lover's-lane horror tradition.",
   "aliases": [
     {
       "name": "Maryland Goatman",
@@ -36,5 +37,190 @@
   "origin": "The Goatman complex is concentrated in the United States, with three major regional clusters in Maryland (Prince George's County), Texas (Fort Worth / Lake Worth), and Kentucky (Fisherville / Pope Lick).",
   "first_reported": "1971-05-01",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "American English compound. The 'goat-man' / 'goat-headed man' archetype draws on classical Greek satyrs and fauns, on European Devil iconography, and on lover's-lane folklore.",
+    "meaning": "Half-human, half-goat hybrid creature",
+    "first_use": "Local Maryland oral tradition pre-1971; first major print attestation in the Prince George's County News (October 1971)."
+  },
+  "sightings_stats": {
+    "total_documented": 30,
+    "verified": 0,
+    "disputed": 30,
+    "debunked": 0,
+    "date_range": {
+      "earliest": "1969-07-09",
+      "latest": "2026-05-07"
+    }
+  },
+  "timeline": [
+    {
+      "date": "1969-07-09",
+      "event": "Three couples parked at Greer Island, Lake Worth, Texas, report being attacked by a goat-man-like creature; sightings continue over following nights",
+      "significance": "Origin of the Lake Worth Monster",
+      "source": "Fort Worth Star-Telegram, July 1969"
+    },
+    {
+      "date": "1969-07-10",
+      "event": "Lake Worth Monster makes the front page of the Fort Worth Star-Telegram",
+      "significance": "Brings the case to regional and national attention",
+      "source": "Fort Worth Star-Telegram, 10 July 1969"
+    },
+    {
+      "date": "1969-11-01",
+      "event": "Allen Plaster captures a widely-reproduced photograph of an alleged Lake Worth Monster",
+      "significance": "The case's most-reproduced piece of 'evidence'",
+      "source": "Texas Parks & Wildlife magazine, October 2003 retrospective"
+    },
+    {
+      "date": "1971-05-01",
+      "event": "University of Maryland student George Lizama submits a folklore project on the Goatman to the Maryland Folklife Archives",
+      "significance": "Earliest documented academic record of the Maryland Goatman",
+      "source": "Wikipedia, Goatman (Maryland)"
+    },
+    {
+      "date": "1971-10-27",
+      "event": "Karen Hosler's article 'Residents Fear Goatman Lives: Dog Found Decapitated in Old Bowie' published in the Prince George's County News",
+      "significance": "Anchors the Maryland Goatman tradition in print",
+      "source": "Prince George's County News, October 1971"
+    },
+    {
+      "date": "1988-12-29",
+      "event": "Premiere of 'The Legend of the Pope Lick Monster' at the Uptown Theater in Louisville",
+      "significance": "Cinematic crystallization of the Pope Lick legend",
+      "source": "Wikipedia, Pope Lick Monster"
+    },
+    {
+      "date": "1988-01-01",
+      "event": "Death of 17-year-old Jack 'J.C.' Bahm II on the Pope Lick trestle",
+      "significance": "First documented fatality associated with the Pope Lick legend",
+      "source": "Wikipedia, Pope Lick Monster"
+    },
+    {
+      "date": "2005-01-01",
+      "event": "Anonymous letter to Fort Worth Star-Telegram claims the 1969 Lake Worth sightings were a high-school prank with a tinfoil mask",
+      "significance": "Most prominent debunking of the Lake Worth case",
+      "source": "Fort Worth Star-Telegram (2005)"
+    },
+    {
+      "date": "2016-04-23",
+      "event": "26-year-old Roquel Bain killed by a Norfolk Southern train on the Pope Lick trestle while searching for the monster",
+      "significance": "Re-emphasizes the real-world dangers driving the Pope Lick legend's persistence",
+      "source": "Wikipedia, Pope Lick Monster"
+    },
+    {
+      "date": "2019-05-25",
+      "event": "15-year-old Savanna Bright killed near the Pope Lick trestle",
+      "significance": "Continued tragic dimension of the legend",
+      "source": "Wikipedia, Pope Lick Monster"
+    }
+  ],
+  "related": [
+    {
+      "id": "satyr",
+      "name": "Satyr",
+      "relationship": "related",
+      "description": "Greek mythological half-man, half-goat figure — likely cultural template for Goatman"
+    },
+    {
+      "id": "pope-lick-monster",
+      "name": "Pope Lick Monster",
+      "relationship": "regional_variant",
+      "description": "Kentucky Goatman variant centred on the Pope Lick Creek railway trestle"
+    },
+    {
+      "id": "krampus",
+      "name": "Krampus",
+      "relationship": "related",
+      "description": "Alpine half-goat horned figure with shared iconography"
+    },
+    {
+      "id": "jersey-devil",
+      "name": "Jersey Devil",
+      "relationship": "related",
+      "description": "Another regional American hybrid cryptid"
+    },
+    {
+      "id": "bunny-man",
+      "name": "Bunny Man",
+      "relationship": "similar",
+      "description": "Virginia urban-legend axe-wielding figure with similar lover's-lane setting"
+    },
+    {
+      "id": "dogman",
+      "name": "Dogman",
+      "relationship": "similar",
+      "description": "Another American hybrid-humanoid cryptid tradition"
+    }
+  ],
+  "cultural_notes": "Locally treated as an embellished but recognisable piece of regional folklore rather than a literal cryptid. Folklorists place the Goatman complex squarely in the American urban-legend tradition.",
+  "sources": [
+    {
+      "id": "wikipedia-goatman-maryland",
+      "type": "website",
+      "title": "Goatman (Maryland)",
+      "url": "https://en.wikipedia.org/wiki/Goatman_(Maryland)",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "wikipedia-lake-worth-monster",
+      "type": "website",
+      "title": "Lake Worth Monster",
+      "url": "https://en.wikipedia.org/wiki/Lake_Worth_Monster",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "wikipedia-pope-lick-monster",
+      "type": "website",
+      "title": "Pope Lick Monster",
+      "url": "https://en.wikipedia.org/wiki/Pope_Lick_Monster",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "tpw-2003-lake-worth",
+      "type": "article",
+      "title": "The Lake Worth Monster",
+      "publication": "Texas Parks & Wildlife magazine",
+      "date": "2003-10",
+      "url": "https://tpwmagazine.com/archive/2003/oct/legend/",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "clarke-1969",
+      "type": "book",
+      "title": "The Lake Worth Monster of Greer Island, Fort Worth, Texas",
+      "authors": [
+        "Sallie Ann Clarke"
+      ],
+      "publication": "Self-published",
+      "date": "1969"
+    },
+    {
+      "id": "hosler-1971",
+      "type": "news",
+      "title": "Residents Fear Goatman Lives: Dog Found Decapitated in Old Bowie",
+      "authors": [
+        "Karen Hosler"
+      ],
+      "publication": "Prince George's County News",
+      "date": "1971-10"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Fletchertown Road",
+      "lat": 38.9728,
+      "lng": -76.7522
+    },
+    {
+      "name": "Greer Island, Lake Worth",
+      "lat": 32.8425,
+      "lng": -97.4683
+    },
+    {
+      "name": "Pope Lick trestle",
+      "lat": 38.192,
+      "lng": -85.4879
+    }
+  ]
 }

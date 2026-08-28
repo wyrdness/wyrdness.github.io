@@ -3,6 +3,7 @@
   "name": "Atmospheric Beasts",
   "category": "cryptid",
   "description": "Atmospheric beasts are hypothetical organisms proposed to inhabit Earth's upper atmosphere permanently, never landing, drifting or flying in air currents — an idea rooted in the writings of Charles Fort and systematized by zoologist Ivan T. Sanderson as an alternative explanation for some UFO reports.",
+  "full_description": "The atmospheric beast hypothesis proposes that living organisms may permanently inhabit Earth's upper atmosphere, analogous to how marine plankton or jellyfish inhabit the ocean. The concept has two overlapping intellectual lineages: speculative natural history and alternative UFO explanation. Charles Fort laid the philosophical groundwork in 1919 and 1923, musing in 'The Book of the Damned' that the atmosphere might harbor 'aerial organisms and structures beyond human understanding.' The hypothesis was formalized and most prominently advocated by zoologist Ivan T. Sanderson, who in his 1967 book 'Uninvited Visitors: A Biologist Looks at UFOs' proposed that some UFO reports could be explained not by extraterrestrial spacecraft but by large, extremely low-density gelatinous creatures native to Earth's skies. Trevor James Constable independently theorized in 1958 that UFOs were amoeba-like aerial organisms ranging from coin-sized to half-mile in diameter, claiming to have photographed them with infrared film. Kenneth Arnold, the pilot whose 1947 sighting triggered the modern UFO era, later promoted the sky jellyfish interpretation of his own sighting. John Philip Bessor was the first modern advocate of the idea (1947–1949), predating Sanderson. Mainstream science has not accepted the atmospheric beast hypothesis, and no specimen or unambiguous physical evidence of such creatures has been produced. The concept has influenced science fiction (Arthur Conan Doyle's 1913 'The Horror of the Heights', Jordan Peele's 2022 film 'Nope') and occupies an unusual position between cryptozoology, ufology, and speculative astrobiology.",
   "aliases": [
     {
       "name": "Sky Beasts",
@@ -47,5 +48,109 @@
   "origin": "The hypothesis proposes a global atmospheric distribution, with no specific geographic restriction. Reported sightings associated with atmospheric beasts come from multiple continents.",
   "first_reported": "1919-01-01",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "The term 'atmospheric beasts' emerged from the speculative biology literature associated with Charles Fort and Ivan T. Sanderson in the early-to-mid 20th century. The related term 'space critters' was used by Trevor James Constable. No single coinage date is established.",
+    "meaning": "Organisms ('beasts') that permanently inhabit the atmosphere rather than land or water.",
+    "first_use": "Circa 1919 (Fort's atmospheric speculation); 1958 (Constable's 'sky critters'); 1967 (Sanderson's systematic treatment)"
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "1913",
+      "event": "Arthur Conan Doyle publishes 'The Horror of the Heights', depicting jellyfish-like predators in the upper atmosphere — a fictional but influential precursor to serious hypotheses",
+      "significance": "First detailed popular imagining of atmospheric lifeforms as predators",
+      "source": "Doyle, A. C. (1913), The Horror of the Heights"
+    },
+    {
+      "date": "1919",
+      "event": "Charles Fort publishes 'The Book of the Damned', speculating that the atmosphere may harbor living organisms and aerial structures beyond scientific understanding",
+      "significance": "Philosophical foundation of the atmospheric beast hypothesis",
+      "source": "Fort, C. (1919), The Book of the Damned"
+    },
+    {
+      "date": "1923",
+      "event": "Charles Fort in 'New Lands' muses: 'It seems no more incredible that up in the seemingly unoccupied sky there should be hosts of living things than that the seeming blank of the ocean should swarm with life'",
+      "significance": "Key Fortean formulation of the atmospheric life argument",
+      "source": "Fort, C. (1923), New Lands"
+    },
+    {
+      "date": "1947-01-01",
+      "event": "John Philip Bessor proposes to the press that UFO discs might be 'living organisms, more like octopuses in mentality than humans'",
+      "significance": "First modern advocate of the atmospheric beast interpretation of UFO reports",
+      "source": "Press reports cited in Space Animal Hypothesis scholarship"
+    },
+    {
+      "date": "1958-01-01",
+      "event": "Trevor James Constable publishes 'They Live in the Sky!', claiming amoeba-like aerial organisms of varying sizes inhabit Earth's atmosphere and can be photographed with infrared film",
+      "significance": "First book-length treatment of atmospheric creatures as explanation for UFO reports",
+      "source": "Constable, T. J. (1958), They Live in the Sky!"
+    },
+    {
+      "date": "1967-01-01",
+      "event": "Ivan T. Sanderson publishes 'Uninvited Visitors: A Biologist Looks at UFOs', systematically arguing that some UFO reports represent sightings of large, low-density gelatinous atmospheric organisms",
+      "significance": "Most authoritative scientific-framing treatment of the atmospheric beast hypothesis; Sanderson described as its 'most eminent advocate'",
+      "source": "Sanderson, I. T. (1967), Uninvited Visitors: A Biologist Looks at UFOs"
+    }
+  ],
+  "related": [
+    {
+      "id": "ufo-uap",
+      "name": "UFO / UAP",
+      "relationship": "related",
+      "description": "Some atmospheric beast proponents argue that certain UFO sightings are misidentified living atmospheric organisms rather than craft"
+    },
+    {
+      "id": "crawfordsville-monster",
+      "name": "Crawfordsville Monster",
+      "relationship": "related",
+      "description": "1891 Indiana aerial phenomenon — a writhing, apparently living mass seen by multiple witnesses — often cited as a possible atmospheric beast sighting"
+    }
+  ],
+  "cultural_notes": "The atmospheric beast hypothesis is primarily a 20th-century speculative scientific and ufological concept rather than a traditional folk belief. It represents a rationalized attempt to explain anomalous sightings through unusual but terrestrial biology.",
+  "sources": [
+    {
+      "id": "fort-1919",
+      "type": "book",
+      "title": "The Book of the Damned",
+      "authors": [
+        "Charles Fort"
+      ],
+      "publication": "Boni and Liveright",
+      "date": "1919"
+    },
+    {
+      "id": "sanderson-1967",
+      "type": "book",
+      "title": "Uninvited Visitors: A Biologist Looks at UFOs",
+      "authors": [
+        "Ivan T. Sanderson"
+      ],
+      "publication": "Cowles Education Corporation",
+      "date": "1967"
+    },
+    {
+      "id": "constable-1958",
+      "type": "book",
+      "title": "They Live in the Sky!",
+      "authors": [
+        "Trevor James Constable"
+      ],
+      "publication": "New Age Publishing",
+      "date": "1958"
+    },
+    {
+      "id": "wikipedia-space-animal",
+      "type": "website",
+      "title": "Space animal hypothesis",
+      "url": "https://en.wikipedia.org/wiki/Space_animal_hypothesis",
+      "accessed": "2026-05-08"
+    }
+  ],
+  "locations": []
 }

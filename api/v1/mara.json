@@ -3,6 +3,7 @@
   "name": "Mara",
   "category": "entity_spirit",
   "description": "A female nightmare spirit of Germanic and Slavic folklore who 'rides' sleepers and presses on their chests, producing the experience that gave English the word 'nightmare' (literally 'night-mara').",
+  "full_description": "The Mara is a malevolent female spirit of Germanic, Scandinavian, and Slavic folklore who visits sleepers at night, sits or 'rides' on their chests, and produces suffocating dreams, sleep paralysis, and night-sweats. Old English mære, Old Norse mara, and Old High German mara all derive from a Proto-Germanic *marōn, ultimately from a Proto-Indo-European root meaning 'to crush, press, oppress'. Modern English 'nightmare' is literally 'night-Mara'; French cauchemar borrows the same element via Old French. In the 13th-century Ynglinga saga (preserved in Snorri Sturluson's Heimskringla), King Vanlandi Sveigðisson of Uppsala is killed by a mara conjured by the Sámi sorceress Huld — the saga describes how the creature first 'trod on his legs', then crushed his head — the earliest recorded mara incident in Scandinavia. In Slavic tradition (Polish zmora, Czech můra, South Slavic mora), the Mara may be either a demonic being or the wandering soul of a living person, often a woman, with traits such as a connected unibrow used to identify her; protective practices included placing brooms or upside-down slippers by the bed and offering food.",
   "aliases": [
     {
       "name": "Mare",
@@ -53,5 +54,93 @@
   "origin": "Germanic-, Scandinavian-, and Slavic-speaking Europe, with strong continuity from medieval to modern times.",
   "first_reported": "1230",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Proto-Germanic *marōn (compare Old English mære, Old Norse mara, Old High German mara), from a Proto-Indo-European root meaning 'to crush' or 'to press'. The same root underlies Slavic mora / mara.",
+    "meaning": "'Crusher' or 'oppressor' — referring to the suffocating chest-pressure experienced by victims.",
+    "first_use": "Attested in Old English and Old Norse from the early medieval period; the compound 'nightmare' (Middle English nyght-mare) is attested by the late 13th–14th century."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "1230-01-01",
+      "event": "Snorri Sturluson's Ynglinga saga (within Heimskringla) records King Vanlandi Sveigðisson being killed by a mara summoned by the Sámi sorceress Huld",
+      "significance": "Earliest narrative reference to a mara in Scandinavian literature",
+      "source": "Snorri Sturluson, Heimskringla, Ynglinga saga, ch. 13"
+    },
+    {
+      "date": "1450-01-01",
+      "event": "Polish 15th-century medical and pastoral sources record nocnice / zmora attacks and protective practices",
+      "significance": "Earliest detailed Slavic documentation",
+      "source": "Polish 15th-century manuscripts"
+    }
+  ],
+  "related": [
+    {
+      "id": "mare",
+      "name": "Mare",
+      "relationship": "similar",
+      "description": "English / Germanic spelling of the same nightmare spirit"
+    },
+    {
+      "id": "alp",
+      "name": "Alp",
+      "relationship": "similar",
+      "description": "German nightmare creature; German Albtraum 'alp-dream' = nightmare"
+    },
+    {
+      "id": "old-hag",
+      "name": "Old Hag",
+      "relationship": "similar",
+      "description": "Newfoundland sleep-paralysis tradition"
+    },
+    {
+      "id": "incubus",
+      "name": "Incubus / Succubus",
+      "relationship": "related",
+      "description": "Latin Christian sleep-attack demons"
+    },
+    {
+      "id": "kanashibari",
+      "name": "Kanashibari",
+      "relationship": "similar",
+      "description": "Japanese sleep-paralysis tradition"
+    }
+  ],
+  "cultural_notes": "Across Germanic and Slavic Europe, the Mara was treated as a real cause of bad dreams and chest-pressure during sleep, and protective practices were widespread.",
+  "sources": [
+    {
+      "id": "wikipedia-mare-folklore",
+      "type": "website",
+      "title": "Mare (folklore)",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Mare_(folklore)",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "snorri-heimskringla",
+      "type": "book",
+      "title": "Heimskringla (including Ynglinga saga)",
+      "authors": [
+        "Snorri Sturluson"
+      ],
+      "date": "1230"
+    },
+    {
+      "id": "cheyne-2003",
+      "type": "paper",
+      "title": "Sleep paralysis and the structure of waking-nightmare hallucinations",
+      "authors": [
+        "J. Allan Cheyne"
+      ],
+      "publication": "Dreaming",
+      "date": "2003"
+    }
+  ],
+  "locations": []
 }

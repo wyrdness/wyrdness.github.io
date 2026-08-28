@@ -3,6 +3,7 @@
   "name": "Garuda",
   "category": "mythological_creature",
   "description": "Garuda is a divine eagle-like bird in Hindu and Buddhist mythology, the mount (vahana) of Vishnu, king of birds, and eternal enemy of the nagas (serpents); it serves as the national symbol of Indonesia and Thailand.",
+  "full_description": "Garuda is a divine bird creature central to Hindu and Buddhist mythology. As the mount (vahana) of the god Vishnu, Garuda represents courage, strength, and vigilance. He is depicted in two primary forms: a giant eagle-like bird (zoomorphic) or an eagle-headed human with wings and talons (anthropomorphic). When depicted with human characteristics, Garuda may have an eagle-like beak or nose, with an emerald-colored body and golden-yellow wings. Traditional iconography describes four color bands: golden yellow from feet to knees, white to the navel, scarlet to the neck, and black above. In Hindu tradition, Garuda is the son of the sage Kashyapa and Vinata; his mother was enslaved after losing a bet, and Garuda waged war against the gods to obtain the nectar of immortality (amrita) to free her. This act established his role as protector and his eternal rivalry with the nagas, who guard amrita. In Buddhism (as Garula), Garudas are golden-winged birds among the eight classes of inhuman beings, natural enemies of nagas. In Jainism, Garuda serves as a yaksha or guardian for the tirthankara Shantinatha. Garuda is the national emblem of Indonesia (Garuda Pancasila) and Thailand (Khrut), appears on their currencies and official seals, and gives its name to Indonesia's national airline, Garuda Indonesia. The Garuda Purana, one of the eighteen Mahapuranas of Hinduism, bears his name. He is mentioned in the Rigveda under the name Garutman.",
   "aliases": [
     {
       "name": "Garuḍa",
@@ -57,5 +58,76 @@
   "origin": "Garuda is a central figure in Hinduism, Buddhism, and Jainism, giving him cultural presence across South Asia (India, Nepal), Southeast Asia (Indonesia, Thailand, Cambodia, Myanmar), and anywhere these religions have spread.",
   "first_reported": "1200-01-01",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Sanskrit; the name Garuḍa (गरुड) is ancient, appearing in the Rigveda",
+    "meaning": "Possibly from the Sanskrit verb gri (to speak); scholar George Williams proposes this derivation. Also connected to the Greater adjutant stork (Leptoptilos dubius) in some traditions.",
+    "first_use": "Rigveda (composed c. 1500–1200 BCE); Garutman appears as a celestial deva in the oldest stratum"
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "1200-01-01",
+      "event": "Garuda (as Garutman) mentioned in the Rigveda as a celestial deva",
+      "significance": "Earliest textual attestation of the Garuda figure",
+      "source": "Rigveda; Wikipedia article on Garuda",
+      "circa": true
+    },
+    {
+      "date": "400-01-01",
+      "event": "Garuda appears in the Mahabharata as the son of Kashyapa and Vinata; the amrita-theft narrative establishes his mythology",
+      "significance": "Full narrative development of Garuda's mythology",
+      "source": "Mahabharata; Wikipedia article on Garuda",
+      "circa": true
+    },
+    {
+      "date": "320-01-01",
+      "event": "Garuda serves as royal insignia (Garudadhvaja) of the Gupta Empire",
+      "significance": "Adoption as royal symbol; establishes the long tradition of Garuda as state emblem",
+      "source": "Wikipedia article on Garuda",
+      "circa": true
+    },
+    {
+      "date": "1945-08-17",
+      "event": "Garuda Pancasila adopted as the national emblem of Indonesia at independence; feather counts encode the independence date (17/8/45)",
+      "significance": "Modern adoption of Garuda as national symbol of the world's largest Muslim-majority country",
+      "source": "Wikipedia article on Garuda"
+    }
+  ],
+  "related": [
+    {
+      "id": "naga",
+      "name": "Naga",
+      "relationship": "counterpart",
+      "description": "Serpentine divine beings; Garuda's eternal enemy and prey in both Hindu and Buddhist cosmology"
+    },
+    {
+      "id": "phoenix",
+      "name": "Phoenix",
+      "relationship": "similar",
+      "description": "Divine fire bird of Western and Middle Eastern mythology; shares the archetype of a supreme sacred bird"
+    },
+    {
+      "id": "thunderbird",
+      "name": "Thunderbird",
+      "relationship": "similar",
+      "description": "Indigenous North American divine bird; shares the giant divine eagle archetype"
+    }
+  ],
+  "cultural_notes": "In Vaishnava Hinduism, Garuda is the vahana (vehicle) of Vishnu and is venerated as a deity in his own right. Temples to Garuda exist across South and Southeast Asia. In devotional practice, invoking Garuda provides protection against snake bites and poison.",
+  "sources": [
+    {
+      "id": "wikipedia-garuda",
+      "type": "website",
+      "title": "Garuda — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Garuda",
+      "accessed": "2026-05-08"
+    }
+  ],
+  "locations": []
 }

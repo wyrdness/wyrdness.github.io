@@ -3,6 +3,7 @@
   "name": "Dyatlov Pass Incident",
   "category": "location",
   "description": "The 1959 deaths of nine experienced Soviet ski-hikers on the eastern slope of Kholat Syakhl in the northern Urals, long unexplained and now most plausibly attributed to a small delayed slab avalanche.",
+  "full_description": "On the night of 1–2 February 1959, nine ski-hikers from the Ural Polytechnical Institute, led by 23-year-old Igor Dyatlov, died on the eastern slope of Kholat Syakhl ('Dead Mountain' in Mansi) in the northern Ural mountains of the Soviet Union. The group had cut their tent open from the inside and fled, partially undressed, into −25 °C / −30 °C cold. All nine were eventually found dead; some had hypothermia injuries, several had severe but unbloodied internal trauma, and one had eyes and tongue missing (consistent with post-mortem soft-tissue scavenging). The Soviet investigation closed in 1959 attributing death to a 'compelling natural force'. The case was reopened by the Russian Prosecutor General's Office in 2019 and concluded in 2020 to attribute deaths to an avalanche. A 2021 paper in 'Communications Earth & Environment' by Johan Gaume (EPFL) and Alexander Puzrin (ETH Zurich) modelled how a small, delayed slab avalanche on the comparatively gentle slope could produce the observed injuries — a model now treated as the leading scientific explanation. Many alternative theories — military testing, infrasound-induced panic, Mansi attack, paranormal phenomena, and the 'Yeti' / Menk hypothesis — remain culturally prominent.",
   "aliases": [
     {
       "name": "Pereval Dyatlova",
@@ -34,5 +35,154 @@
   "origin": "The incident occurred on the eastern shoulder of Kholat Syakhl in the Northern Urals, in what was then Sverdlovsk Oblast (RSFSR, Soviet Union); now in Sverdlovsk Oblast, Russian Federation.",
   "first_reported": "1959-02-01",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "The pass between Kholat Syakhl and the neighbouring Mt. Otorten was officially named Pereval Dyatlova (Dyatlov Pass) in honour of expedition leader Igor Dyatlov following the incident.",
+    "meaning": "'Dyatlov Pass' (Russian: Перевал Дятлова) — pass-of-Dyatlov.",
+    "first_use": "Soviet topographic and journalistic usage from 1959 onward."
+  },
+  "sightings_stats": {
+    "total_documented": 1,
+    "verified": 0,
+    "disputed": 1,
+    "debunked": 0,
+    "date_range": {
+      "earliest": "1959-02-01",
+      "latest": "1959-02-02"
+    }
+  },
+  "timeline": [
+    {
+      "date": "1959-01-23",
+      "event": "The Dyatlov group leaves Sverdlovsk by train, beginning a Category-III expedition planned to reach Mt. Otorten",
+      "significance": "Start of the expedition",
+      "source": "Soviet investigation file"
+    },
+    {
+      "date": "1959-01-28",
+      "event": "Group member Yuri Yudin turns back due to illness, reducing the party to nine",
+      "significance": "Yudin becomes the only survivor and a key later witness",
+      "source": "Soviet investigation file"
+    },
+    {
+      "date": "1959-02-01",
+      "event": "The group establishes camp on the eastern slope of Kholat Syakhl rather than retreating to the forested Auspiya valley",
+      "significance": "Last day on which the group is known to have been alive",
+      "source": "Soviet investigation file; recovered diaries and photographs"
+    },
+    {
+      "date": "1959-02-26",
+      "event": "Search party discovers the cut tent on Kholat Syakhl",
+      "significance": "First physical evidence of the incident",
+      "source": "Soviet investigation file"
+    },
+    {
+      "date": "1959-05-04",
+      "event": "The final four bodies are recovered from a ravine ~75 m from the cedar tree where the first two were found",
+      "significance": "Recovery of the most severely injured victims (Dubinina, Thibeaux-Brignolles, Zolotaryov, Kolevatov)",
+      "source": "Soviet investigation file"
+    },
+    {
+      "date": "1959-05-28",
+      "event": "Soviet criminal case closed with the conclusion that the deaths were caused by a 'compelling natural force'",
+      "significance": "Original Soviet verdict",
+      "source": "Soviet Prosecutor's Office archive"
+    },
+    {
+      "date": "2019-02-01",
+      "event": "Russian Prosecutor General's Office reopens the case",
+      "significance": "First formal post-Soviet re-investigation",
+      "source": "Russian Prosecutor General's Office press release"
+    },
+    {
+      "date": "2020-07-11",
+      "event": "Russian re-investigation concludes that the cause was an avalanche followed by hypothermia and disorientation",
+      "significance": "Official modern Russian verdict",
+      "source": "Russian Prosecutor General's Office (2020)"
+    },
+    {
+      "date": "2021-01-28",
+      "event": "Gaume and Puzrin publish 'Mechanisms of slab avalanche release and impact in the Dyatlov Pass incident in 1959' in 'Communications Earth & Environment'",
+      "significance": "Quantitative model showing how a small delayed slab avalanche could account for the observed tent damage and injuries",
+      "source": "Gaume, J. & Puzrin, A. M. (2021), DOI 10.1038/s43247-020-00081-8"
+    }
+  ],
+  "related": [
+    {
+      "id": "bennington-triangle",
+      "name": "Bennington Triangle",
+      "relationship": "similar",
+      "description": "Cluster of unexplained 20th-century disappearances in Vermont"
+    },
+    {
+      "id": "tunguska-event",
+      "name": "Tunguska Event",
+      "relationship": "related",
+      "description": "Other major Russian / Soviet unsolved-at-the-time scientific event"
+    },
+    {
+      "id": "almas",
+      "name": "Almas",
+      "relationship": "related",
+      "description": "Eurasian wild-man cryptid sometimes invoked in Yeti / Menk hypotheses for the incident"
+    }
+  ],
+  "cultural_notes": "Local Mansi communities cooperated with the original 1959 investigation; the popular notion that the Mansi attacked the group was investigated and rejected at the time.",
+  "sources": [
+    {
+      "id": "gaume-puzrin-2021",
+      "type": "paper",
+      "title": "Mechanisms of slab avalanche release and impact in the Dyatlov Pass incident in 1959",
+      "authors": [
+        "Johan Gaume",
+        "Alexander M. Puzrin"
+      ],
+      "publication": "Communications Earth & Environment",
+      "date": "2021-01-28",
+      "doi": "10.1038/s43247-020-00081-8"
+    },
+    {
+      "id": "eichar-2013",
+      "type": "book",
+      "title": "Dead Mountain: The Untold True Story of the Dyatlov Pass Incident",
+      "authors": [
+        "Donnie Eichar"
+      ],
+      "publication": "Chronicle Books",
+      "date": "2013",
+      "isbn": "978-1452112749"
+    },
+    {
+      "id": "mccloskey-2013",
+      "type": "book",
+      "title": "Mountain of the Dead: The Dyatlov Pass Incident",
+      "authors": [
+        "Keith McCloskey"
+      ],
+      "publication": "The History Press",
+      "date": "2013",
+      "isbn": "978-0752488882"
+    },
+    {
+      "id": "wikipedia-dyatlov",
+      "type": "website",
+      "title": "Dyatlov Pass incident",
+      "url": "https://en.wikipedia.org/wiki/Dyatlov_Pass_incident",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "dyatlovpass-com",
+      "type": "website",
+      "title": "Dyatlov Pass — primary research archive",
+      "url": "https://dyatlovpass.com",
+      "accessed": "2026-05-07"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Kholat Syakhl",
+      "lat": 61.7544,
+      "lng": 59.4451
+    }
+  ]
 }

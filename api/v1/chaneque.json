@@ -3,6 +3,7 @@
   "name": "Chaneque",
   "category": "entity_spirit",
   "description": "Small humanoid nature spirits of Mesoamerican (especially Nahua) tradition, regarded as the rightful 'owners' of forests, hills, springs, and other wild places. They guard the land and its animals, and are simultaneously protectors and dangerous tricksters who can lead people astray or steal souls.",
+  "full_description": "The chaneque (Nahuatl: chanēcatl, plural chanēqueh) — also recorded as chaneco/chaneca in regional Spanish and as ohuican chaneque ('those who inhabit dangerous places' or 'owners of the place') in Aztec ritual contexts — are small, sprite-like nature spirits of the indigenous traditions of central and south-eastern Mexico. They are described as childlike beings, often naked or wearing rustic clothing such as a wide sombrero, who inhabit and 'own' specific forests, caves, springs, rivers, and hills. They protect wild places and their animals from human exploitation, but they are also dangerous: tradition holds that they can lead travellers astray, kidnap children, cause illness through soul-loss (susto), and steal a person's tonalli (soul-essence), requiring ritual healing to recover. The tradition is strongest among Nahua, Totonac, and Zoque-Popoluca communities in Veracruz, Puebla, Oaxaca, and the Gulf coast lowlands, but related figures are widespread in Mexican folklore. The chaneque are closely paralleled by the Yucatec Mayan aluxob and overlap conceptually with the duendes of broader Hispanic folk tradition. Spanish colonial sources (including Inquisition records and the writings of Artemio de Valle-Arizpe) often demonised them; contemporary anthropological work re-frames them as living elements of indigenous environmental and cosmological knowledge.",
   "aliases": [
     {
       "name": "Chanekeh",
@@ -42,5 +43,78 @@
   "origin": "Indigenous and rural mestizo communities of central and south-eastern Mexico, with the densest belief in Veracruz, Puebla, Oaxaca, and Tabasco; extension into Mexican diaspora communities.",
   "first_reported": "1500",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Nahuatl chānēcatl (singular), formed from chān-tli ('home, dwelling place') with the agentive -ē-catl, plural chānēqueh.",
+    "meaning": "Approximately 'those who belong to / are at home in (a place)'; in Aztec usage 'owners of the place'.",
+    "first_use": "Recorded in Nahuatl ritual and ethnographic vocabulary in colonial-era sources."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "1500-01-01",
+      "event": "Pre-Columbian Nahua belief in ohuican chaneque ('owners of dangerous places') is part of Aztec religious life",
+      "significance": "Tradition predates Spanish contact",
+      "source": "Nahuatl colonial-era sources"
+    },
+    {
+      "date": "1700-01-01",
+      "event": "Spanish colonial Inquisition records and clerical writings demonise chaneque belief alongside other indigenous practices",
+      "significance": "Colonial-era reframing",
+      "source": "Mexican Inquisition records"
+    },
+    {
+      "date": "1995-01-01",
+      "event": "Alessandro Lupo publishes ethnographic work on chaneque/talokan tradition in Sierra de Puebla",
+      "significance": "Foundational modern ethnography",
+      "source": "Lupo, A., La tierra nos escucha (1995)"
+    }
+  ],
+  "related": [
+    {
+      "id": "alux",
+      "name": "Alux",
+      "relationship": "counterpart",
+      "description": "Yucatec Mayan small-folk; the closest Mesoamerican parallel to the chaneque"
+    },
+    {
+      "id": "duende",
+      "name": "Duende",
+      "relationship": "similar",
+      "description": "Iberian / Latin American small spirit, frequently conflated with the chaneque in modern Mexican Spanish"
+    },
+    {
+      "id": "nahual",
+      "name": "Nahual",
+      "relationship": "related",
+      "description": "Mesoamerican shape-shifting spiritual figure; distinct from but conceptually adjacent to the chaneque"
+    }
+  ],
+  "cultural_notes": "Continuing, active belief in many rural Mexican communities; chaneque are treated as real spiritual neighbours rather than as mere stories.",
+  "sources": [
+    {
+      "id": "lupo-1995",
+      "type": "book",
+      "title": "La tierra nos escucha: La cosmología de los nahuas a través de las súplicas rituales",
+      "authors": [
+        "Alessandro Lupo"
+      ],
+      "publication": "Instituto Nacional Indigenista, México",
+      "date": "1995"
+    },
+    {
+      "id": "wikipedia-chaneque",
+      "type": "website",
+      "title": "Chaneque",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Chaneque",
+      "accessed": "2026-05-07"
+    }
+  ],
+  "locations": []
 }

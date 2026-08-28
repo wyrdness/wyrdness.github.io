@@ -3,6 +3,7 @@
   "name": "Easter Island",
   "category": "location",
   "description": "A Chilean Polynesian island in the southeastern Pacific, world-famous for its 887 monumental moai statues and as one of archaeology's most-studied cases of cultural development and ecological change.",
+  "full_description": "Easter Island (Spanish: Isla de Pascua; Rapa Nui: Rapa Nui) is a remote volcanic island in the southeastern Pacific Ocean (27.12° S, 109.35° W), administratively part of Chile's Valparaíso Region as a special territory. The island was settled by Polynesian voyagers around 1200 CE and developed a distinctive culture famous for the carving and erection of nearly 900 monumental stone statues, the moai, on coastal stone platforms (ahu), the unique Rongorongo glyph system, and the Tangata Manu (Birdman) ceremonial competition. Dutch navigator Jacob Roggeveen made first European contact on Easter Sunday, 5 April 1722, naming the island accordingly. From the late 18th century the islanders suffered catastrophic decline through European disease, Peruvian slave raids in 1862–1863, and depopulation that left only 111 native inhabitants by 1877. Chile annexed the island in 1888. Long debates over whether ecological collapse, environmental factors, or Western contact drove cultural decline continue; recent archaeology favours a more complex, more resilient picture than Jared Diamond's 'ecocide' framing. UNESCO designated Rapa Nui National Park a World Heritage Site in 1995. Today around 7,750 people live on the island (2017 census), of whom roughly 45 % identify as Rapanui.",
   "aliases": [
     {
       "name": "Rapa Nui",
@@ -44,5 +45,205 @@
   "origin": "A single island in the southeastern Pacific, 3,512 km west of continental Chile and ~2,075 km east of the Pitcairn Islands.",
   "first_reported": "1722-04-05",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "European name from Jacob Roggeveen's 1722 landfall on Easter Sunday; Polynesian name 'Rapa Nui' is a 19th-century Tahitian-influenced exonym distinguishing the island from 'Rapa Iti' in the Austral Islands; the older traditional name is 'Te Pito o Te Henua'.",
+    "meaning": "'Easter Island' (commemorative); 'Rapa Nui' = 'Big Rapa'; 'Te Pito o Te Henua' = 'The navel of the world'.",
+    "first_use": "1722 (Easter Island, in Roggeveen's logs); 19th century (Rapa Nui in modern usage)."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "1200-01-01",
+      "event": "Polynesian settlement of Rapa Nui",
+      "significance": "Foundation date now favoured by converging radiocarbon and tree-ring evidence",
+      "source": "Hunt & Lipo (2006), Science"
+    },
+    {
+      "date": "1722-04-05",
+      "event": "Jacob Roggeveen makes first European contact and names the island Easter Island",
+      "significance": "First Western documentation",
+      "source": "Roggeveen logbook"
+    },
+    {
+      "date": "1770-01-01",
+      "event": "Spanish expedition under Felipe González de Ahedo formally claims the island for Spain",
+      "significance": "First European claim",
+      "source": "Spanish naval records"
+    },
+    {
+      "date": "1774-03-13",
+      "event": "Captain James Cook visits and notes many moai already toppled",
+      "significance": "First record of large-scale moai overthrow",
+      "source": "Cook's journals"
+    },
+    {
+      "date": "1862-12-01",
+      "event": "Beginning of Peruvian slave raids that abduct hundreds of Rapanui to work as labourers in Peru",
+      "significance": "Catastrophic demographic collapse",
+      "source": "Peruvian and Chilean archives"
+    },
+    {
+      "date": "1864-01-01",
+      "event": "Eugène Eyraud arrives as the first long-term European resident missionary; collects the first Rongorongo tablets",
+      "significance": "Mission era and earliest Rongorongo documentation",
+      "source": "Picpus Fathers' archives"
+    },
+    {
+      "date": "1877-01-01",
+      "event": "Census records only 111 native inhabitants remaining",
+      "significance": "Demographic nadir",
+      "source": "Chilean census"
+    },
+    {
+      "date": "1888-09-09",
+      "event": "Chile annexes Easter Island under Captain Policarpo Toro",
+      "significance": "Beginning of Chilean administration",
+      "source": "Tratado de Cesión de la Isla de Pascua, 1888"
+    },
+    {
+      "date": "1955-01-01",
+      "event": "Thor Heyerdahl's Norwegian Archaeological Expedition begins systematic excavation",
+      "significance": "First major modern archaeological project",
+      "source": "Heyerdahl, T. (1958), Aku-Aku"
+    },
+    {
+      "date": "1995-12-01",
+      "event": "UNESCO inscribes Rapa Nui National Park as a World Heritage Site",
+      "significance": "International heritage protection",
+      "source": "UNESCO World Heritage List"
+    }
+  ],
+  "related": [
+    {
+      "id": "nazca-lines",
+      "name": "Nazca Lines",
+      "relationship": "similar",
+      "description": "Other monumental South American archaeological mystery"
+    },
+    {
+      "id": "stonehenge",
+      "name": "Stonehenge",
+      "relationship": "similar",
+      "description": "Globally iconic megalithic site invoked in popular comparisons"
+    },
+    {
+      "id": "antikythera-mechanism",
+      "name": "Antikythera Mechanism",
+      "relationship": "related",
+      "description": "Iconic archaeological enigma"
+    },
+    {
+      "id": "moai",
+      "name": "Moai",
+      "relationship": "subset",
+      "description": "The monolithic statues that define Easter Island's archaeology"
+    }
+  ],
+  "cultural_notes": "Rapa Nui cosmology centres on ancestor-mediated mana embodied in the moai and on the Make-make creator deity later associated with the Birdman cult.",
+  "sources": [
+    {
+      "id": "vantilburg-1994",
+      "type": "book",
+      "title": "Easter Island: Archaeology, Ecology and Culture",
+      "authors": [
+        "Jo Anne Van Tilburg"
+      ],
+      "publication": "British Museum Press / Smithsonian",
+      "date": "1994",
+      "isbn": "978-0714125046"
+    },
+    {
+      "id": "hunt-lipo-2011",
+      "type": "book",
+      "title": "The Statues That Walked: Unraveling the Mystery of Easter Island",
+      "authors": [
+        "Terry Hunt",
+        "Carl Lipo"
+      ],
+      "publication": "Free Press",
+      "date": "2011",
+      "isbn": "978-1439150313"
+    },
+    {
+      "id": "heyerdahl-1958",
+      "type": "book",
+      "title": "Aku-Aku: The Secret of Easter Island",
+      "authors": [
+        "Thor Heyerdahl"
+      ],
+      "publication": "Allen & Unwin",
+      "date": "1958"
+    },
+    {
+      "id": "diamond-2005",
+      "type": "book",
+      "title": "Collapse: How Societies Choose to Fail or Succeed",
+      "authors": [
+        "Jared Diamond"
+      ],
+      "publication": "Viking",
+      "date": "2005",
+      "isbn": "978-0143036555"
+    },
+    {
+      "id": "fischer-1997",
+      "type": "book",
+      "title": "RongoRongo: The Easter Island Script",
+      "authors": [
+        "Steven Roger Fischer"
+      ],
+      "publication": "Oxford University Press",
+      "date": "1997",
+      "isbn": "978-0198237105"
+    },
+    {
+      "id": "hunt-lipo-2006",
+      "type": "paper",
+      "title": "Late Colonization of Easter Island",
+      "authors": [
+        "Terry L. Hunt",
+        "Carl P. Lipo"
+      ],
+      "publication": "Science",
+      "date": "2006",
+      "doi": "10.1126/science.1121879"
+    },
+    {
+      "id": "wikipedia-easter-island",
+      "type": "website",
+      "title": "Easter Island",
+      "url": "https://en.wikipedia.org/wiki/Easter_Island",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "unesco-rapa-nui",
+      "type": "website",
+      "title": "Rapa Nui National Park — UNESCO World Heritage",
+      "url": "https://whc.unesco.org/en/list/715",
+      "accessed": "2026-05-07"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Rano Raraku",
+      "lat": -27.1219,
+      "lng": -109.2881
+    },
+    {
+      "name": "Ahu Tongariki",
+      "lat": -27.1257,
+      "lng": -109.2772
+    },
+    {
+      "name": "Orongo / Rano Kau",
+      "lat": -27.1872,
+      "lng": -109.4392
+    }
+  ]
 }

@@ -3,6 +3,7 @@
   "name": "Boto Cor-de-Rosa",
   "category": "shapeshifter",
   "description": "In Amazonian folklore, the Boto Cor-de-Rosa — the pink Amazon river dolphin (Inia geoffrensis) — is said to transform at night into a handsome man who seduces women at riverside parties before returning to the water at dawn.",
+  "full_description": "The Boto Cor-de-Rosa, or pink river dolphin, is a shapeshifting being of Amazonian folklore centered on the Amazon river dolphin Inia geoffrensis. According to traditions held by riverine communities along the Amazon and its tributaries — particularly in the Brazilian states of Amazonas and Pará but extending into Peru, Colombia, Bolivia, and Venezuela — the dolphin emerges from the river at dusk and transforms into a tall, handsome, well-dressed young man. Almost always he wears a hat to conceal the blowhole that does not disappear with the transformation. He attends festas (riverside parties), dances exceptionally well, seduces a young woman, and returns to the water before sunrise. The folklore complex serves several social functions: it provides a culturally legible explanation for unwanted or unexplained pregnancies (a fatherless child is often called a 'filho do boto'), enforces taboos against entering the water alone between dusk and dawn, and frames the boto as one of many encantados — enchanted beings able to move between human and animal form. Within the broader encantado tradition the boto is also credited with controlling storms, causing illness or madness, and drawing humans into the underwater realm. The myth has direct conservation consequences: in some communities reverence and fear protect dolphins, while in others (notably documented since the 2000s in the upper Amazon) dolphin parts have been killed for use as piracatinga catfish bait or sold as love charms.",
   "aliases": [
     {
       "name": "Boto",
@@ -47,5 +48,114 @@
   "origin": "The folklore tracks the natural range of Inia geoffrensis: the Amazon and Orinoco basins of South America. The pink-river-dolphin shapeshifter is most strongly associated with the Brazilian Amazon, with parallel encantado traditions in the Peruvian, Colombian, Bolivian, and Venezuelan Amazon.",
   "first_reported": "19th century",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "'Boto' is the common Portuguese term for several South American river dolphins; 'cor-de-rosa' is Portuguese for 'pink-coloured', the diagnostic adult pigmentation of Inia geoffrensis. The term 'encantado' ('enchanted one') is the broader category to which the boto belongs in Amazonian folk religion.",
+    "meaning": "'Pink dolphin' / 'pink boto'. The pinkening of older adults is caused by abrasion-related scarring of the skin.",
+    "first_use": "Portuguese-language usage attested in Brazilian folklore collections from the 19th century onward."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "Pre-1500",
+      "event": "Indigenous Amazonian traditions of dolphin-people and underwater enchanted cities",
+      "significance": "Cultural baseline of the boto encantado complex",
+      "source": "Oral tradition; later ethnography"
+    },
+    {
+      "date": "1954",
+      "event": "Luís da Câmara Cascudo publishes 'Dicionário do Folclore Brasileiro', cataloguing boto entries",
+      "significance": "Major reference text for Brazilian folklore including boto",
+      "source": "Cascudo, L. C. (1954)"
+    },
+    {
+      "date": "1994",
+      "event": "Candace Slater publishes 'Dance of the Dolphin: Transformation and Disenchantment in the Amazonian Imagination'",
+      "significance": "Foundational English-language ethnography of boto folklore",
+      "source": "University of Chicago Press"
+    }
+  ],
+  "related": [
+    {
+      "id": "encantado",
+      "name": "Encantado",
+      "relationship": "superset",
+      "description": "Broader Amazonian category of enchanted shapeshifting beings; the boto is one type"
+    },
+    {
+      "id": "iara",
+      "name": "Iara",
+      "relationship": "related",
+      "description": "Female water-spirit of Brazilian folklore who lures men into the river"
+    },
+    {
+      "id": "selkie",
+      "name": "Selkie",
+      "relationship": "similar",
+      "description": "Scottish/Irish marine-mammal shapeshifter (seal to human)"
+    },
+    {
+      "id": "kelpie",
+      "name": "Kelpie",
+      "relationship": "similar",
+      "description": "Scottish water-horse shapeshifter associated with drowning"
+    }
+  ],
+  "cultural_notes": "Many riverine communities forbid swimming alone at dusk or dawn, avoid eating boto meat, and treat the dolphin as a being deserving of caution and respect.",
+  "sources": [
+    {
+      "id": "wikipedia-boto",
+      "type": "website",
+      "title": "Boto",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Boto",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "slater-1994",
+      "type": "book",
+      "title": "Dance of the Dolphin: Transformation and Disenchantment in the Amazonian Imagination",
+      "authors": [
+        "Candace Slater"
+      ],
+      "publication": "University of Chicago Press",
+      "date": "1994",
+      "isbn": "978-0226761848"
+    },
+    {
+      "id": "cascudo-1954",
+      "type": "book",
+      "title": "Dicionário do Folclore Brasileiro",
+      "authors": [
+        "Luís da Câmara Cascudo"
+      ],
+      "publication": "Instituto Nacional do Livro",
+      "date": "1954"
+    },
+    {
+      "id": "wwf-amazon-river-dolphin",
+      "type": "website",
+      "title": "Amazon river dolphin (boto) — species page",
+      "publication": "WWF",
+      "url": "https://www.worldwildlife.org/species/amazon-river-dolphin",
+      "accessed": "2026-05-07"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Mid-Solimões / Tefé",
+      "lat": -3.3667,
+      "lng": -64.7
+    },
+    {
+      "name": "Parintins",
+      "lat": -2.6283,
+      "lng": -56.7361
+    }
+  ]
 }

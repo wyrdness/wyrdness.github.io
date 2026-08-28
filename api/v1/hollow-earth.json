@@ -3,6 +3,7 @@
   "name": "Hollow Earth",
   "category": "conspiracy_theory",
   "description": "The proposition that the Earth is partly or entirely hollow, with one or more habitable inner surfaces and openings (often at the poles) — historically a serious scientific hypothesis, now firmly debunked but persistent as a conspiracy and esoteric tradition.",
+  "full_description": "The Hollow Earth is the proposition that the planet is wholly or partly hollow, often with habitable inner surfaces, an inner sun, and entrances at one or both poles. The idea began as serious natural philosophy in the late 17th century: Edmond Halley argued in 1692 that the Earth might consist of a hollow shell about 800 km thick enclosing two inner concentric shells and an innermost core, primarily as a way to explain anomalies in the Earth's magnetic field. In the 19th century, the American officer John Cleves Symmes Jr. proposed (1818) a hollow Earth with very large polar openings, lobbied Congress for a polar expedition, and inspired the writer J. N. Reynolds. Cyrus Reed Teed proposed a 'concave Earth' or 'Cellular Cosmogony' in 1869, founding the Koreshan Unity religious movement; Marshall Gardner published A Journey to the Earth's Interior in 1913 and patented a working hollow-Earth model. The hypothesis was definitively disproved by gravitational measurements (Bouguer's 1738 Chimborazo work, Hutton's 1774 Schiehallion experiment, Cavendish's 1798 torsion-balance experiment establishing Earth's mean density at 5.515 g/cm³) and by 20th-century seismology, which directly imaged a solid mantle, liquid outer core, and solid inner core. Despite this, hollow-Earth ideas survive as esoteric and conspiracy traditions, often combined with myths of subterranean civilisations such as Agartha or Shambhala and modern legends about Admiral Richard E. Byrd's polar expeditions. Jules Verne's 1864 novel Journey to the Center of the Earth remains the canonical fictional treatment.",
   "aliases": [
     {
       "name": "Inner Earth",
@@ -44,5 +45,146 @@
   "origin": "A theoretical claim about the entire Earth; major proponents and movements have been concentrated in the United Kingdom (Halley), the United States (Symmes, Teed, Gardner, modern conspiracists), and Russia / continental Europe (Ossendowski, Theosophy).",
   "first_reported": "1692",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "English compound. The phrase 'hollow earth' came into use in early-modern natural philosophy and scientific cosmology in the 17th–18th centuries.",
+    "meaning": "Earth, conceived as a hollow rather than solid body.",
+    "first_use": "Halley's 1692 paper to the Royal Society on the Earth's magnetic field is generally treated as the founding statement of the modern hollow-Earth hypothesis."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "1692-01-01",
+      "event": "Edmond Halley proposes that the Earth consists of a hollow outer shell about 800 km thick, two inner concentric shells, and an innermost core, to explain magnetic-field anomalies",
+      "significance": "Foundational scientific articulation of the hollow-Earth hypothesis",
+      "source": "Halley, E. (1692), Philosophical Transactions of the Royal Society"
+    },
+    {
+      "date": "1738-01-01",
+      "event": "Pierre Bouguer's Chimborazo expedition measures gravitational deflection by a mountain mass",
+      "significance": "First direct gravimetric data inconsistent with a low-density hollow Earth",
+      "source": "Bouguer, P. (1749), La figure de la terre"
+    },
+    {
+      "date": "1774-01-01",
+      "event": "Charles Hutton's Schiehallion experiment measures Earth's mean density",
+      "significance": "Confirms a mean density (~4.5 g/cm³) inconsistent with a hollow planet",
+      "source": "Hutton, C. (1778), Philosophical Transactions"
+    },
+    {
+      "date": "1798-01-01",
+      "event": "Henry Cavendish's torsion-balance experiment establishes Earth's mean density at 5.515 g/cm³",
+      "significance": "Decisively rules out a hollow Earth on physical grounds",
+      "source": "Cavendish, H. (1798), Philosophical Transactions"
+    },
+    {
+      "date": "1818-04-10",
+      "event": "John Cleves Symmes Jr. issues 'Circular No. 1', publicly proposing a hollow Earth with large polar openings",
+      "significance": "Founds the 19th-century American hollow-Earth movement",
+      "source": "Symmes, J. C. Jr. (1818), 'Circular No. 1'"
+    },
+    {
+      "date": "1864-01-01",
+      "event": "Jules Verne publishes Voyage au centre de la Terre (Journey to the Center of the Earth)",
+      "significance": "Most influential fictional treatment of a hollow / inner Earth",
+      "source": "Verne, J. (1864)"
+    },
+    {
+      "date": "1869-01-01",
+      "event": "Cyrus Reed Teed publicises a 'concave Earth' / Cellular Cosmogony, founding the Koreshan Unity movement",
+      "significance": "Religious / esoteric variant of the hollow-Earth hypothesis",
+      "source": "Teed, C. R., later published as Cellular Cosmogony (1898)"
+    },
+    {
+      "date": "1913-01-01",
+      "event": "Marshall Gardner publishes A Journey to the Earth's Interior and patents a working hollow-Earth model",
+      "significance": "Carries the hollow-Earth hypothesis into the early 20th century",
+      "source": "Gardner, M. (1913)"
+    },
+    {
+      "date": "1922-01-01",
+      "event": "Ferdynand Ossendowski publishes Beasts, Men and Gods, popularising the legend of an underground kingdom Agharti / Agartha",
+      "significance": "Introduces Agartha to Western esoteric culture",
+      "source": "Ossendowski, F. (1922)"
+    }
+  ],
+  "related": [
+    {
+      "id": "agartha",
+      "name": "Agartha",
+      "relationship": "subset",
+      "description": "Legendary subterranean kingdom often situated within a hollow Earth"
+    },
+    {
+      "id": "shambhala",
+      "name": "Shambhala",
+      "relationship": "related",
+      "description": "Buddhist mythic kingdom adopted into Western hollow-Earth and Theosophical traditions"
+    },
+    {
+      "id": "flat-earth",
+      "name": "Flat Earth",
+      "relationship": "similar",
+      "description": "Modern pseudoscientific cosmology rejecting standard geophysics"
+    },
+    {
+      "id": "admiral-byrd-secret-diary",
+      "name": "Admiral Byrd 'secret diary' legend",
+      "relationship": "related",
+      "description": "Modern legend that Byrd's 1947 Antarctic expedition encountered a hollow-Earth opening"
+    },
+    {
+      "id": "nazi-ufos",
+      "name": "Nazi UFO myth",
+      "relationship": "related",
+      "description": "Conspiracy tradition that connects hollow-Earth ideas to alleged Nazi polar bases"
+    }
+  ],
+  "cultural_notes": "Once a serious scientific hypothesis; now a fringe and conspiracy belief, sustained by online communities and recurring popular fiction.",
+  "sources": [
+    {
+      "id": "wikipedia-hollow-earth-2026",
+      "type": "website",
+      "title": "Hollow Earth",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Hollow_Earth",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "halley-1692",
+      "type": "paper",
+      "title": "An Account of the Cause of the Change of the Variation of the Magnetical Needle, with an Hypothesis of the Structure of the Internal Parts of the Earth",
+      "authors": [
+        "Edmond Halley"
+      ],
+      "publication": "Philosophical Transactions of the Royal Society",
+      "date": "1692"
+    },
+    {
+      "id": "verne-1864",
+      "type": "book",
+      "title": "Voyage au centre de la Terre (Journey to the Center of the Earth)",
+      "authors": [
+        "Jules Verne"
+      ],
+      "publication": "Pierre-Jules Hetzel",
+      "date": "1864"
+    },
+    {
+      "id": "ossendowski-1922",
+      "type": "book",
+      "title": "Beasts, Men and Gods",
+      "authors": [
+        "Ferdynand Ossendowski"
+      ],
+      "publication": "E. P. Dutton",
+      "date": "1922"
+    }
+  ],
+  "locations": []
 }

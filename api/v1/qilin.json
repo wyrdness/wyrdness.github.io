@@ -3,6 +3,7 @@
   "name": "Qilin",
   "category": "mythological_creature",
   "description": "The Qilin (麒麟) is the most auspicious terrestrial creature of Chinese mythology, a chimeric divine beast whose appearance heralds the reign of a virtuous ruler or the birth of a great sage. It is said to walk so gently it does not bend a blade of grass.",
+  "full_description": "The Qilin (Chinese: 麒麟, pronounced 'chee-lin') is China's most sacred terrestrial divine creature, a chimeric being combining features of the dragon, deer, ox, and horse. The qilin appears in the oldest surviving Chinese texts: the Classic of Poetry (11th–7th century BCE) contains a poem titled 'Feet of the Lin,' and the Spring and Autumn Annals records that 'a lin (麟) was captured in the 14th year of Duke Ai of Lu (481 BCE)' — an event Confucius reportedly interpreted as a terrible omen. The bisyllabic term 'qilin' (麒麟) emerged during the Warring States period (475–221 BCE), where qi (麒) denotes the male and lin (麟) denotes the female. Physically, the qilin possesses dragon-like antlers, thick-lashed eyes, upward-flowing manes, and beards, with a body resembling an ox, deer, horse, or goat, always with cloven hooves. It is typically depicted as golden but may be any color, sometimes with fire surrounding parts of its body. It moves so gently that it does not bend a blade of grass or harm any living creature. Its appearance signals the imminent arrival or death of a sage or illustrious ruler. During the Ming Dynasty, after Zheng He's 1414 voyage to East Africa, giraffes from Malindi were presented to the Yongle Emperor and widely identified as qilin, a significant event in the history of Sino-African contact. Closely related variants appear across East Asia: Japan's kirin is depicted more deer-like; Korea's girin has a deer torso, ox tail, and horse hooves; Thailand's gilen is incorporated into Himapant forest mythology; Vietnam's lân is one of the four sacred creatures.",
   "aliases": [
     {
       "name": "麒麟",
@@ -54,5 +55,91 @@
   "origin": "The qilin is a mythological creature of Chinese origin, with related variants across East and Southeast Asia. As a mythological being, it has no geographic range in the literal sense; accounts of appearances are concentrated in Chinese historical texts set in China.",
   "first_reported": "Pre-0700-01-01",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Ancient Chinese; first attested in the Classic of Poetry (11th–7th century BCE). The bisyllabic compound 麒麟 (qilin) crystallized during the Warring States period.",
+    "meaning": "麒 (qí) refers to the male of the species; 麟 (lín) refers to the female. Together, 麒麟 designates the creature as a whole. Often glossed as 'Chinese unicorn' in Western literature, though the creature is chimeric rather than equine.",
+    "first_use": "11th–7th century BCE (Classic of Poetry); bisyllabic form 麒麟 from 475–221 BCE (Warring States period)"
+  },
+  "sightings_stats": {
+    "total_documented": 3,
+    "verified": 0,
+    "disputed": 3,
+    "debunked": 0,
+    "date_range": {
+      "earliest": "481 BCE",
+      "latest": "1414"
+    }
+  },
+  "timeline": [
+    {
+      "date": "Pre-0600-01-01",
+      "event": "Classic of Poetry (Shijing) composed; contains 'Feet of the Lin' poem — earliest known written reference to the lin/qilin",
+      "significance": "Establishes the qilin in Chinese literary tradition at the earliest recorded period",
+      "source": "Classic of Poetry (Shijing), 11th–7th century BCE"
+    },
+    {
+      "date": "Pre-0481-01-01",
+      "event": "Spring and Autumn Annals records the capture of a lin in the 14th year of Duke Ai of Lu (481 BCE); Confucius reportedly interprets the event as an ill omen",
+      "significance": "Most famous classical qilin sighting account; establishes the tradition of associating the qilin with sagehood",
+      "source": "Spring and Autumn Annals (Chunqiu)"
+    },
+    {
+      "date": "1414-01-01",
+      "event": "Zheng He's voyage returns from East Africa with giraffes from Malindi, presented to the Yongle Emperor; Chinese scholars and courtiers widely identify the animals as qilin",
+      "significance": "Major historical moment linking the mythological qilin to a real animal; influenced subsequent depictions of the qilin and the history of Sino-African contact",
+      "source": "Chinese Ming Dynasty court records; European and Chinese historical sources on Zheng He's voyages"
+    }
+  ],
+  "related": [
+    {
+      "id": "kirin",
+      "name": "Kirin",
+      "relationship": "regional_variant",
+      "description": "Japanese adaptation of the qilin; depicted more deer-like with potentially backward-curving horns"
+    },
+    {
+      "id": "dragon-chinese",
+      "name": "Chinese Dragon (Lóng)",
+      "relationship": "related",
+      "description": "The dragon is one of the four sacred creatures of China alongside the qilin, phoenix, and tortoise"
+    },
+    {
+      "id": "phoenix-chinese",
+      "name": "Fenghuang (Chinese Phoenix)",
+      "relationship": "related",
+      "description": "The fenghuang is the auspicious bird counterpart to the qilin as a harbinger of good rule"
+    },
+    {
+      "id": "simurgh",
+      "name": "Simurgh",
+      "relationship": "similar",
+      "description": "Persian mythological divine bird with similarly auspicious associations; possible cross-cultural influence"
+    }
+  ],
+  "cultural_notes": "The qilin is a fundamentally auspicious figure in Chinese cosmology. Its appearance brings good fortune and confirms the virtue of those in whose presence it appears. It harms no living thing and represents the ideal of perfect benevolence.",
+  "sources": [
+    {
+      "id": "shijing",
+      "type": "archive",
+      "title": "Classic of Poetry (Shijing)",
+      "date": "Pre-0600",
+      "notes": "Earliest reference to the lin/qilin; 'Feet of the Lin' poem"
+    },
+    {
+      "id": "chunqiu",
+      "type": "archive",
+      "title": "Spring and Autumn Annals (Chunqiu)",
+      "date": "Pre-0476",
+      "notes": "Records the capture of a lin in 481 BCE associated with Confucius"
+    },
+    {
+      "id": "wikipedia-qilin",
+      "type": "website",
+      "title": "Qilin",
+      "url": "https://en.wikipedia.org/wiki/Qilin",
+      "accessed": "2026-05-08"
+    }
+  ],
+  "locations": []
 }

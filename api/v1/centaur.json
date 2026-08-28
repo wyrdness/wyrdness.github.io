@@ -3,6 +3,7 @@
   "name": "Centaur",
   "category": "mythological_creature",
   "description": "A creature of Greek mythology with the upper body of a human and the lower body and legs of a horse. Centaurs inhabited the mountains and forests of Thessaly and feature in some of the foundational stories of Greek myth, including the Centauromachy and the education of heroes by the wise centaur Chiron.",
+  "full_description": "Centaurs (Greek: Kéntauros, plural Kéntauroi) are mythological hybrid beings with the head, arms and torso of a human joined to the body and four legs of a horse. In the dominant Greek tradition they descend from Centaurus, the offspring of Ixion and Nephele (a cloud-image of Hera), who mated with the mares of Magnesia. They are most strongly associated with the mountains of Thessaly — particularly Mount Pelion and the Foloi oak forest in Elis — where they are described as a wild people, often drunken and lustful, in contrast with their kin and neighbours the Lapiths. The most famous mythological episode involving the centaurs is the Centauromachy: the battle that broke out at the wedding of the Lapith king Pirithous, when the centaur guests, made drunk by wine, attempted to abduct the bride Hippodamia and the other Lapith women. The ensuing rout, in which Theseus aided the Lapiths, was understood by later Greeks as an emblem of the struggle between civilisation and barbarism and became one of the most-depicted subjects in Greek and Roman art, including the Parthenon metopes (mid-5th century BCE). Two centaurs stand apart in tradition: Chiron, son of Cronus, the wise tutor of Achilles, Asclepius, and Jason; and Pholus, the friendly host of Heracles. Modern scholars have proposed that the centaur image preserves a memory of pre-equestrian peoples' first encounters with mounted riders.",
   "aliases": [
     {
       "name": "Kéntauros",
@@ -40,5 +41,131 @@
   "origin": "In Greek myth, centaurs inhabit the mountains of Thessaly (especially Mount Pelion) and the Foloi oak forest of Elis in the western Peloponnese.",
   "first_reported": "0750",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Ancient Greek Kéntauros; etymology disputed. Proposals include kentein 'to pierce' + tauros 'bull' (so 'bull-piercer'), and pre-Greek non-Indo-European origin.",
+    "meaning": "Disputed; possibly 'piercing-bull' or 'bull-killer' if the kentein etymology is accepted.",
+    "first_use": "Earliest Greek attestations are Homeric (Iliad, Odyssey, c. 8th century BCE) and Hesiodic."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "0750-01-01",
+      "event": "Centaurs appear in the Homeric epics, including the Iliad's references to the Pelion tribe",
+      "significance": "Earliest substantial literary attestations",
+      "source": "Homer, Iliad and Odyssey (c. 8th c. BCE)"
+    },
+    {
+      "date": "0700-01-01",
+      "event": "Hesiodic tradition (Theogony, Shield of Heracles) develops centaur genealogy",
+      "significance": "Establishes the Ixion–Nephele genealogy",
+      "source": "Hesiod (and Hesiodic corpus)"
+    },
+    {
+      "date": "-0447-01-01",
+      "event": "Centauromachy depicted on the south metopes of the Parthenon, Athens (c. 447–432 BCE)",
+      "significance": "Centaur–Lapith battle becomes a paradigmatic image of order vs. chaos in Greek classical art",
+      "source": "Parthenon south metopes (British Museum and Acropolis Museum)"
+    },
+    {
+      "date": "0008-01-01",
+      "event": "Ovid retells the Centauromachy in Metamorphoses Book XII",
+      "significance": "Standard Latin literary version of the battle",
+      "source": "Ovid, Metamorphoses XII"
+    }
+  ],
+  "related": [
+    {
+      "id": "satyr",
+      "name": "Satyr",
+      "relationship": "similar",
+      "description": "Greek hybrid being (human-goat); shares the wild, intoxicated, masculine character associated with the centaurs"
+    },
+    {
+      "id": "minotaur",
+      "name": "Minotaur",
+      "relationship": "similar",
+      "description": "Cretan human-bull hybrid"
+    },
+    {
+      "id": "ichthyocentaur",
+      "name": "Ichthyocentaur",
+      "relationship": "regional_variant",
+      "description": "Late-Greek/Roman 'fish-centaur' marine variant"
+    },
+    {
+      "id": "onocentaur",
+      "name": "Onocentaur",
+      "relationship": "regional_variant",
+      "description": "Hybrid with the lower body of a donkey, attested in late antiquity and the medieval bestiary tradition"
+    }
+  ],
+  "cultural_notes": "In Greek antiquity centaurs were creatures of myth rather than living animals; they functioned as moral and political symbols of the relation between civilisation and wilderness.",
+  "sources": [
+    {
+      "id": "homer-iliad",
+      "type": "book",
+      "title": "Iliad",
+      "authors": [
+        "Homer"
+      ],
+      "publication": "Oral/written tradition (c. 8th c. BCE)",
+      "date": "0750-01-01"
+    },
+    {
+      "id": "hesiod-theogony",
+      "type": "book",
+      "title": "Theogony",
+      "authors": [
+        "Hesiod"
+      ],
+      "publication": "Oral/written tradition (c. 700 BCE)",
+      "date": "0700-01-01"
+    },
+    {
+      "id": "ovid-metamorphoses",
+      "type": "book",
+      "title": "Metamorphoses",
+      "authors": [
+        "Ovid"
+      ],
+      "publication": "Rome",
+      "date": "0008-01-01"
+    },
+    {
+      "id": "dubois-1982",
+      "type": "book",
+      "title": "Centaurs and Amazons: Women and the Pre-History of the Great Chain of Being",
+      "authors": [
+        "Page duBois"
+      ],
+      "publication": "University of Michigan Press",
+      "date": "1982"
+    },
+    {
+      "id": "wikipedia-centaur",
+      "type": "website",
+      "title": "Centaur",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Centaur",
+      "accessed": "2026-05-07"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Mount Pelion",
+      "lat": 39.45,
+      "lng": 23.05
+    },
+    {
+      "name": "Foloi oak forest",
+      "lat": 37.7833,
+      "lng": 21.65
+    }
+  ]
 }

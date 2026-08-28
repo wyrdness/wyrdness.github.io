@@ -3,6 +3,7 @@
   "name": "Nix",
   "category": "fae_folklore",
   "description": "A shapeshifting water spirit of Germanic and Scandinavian folklore that lures victims with enchanting music — often violin — and drowns them, with regional male and female forms.",
+  "full_description": "The Nix (German Nix masc., Nixe fem.; English nixie; Swedish näck; Norwegian/Danish nøkk; Finnish näkki; Old English nicor) is a Germanic and Scandinavian water spirit of rivers, lakes, and waterfalls. Most often a male spirit in the Nordic tradition and a more mermaid-like figure in German tradition, the nix is fundamentally a shapeshifter — appearing as a young man near water, an old bearded fiddler, a beautiful woman, a fish, a snake, or most famously the 'brook horse' (bäckahäst), a white or black horse that lures riders to drown. The nix's defining attribute is irresistible music, generally played on the violin; tradition holds that those who can win his teaching gain extraordinary musical skill, but at the price of grave spiritual danger. Defences include throwing steel or iron into the water, sticking a knife in the ground before swimming, calling the nix by his true name, making the sign of the cross, and offerings such as three drops of blood or a black animal. Major sources include Jacob Grimm's Deutsche Mythologie (1835), the medieval Nibelungenlied, and 19th-century Nordic visual depictions by Theodor Kittelsen and Ernst Josephson.",
   "aliases": [
     {
       "name": "Nixe",
@@ -72,5 +73,96 @@
   "origin": "Germanic and Nordic Europe, including England (as the Old English nicor and its descendants), Germany, the Low Countries, Scandinavia, Finland, and Estonia.",
   "first_reported": "Early medieval",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "From Proto-Germanic *nikwus / *nikwis(i), ultimately from Proto-Indo-European *neigʷ- ('to wash')",
+    "meaning": "A water spirit; the English 'nixie' is from German Nixe (feminine)",
+    "first_use": "Old English nicor attested in early medieval texts; modern English 'nixie' borrowed via German in the 19th century"
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "1200-01-01",
+      "event": "Composition of the Nibelungenlied (c. 1180–1210), featuring the Rhine Maidens / nixie figures",
+      "significance": "Major medieval Germanic literary attestation",
+      "source": "Nibelungenlied (manuscript tradition)"
+    },
+    {
+      "date": "1835-01-01",
+      "event": "Jacob Grimm publishes Deutsche Mythologie, codifying the scholarly study of Germanic water-spirits",
+      "significance": "Foundational survey of Nix / Nixe tradition",
+      "source": "Grimm, J. (1835), Deutsche Mythologie"
+    },
+    {
+      "date": "1876-01-01",
+      "event": "Premiere of Richard Wagner's Der Ring des Nibelungen, in which the Rhine Maidens guard the Rheingold",
+      "significance": "Major reception in 19th-century music",
+      "source": "Bayreuth Festspielhaus opening, 1876"
+    },
+    {
+      "date": "1882-01-01",
+      "event": "Ernst Josephson's painting Näcken (1882), iconic Nordic depiction of the male nix",
+      "significance": "Defining 19th-century Nordic visual representation",
+      "source": "Nationalmuseum, Stockholm"
+    }
+  ],
+  "related": [
+    {
+      "id": "kelpie",
+      "name": "Kelpie",
+      "relationship": "similar",
+      "description": "Scottish water-horse spirit; functional cognate of the brook horse"
+    },
+    {
+      "id": "knucker",
+      "name": "Knucker",
+      "relationship": "regional_variant",
+      "description": "English water-wyrm of Lyminster, Sussex; name derived from Old English nicor"
+    },
+    {
+      "id": "rhine-maidens",
+      "name": "Rhine Maidens",
+      "relationship": "related",
+      "description": "Mermaid-like figures of the Nibelungenlied / Wagner's Ring; Germanic water-spirit tradition"
+    },
+    {
+      "id": "lorelei",
+      "name": "Lorelei",
+      "relationship": "related",
+      "description": "19th-century literary German nix associated with the Rhine"
+    },
+    {
+      "id": "jenny-greenteeth",
+      "name": "Jenny Greenteeth",
+      "relationship": "similar",
+      "description": "English water-hag drowning children"
+    }
+  ],
+  "cultural_notes": "The nix is treated across the Germanic world as a real water-occupant requiring respect and ritual precaution.",
+  "sources": [
+    {
+      "id": "wikipedia-neck",
+      "type": "website",
+      "title": "Neck (water spirit)",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Neck_(water_spirit)",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "grimm-1835-nix",
+      "type": "book",
+      "title": "Deutsche Mythologie",
+      "authors": [
+        "Jacob Grimm"
+      ],
+      "publication": "Dieterich",
+      "date": "1835"
+    }
+  ],
+  "locations": []
 }

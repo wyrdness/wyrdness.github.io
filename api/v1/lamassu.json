@@ -3,6 +3,7 @@
   "name": "Lamassu",
   "category": "mythological_creature",
   "description": "The Lamassu is a Mesopotamian protective deity depicted as a colossal hybrid figure with a human head, the body of a bull or lion and the wings of an eagle. Monumental Assyrian lamassu pairs were placed at city and palace gates from the Neo-Assyrian period.",
+  "full_description": "Lamassu (Akkadian: 𒀭𒆗 lamassu; earlier Sumerian Lamma) is a tutelary protective deity of ancient Mesopotamian religion. The figure first appears in Sumerian art (c. 2000–1800 BC) as a beneficent goddess in human form. From the Neo-Assyrian period onward, lamassu were depicted as colossal hybrid creatures with a human head (signifying intelligence), the body of a bull or lion (signifying strength) and the wings of an eagle (signifying freedom). Pairs of lamassu were carved in high relief and installed as gate-guardians at the entrances of palaces and cities; many were carved with five legs so that, viewed frontally, the creature appeared to stand still and, viewed from the side, to walk. Major surviving examples come from the Neo-Assyrian capitals at Nimrud, Khorsabad (Dur-Sharrukin) and Nineveh and are today held in the British Museum, the Louvre, the Metropolitan Museum of Art, the Oriental Institute of the University of Chicago and the National Museum of Iraq. Several lamassu, including those at Nineveh and the Mosul Museum, were destroyed by Islamic State (ISIL) in 2015.",
   "aliases": [
     {
       "name": "Lamma",
@@ -45,5 +46,118 @@
   "origin": "Originally an artistic and religious tradition of southern Mesopotamia (Sumer / Akkad); reaches its monumental culmination in the Neo-Assyrian Empire of the 9th–7th centuries BC, with examples from Nimrud, Khorsabad and Nineveh in present-day Iraq. The form was subsequently absorbed by the Achaemenid Persian Empire (Persepolis).",
   "first_reported": "c. 2000 BC",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Akkadian lamassu (cuneiform 𒀭𒆗), from earlier Sumerian Lamma. The male counterpart is shedu. The compound term aladlammû was also used in Neo-Assyrian inscriptions.",
+    "meaning": "'Protective spirit' / 'tutelary deity'.",
+    "first_use": "Attested in Sumerian art and texts from the Isin-Larsa period (c. 2000–1800 BC). The hybrid winged-bull / winged-lion form is first associated by Assyriologists with the reign of Tiglath-Pileser II (Wikipedia: Lamassu)."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0,
+    "date_range": {
+      "earliest": "2000 BC",
+      "latest": "modern"
+    }
+  },
+  "timeline": [
+    {
+      "date": "c. 2000–1800 BC",
+      "event": "Sumerian-period (Isin-Larsa) Lamma figures attested as a beneficent female deity in human form",
+      "significance": "Earliest documented form of the lamassu",
+      "source": "Wikipedia: Lamassu"
+    },
+    {
+      "date": "1307–1282 BC",
+      "event": "Kassite-period stele of King Nazi-Maruttash dedicated at Uruk includes lamassu iconography",
+      "significance": "Pre-Assyrian attestation of lamassu in monumental art",
+      "source": "Wikipedia: Lamassu"
+    },
+    {
+      "date": "9th century BC",
+      "event": "Ashurnasirpal II's Northwest Palace at Nimrud (Kalhu) is decorated with monumental lamassu pairs",
+      "significance": "Neo-Assyrian establishment of the colossal-gate-guardian form",
+      "source": "British Museum / Wikipedia: Lamassu"
+    },
+    {
+      "date": "c. 717–706 BC",
+      "event": "Sargon II builds Dur-Sharrukin (modern Khorsabad), decorated with some of the largest known lamassu",
+      "significance": "Maximal scale of the Neo-Assyrian lamassu programme",
+      "source": "Wikipedia: Lamassu; Wikipedia: Dur-Sharrukin"
+    },
+    {
+      "date": "1843",
+      "event": "Paul-Émile Botta begins excavations at Khorsabad, recovering monumental lamassu now in the Louvre",
+      "significance": "Modern rediscovery of Neo-Assyrian lamassu",
+      "source": "Louvre / Wikipedia: Lamassu"
+    },
+    {
+      "date": "2015-02-26",
+      "event": "ISIL militants destroy lamassu and other Assyrian sculptures at the Mosul Museum and at Nineveh",
+      "significance": "Major loss of monumental lamassu in Iraq",
+      "source": "Wikipedia: Lamassu"
+    },
+    {
+      "date": "2018",
+      "event": "Michael Rakowitz's lamassu reconstruction 'The Invisible Enemy Should Not Exist' installed on the Fourth Plinth in Trafalgar Square, London",
+      "significance": "Public art response to the 2015 ISIL destruction",
+      "source": "Wikipedia: Lamassu"
+    }
+  ],
+  "related": [
+    {
+      "id": "shedu",
+      "name": "Shedu",
+      "relationship": "counterpart",
+      "description": "Male Akkadian guardian spirit paired with the female lamassu"
+    },
+    {
+      "id": "sphinx",
+      "name": "Sphinx",
+      "relationship": "similar",
+      "description": "Egyptian / Greek hybrid guardian creature with human head and lion body"
+    },
+    {
+      "id": "cherub",
+      "name": "Cherub",
+      "relationship": "similar",
+      "description": "Ancient Near Eastern winged guardian figure preserved in Hebrew Bible iconography"
+    },
+    {
+      "id": "gopuram-guardian",
+      "name": "Gate-guardians of Persepolis",
+      "relationship": "regional_variant",
+      "description": "Persian colossal gate-guardian figures at the Gate of All Nations, Persepolis, that draw on Assyrian lamassu form"
+    }
+  ],
+  "cultural_notes": "Lamassu were understood as benevolent protective spirits who guarded the threshold against evil and chaos and conferred divine sanction on the king.",
+  "sources": [
+    {
+      "id": "wikipedia-lamassu",
+      "type": "website",
+      "title": "Lamassu",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Lamassu",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "wikipedia-dur-sharrukin",
+      "type": "website",
+      "title": "Dur-Sharrukin",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Dur-Sharrukin",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "met-lamassu",
+      "type": "website",
+      "title": "Human-headed winged lion (lamassu)",
+      "publication": "Metropolitan Museum of Art",
+      "url": "https://www.metmuseum.org/art/collection/search/322609",
+      "accessed": "2026-05-07"
+    }
+  ],
+  "locations": []
 }

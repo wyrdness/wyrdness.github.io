@@ -3,6 +3,7 @@
   "name": "Urban Legends",
   "category": "urban_legend",
   "description": "A genre of contemporary folklore consisting of unusual, frightening, or humorous narratives told as true accounts about everyday life, typically attributed to a 'friend of a friend' and rarely verifiable.",
+  "full_description": "Urban legends — preferred in academic folklore studies as 'contemporary legends' — are a recognized genre of folklore consisting of stories told as true (or potentially true) accounts that circulate orally, in print, and digitally, are usually unverifiable, and turn on themes of modern anxiety: cars, highways, hospitals, technology, food, sex, crime, and the body. The American folklorist Richard M. Dorson is generally credited with introducing 'urban legend' to academic discourse around 1968, but the term entered general English-language usage through the work of Jan Harold Brunvand, professor of English at the University of Utah, beginning with The Vanishing Hitchhiker: American Urban Legends and Their Meanings (1981). Urban legends share recognizable structural features: a 'friend-of-a-friend' (FOAF) attribution, a memorable plot turn, often a moral or cautionary edge, and continual local adaptation. Foundational older studies include Beardsley and Hankey's analysis of the Vanishing Hitchhiker (California Folklore Quarterly, 1942–1943) and Linda Dégh's work on legend-telling. The Internet era has transformed urban-legend transmission: chain emails, FOAF-attributed message-board posts, and 'creepypasta' (e.g. Slender Man, born from a 2009 Something Awful forum thread by Eric Knudsen) demonstrate that the genre's mechanisms — anonymous attribution, plausibility, communal authorship — are if anything more vigorous online than in oral culture. Snopes (founded 1994 by David and Barbara Mikkelson) became the standard public-facing debunking resource for urban legends and remains one of the most cited fact-checking websites today.",
   "aliases": [
     {
       "name": "Urban legend",
@@ -43,5 +44,163 @@
   "origin": "Urban legends are a global phenomenon, with active traditions documented across the United States, the United Kingdom, continental Europe, Latin America, East and South Asia, Africa, and Oceania.",
   "first_reported": "Pre-20th century",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "American English coinage, mid-20th century. Folklorist Richard M. Dorson is widely credited with introducing 'urban legend' as an academic term around 1968; the term went mainstream through Jan Harold Brunvand's books from 1981 onward.",
+    "meaning": "'Legend' (a narrative told as true) of 'urban' (modern, contemporary, mass-society) life — distinguishing such tales from older rural or 'primitive' folklore.",
+    "first_use": "Academic use c. 1968 (Dorson); popular use from 1981 (Brunvand)"
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "1942-01-01",
+      "event": "Richard Beardsley and Rosalie Hankey publish 'The Vanishing Hitchhiker' in the California Folklore Quarterly",
+      "significance": "First systematic academic typology of an urban legend, identifying four versions among 79 collected accounts",
+      "source": "Beardsley & Hankey, California Folklore Quarterly (1942–1943)"
+    },
+    {
+      "date": "1968-01-01",
+      "event": "Folklorist Richard M. Dorson uses the term 'urban legend' in academic context",
+      "significance": "Establishes the term in folklore scholarship",
+      "source": "Dorson, R. M. (1968)"
+    },
+    {
+      "date": "1981-01-01",
+      "event": "Jan Harold Brunvand publishes The Vanishing Hitchhiker: American Urban Legends and Their Meanings",
+      "significance": "Popular launch of the 'urban legend' concept; first of more than a dozen Brunvand volumes",
+      "source": "Brunvand, J. H. (1981)"
+    },
+    {
+      "date": "1994-01-01",
+      "event": "David and Barbara Mikkelson found Snopes (originally the Urban Legends Reference Pages) on the Web",
+      "significance": "Inaugurates Internet-era fact-checking of urban legends",
+      "source": "Snopes.com history; Wikipedia: Snopes"
+    },
+    {
+      "date": "2009-06-10",
+      "event": "Eric Knudsen ('Victor Surge') posts the first images of Slender Man to a Something Awful forum thread",
+      "significance": "Creation of the most influential 21st-century internet-born urban legend",
+      "source": "Something Awful forum (10 June 2009); Wikipedia: Slender Man"
+    },
+    {
+      "date": "2014-05-31",
+      "event": "Two 12-year-olds attack a classmate in Waukesha, Wisconsin, citing Slender Man as motivation",
+      "significance": "Real-world consequences of an internet urban legend; major case study in legend-effect research",
+      "source": "Court records; news reporting; Wikipedia: Slender Man stabbing"
+    }
+  ],
+  "related": [
+    {
+      "id": "creepypasta",
+      "name": "Creepypasta",
+      "relationship": "subset",
+      "description": "Internet-era horror urban legends spread through copy-paste posts on forums and image boards"
+    },
+    {
+      "id": "vanishing-hitchhiker",
+      "name": "Vanishing Hitchhiker",
+      "relationship": "subset",
+      "description": "Iconic urban legend; Brunvand's 1981 book takes its title from this tale-type"
+    },
+    {
+      "id": "slender-man",
+      "name": "Slender Man",
+      "relationship": "subset",
+      "description": "Internet-born urban legend created in 2009; landmark example of digital legend formation"
+    },
+    {
+      "id": "bloody-mary",
+      "name": "Bloody Mary",
+      "relationship": "subset",
+      "description": "Adolescent mirror-ritual urban legend"
+    },
+    {
+      "id": "hookman",
+      "name": "The Hook (Hookman)",
+      "relationship": "subset",
+      "description": "Classic American teenage cautionary urban legend"
+    },
+    {
+      "id": "folklore-general",
+      "name": "Folklore (general)",
+      "relationship": "superset",
+      "description": "Broader category encompassing both traditional and contemporary legend genres"
+    }
+  ],
+  "cultural_notes": "Tellers do not always believe urban legends, but characteristically perform them as if they are true accounts heard from a credible chain of acquaintances.",
+  "sources": [
+    {
+      "id": "wiki-urban-legend",
+      "type": "website",
+      "title": "Urban legend",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Urban_legend",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "wiki-brunvand",
+      "type": "website",
+      "title": "Jan Harold Brunvand",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Jan_Harold_Brunvand",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "brunvand-1981",
+      "type": "book",
+      "title": "The Vanishing Hitchhiker: American Urban Legends and Their Meanings",
+      "authors": [
+        "Jan Harold Brunvand"
+      ],
+      "publication": "W. W. Norton",
+      "date": "1981",
+      "isbn": "978-0393951691"
+    },
+    {
+      "id": "brunvand-2001",
+      "type": "book",
+      "title": "Encyclopedia of Urban Legends",
+      "authors": [
+        "Jan Harold Brunvand"
+      ],
+      "publication": "W. W. Norton",
+      "date": "2001",
+      "isbn": "978-0393323580"
+    },
+    {
+      "id": "ellis-2001",
+      "type": "book",
+      "title": "Aliens, Ghosts, and Cults: Legends We Live",
+      "authors": [
+        "Bill Ellis"
+      ],
+      "publication": "University Press of Mississippi",
+      "date": "2001",
+      "isbn": "978-1578064083"
+    },
+    {
+      "id": "beardsley-hankey-1942",
+      "type": "paper",
+      "title": "The Vanishing Hitchhiker",
+      "authors": [
+        "Richard Beardsley",
+        "Rosalie Hankey"
+      ],
+      "publication": "California Folklore Quarterly",
+      "date": "1942"
+    },
+    {
+      "id": "snopes",
+      "type": "website",
+      "title": "Snopes — Fact Checking",
+      "url": "https://www.snopes.com",
+      "accessed": "2026-05-07"
+    }
+  ],
+  "locations": []
 }

@@ -3,6 +3,7 @@
   "name": "Taniwha",
   "category": "mythological_creature",
   "description": "Supernatural beings in Māori tradition that inhabit deep pools, rivers, harbours, caves, and dangerous coastal waters of Aotearoa (New Zealand), acting as both guardians (kaitiaki) and monstrous threats.",
+  "full_description": "Taniwha are large supernatural beings in Māori mythology, associated above all with water — deep river pools, lakes, harbours, caves, and stretches of coast with dangerous currents or reefs. They take many forms, including reptilian and dragon-like creatures, sharks, whales, geckos, and even floating logs. Many iwi (tribes) and hapū (sub-tribes) have a specific named taniwha as a kaitiaki (guardian) of a particular place, often understood as a tīpuna (ancestor) accompanying or descended from a founding canoe. Taniwha can be benevolent — warning of approaching enemies, rescuing people from drowning, or marking the proper boundaries of tapu (sacred restriction) — or destructive, taking those who transgress local laws or trespass on sacred waters. The word taniwha itself is cognate with terms for large sharks across the wider Polynesian language family (Proto-Oceanic *tanifa). Taniwha remain an active part of Māori cultural and political life: in 2002, Ngāti Naho successfully argued for the rerouting of a section of New Zealand State Highway 1 to protect the habitat of the taniwha Karutahi.",
   "aliases": [
     {
       "name": "*tanifa",
@@ -38,5 +39,114 @@
   "origin": "Taniwha are particular to Aotearoa (New Zealand), with cognate water beings throughout Polynesia.",
   "first_reported": "Pre-contact",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Polynesian; reconstructed Proto-Oceanic *tanifa, with cognates in Tongan, Samoan, and other Polynesian languages referring to dangerous sharks or sea creatures.",
+    "meaning": "Originally, a name for a particular dangerous shark species; in Māori usage extended to powerful supernatural water beings.",
+    "first_use": "Inherited from Proto-Polynesian; attested in early 19th-century European-language accounts of Māori tradition."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "1855-01-01",
+      "event": "Sir George Grey publishes 'Polynesian Mythology', recording multiple taniwha narratives",
+      "significance": "Major early European-language compilation of Māori tradition",
+      "source": "Grey, G. (1855), Polynesian Mythology"
+    },
+    {
+      "date": "1887-01-01",
+      "event": "John White publishes 'The Ancient History of the Maori', collecting numerous taniwha references across iwi",
+      "significance": "Foundational ethnographic compendium",
+      "source": "White, J. (1887), Ancient History of the Maori"
+    },
+    {
+      "date": "2002-08-01",
+      "event": "Ngāti Naho successfully petitions Transit New Zealand to reroute a section of State Highway 1 around the lair of the taniwha Karutahi in the Waikato",
+      "significance": "Demonstrates living legal/political relevance of taniwha tradition",
+      "source": "Wikipedia, 'Taniwha'; New Zealand Herald coverage"
+    }
+  ],
+  "related": [
+    {
+      "id": "marakihau",
+      "name": "Marakihau",
+      "relationship": "related",
+      "description": "Mer-creature of Māori tradition, often grouped with taniwha as sea beings"
+    },
+    {
+      "id": "loch-ness-monster",
+      "name": "Loch Ness Monster",
+      "relationship": "similar",
+      "description": "Lake-monster type to which colonial-era observers sometimes compared taniwha"
+    },
+    {
+      "id": "naga",
+      "name": "Nāga",
+      "relationship": "similar",
+      "description": "South and Southeast Asian serpent water spirits"
+    },
+    {
+      "id": "bunyip",
+      "name": "Bunyip",
+      "relationship": "similar",
+      "description": "Aboriginal Australian water-monster figure"
+    }
+  ],
+  "cultural_notes": "Taniwha are widely understood by Māori as real guardians of place, deserving of respect and ritual acknowledgement. Disregard for a taniwha's territory is held to invite misfortune.",
+  "sources": [
+    {
+      "id": "wikipedia-taniwha",
+      "type": "website",
+      "title": "Taniwha",
+      "publication": "English Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Taniwha",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "te-ara-taniwha",
+      "type": "website",
+      "title": "Taniwha",
+      "publication": "Te Ara — The Encyclopedia of New Zealand",
+      "url": "https://teara.govt.nz/en/taniwha",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "grey-1855",
+      "type": "book",
+      "title": "Polynesian Mythology and Ancient Traditional History of the New Zealand Race",
+      "authors": [
+        "George Grey"
+      ],
+      "publication": "John Murray, London",
+      "date": "1855"
+    },
+    {
+      "id": "orbell-1995",
+      "type": "book",
+      "title": "A Concise Encyclopedia of Māori Myth and Legend",
+      "authors": [
+        "Margaret Orbell"
+      ],
+      "publication": "Canterbury University Press",
+      "date": "1995",
+      "isbn": "978-0908812455"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Hokianga Harbour",
+      "lat": -35.5,
+      "lng": 173.4
+    },
+    {
+      "name": "Waikato River, Meremere area",
+      "lat": -37.3,
+      "lng": 175
+    }
+  ]
 }

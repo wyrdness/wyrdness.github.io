@@ -3,6 +3,7 @@
   "name": "Griffin",
   "category": "mythological_creature",
   "description": "The Griffin is a legendary hybrid creature with the body of a lion and the head, wings, and forelimb-talons of an eagle. Attested from Bronze Age Near Eastern art and central to Greek and medieval European heraldry.",
+  "full_description": "The griffin (also gryphon) is one of the oldest hybrid creatures in western mythology. It has the body, hindquarters, and tail of a lion and the head, wings, and (often) the forelimb-talons of an eagle, combining the 'king of beasts' and 'king of birds'. Griffin-like creatures appear in cylinder seals from Mesopotamia c. 3000 BC and on a cosmetic palette from Hierakonpolis dating to 3300–3100 BC; griffin-types feature prominently in Minoan art at Knossos c. 1650–1600 BC and across the Bronze Age Levant. In Greek tradition, beginning with the 7th-century-BC traveller Aristeas of Proconnesus and amplified by Aeschylus, Herodotus, and Pliny the Elder, griffins were said to guard hoards of gold in the deserts of Central Asia and to fight the one-eyed Arimaspi people. In medieval Christian Europe the griffin became a symbol of Christ's dual divine and earthly nature, and from the late Middle Ages it is one of the most common heraldic charges. In 2000 the classical folklorist Adrienne Mayor proposed that ancient griffin lore was inspired by the Protoceratops fossils observed by Scythian nomadic prospectors in the gold-bearing Tien Shan and Altai regions; her hypothesis remains debated, with palaeontologist Mark P. Witton arguing that griffin anatomy is plainly that of lion and eagle composites.",
   "aliases": [
     {
       "name": "Gryphon",
@@ -41,5 +42,181 @@
   "origin": "A creature of myth and iconography. Imagery extends from Predynastic Egypt and Mesopotamia through Bronze Age Crete, the wider Mediterranean, the medieval Christian West, and into modern heraldry.",
   "first_reported": "c. 3300–3100 BC",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "From Latin gryphus, gryps, from Ancient Greek γρύψ (grýps), of disputed origin; possibly from γρυπός (grypós, 'curved, hook-nosed') or from a Semitic loan compared to Hebrew kərúv (cherub).",
+    "meaning": "Possibly 'hook-nosed (one)'.",
+    "first_use": "Greek, from at least the 7th century BC; Latin gryphus widespread by the 1st century AD"
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "c. 3300–3100 BC",
+      "event": "Cosmetic palette from Hierakonpolis depicts a griffin-like creature",
+      "significance": "Earliest known griffin-like image",
+      "source": "Wikipedia, 'Griffin'"
+    },
+    {
+      "date": "c. 3000 BC",
+      "event": "Griffin-like creatures appear on Mesopotamian cylinder seals",
+      "significance": "Establishes the Mesopotamian visual tradition",
+      "source": "Wikipedia, 'Griffin'"
+    },
+    {
+      "date": "c. 1650–1600 BC",
+      "event": "Griffin frescoes are painted in the Throne Room of the palace at Knossos",
+      "significance": "Iconic Bronze Age Aegean griffins",
+      "source": "Knossos archaeological reports"
+    },
+    {
+      "date": "7th century BC",
+      "event": "Aristeas of Proconnesus reports the griffin–Arimaspi tradition from Central Asia",
+      "significance": "Origin of the gold-guarding griffin in Greek literature",
+      "source": "Aristeas, Arimaspea (fragmentary); via Herodotus and Aeschylus"
+    },
+    {
+      "date": "c. 458 BC",
+      "event": "Aeschylus describes the griffins of the Cisthene plain in Prometheus Bound",
+      "significance": "Earliest extant Greek dramatic mention",
+      "source": "Aeschylus, Prometheus Bound 803–806"
+    },
+    {
+      "date": "c. 430 BC",
+      "event": "Herodotus relays griffin–Arimaspi lore in Histories Book IV",
+      "significance": "Major classical source",
+      "source": "Herodotus, Histories 4.13, 4.27"
+    },
+    {
+      "date": "77 AD",
+      "event": "Pliny the Elder, Natural History, names griffins as winged, long-eared creatures of Ethiopia",
+      "significance": "Standard Roman natural-history reference",
+      "source": "Pliny, Natural History 7, 10"
+    },
+    {
+      "date": "c. 625 AD",
+      "event": "Isidore of Seville's Etymologiae presents griffins as enemies of horses and predators of men",
+      "significance": "Foundational medieval encyclopedia entry",
+      "source": "Isidore, Etymologiae 12.2.17"
+    },
+    {
+      "date": "12th–13th century",
+      "event": "Griffin becomes a recurring Christian symbol of Christ's dual nature in bestiaries and church sculpture",
+      "significance": "Establishes the Christian symbolic tradition",
+      "source": "medieval bestiaries"
+    },
+    {
+      "date": "2000",
+      "event": "Adrienne Mayor publishes The First Fossil Hunters, proposing Protoceratops fossils as inspiration for griffin lore",
+      "significance": "Sets out the major modern naturalistic hypothesis",
+      "source": "Mayor, A. (2000)"
+    },
+    {
+      "date": "2016",
+      "event": "Palaeontologist Mark P. Witton publishes a critique arguing that griffin anatomy is consistent with lion-eagle composition rather than dinosaur fossils",
+      "significance": "Active scholarly counter-hypothesis",
+      "source": "Witton, M. P., Markmywords blog / academic commentary"
+    }
+  ],
+  "related": [
+    {
+      "id": "hippogriff",
+      "name": "Hippogriff",
+      "relationship": "regional_variant",
+      "description": "Half-griffin, half-horse hybrid (Ariosto, Orlando Furioso, 1516)"
+    },
+    {
+      "id": "lamassu",
+      "name": "Lamassu",
+      "relationship": "similar",
+      "description": "Assyrian winged human-headed lion / bull guardian"
+    },
+    {
+      "id": "sphinx",
+      "name": "Sphinx",
+      "relationship": "similar",
+      "description": "Egyptian and Greek lion-bodied composite"
+    },
+    {
+      "id": "simurgh",
+      "name": "Simurgh",
+      "relationship": "similar",
+      "description": "Persian griffin-like benevolent bird"
+    },
+    {
+      "id": "ziz",
+      "name": "Ziz",
+      "relationship": "similar",
+      "description": "Jewish mythological giant bird sometimes compared to the griffin"
+    }
+  ],
+  "cultural_notes": "In medieval Christianity the griffin's fusion of earthly lion and aerial eagle was read as a symbol of Christ; in heraldry it stands for valour and martial vigilance.",
+  "sources": [
+    {
+      "id": "wikipedia-griffin",
+      "type": "website",
+      "title": "Griffin",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Griffin",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "herodotus-histories",
+      "type": "book",
+      "title": "Histories",
+      "authors": [
+        "Herodotus"
+      ],
+      "date": "c. 430 BC"
+    },
+    {
+      "id": "aeschylus-prometheus",
+      "type": "book",
+      "title": "Prometheus Bound",
+      "authors": [
+        "Aeschylus"
+      ],
+      "date": "c. 458 BC"
+    },
+    {
+      "id": "pliny-natural-history",
+      "type": "book",
+      "title": "Natural History",
+      "authors": [
+        "Pliny the Elder"
+      ],
+      "date": "77 AD"
+    },
+    {
+      "id": "isidore-etymologiae",
+      "type": "book",
+      "title": "Etymologiae",
+      "authors": [
+        "Isidore of Seville"
+      ],
+      "date": "c. 625 AD"
+    },
+    {
+      "id": "mayor-2000",
+      "type": "book",
+      "title": "The First Fossil Hunters: Paleontology in Greek and Roman Times",
+      "authors": [
+        "Adrienne Mayor"
+      ],
+      "publication": "Princeton University Press",
+      "date": "2000",
+      "isbn": "978-0691058634"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Knossos, Crete",
+      "lat": 35.298,
+      "lng": 25.1633
+    }
+  ]
 }

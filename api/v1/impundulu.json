@@ -3,6 +3,7 @@
   "name": "Impundulu",
   "category": "entity_spirit",
   "description": "The Impundulu (Lightning Bird) is a supernatural creature from Zulu, Xhosa, and Pondo folklore in South Africa that serves as a witch's familiar, summons lightning, and is said to possess vampiric qualities and the ability to take human form.",
+  "full_description": "The Impundulu, known in English as the Lightning Bird, is a powerful supernatural creature from the oral traditions of the Zulu, Xhosa, and Pondo peoples of South Africa. It typically appears as a large black and white bird approximately the size of a person, though some accounts describe iridescent peacock-like feathers or a fiery red tail, bill, and legs; other accounts describe it as resembling a black rooster. The impundulu is believed to serve as a familiar of a witch or witch doctor, sent to attack the witch's enemies by summoning thunder and lightning with its wings and talons. Beyond its lightning-summoning power, the creature has an insatiable appetite for blood and is considered immortal — impervious to gunshots, stabbing, and drowning; fire is its sole documented weakness. The impundulu can also shape-shift into the form of a handsome young man to seduce women, and relationships between the creature and female witches have a sexual dimension in traditional accounts. The familiar is passed down within a witch's family from mother to daughter as an inherited spiritual bond. Belief in the impundulu is a living tradition in Zulu and Xhosa communities and is part of a serious and respected system of beliefs about witchcraft, spiritual power, and the causes of misfortune and death. The hamerkop bird is believed by some African communities to be a manifestation of the impundulu.",
   "aliases": [
     {
       "name": "Lightning Bird",
@@ -50,5 +51,49 @@
   "origin": "South Africa; primarily associated with Zulu, Xhosa, and Pondo peoples of the eastern and southeastern regions.",
   "first_reported": "Pre-colonial",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Zulu and Xhosa linguistic tradition. Impundulu derives from roots relating to lightning (izulu, sky/lightning) and bird (inyoni).",
+    "meaning": "The name refers to the creature's defining power to summon and embody lightning.",
+    "first_use": "Attested in Zulu and Xhosa oral tradition; specific first written documentation date not established."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "2005-01-01",
+      "event": "A South African man was convicted of culpable homicide after killing a toddler he believed embodied the impundulu",
+      "significance": "Documented modern case demonstrating that impundulu belief remains active and can have serious real-world consequences",
+      "source": "Wikipedia / Impundulu article"
+    }
+  ],
+  "related": [
+    {
+      "id": "inugami",
+      "name": "Inugami",
+      "relationship": "similar",
+      "description": "Japanese spirit familiar passed down through families; parallels in hereditary binding and family service"
+    },
+    {
+      "id": "hamerkop",
+      "name": "Hamerkop",
+      "relationship": "related",
+      "description": "The hamerkop bird is believed by some communities to be a manifestation of the impundulu"
+    }
+  ],
+  "cultural_notes": "The impundulu is part of a living and serious spiritual worldview among Zulu, Xhosa, and Pondo peoples. It is not merely folklore but an active component of beliefs about witchcraft, healing, and the spiritual causes of illness and death. Respect for and understanding of these beliefs is essential for outsiders.",
+  "sources": [
+    {
+      "id": "wikipedia-impundulu",
+      "type": "website",
+      "title": "Impundulu",
+      "url": "https://en.wikipedia.org/wiki/Impundulu",
+      "accessed": "2026-05-08"
+    }
+  ],
+  "locations": []
 }

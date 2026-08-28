@@ -3,6 +3,7 @@
   "name": "Astaroth",
   "category": "demon_angel",
   "description": "A Great Duke of Hell in Christian demonology, derived by demonisation from the Phoenician goddess Astarte / biblical Ashtoreth. Best known as Astaroth, ranked 29th in the Ars Goetia of the Lesser Key of Solomon, where he commands forty legions.",
+  "full_description": "Astaroth is a major demon of Christian demonology. The name derives directly from the Hebrew Ashtoreth / Ashtaroth, the biblical name(s) for the West-Semitic goddess Astarte (Phoenician ʿAṯtart, Mesopotamian Ishtar), whose worship was condemned in the Hebrew Bible. Through the standard process of demonising the gods of rival pagan nations, this goddess was transformed by the early Christian period and the Middle Ages into a male demon. He appears in the Book of Abramelin (c. 1458), in Johann Weyer's Pseudomonarchia Daemonum (1577) as 'a great and mighty duke' commanding forty legions, and as the 29th spirit of the Ars Goetia in the Lesser Key of Solomon, where he is described as 'a Mighty, Strong Duke' who 'appeareth in the Form of an hurtful Angel riding on an Infernal Beast like a Dragon, and carrying in his right hand a Viper'. He teaches the liberal sciences, answers questions about the past, present, and future, and gives the secrets of how the angels fell. In Sebastien Michaelis's hierarchy of demons (1612), Astaroth is a Prince of the Order of Thrones who tempts through laziness, vanity, and rationalised philosophies and whose adversary is St Bartholomew. In Collin de Plancy's Dictionnaire Infernal (1818), he is depicted as 'a very ugly angel' riding a dragon-like beast.",
   "aliases": [
     {
       "name": "Ashtaroth",
@@ -49,5 +50,188 @@
   "origin": "A textual phenomenon of Christian demonology and Western ceremonial magic, with antecedents in the ancient Near Eastern goddess Astarte and the biblical polemic against her cult.",
   "first_reported": "1000-01-01",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "From the Hebrew Ashtoreth / Ashtaroth, denoting the West-Semitic goddess Astarte (Phoenician ʿAṯtart). The biblical Hebrew form was deliberately vocalised with the vowels of bōšeṯ ('shame') as a polemical device.",
+    "meaning": "Originally the name of a Phoenician goddess of love, war, and fertility; demonised in Christian tradition.",
+    "first_use": "Biblical Hebrew (1 Kings, 2 Kings, etc.); demonological use from the early Middle Ages; explicit demonic characterisation in Ælfric of Eynsham (d. 1010) and elaborated in 15th–17th c. grimoiric literature."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0,
+    "date_range": {
+      "earliest": "1000",
+      "latest": "2026"
+    }
+  },
+  "timeline": [
+    {
+      "date": "1000-01-01",
+      "event": "Ælfric of Eynsham (d. 1010) explicitly depicts Astaroth as a demon",
+      "significance": "Earliest unambiguous Christian demonological treatment",
+      "source": "Ælfric of Eynsham, homilies"
+    },
+    {
+      "date": "1275-01-01",
+      "event": "Jacobus de Voragine includes Astaroth in the Golden Legend",
+      "significance": "Wide medieval circulation of the figure",
+      "source": "Jacobus de Voragine (1275)"
+    },
+    {
+      "date": "1458-01-01",
+      "event": "The Book of Abramelin (manuscript) treats Astaroth as one of the eight sub-princes",
+      "significance": "Major late-medieval grimoiric reference",
+      "source": "Book of Abramelin"
+    },
+    {
+      "date": "1577-01-01",
+      "event": "Johann Weyer's Pseudomonarchia Daemonum lists Astaroth as a great duke commanding forty legions",
+      "significance": "Standard early-modern reference",
+      "source": "Weyer, J. (1577)"
+    },
+    {
+      "date": "1612-01-01",
+      "event": "Sebastien Michaelis publishes his demonological hierarchy, placing Astaroth as a Prince of the Order of Thrones",
+      "significance": "Influential demonological taxonomy",
+      "source": "Michaelis, S. (1612)"
+    },
+    {
+      "date": "1636-01-01",
+      "event": "Urban Grandier's alleged diabolical pact (Loudun) includes Astaroth's signature",
+      "significance": "Notorious historical case linking Astaroth to early-modern witch trials",
+      "source": "Loudun trial documents"
+    },
+    {
+      "date": "1801-01-01",
+      "event": "Francis Barrett's The Magus reprints Astaroth's attributes",
+      "significance": "Bridge to the 19th-century occult revival",
+      "source": "Barrett, F. (1801)"
+    },
+    {
+      "date": "1818-01-01",
+      "event": "Collin de Plancy's Dictionnaire Infernal popularises the modern image of Astaroth",
+      "significance": "Establishes the modern iconographic image",
+      "source": "Collin de Plancy, J. (1818)"
+    },
+    {
+      "date": "1904-01-01",
+      "event": "S. L. MacGregor Mathers and Aleister Crowley publish The Goetia (Lesser Key of Solomon)",
+      "significance": "Standard modern grimoiric edition placing Astaroth as duke no. 29",
+      "source": "Mathers / Crowley (1904)"
+    }
+  ],
+  "related": [
+    {
+      "id": "astarte",
+      "name": "Astarte (ancient Near Eastern goddess)",
+      "relationship": "counterpart",
+      "description": "Phoenician goddess from whose name Astaroth is derived by demonization"
+    },
+    {
+      "id": "ishtar",
+      "name": "Ishtar",
+      "relationship": "similar",
+      "description": "Mesopotamian cognate goddess"
+    },
+    {
+      "id": "ashtoreth",
+      "name": "Ashtoreth (biblical)",
+      "relationship": "counterpart",
+      "description": "Hebrew biblical form of the goddess name, condemned in the Deuteronomistic history"
+    },
+    {
+      "id": "asmodeus",
+      "name": "Asmodeus",
+      "relationship": "related",
+      "description": "Fellow great king/duke in Christian demonology and the Goetia"
+    },
+    {
+      "id": "beelzebub",
+      "name": "Beelzebub",
+      "relationship": "related",
+      "description": "Often paired with Astaroth in Renaissance demonological hierarchies"
+    },
+    {
+      "id": "ars-goetia",
+      "name": "Ars Goetia (Lesser Key of Solomon)",
+      "relationship": "superset",
+      "description": "Grimoiric system listing Astaroth as duke no. 29"
+    }
+  ],
+  "cultural_notes": "In Christian demonology, Astaroth functioned as a personification of false philosophy and pagan religion, whose temptations the faithful were to resist.",
+  "sources": [
+    {
+      "id": "wikipedia-astaroth",
+      "type": "website",
+      "title": "Astaroth",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Astaroth",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "weyer-1577",
+      "type": "book",
+      "title": "Pseudomonarchia Daemonum (appendix to De Praestigiis Daemonum)",
+      "authors": [
+        "Johann Weyer"
+      ],
+      "publication": "Basel",
+      "date": "1577"
+    },
+    {
+      "id": "michaelis-1612",
+      "type": "book",
+      "title": "Histoire admirable de la possession et conversion d'une pénitente",
+      "authors": [
+        "Sebastien Michaelis"
+      ],
+      "publication": "Paris",
+      "date": "1612"
+    },
+    {
+      "id": "barrett-1801",
+      "type": "book",
+      "title": "The Magus, or Celestial Intelligencer",
+      "authors": [
+        "Francis Barrett"
+      ],
+      "publication": "Lackington, Allen & Co.",
+      "date": "1801"
+    },
+    {
+      "id": "collin-de-plancy-1818",
+      "type": "book",
+      "title": "Dictionnaire Infernal",
+      "authors": [
+        "Jacques Collin de Plancy"
+      ],
+      "publication": "Paris",
+      "date": "1818"
+    },
+    {
+      "id": "mathers-1904",
+      "type": "book",
+      "title": "The Goetia: The Lesser Key of Solomon the King",
+      "authors": [
+        "S. L. MacGregor Mathers",
+        "Aleister Crowley"
+      ],
+      "publication": "Society for the Propagation of Religious Truth",
+      "date": "1904"
+    },
+    {
+      "id": "russell-1984",
+      "type": "book",
+      "title": "Lucifer: The Devil in the Middle Ages",
+      "authors": [
+        "Jeffrey Burton Russell"
+      ],
+      "publication": "Cornell University Press",
+      "date": "1984",
+      "isbn": "978-0801494291"
+    }
+  ],
+  "locations": []
 }

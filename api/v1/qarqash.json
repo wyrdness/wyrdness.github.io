@@ -3,6 +3,7 @@
   "name": "Qarqash",
   "category": "demon_angel",
   "description": "Qarqash (القرقش) is a malevolent desert spirit from Bedouin and Arabian Peninsula folklore, described as a terrifying entity that haunts desolate desert regions and preys upon lone travelers and children who stray from safety.",
+  "full_description": "Qarqash (Arabic: القرقش, also transliterated Qurqush or Garghash) is a dangerous supernatural being from Bedouin and Arabian folklore, prominent in the oral traditions of the Arabian Peninsula. The creature belongs to the broader category of desert spirits in Arabic tradition — beings that haunt uninhabited places and prey upon the unwary, closely related to the ghoul and jinn traditions of pre-Islamic and Islamic Arabian mythology. Like the ghoul, the qarqash is said to dwell in desolate areas, desert wastes, and remote locations, where it lies in wait for lone travelers, children who wander, and others who stray from the safety of community. The creature serves a cautionary function in Bedouin oral tradition, warning against the real and deadly dangers of the Arabian desert — where solitary travel and straying from known paths have historically been causes of death. The qarqash is particularly associated with child protection: parents traditionally invoked the threat of the qarqash to keep children from wandering into the desert at night. The name and entity are regional, circulating primarily in Bedouin and Gulf Arab oral tradition, and it is less systematically documented in written Arabic sources than major figures like the ghoul or ifrit.",
   "aliases": [
     {
       "name": "القرقش",
@@ -42,5 +43,49 @@
   "origin": "The qarqash tradition is found across the Arabian Peninsula, particularly in Bedouin oral traditions of the Gulf states, Saudi Arabia, and adjacent regions.",
   "first_reported": "Pre-modern",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Arabian Peninsula; Bedouin oral tradition of the Arabian Peninsula and Gulf region",
+    "meaning": "The precise etymology of 'qarqash' is not established in available academic sources; it functions as a proper name for the entity within regional oral tradition",
+    "first_use": "Pre-modern Bedouin oral tradition; specific date unknown"
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [],
+  "related": [
+    {
+      "id": "ghoul",
+      "name": "Ghoul",
+      "relationship": "related",
+      "description": "The ghoul (غُول) is a related Arabian demon that also haunts desert wastes and preys on travelers; shares the desert-predator and child-danger functions"
+    },
+    {
+      "id": "jinn",
+      "name": "Jinn",
+      "relationship": "related",
+      "description": "The broad category of supernatural beings in Arabian and Islamic tradition, of which desert-haunting predatory spirits form a subset"
+    },
+    {
+      "id": "ifrit",
+      "name": "Ifrit",
+      "relationship": "related",
+      "description": "A powerful and often malevolent class of jinn in Islamic tradition, also associated with desolate places"
+    }
+  ],
+  "cultural_notes": "Traditional Bedouin communities invoked the qarqash as a warning against wandering into the desert alone, especially at night. The figure embodies the personified danger of the desert wilderness in Arabian folk belief.",
+  "sources": [
+    {
+      "id": "ghoul-wikipedia",
+      "type": "website",
+      "title": "Ghoul",
+      "url": "https://en.wikipedia.org/wiki/Ghoul",
+      "accessed": "2026-05-08",
+      "notes": "Background on Arabian desert demon tradition related to the qarqash"
+    }
+  ],
+  "locations": []
 }

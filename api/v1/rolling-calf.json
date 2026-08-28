@@ -3,6 +3,7 @@
   "name": "Rolling Calf",
   "category": "undead",
   "description": "The Rolling Calf is one of the most feared duppies (spirits) in Jamaican folklore — a shape-shifting supernatural entity that most often appears as a large calf or bull with blazing red eyes, fire from its nostrils, and a dragging iron chain, haunting lonely roads and crossroads at night.",
+  "full_description": "The Rolling Calf is among the most feared beings in Jamaican and broader Caribbean supernatural tradition. It is classified as a duppy — the spirit of a deceased person returned in malevolent form — and is specifically said to be the cursed spirit of a person who led a wicked life, particularly butchers who mistreated animals, dishonest merchants, or cruel overseers. The most common manifestation is that of a large hornless calf or bull with a collar and dragging chain that clanks and sparks against the ground. Its eyes blaze like burning coals, and fire or smoke billows from its nostrils. As a shape-shifter, the Rolling Calf can also appear as other animals or take ambiguous forms. A defining characteristic is that the creature grows larger and more threatening the faster one runs from it — flight escalates the danger. Rolling Calves are always male. They are believed to prowl secluded roads and crossroads after dark, terrorizing travelers. The tradition is rooted in West African spiritual beliefs about ancestors and animal spirits, merged with the specific historical trauma of Jamaican plantation slavery. The Rolling Calf embodies a form of supernatural justice: the oppressor is cursed into the form of the chained beast. Protective practices survive in living tradition: the creature fears the moon's reflection, and throwing objects for it to count can allow escape.",
   "aliases": [
     {
       "name": "Runnin' Calf",
@@ -30,5 +31,92 @@
   "origin": "Primarily a Jamaican tradition, with parallel duppy beliefs across the broader Caribbean.",
   "first_reported": "1929-01-01",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Jamaican English / Jamaican Patois. The term 'duppy' from which Rolling Calf is classified originates from the Ga language of Ghana (West Africa), possibly from 'Adope' (meaning dwarf/spirit) or from the Akan observance 'Dapaa', a day nine days after a certain Monday.",
+    "meaning": "A rolling (wandering/roaming) calf-spirit; the 'rolling' refers to its restless nocturnal wandering.",
+    "first_use": "Documented in Jamaican folklore collections of the 19th–20th century; Martha Warren Beckwith's fieldwork (1929) is among the earliest systematic academic records."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0,
+    "date_range": {
+      "earliest": "Pre-1929",
+      "latest": "present"
+    }
+  },
+  "timeline": [
+    {
+      "date": "1929-01-01",
+      "event": "Martha Warren Beckwith publishes Black Roadways: A Study of Jamaican Folk Life, documenting duppy beliefs including the Rolling Calf",
+      "significance": "Early systematic academic recording of Jamaican supernatural traditions",
+      "source": "Beckwith, M.W. (1929), Black Roadways"
+    },
+    {
+      "date": "1961-01-01",
+      "event": "MacEdward Leach publishes Jamaican Duppy Lore in the Journal of American Folklore",
+      "significance": "Academic documentation of duppy traditions including Rolling Calf",
+      "source": "Leach, M. (1961), Journal of American Folklore"
+    }
+  ],
+  "related": [
+    {
+      "id": "duppy",
+      "name": "Duppy",
+      "relationship": "superset",
+      "description": "The broader category of Caribbean ghost/spirit to which the Rolling Calf belongs"
+    },
+    {
+      "id": "three-footed-horse",
+      "name": "Three-Footed Horse",
+      "relationship": "similar",
+      "description": "Another malevolent Jamaican duppy taking animal form"
+    },
+    {
+      "id": "ol-hige",
+      "name": "Ol' Hige",
+      "relationship": "similar",
+      "description": "Jamaican vampire duppy; another major figure in the same tradition"
+    },
+    {
+      "id": "jumbie",
+      "name": "Jumbie",
+      "relationship": "regional_variant",
+      "description": "Equivalent spirit tradition in the Lesser Antilles"
+    }
+  ],
+  "cultural_notes": "The Rolling Calf is understood within the broader Obeah cosmology in which each person possesses two souls. The earthly soul of a wicked person becomes a duppy capable of tormenting the living. Rolling Calves are always male spirits. The tradition serves simultaneously as cautionary moral tale, resistance narrative, and practical guide to navigating dangerous spiritual terrain.",
+  "sources": [
+    {
+      "id": "beckwith-1929",
+      "type": "book",
+      "title": "Black Roadways: A Study of Jamaican Folk Life",
+      "authors": [
+        "Martha Warren Beckwith"
+      ],
+      "publication": "University of North Carolina Press",
+      "date": "1929"
+    },
+    {
+      "id": "leach-1961",
+      "type": "article",
+      "title": "Jamaican Duppy Lore",
+      "authors": [
+        "MacEdward Leach"
+      ],
+      "publication": "Journal of American Folklore",
+      "date": "1961"
+    },
+    {
+      "id": "wikipedia-duppy",
+      "type": "website",
+      "title": "Duppy",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Duppy",
+      "accessed": "2026-05-08"
+    }
+  ],
+  "locations": []
 }

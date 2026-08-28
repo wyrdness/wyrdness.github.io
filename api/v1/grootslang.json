@@ -3,6 +3,7 @@
   "name": "Grootslang",
   "category": "cryptid",
   "description": "The Grootslang is a giant serpent of South African folklore, said to inhabit a deep cave (the 'Wonder Hole') in the Richtersveld and to guard a hoard of diamonds.",
+  "full_description": "The Grootslang (Afrikaans: 'great snake') is a legendary serpent of the Richtersveld region of the Northern Cape, South Africa. Local Khoekhoe and settler tradition describes it as enormous — Lawrence G. Green's 1936 book Grow Lovely, Growing Old and F. C. Cornell's 1920 The Glamour of Prospecting record claims of a serpent forty to fifty feet long leaving tracks three feet wide. The creature is said to dwell in a particular cave, the so-called 'Wonder Hole' or 'Bottomless Pit', which 19th-century prospector lore connected by underground passages either to the Atlantic or to the Orange River. According to Cornell and Green, settler tradition held that the cave's diamonds were either guarded by, or inhabited by, the Grootslang. The disappearance in 1917 of businessman Peter Grayson at the Wonder Hole was associated, in some retellings, with the creature. Green himself proposed that the legend originated in exaggerated reports of large native African pythons (Python natalensis) reaching up to twenty-five feet, with the supernatural and elephantine elements added in oral and printed retelling. Modern cryptozoological accounts (notably Carol Rose, Giants, Monsters and Dragons, 2000) introduce the elephant-headed and trunked variant of the Grootslang, but this hybrid form does not appear in the older Cornell / Green sources.",
   "aliases": [
     {
       "name": "Grootslang",
@@ -31,5 +32,105 @@
   "origin": "South African folklore confined to the Richtersveld region of the Northern Cape, especially the cave called the Wonder Hole.",
   "first_reported": "1920",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Afrikaans / Dutch grootslang, from groot ('great') + slang ('snake').",
+    "meaning": "'Great snake' or 'big serpent'.",
+    "first_use": "Western print: F. C. Cornell, The Glamour of Prospecting (1920); recorded earlier in Khoekhoe oral tradition."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "1917",
+      "event": "Disappearance of businessman Peter Grayson near the Wonder Hole",
+      "significance": "Anchor incident in modern Grootslang legend",
+      "source": "Wikipedia, 'Grootslang'"
+    },
+    {
+      "date": "1920",
+      "event": "F. C. Cornell publishes The Glamour of Prospecting, recording Grootslang and Wonder Hole stories",
+      "significance": "First major Western print account",
+      "source": "Cornell, F. C. (1920)"
+    },
+    {
+      "date": "1936",
+      "event": "Lawrence G. Green publishes Grow Lovely, Growing Old with detailed Grootslang and Wonder Hole material",
+      "significance": "Most-cited mid-20th-century source",
+      "source": "Green, L. G. (1936)"
+    },
+    {
+      "date": "2000",
+      "event": "Carol Rose's Giants, Monsters and Dragons codifies the elephantine-serpent hybrid version of the Grootslang in English-language reference",
+      "significance": "Origin of the modern hybrid description circulated online",
+      "source": "Rose, C. (2000)"
+    }
+  ],
+  "related": [
+    {
+      "id": "inkanyamba",
+      "name": "Inkanyamba",
+      "relationship": "similar",
+      "description": "Zulu and Xhosa serpentine water-spirit of the eastern South African highlands"
+    },
+    {
+      "id": "mokele-mbembe",
+      "name": "Mokele-Mbembe",
+      "relationship": "similar",
+      "description": "Central African cryptid said to inhabit Likouala-aux-Herbes"
+    },
+    {
+      "id": "lukwata",
+      "name": "Lukwata",
+      "relationship": "similar",
+      "description": "Lake Victoria serpentine cryptid"
+    }
+  ],
+  "cultural_notes": "Locally: a serious cautionary tale about the dangers of remote caves and prospecting in the Richtersveld.",
+  "sources": [
+    {
+      "id": "wikipedia-grootslang",
+      "type": "website",
+      "title": "Grootslang",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Grootslang",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "cornell-1920",
+      "type": "book",
+      "title": "The Glamour of Prospecting",
+      "authors": [
+        "F. C. Cornell"
+      ],
+      "publication": "T. Fisher Unwin",
+      "date": "1920"
+    },
+    {
+      "id": "green-1936",
+      "type": "book",
+      "title": "Grow Lovely, Growing Old",
+      "authors": [
+        "Lawrence G. Green"
+      ],
+      "publication": "Howard Timmins",
+      "date": "1936"
+    },
+    {
+      "id": "rose-2000",
+      "type": "book",
+      "title": "Giants, Monsters, and Dragons: An Encyclopedia of Folklore, Legend, and Myth",
+      "authors": [
+        "Carol Rose"
+      ],
+      "publication": "W. W. Norton",
+      "date": "2000",
+      "isbn": "978-0393322118"
+    }
+  ],
+  "locations": []
 }

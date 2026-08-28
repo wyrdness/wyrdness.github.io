@@ -3,6 +3,7 @@
   "name": "Trolls",
   "category": "fae_folklore",
   "description": "Trolls are supernatural beings from Scandinavian and Norse folklore, typically described as large, old, strong, dim-witted humanoids dwelling in isolated mountains and caves; their defining characteristic is vulnerability to sunlight, which turns them to stone.",
+  "full_description": "Trolls are one of the most recognizable creatures in Scandinavian and Norse folklore, present throughout the Old Norse corpus and still deeply embedded in Norwegian, Swedish, Danish, and Icelandic cultural tradition. In Old Norse sources, trolls dwell in isolated mountains, rocks, and caves, rarely assist humans, and live in small family groups. They are described using the same word as jötnar (giants) and þurs in the earliest sources, suggesting significant overlap. In later Scandinavian folk tradition, trolls evolved into a more distinct creature: typically depicted as extremely old, very strong, but slow and dim-witted. Their most distinctive characteristic is their vulnerability to sunlight — exposure turns them to stone — which Scandinavian tradition uses to explain unusual rock formations throughout the landscape. Trolls are associated with mountain kidnapping (bergtagning), fear of church bells (which drive them away, reflecting their incompatibility with Christianity), and occasional cannibalism. They can, however, appear relatively human in form — not all traditions depict them as grotesque. Their danger often lies precisely in their seeming civility: they are 'not Christian, and those who encounter them do not know them,' making them inherently unpredictable. The word 'troll' derives from Old Norse troll and trǫll, meaning 'fiend, demon, werewolf, jötunn'; philologist Vladimir Orel suggests it likely comes from Proto-Germanic trullan ('to tread, step on').",
   "aliases": [
     {
       "name": "Trold",
@@ -63,5 +64,100 @@
   "origin": "Scandinavian and Norse cultural sphere. Most deeply embedded in Norwegian, Swedish, and Danish folklore. Also present in Icelandic tradition and in Norse-influenced areas including Orkney and Shetland (as 'trows').",
   "first_reported": "0900-01-01",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Old Norse troll / trǫll. Cognate with Old Swedish troll and Old Danish trold. Philologist Vladimir Orel proposes derivation from Proto-Germanic trullan ('to tread, step on'), though the ultimate origin remains uncertain.",
+    "meaning": "Fiend, demon, werewolf, giant; supernatural being. The term covered a broad range of malevolent supernatural beings in Old Norse usage.",
+    "first_use": "Old Norse literature (9th–13th century CE); the word appears throughout the Old Norse corpus including the Prose Edda and various sagas"
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "0900-01-01",
+      "event": "Troll figures appear in Old Norse Eddic poetry and skaldic verse; the term troll used for various dangerous supernatural beings including giants",
+      "significance": "Earliest surviving written attestations of the troll tradition",
+      "source": "Old Norse Eddic poetry; Prose Edda"
+    },
+    {
+      "date": "1220-01-01",
+      "event": "Snorri Sturluson compiles the Prose Edda in Iceland, preserving substantial Norse mythological material including references to troll-like beings",
+      "significance": "Primary source for Norse mythology and the supernatural beings within it",
+      "source": "Sturluson, S. (c. 1220), Prose Edda"
+    },
+    {
+      "date": "1845-01-01",
+      "event": "Peter Christen Asbjørnsen and Jørgen Moe publish Norske Folkeeventyr (Norwegian Folktales), collecting and standardizing many classic troll stories from oral tradition",
+      "significance": "Most influential collection; established the canonical modern image of the Scandinavian troll",
+      "source": "Asbjørnsen, P.C. & Moe, J. (1845), Norske Folkeeventyr"
+    },
+    {
+      "date": "1915-01-01",
+      "event": "Norwegian illustrator Theodor Kittelsen's iconic troll illustrations (primarily from the late 19th–early 20th century) become the definitive visual image of the Scandinavian troll",
+      "significance": "Visual standardization of the troll form for modern audiences",
+      "source": "Kittelsen, T. — illustrations for Asbjørnsen and Moe collections"
+    }
+  ],
+  "related": [
+    {
+      "id": "jotnar",
+      "name": "Jötnar (Giants)",
+      "relationship": "related",
+      "description": "Old Norse giants; in earliest sources, troll and jötunn terminology overlaps significantly"
+    },
+    {
+      "id": "hulder",
+      "name": "Huldrefolk",
+      "relationship": "similar",
+      "description": "Norwegian 'hidden folk'; related Scandinavian supernatural beings living in wilderness areas"
+    },
+    {
+      "id": "giants-british",
+      "name": "Giants (British/Celtic tradition)",
+      "relationship": "similar",
+      "description": "British and Celtic supernatural giants with overlapping characteristics"
+    },
+    {
+      "id": "ogre",
+      "name": "Ogre",
+      "relationship": "similar",
+      "description": "Western European folkloric giant/monster with overlapping characteristics; the two traditions influenced each other through literary transmission"
+    }
+  ],
+  "cultural_notes": "In traditional Scandinavian belief, trolls were genuine dangers of the wilderness. They represented the forces opposed to human settlement, Christian civilization, and social order. The petrification by sunlight was understood as the triumph of light over the dark and ancient forces of the mountain. Church bells drove them away because Christianity's power negated their domain.",
+  "sources": [
+    {
+      "id": "asbjornsen-moe-1845",
+      "type": "book",
+      "title": "Norske Folkeeventyr",
+      "authors": [
+        "Peter Christen Asbjørnsen",
+        "Jørgen Moe"
+      ],
+      "publication": "Johan Dahl, Christiania",
+      "date": "1845"
+    },
+    {
+      "id": "sturluson-prose-edda",
+      "type": "book",
+      "title": "Prose Edda",
+      "authors": [
+        "Snorri Sturluson"
+      ],
+      "date": "1220",
+      "notes": "Primary source for Norse mythology; compiled in Iceland c. 1220"
+    },
+    {
+      "id": "wikipedia-troll",
+      "type": "website",
+      "title": "Troll — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Troll",
+      "accessed": "2026-05-08"
+    }
+  ],
+  "locations": []
 }

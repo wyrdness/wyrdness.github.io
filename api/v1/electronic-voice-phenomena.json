@@ -3,6 +3,7 @@
   "name": "Electronic Voice Phenomena (EVP)",
   "category": "psychic_phenomena",
   "description": "Sounds present on electronic recordings that are interpreted as the voices of the dead or other discarnate entities; mainstream science treats EVP as auditory pareidolia and radio/equipment artifact, while paranormal investigators continue to record and catalogue alleged messages.",
+  "full_description": "Electronic Voice Phenomena (EVP) refers to apparent voices captured on electronic recordings — magnetic tape, digital audio, and radio — that are interpreted by listeners as communication from the dead, spirits, or other non-corporeal beings. The practice was popularized in the late 1950s and 1960s by Swedish painter and filmmaker Friedrich Jürgenson (who reported hearing his deceased father's voice on a 1959 bird-song tape) and Latvian-born psychologist Konstantīns Raudive, whose 1968/1971 book 'Breakthrough' documented over 100,000 recordings made under what he described as laboratory conditions. The technique was extended in subsequent decades through the 'Spiricom' device (William O'Neil, 1980), Frank Sumption's 'Frank's Box' / Ghost Box (2002), and the founding of the American Association of Electronic Voice Phenomena (AA-EVP) by Sarah Estep in 1982. EVP became a core technique of contemporary ghost hunting through television series such as 'Ghost Hunters'. The mainstream scientific consensus, supported by the work of Imants Barušs, James Alcock, Chris French, and others, is that the phenomenon is best explained by auditory pareidolia, radio interference, electromagnetic cross-modulation, and equipment artefacts; controlled studies have not produced anomalous voices distinguishable from chance.",
   "aliases": [
     {
       "name": "EVP",
@@ -39,5 +40,149 @@
   "origin": "EVP recording is a global phenomenon practiced across Europe, the Americas, and Asia, originating in mid-20th-century Sweden, Latvia, and the United States and spreading widely with consumer audio recorders and the internet.",
   "first_reported": "1959-06-12",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Coined in mid-20th century English-language parapsychological literature.",
+    "meaning": "Voices interpreted as appearing in electronic recordings without an evident physical source.",
+    "first_use": "Mid-20th century; popularized in English by Konstantīns Raudive's 'Breakthrough' (English ed. 1971)."
+  },
+  "sightings_stats": {
+    "total_documented": 100000,
+    "verified": 0,
+    "disputed": 100000,
+    "debunked": 0,
+    "date_range": {
+      "earliest": "1959",
+      "latest": "2026"
+    }
+  },
+  "timeline": [
+    {
+      "date": "1941",
+      "event": "Attila von Szalay begins early experiments using 78 rpm records to attempt to capture spirit voices",
+      "significance": "Pre-tape predecessor to EVP",
+      "source": "Wikipedia: Electronic voice phenomenon"
+    },
+    {
+      "date": "1956",
+      "event": "Von Szalay switches to reel-to-reel tape recorders for further experiments",
+      "significance": "Earliest tape-based EVP work",
+      "source": "Wikipedia: Electronic voice phenomenon"
+    },
+    {
+      "date": "1959-06-12",
+      "event": "Friedrich Jürgenson records bird songs in Sweden and later reports hearing voices, including that of his deceased father, on the tape",
+      "significance": "Foundational moment of modern EVP",
+      "source": "Wikipedia: Electronic voice phenomenon"
+    },
+    {
+      "date": "1968-01-01",
+      "event": "Konstantīns Raudive publishes 'Unhörbares wird hörbar' (German edition of Breakthrough)",
+      "significance": "First major book-length EVP study",
+      "source": "Wikipedia: Konstantīns Raudive"
+    },
+    {
+      "date": "1971-04-01",
+      "event": "English-language edition of Raudive's 'Breakthrough: An Amazing Experiment in Electronic Communication with the Dead' published by Colin Smythe",
+      "significance": "Brings EVP to international attention",
+      "source": "Colin Smythe Ltd / Wikipedia"
+    },
+    {
+      "date": "1980-01-01",
+      "event": "William O'Neil constructs the 'Spiricom' device with George W. Meek, claiming two-way spirit conversations",
+      "significance": "Most-publicized device-based EVP claim of its era",
+      "source": "Wikipedia: Electronic voice phenomenon"
+    },
+    {
+      "date": "1982-01-01",
+      "event": "Sarah Estep founds the American Association of Electronic Voice Phenomena (AA-EVP)",
+      "significance": "First major North American EVP organization",
+      "source": "Wikipedia: Electronic voice phenomenon"
+    },
+    {
+      "date": "2002-01-01",
+      "event": "Frank Sumption develops the 'Frank's Box' / Ghost Box, a frequency-sweeping radio receiver used for real-time EVP",
+      "significance": "Defines the modern paranormal-investigation toolkit",
+      "source": "Wikipedia: Electronic voice phenomenon"
+    },
+    {
+      "date": "2020-01-01",
+      "event": "Kenny Biddle publishes detailed skeptical reanalysis of Spiricom in Skeptical Inquirer",
+      "significance": "Major contemporary skeptical critique",
+      "source": "Skeptical Inquirer (2020)"
+    }
+  ],
+  "related": [
+    {
+      "id": "instrumental-transcommunication",
+      "name": "Instrumental Trans-Communication",
+      "relationship": "superset",
+      "description": "Broader category coined by Ernst Senkowski covering EVP plus video, telephone, and computer 'spirit' communication."
+    },
+    {
+      "id": "spirit-box",
+      "name": "Spirit Box / Ghost Box",
+      "relationship": "subset",
+      "description": "Frequency-sweeping radio device used to generate EVP-like audio in real time."
+    },
+    {
+      "id": "ghost-hunting",
+      "name": "Ghost hunting",
+      "relationship": "related",
+      "description": "Modern paranormal-investigation practice in which EVP is a core technique."
+    },
+    {
+      "id": "spiritualism",
+      "name": "Spiritualism",
+      "relationship": "related",
+      "description": "19th–20th-century movement of communication with the dead, conceptually predating EVP."
+    }
+  ],
+  "cultural_notes": "Practitioners commonly hold that the dead can use electronic media to leave brief messages for the living.",
+  "sources": [
+    {
+      "id": "wikipedia-evp",
+      "type": "website",
+      "title": "Electronic voice phenomenon",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Electronic_voice_phenomenon",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "wikipedia-raudive",
+      "type": "website",
+      "title": "Konstantīns Raudive",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Konstant%C4%ABns_Raudive",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "raudive-1971",
+      "type": "book",
+      "title": "Breakthrough: An Amazing Experiment in Electronic Communication with the Dead",
+      "authors": [
+        "Konstantin Raudive"
+      ],
+      "publication": "Colin Smythe",
+      "date": "1971",
+      "isbn": "978-0900675546"
+    },
+    {
+      "id": "encyclopedia-jurgenson",
+      "type": "website",
+      "title": "Jürgenson, Friedrich (1903-1987)",
+      "publication": "Encyclopedia.com",
+      "url": "https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/jurgenson-friedrich-1903-1987",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "encyclopedia-raudive-voices",
+      "type": "website",
+      "title": "Raudive Voices",
+      "publication": "Encyclopedia.com",
+      "url": "https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/raudive-voices",
+      "accessed": "2026-05-07"
+    }
+  ],
+  "locations": []
 }

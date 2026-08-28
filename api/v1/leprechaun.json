@@ -3,6 +3,7 @@
   "name": "Leprechaun",
   "category": "fae_folklore",
   "description": "The leprechaun is a diminutive male solitary fairy of Irish folklore, traditionally portrayed as a shoemaker who guards a hidden hoard of gold. He is descended from Old Irish luchorpán, first attested in the 8th-century saga Echtra Fergusa maic Léti.",
+  "full_description": "The leprechaun (Modern Irish leipreachán; Old Irish luchorpán) is a diminutive male solitary fairy of Irish folklore. Traditionally he appears as a small bearded man wearing a coat and hat, working as a shoemaker — usually on a single shoe — and is associated with a hidden hoard of gold (in later tradition, the gold at the end of the rainbow). The leprechaun is classed as a solitary, rather than a trooping, fairy: he keeps to himself and is found alone. His earliest attestation is in the Old Irish saga Echtra Fergusa maic Léti ('The Adventure of Fergus son of Léti'), dated to the 8th century CE, in which a king of Ulster is captured by three lúchorpáin and granted three wishes. Before the 20th century the leprechaun was generally described as wearing red, not green; the modern green-clad image is a later development reflecting Ireland's national colour and 19th- and 20th-century cultural elaboration. Popular tradition holds that whoever catches a leprechaun and does not look away will be granted wishes or led to his gold; the leprechaun's stock-in-trade is to escape by trickery.",
   "aliases": [
     {
       "name": "leipreachán",
@@ -53,5 +54,124 @@
   "origin": "Native to the folklore of Ireland; the figure is a defining feature of Irish national folklore and has been transmitted globally through the Irish diaspora and through 20th- and 21st-century popular media.",
   "first_reported": "8th century CE",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Anglo-Irish 'leprechaun' descends from Old Irish luchorpán / lupracán. One scholarly proposal is from lú ('small') + corp ('body'), so 'small-body'. A folk etymology from leith ('half') + bróg ('shoe / brogue') refers to the cobbler-of-one-shoe motif. A 2019 academic proposal by Mark Williams revives a suggestion of derivation from the Roman Luperci (Lupercalia).",
+    "meaning": "Most commonly glossed as 'small body' (from lú + corp).",
+    "first_use": "First attested in the Old Irish saga Echtra Fergusa maic Léti (8th century CE)."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0,
+    "date_range": {
+      "earliest": "8th century CE",
+      "latest": "modern"
+    }
+  },
+  "timeline": [
+    {
+      "date": "8th century CE",
+      "event": "Echtra Fergusa maic Léti — Old Irish saga in which King Fergus of Ulster is captured by three lúchorpáin who grant him three wishes; first known attestation of the figure",
+      "significance": "Earliest documentation of the leprechaun in the Old Irish corpus",
+      "source": "Wikipedia: Leprechaun"
+    },
+    {
+      "date": "1825",
+      "event": "T. Crofton Croker publishes 'Fairy Legends and Traditions of the South of Ireland', containing influential leprechaun stories including those of Carrigogunnel",
+      "significance": "Major early-19th-century English-language collection",
+      "source": "Wikipedia: Leprechaun"
+    },
+    {
+      "date": "1831",
+      "event": "Samuel Lover publishes 'Legends and Stories of Ireland', describing the leprechaun in 'a red square-cut coat, richly laced with gold'",
+      "significance": "Canonical pre-modern description of leprechaun dress (red, not green)",
+      "source": "Wikipedia: Leprechaun"
+    },
+    {
+      "date": "1888",
+      "event": "William Butler Yeats publishes 'Fairy and Folk Tales of the Irish Peasantry', recording regional leprechaun variants (Ulster, Kerry)",
+      "significance": "Standard Hiberno-English-language collection",
+      "source": "Wikipedia: Leprechaun"
+    }
+  ],
+  "related": [
+    {
+      "id": "clurichaun",
+      "name": "Clurichaun",
+      "relationship": "related",
+      "description": "Munster Irish solitary fairy associated with wine cellars; sometimes considered a drunken nocturnal version of the leprechaun"
+    },
+    {
+      "id": "far-darrig",
+      "name": "Far Darrig",
+      "relationship": "related",
+      "description": "'Red man' solitary Irish fairy"
+    },
+    {
+      "id": "aos-si",
+      "name": "Aos Sí",
+      "relationship": "superset",
+      "description": "Wider Irish fairy people; the trooping fairies, contrasted with the solitary leprechaun"
+    },
+    {
+      "id": "kobold",
+      "name": "Kobold",
+      "relationship": "similar",
+      "description": "Germanic household / mine spirit cognate to the small-fairy tradition"
+    }
+  ],
+  "cultural_notes": "The leprechaun is approached in folk belief as a creature to be bargained with rather than worshipped: capture him, do not look away, demand the gold or a wish. Modern Irish folk practice does not generally treat him as a religious figure.",
+  "sources": [
+    {
+      "id": "wikipedia-leprechaun",
+      "type": "website",
+      "title": "Leprechaun",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Leprechaun",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "yeats-1888",
+      "type": "book",
+      "title": "Fairy and Folk Tales of the Irish Peasantry",
+      "authors": [
+        "William Butler Yeats"
+      ],
+      "publication": "Walter Scott (London)",
+      "date": "1888"
+    },
+    {
+      "id": "croker-1825",
+      "type": "book",
+      "title": "Fairy Legends and Traditions of the South of Ireland",
+      "authors": [
+        "Thomas Crofton Croker"
+      ],
+      "publication": "John Murray",
+      "date": "1825"
+    },
+    {
+      "id": "lover-1831",
+      "type": "book",
+      "title": "Legends and Stories of Ireland",
+      "authors": [
+        "Samuel Lover"
+      ],
+      "publication": "W. F. Wakeman (Dublin)",
+      "date": "1831"
+    },
+    {
+      "id": "wilde-1887",
+      "type": "book",
+      "title": "Ancient Legends, Mystic Charms and Superstitions of Ireland",
+      "authors": [
+        "Lady Jane Wilde"
+      ],
+      "publication": "Ward and Downey",
+      "date": "1887"
+    }
+  ],
+  "locations": []
 }

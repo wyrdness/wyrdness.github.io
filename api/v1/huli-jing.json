@@ -3,6 +3,7 @@
   "name": "Huli jing",
   "category": "shapeshifter",
   "description": "Huli jing are supernatural fox spirits in Chinese mythology and folklore capable of shapeshifting into human form, ranging from benevolent fox immortals (huxian) to malevolent fox demons (huyao) that drain life essence from human victims.",
+  "full_description": "The huli jing (狐狸精, 'fox spirit') is a foundational supernatural being in Chinese mythology and folk religion. Foxes that have lived for many decades or centuries are believed to gain the ability to assume human form, most often appearing as beautiful women, in order to interact with — and sometimes prey upon — humans. The tradition encompasses a moral spectrum: huxian (狐仙, 'fox immortal') and hushen (狐神, 'fox god') are venerated as benevolent and protective, while huyao (狐妖, 'fox demon') seduce men to absorb their qi or yang essence. The nine-tailed fox (jiuweihu, 九尾狐) appears in the Shanhaijing and is variously read as an auspicious omen or a portent of disaster. Fox transformation is conceived as a long-term cultivation: traditional sources describe foxes able to assume a woman's form at fifty years, become beautiful at one hundred, attain enlightened transformation at five hundred, and ascend as celestial fox gods at one thousand years. The tradition feeds into the Japanese kitsune, the Korean kumiho, and the Vietnamese hồ ly tinh. The most influential literary corpus is Pu Songling's Liaozhai zhiyi (Strange Tales from a Chinese Studio, 1740), which often portrays fox spirits as sympathetic and morally complex.",
   "aliases": [
     {
       "name": "狐狸精",
@@ -68,5 +69,140 @@
   "origin": "Fox spirit traditions are distributed across the Sinosphere. The core tradition is Han Chinese, with strong fox-cult belief historically concentrated in northern China (Hebei, Shandong, Shanxi, Manchuria). Cognate traditions extend to Korea (kumiho), Japan (kitsune), and Vietnam (hồ ly tinh).",
   "first_reported": "c. 4th–1st century BCE",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Chinese 狐狸 (húli, 'fox') + 精 (jīng, 'essence, spirit'). 'Jīng' is a general Daoist term for the refined essence of a being, and animals that accumulate jīng are believed to gain supernatural powers and the ability to take human form.",
+    "meaning": "'Fox spirit' or 'fox essence'. Variants 狐仙 huxian ('fox immortal') and 狐妖 huyao ('fox demon') encode the moral split.",
+    "first_use": "The nine-tailed fox motif is attested in the Shanhaijing (Classic of Mountains and Seas, compiled c. 4th–1st century BCE)."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0,
+    "date_range": {
+      "earliest": "c. 4th c. BCE",
+      "latest": "2026"
+    }
+  },
+  "timeline": [
+    {
+      "date": "Pre-contact",
+      "event": "Compilation of the Shanhaijing, which describes the nine-tailed fox of Qingqiu",
+      "significance": "Earliest extant Chinese textual reference to the mythic fox",
+      "source": "Shanhaijing (Classic of Mountains and Seas)"
+    },
+    {
+      "date": "Pre-contact",
+      "event": "Wang Chong's Lunheng (Discourses Weighed in the Balance) discusses interspecies transformation",
+      "significance": "Early philosophical framing of animal-to-human metamorphosis",
+      "source": "Wang Chong, Lunheng (1st c. CE)"
+    },
+    {
+      "date": "Pre-contact",
+      "event": "Eastern Jin scholar Guo Pu (276–324) commentary on the Shanhaijing treats nine-tailed foxes as auspicious omens of peace",
+      "significance": "Establishes the auspicious reading of the fox alongside the demonic one",
+      "source": "Guo Pu commentary on the Shanhaijing"
+    },
+    {
+      "date": "1111-01-01",
+      "event": "Northern Song imperial edict orders the destruction of unauthorized fox shrines in Kaifeng",
+      "significance": "Documentary evidence of widespread popular fox-cult activity in the capital",
+      "source": "Song imperial records (cited in Kang 2006)"
+    },
+    {
+      "date": "1740-01-01",
+      "event": "Pu Songling's Liaozhai zhiyi (Strange Tales from a Chinese Studio) is published posthumously",
+      "significance": "Most influential literary corpus of fox-spirit tales; reframes huli jing as morally complex and often sympathetic",
+      "source": "Pu Songling, Liaozhai zhiyi"
+    },
+    {
+      "date": "2003-01-01",
+      "event": "Rania Huntington publishes Alien Kind: Foxes and Late Imperial Chinese Narrative (Harvard)",
+      "significance": "Modern scholarly synthesis of fox-spirit literature",
+      "source": "Huntington, R. (2003)"
+    },
+    {
+      "date": "2006-01-01",
+      "event": "Xiaofei Kang publishes The Cult of the Fox: Power, Gender, and Popular Religion in Late Imperial and Modern China (Columbia)",
+      "significance": "Definitive monograph on the northern Chinese fox cult",
+      "source": "Kang, X. (2006)"
+    }
+  ],
+  "related": [
+    {
+      "id": "kitsune",
+      "name": "Kitsune",
+      "relationship": "regional_variant",
+      "description": "Japanese fox spirit tradition descended in part from Chinese huli jing"
+    },
+    {
+      "id": "kumiho",
+      "name": "Kumiho",
+      "relationship": "regional_variant",
+      "description": "Korean nine-tailed fox spirit, generally darker in tone than its Chinese cognate"
+    },
+    {
+      "id": "ho-ly-tinh",
+      "name": "Hồ ly tinh",
+      "relationship": "regional_variant",
+      "description": "Vietnamese fox spirit"
+    }
+  ],
+  "cultural_notes": "Fox spirits are simultaneously dangerous (yao) and venerable (xian); the same being can be petitioned at a household shrine and feared as a seducer of scholars. Many late imperial Chinese households maintained huxian shrines for protection, divination, and healing.",
+  "sources": [
+    {
+      "id": "kang-2006",
+      "type": "book",
+      "title": "The Cult of the Fox: Power, Gender, and Popular Religion in Late Imperial and Modern China",
+      "authors": [
+        "Xiaofei Kang"
+      ],
+      "publication": "Columbia University Press",
+      "date": "2006",
+      "isbn": "978-0-231-13338-8"
+    },
+    {
+      "id": "huntington-2003",
+      "type": "book",
+      "title": "Alien Kind: Foxes and Late Imperial Chinese Narrative",
+      "authors": [
+        "Rania Huntington"
+      ],
+      "publication": "Harvard University Asia Center",
+      "date": "2003",
+      "isbn": "978-0-674-01094-9"
+    },
+    {
+      "id": "strassberg-2002",
+      "type": "book",
+      "title": "A Chinese Bestiary: Strange Creatures from the Guideways through Mountains and Seas",
+      "authors": [
+        "Richard E. Strassberg"
+      ],
+      "publication": "University of California Press",
+      "date": "2002",
+      "isbn": "978-0-520-21844-4"
+    },
+    {
+      "id": "chan-1998",
+      "type": "book",
+      "title": "The Discourse on Foxes and Ghosts: Ji Yun and Eighteenth-Century Literati Storytelling",
+      "authors": [
+        "Leo Tak-hung Chan"
+      ],
+      "publication": "Chinese University of Hong Kong Press",
+      "date": "1998",
+      "isbn": "978-962-201-749-8"
+    },
+    {
+      "id": "wikipedia-huli-jing",
+      "type": "website",
+      "title": "Huli jing",
+      "url": "https://en.wikipedia.org/wiki/Huli_jing",
+      "publication": "Wikipedia",
+      "accessed": "2026-05-07"
+    }
+  ],
+  "locations": []
 }

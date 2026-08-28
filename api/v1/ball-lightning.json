@@ -3,6 +3,7 @@
   "name": "Ball Lightning",
   "category": "atmospheric_phenomenon",
   "description": "An unexplained atmospheric electrical phenomenon described as a luminous, typically spherical object ranging from a few centimetres to over a metre across, usually associated with thunderstorms and lasting from a fraction of a second to over a minute.",
+  "full_description": "Ball lightning is a rare and poorly understood atmospheric electrical phenomenon described as a luminous, usually spherical object ranging from pea-sized to several metres across. It is most often reported during severe thunderstorms, frequently appearing within seconds of a nearby cloud-to-ground lightning strike. Reported lifetimes range from less than a second to over a minute — much longer than ordinary lightning. Witnesses describe the balls as moving horizontally a few metres per second, sometimes drifting against the wind, often passing through closed windows, walls, or aircraft fuselages, and ending either by silently fading or by a small explosive report. Despite centuries of eyewitness accounts — including the death of the Russian academician Georg Wilhelm Richmann in 1753 during atmospheric-electricity experiments in Saint Petersburg, the 1969 in-cabin observation by R. C. Jennison aboard a transatlantic aircraft, and the 2012 spectroscopic measurement of a natural ball-lightning event by Cen Jianyong, Yuan Ping, and Xue Simin in Qinghai (Lanzhou Northwest Normal University team) — there is no widely accepted physical explanation. Proposed mechanisms include vaporised silicon nanoparticle aerosols, microwave-cavity plasma trapped by the lightning channel, oxidising metal aerosols, and rare hallucination effects induced by transient magnetic fields from nearby strikes. The 2012 Qinghai spectrum showed strong emission lines of silicon, iron, and calcium — supporting the silicon-vaporisation hypothesis advanced by Abrahamson and Dinniss (2000). Major ongoing research is conducted by atmospheric physicists at institutions in Russia, China, and the United States.",
   "aliases": [
     {
       "name": "Globe lightning",
@@ -40,5 +41,161 @@
   "origin": "Ball lightning has been reported globally, with high concentrations of reports in Europe, Russia, North America, and East Asia. Reports are not strongly geographically constrained but track regions with frequent thunderstorm activity and engaged scientific reporting cultures.",
   "first_reported": "Antiquity",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "English compound: 'ball' + 'lightning'. Literal description of the spherical luminous form.",
+    "meaning": "A spherical lightning-like luminous object.",
+    "first_use": "English term in widespread use from the 19th century; phenomenon noted in classical antiquity (e.g. Aristotle)."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0,
+    "date_range": {
+      "earliest": "1638-10-21",
+      "latest": "2012-07"
+    }
+  },
+  "timeline": [
+    {
+      "date": "1638-10-21",
+      "event": "Great Thunderstorm at Widecombe-in-the-Moor, Devon, England — a luminous fireball reportedly enters the parish church killing four and injuring sixty.",
+      "significance": "Often cited as one of the earliest detailed English-language accounts.",
+      "source": "Contemporary accounts collected by Thomas Foster (1638) and later atmospheric-physics reviews (e.g. Stenhoff 1999)."
+    },
+    {
+      "date": "1753-08-06",
+      "event": "Russian academician Georg Wilhelm Richmann is killed in Saint Petersburg by what is generally interpreted as a ball-lightning event during atmospheric-electricity experiments with a kite.",
+      "significance": "First scientifically reported fatal ball-lightning event.",
+      "source": "Contemporary reports of the Saint Petersburg Academy of Sciences."
+    },
+    {
+      "date": "1838",
+      "event": "François Arago publishes a major review of luminous atmospheric phenomena (later collected in his Œuvres complètes), assembling many ball-lightning reports.",
+      "significance": "First major scientific synthesis.",
+      "source": "François Arago, 'Sur le tonnerre', Annuaire du Bureau des Longitudes (1838)."
+    },
+    {
+      "date": "1963",
+      "event": "R. C. Jennison observes a glowing sphere ~22 cm in diameter inside the cabin of a passenger aircraft over the Atlantic.",
+      "significance": "Widely cited modern in-aircraft observation.",
+      "source": "R. C. Jennison, 'Ball Lightning', Nature 224, 895 (1969)."
+    },
+    {
+      "date": "2000",
+      "event": "John Abrahamson and James Dinniss publish the 'silicon nanoparticle' hypothesis in Nature.",
+      "significance": "Influential modern theoretical proposal.",
+      "source": "Abrahamson, J. & Dinniss, J., Nature 403, 519-521 (2000), doi:10.1038/35000525."
+    },
+    {
+      "date": "2012-07",
+      "event": "Cen Jianyong, Yuan Ping, and Xue Simin (Lanzhou Northwest Normal University) record the first optical spectrum of natural ball lightning during a field campaign on the Qinghai Plateau.",
+      "significance": "First spectroscopic measurement of a natural event; consistent with the silicon-vaporisation hypothesis.",
+      "source": "Cen, J., Yuan, P., Xue, S., 'Observation of the Optical and Spectral Characteristics of Ball Lightning', Physical Review Letters 112, 035001 (2014), doi:10.1103/PhysRevLett.112.035001."
+    }
+  ],
+  "related": [
+    {
+      "id": "lightning",
+      "name": "Lightning",
+      "relationship": "related",
+      "description": "Ordinary cloud-to-ground or cloud-to-cloud electrical discharge; ball lightning often follows shortly after a strike."
+    },
+    {
+      "id": "st-elmos-fire",
+      "name": "St. Elmo's Fire",
+      "relationship": "similar",
+      "description": "Glow discharge on pointed conductors during storms; sometimes confused with ball lightning."
+    },
+    {
+      "id": "earthquake-lights",
+      "name": "Earthquake lights",
+      "relationship": "similar",
+      "description": "Luminous phenomena reported around seismic events."
+    },
+    {
+      "id": "will-o-the-wisp",
+      "name": "Will-o'-the-wisp / ignis fatuus",
+      "relationship": "similar",
+      "description": "Marsh-gas luminescence sometimes confused with ball lightning in older accounts."
+    }
+  ],
+  "cultural_notes": "Long associated with omens, divine signs, or witchcraft in pre-scientific cultures; in modern usage understood as a real but unexplained natural phenomenon.",
+  "sources": [
+    {
+      "id": "wikipedia-ball-lightning",
+      "type": "website",
+      "title": "Ball lightning — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ball_lightning",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "stenhoff-1999",
+      "type": "book",
+      "title": "Ball Lightning: An Unsolved Problem in Atmospheric Physics",
+      "authors": [
+        "Mark Stenhoff"
+      ],
+      "publication": "Springer/Plenum",
+      "date": "1999",
+      "isbn": "978-0306461507"
+    },
+    {
+      "id": "singer-1971",
+      "type": "book",
+      "title": "The Nature of Ball Lightning",
+      "authors": [
+        "Stanley Singer"
+      ],
+      "publication": "Plenum Press",
+      "date": "1971"
+    },
+    {
+      "id": "abrahamson-2000",
+      "type": "paper",
+      "title": "Ball lightning caused by oxidation of nanoparticle networks from normal lightning strikes on soil",
+      "authors": [
+        "John Abrahamson",
+        "James Dinniss"
+      ],
+      "publication": "Nature 403, 519-521",
+      "date": "2000",
+      "doi": "10.1038/35000525"
+    },
+    {
+      "id": "cen-2014",
+      "type": "paper",
+      "title": "Observation of the Optical and Spectral Characteristics of Ball Lightning",
+      "authors": [
+        "Jianyong Cen",
+        "Ping Yuan",
+        "Simin Xue"
+      ],
+      "publication": "Physical Review Letters 112, 035001",
+      "date": "2014",
+      "doi": "10.1103/PhysRevLett.112.035001"
+    },
+    {
+      "id": "jennison-1969",
+      "type": "paper",
+      "title": "Ball Lightning",
+      "authors": [
+        "R. C. Jennison"
+      ],
+      "publication": "Nature 224, 895",
+      "date": "1969"
+    },
+    {
+      "id": "kapitsa-1955",
+      "type": "paper",
+      "title": "On the nature of ball lightning",
+      "authors": [
+        "Pyotr L. Kapitsa"
+      ],
+      "publication": "Doklady Akademii Nauk SSSR 101, 245-248",
+      "date": "1955"
+    }
+  ],
+  "locations": []
 }

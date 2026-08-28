@@ -3,6 +3,7 @@
   "name": "Inugami",
   "category": "entity_spirit",
   "description": "Inugami ('dog god') is a powerful and dangerous spirit familiar from Japanese folklore, created through a ritual sacrifice of a dog and bound to serve a sorcerer or family line across generations, capable of possession, curse, illness, and divination.",
+  "full_description": "Inugami (犬神, 'dog god') is one of the darker and more regionally specific entities in Japanese folklore, concentrated primarily in Kyushu, eastern Ōita, Shimane, northern Shikoku, Yamaguchi, and the Satsunan Islands through Okinawa. According to tradition, an inugami is created through a ritual involving the death of a dog: historical records describe methods including starving a dog while placing food just out of reach, then beheading it at the peak of its anguish; or burying a dog up to its neck and severing its head as it strains toward food; or having multiple dogs fight and then decapitating the survivor. The head is subsequently worshipped and becomes a powerful spirit familiar. Physically, inugami are often described as small — approximately mouse-sized or resembling small creatures like weasels or shrews — rather than dog-sized, though regional descriptions vary considerably. Once created or inherited, an inugami can possess humans (causing chest pain, limb pain, sudden swaying, and dog-like barking), inflict illness and madness, protect its owning family, curse enemies, and divine the future. The spirit is hereditary, passing through bloodlines, and families known to possess inugami were both feared for their power and subject to social discrimination — marriage into such families was widely considered taboo. The inugami can turn on its own family if not properly respected and cared for. Several mythological origin stories exist: the inugami as fragments of the nue slain by Minamoto no Yorimasa; as fragments from the sessho-seki stone split by Gennō Shinshō; or as connected to paintings by Kōbō-Daishi. In Tanegashima, the 'inugami-tsure' practice involved transferring an inugami to another household.",
   "aliases": [
     {
       "name": "犬神",
@@ -56,5 +57,61 @@
   "origin": "Concentrated in western Japan, particularly Kyushu, Shikoku, and associated island chains. Belief strongest in eastern Ōita, Shimane, northern Shikoku (Kōchi), Yamaguchi, all of Kyushu, and the Satsunan Islands through Okinawa.",
   "first_reported": "794-01-01",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Japanese compound: 犬 (inu, dog) + 神 (kami/gami, god or spirit). Alternative kanji 狗神 is also used. Regional pronunciations include ingami (Miyazaki/Kumamoto) and irigami (Tanegashima).",
+    "meaning": "Literally 'dog god' or 'dog spirit'; the name reflects the entity's origin from a sacrificed dog whose spirit is elevated to supernatural power through ritual.",
+    "first_use": "Inugami traditions are documented in Japanese historical and folklore records of the Heian period (794–1185), when kodoku rituals were explicitly forbidden."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "794-01-01",
+      "event": "Kodoku rituals (including practices related to inugami creation) formally prohibited during the Heian period",
+      "significance": "Earliest dated legal record indicating the practices were prevalent enough to require prohibition",
+      "source": "Wikipedia / Inugami article"
+    },
+    {
+      "date": "1185-01-01",
+      "event": "Legend: inugami originate from fragments of the nue slain by Minamoto no Yorimasa that scattered across Japan",
+      "significance": "Mythological origin story documented in medieval tradition",
+      "source": "Wikipedia / Inugami article"
+    }
+  ],
+  "related": [
+    {
+      "id": "kitsune",
+      "name": "Kitsune",
+      "relationship": "similar",
+      "description": "Japanese fox spirit; fox possession (kitsunetsuki) is the most frequently cited parallel to inugami possession"
+    },
+    {
+      "id": "impundulu",
+      "name": "Impundulu",
+      "relationship": "similar",
+      "description": "South African witch familiar passed hereditarily through female lineages; functional parallel"
+    },
+    {
+      "id": "kodoku",
+      "name": "Kodoku",
+      "relationship": "related",
+      "description": "Broader Chinese and Japanese class of poison-magic rituals from which inugami-creation derives"
+    }
+  ],
+  "cultural_notes": "In traditional belief in western Japan, families with inugami are both feared for their power and avoided as marriage partners. Possession by an inugami is a recognized folk diagnosis for certain symptoms of illness and behavioral change. The inugami's loyalty is conditional on proper respect and ritual maintenance.",
+  "sources": [
+    {
+      "id": "wikipedia-inugami",
+      "type": "website",
+      "title": "Inugami",
+      "url": "https://en.wikipedia.org/wiki/Inugami",
+      "accessed": "2026-05-08"
+    }
+  ],
+  "locations": []
 }

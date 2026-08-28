@@ -3,6 +3,7 @@
   "name": "Chimera",
   "category": "mythological_creature",
   "description": "The Chimera is a fire-breathing hybrid monster of Greek mythology, with a lion's body and head, a goat's head rising from its back, and a serpent for a tail. The hero Bellerophon slew it riding the winged horse Pegasus.",
+  "full_description": "The Chimera (Ancient Greek: Chímaira, 'she-goat') is one of the most distinctive monsters of Greek mythology. Homer's Iliad describes it as 'a thing of immortal make, not human, lion-fronted and snake behind, a goat in the middle, and snorting out the breath of the terrible flame of bright fire.' Hesiod, in the Theogony, gives it three heads — lion, goat, and serpent (or dragon) — and names its parents as the monstrous Typhon and Echidna; its siblings include the Hydra, Cerberus, and Orthrus. The Chimera ravaged the kingdom of Lycia in Asia Minor until King Iobates ordered the hero Bellerophon to kill it, expecting him to die in the attempt. Mounted on the winged horse Pegasus, Bellerophon attacked from the air and slew the creature, in some versions by lodging a lump of lead in its throat that melted in its fiery breath. From classical antiquity onward the Chimera became a paradigm of the hybrid monstrous, lending its name to chimerism in genetics and to the general English sense of an impossible or fantastic combination.",
   "aliases": [
     {
       "name": "Chímaira",
@@ -36,5 +37,183 @@
   "origin": "Mythologically located in ancient Lycia in southwestern Anatolia (modern Antalya Province, Turkey). The cultural distribution of the myth covers the entire ancient Greek and Roman world and, through them, all of Western literary tradition.",
   "first_reported": "0750-01-01",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "From Ancient Greek Chímaira (Χίμαιρα), the feminine form of chímaros, 'he-goat'. The same root underlies the Latin chimaera and English 'chimera'.",
+    "meaning": "Literally 'she-goat'; by extension, in Greek usage, a yearling goat that had survived one winter.",
+    "first_use": "Earliest extant occurrence in Homer's Iliad (8th century BC), Books 6 and 16."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0,
+    "date_range": {
+      "earliest": "Mythological",
+      "latest": "Mythological"
+    }
+  },
+  "timeline": [
+    {
+      "date": "c. 8th century BC",
+      "event": "Homer's Iliad (Books 6 and 16) names the Chimera and the slaying by Bellerophon",
+      "significance": "Earliest surviving literary reference",
+      "source": "Homer, Iliad"
+    },
+    {
+      "date": "c. 700 BC",
+      "event": "Hesiod, Theogony 319–325, gives parentage (Typhon and Echidna) and three-headed form",
+      "significance": "Canonical genealogy of the monster",
+      "source": "Hesiod, Theogony"
+    },
+    {
+      "date": "c. 670 BC",
+      "event": "Proto-Corinthian vase painters establish the standard Chimera iconography",
+      "significance": "Anchors the visual tradition; specific painters dubbed 'the Chimaera Painter'",
+      "source": "Greek vase corpus"
+    },
+    {
+      "date": "c. 400 BC",
+      "event": "Etruscan bronze Chimera of Arezzo is cast",
+      "significance": "Most celebrated ancient sculptural representation; rediscovered in 1553",
+      "source": "Museo Archeologico Nazionale, Florence"
+    },
+    {
+      "date": "c. 30 BC",
+      "event": "Virgil places a Chimera among the monsters at the gates of the Underworld in Aeneid VI",
+      "significance": "Latin literary canonization",
+      "source": "Virgil, Aeneid"
+    },
+    {
+      "date": "c. AD 77",
+      "event": "Pliny the Elder, Natural History II.106, identifies Mount Chimaera in Lycia as a place of perpetual fire",
+      "significance": "First explicit naturalistic explanation of the myth",
+      "source": "Pliny, Naturalis Historia"
+    }
+  ],
+  "related": [
+    {
+      "id": "cerberus",
+      "name": "Cerberus",
+      "relationship": "related",
+      "description": "Three-headed hound of Hades; sibling of the Chimera in Hesiod"
+    },
+    {
+      "id": "hydra",
+      "name": "Lernaean Hydra",
+      "relationship": "related",
+      "description": "Many-headed serpent slain by Heracles; sibling of the Chimera"
+    },
+    {
+      "id": "sphinx",
+      "name": "Sphinx",
+      "relationship": "related",
+      "description": "Riddling lion-bodied hybrid; offspring of Orthrus and the Chimera in Hesiod"
+    },
+    {
+      "id": "cockatrice",
+      "name": "Cockatrice",
+      "relationship": "similar",
+      "description": "Medieval European hybrid serpent-bird, sometimes used as a generic 'chimera'"
+    },
+    {
+      "id": "manticore",
+      "name": "Manticore",
+      "relationship": "similar",
+      "description": "Persian lion-human-scorpion hybrid in the same general 'composite monster' tradition"
+    }
+  ],
+  "cultural_notes": "In antiquity the Chimera was understood as a real monster of mythic time, while later Greek and Roman writers (Pliny, Strabo) treated it as a poetic figure for the natural fires of Lycia.",
+  "sources": [
+    {
+      "id": "wikipedia-chimera",
+      "type": "website",
+      "title": "Chimera (mythology)",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Chimera_(mythology)",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "homer-iliad",
+      "type": "book",
+      "title": "Iliad",
+      "authors": [
+        "Homer"
+      ],
+      "date": "c. 8th century BC",
+      "notes": "Books 6 and 16 contain the earliest references to the Chimera and Bellerophon"
+    },
+    {
+      "id": "hesiod-theogony",
+      "type": "book",
+      "title": "Theogony",
+      "authors": [
+        "Hesiod"
+      ],
+      "date": "c. 700 BC",
+      "notes": "Lines 319–325 describe the Chimera, parentage, and offspring"
+    },
+    {
+      "id": "apollodorus-bibliotheca",
+      "type": "book",
+      "title": "Bibliotheca",
+      "authors": [
+        "Pseudo-Apollodorus"
+      ],
+      "date": "1st–2nd century AD",
+      "notes": "Book 2.3 narrates Bellerophon and the Chimera"
+    },
+    {
+      "id": "pliny-naturalis",
+      "type": "book",
+      "title": "Naturalis Historia",
+      "authors": [
+        "Pliny the Elder"
+      ],
+      "date": "AD 77",
+      "notes": "II.106 identifies Mount Chimaera in Lycia with the perpetual fires"
+    },
+    {
+      "id": "mayor-2000",
+      "type": "book",
+      "title": "The First Fossil Hunters: Paleontology in Greek and Roman Times",
+      "authors": [
+        "Adrienne Mayor"
+      ],
+      "publication": "Princeton University Press",
+      "date": "2000",
+      "isbn": "978-0691058634"
+    },
+    {
+      "id": "hosgormez-2007",
+      "type": "paper",
+      "title": "Origin of the natural gas seep of Çıralı (Chimera), Turkey",
+      "authors": [
+        "Hakan Hoşgörmez"
+      ],
+      "publication": "Geofluids",
+      "date": "2007",
+      "doi": "10.1111/j.1468-8123.2006.00170.x"
+    },
+    {
+      "id": "theoi-khimaira",
+      "type": "website",
+      "title": "Khimaira",
+      "publication": "Theoi Greek Mythology",
+      "url": "https://www.theoi.com/Ther/Khimaira.html",
+      "accessed": "2026-05-07"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Yanartaş (Mount Chimaera)",
+      "lat": 36.4286,
+      "lng": 30.4694
+    },
+    {
+      "name": "Arezzo",
+      "lat": 43.4633,
+      "lng": 11.8796
+    }
+  ]
 }

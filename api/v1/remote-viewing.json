@@ -3,6 +3,7 @@
   "name": "Remote Viewing",
   "category": "psychic_phenomena",
   "description": "A claimed psychic ability to perceive distant or unseen targets, studied in U.S. government-funded research programmes from 1972 to 1995 and concluded by independent review to lack reliable evidence.",
+  "full_description": "Remote viewing is the claimed practice of obtaining impressions of remote or hidden targets using only the mind. The term was introduced in 1971 by physicists Russell Targ and Harold Puthoff at the Stanford Research Institute (SRI) in Menlo Park, California, in collaboration with the artist and self-described psychic Ingo Swann. From 1972, SRI received funding from the Central Intelligence Agency (CIA) and later the Defense Intelligence Agency (DIA) to investigate possible intelligence applications. The classified programme passed under several codenames — Gondola Wish, Grill Flame, Center Lane, Sun Streak, and finally Stargate Project — and ran until its closure in 1995, when a CIA-commissioned evaluation by the American Institutes for Research (AIR), with statistician Jessica Utts and psychologist Ray Hyman, concluded that remote viewing had not produced actionable intelligence and that earlier positive results were attributable to methodological flaws. The mainstream scientific community treats remote viewing as pseudoscience.",
   "aliases": [
     {
       "name": "RV",
@@ -48,5 +49,178 @@
   "origin": "Research has been conducted primarily in the United States, with related parapsychological work in the United Kingdom, the Netherlands, the former Soviet Union, and elsewhere. Government interest is documented for the United States and (in declassified records) for the Soviet Union.",
   "first_reported": "1971-12-01",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Coined in December 1971 at the American Society for Psychical Research, New York, by Russell Targ, Harold Puthoff, and Ingo Swann to describe a structured experimental protocol distinct from older parapsychological terms such as 'travelling clairvoyance' or 'astral projection'.",
+    "meaning": "'Remote' (at a distance from the subject) and 'viewing' (perceiving) — perceiving a target at distance.",
+    "first_use": "1971; first appears in print in early SRI reports and in Targ and Puthoff's 1974 Nature paper 'Information transmission under conditions of sensory shielding'."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "1971-12-01",
+      "event": "Russell Targ, Harold Puthoff, and Ingo Swann coin the term 'remote viewing' at the American Society for Psychical Research, New York",
+      "significance": "Birth of the modern term",
+      "source": "Targ, R. & Puthoff, H. E. (1977), Mind-Reach"
+    },
+    {
+      "date": "1972-01-01",
+      "event": "SRI begins CIA-funded research on remote viewing, soon expanding to Office of Naval Research and DIA contracts",
+      "significance": "Start of two decades of U.S. government RV funding",
+      "source": "CIA Stargate declassified files"
+    },
+    {
+      "date": "1974-10-18",
+      "event": "Targ and Puthoff publish 'Information transmission under conditions of sensory shielding' in Nature 252, 602–607",
+      "significance": "First peer-reviewed mainstream publication of SRI RV claims",
+      "source": "Targ & Puthoff (1974), Nature 252:602–607"
+    },
+    {
+      "date": "1978-01-01",
+      "event": "U.S. Army establishes a small operational RV unit at Fort Meade (Gondola Wish, later Grill Flame)",
+      "significance": "Operationalisation of the SRI research",
+      "source": "DIA declassified files"
+    },
+    {
+      "date": "1991-01-01",
+      "event": "Programme renamed 'Stargate Project' and transferred to the DIA; SAIC takes over the research contract",
+      "significance": "Final phase before closure",
+      "source": "CIA Stargate declassified files"
+    },
+    {
+      "date": "1995-09-01",
+      "event": "American Institutes for Research (AIR) report by Jessica Utts and Ray Hyman delivered to the CIA",
+      "significance": "Formal independent evaluation of the programme",
+      "source": "Mumford, M. D., Rose, A. M. & Goslin, D. A. (1995), AIR Report"
+    },
+    {
+      "date": "1995-11-28",
+      "event": "CIA officially terminates the Stargate Project and declassifies its existence",
+      "significance": "End of U.S. government RV programme",
+      "source": "CIA press materials, November 1995"
+    }
+  ],
+  "related": [
+    {
+      "id": "clairvoyance",
+      "name": "Clairvoyance",
+      "relationship": "superset",
+      "description": "Broader claimed ability to perceive hidden information; remote viewing is a specific structured form"
+    },
+    {
+      "id": "astral-projection",
+      "name": "Astral Projection",
+      "relationship": "related",
+      "description": "Earlier occult tradition of out-of-body perception of distant scenes"
+    },
+    {
+      "id": "telepathy",
+      "name": "Telepathy",
+      "relationship": "related",
+      "description": "Claimed mind-to-mind information transfer, sometimes invoked to explain RV results"
+    },
+    {
+      "id": "ganzfeld-experiments",
+      "name": "Ganzfeld Experiments",
+      "relationship": "related",
+      "description": "Parapsychological telepathy paradigm contemporaneous with RV research"
+    }
+  ],
+  "cultural_notes": "Within the post-Stargate civilian RV community, RV is treated as a trainable skill; within mainstream science it is regarded as not evidenced.",
+  "sources": [
+    {
+      "id": "wikipedia-remote-viewing",
+      "type": "website",
+      "title": "Remote viewing",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Remote_viewing",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "wikipedia-stargate",
+      "type": "website",
+      "title": "Stargate Project",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Stargate_Project",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "targ-puthoff-1974",
+      "type": "paper",
+      "title": "Information transmission under conditions of sensory shielding",
+      "authors": [
+        "Russell Targ",
+        "Harold E. Puthoff"
+      ],
+      "publication": "Nature",
+      "date": "1974-10-18",
+      "doi": "10.1038/252602a0"
+    },
+    {
+      "id": "air-1995",
+      "type": "other",
+      "title": "An Evaluation of Remote Viewing: Research and Applications",
+      "authors": [
+        "Michael D. Mumford",
+        "Andrew M. Rose",
+        "David A. Goslin"
+      ],
+      "publication": "American Institutes for Research, prepared for the CIA",
+      "date": "1995-09-29"
+    },
+    {
+      "id": "marks-kammann-1980",
+      "type": "book",
+      "title": "The Psychology of the Psychic",
+      "authors": [
+        "David Marks",
+        "Richard Kammann"
+      ],
+      "publication": "Prometheus Books",
+      "date": "1980",
+      "isbn": "978-0879751227"
+    },
+    {
+      "id": "schnabel-1997",
+      "type": "book",
+      "title": "Remote Viewers: The Secret History of America's Psychic Spies",
+      "authors": [
+        "Jim Schnabel"
+      ],
+      "publication": "Dell",
+      "date": "1997",
+      "isbn": "978-0440223061"
+    },
+    {
+      "id": "jacobsen-2017",
+      "type": "book",
+      "title": "Phenomena: The Secret History of the U.S. Government's Investigations into Extrasensory Perception and Psychokinesis",
+      "authors": [
+        "Annie Jacobsen"
+      ],
+      "publication": "Little, Brown",
+      "date": "2017",
+      "isbn": "978-0316349369"
+    },
+    {
+      "id": "cia-stargate",
+      "type": "archive",
+      "title": "Stargate Project declassified files",
+      "publication": "CIA CREST collection",
+      "url": "https://www.cia.gov/readingroom/collection/stargate",
+      "accessed": "2026-05-07"
+    }
+  ],
+  "locations": [
+    {
+      "name": "SRI International (Stanford Research Institute)",
+      "lat": 37.4555,
+      "lng": -122.1825
+    }
+  ]
 }

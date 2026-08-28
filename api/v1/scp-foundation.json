@@ -3,6 +3,7 @@
   "name": "SCP Foundation",
   "category": "urban_legend",
   "description": "A collaborative online horror-fiction project, begun on 4chan's /x/ board in 2007 and given its own wiki in 2008, in which thousands of authors document a fictional 'Foundation' that secures, contains, and protects anomalous objects and entities. All content is published under CC BY-SA.",
+  "full_description": "The SCP Foundation is a collaborative writing project hosted at scp-wiki.wikidot.com (the SCP Wiki). Within its shared fiction, the Foundation is a secret international organisation that 'secures, contains, and protects' anomalous objects, entities, locations and phenomena that violate normal physical or biological laws, in order to prevent societal disruption. The project began on 22 June 2007 when an anonymous 4chan /x/ user later identified as Wesley 'Moto42' Williams posted SCP-173, an immobile concrete sculpture (referencing a real artwork by Izumi Kato) that kills any unobserved person within line-of-sight. Other anonymous writers responded with further faux-clinical containment files in the same format, and the corpus was migrated to its own EditThis wiki in early 2008 and then to the dedicated SCP Wiki on Wikidot in July 2008. The project has grown into one of the largest extant works of collaborative fiction, with the main SCP series now exceeding 9,000 numbered articles plus thousands of 'Tales' and translated branches in dozens of languages. SCPs are sorted by 'Object Class' (Safe, Euclid, Keter, Thaumiel, Apollyon, Neutralized, etc.) and by individual style; articles are formatted as redacted internal documents. All content is licensed CC BY-SA, which has enabled extensive video-game (SCP – Containment Breach, SCP: Secret Laboratory, Control), animation, tabletop and merchandise spin-offs. The project is widely studied as a paradigm of collaborative internet folklore.",
   "aliases": [
     {
       "name": "Special Containment Procedures Foundation",
@@ -34,5 +35,117 @@
   "origin": "Global internet phenomenon. The English SCP Wiki is the primary site; substantial translation branches exist in Russian, Korean, Japanese, Chinese (Simplified and Traditional), French, German, Polish, Spanish, Portuguese, Italian, Thai, Czech, Vietnamese, Ukrainian and other languages.",
   "first_reported": "2007-06-22",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Internet horror-fiction abbreviation",
+    "meaning": "'Special Containment Procedures' (the heading of the original 4chan post for SCP-173); often re-glossed in-universe as 'Secure, Contain, Protect'",
+    "first_use": "22 June 2007 — anonymous post of SCP-173 on 4chan's /x/ board"
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "2007-06-22",
+      "event": "Anonymous user 'Moto42' (Wesley Williams) posts SCP-173 on 4chan /x/",
+      "significance": "Founding post of the SCP Foundation",
+      "source": "4chan /x/ archives; Wikipedia 'SCP Foundation'"
+    },
+    {
+      "date": "2008-01-19",
+      "event": "Initial SCP wiki created on EditThis",
+      "significance": "First dedicated wiki for the corpus; date approximate, recorded by SCP Foundation site historians",
+      "source": "SCP Wiki history pages"
+    },
+    {
+      "date": "2008-07-19",
+      "event": "SCP Wiki migrates to Wikidot at scp-wiki.wikidot.com",
+      "significance": "Establishment of the canonical home of the project",
+      "source": "SCP Wiki history pages"
+    },
+    {
+      "date": "2012-04-15",
+      "event": "Release of 'SCP – Containment Breach' (Undertow Games / Joonas Rikkonen), the breakthrough fan-made horror game",
+      "significance": "Mass-audience entry point to the SCP Foundation",
+      "source": "Undertow Games release records"
+    },
+    {
+      "date": "2017-09-13",
+      "event": "Release of 'SCP: Secret Laboratory' (Northwood Studios) on Steam",
+      "significance": "Multiplayer fan game that further broadens the audience",
+      "source": "Steam release records"
+    },
+    {
+      "date": "2019-08-27",
+      "event": "Remedy Entertainment releases 'Control', a major studio video game heavily inspired by the SCP Foundation aesthetic",
+      "significance": "Mainstream cultural acknowledgement of SCP-style worldbuilding",
+      "source": "Remedy Entertainment release records"
+    }
+  ],
+  "related": [
+    {
+      "id": "russian-sleep-experiment",
+      "name": "Russian Sleep Experiment",
+      "relationship": "similar",
+      "description": "Contemporary creepypasta with the same faux-document framing"
+    },
+    {
+      "id": "slender-man",
+      "name": "Slender Man",
+      "relationship": "similar",
+      "description": "Major early creepypasta legend that grew through collaborative authorship"
+    },
+    {
+      "id": "backrooms",
+      "name": "The Backrooms",
+      "relationship": "similar",
+      "description": "Later collaborative liminal-horror project, partly modelled on the SCP wiki"
+    },
+    {
+      "id": "creepypasta",
+      "name": "Creepypasta (genre)",
+      "relationship": "superset",
+      "description": "Wider genre of internet horror short fiction within which the SCP Foundation arose"
+    }
+  ],
+  "cultural_notes": "Treated by participants and audiences as fiction rather than reportage; the appeal is literary, not evidentiary.",
+  "sources": [
+    {
+      "id": "wikipedia-scp-foundation",
+      "type": "website",
+      "title": "SCP Foundation — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/SCP_Foundation",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "scp-wiki",
+      "type": "website",
+      "title": "SCP Foundation Wiki",
+      "url": "https://scp-wiki.wikidot.com",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "scp-173",
+      "type": "website",
+      "title": "SCP-173 — SCP Foundation",
+      "url": "https://scp-wiki.wikidot.com/scp-173",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "blank-mcneill-2018",
+      "type": "book",
+      "title": "Slender Man Is Coming: Creepypasta and Contemporary Legends on the Internet",
+      "authors": [
+        "Trevor J. Blank",
+        "Lynne S. McNeill"
+      ],
+      "publication": "Utah State University Press / University Press of Colorado",
+      "date": "2018",
+      "isbn": "978-1607327806"
+    }
+  ],
+  "locations": []
 }

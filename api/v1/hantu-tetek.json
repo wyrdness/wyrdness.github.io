@@ -3,6 +3,7 @@
   "name": "Hantu Tetek",
   "category": "entity_spirit",
   "description": "Hantu Tetek (Malay 'breast ghost'), also known as Hantu Kopek, is a female ghost in Malay folklore depicted as an old woman with grotesquely enlarged, pendulous breasts. She is said to smother victims, especially disobedient children who wander out at night, and is mainly invoked as a cautionary figure.",
+  "full_description": "Hantu Tetek, sometimes called Hantu Kopek, is a Malay female ghost known throughout Malaysia and adjacent parts of the Malay-Indonesian world. She is described as an elderly woman with extraordinarily long, sagging breasts that hang to the waist or knees — in some tellings located on her back rather than her front — which she uses as her primary weapon. Stories describe her smothering victims by enveloping them in her breasts, hiding children inside them so that searchers cannot find them, or pressing the breasts over a victim's face until they suffocate. Hantu Tetek is most often deployed as a cautionary figure: parents and elders invoke her to discourage children from wandering off after dark, playing in dangerous abandoned places, or going outside alone. The figure draws on the older Malay animist substrate that produced the broader hantu taxonomy and has been syncretized with Islamic frameworks, in which she may be classed alongside other female jinn-like spirits. While beliefs have weakened with urbanization, Hantu Tetek remains a recognizable figure in Malay-Indonesian ghost storytelling, popular media, and online folklore.",
   "aliases": [
     {
       "name": "Hantu Kopek",
@@ -37,5 +38,55 @@
   "origin": "Predominantly Malaysia, with comparable variants in Indonesia and Brunei among Malay-language communities.",
   "first_reported": "Modern oral tradition",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Malay: hantu ('ghost') + tetek ('breast', informal). The variant 'Hantu Kopek' uses kopek, a more vulgar/colloquial Malay word for breast.",
+    "meaning": "Literally 'breast ghost'.",
+    "first_use": "Embedded in Malay-Indonesian oral tradition; not documented in major colonial-era ethnographies and primarily attested in modern Malaysian folklore reportage."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [],
+  "related": [
+    {
+      "id": "hantu-pontianak",
+      "name": "Pontianak",
+      "relationship": "related",
+      "description": "Major Malay female ghost; sometimes loosely grouped with Hantu Tetek in the female-ghost category"
+    },
+    {
+      "id": "langsuir",
+      "name": "Langsuir",
+      "relationship": "related",
+      "description": "Major Malay female ghost; closely linked to Pontianak"
+    },
+    {
+      "id": "penanggalan",
+      "name": "Penanggalan",
+      "relationship": "related",
+      "description": "Detached-head Malay female vampire"
+    },
+    {
+      "id": "kuyang",
+      "name": "Kuyang",
+      "relationship": "similar",
+      "description": "Indonesian flying-head female ghost in cautionary stories"
+    }
+  ],
+  "cultural_notes": "Belief is now mostly residual; the figure functions chiefly as a cultural and storytelling reference rather than as an object of active veneration or fear.",
+  "sources": [
+    {
+      "id": "wiki-ghosts-malay-tetek",
+      "type": "website",
+      "title": "Ghosts in Malay culture",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ghosts_in_Malay_culture",
+      "accessed": "2026-05-07"
+    }
+  ],
+  "locations": []
 }

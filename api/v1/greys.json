@@ -3,6 +3,7 @@
   "name": "Grey Aliens (Greys)",
   "category": "ufo_uap",
   "description": "Greys are the most commonly reported alleged extraterrestrial entity in modern UFO and abduction literature: small, hairless humanoids with disproportionately large heads and large black eyes, central to the Betty and Barney Hill case (1961) and Whitley Strieber's Communion (1987).",
+  "full_description": "Greys (or Grey Aliens) are the dominant entity-type in late-20th-century western UFO and 'alien abduction' lore. Witnesses describe them as short (typically 3–4 feet, occasionally up to 6 feet), thin humanoids with smooth grey skin, hairless oversized heads, large black almond-shaped eyes, vestigial or absent noses, ears, and mouths, and slim limbs with three or four long fingers. They are usually reported in 'medical examination' abduction scenarios with telepathic communication, emotionless behaviour, and (especially in Budd Hopkins's and David Jacobs's writings) reproductive procedures. The Grey image consolidated through the September 1961 Betty and Barney Hill abduction case in New Hampshire — first widely reported in 1965 — and exploded into mass culture with Whitley Strieber's bestseller Communion (1987), whose Ted Seth Jacobs cover painting became iconic. Sceptics including Robert Sheaffer, Martin Kottmeyer, Carl Sagan, and Susan Clancy have argued that the Grey is a culturally-transmitted image with documentable antecedents in H. G. Wells (1893) and the Swedish novelist Gustav Sandgren (1933), and that Barney Hill's 1964 hypnotic descriptions were specifically influenced by the Outer Limits episode 'The Bellero Shield' (broadcast 10 February 1964, twelve days before the first hypnosis session).",
   "aliases": [
     {
       "name": "Greys",
@@ -43,5 +44,204 @@
   "origin": "Reports concentrated in the United States, with significant numbers in the United Kingdom, Australia, Canada, and continental Europe. Per C. D. B. Bryan's review, Greys account for ~73% of US alien-encounter reports, ~50% in Australia, ~48% in continental Europe, and ~12% in the UK.",
   "first_reported": "1961-09-19",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "American UFO subculture; the colour-based label 'grey aliens' becomes standard in English-language ufology in the late 1970s and 1980s.",
+    "meaning": "Named for the characteristic grey skin reported by witnesses.",
+    "first_use": "1960s–1970s in UFO literature; mass currency from c. 1987"
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0,
+    "date_range": {
+      "earliest": "1961-09-19",
+      "latest": "ongoing"
+    }
+  },
+  "timeline": [
+    {
+      "date": "1893",
+      "event": "H. G. Wells's essay 'The Man of the Year Million' depicts shrunken-bodied, large-headed future humans",
+      "significance": "Earliest western literary antecedent of the Grey morphology",
+      "source": "Wells, H. G. (1893)"
+    },
+    {
+      "date": "1933",
+      "event": "Gustav Sandgren's novel Den okända faran depicts small, grey-skinned, large-eyed aliens in grey clothing",
+      "significance": "Direct visual template for later Grey iconography",
+      "source": "Wikipedia, 'Grey alien'"
+    },
+    {
+      "date": "1947-07",
+      "event": "Roswell Incident: alleged crash of a 'flying disc' near Roswell, NM",
+      "significance": "Later (post-1978) retconned as a Grey-occupant story",
+      "source": "various"
+    },
+    {
+      "date": "1961-09-19",
+      "event": "Betty and Barney Hill experience the foundational US 'abduction' case while driving on US Route 3 near Lancaster, NH",
+      "significance": "Earliest widely-publicised abduction with Grey-like beings",
+      "source": "John G. Fuller, The Interrupted Journey (1966)"
+    },
+    {
+      "date": "1964-02-10",
+      "event": "Outer Limits airs 'The Bellero Shield', featuring an alien with wraparound eyes and no ears or hair",
+      "significance": "Sceptical authors (Kottmeyer) link this directly to Barney Hill's 22 February 1964 hypnotic description",
+      "source": "ABC broadcast"
+    },
+    {
+      "date": "1966",
+      "event": "John G. Fuller publishes The Interrupted Journey, the first abduction bestseller",
+      "significance": "Brings Hill case and Grey description to mass audience",
+      "source": "Fuller, J. G. (1966), The Interrupted Journey"
+    },
+    {
+      "date": "1975-10-20",
+      "event": "NBC airs The UFO Incident, dramatising the Hill abduction with William Shatner and Estelle Parsons",
+      "significance": "Television cements the Grey image",
+      "source": "NBC broadcast"
+    },
+    {
+      "date": "1987",
+      "event": "Whitley Strieber publishes Communion: A True Story (Beech Tree/William Morrow); Ted Seth Jacobs's Grey portrait appears on the cover",
+      "significance": "Communion becomes a #1 New York Times bestseller; cover image becomes the canonical Grey",
+      "source": "Strieber, W. (1987), Communion"
+    },
+    {
+      "date": "1989",
+      "event": "Communion film adaptation released, starring Christopher Walken",
+      "significance": "Reinforces Grey iconography in popular cinema",
+      "source": "Communion (film, 1989)"
+    },
+    {
+      "date": "1993",
+      "event": "The X-Files debuts on Fox, with Greys as recurring antagonists",
+      "significance": "Locks in the cultural-default alien",
+      "source": "Fox broadcast"
+    }
+  ],
+  "related": [
+    {
+      "id": "nordics",
+      "name": "Nordic aliens",
+      "relationship": "counterpart",
+      "description": "Tall, fair-haired humanoid alien type also reported in UFO lore"
+    },
+    {
+      "id": "reptilians",
+      "name": "Reptilians",
+      "relationship": "counterpart",
+      "description": "Reptilian humanoid alien type"
+    },
+    {
+      "id": "mantids",
+      "name": "Mantis beings",
+      "relationship": "related",
+      "description": "Insectoid alien type often reported alongside Greys"
+    },
+    {
+      "id": "ufo-uap",
+      "name": "UFO/UAP",
+      "relationship": "superset",
+      "description": "Greys are the most-reported entity-type within the broader UFO phenomenon"
+    }
+  ],
+  "cultural_notes": "Within UFO subculture, Greys are widely treated as real extraterrestrial visitors; outside it they function as the default cultural symbol of 'alien'.",
+  "sources": [
+    {
+      "id": "wikipedia-grey-alien",
+      "type": "website",
+      "title": "Grey alien",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Grey_alien",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "wikipedia-hill-incident",
+      "type": "website",
+      "title": "Barney and Betty Hill incident",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Barney_and_Betty_Hill_incident",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "fuller-1966",
+      "type": "book",
+      "title": "The Interrupted Journey: Two Lost Hours Aboard a Flying Saucer",
+      "authors": [
+        "John G. Fuller"
+      ],
+      "publication": "Dial Press",
+      "date": "1966"
+    },
+    {
+      "id": "strieber-1987",
+      "type": "book",
+      "title": "Communion: A True Story",
+      "authors": [
+        "Whitley Strieber"
+      ],
+      "publication": "Beech Tree / William Morrow",
+      "date": "1987",
+      "isbn": "978-0688070861"
+    },
+    {
+      "id": "hopkins-1987",
+      "type": "book",
+      "title": "Intruders: The Incredible Visitations at Copley Woods",
+      "authors": [
+        "Budd Hopkins"
+      ],
+      "publication": "Random House",
+      "date": "1987",
+      "isbn": "978-0394560762"
+    },
+    {
+      "id": "mack-1994",
+      "type": "book",
+      "title": "Abduction: Human Encounters with Aliens",
+      "authors": [
+        "John E. Mack"
+      ],
+      "publication": "Charles Scribner's Sons",
+      "date": "1994",
+      "isbn": "978-0684194356"
+    },
+    {
+      "id": "clancy-2005",
+      "type": "book",
+      "title": "Abducted: How People Come to Believe They Were Kidnapped by Aliens",
+      "authors": [
+        "Susan A. Clancy"
+      ],
+      "publication": "Harvard University Press",
+      "date": "2005",
+      "isbn": "978-0674018792"
+    },
+    {
+      "id": "sagan-1995",
+      "type": "book",
+      "title": "The Demon-Haunted World: Science as a Candle in the Dark",
+      "authors": [
+        "Carl Sagan"
+      ],
+      "publication": "Random House",
+      "date": "1995",
+      "isbn": "978-0394535128"
+    }
+  ],
+  "locations": [
+    {
+      "name": "White Mountains, New Hampshire",
+      "lat": 44.4886,
+      "lng": -71.5731
+    },
+    {
+      "name": "Roswell, New Mexico",
+      "lat": 33.3943,
+      "lng": -104.523
+    }
+  ]
 }

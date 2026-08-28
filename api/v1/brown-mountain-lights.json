@@ -3,6 +3,7 @@
   "name": "Brown Mountain Lights",
   "category": "atmospheric_phenomenon",
   "description": "The Brown Mountain Lights are recurrent unexplained or partially-explained light phenomena observed from overlooks facing Brown Mountain in Burke County, North Carolina, with documented observations dating to the early 20th century and a Cherokee oral tradition that may predate them.",
+  "full_description": "The Brown Mountain Lights are a long-running ghost-lights phenomenon observed in the Blue Ridge Mountains of western North Carolina. Witnesses describe pale, often steady or slowly-moving lights — variously white, yellow, red, or blue — that appear to rise from the slopes of Brown Mountain when viewed from elevated overlooks along NC Highway 181 and the Blue Ridge Parkway. The earliest published references date to around 1910–1913, coinciding with the rapid spread of electric lighting and railroad expansion in the area. A 1913 U.S. Geological Survey investigation by D. B. Sterrett and a more thorough 1922 USGS study by George R. Mansfield concluded that most observed lights were attributable to distant locomotive headlights (Southern Railway upgraded to 600,000-candlepower headlamps in 1909), automobile headlights, brush fires, and stationary house lights refracted through atmospheric layers. Cherokee oral tradition includes stories of mysterious lights on the mountain, though their pre-1900 documentary attestation is contested. A 2014 Appalachian State University low-light camera deployment by physicist Daniel Caton accumulated thousands of observation hours without capturing an unambiguous unexplained light. The phenomenon thus stands as 'partially explained': individual contemporary sightings can usually be matched to mundane sources, while a residual minority of pre-modern reports — and the cultural tradition itself — remain unresolved.",
   "aliases": [
     {
       "name": "Brown Mountain Ghost Lights",
@@ -28,5 +29,118 @@
   "origin": "A localized ridge phenomenon in Burke County, western North Carolina, observed from overlooks in the Pisgah National Forest and along the Blue Ridge Parkway.",
   "first_reported": "circa 1910",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Named for Brown Mountain, a low ridge in the Pisgah National Forest of Burke County, North Carolina.",
+    "meaning": "'Brown Mountain Lights' simply denotes the light phenomenon associated with the named mountain.",
+    "first_use": "Common usage by the early 20th century; popularised in print after the 1913 USGS investigation."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0,
+    "date_range": {
+      "earliest": "1910",
+      "latest": "2026"
+    }
+  },
+  "timeline": [
+    {
+      "date": "1913",
+      "event": "U.S. Geological Survey employee D. B. Sterrett investigates and attributes the lights primarily to locomotive headlights of the Southern Railway",
+      "significance": "First scientific investigation",
+      "source": "USGS / Sterrett report (1913)"
+    },
+    {
+      "date": "1922",
+      "event": "George R. Mansfield (USGS) conducts a more thorough alidade-survey study, mapping observed lights to distant trains, automobile headlights, brush fires, and stationary lights",
+      "significance": "Most rigorous early scientific study; provides the dominant skeptical explanation",
+      "source": "Mansfield, G. R. (1922), USGS report"
+    },
+    {
+      "date": "1925",
+      "event": "Composition and recording of 'The Legend of the Brown Mountain Lights' (later popularised by Tommy Faile and Scotty Wiseman)",
+      "significance": "Anchors the lights in Appalachian musical tradition",
+      "source": "Tommy Faile / Scotty Wiseman recordings"
+    },
+    {
+      "date": "2014",
+      "event": "Daniel Caton (Appalachian State University) deploys low-light cameras at multiple overlooks for systematic monitoring",
+      "significance": "First sustained instrumented modern study",
+      "source": "Appalachian State University Physics & Astronomy"
+    }
+  ],
+  "related": [
+    {
+      "id": "marfa-lights",
+      "name": "Marfa Lights",
+      "relationship": "similar",
+      "description": "Texas ghost-lights phenomenon, similarly attributed largely to distant headlights"
+    },
+    {
+      "id": "hessdalen-lights",
+      "name": "Hessdalen Lights",
+      "relationship": "similar",
+      "description": "Norwegian valley light phenomenon under active scientific monitoring"
+    },
+    {
+      "id": "min-min-lights",
+      "name": "Min Min Lights",
+      "relationship": "similar",
+      "description": "Australian outback ghost-light tradition, often attributed to mirage of distant lights"
+    },
+    {
+      "id": "earthquake-lights",
+      "name": "Earthquake lights",
+      "relationship": "related",
+      "description": "Geophysical luminous phenomena occasionally proposed as explanation for ghost lights"
+    }
+  ],
+  "cultural_notes": "Local culture treats the lights as a familiar feature of the landscape — sometimes spiritual, sometimes simply mysterious — and integrates them into regional identity.",
+  "sources": [
+    {
+      "id": "wikipedia-brown-mountain-lights",
+      "type": "website",
+      "title": "Brown Mountain Lights",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Brown_Mountain_Lights",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "mansfield-1922",
+      "type": "paper",
+      "title": "Origin of the Brown Mountain Light in North Carolina",
+      "authors": [
+        "George R. Mansfield"
+      ],
+      "publication": "U.S. Geological Survey",
+      "date": "1922"
+    },
+    {
+      "id": "asu-brown-mountain",
+      "type": "website",
+      "title": "Brown Mountain Lights monitoring program",
+      "publication": "Appalachian State University",
+      "url": "https://physics.appstate.edu/",
+      "accessed": "2026-05-07"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Brown Mountain",
+      "lat": 35.9,
+      "lng": -81.85
+    },
+    {
+      "name": "Wiseman's View",
+      "lat": 35.9444,
+      "lng": -81.9119
+    },
+    {
+      "name": "Brown Mountain Overlook (NC-181)",
+      "lat": 35.8917,
+      "lng": -81.8181
+    }
+  ]
 }

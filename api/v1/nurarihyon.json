@@ -3,6 +3,7 @@
   "name": "Nurarihyon",
   "category": "entity_spirit",
   "description": "An Edo-period Japanese yōkai depicted as an old man with an elongated, gourd-shaped head, originally an obscure figure in yōkai picture scrolls, later popularised in twentieth-century media as a refined intruder and supreme commander of yōkai.",
+  "full_description": "Nurarihyon (滑瓢, ぬらりひょん) is a Japanese yōkai whose first surviving images come from Edo-period yōkai picture scrolls (yōkai emaki), notably Sawaki Suushi's Hyakkai Zukan (1737) and Toriyama Sekien's Gazu Hyakki Yagyō. Early images show a wizened, bald, gourd-headed old man in fine kimono or Buddhist robes, often associated with a kago (palanquin), but no narrative is attached. Its now-famous behaviour — slipping into a busy household at dusk, seating himself, drinking the family's tea and being accepted as the master of the house through sheer composure — derives from a 1929 caption written by folklorist Morihiko Fujisawa under Sekien's image, identifying him as 'the chief of the yōkai who comes to visit'. Folklorists Kenji Murakami and Katsumi Tada have noted that this is a modern interpretive reading rather than a documented folktale. In Okayama Prefecture, nurarihyon appears as a different creature: a spherical floating yōkai in the Seto Inland Sea, akin to the umibōzu, that bobs out of fishermen's reach. Twentieth-century manga (notably Mizuki Shigeru's GeGeGe no Kitarō from the 1960s onward) elevated nurarihyon to 'supreme commander of all yōkai' (yōkai no sōtaishō), a status without basis in the Edo sources but now central to its popular identity, reinforced by works such as Hiroshi Shiibashi's Nura: Rise of the Yokai Clan and the antagonist of the same name in Demon Slayer (Kimetsu no Yaiba).",
   "aliases": [
     {
       "name": "Nurarihyon",
@@ -40,5 +41,132 @@
   "origin": "A pan-Japanese folklore figure; specific regional traditions in Akita Prefecture (as a member of the night parade) and Okayama Prefecture (sea-creature variant). Modern media-driven popularity is national.",
   "first_reported": "c. 1700",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Japanese; from nurari (滑り, 'slipping, slithering') + hyon (瓢, the character for gourd, also an onomatopoeia of something popping or floating up)",
+    "meaning": "Approximately 'the slippery gourd' or 'the slipping-away one', alluding both to the elongated gourd-shaped head and to the creature's elusive nature",
+    "first_use": "Documented in Edo-period yōkai picture scrolls; the Bakemono no e attributed to Kanō Motonobu's lineage (c. 1700) and Sawaki Suushi's Hyakkai Zukan (1737)"
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "c. 1700",
+      "event": "Image of nurarihyon appears in the Bakemono no e attributed to the Kanō Motonobu lineage",
+      "significance": "Earliest known visual record",
+      "source": "Wikipedia, 'Nurarihyon'"
+    },
+    {
+      "date": "1737",
+      "event": "Sawaki Suushi includes nurarihyon in Hyakkai Zukan",
+      "significance": "Standardises the gourd-headed iconography",
+      "source": "Hyakkai Zukan (1737)"
+    },
+    {
+      "date": "1776",
+      "event": "Toriyama Sekien depicts nurarihyon in Gazu Hyakki Yagyō",
+      "significance": "Popularises the figure among Edo readers",
+      "source": "Toriyama Sekien, Gazu Hyakki Yagyō"
+    },
+    {
+      "date": "1814",
+      "event": "Sugae Masumi records nurarihyon as a participant in a hyakki yagyō at Sae no Kamizaka, Akita",
+      "significance": "Earliest known textual placement in regional folklore",
+      "source": "Sugae Masumi, travel records"
+    },
+    {
+      "date": "1929",
+      "event": "Morihiko Fujisawa publishes captions identifying nurarihyon as 'the chief monster who comes to visit'",
+      "significance": "Origin of the 'master of the house' interpretation",
+      "source": "Morihiko Fujisawa (1929)"
+    },
+    {
+      "date": "1968",
+      "event": "Mizuki Shigeru begins serialising GeGeGe no Kitarō, reusing nurarihyon as a recurring character",
+      "significance": "Foundation of the modern pop-culture image",
+      "source": "Shōnen Magazine serialisation"
+    },
+    {
+      "date": "2008",
+      "event": "Hiroshi Shiibashi launches Nura: Rise of the Yokai Clan in Weekly Shōnen Jump, with nurarihyon as central protagonist's lineage",
+      "significance": "Cements the 'commander of yōkai' archetype globally",
+      "source": "Weekly Shōnen Jump"
+    }
+  ],
+  "related": [
+    {
+      "id": "umibozu",
+      "name": "Umibōzu",
+      "relationship": "related",
+      "description": "Sea-monk yōkai; in Okayama, nurarihyon is described as an umibōzu-like floating sphere"
+    },
+    {
+      "id": "hyakki-yagyo",
+      "name": "Hyakki Yagyō (Night Parade of a Hundred Demons)",
+      "relationship": "related",
+      "description": "Procession in which nurarihyon appears in Edo emaki"
+    },
+    {
+      "id": "nurikabe",
+      "name": "Nurikabe",
+      "relationship": "similar",
+      "description": "Another yōkai first popularised through Edo scrolls and Mizuki Shigeru's manga"
+    },
+    {
+      "id": "oni",
+      "name": "Oni",
+      "relationship": "related",
+      "description": "Often appears alongside nurarihyon in modern 'commander of yōkai' narratives"
+    }
+  ],
+  "cultural_notes": "Treated as a curio of yōkai literature rather than a feared spirit; modern audiences encounter it primarily through media.",
+  "sources": [
+    {
+      "id": "wiki-nurarihyon",
+      "type": "website",
+      "title": "Nurarihyon",
+      "publication": "Wikipedia, the free encyclopedia",
+      "url": "https://en.wikipedia.org/wiki/Nurarihyon",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "yokai-com-nurarihyon",
+      "type": "website",
+      "title": "Nurarihyon",
+      "publication": "yokai.com (Matthew Meyer)",
+      "url": "https://yokai.com/nurarihyon/",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "sekien-1776",
+      "type": "book",
+      "title": "Gazu Hyakki Yagyō (画図百鬼夜行)",
+      "authors": [
+        "Toriyama Sekien"
+      ],
+      "date": "1776"
+    },
+    {
+      "id": "suushi-1737",
+      "type": "book",
+      "title": "Hyakkai Zukan (百怪図巻)",
+      "authors": [
+        "Sawaki Suushi"
+      ],
+      "date": "1737"
+    },
+    {
+      "id": "natgeo-nurarihyon",
+      "type": "article",
+      "title": "The mystery of Nurarihyon, the legendary yokai behind Demon Slayer's strongest demon",
+      "publication": "National Geographic",
+      "url": "https://www.nationalgeographic.com/history/article/nurarihyon-yokai-japanese-folklore-demon-slayer",
+      "accessed": "2026-05-07"
+    }
+  ],
+  "locations": []
 }

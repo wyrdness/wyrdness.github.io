@@ -3,6 +3,7 @@
   "name": "Rumtifusel",
   "category": "cryptid",
   "description": "A fearsome critter from American lumberjack tall tales, the Rumtifusel is a flat, mink-pelted predator that drapes itself over a stump like an abandoned fur coat to lure greedy passers-by, then drains them through suckers on its underside.",
+  "full_description": "The Rumtifusel (also spelled Rumptifusel) belongs to the corpus of fearsome critters — humorous tall-tale beasts told in North American logging camps in the late 19th and early 20th centuries and catalogued in print by Henry H. Tryon in 'Fearsome Critters' (1939). It is described as large, flat, very flexible, and covered in a fine pelt resembling mink. The Rumtifusel hunts by mimicry: it drapes itself across a tree stump or fallen log so it looks like an expensive abandoned fur coat. When a 'tenderfoot' or other greedy passer-by approaches to claim the coat, the Rumtifusel — moving with deceptive speed — wraps around its victim. Its underside is lined with tiny suction pores that drain the victim until only bones remain. As with the rest of the fearsome-critter canon, the Rumtifusel is a humorous folkloric construct used for storytelling and the hazing of new lumberjacks rather than a claimed zoological animal.",
   "aliases": [
     {
       "name": "Rumptifusel",
@@ -30,5 +31,107 @@
   "origin": "Within the lumberjack tall-tale tradition, the Rumtifusel is associated with the broad logging country of the northern United States and Canada — the same generic 'lumberwoods' setting that hosts most fearsome critters.",
   "first_reported": "1939",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "American English lumberjack slang of the early 20th century; published in Tryon (1939)",
+    "meaning": "Onomatopoeic / nonsense compound; no agreed semantic gloss",
+    "first_use": "1939 (Tryon, 'Fearsome Critters'); spelling 'Rumptifusel' also widely cited"
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "1910",
+      "event": "William T. Cox publishes 'Fearsome Creatures of the Lumberwoods', the first major print catalogue of the genre",
+      "significance": "Establishes the fearsome-critters publishing tradition in which the Rumtifusel later appears",
+      "source": "Cox, W. T. (1910)"
+    },
+    {
+      "date": "1939",
+      "event": "Henry H. Tryon's 'Fearsome Critters' is published, including the Rumtifusel entry",
+      "significance": "Canonical first appearance of the Rumtifusel in print",
+      "source": "Tryon, H. H. (1939)"
+    }
+  ],
+  "related": [
+    {
+      "id": "roperite",
+      "name": "Roperite",
+      "relationship": "similar",
+      "description": "Companion fearsome critter from the same logging-camp tradition"
+    },
+    {
+      "id": "hidebehind",
+      "name": "Hidebehind",
+      "relationship": "similar",
+      "description": "Predatory fearsome critter that ambushes lumberjacks from cover"
+    },
+    {
+      "id": "agropelter",
+      "name": "Agropelter",
+      "relationship": "similar",
+      "description": "Tree-dwelling fearsome critter that drops branches on victims"
+    },
+    {
+      "id": "splintercat",
+      "name": "Splintercat",
+      "relationship": "similar",
+      "description": "Lumberjack tall-tale critter that splinters trees"
+    }
+  ],
+  "cultural_notes": "Understood by both tellers and audience as humorous fiction; the Rumtifusel functions as a moral tale about greed and unfamiliarity with the woods.",
+  "sources": [
+    {
+      "id": "tryon-1939",
+      "type": "book",
+      "title": "Fearsome Critters",
+      "authors": [
+        "Henry H. Tryon"
+      ],
+      "publication": "Idlewild Press",
+      "date": "1939"
+    },
+    {
+      "id": "cox-1910",
+      "type": "book",
+      "title": "Fearsome Creatures of the Lumberwoods, With a Few Desert and Mountain Beasts",
+      "authors": [
+        "William T. Cox"
+      ],
+      "publication": "Judd & Detweiler",
+      "date": "1910",
+      "url": "https://digitalcommons.unl.edu/nebraskianapubs/8/",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "johnson-2015",
+      "type": "book",
+      "title": "Fearsome Creatures of the Lumberwoods: 20 Chilling Tales from the Wilderness",
+      "authors": [
+        "Hal Johnson"
+      ],
+      "publication": "Workman Publishing",
+      "date": "2015",
+      "isbn": "978-0761183181"
+    },
+    {
+      "id": "lumberwoods-fc",
+      "type": "website",
+      "title": "Henry H. Tryon's 'Fearsome Critters' (digital edition)",
+      "url": "http://lib.lumberwoods.org/fc/title.html",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "abookofcreatures-rumtifusel",
+      "type": "website",
+      "title": "Rumptifusel — A Book of Creatures",
+      "url": "https://abookofcreatures.com/2019/04/15/rumptifusel/",
+      "accessed": "2026-05-07"
+    }
+  ],
+  "locations": []
 }

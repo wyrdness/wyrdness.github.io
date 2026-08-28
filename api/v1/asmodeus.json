@@ -3,6 +3,7 @@
   "name": "Asmodeus",
   "category": "demon_angel",
   "description": "A king of the demons in Jewish, Christian, and Islamic traditions, best known as the antagonist of the Book of Tobit, as a builder-figure in Talmudic legends of King Solomon, and as the goetic king Asmoday of the Lesser Key of Solomon.",
+  "full_description": "Asmodeus (Hebrew Ashmedai; Greek Asmodaios; Arabic Sakhr) is a major demon figure in Jewish, Christian, and Islamic demonology. His name probably derives from the Avestan compound aēšma-daēva, 'wrath-demon', suggesting a Zoroastrian origin or influence. He first appears in the deuterocanonical Book of Tobit (c. 2nd century BCE), where he kills the seven successive husbands of Sarah on their wedding nights and is finally driven off and bound in Egypt by the angel Raphael. In Talmudic literature he is the king of the shedim and a more mischievous figure, famously tricked by Solomon into helping build the Temple in Jerusalem before stealing Solomon's throne. Christian demonology of the late medieval and early modern period assigned him oversight of the deadly sin of lust (Peter Binsfeld; Malleus Maleficarum, 1486) and integrated him as a great king or duke into grimoiric demonology — most famously as Asmoday, king number 32 in the Ars Goetia of the Lesser Key of Solomon, ruling 72 legions, depicted with three heads (bull, man, ram), a serpent's tail, and a fire-breathing mouth, riding an infernal dragon. In Islamic tradition he appears as Sakhr ('rock'), the demon imprisoned in stone after his defeat by Solomon, central to Quranic exegesis of Sūrat Ṣād 38:34 and to the Tale of the City of Brass.",
   "aliases": [
     {
       "name": "Asmodaios",
@@ -68,5 +69,213 @@
   "origin": "A textual phenomenon distributed across the literatures of the Abrahamic world: the Hebrew Bible deuterocanon, Talmud and midrash, Christian demonology, Islamic Quranic commentary and the Arabian Nights, and Western occult grimoires. Veneration / invocation occurs only in marginal occult or magical contexts.",
   "first_reported": "0200 BCE",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Most widely accepted derivation: Avestan aēšma-daēva, 'demon of wrath', though the compound is not directly attested in surviving Avestan scripture. The Hebrew Ashmedai and Greek Asmodaios derive from this stem.",
+    "meaning": "'Demon of wrath' (Avestan); rendered in later Christian demonology as the demon of lust.",
+    "first_use": "Book of Tobit (deuterocanonical Jewish text, c. 225–175 BCE)."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0,
+    "date_range": {
+      "earliest": "200 BCE",
+      "latest": "2026"
+    }
+  },
+  "timeline": [
+    {
+      "date": "0200-01-01",
+      "event": "Book of Tobit composed; Asmodeus appears as the slayer of Sarah's bridegrooms, bound by Raphael in Egypt",
+      "significance": "First textual attestation",
+      "source": "Book of Tobit (deuterocanonical)"
+    },
+    {
+      "date": "0100-01-01",
+      "event": "Testament of Solomon develops the Asmodeus-Solomon legend",
+      "significance": "Important pseudepigraphic development",
+      "source": "Testament of Solomon"
+    },
+    {
+      "date": "0500-01-01",
+      "event": "Babylonian Talmud, tractate Gittin (68a–68b), develops the story of Solomon, Ashmedai, and the shamir worm",
+      "significance": "Canonical Jewish elaboration",
+      "source": "Babylonian Talmud, Gittin 68a–b"
+    },
+    {
+      "date": "1486-01-01",
+      "event": "Heinrich Kramer publishes the Malleus Maleficarum, naming Asmodeus the demon of lust",
+      "significance": "Codifies his role in Christian demonology of the witch-trial era",
+      "source": "Kramer, H. (1486)"
+    },
+    {
+      "date": "1577-01-01",
+      "event": "Johann Weyer publishes Pseudomonarchia Daemonum, listing Asmodeus as 'Sidonay', a king ruling 72 legions",
+      "significance": "Major early-modern grimoiric reference",
+      "source": "Weyer, J. (1577)"
+    },
+    {
+      "date": "1641-01-01",
+      "event": "Luis Vélez de Guevara publishes El diablo cojuelo, reimagining Asmodeus as a witty mischievous spirit",
+      "significance": "Key literary recasting",
+      "source": "Vélez de Guevara, L. (1641)"
+    },
+    {
+      "date": "1707-01-01",
+      "event": "Alain-René Lesage publishes Le Diable boiteux, popularising the genial 'limping devil' Asmodeus",
+      "significance": "Major 18th-century literary diffusion",
+      "source": "Lesage, A.-R. (1707)"
+    },
+    {
+      "date": "1818-01-01",
+      "event": "Jacques Collin de Plancy publishes Dictionnaire Infernal, with Louis Le Breton's classic engraved Asmodeus",
+      "significance": "Establishes the modern iconographic image",
+      "source": "Collin de Plancy, J. (1818)"
+    }
+  ],
+  "related": [
+    {
+      "id": "lilith",
+      "name": "Lilith",
+      "relationship": "related",
+      "description": "Identified in some Talmudic and Kabbalistic sources as Asmodeus's queen"
+    },
+    {
+      "id": "samael",
+      "name": "Samael",
+      "relationship": "related",
+      "description": "Senior demon in Kabbalah; some traditions place Asmodeus as his subordinate"
+    },
+    {
+      "id": "raphael",
+      "name": "Archangel Raphael",
+      "relationship": "counterpart",
+      "description": "Binder of Asmodeus in the Book of Tobit"
+    },
+    {
+      "id": "solomon",
+      "name": "King Solomon",
+      "relationship": "related",
+      "description": "Master of Asmodeus in Talmudic and Islamic traditions"
+    },
+    {
+      "id": "aeshma",
+      "name": "Aēšma (Zoroastrian)",
+      "relationship": "similar",
+      "description": "Avestan demon of wrath, possible etymological source"
+    },
+    {
+      "id": "sakhr",
+      "name": "Sakhr (Islamic)",
+      "relationship": "regional_variant",
+      "description": "Asmodeus under his Arabic name"
+    },
+    {
+      "id": "ars-goetia",
+      "name": "Ars Goetia (Lesser Key of Solomon)",
+      "relationship": "superset",
+      "description": "Grimoiric system listing Asmoday as king no. 32"
+    }
+  ],
+  "cultural_notes": "Asmodeus stands in Western demonological tradition as one of the canonical kings or princes of Hell, often paired with the deadly sin of lust.",
+  "sources": [
+    {
+      "id": "wikipedia-asmodeus",
+      "type": "website",
+      "title": "Asmodeus",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Asmodeus",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "tobit",
+      "type": "book",
+      "title": "Book of Tobit",
+      "publication": "Septuagint / Vulgate (deuterocanonical)",
+      "date": "c. 225–175 BCE"
+    },
+    {
+      "id": "talmud-gittin",
+      "type": "book",
+      "title": "Babylonian Talmud, tractate Gittin 68a–68b",
+      "date": "c. 500 CE"
+    },
+    {
+      "id": "kramer-1486",
+      "type": "book",
+      "title": "Malleus Maleficarum",
+      "authors": [
+        "Heinrich Kramer",
+        "Jacob Sprenger"
+      ],
+      "publication": "Speyer",
+      "date": "1486"
+    },
+    {
+      "id": "weyer-1577",
+      "type": "book",
+      "title": "Pseudomonarchia Daemonum (appendix to De Praestigiis Daemonum)",
+      "authors": [
+        "Johann Weyer"
+      ],
+      "publication": "Basel",
+      "date": "1577"
+    },
+    {
+      "id": "lesage-1707",
+      "type": "book",
+      "title": "Le Diable boiteux",
+      "authors": [
+        "Alain-René Lesage"
+      ],
+      "publication": "Paris",
+      "date": "1707"
+    },
+    {
+      "id": "collin-de-plancy-1818",
+      "type": "book",
+      "title": "Dictionnaire Infernal",
+      "authors": [
+        "Jacques Collin de Plancy"
+      ],
+      "publication": "Paris",
+      "date": "1818"
+    },
+    {
+      "id": "mathers-1904",
+      "type": "book",
+      "title": "The Goetia: The Lesser Key of Solomon the King",
+      "authors": [
+        "S. L. MacGregor Mathers",
+        "Aleister Crowley"
+      ],
+      "publication": "Society for the Propagation of Religious Truth",
+      "date": "1904"
+    },
+    {
+      "id": "jewish-encyclopedia-1906",
+      "type": "article",
+      "title": "Asmodeus",
+      "authors": [
+        "Kaufmann Kohler",
+        "Louis Ginzberg"
+      ],
+      "publication": "Jewish Encyclopedia",
+      "date": "1906"
+    },
+    {
+      "id": "boyce-1979",
+      "type": "book",
+      "title": "Zoroastrians: Their Religious Beliefs and Practices",
+      "authors": [
+        "Mary Boyce"
+      ],
+      "publication": "Routledge & Kegan Paul",
+      "date": "1979",
+      "isbn": "978-0710003386"
+    }
+  ],
+  "locations": []
 }

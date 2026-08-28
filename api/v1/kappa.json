@@ -3,6 +3,7 @@
   "name": "Kappa",
   "category": "entity_spirit",
   "description": "The kappa (河童, 'river child') is one of the most famous yōkai in Japanese folklore: a child-sized amphibious water-spirit with a turtle-like shell, beaked face, and a water-filled dish (sara) on its head whose drying or spilling renders it powerless.",
+  "full_description": "The kappa (河童, 'river child'; also kawatarō, kawako, garappa, and at least eighty regional names) is a class of water-yokai in Japanese folklore, prototypically the size of a human child, greenish, with a turtle-like carapace, webbed hands and feet, a beaked face, and a circular depression on the crown of the head — the sara — which holds water. The water in the sara is the kappa's source of supernatural power; if it spills or dries out, the kappa is paralysed or killed, which gives rise to the well-known folk defense of bowing deeply (the polite kappa returns the bow, spilling the dish). Kappa are river- and pond-dwelling, associated with sumo wrestling, with attempts to drag horses, cattle, and people into the water, and with the extraction of the mythical 'shirikodama' (尻子玉) — a small ball of life-essence said to lie inside the human anus. They are notoriously fond of cucumbers (giving the name kappamaki to cucumber sushi rolls). Early systematic descriptions appear in the Edo-period encyclopedia Wakan Sansai Zue (和漢三才図会, 1712) by Terajima Ryōan, and the kappa is depicted in Toriyama Sekien's Gazu Hyakki Yagyō (1776). Folkloric documentation continued under modern researchers, especially Yanagita Kunio (1875–1962), whose Tōno Monogatari (遠野物語, 1910) records numerous kappa accounts from Tōno, Iwate, and Lafcadio Hearn (1850–1904), who wrote on kappa in his collections of Japanese folklore. The kappa remains a beloved figure of Japanese popular culture, appearing on signage, in advertising (notably the Kappa beverage and snack brand), in manga, film (Akira Kurosawa's Dreams (1990) and Hayao Miyazaki's Spirited Away (2001) feature kappa-like figures), and as a regional symbol in towns such as Tōno, Ushiku, and Saga.",
   "aliases": [
     {
       "name": "河童",
@@ -56,5 +57,144 @@
   "origin": "Found throughout Japanese folklore, with strong regional concentrations in Kyushu (garappa, hyōsube) and Tōhoku (Tōno).",
   "first_reported": "1712",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Japanese kappa (河童) = kawa (川, 'river') + warawa / wappa (童, 'child'); regional variants include kawatarō, kawako, and garappa",
+    "meaning": "'River child'",
+    "first_use": "Recorded in Edo-period literature, including Wakan Sansai Zue (1712); folk usage long predates"
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "1712",
+      "event": "Terajima Ryōan publishes the encyclopedia Wakan Sansai Zue (和漢三才図会), with a systematic kappa entry",
+      "significance": "Foundational Edo-period reference",
+      "source": "Terajima Ryōan, Wakan Sansai Zue (1712)"
+    },
+    {
+      "date": "1776",
+      "event": "Toriyama Sekien depicts the kappa in Gazu Hyakki Yagyō (画図百鬼夜行)",
+      "significance": "Visual codification",
+      "source": "Toriyama Sekien (1776)"
+    },
+    {
+      "date": "1910-06-14",
+      "event": "Yanagita Kunio publishes Tōno Monogatari (遠野物語), recording numerous kappa stories from Tōno, Iwate",
+      "significance": "Foundational text of modern Japanese folklore studies and kappa documentation",
+      "source": "Yanagita Kunio, Tōno Monogatari (1910)"
+    }
+  ],
+  "related": [
+    {
+      "id": "suijin",
+      "name": "Suijin",
+      "relationship": "related",
+      "description": "Shinto water-deity; conceptual ancestor of many kappa traditions"
+    },
+    {
+      "id": "hyosube",
+      "name": "Hyōsube",
+      "relationship": "regional_variant",
+      "description": "Kyushu variant of the kappa, especially around Saga"
+    },
+    {
+      "id": "garappa",
+      "name": "Garappa",
+      "relationship": "regional_variant",
+      "description": "Kyushu kappa with longer limbs"
+    },
+    {
+      "id": "suiko",
+      "name": "Suiko",
+      "relationship": "subset",
+      "description": "Aggressive 'water-tiger' class of kappa-related yokai"
+    },
+    {
+      "id": "vodyanoy",
+      "name": "Vodyanoy",
+      "relationship": "similar",
+      "description": "Slavic male water-spirit; comparable river-dwelling trickster role"
+    },
+    {
+      "id": "nokken",
+      "name": "Nøkken",
+      "relationship": "similar",
+      "description": "Scandinavian water-spirit"
+    }
+  ],
+  "cultural_notes": "Modern Japanese culture treats the kappa as folklore rather than living belief, while integrating it deeply into regional identity, signage, and commercial branding.",
+  "sources": [
+    {
+      "id": "wikipedia-kappa",
+      "type": "website",
+      "title": "Kappa (folklore)",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Kappa_(folklore)",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "yanagita-1910",
+      "type": "book",
+      "title": "Tōno Monogatari (遠野物語)",
+      "authors": [
+        "Yanagita Kunio"
+      ],
+      "date": "1910"
+    },
+    {
+      "id": "wakan-sansai-1712",
+      "type": "book",
+      "title": "Wakan Sansai Zue (和漢三才図会)",
+      "authors": [
+        "Terajima Ryōan"
+      ],
+      "date": "1712"
+    },
+    {
+      "id": "sekien-1776",
+      "type": "book",
+      "title": "Gazu Hyakki Yagyō (画図百鬼夜行)",
+      "authors": [
+        "Toriyama Sekien"
+      ],
+      "date": "1776"
+    },
+    {
+      "id": "akutagawa-1927",
+      "type": "book",
+      "title": "Kappa (河童)",
+      "authors": [
+        "Akutagawa Ryūnosuke"
+      ],
+      "date": "1927"
+    },
+    {
+      "id": "foster-2015",
+      "type": "book",
+      "title": "The Book of Yōkai: Mysterious Creatures of Japanese Folklore",
+      "authors": [
+        "Michael Dylan Foster"
+      ],
+      "publication": "University of California Press",
+      "date": "2015",
+      "isbn": "978-0520271029"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Tōno (遠野)",
+      "lat": 39.3275,
+      "lng": 141.5347
+    },
+    {
+      "name": "Ushiku (牛久市)",
+      "lat": 35.9803,
+      "lng": 140.1481
+    }
+  ]
 }

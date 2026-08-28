@@ -3,6 +3,7 @@
   "name": "Ibaraki-dōji",
   "category": "entity_spirit",
   "description": "Ibaraki-dōji is a celebrated oni (demon) of Heian-period Japanese legend, the chief retainer of the demon king Shuten-dōji and the antagonist of the famous Rashōmon / Modori-bashi episode in which the warrior Watanabe no Tsuna severs its arm.",
+  "full_description": "Ibaraki-dōji (茨木童子) is one of the most famous oni in Japanese folklore, traditionally the chief lieutenant of the great oni-king Shuten-dōji of Mount Ōe. Two main birth-origin traditions place the demon either at Sunagodzuka in Echigo (modern Niigata) or in Settsu (modern Osaka / Hyōgo). The character's gender is ambiguous in the source tradition, sometimes a male oni and sometimes a kijo (female oni). The most famous narrative is set in late Heian Kyoto: Watanabe no Tsuna, one of the Four Guardian Kings (Shitennō) of Minamoto no Yorimitsu (Raikō), encounters a beautiful young woman who reveals herself as Ibaraki-dōji and attempts to abduct him, either at the Modori-bashi bridge over the Ichijō or at the Rashōmon gate. Tsuna severs the demon's arm with his sword Higekiri (also called Onikiri / Onikirimaru). Warned by an onmyōji (often Abe no Seimei) to confine himself for seven days, Tsuna is on the seventh night tricked by Ibaraki-dōji, who appears disguised as his aunt and reclaims the arm. The episode is a foundational story-cycle of the demon-slaying repertoire and is told across the Konjaku monogatari, the Tsurugi-no-maki of the Heike monogatari, the Genpei jōsuiki, the Taiheiki, the Settsuyō gundan (1701), and a long line of nō, kabuki and ukiyo-e treatments.",
   "aliases": [
     {
       "name": "茨木童子",
@@ -44,5 +45,115 @@
   "origin": "The Ibaraki-dōji legend is centered on Heian-period Kyoto and on the surrounding regions of Settsu (modern Osaka, Hyōgo) and Echigo (modern Niigata).",
   "first_reported": "Heian/Kamakura period",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Ibaraki-dōji combines the place-name Ibaraki — variously read as Ibaraki in Settsu (modern Osaka) or as the Ibaraki of Echigo — with dōji (童子, 'child'), a term used for oni offspring and for young oni-attendants rather than for biological children.",
+    "meaning": "'Oni-child of Ibaraki'.",
+    "first_use": "Medieval otogi-zōshi and gunki-monogatari (Heike monogatari Tsurugi-no-maki, Genpei jōsuiki, Taiheiki) of the 13th–14th centuries; the Settsuyō gundan (1701) consolidates the Settsu tradition."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0,
+    "date_range": {
+      "earliest": "10th c. (legendary)",
+      "latest": "Edo period (literary)"
+    }
+  },
+  "timeline": [
+    {
+      "date": "Pre-contact",
+      "event": "Compilation of Konjaku monogatari (early 12th century) and Heike monogatari Tsurugi-no-maki (13th century), containing early forms of the Watanabe no Tsuna / Ibaraki-dōji episode",
+      "significance": "Earliest attestations of the legend in Japanese literature",
+      "source": "Konjaku monogatari; Heike monogatari Tsurugi-no-maki"
+    },
+    {
+      "date": "Pre-contact",
+      "event": "Composition of the nō play Rashōmon (attributed to Kanze school, 15th century)",
+      "significance": "Early dramatic treatment of the Rashōmon variant",
+      "source": "Nō repertoire (Rashōmon)"
+    },
+    {
+      "date": "1701-01-01",
+      "event": "Settsuyō gundan published, consolidating the Settsu version of Ibaraki-dōji's birth narrative",
+      "significance": "Major Edo-period source for the Settsu tradition",
+      "source": "Settsuyō gundan (1701)"
+    },
+    {
+      "date": "1883-01-01",
+      "event": "Kabuki play Ibaraki (茨木) premieres, written for Onoe Kikugorō V",
+      "significance": "Foundational kabuki dramatization of the post-encounter retrieval scene; remains a canonical role",
+      "source": "Kabuki play Ibaraki (1883)"
+    },
+    {
+      "date": "1889-01-01",
+      "event": "Tsukioka Yoshitoshi includes 'Old Woman Taking Away the Oni's Arm' (Rōba ki wo motte saru no zu) in Shinkei Sanjūrokkaisen, completed 1892",
+      "significance": "Most-reproduced visual treatment of the Ibaraki-dōji legend in modern times",
+      "source": "Yoshitoshi, Shinkei Sanjūrokkaisen (1889–1892)"
+    }
+  ],
+  "related": [
+    {
+      "id": "shuten-doji",
+      "name": "Shuten-dōji",
+      "relationship": "related",
+      "description": "The oni-king of Mount Ōe whom Ibaraki-dōji serves as chief lieutenant"
+    },
+    {
+      "id": "oni",
+      "name": "Oni",
+      "relationship": "superset",
+      "description": "The general class of Japanese demonic ogres to which Ibaraki-dōji belongs"
+    },
+    {
+      "id": "kijo",
+      "name": "Kijo",
+      "relationship": "subset",
+      "description": "Female oni; some traditions class Ibaraki-dōji as kijo"
+    }
+  ],
+  "cultural_notes": "Severed oni arms must be guarded with ritual seclusion (the seven-day kessai) overseen by an onmyōji; oni can shapeshift into human form, especially as elderly female relatives, and so social trust itself becomes a site of demonic ambush.",
+  "sources": [
+    {
+      "id": "heike-tsurugi",
+      "type": "book",
+      "title": "Heike monogatari, Tsurugi-no-maki (Sword Chapter)",
+      "publication": "Medieval Japanese gunki-monogatari",
+      "date": "13th c."
+    },
+    {
+      "id": "konjaku-monogatari",
+      "type": "book",
+      "title": "Konjaku monogatari shū",
+      "publication": "Late Heian setsuwa collection",
+      "date": "early 12th c."
+    },
+    {
+      "id": "settsuyo-gundan-1701",
+      "type": "book",
+      "title": "Settsuyō gundan",
+      "publication": "Edo-period gazetteer-and-tale collection",
+      "date": "1701"
+    },
+    {
+      "id": "yoshitoshi-1892",
+      "type": "other",
+      "title": "Shinkei Sanjūrokkaisen (Thirty-Six New Forms of Ghosts)",
+      "authors": [
+        "Tsukioka Yoshitoshi"
+      ],
+      "publication": "Ukiyo-e print series",
+      "date": "1889–1892"
+    },
+    {
+      "id": "wikipedia-ibaraki-doji",
+      "type": "website",
+      "title": "Ibaraki-dōji",
+      "url": "https://en.wikipedia.org/wiki/Ibaraki-d%C5%8Dji",
+      "publication": "Wikipedia",
+      "accessed": "2026-05-07"
+    }
+  ],
+  "locations": []
 }

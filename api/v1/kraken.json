@@ -3,6 +3,7 @@
   "name": "Kraken",
   "category": "cryptid",
   "description": "A legendary sea monster of enormous size from Scandinavian folklore, traditionally described as a giant cephalopod dwelling off the coasts of Norway and Greenland, capable of dragging entire ships beneath the waves.",
+  "full_description": "The Kraken is one of the most enduring sea monster legends of Northern Europe, originating in Norwegian and Icelandic maritime folklore. Historical accounts describe a creature of immense size — some placing it at a quarter of a mile in circumference — with many tentacles that could seize and capsize ships. Fishermen noted its dangerous secondary effect: when the Kraken submerged, it created a vast whirlpool that could swallow vessels. Erik Pontoppidan's 1753 account in his Natural History of Norway remains the most cited early description, noting that the Kraken's back, when surfaced, resembled a cluster of islands, and that the abundance of fish above a Kraken was attractive to fishermen despite the risk. The 1861 recovery of giant squid (Architeuthis) remains by the French vessel Alecton provided a credible biological basis for the legend. Modern scientific consensus holds that sightings of giant squid — the largest of which can exceed 13 meters — explain the Kraken tradition. The Kraken entered literary culture through Tennyson (1830), Melville (1851), Hugo (1866), and Verne (1870), and remains a pervasive figure in popular culture.",
   "aliases": [
     {
       "name": "Hafgufa",
@@ -43,5 +44,159 @@
   "origin": "Legendary range centered on the Norwegian Sea off the coast of Norway, extending to Greenland, Iceland, and in some accounts as far as the waters off Baffin Island, Canada.",
   "first_reported": "1646",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Norwegian kraken, definite form of krake, itself from Old Norse kraki (crooked tree trunk, primitive anchor). The figurative connection to a cephalopod was made from the branching, hook-like appearance of tentacles resembling crooked branches or anchor drags.",
+    "meaning": "Malformed or overgrown, crooked thing; by extension the creature named for its grasping, crooked appendages.",
+    "first_use": "1646 — Christen Jensøn provides the first written use of the name describing a multi-armed sea monster"
+  },
+  "sightings_stats": {
+    "total_documented": 12,
+    "verified": 0,
+    "disputed": 10,
+    "debunked": 2,
+    "date_range": {
+      "earliest": "1555",
+      "latest": "1861"
+    }
+  },
+  "timeline": [
+    {
+      "date": "1539",
+      "event": "Olaus Magnus publishes his Carta marina map featuring large sea monster illustrations in Norwegian waters",
+      "significance": "Earliest pictorial depiction of possible Kraken-like creatures",
+      "source": "Carta marina (1539)"
+    },
+    {
+      "date": "1555",
+      "event": "Olaus Magnus publishes Historia de Gentibus Septentrionalibus describing sea monsters",
+      "significance": "First major printed natural history to describe Scandinavian sea monsters",
+      "source": "Historia de Gentibus Septentrionalibus (1555)"
+    },
+    {
+      "date": "1646",
+      "event": "Christen Jensøn's dictionary records 'kraken' as a multi-armed sea monster",
+      "significance": "First documented written use of the name Kraken",
+      "source": "Jensøn, C. (1646), Norwegian-Danish dictionary"
+    },
+    {
+      "date": "1700",
+      "event": "Francesco Negri references a creature called 'sciu-crak' in his Scandinavian travelogue",
+      "significance": "Early Italian-language reference confirming the legend's reach",
+      "source": "Negri, F. (1700)"
+    },
+    {
+      "date": "1752",
+      "event": "Erik Pontoppidan publishes Det første Forsøg paa Norges naturlige Historie, containing the most detailed contemporary Kraken account",
+      "significance": "Foundational scientific-era description; internationalized the Kraken legend",
+      "source": "Pontoppidan, E. (1752), Det første Forsøg paa Norges naturlige Historie"
+    },
+    {
+      "date": "1801",
+      "event": "Pierre Denys de Montfort proposes two species of colossal octopus, linking them to Kraken-like legends and claiming a giant octopus sank ten British warships in 1782",
+      "significance": "First attempt at scientific classification; claim of ship sinkings dismissed as fabrication",
+      "source": "Denys de Montfort, P. (1801), Histoire naturelle générale et particulière des mollusques"
+    },
+    {
+      "date": "1830",
+      "event": "Alfred Tennyson publishes the sonnet 'The Kraken,' cementing the creature in English literary culture",
+      "significance": "Major literary introduction to English-speaking audiences",
+      "source": "Tennyson, A. (1830)"
+    },
+    {
+      "date": "1861",
+      "event": "French corvette Alecton recovers remains of a large squid, later identified as Architeuthis; published in Comptes Rendus",
+      "significance": "First physical evidence connecting legend to real organism",
+      "source": "Comptes Rendus de l'Académie des Sciences (1861)"
+    },
+    {
+      "date": "1870",
+      "event": "Jules Verne depicts a giant cephalopod attacking a submarine in Vingt mille lieues sous les mers",
+      "significance": "Definitively popularized the Kraken in global popular culture",
+      "source": "Verne, J. (1870), Vingt mille lieues sous les mers"
+    }
+  ],
+  "related": [
+    {
+      "id": "loch-ness-monster",
+      "name": "Loch Ness Monster",
+      "relationship": "similar",
+      "description": "Large aquatic cryptid from Scottish lake tradition"
+    },
+    {
+      "id": "hafgufa",
+      "name": "Hafgufa",
+      "relationship": "regional_variant",
+      "description": "Medieval Icelandic sea monster tradition often equated with the Kraken"
+    },
+    {
+      "id": "leviathan",
+      "name": "Leviathan",
+      "relationship": "similar",
+      "description": "Biblical sea monster of enormous size"
+    },
+    {
+      "id": "lusca",
+      "name": "Lusca",
+      "relationship": "similar",
+      "description": "Caribbean giant octopus / sea monster tradition"
+    }
+  ],
+  "cultural_notes": "Norwegian fishermen believed that a Kraken's presence guaranteed an abundant catch, creating a dangerous temptation: fish attracted to the creature above it, but death in the whirlpool when it dove. Fishermen of the Lofoten region also connected the Moskstraumen maelstrom to the Kraken.",
+  "sources": [
+    {
+      "id": "pontoppidan-1752",
+      "type": "book",
+      "title": "Det første Forsøg paa Norges naturlige Historie",
+      "authors": [
+        "Erik Pontoppidan"
+      ],
+      "publication": "Self-published (Copenhagen)",
+      "date": "1752"
+    },
+    {
+      "id": "olaus-magnus-1555",
+      "type": "book",
+      "title": "Historia de Gentibus Septentrionalibus",
+      "authors": [
+        "Olaus Magnus"
+      ],
+      "publication": "Rome",
+      "date": "1555"
+    },
+    {
+      "id": "lee-1883",
+      "type": "book",
+      "title": "Sea Monsters Unmasked",
+      "authors": [
+        "Henry Lee"
+      ],
+      "publication": "William Clowes and Sons",
+      "date": "1883"
+    },
+    {
+      "id": "tennyson-1830",
+      "type": "other",
+      "title": "The Kraken (sonnet)",
+      "authors": [
+        "Alfred Tennyson"
+      ],
+      "publication": "Poems, Chiefly Lyrical",
+      "date": "1830"
+    },
+    {
+      "id": "wikipedia-kraken",
+      "type": "website",
+      "title": "Kraken",
+      "url": "https://en.wikipedia.org/wiki/Kraken",
+      "accessed": "2026-05-08"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Norwegian Sea (Nordland coast)",
+      "lat": 67,
+      "lng": 13
+    }
+  ]
 }

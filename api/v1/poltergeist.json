@@ -3,6 +3,7 @@
   "name": "Poltergeist",
   "category": "ghost_haunting",
   "description": "A pattern of paranormal disturbance — knockings, object movement, breaking glass, occasional spontaneous fires — typically centered on a specific household and frequently on a single 'agent', often an adolescent. Documented in European sources for over a millennium and theorized in modern parapsychology as Recurrent Spontaneous Psychokinesis (RSPK).",
+  "full_description": "Poltergeist phenomena are reports of localized paranormal activity characterized by physical disturbance: percussive raps and knocks, the displacement of small objects, doors and drawers opening and closing, furniture moving or overturning, breakage of crockery and glass, the apparent throwing of stones or other objects, and, in a small minority of cases, spontaneous fires or self-igniting matches. Unlike traditional 'ghost' or apparitional hauntings, which tend to recur over long periods at a single location, poltergeist outbreaks are usually short — days to a few months — and are tied to a particular family or, more specifically, to a single individual whose presence is required for the activity. That person is termed the 'focus' or 'agent'. The most influential modern survey, by parapsychologist William G. Roll (1972), examined 116 cases reported between 1612 and 1974; in 92 of them (79%) the activity was associated with a particular individual. Roll proposed the term Recurrent Spontaneous Psychokinesis (RSPK) for the phenomenon, framing it as the unconscious externalization of psychological tension — most often by an adolescent — rather than as the action of a discrete spirit. The skeptical tradition (Frank Podmore's 'naughty little girl' hypothesis, Joe Nickell's investigations, Donovan Rawcliffe's surveys) attributes most cases to deliberate trickery, misperception, or memory error, with surviving residue explained by environmental factors (settling structures, drafts, plumbing). Notable cases include the Drummer of Tedworth (1662), the Bell Witch of Tennessee (1817–1828), the Rosenheim case (1967), the Enfield Poltergeist (1977–1979), and the Miami / Tropication Arts case (1967).",
   "aliases": [
     {
       "name": "Polter Geist",
@@ -38,5 +39,154 @@
   "origin": "Reported essentially worldwide; the type-cases are heavily European and North American, but extensive cases are documented in Brazil, Japan, Australia, and elsewhere.",
   "first_reported": "1st century AD",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "German Polter (rumble, racket) + Geist (spirit, ghost), giving 'rumbling/noisy ghost'.",
+    "meaning": "'Noisy ghost' — a spirit that announces itself by sound and physical disturbance rather than by visible apparition.",
+    "first_use": "German term in use by the 16th century; popularized in English from the 19th century onward via translations of German occult and folklore literature."
+  },
+  "sightings_stats": {
+    "total_documented": 500,
+    "verified": 0,
+    "disputed": 400,
+    "debunked": 100,
+    "date_range": {
+      "earliest": "1st century",
+      "latest": "2026"
+    }
+  },
+  "timeline": [
+    {
+      "date": "1662",
+      "event": "The 'Drummer of Tedworth' case in Wiltshire, England — drumming and disturbances investigated by Joseph Glanvill",
+      "significance": "First widely documented English-language poltergeist case",
+      "source": "Glanvill, J. (1681), Saducismus Triumphatus"
+    },
+    {
+      "date": "1817",
+      "event": "Onset of the Bell Witch disturbances on the John Bell farm in Adams, Tennessee",
+      "significance": "Foundational North American poltergeist case",
+      "source": "Ingram, M. V. (1894), An Authenticated History of the Bell Witch"
+    },
+    {
+      "date": "1848-03-31",
+      "event": "The Fox sisters in Hydesville, New York report rapping communications, sparking modern Spiritualism",
+      "significance": "Reframed knock-style disturbance as spirit communication; later admitted hoax (1888) by Margaret Fox",
+      "source": "Brandon, R. (1983), The Spiritualists"
+    },
+    {
+      "date": "1958-02",
+      "event": "The Seaford Poltergeist (Long Island, New York) — investigated by J. G. Pratt and W. G. Roll",
+      "significance": "Pivotal early Roll/Pratt field investigation",
+      "source": "Pratt, J. G. & Roll, W. G. (1958), Journal of Parapsychology"
+    },
+    {
+      "date": "1967",
+      "event": "Rosenheim case in Bavaria — disturbances at a law firm investigated by Hans Bender, Friedbert Karger, and others",
+      "significance": "One of the most thoroughly investigated poltergeist cases, with documented electrical and telephone anomalies",
+      "source": "Bender, H. (1969), reports in Zeitschrift für Parapsychologie"
+    },
+    {
+      "date": "1967",
+      "event": "Tropication Arts (Miami) case investigated by Roll",
+      "significance": "Roll-led investigation that strongly informed his RSPK model",
+      "source": "Roll, W. G. (1972), The Poltergeist"
+    },
+    {
+      "date": "1972",
+      "event": "William G. Roll publishes 'The Poltergeist'",
+      "significance": "Establishes RSPK as the standard parapsychological framing of the phenomenon",
+      "source": "Roll, W. G. (1972)"
+    },
+    {
+      "date": "1977-08",
+      "event": "Onset of the Enfield Poltergeist case in Brimsdown, north London — Janet Hodgson as focus",
+      "significance": "Most famous and most contested 20th-century poltergeist case; investigated by Maurice Grosse and Guy Lyon Playfair of the Society for Psychical Research",
+      "source": "Playfair, G. L. (1980), This House Is Haunted"
+    }
+  ],
+  "related": [
+    {
+      "id": "haunting",
+      "name": "Apparitional haunting",
+      "relationship": "related",
+      "description": "Place-centered visual ghost phenomena, contrasted with the person-centered poltergeist"
+    },
+    {
+      "id": "psychokinesis",
+      "name": "Psychokinesis (PK)",
+      "relationship": "subset",
+      "description": "Mind-over-matter framework within which RSPK is theorized"
+    },
+    {
+      "id": "demonic-infestation",
+      "name": "Demonic infestation",
+      "relationship": "related",
+      "description": "Religious/Catholic framework sometimes overlaid on poltergeist cases"
+    },
+    {
+      "id": "fortean-phenomena",
+      "name": "Fortean phenomena",
+      "relationship": "related",
+      "description": "Falls of objects, fires, and other anomalies sometimes grouped with poltergeist activity"
+    }
+  ],
+  "cultural_notes": "In many folk contexts the poltergeist is read as a restless spirit or demonic agent; in modern parapsychology it is read as the externalization of human psychological force.",
+  "sources": [
+    {
+      "id": "wikipedia-poltergeist",
+      "type": "website",
+      "title": "Poltergeist",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Poltergeist",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "spr-hauntings-poltergeists",
+      "type": "website",
+      "title": "Hauntings and Poltergeists",
+      "publication": "Society for Psychical Research",
+      "url": "https://www.spr.ac.uk/9-hauntings-and-poltergeists",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "psi-encyclopedia-poltergeists",
+      "type": "website",
+      "title": "Poltergeists (Overview)",
+      "publication": "Psi Encyclopedia (SPR)",
+      "url": "https://psi-encyclopedia.spr.ac.uk/articles/poltergeists-overview/",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "roll-1972",
+      "type": "book",
+      "title": "The Poltergeist",
+      "authors": [
+        "William G. Roll"
+      ],
+      "publication": "Nelson Doubleday",
+      "date": "1972"
+    },
+    {
+      "id": "playfair-1980",
+      "type": "book",
+      "title": "This House Is Haunted: The True Story of the Enfield Poltergeist",
+      "authors": [
+        "Guy Lyon Playfair"
+      ],
+      "publication": "Souvenir Press",
+      "date": "1980"
+    },
+    {
+      "id": "glanvill-1681",
+      "type": "book",
+      "title": "Saducismus Triumphatus",
+      "authors": [
+        "Joseph Glanvill"
+      ],
+      "publication": "London",
+      "date": "1681"
+    }
+  ],
+  "locations": []
 }

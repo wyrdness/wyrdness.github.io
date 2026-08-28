@@ -3,6 +3,7 @@
   "name": "Krampus",
   "category": "entity_spirit",
   "description": "A horned, anthropomorphic figure from Central Alpine folklore who accompanies Saint Nicholas on December 5th (Krampusnacht), punishing misbehaving children with birch rods and threatening to carry the worst offenders away in a sack.",
+  "full_description": "Krampus is one of the most vivid and enduring figures of Central and Eastern Alpine winter tradition. He appears on the eve of Saint Nicholas Day (December 5), accompanying the saint as a dark counterpart: while Nicholas rewards well-behaved children with gifts, Krampus punishes the naughty with birch branches or chains, and in the most extreme tradition, carries the worst offenders away in a sack or basket. Physically, Krampus is depicted as a hairy, dark figure — typically brown or black — with curved horns, one human foot and one cloven goat hoof, a long pointed tongue, sharp fangs, and rattling chains said to symbolize the Devil's binding by the Christian Church. His imagery combines elements of pre-Christian Alpine winter spirits (particularly the Perchten tradition of masked processions) with Christian diabolism. While some folklorists have proposed pre-Christian roots, historians note that Krampus is not documented before the 16th century. By the 17th century he was firmly established as Saint Nicholas's punishing companion. The tradition was suppressed under Austria's Dollfuss clerico-fascist regime in 1932 and discouraged again in the 1950s. A major revival began in the late 20th century, with Krampuslauf processions (runs through Alpine streets by costumed participants) becoming popular events. Since the 2000s the figure has spread globally through horror films, greeting card culture, and seasonal events.",
   "aliases": [
     {
       "name": "Krampusz",
@@ -79,5 +80,111 @@
   "origin": "Traditional range covers the Central and Eastern Alpine region. Active celebrations are found across Austria, Bavaria, Czech Republic, Slovakia, Slovenia, Croatia, Bosnia and Herzegovina, Hungary, Romania, Bulgaria, Northern Italy, and parts of the Low Countries. Since the late 20th century, Krampus traditions have spread to North America and globally.",
   "first_reported": "1600-01-01",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "The word Krampus derives from the Old High German Krampen, meaning 'claw.' The connection is to the creature's grasping claws and the hooked appearance of his goat-like features.",
+    "meaning": "Claw; by extension the clawed or goat-footed figure",
+    "first_use": "16th century (first documented in Alpine regions)"
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "1600-01-01",
+      "event": "Krampus first documented in Alpine sources as a companion to Saint Nicholas",
+      "significance": "Earliest confirmed documentation",
+      "source": "Various Alpine regional folklore records (16th–17th century)"
+    },
+    {
+      "date": "1800-01-01",
+      "event": "Krampuskarten (Krampus greeting cards) become widespread in the 19th century, exchanged among adults with humorous or salacious messages",
+      "significance": "Marks the commercialization and popularization of Krampus imagery",
+      "source": "19th-century postcard collections"
+    },
+    {
+      "date": "1932-01-01",
+      "event": "Austrian Dollfuss regime bans Krampus traditions as part of clerical fascist governance",
+      "significance": "First major institutional suppression of the tradition",
+      "source": "Historical records of Dollfuss-era Austria"
+    },
+    {
+      "date": "1958-01-01",
+      "event": "Maurice Bruce publishes 'The Krampus in Styria' in the journal Folklore, one of the first English-language academic treatments",
+      "significance": "Early English-language academic documentation",
+      "source": "Bruce, M. (1958), 'The Krampus in Styria,' Folklore"
+    },
+    {
+      "date": "1975-01-01",
+      "event": "Anthropologist John J. Honigmann conducts field observations of Styrian Krampus celebrations",
+      "significance": "Academic field documentation of living tradition",
+      "source": "Honigmann, J. J. (1975)"
+    },
+    {
+      "date": "2015-01-01",
+      "event": "Universal Pictures releases the horror film Krampus, directed by Michael Dougherty",
+      "significance": "Major Hollywood production accelerating global recognition",
+      "source": "Krampus (film, 2015, Universal Pictures)"
+    }
+  ],
+  "related": [
+    {
+      "id": "perchta",
+      "name": "Perchta",
+      "relationship": "related",
+      "description": "Alpine winter spirit of similar tradition; Perchtenlauf processions are related to Krampuslauf"
+    },
+    {
+      "id": "belsnickel",
+      "name": "Belsnickel",
+      "relationship": "similar",
+      "description": "Pennsylvania German punishing Christmas figure with similar role"
+    },
+    {
+      "id": "black-pete",
+      "name": "Zwarte Piet",
+      "relationship": "similar",
+      "description": "Dutch companion of Sinterklaas with punishing role"
+    }
+  ],
+  "cultural_notes": "In traditional Alpine communities, Krampus serves a genuine moral instruction function: the fear of the horned punisher reinforces good behavior among children during the Advent season. The paired appearance with Saint Nicholas embodies the complementary principles of reward and punishment.",
+  "sources": [
+    {
+      "id": "ridenour-2016",
+      "type": "book",
+      "title": "The Krampus and the Old Dark Christmas",
+      "authors": [
+        "Al Ridenour"
+      ],
+      "publication": "Feral House",
+      "date": "2016"
+    },
+    {
+      "id": "bruce-1958",
+      "type": "article",
+      "title": "The Krampus in Styria",
+      "authors": [
+        "Maurice Bruce"
+      ],
+      "publication": "Folklore",
+      "date": "1958"
+    },
+    {
+      "id": "wikipedia-krampus",
+      "type": "website",
+      "title": "Krampus",
+      "url": "https://en.wikipedia.org/wiki/Krampus",
+      "accessed": "2026-05-08"
+    }
+  ],
+  "locations": [
+    {
+      "name": "East Tyrol, Austria",
+      "lat": 46.83,
+      "lng": 12.76
+    }
+  ]
 }

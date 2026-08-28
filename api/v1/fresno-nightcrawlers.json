@@ -3,6 +3,7 @@
   "name": "Fresno Nightcrawlers",
   "category": "cryptid",
   "description": "The Fresno Nightcrawlers are small bipedal entities famous from a brief 2007 home-security video filmed in a Fresno, California front yard, depicting two pale figures consisting almost entirely of legs and a small head with no visible torso or arms.",
+  "full_description": "The Fresno Nightcrawlers are an internet-era cryptid known from two short surveillance videos: a 2007 home-security recording from the front yard of a Fresno, California homeowner who identified himself only as 'Jose', and a 2011 motion-activated trail-camera clip from Yosemite Lakes Park (Coarsegold, Madera County), about 50 miles north-east of Fresno. Both clips depict pale, white or grey figures roughly 2–4 feet tall, consisting of two long thin legs ending in apparent feet and a small head, with no visible torso or arms — popularly described as 'walking pants'. The 2007 footage was first taken by 'Jose' to the Fresno-area Spanish-language television station Univision and then to local paranormal investigator Victor Camacho. Both videos have been examined on television (notably MonsterQuest in 2010 and Paranormal Files / Fact or Faked) and on YouTube; mainstream skeptical opinion treats the footage as almost certainly a hoax — most likely simple puppetry or video compositing of a pair of trousers — though no specific perpetrator has admitted to either video, and the original Fresno camera owner has stuck to his account. Some popular accounts associate the figures with Yokuts (Central Valley Indigenous) traditions of small forest beings, but this attribution is not supported by tribal sources and is regarded by folklorists as unfounded. The Nightcrawlers became a cultural marker for Fresno in the late 2010s and have appeared in city-tourism materials, T-shirts, murals and an annual Fresno Nightcrawler Day.",
   "aliases": [
     {
       "name": "Fresno Nightcrawler",
@@ -38,5 +39,131 @@
   "origin": "All canonical Nightcrawler footage originates within California's Central Valley and adjacent Sierra Nevada foothills.",
   "first_reported": "2007-01-01",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Coined by paranormal investigators and online cryptid communities after the 2007 Fresno video; 'nightcrawler' refers to the figures' nocturnal walking gait. (Unrelated to the earthworm of the same name.)",
+    "meaning": "An English-language cryptid label combining 'Fresno' (the city of the original surveillance video) and 'nightcrawler' (a creature seen walking at night).",
+    "first_use": "c. 2007–2010, in Fresno-area paranormal commentary; widely used after MonsterQuest's 2010 episode."
+  },
+  "sightings_stats": {
+    "total_documented": 2,
+    "verified": 0,
+    "disputed": 2,
+    "debunked": 0,
+    "date_range": {
+      "earliest": "2007",
+      "latest": "2011-03"
+    }
+  },
+  "timeline": [
+    {
+      "date": "2007-01-01",
+      "event": "Surveillance video taken by Fresno homeowner 'Jose' shows two pale legs-only figures crossing his front yard",
+      "significance": "Founding incident",
+      "source": "Univision Fresno; Victor Camacho investigation"
+    },
+    {
+      "date": "2010-09-15",
+      "event": "MonsterQuest (History Channel) episode 'Lizard Monster' segment on the Fresno Nightcrawlers airs",
+      "significance": "First major US television treatment",
+      "source": "MonsterQuest, History Channel (2010)"
+    },
+    {
+      "date": "2011-03-01",
+      "event": "Trail-camera footage captures two similar figures at Yosemite Lakes Park, Madera County, California",
+      "significance": "Second canonical video; massively boosted online interest",
+      "source": "Yosemite Lakes Park trail-camera footage"
+    },
+    {
+      "date": "2012-10-20",
+      "event": "YouTube creator Captain Disillusion posts 'Captain D vs Nightcrawler', reproducing the visual using puppet legs and standard video compositing",
+      "significance": "Most-watched skeptical reproduction of the effect",
+      "source": "Captain Disillusion (2012)"
+    },
+    {
+      "date": "2018-01-01",
+      "event": "Fresno civic culture begins embracing the Nightcrawlers — murals, T-shirts, and an unofficial 'Fresno Nightcrawler Day'",
+      "significance": "Local-culture mascotization of the cryptid",
+      "source": "The Business Journal (Fresno)"
+    }
+  ],
+  "related": [
+    {
+      "id": "stick-indians",
+      "name": "Stick Indians",
+      "relationship": "similar",
+      "description": "Pacific Northwest Indigenous traditions of small forest beings; sometimes loosely compared to the Nightcrawlers"
+    },
+    {
+      "id": "shadow-people",
+      "name": "Shadow people",
+      "relationship": "similar",
+      "description": "Internet-era humanoid paranormal entities"
+    },
+    {
+      "id": "dover-demon",
+      "name": "Dover Demon",
+      "relationship": "similar",
+      "description": "1977 Massachusetts cryptid featuring a single short witnessed encounter"
+    }
+  ],
+  "cultural_notes": "Public belief in the Fresno Nightcrawlers is overwhelmingly mediated by short videos and internet meme culture rather than by direct sighting traditions.",
+  "sources": [
+    {
+      "id": "wikipedia-fresno-nightcrawler",
+      "type": "website",
+      "title": "Fresno nightcrawler",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Fresno_nightcrawler",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "howstuffworks-nightcrawler",
+      "type": "website",
+      "title": "Origins of the Fresno Nightcrawler, a Pants-shaped Cryptid",
+      "authors": [
+        "Sarah Gleim"
+      ],
+      "publication": "HowStuffWorks",
+      "url": "https://science.howstuffworks.com/science-vs-myth/strange-creatures/fresno-nightcrawler.htm",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "your-central-valley-nightcrawler",
+      "type": "news",
+      "title": "Fresno Nightcrawler: Hoax or real? Mystery remains years later",
+      "publication": "YourCentralValley.com (KSEE/KGPE)",
+      "url": "https://www.yourcentralvalley.com/digital-enterprise/fresno-nightcrawler-hoax-or-real-mystery-remains-years-later/",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "monsterquest-2010",
+      "type": "documentary",
+      "title": "MonsterQuest — Fresno Nightcrawler segment",
+      "publication": "History Channel",
+      "date": "2010"
+    },
+    {
+      "id": "captain-disillusion-2012",
+      "type": "website",
+      "title": "Captain D vs Nightcrawler",
+      "authors": [
+        "Alan Melikdjanian (Captain Disillusion)"
+      ],
+      "publication": "YouTube",
+      "date": "2012"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Fresno, California",
+      "lat": 36.7378,
+      "lng": -119.7871
+    },
+    {
+      "name": "Yosemite Lakes Park",
+      "lat": 37.1394,
+      "lng": -119.68
+    }
+  ]
 }

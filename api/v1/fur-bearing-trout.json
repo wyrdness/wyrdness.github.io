@@ -3,6 +3,7 @@
   "name": "Fur-Bearing Trout",
   "category": "cryptid",
   "description": "The fur-bearing trout is a legendary fish, North American and Icelandic in origin, said to grow a thick coat of fur to survive cold northern waters; in practice it is a long-running tall tale and taxidermy hoax in which a real trout is mounted with rabbit fur attached.",
+  "full_description": "The fur-bearing trout is a creature of North American and Icelandic folk tradition, supposed to be a species of trout that has grown a thick coat of white or pale fur to survive in the frigid lakes and rivers of the far north. The most popular American origin story claims that two (or four) jugs of hair tonic were spilled into the Arkansas River near Salida, Colorado, with the alleged result that the local trout grew fur. In practice, the 'fur-bearing trout' is a tall-tale-and-taxidermy tradition: real trout are stuffed and mounted with sections of rabbit pelt or other fur attached, and exhibited in lodges, taverns, and small museums as humorous curiosities, alongside such other tall-tale taxidermies as the jackalope. The Icelandic Loðsilungur, attested in 19th-century Icelandic folktale collections (including by Jón Árnason, 1862–64), is more sinister — a creature said to be poisonous and inedible, created by demons or giants, with a recorded carcass-find at Svína-vatn (Pig Lake) in 1854 illustrated in the 1855 newspaper Norðri. The earliest American printing of the legend is generally cited as a 1929 article by J. H. Hicken in Montana Wildlife magazine. A famous mounted hoax specimen by the taxidermist Ross C. Jobe of Sault Ste. Marie, Ontario, is held by National Museums Scotland (the Royal Scottish Museum), and another resides in the Royal Tyrrell Museum and the Banff Park Museum, Canada. Two natural phenomena have been suggested as superficially supportive: Saprolegnia ('cotton mold'), a parasitic water-mould that produces fur-like growths on infected fish, and Mirapinna esau, a real but unrelated whalefish bearing hair-like skin extensions described by Bertelsen and Marshall in 1956 from specimens taken in the Azores.",
   "aliases": [
     {
       "name": "Furry Trout",
@@ -47,5 +48,126 @@
   "origin": "The fur-bearing trout is a folkloric and tourist tradition of North America (especially the northern Rockies, the Great Lakes region, and Canada) and a folktale tradition of Iceland. There is no real biological range.",
   "first_reported": "1854-01-01",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "An English-language tall-tale name, descriptive of the supposed creature; first appearing in print in J. H. Hicken's 1929 article 'My Pet Trout' in Montana Wildlife magazine.",
+    "meaning": "A trout whose body is covered in fur for cold-weather insulation.",
+    "first_use": "1929 (Hicken, 'My Pet Trout', Montana Wildlife); the Icelandic Loðsilungur attested by Jón Árnason (1862–64)."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0,
+    "date_range": {
+      "earliest": "1854",
+      "latest": "1929"
+    }
+  },
+  "timeline": [
+    {
+      "date": "1854-01-01",
+      "event": "A 'shaggy trout' (Loðsilungur) is reportedly cast ashore at Svína-vatn, Iceland",
+      "significance": "Founding Icelandic incident",
+      "source": "Norðri newspaper, 1855"
+    },
+    {
+      "date": "1862-01-01",
+      "event": "Jón Árnason records the Loðsilungur in his Íslenzkar þjóðsögur og æfintýri (vol. 2)",
+      "significance": "Standard Icelandic folkloric source",
+      "source": "Árnason, J. (1862–64)"
+    },
+    {
+      "date": "1929-01-01",
+      "event": "J. H. Hicken publishes 'My Pet Trout' in Montana Wildlife, the earliest dateable American printing of the fur-bearing-trout legend",
+      "significance": "Fixes the American tall tale in print",
+      "source": "Hicken, J. H. (1929)"
+    },
+    {
+      "date": "1938-01-01",
+      "event": "Ross C. Jobe of Sault Ste. Marie, Ontario, produces a fur-bearing trout taxidermy mount, later acquired by National Museums Scotland",
+      "significance": "Most famous individual hoax specimen",
+      "source": "National Museums Scotland records"
+    },
+    {
+      "date": "1956-01-01",
+      "event": "Erik Bertelsen and N. B. Marshall describe Mirapinna esau (the hairyfish) from the Azores in Dana Reports 42",
+      "significance": "Real biological 'hairy fish' species sometimes loosely conflated with the fur-bearing trout in popular accounts",
+      "source": "Bertelsen, E. & Marshall, N. B. (1956), Dana Reports 42"
+    }
+  ],
+  "related": [
+    {
+      "id": "jackalope",
+      "name": "Jackalope",
+      "relationship": "similar",
+      "description": "American tall-tale taxidermy of a horned jackrabbit"
+    },
+    {
+      "id": "fearsome-critters",
+      "name": "Fearsome Critters",
+      "relationship": "superset",
+      "description": "Wider American lumber-camp tall-tale tradition encompassing the fur-bearing trout"
+    },
+    {
+      "id": "wolpertinger",
+      "name": "Wolpertinger",
+      "relationship": "similar",
+      "description": "Bavarian taxidermic chimera"
+    }
+  ],
+  "cultural_notes": "The fur-bearing trout has never been the subject of literal belief in the way Loðsilungur was once viewed in Iceland; it has functioned for over a century as a genre of fishing humour and tourist curiosity.",
+  "sources": [
+    {
+      "id": "wikipedia-fur-bearing-trout",
+      "type": "website",
+      "title": "Fur-bearing trout",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Fur-bearing_trout",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "arnason-1862",
+      "type": "book",
+      "title": "Íslenzkar þjóðsögur og æfintýri",
+      "authors": [
+        "Jón Árnason"
+      ],
+      "publication": "Leipzig",
+      "date": "1862"
+    },
+    {
+      "id": "hicken-1929",
+      "type": "article",
+      "title": "My Pet Trout",
+      "authors": [
+        "J. H. Hicken"
+      ],
+      "publication": "Montana Wildlife magazine",
+      "date": "1929"
+    },
+    {
+      "id": "bertelsen-marshall-1956",
+      "type": "paper",
+      "title": "The miripinnati, a new order of teleost fishes",
+      "authors": [
+        "Erik Bertelsen",
+        "N. B. Marshall"
+      ],
+      "publication": "Dana Reports 42",
+      "date": "1956"
+    },
+    {
+      "id": "eberhart-2002",
+      "type": "book",
+      "title": "Mysterious Creatures: A Guide to Cryptozoology",
+      "authors": [
+        "George M. Eberhart"
+      ],
+      "publication": "ABC-CLIO",
+      "date": "2002",
+      "isbn": "978-1576072837"
+    }
+  ],
+  "locations": []
 }

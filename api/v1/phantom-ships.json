@@ -3,6 +3,7 @@
   "name": "Phantom Ships",
   "category": "ghost_haunting",
   "description": "Phantom ships are spectral or mysterious vessels reported by mariners throughout history, appearing as ghostly ships that materialize and vanish at sea, often considered death omens. The most famous example is the Flying Dutchman, a legendary Dutch vessel said to be cursed to sail the oceans forever.",
+  "full_description": "Phantom ships are spectral vessels reported by mariners across centuries, typically appearing as glowing, translucent, or fully solid ships that vanish without explanation. The most celebrated is the Flying Dutchman, a legendary Dutch East India Company ship whose captain is said to have been condemned to sail forever after defying God or a storm while rounding the Cape of Good Hope. The oldest known written reference to the Flying Dutchman appears in John MacDonald's 1790 travel account. The legend was expanded through literary treatments including George Barrington's 1795 account, John Leyden's 1803 poem, and Wagner's 1843 opera Der fliegende Holländer. The phenomenon encompasses both legendary ghost ships and real maritime mysteries: the brigantine Mary Celeste, found abandoned in the Atlantic on December 4, 1872; the Carroll A. Deering, found derelict at Diamond Shoals in 1921; and the SS Baychimo, abandoned in 1931 and repeatedly sighted adrift until 1969. Scientific explanations for spectral sightings include the Fata Morgana superior mirage — an optical phenomenon caused by atmospheric refraction that can produce ship-like images elevated above the horizon.",
   "aliases": [
     {
       "name": "Ghost Ships",
@@ -46,5 +47,162 @@
   "origin": "Phantom ship legends and sightings are reported globally, with the Flying Dutchman legend centered on the Cape of Good Hope and southern oceans. Real ghost ship discoveries have occurred in the Atlantic, Pacific, and Indian Oceans.",
   "first_reported": "1790",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "The English term 'phantom ship' derives from the Latin 'phantasma' (apparition). 'Ghost ship' is attested in English maritime usage from the 18th century. The Dutch 'Vliegende Hollander' (Flying Dutchman) is the source of the most famous named variant.",
+    "meaning": "A vessel perceived at sea with no visible crew, or a legendary supernatural vessel that sails without living sailors.",
+    "first_use": "1790 (earliest written reference to the Flying Dutchman legend, John MacDonald)"
+  },
+  "sightings_stats": {
+    "total_documented": 25,
+    "verified": 0,
+    "disputed": 20,
+    "debunked": 5,
+    "date_range": {
+      "earliest": "1790",
+      "latest": "1969"
+    }
+  },
+  "timeline": [
+    {
+      "date": "1790",
+      "event": "John MacDonald publishes the earliest known written reference to the Flying Dutchman legend in Travels in Various Parts of Europe, Asia and Africa",
+      "significance": "Earliest documented written source for the legend",
+      "source": "MacDonald, J. (1790)"
+    },
+    {
+      "date": "1795",
+      "event": "George Barrington describes a phantom vessel encounter in A Voyage to Botany Bay",
+      "significance": "Early literary elaboration of the ghost ship motif",
+      "source": "Barrington, G. (1795), A Voyage to Botany Bay"
+    },
+    {
+      "date": "1803",
+      "event": "John Leyden's Scenes of Infancy introduces the motif of the captain being punished for a crime",
+      "significance": "Adds the moral transgression theme that shapes later versions",
+      "source": "Leyden, J. (1803), Scenes of Infancy"
+    },
+    {
+      "date": "1821",
+      "event": "Blackwood's Edinburgh Magazine publishes a story naming the captain Hendrick van der Decken",
+      "significance": "First named captain in the legend",
+      "source": "Blackwood's Edinburgh Magazine (1821)"
+    },
+    {
+      "date": "1843",
+      "event": "Richard Wagner premieres the opera Der fliegende Holländer (The Flying Dutchman), based on Heinrich Heine's 1833 story",
+      "significance": "Major cultural crystallization of the legend; introduces salvation-through-love motif",
+      "source": "Wagner, R. (1843), Der fliegende Holländer"
+    },
+    {
+      "date": "1881-07-11",
+      "event": "Future King George V, then a midshipman aboard HMS Bacchante, records a sighting of a glowing phantom ship at 4 a.m. off Australia; 13 crew members also witnessed it; a seaman who reported the sighting fell from the rigging later that morning",
+      "significance": "The most cited 'credible' historical sighting due to the social standing of the witness",
+      "source": "Dalton, J. N. (1886), The Cruise of HMS Bacchante"
+    },
+    {
+      "date": "1872-12-04",
+      "event": "The brigantine Mary Celeste is found abandoned in the Atlantic between Portugal and the Azores with no crew, cargo intact, and last log entry dated November 25",
+      "significance": "Most famous real ghost ship mystery; crew's fate remains unexplained",
+      "source": "Fay, C. R. (1942), Mary Celeste: The Odyssey of an Abandoned Ship"
+    },
+    {
+      "date": "1921-01-31",
+      "event": "Five-masted schooner Carroll A. Deering found derelict at Diamond Shoals, North Carolina; lifeboats and logbook missing; investigated by six US government departments",
+      "significance": "Major 20th-century ghost ship mystery investigated at federal level",
+      "source": "US State Department and other agencies (1921)"
+    },
+    {
+      "date": "1931",
+      "event": "Hudson's Bay Company cargo steamer SS Baychimo abandoned in pack ice near Barrow, Alaska; vessel remained afloat and was repeatedly sighted drifting until at least 1969",
+      "significance": "One of history's longest-documented drifting ghost ships",
+      "source": "Multiple press reports (1931–1969)"
+    }
+  ],
+  "related": [
+    {
+      "id": "ghost-lights",
+      "name": "Ghost Lights",
+      "relationship": "related",
+      "description": "Unexplained lights at sea, sometimes attributed to phantom ships or St. Elmo's fire"
+    },
+    {
+      "id": "fata-morgana",
+      "name": "Fata Morgana Mirage",
+      "relationship": "related",
+      "description": "Atmospheric optical phenomenon that can produce ship-like images above the horizon"
+    }
+  ],
+  "cultural_notes": "In maritime superstition, sighting a phantom ship is an omen of storms, death, or disaster. Sailors traditionally believed the Flying Dutchman could be seen off the Cape of Good Hope before bad weather.",
+  "sources": [
+    {
+      "id": "macdonald-1790",
+      "type": "book",
+      "title": "Travels in Various Parts of Europe, Asia and Africa",
+      "authors": [
+        "John MacDonald"
+      ],
+      "publication": "Self-published",
+      "date": "1790"
+    },
+    {
+      "id": "barrington-1795",
+      "type": "book",
+      "title": "A Voyage to Botany Bay",
+      "authors": [
+        "George Barrington"
+      ],
+      "date": "1795"
+    },
+    {
+      "id": "dalton-1886",
+      "type": "book",
+      "title": "The Cruise of HMS Bacchante 1879–1882",
+      "authors": [
+        "J. N. Dalton"
+      ],
+      "publication": "Macmillan",
+      "date": "1886"
+    },
+    {
+      "id": "fay-1942",
+      "type": "book",
+      "title": "Mary Celeste: The Odyssey of an Abandoned Ship",
+      "authors": [
+        "Charles Edey Fay"
+      ],
+      "publication": "Peabody Museum of Salem",
+      "date": "1942"
+    },
+    {
+      "id": "marryat-1839",
+      "type": "book",
+      "title": "The Phantom Ship",
+      "authors": [
+        "Frederick Marryat"
+      ],
+      "date": "1839"
+    },
+    {
+      "id": "wikipedia-flying-dutchman",
+      "type": "website",
+      "title": "Flying Dutchman",
+      "url": "https://en.wikipedia.org/wiki/Flying_Dutchman",
+      "accessed": "2026-05-08"
+    },
+    {
+      "id": "wikipedia-ghost-ship",
+      "type": "website",
+      "title": "Ghost ship",
+      "url": "https://en.wikipedia.org/wiki/Ghost_ship",
+      "accessed": "2026-05-08"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Cape of Good Hope",
+      "lat": -34.3568,
+      "lng": 18.4733
+    }
+  ]
 }

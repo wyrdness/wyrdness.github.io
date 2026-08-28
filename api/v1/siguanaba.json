@@ -3,6 +3,7 @@
   "name": "La Siguanaba",
   "category": "ghost_haunting",
   "description": "La Siguanaba is a shapeshifting female spirit of Central American folklore who appears to lone travellers — typically unfaithful or wayward men — as a beautiful long-haired woman seen from behind, then turns to reveal a horrifying face (a horse skull or a death's head). She lures her victims to ravines or rivers, where they may be driven mad or killed.",
+  "full_description": "La Siguanaba (also Sihuanaba, Ciguanaba; Cigua / La Sucia in Honduras and Nicaragua; Cegua in Costa Rica; macihuatli in parts of Mexico) is one of the most widespread female-spirit figures of Central American folklore, present from southern Mexico through Costa Rica. She appears as a beautiful, long-haired woman bathing in a river or walking a country road at night, attractive at a distance and from behind; when her would-be admirer approaches she turns and reveals a horrifying face — most often a horse-skull, sometimes a death's-head or a hollow-eyed visage — and lures or chases the victim into a ravine, river, or wilderness where he is driven mad, falls to his death, or is found dazed days later. In Salvadoran Cuscatleca tradition recorded by Miguel Ángel Espino in 'Mitología de Cuscatlán' (1919) she was originally called Sihuehuet ('beautiful woman' in Nahuat), an unfaithful queen punished by Tlaloc for her infidelity to a god-figure (Lucero de la Mañana / the Morning Star); she is also said to be the mother of the Cipitío, a small mischievous boy spirit. The figure overlaps with Mexican La Llorona but is distinguished by her pre-Columbian Nahuat etymology (cihuatl 'woman' / cihuanahual or cihuanauac 'concubine, female spirit') and by the horse-skull or skull face that is her hallmark. Traditional defences include making the sign of the cross or biting one's machete. The legend has functioned both as a cautionary tale aimed at unfaithful men and as a colonial/postcolonial marker of indigenous-inflected Central American identity.",
   "aliases": [
     {
       "name": "Siguanaba",
@@ -70,5 +71,100 @@
   "origin": "Central American folklore from southern Mexico to Costa Rica, with regional variants in El Salvador, Guatemala, Honduras, Nicaragua, and Costa Rica.",
   "first_reported": "Pre-Columbian (oral)",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "From Pipil/Nahuat: most likely from cihuatl ('woman') combined with nahual ('spirit / shapeshifter') or with -nauac ('thing of'); the form sihuehuet ('beautiful woman') is also recorded as her original name in Salvadoran tradition.",
+    "meaning": "Variously glossed as 'horrible woman', 'spirit-woman', or 'concubine / female being'.",
+    "first_use": "Pre-Columbian oral tradition (oral); first major printed compilation in Miguel Ángel Espino's 'Mitología de Cuscatlán' (1919)."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "Pre-Columbian",
+      "event": "Pipil/Nahuat-speaking communities of Cuscatlán transmit oral traditions of cihuatl spirit-women",
+      "significance": "Pre-contact substrate of the Siguanaba figure",
+      "source": "Reconstructed from Nahuat etymology and ethnohistory"
+    },
+    {
+      "date": "1919",
+      "event": "Miguel Ángel Espino publishes 'Mitología de Cuscatlán' in El Salvador",
+      "significance": "First major printed compilation of the Salvadoran Siguanaba/Sihuehuet legend",
+      "source": "Espino, M. Á. (1919)"
+    },
+    {
+      "date": "20th century",
+      "event": "Siguanaba/Cigua/Cegua becomes a fixture of Central American national folklore curricula and tourism",
+      "significance": "Institutional consolidation across the region",
+      "source": "Various national folklore compilations"
+    }
+  ],
+  "related": [
+    {
+      "id": "la-llorona",
+      "name": "La Llorona",
+      "relationship": "similar",
+      "description": "Mexican weeping-woman spirit; closely associated and frequently confused with Siguanaba"
+    },
+    {
+      "id": "cipitio",
+      "name": "El Cipitío",
+      "relationship": "related",
+      "description": "Small mischievous boy-spirit identified in Salvadoran tradition as Siguanaba's son"
+    },
+    {
+      "id": "cadejo",
+      "name": "El Cadejo",
+      "relationship": "related",
+      "description": "Companion Central American folk figure (a black or white dog spirit) often paired with Siguanaba and Cipitío"
+    },
+    {
+      "id": "patasola",
+      "name": "La Patasola",
+      "relationship": "similar",
+      "description": "Colombian one-legged female forest spirit with comparable motifs"
+    },
+    {
+      "id": "chiltota-or-tunda",
+      "name": "La Tunda",
+      "relationship": "similar",
+      "description": "Pacific-coast Colombian/Ecuadorian female luring spirit"
+    }
+  ],
+  "cultural_notes": "Held in tradition as a real spirit; treated in modern public culture as the leading folkloric figure of Salvadoran and broader Central American identity.",
+  "sources": [
+    {
+      "id": "wikipedia-sihuanaba",
+      "type": "website",
+      "title": "Sihuanaba",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sihuanaba",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "espino-1919",
+      "type": "book",
+      "title": "Mitología de Cuscatlán",
+      "authors": [
+        "Miguel Ángel Espino"
+      ],
+      "publication": "El Salvador",
+      "date": "1919"
+    },
+    {
+      "id": "salarrue-1933",
+      "type": "book",
+      "title": "Cuentos de barro",
+      "authors": [
+        "Salvador Salazar Arrué (Salarrué)"
+      ],
+      "publication": "El Salvador",
+      "date": "1933"
+    }
+  ],
+  "locations": []
 }

@@ -3,6 +3,7 @@
   "name": "Bulgae",
   "category": "mythological_creature",
   "description": "The Bulgae (불개, 'fire dogs') are mythological hounds in Korean folklore sent by the king of the dark realm Gamangnara to steal the sun and the moon, whose biting attempts explain solar and lunar eclipses.",
+  "full_description": "In Korean mythology, the Bulgae (불개) are fierce celestial hounds dispatched by the king of Gamangnara — a kingdom of perpetual darkness — to seize the sun and moon and bring light to his realm. According to the traditional account, the first Bulgae was sent to capture the sun, but the sun was so unbearably hot that the dog could not hold it and was forced to spit it out. A second Bulgae was sent for the moon, but the moon was so cold that its mouth froze and it dropped its quarry. Successive kings of Gamangnara have continued to send fire dogs on the same impossible errand. The mythological narrative explains solar and lunar eclipses: the dark sections of the eclipsed body are the bites of the Bulgae, and the eclipse ends when the dog gives up and returns home. The Bulgae thus belong to a wider East and Inner Asian eclipse-mythology family that includes Chinese 'sky dog' traditions and the Norse Sköll/Hati. The legend is preserved in Korean folktale collections and remains a familiar story in modern Korean popular culture, including children's literature and animation.",
   "aliases": [
     {
       "name": "불개",
@@ -38,5 +39,79 @@
   "origin": "The Bulgae legend is a Korean mythological tradition known throughout the Korean peninsula and the Korean diaspora.",
   "first_reported": "20th century (oral tradition older)",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Korean: 불 (bul, 'fire') + 개 (gae, 'dog'). The Sino-Korean equivalent 화구 (火狗, hwagu) carries the same meaning.",
+    "meaning": "'Fire dog' — an animal of supernatural fierceness associated with heat, biting, and the celestial bodies.",
+    "first_use": "Korean oral tradition; recorded in 20th-century folktale collections such as 'Hangug-ui Seolhwa' (Korean Folk Tales) and 'Korean Myths and Folk Legends' (2006)."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "Pre-1900",
+      "event": "Bulgae stories transmitted as oral folklore explaining solar and lunar eclipses",
+      "significance": "Cultural baseline of the tradition",
+      "source": "Oral tradition"
+    },
+    {
+      "date": "20th century",
+      "event": "Recorded in Korean folktale collections, including the 'Hangug-ui Seolhwa' tradition",
+      "significance": "Written preservation of the myth",
+      "source": "Korean folktale anthologies"
+    },
+    {
+      "date": "2006",
+      "event": "James H. Grayson includes the Bulgae story in his 'Myths and Legends from Korea: An Annotated Compendium of Ancient and Modern Materials'",
+      "significance": "Major English-language scholarly compilation",
+      "source": "Grayson, J. H. (2006)"
+    }
+  ],
+  "related": [
+    {
+      "id": "tiangou",
+      "name": "Tiangou (天狗)",
+      "relationship": "similar",
+      "description": "Chinese 'sky dog' that devours the sun or moon during eclipses"
+    },
+    {
+      "id": "skoll-hati",
+      "name": "Sköll and Hati",
+      "relationship": "similar",
+      "description": "Norse wolves that pursue the sun and moon"
+    },
+    {
+      "id": "rahu",
+      "name": "Rahu",
+      "relationship": "similar",
+      "description": "Hindu eclipse-causing demon swallowing sun and moon"
+    }
+  ],
+  "cultural_notes": "The visible darkness during a solar or lunar eclipse is the bite of a Bulgae; the eclipse ends when the dog gives up.",
+  "sources": [
+    {
+      "id": "wikipedia-bulgae",
+      "type": "website",
+      "title": "Bulgae",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Bulgae",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "grayson-2006",
+      "type": "book",
+      "title": "Myths and Legends from Korea: An Annotated Compendium of Ancient and Modern Materials",
+      "authors": [
+        "James H. Grayson"
+      ],
+      "publication": "Routledge",
+      "date": "2006",
+      "isbn": "978-0700712410"
+    }
+  ],
+  "locations": []
 }

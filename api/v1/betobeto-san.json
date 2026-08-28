@@ -3,6 +3,7 @@
   "name": "Betobeto-san",
   "category": "entity_spirit",
   "description": "An invisible Japanese yōkai known only by its sound: the patter of straight-following geta (wooden sandal) footsteps that walks behind people on lonely night roads. Harmless, and easily dismissed by stepping aside and politely inviting it to pass.",
+  "full_description": "Betobeto-san (べとべとさん) is a Japanese yōkai of the auditory kind — known not by appearance but by the sound of footsteps following a traveller on a quiet night road. The name imitates the 'beto-beto' sound of sandals slapping the ground. The creature is invisible, never harms anyone, and is reported chiefly from Uda-gun in Nara Prefecture and from Shizuoka Prefecture, with related auditory yōkai (Bishakutsu) recorded in Fukui Prefecture. The folkloric remedy is to stop, step aside on the road, and politely say something like 'Betobeto-san, please go ahead' (Betobeto-san, osaki ni okoshi); the footsteps then continue on without you. Betobeto-san is one of the best-known minor yōkai in Japanese folklore compendiums and is most familiar to modern audiences through manga artist Shigeru Mizuki, who included it in his GeGeGe no Kitarō works.",
   "aliases": [
     {
       "name": "べとべとさん",
@@ -33,5 +34,100 @@
   "origin": "Reports localised to rural Japan, particularly Uda-gun in Nara Prefecture and parts of Shizuoka Prefecture; related Bishakutsu reports in Fukui Prefecture.",
   "first_reported": "20th century",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Japanese onomatopoeia: 'beto-beto' (べとべと) imitating the sound of footsteps, with the honorific suffix -san. The yōkai is identified by sound rather than form.",
+    "meaning": "Roughly 'Mr. Sticky-Steps' or 'Mr. Patter-Patter' — named for its distinctive footstep sound.",
+    "first_use": "Recorded in 20th-century Japanese folklore compendiums, including the Sōgō Nihon Minzoku Goi (Comprehensive Vocabulary of Japanese Folk Customs, 1955) and the Yōkai Jiten (Yōkai Encyclopedia) tradition."
+  },
+  "sightings_stats": {
+    "date_range": {
+      "earliest": "Pre-modern",
+      "latest": "20th century compendiums"
+    }
+  },
+  "timeline": [
+    {
+      "date": "1955",
+      "event": "Betobeto-san appears in the Sōgō Nihon Minzoku Goi (Comprehensive Vocabulary of Japanese Folk Customs)",
+      "significance": "First major folkloristic reference work to record the yōkai",
+      "source": "Yanagita Kunio (ed.), Sōgō Nihon Minzoku Goi"
+    },
+    {
+      "date": "1968",
+      "event": "Shigeru Mizuki includes Betobeto-san in his GeGeGe no Kitarō universe",
+      "significance": "Brings the yōkai into postwar pop culture",
+      "source": "Mizuki Shigeru, GeGeGe no Kitarō manga"
+    },
+    {
+      "date": "1995",
+      "event": "Murakami Kenji's Yōkai Jiten (Yōkai Encyclopedia) catalogues Betobeto-san with regional notes",
+      "significance": "Modern reference compilation",
+      "source": "Murakami Kenji, Yōkai Jiten (Mainichi Shimbunsha, 1995)"
+    }
+  ],
+  "related": [
+    {
+      "id": "ashimagari",
+      "name": "Ashimagari",
+      "relationship": "similar",
+      "description": "Invisible yōkai that wraps around legs at night"
+    },
+    {
+      "id": "teke-teke",
+      "name": "Teke-teke",
+      "relationship": "related",
+      "description": "Modern urban-legend yōkai identified primarily by sound"
+    },
+    {
+      "id": "betobeto-bishakutsu",
+      "name": "Bishakutsu",
+      "relationship": "regional_variant",
+      "description": "Footstep-following yōkai of Fukui Prefecture"
+    },
+    {
+      "id": "konaki-jiji",
+      "name": "Konaki-jijī",
+      "relationship": "related",
+      "description": "Another Mizuki-popularised minor yōkai of road encounters"
+    }
+  ],
+  "cultural_notes": "Recognised as harmless; the practical 'remedy' (stepping aside and inviting it to pass) is itself part of the tradition and reflects the genteel character of much Japanese yōkai folklore.",
+  "sources": [
+    {
+      "id": "wikipedia-betobeto-san",
+      "type": "website",
+      "title": "Betobeto-san",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Betobeto-san",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "yanagita-1955",
+      "type": "book",
+      "title": "Sōgō Nihon Minzoku Goi (Comprehensive Vocabulary of Japanese Folk Customs)",
+      "authors": [
+        "Yanagita Kunio (ed.)"
+      ],
+      "publication": "Heibonsha",
+      "date": "1955"
+    },
+    {
+      "id": "murakami-1995",
+      "type": "book",
+      "title": "Yōkai Jiten (Yōkai Encyclopedia)",
+      "authors": [
+        "Murakami Kenji"
+      ],
+      "publication": "Mainichi Shimbunsha",
+      "date": "1995"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Uda-gun",
+      "lat": 34.53,
+      "lng": 135.95
+    }
+  ]
 }

@@ -3,6 +3,7 @@
   "name": "Iara",
   "category": "mythological_creature",
   "description": "The Iara is a beautiful freshwater siren of Brazilian folklore, especially associated with the Amazon basin, who lures men into rivers to drown them or condemn them to lasting madness.",
+  "full_description": "The Iara — also Uiara, Yara, or Mãe d'água ('Mother of the Waters') — is a freshwater siren-figure of Brazilian folklore most strongly associated with the Amazon basin and the river systems of northern and central Brazil. Her name derives from the Nheengatu iiyara, from ií ('water') and yara ('lord, lady'). In modern accounts she is typically described as a beautiful young woman, often with dark hair and skin in the indigenous-grounded telling and with green or golden hair in the 19th-century Romantic literary recasting. She lures men to her with a sweet voice and takes them down to her underwater home where they are drowned; survivors are said to suffer melancholy or a rabies-like madness, sometimes with bite marks on the neck. Folklorist Luís da Câmara Cascudo argued that the modern Iara is a 19th-century syncretic figure combining indigenous water-monster traditions (notably the Ipupiara water-devil and the Cobra-Grande), Portuguese moura encantada (enchanted Moor) folklore, and European mermaid imagery; the blonde, blue-eyed image is not attested before the mid-19th century and is associated with the Romantic poets Antônio Gonçalves Dias and José de Alencar.",
   "aliases": [
     {
       "name": "Uiara",
@@ -53,5 +54,174 @@
   "origin": "The Iara figure is distributed across the freshwater systems of Brazil, particularly the Amazon basin and the rivers of the north and central regions. It is largely a Brazilian phenomenon with diffusion through Lusophone South America.",
   "first_reported": "1851",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Nheengatu iiyara, from ií ('water') + yara ('lord, lady'). The form trisyllabic u-[y]ára or u-[i]ára gave the variants Uiara and Iara in Portuguese.",
+    "meaning": "Lord or lady of the water; mother of the waters (Mãe d'água).",
+    "first_use": "Modern folklorists (notably Câmara Cascudo) date the Iara legend as a recognizable figure to the 19th century; it is not attested in Brazilian colonial-period (16th c.) texts."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0,
+    "date_range": {
+      "earliest": "1851",
+      "latest": "2026"
+    }
+  },
+  "timeline": [
+    {
+      "date": "1851-01-01",
+      "event": "Antônio Gonçalves Dias publishes the poem 'A mãe d'água'",
+      "significance": "Inaugurates the Romantic literary Iara figure with golden hair",
+      "source": "Gonçalves Dias, 'A mãe d'água' (1851)"
+    },
+    {
+      "date": "1873-01-01",
+      "event": "Francisco Bernardino de Souza publishes 'A Yara'",
+      "significance": "Documents an oral Manaus version with blonde, green-eyed description",
+      "source": "Bernardino de Souza, 'A Yara' (1873)"
+    },
+    {
+      "date": "1875-01-01",
+      "event": "José de Alencar publishes O tronco do Ipé",
+      "significance": "Literary fiction featuring an Iara-like water-female with hair the color of her vegetation surroundings",
+      "source": "Alencar, O tronco do Ipé (1875)"
+    },
+    {
+      "date": "1881-01-01",
+      "event": "João Barbosa Rodrigues publishes 'Lendas, crenças e superstições' in Revista Brazileira",
+      "significance": "Early scholarly documentation insisting on the original indigenous (dark-haired, dark-skinned) Iara",
+      "source": "Barbosa Rodrigues, Revista Brazileira (1881)"
+    },
+    {
+      "date": "1889-01-01",
+      "event": "Frederico José de Santana Néri publishes Folk-Lore brésilien",
+      "significance": "Documents a Pará version of the legend including the death of one Januario Marinho",
+      "source": "Santana Néri, Folk-Lore brésilien (1889)"
+    },
+    {
+      "date": "1904-01-01",
+      "event": "Andrew Lang adapts the legend in The Brown Fairy Book",
+      "significance": "Earliest major English-language adaptation of the Iara story",
+      "source": "Lang, The Brown Fairy Book (1904)"
+    },
+    {
+      "date": "1917-01-01",
+      "event": "Afonso Arinos publishes Lendas e tradições brasileiras",
+      "significance": "Hybrid description of the Iara: hair the color of pau d'arco flowers, pink skin like the spoonbill",
+      "source": "Arinos, Lendas e tradições brasileiras (1917)"
+    },
+    {
+      "date": "1954-01-01",
+      "event": "Luís da Câmara Cascudo publishes the Dicionário do folclore brasileiro",
+      "significance": "Consolidates scholarly treatment of the Iara as a 19th-century syncretic figure",
+      "source": "Câmara Cascudo, Dicionário do folclore brasileiro (1954)"
+    }
+  ],
+  "related": [
+    {
+      "id": "ipupiara",
+      "name": "Ipupiara",
+      "relationship": "related",
+      "description": "Indigenous Tupi water-monster (a 'freshwater devil') from which Câmara Cascudo argued the Iara figure partly descends"
+    },
+    {
+      "id": "cobra-grande",
+      "name": "Cobra-Grande",
+      "relationship": "related",
+      "description": "Amazonian giant water-serpent, another precursor in Câmara Cascudo's reading"
+    },
+    {
+      "id": "boto",
+      "name": "Boto encantado",
+      "relationship": "related",
+      "description": "Pink river dolphin shapeshifter of Amazonian folklore, sharing the seductive water-spirit role"
+    },
+    {
+      "id": "moura-encantada",
+      "name": "Moura encantada",
+      "relationship": "related",
+      "description": "Portuguese 'enchanted Moorish maiden', identified by Câmara Cascudo as a European antecedent of the Iara figure"
+    },
+    {
+      "id": "siren",
+      "name": "Siren / mermaid",
+      "relationship": "similar",
+      "description": "European seductive water-female tradition that influenced the literary Iara from the 19th century onward"
+    }
+  ],
+  "cultural_notes": "Men should avoid lone river bathing at dusk; survivors of an Iara encounter are believed to require ritual healing for their melancholy or rabies-like affliction.",
+  "sources": [
+    {
+      "id": "cascudo-1954",
+      "type": "book",
+      "title": "Dicionário do folclore brasileiro",
+      "authors": [
+        "Luís da Câmara Cascudo"
+      ],
+      "publication": "Instituto Nacional do Livro",
+      "date": "1954"
+    },
+    {
+      "id": "barbosa-rodrigues-1881",
+      "type": "article",
+      "title": "Lendas, crenças e superstições",
+      "authors": [
+        "João Barbosa Rodrigues"
+      ],
+      "publication": "Revista Brazileira",
+      "date": "1881"
+    },
+    {
+      "id": "santana-neri-1889",
+      "type": "book",
+      "title": "Folk-Lore brésilien",
+      "authors": [
+        "Frederico José de Santana Néri"
+      ],
+      "publication": "Perrin et Cie, Paris",
+      "date": "1889"
+    },
+    {
+      "id": "goncalves-dias-1851",
+      "type": "book",
+      "title": "A mãe d'água (poem)",
+      "authors": [
+        "Antônio Gonçalves Dias"
+      ],
+      "publication": "Brazilian Romantic poetry",
+      "date": "1851"
+    },
+    {
+      "id": "arinos-1917",
+      "type": "book",
+      "title": "Lendas e tradições brasileiras",
+      "authors": [
+        "Afonso Arinos"
+      ],
+      "publication": "Brazilian folklore",
+      "date": "1917"
+    },
+    {
+      "id": "lang-1904",
+      "type": "book",
+      "title": "The Brown Fairy Book",
+      "authors": [
+        "Andrew Lang"
+      ],
+      "publication": "Longmans, Green and Co.",
+      "date": "1904"
+    },
+    {
+      "id": "wikipedia-iara",
+      "type": "website",
+      "title": "Iara (mythology)",
+      "url": "https://en.wikipedia.org/wiki/Iara_(mythology)",
+      "publication": "Wikipedia",
+      "accessed": "2026-05-07"
+    }
+  ],
+  "locations": []
 }

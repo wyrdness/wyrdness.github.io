@@ -3,6 +3,7 @@
   "name": "Anubis",
   "category": "mythological_creature",
   "description": "Ancient Egyptian jackal-headed deity associated with mummification, the protection of tombs, and the conduct of souls through the underworld; one of the longest-lived figures in Egyptian religion.",
+  "full_description": "Anubis (Egyptian Inpw / Anpu) is an ancient Egyptian deity associated with mummification, the protection of cemeteries, and the journey of the dead through the underworld. He is consistently depicted either as a man with the head of a black jackal-like canid or in full canid form. The black colour of his coat is symbolic rather than zoological, evoking both the discoloration of the body during natron desiccation and the fertile black silt of the Nile from which new life rises. Anubis was worshipped from the Predynastic period (c. 4000 BCE) into the Roman era and was the principal funerary god of the Old Kingdom; in the Middle Kingdom Osiris rose in prominence and Anubis took on a constellation of subordinate but enduring roles, including 'He who is upon his mountain' (guardian of the cemetery), 'He who is in the place of embalming', 'Lord of the Sacred Land', and 'Opener of the Ways'. In the iconic judgment scene of Chapter 125 of the Book of the Dead, Anubis presides over the weighing of the heart against the feather of Maat. His parents and children differ across traditions: he is variously the son of Ra, of Set and Nephthys, or (in later tradition) of Osiris and Nephthys, and is the father of the serpent goddess Kebechet. In the Ptolemaic and Roman periods Anubis was syncretised with the Greek Hermes as Hermanubis. His main cult centre was at Hardai, called by the Greeks Cynopolis ('city of the dog').",
   "aliases": [
     {
       "name": "Anpu",
@@ -40,5 +41,108 @@
   "origin": "Worshipped throughout ancient Egypt, with principal cult centre at Hardai (Cynopolis) in Upper Egypt; cult spread into the wider Greco-Roman world during the Ptolemaic and Roman periods.",
   "first_reported": "Predynastic / Old Kingdom",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Anubis is the Greek rendering of the Egyptian Inpw / Anpu.",
+    "meaning": "The name's root has been connected to the word 'inp' associated with decay, fitting his funerary role; alternative folk-etymologies relate it to 'a royal child'.",
+    "first_use": "Anubis is attested from the Old Kingdom (c. 2700 BCE) and possibly earlier in Predynastic iconography of canids on cemetery standards."
+  },
+  "sightings_stats": null,
+  "timeline": [
+    {
+      "date": "c. 2700 BCE",
+      "event": "Anubis attested as principal funerary god in Old Kingdom mortuary inscriptions",
+      "significance": "Establishes him at the head of the funerary pantheon",
+      "source": "Pyramid Texts and Old Kingdom mastaba inscriptions"
+    },
+    {
+      "date": "c. 2000 BCE",
+      "event": "Rise of Osiris partially supplants Anubis as lord of the underworld in the Middle Kingdom",
+      "significance": "Anubis assumes specialised funerary roles",
+      "source": "Coffin Texts"
+    },
+    {
+      "date": "c. 1550–1070 BCE",
+      "event": "Anubis depicted presiding over the Weighing of the Heart in New Kingdom Books of the Dead",
+      "significance": "Iconic image of Anubis enters its canonical form",
+      "source": "Book of the Dead corpus (e.g. Papyrus of Ani, Papyrus of Hunefer)"
+    },
+    {
+      "date": "c. 332 BCE onward",
+      "event": "Ptolemaic and Roman-era syncretism produces Hermanubis",
+      "significance": "Anubis enters the wider Mediterranean religious world",
+      "source": "Greco-Roman religious iconography"
+    }
+  ],
+  "related": [
+    {
+      "id": "ammit",
+      "name": "Ammit",
+      "relationship": "related",
+      "description": "Devourer of the unworthy heart in the same judgment scene presided over by Anubis"
+    },
+    {
+      "id": "osiris",
+      "name": "Osiris",
+      "relationship": "related",
+      "description": "Lord of the underworld, partially supplanting Anubis from the Middle Kingdom"
+    },
+    {
+      "id": "wepwawet",
+      "name": "Wepwawet",
+      "relationship": "similar",
+      "description": "Other Egyptian canid deity, 'Opener of the Ways'"
+    },
+    {
+      "id": "hermanubis",
+      "name": "Hermanubis",
+      "relationship": "regional_variant",
+      "description": "Greco-Egyptian syncretism of Anubis and Hermes"
+    }
+  ],
+  "cultural_notes": "Anubis embodied the careful, ritualised relationship between Egyptian society and its dead.",
+  "sources": [
+    {
+      "id": "wikipedia-anubis",
+      "type": "website",
+      "title": "Anubis",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Anubis",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "ikram-2005",
+      "type": "book",
+      "title": "Divine Creatures: Animal Mummies in Ancient Egypt",
+      "authors": [
+        "Salima Ikram (ed.)"
+      ],
+      "publication": "American University in Cairo Press",
+      "date": "2005",
+      "isbn": "978-9774248580"
+    },
+    {
+      "id": "taylor-2010-anubis",
+      "type": "book",
+      "title": "Journey through the Afterlife: Ancient Egyptian Book of the Dead",
+      "authors": [
+        "John H. Taylor"
+      ],
+      "publication": "British Museum Press",
+      "date": "2010",
+      "isbn": "978-0714119892"
+    },
+    {
+      "id": "hornung-1999-anubis",
+      "type": "book",
+      "title": "The Ancient Egyptian Books of the Afterlife",
+      "authors": [
+        "Erik Hornung"
+      ],
+      "publication": "Cornell University Press",
+      "date": "1999",
+      "isbn": "978-0801485152"
+    }
+  ],
+  "locations": []
 }

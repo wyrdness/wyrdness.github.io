@@ -3,6 +3,7 @@
   "name": "Hasshaku-sama",
   "category": "ghost_haunting",
   "description": "Hasshaku-sama is a Japanese internet-era urban legend originating on 2channel describing an unnaturally tall female ghost roughly 2.4 metres in height who, having become fixated on a child, pursues them with a deep masculine 'po, po, po' laugh and an ability to imitate family members' voices.",
+  "full_description": "Hasshaku-sama (八尺様, 'Lady Eight Shaku', sometimes romanized Hachishakusama) is a modern Japanese urban legend that originated as a creepypasta-style ghost story on the anonymous Japanese imageboard 2channel (2chan). The traditional account is told as the recollection of a teenage boy who, while staying at his grandparents' rural house, sees an extraordinarily tall woman in a flowing white dress and a wide-brimmed sun hat looking over the garden wall and emitting a deep, hollow 'po, po, po' laugh. His grandfather recognises the description as Hasshaku-sama and explains that once she has fixed her attention on a child she will pursue them, that she is able to mimic the voices of family members to lure the victim out, and that the family must hide the child within a salt-protected room while a Buddhist priest is summoned. Her name describes her height: hasshaku ('eight shaku') is roughly 240 cm (about 7 ft 10 in / nearly 8 ft) using the historical Japanese length measure (1 shaku ≈ 30.3 cm). Hasshaku-sama emerged in the 2000s and is one of the most influential 2channel-born ghost legends, frequently illustrated in fan art, manga, and short film, and frequently re-told and adapted in Japanese and global creepypasta communities.",
   "aliases": [
     {
       "name": "Hachishakusama",
@@ -35,5 +36,82 @@
   "origin": "Japanese internet folklore originating on 2channel; the canonical story is set in rural Japan but the legend itself is now globally circulated through creepypasta communities.",
   "first_reported": "2008-08-01",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Japanese internet folklore on 2channel; the name is built from hasshaku (eight shaku, an old Japanese length measure) + the honorific -sama.",
+    "meaning": "'Lady Eight Shaku' — referring to the entity's signature unnatural height of approximately 2.4 metres.",
+    "first_use": "Popularised on 2channel in the mid-2000s; commonly cited as having appeared in 2008 in the form of the now-canonical greenhouse story."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "2008-08-01",
+      "event": "Canonical Hasshaku-sama narrative posted on 2channel describing the grandparents'-house encounter",
+      "significance": "Seeds the modern urban legend",
+      "source": "2channel archives, conventional dating in Japanese creepypasta scholarship"
+    },
+    {
+      "date": "2014-01-01",
+      "event": "Hasshaku-sama becomes a recurring figure in fan-art, doujinshi, and short-film projects in Japan",
+      "significance": "Transition from text-based creepypasta to multimedia legend",
+      "source": "Japanese creepypasta and doujin communities"
+    }
+  ],
+  "related": [
+    {
+      "id": "hanako-san",
+      "name": "Hanako-san",
+      "relationship": "related",
+      "description": "Earlier Japanese school-bound urban legend ghost; both target children and operate by ritual rules"
+    },
+    {
+      "id": "kuchisake-onna",
+      "name": "Kuchisake-onna",
+      "relationship": "similar",
+      "description": "Slit-mouthed woman urban legend, similarly fixated on a chosen victim"
+    },
+    {
+      "id": "kunekune",
+      "name": "Kunekune",
+      "relationship": "similar",
+      "description": "Another 2channel-born Japanese creepypasta entity"
+    },
+    {
+      "id": "slender-man",
+      "name": "Slender Man",
+      "relationship": "counterpart",
+      "description": "Western internet-era unnaturally tall pursuit-figure"
+    },
+    {
+      "id": "teke-teke",
+      "name": "Teke Teke",
+      "relationship": "related",
+      "description": "Japanese urban legend ghost defined by an unusual physical feature and pursuit behaviour"
+    }
+  ],
+  "cultural_notes": "Treated as a fictional internet horror figure, but circulated in the same storytelling register as older Japanese ghost stories.",
+  "sources": [
+    {
+      "id": "kowabana-hasshaku",
+      "type": "website",
+      "title": "Japanese urban legend: Hasshaku-sama",
+      "publication": "Kowabana",
+      "url": "https://www.kowabana.net/2017/09/06/hasshaku-sama/",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "grimoire-hasshaku",
+      "type": "website",
+      "title": "Yokai and Urban Legends: Hasshaku-sama",
+      "publication": "Grimoire of Horror",
+      "url": "https://www.grimoireofhorror.com/the-yurei/hasshaku-sama-urban-legend/",
+      "accessed": "2026-05-07"
+    }
+  ],
+  "locations": []
 }

@@ -3,6 +3,7 @@
   "name": "Beelzebub",
   "category": "demon_angel",
   "description": "A major demon in Jewish, Christian and Islamic demonology, originating from the Philistine deity Baʿal Zəvuv ('lord of the flies') of Ekron in the Hebrew Bible (2 Kings 1) and identified in the Synoptic Gospels as 'prince of demons'. Often counted among the seven princes of Hell.",
+  "full_description": "Beelzebub is a major demonic figure in Jewish, Christian and Islamic tradition. The name originates as Baʿal Zəvuv (בַּעַל זְבוּב, 'lord of the flies'), a deity worshipped by the Philistines at Ekron, mentioned in the Hebrew Bible in 2 Kings 1:2–3, 6, 16, where King Ahaziah of Israel sends to consult him about an injury and is rebuked by the prophet Elijah. Most scholars regard the form 'lord of the flies' as a deliberate Israelite distortion of an original Baʿal Zəvul ('exalted lord' / 'lord of the lofty house') used as a polemical pun. In the Synoptic Gospels (Mark 3:22; Matthew 10:25, 12:24–27; Luke 11:15–19), Jewish opponents accuse Jesus of casting out demons by Beelzeboul, prince of demons, and Jesus replies with the saying that 'a kingdom divided against itself cannot stand'. By the late medieval and early modern period, Beelzebub had become one of the most prominent named demons in Christian demonology, associated with gluttony in Peter Binsfeld's classification (1589) and named one of the seven princes of Hell. The Testament of Solomon (1st–3rd c. CE) names Beelzeboul as a former prince of the highest heaven now ruling the demons. Milton's Paradise Lost (1667) places him as the second-highest of the fallen angels.",
   "aliases": [
     {
       "name": "Baʿal Zəvuv (בַּעַל זְבוּב)",
@@ -50,5 +51,160 @@
   "origin": "Originating in the Philistine cult of Ekron in the southern Levant. Subsequently a figure of Jewish, Christian, and Islamic demonology across the Christian and Muslim worlds.",
   "first_reported": "0850-01-01",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "From Biblical Hebrew בַּעַל זְבוּב (Baʿal Zəvuv), the name of a Philistine god of Ekron, transmitted through Greek βεελζεβούβ / βεελζεβούλ into Latin Beelzebub.",
+    "meaning": "Literal Hebrew: 'lord of the flies' (zəvuv = 'fly'). Most modern scholars treat this as a polemical Hebrew distortion of an original Baʿal Zəvul, 'exalted lord' or 'prince Baal' (cf. Ugaritic zbl, 'prince', and 1 Kings 8:13 bêt-zebûl, 'lofty house'). The Greek New Testament form Beelzeboul preserves the second element.",
+    "first_use": "9th–8th century BCE: Hebrew Bible, 2 Kings 1:2–3 (referencing the cult at Ekron under King Ahaziah, c. 850 BCE)"
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "c. 850 BCE",
+      "event": "King Ahaziah of Israel sends to consult Baʿal Zəvuv of Ekron and is rebuked by Elijah (2 Kings 1)",
+      "significance": "Earliest biblical reference",
+      "source": "2 Kings 1:2–3"
+    },
+    {
+      "date": "c. 65 CE",
+      "event": "Mark 3:22: Jewish scribes accuse Jesus of casting out demons by Beelzeboul, prince of demons",
+      "significance": "Establishes Beelzebub as prince of demons in Christian tradition",
+      "source": "Gospel of Mark"
+    },
+    {
+      "date": "1st–3rd c. CE",
+      "event": "Testament of Solomon depicts Beelzeboul as a former heavenly prince now ruling demons",
+      "significance": "Foundational pseudepigraphical demonology",
+      "source": "Testament of Solomon"
+    },
+    {
+      "date": "1589",
+      "event": "Peter Binsfeld's Tractatus de confessionibus maleficorum et sagarum classifies Beelzebub as the demon of gluttony in the seven-princes-of-Hell schema",
+      "significance": "Crystallizes the deadly-sin/demon mapping",
+      "source": "Binsfeld, P. (1589)"
+    },
+    {
+      "date": "1667",
+      "event": "John Milton's Paradise Lost places Beelzebub as the second of the fallen angels, after Satan",
+      "significance": "Defines Beelzebub for English literary tradition",
+      "source": "Milton, Paradise Lost (1667)"
+    },
+    {
+      "date": "1818",
+      "event": "Jacques Collin de Plancy's Dictionnaire infernal includes Beelzebub among the high princes of Hell",
+      "significance": "Standardizes 19th-century iconography",
+      "source": "Collin de Plancy, Dictionnaire infernal (1818, ill. 1863)"
+    }
+  ],
+  "related": [
+    {
+      "id": "satan",
+      "name": "Satan",
+      "relationship": "related",
+      "description": "In the New Testament, Beelzeboul is identified with the prince of demons; later tradition variously distinguishes or conflates the two"
+    },
+    {
+      "id": "lucifer",
+      "name": "Lucifer",
+      "relationship": "related",
+      "description": "Other major figure of fallen-angel tradition"
+    },
+    {
+      "id": "belial",
+      "name": "Belial",
+      "relationship": "similar",
+      "description": "Another major demon-prince in Jewish-Christian demonology"
+    },
+    {
+      "id": "asmodeus",
+      "name": "Asmodeus",
+      "relationship": "similar",
+      "description": "Demon associated with lust in seven-princes-of-Hell schema"
+    },
+    {
+      "id": "baal",
+      "name": "Baal",
+      "relationship": "related",
+      "description": "Original Northwest Semitic title from which Beelzebub derives"
+    }
+  ],
+  "cultural_notes": "Treated across Abrahamic traditions as a chief or near-chief demon, often paired with or distinguished from Satan.",
+  "sources": [
+    {
+      "id": "wiki-beelzebub",
+      "type": "website",
+      "title": "Beelzebub",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Beelzebub",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "britannica-beelzebub",
+      "type": "website",
+      "title": "Beelzebub",
+      "publication": "Encyclopedia Britannica",
+      "url": "https://www.britannica.com/topic/Beelzebub",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "newadvent-beelzebub",
+      "type": "website",
+      "title": "Beelzebub",
+      "publication": "Catholic Encyclopedia",
+      "url": "https://www.newadvent.org/cathen/02388c.htm",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "ddd-1999",
+      "type": "book",
+      "title": "Dictionary of Deities and Demons in the Bible (DDD)",
+      "authors": [
+        "Karel van der Toorn",
+        "Bob Becking",
+        "Pieter W. van der Horst (eds.)"
+      ],
+      "publication": "Brill / Eerdmans (2nd ed.)",
+      "date": "1999",
+      "isbn": "978-0802824912"
+    },
+    {
+      "id": "milton-1667",
+      "type": "book",
+      "title": "Paradise Lost",
+      "authors": [
+        "John Milton"
+      ],
+      "date": "1667"
+    },
+    {
+      "id": "binsfeld-1589",
+      "type": "book",
+      "title": "Tractatus de confessionibus maleficorum et sagarum",
+      "authors": [
+        "Peter Binsfeld"
+      ],
+      "date": "1589"
+    },
+    {
+      "id": "de-plancy-1818",
+      "type": "book",
+      "title": "Dictionnaire infernal",
+      "authors": [
+        "Jacques Collin de Plancy"
+      ],
+      "date": "1818"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Ekron (Tel Miqne)",
+      "lat": 31.78,
+      "lng": 34.85
+    }
+  ]
 }

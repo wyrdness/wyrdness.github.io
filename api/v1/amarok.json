@@ -3,6 +3,7 @@
   "name": "Amarok",
   "category": "mythological_creature",
   "description": "A gigantic, solitary wolf of Inuit oral tradition that hunts at night and is said to stalk hunters foolish enough to travel alone after dark.",
+  "full_description": "The Amarok (also Amaroq) is a giant wolf of Inuit oral tradition. Unlike ordinary wolves, which hunt in packs, the Amarok is solitary and is associated with the dangers that befall those who break customary safety rules — most especially hunters who go out alone at night. The earliest substantial English-language documentation comes from Hinrich Johannes Rink's 'Tales and Traditions of the Eskimo' (1875), which records three narratives in which Amarok appears as both a threat and, in some retellings, as a source of strength to those who survive an encounter. Modern English-language usage often conflates the Amarok with the gray wolf and with later cryptozoological figures such as the waheela, but in its original setting Amarok is best understood as a being of Inuit cosmology and a vehicle for traditional teaching about Arctic survival.",
   "aliases": [
     {
       "name": "Amaroq",
@@ -28,5 +29,61 @@
   "origin": "Inuit oral-tradition range, encompassing Greenland, Arctic Canada (Nunavut, Nunavik), and Alaska.",
   "first_reported": "Pre-contact",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Inuktitut amaruq / amaroq, the standard word for 'wolf' in many Inuit dialects.",
+    "meaning": "'Wolf' (literal); in narrative usage extends to 'wolf-spirit' or specifically the giant solitary wolf of legend.",
+    "first_use": "Recorded in Greenlandic Inuit storytelling collected by Hinrich Rink in the mid-19th century."
+  },
+  "sightings_stats": null,
+  "timeline": [
+    {
+      "date": "1875",
+      "event": "Hinrich Rink publishes 'Tales and Traditions of the Eskimo', recording Amarok narratives",
+      "significance": "First substantial English-language documentation",
+      "source": "Rink, H. (1875), Tales and Traditions of the Eskimo"
+    }
+  ],
+  "related": [
+    {
+      "id": "waheela",
+      "name": "Waheela",
+      "relationship": "similar",
+      "description": "Modern cryptozoological 'giant wolf' of the Northwest Territories"
+    },
+    {
+      "id": "fenrir",
+      "name": "Fenrir",
+      "relationship": "similar",
+      "description": "Norse mythological giant wolf"
+    },
+    {
+      "id": "akhlut",
+      "name": "Akhlut",
+      "relationship": "related",
+      "description": "Inuit orca-wolf hybrid spirit"
+    }
+  ],
+  "cultural_notes": "Amarok stands at the intersection of cautionary instruction and respect for non-human persons in Inuit cosmology.",
+  "sources": [
+    {
+      "id": "wikipedia-amarok",
+      "type": "website",
+      "title": "Amarok (wolf)",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Amarok_(wolf)",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "rink-1875",
+      "type": "book",
+      "title": "Tales and Traditions of the Eskimo",
+      "authors": [
+        "Hinrich Johannes Rink"
+      ],
+      "publication": "William Blackwood and Sons",
+      "date": "1875"
+    }
+  ],
+  "locations": []
 }

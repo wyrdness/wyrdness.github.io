@@ -3,6 +3,7 @@
   "name": "Div",
   "category": "demon_angel",
   "description": "A class of demons of Iranian and broader Persianate mythology, descended from the Avestan daēvas demonised under Zoroastrianism. Most famous as the divs of Ferdowsi's Shāhnāmeh — gigantic, horned, monstrous beings, including Div-e Sefid (the White Div) and Akvan Div — who oppose the hero Rostam.",
+  "full_description": "The div (Persian دیو, dīv; from Avestan daēva, 'false god') is a malevolent supernatural being of Iranian mythology with cognates and reflexes across the Persianate world (Tajik, Pashto, Kurdish, Azerbaijani, Armenian, Georgian, and Turkic traditions). In Zoroastrian theology, the daēvas are demons aligned with Angra Mainyu (Ahriman) against Ahura Mazda; the Avestan Vendīdād (literally 'law against the daēvas') prescribes ritual measures against them. After the Islamic conquest of Iran in the 7th century CE, the older daēva category was reshaped into the dīv of New Persian literature — gigantic, often horned and tusked humanoid creatures, frequently shape-shifters, dwelling in distant mountains and caves. The most famous div narratives are in Ferdowsi's Shāhnāmeh (completed c. 1010 CE): the Haft-Khān (Seven Labours) of Rostam culminate in the slaying of Div-e Sefid, the white div of Mazandaran, whose blood cures the blinded Kay Kāvus; and the Akvan Div episode, in which the demon hurls a sleeping Rostam into the sea. In folk tradition the divs play roles closer to ogres and giants of European folklore — to be tricked, blinded, and overcome by clever heroes — while in Sufi allegory they are read as personifications of the lower self (nafs) and of moral vice.",
   "aliases": [
     {
       "name": "Dīv / دیو",
@@ -49,5 +50,121 @@
   "origin": "The Iranian and Persianate cultural sphere, including Iran, Tajikistan, Afghanistan, the Kurdish-speaking areas of Iraq and Turkey, the South Caucasus, and parts of South Asia influenced by Persian literary culture.",
   "first_reported": "c. 1000 BCE",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Indo-Iranian *daiwa- ('heavenly being'), cognate with Sanskrit deva ('god') and Latin deus. In Zoroastrian usage the term was inverted to denote false gods and demons.",
+    "meaning": "Demon, ogre, or evil spirit; in Zoroastrianism, a malign being aligned with Angra Mainyu.",
+    "first_use": "Avestan texts of the early-to-mid 1st millennium BCE; New Persian dīv attested from the 9th century CE onward, with full literary development in Ferdowsi's Shāhnāmeh (c. 977–1010 CE)."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "-1000-01-01",
+      "event": "Avestan literature elaborates the doctrine of the daēvas",
+      "significance": "Founding Zoroastrian demonology",
+      "source": "Avesta (Yashts, Vendīdād)"
+    },
+    {
+      "date": "0900-01-01",
+      "event": "Middle Persian Pahlavi works (Bundahišn, Dēnkard) systematise the div tradition",
+      "significance": "Sasanian and post-Sasanian theology",
+      "source": "Pahlavi literature"
+    },
+    {
+      "date": "1010-01-01",
+      "event": "Ferdowsi completes the Shāhnāmeh; Rostam slays Div-e Sefid in the Haft-Khān",
+      "significance": "Foundational literary treatment of divs in New Persian",
+      "source": "Ferdowsi, Shāhnāmeh"
+    },
+    {
+      "date": "1330-01-01",
+      "event": "Earliest illustrated Shāhnāmeh manuscripts (Great Mongol Shāhnāmeh, c. 1330) depict divs as horned, tusked, blue-skinned beings",
+      "significance": "Establishes the canonical visual type",
+      "source": "Great Mongol Shāhnāmeh, manuscript dispersed across world collections"
+    },
+    {
+      "date": "1500-01-01",
+      "event": "Safavid-era Shāhnāmeh of Shah Tahmasp (c. 1525–1535) further codifies div imagery",
+      "significance": "High point of Persian miniature treatment of divs",
+      "source": "Shāhnāmeh of Shah Tahmasp"
+    }
+  ],
+  "related": [
+    {
+      "id": "djinn",
+      "name": "Djinn / Jinn",
+      "relationship": "related",
+      "description": "Islamic order of supernatural beings often equated with divs in popular usage"
+    },
+    {
+      "id": "ifrit",
+      "name": "Ifrit",
+      "relationship": "similar",
+      "description": "Powerful jinn category; sometimes equated with divs"
+    },
+    {
+      "id": "demons",
+      "name": "Demons (general)",
+      "relationship": "superset",
+      "description": "Broader cross-cultural category"
+    },
+    {
+      "id": "rakshasa",
+      "name": "Rakshasa",
+      "relationship": "similar",
+      "description": "South Asian demonic class with shared Indo-Iranian roots"
+    },
+    {
+      "id": "asmodeus",
+      "name": "Asmodeus / Aēšma",
+      "relationship": "subset",
+      "description": "Aēšma is a major daēva-class demon in the Avesta"
+    }
+  ],
+  "cultural_notes": "In contemporary Iranian and Caucasian folk traditions divs function as ogres of folktale, while in religious-historical context they are part of Zoroastrian demonology.",
+  "sources": [
+    {
+      "id": "ferdowsi-shahnameh",
+      "type": "book",
+      "title": "Shāhnāmeh (The Book of Kings)",
+      "authors": [
+        "Abu'l-Qasim Ferdowsi"
+      ],
+      "publication": "Critical edition: Djalal Khaleghi-Motlagh (ed.), Bibliotheca Persica",
+      "date": "c. 1010"
+    },
+    {
+      "id": "boyce-zoroastrians",
+      "type": "book",
+      "title": "Zoroastrians: Their Religious Beliefs and Practices",
+      "authors": [
+        "Mary Boyce"
+      ],
+      "publication": "Routledge",
+      "date": "1979",
+      "isbn": "978-0415239035"
+    },
+    {
+      "id": "encyclopaedia-iranica-div",
+      "type": "website",
+      "title": "DĒW (Iranian demon)",
+      "publication": "Encyclopædia Iranica",
+      "url": "https://www.iranicaonline.org/articles/dew",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "wikipedia-div",
+      "type": "website",
+      "title": "Div (mythology)",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Div_(mythology)",
+      "accessed": "2026-05-07"
+    }
+  ],
+  "locations": []
 }

@@ -3,6 +3,7 @@
   "name": "Axehandle Hound",
   "category": "cryptid",
   "description": "The Axehandle Hound is a creature from the North American lumberjack tall-tale tradition — the 'fearsome critters' — described as a dog whose head is shaped like an axe blade and whose body resembles an axe handle, said to sneak into logging camps at night to eat wooden axe handles.",
+  "full_description": "The Axehandle Hound belongs to the tradition of 'fearsome critters': fictional creatures invented by North American lumberjacks during the 19th and early 20th centuries as a form of occupational humor, camp entertainment, and hazing material for new workers. The creature is described consistently: its head has the shape and profile of an axe blade, while its body — carried on short stubby legs — has the elongated cylindrical form of an axe handle. Its diet consists exclusively of wooden axe handles left unattended overnight. The legend served as a humorous explanation for damaged or missing tools in logging camps, where expensive equipment was a genuine concern. According to the tradition documented by Henry H. Tryon in 'Fearsome Critters' (1939), the tall tales were told 'with the utmost solemnity' by two narrators until newcomers were 'completely convinced of the animal's existence.' The Axehandle Hound is documented in two foundational fearsome critter texts: William T. Cox's 'Fearsome Creatures of the Lumberwoods' (1910) and Tryon's 1939 collection. The creature was later referenced by Jorge Luis Borges in his 'Book of Imaginary Beings' (1957/1967), bringing it to wider literary attention. Reports were associated primarily with the Great Lakes states of Wisconsin and Minnesota, where the logging industry was most concentrated.",
   "aliases": [
     {
       "name": "Ax-Handle Hound",
@@ -32,5 +33,99 @@
   "origin": "The Axehandle Hound legend is associated with the logging camps of Wisconsin and Minnesota, the heart of the Great Lakes timber industry in the late 19th and early 20th centuries. Fearsome critter tales spread across North America's logging territories as workers traveled between camps.",
   "first_reported": "1910-01-01",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "The name is entirely descriptive of the creature's appearance: its head resembles an axe (blade) and its body an axe handle. The Great Lakes lumberjack tradition of fearsome critters emerged primarily from the late 19th and early 20th centuries.",
+    "meaning": "A hound (dog) shaped like an axe and its handle.",
+    "first_use": "First documented in William T. Cox, 'Fearsome Creatures of the Lumberwoods' (1910)"
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "1910-01-01",
+      "event": "William T. Cox publishes 'Fearsome Creatures of the Lumberwoods' (Washington D.C.: Judd & Detweiler), the first comprehensive collection of fearsome critters, including the Axehandle Hound",
+      "significance": "First written documentation of the Axehandle Hound; establishes it in the recorded fearsome critter canon",
+      "source": "Cox, W. T. (1910), Fearsome Creatures of the Lumberwoods"
+    },
+    {
+      "date": "1939-01-01",
+      "event": "Henry H. Tryon publishes 'Fearsome Critters' (Cornwall, NY: Idlewild Press), expanding documentation of the tradition including the Axehandle Hound",
+      "significance": "Second foundational text; documents the oral performance tradition around fearsome critters",
+      "source": "Tryon, H. H. (1939), Fearsome Critters"
+    },
+    {
+      "date": "1957-01-01",
+      "event": "Jorge Luis Borges includes the Axehandle Hound in his 'Manual de Zoología Fantástica' (later expanded as 'El libro de los seres imaginarios'), bringing it to international literary attention",
+      "significance": "Elevates the creature from occupational folklore to literary canon",
+      "source": "Borges, J. L. (1957), Manual de Zoología Fantástica"
+    }
+  ],
+  "related": [
+    {
+      "id": "hodag",
+      "name": "Hodag",
+      "relationship": "similar",
+      "description": "Another fearsome critter from Wisconsin logging tradition, significantly more elaborate and subject to a deliberate hoax"
+    },
+    {
+      "id": "hidebehind",
+      "name": "Hidebehind",
+      "relationship": "similar",
+      "description": "Fearsome critter that hides behind trees; companion creature in the same tall-tale tradition"
+    },
+    {
+      "id": "splintercat",
+      "name": "Splintercat",
+      "relationship": "similar",
+      "description": "Fearsome critter said to smash into trees at night to knock out the honey and animals inside"
+    }
+  ],
+  "cultural_notes": "The Axehandle Hound was not sincerely believed in; it was part of a tradition of deliberate, performative mythmaking in isolated logging communities. Its enduring legacy is as a notable specimen of American occupational folklore and the broader tall tale tradition.",
+  "sources": [
+    {
+      "id": "cox-1910",
+      "type": "book",
+      "title": "Fearsome Creatures of the Lumberwoods",
+      "authors": [
+        "William T. Cox"
+      ],
+      "publication": "Judd & Detweiler",
+      "date": "1910"
+    },
+    {
+      "id": "tryon-1939",
+      "type": "book",
+      "title": "Fearsome Critters",
+      "authors": [
+        "Henry H. Tryon"
+      ],
+      "publication": "Idlewild Press",
+      "date": "1939"
+    },
+    {
+      "id": "borges-1967",
+      "type": "book",
+      "title": "The Book of Imaginary Beings",
+      "authors": [
+        "Jorge Luis Borges",
+        "Margarita Guerrero"
+      ],
+      "publication": "Dutton",
+      "date": "1967",
+      "notes": "English translation of 'El libro de los seres imaginarios' (1967), expanded from 'Manual de Zoología Fantástica' (1957)"
+    },
+    {
+      "id": "wikipedia-fearsome-critters",
+      "type": "website",
+      "title": "Fearsome critters",
+      "url": "https://en.wikipedia.org/wiki/Fearsome_critters",
+      "accessed": "2026-05-08"
+    }
+  ],
+  "locations": []
 }

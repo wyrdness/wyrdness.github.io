@@ -3,6 +3,7 @@
   "name": "Not Deer",
   "category": "urban_legend",
   "description": "An internet-era cryptid that emerged in 2019 — a deer-shaped creature that strikes observers as fundamentally 'wrong'. Strongly associated with Appalachia and propagated through Tumblr and TikTok.",
+  "full_description": "The Not Deer is a 21st-century internet-era cryptid that emerged in 2019 from a single Tumblr post by user 'will-o-the-witch' (Madison) describing offhand Appalachian family lore about deer that 'aren't quite right'. The motif spread rapidly across Tumblr, then 4chan, Reddit, and especially TikTok (where the #notdeer hashtag has accumulated tens of millions of views). Reports describe an animal that initially appears to be a deer but on closer inspection produces an uncanny-valley response: forward-facing eyes, joints that bend the wrong way, an unnaturally long neck, a misshapen head, an ability to stand on hind legs, or behaviour atypical for cervids. Folklorist Sharon A. Hill and skeptical reviewers (Skeptical Inquirer) note that the Not Deer originated in 2019 online discourse rather than older Appalachian tradition, and that mundane explanations — chronic wasting disease, congenital deformity, antler abnormalities, and the human uncanny-valley response to atypical cervids — adequately account for reported encounters. The Not Deer is a textbook example of digital-era folklore: an internet-emergent figure that crystallised within a few years and is widely (and incorrectly) treated online as a long-standing Appalachian legend.",
   "aliases": [
     {
       "name": "Not-Deer",
@@ -34,5 +35,86 @@
   "origin": "Reports concentrate in the Appalachian region of the eastern United States, with online accounts also from elsewhere in North America.",
   "first_reported": "2019-08-21",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "English (online usage), 2019",
+    "meaning": "Descriptive: 'a thing that is not (quite) a deer'",
+    "first_use": "August 21, 2019, Tumblr post by 'will-o-the-witch' (Madison)"
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "2019-08-21",
+      "event": "Tumblr user 'will-o-the-witch' (Madison) posts about Appalachian deer that 'are not quite right', followed by an anonymous question prompting elaboration",
+      "significance": "Origin point of the Not Deer as a discrete internet folkloric figure",
+      "source": "Tumblr post by will-o-the-witch (2019); Sharon A. Hill 'The uncanny tales of the Not-Deer'"
+    },
+    {
+      "date": "2020-01-01",
+      "event": "Not Deer content spreads from Tumblr to Reddit, 4chan, and TikTok during the COVID-19 pandemic",
+      "significance": "Mainstreaming of the figure across social platforms",
+      "source": "Sharon A. Hill, sharonahill.com"
+    },
+    {
+      "date": "2022-01-01",
+      "event": "Skeptical Inquirer publishes 'Not Deer, or a Deer?' analysing the figure as a contemporary legend",
+      "significance": "Scholarly skeptical engagement",
+      "source": "Skeptical Inquirer (skepticalinquirer.org)"
+    }
+  ],
+  "related": [
+    {
+      "id": "wendigo",
+      "name": "Wendigo",
+      "relationship": "related",
+      "description": "Often (incorrectly) conflated online with Not Deer; distinct Algonquian tradition"
+    },
+    {
+      "id": "skinwalker",
+      "name": "Skinwalker",
+      "relationship": "related",
+      "description": "Diné (Navajo) tradition sometimes invoked online in Not Deer discussions; culturally distinct"
+    },
+    {
+      "id": "fleshgait",
+      "name": "Fleshgait",
+      "relationship": "similar",
+      "description": "Other internet-era 'wrong creature' cryptid"
+    }
+  ],
+  "cultural_notes": "Within online cryptid communities the Not Deer is treated as a real entity; folklorists treat it as digital-era folklore.",
+  "sources": [
+    {
+      "id": "hill-not-deer",
+      "type": "website",
+      "title": "The uncanny tales of the Not-Deer",
+      "authors": [
+        "Sharon A. Hill"
+      ],
+      "url": "https://sharonahill.com/the-uncanny-tales-of-the-not-deer/",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "skeptical-inquirer-not-deer",
+      "type": "article",
+      "title": "Not Deer, or a Deer?",
+      "publication": "Skeptical Inquirer",
+      "url": "https://skepticalinquirer.org/exclusive/not-deer-or-a-deer/",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "astonishing-legends-not-deer",
+      "type": "website",
+      "title": "Not Deer",
+      "publication": "Astonishing Legends",
+      "url": "https://astonishinglegends.com/astonishing-legends/2023/10/27/not-deer",
+      "accessed": "2026-05-07"
+    }
+  ],
+  "locations": []
 }

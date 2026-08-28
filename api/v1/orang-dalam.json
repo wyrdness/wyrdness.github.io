@@ -3,6 +3,7 @@
   "name": "Orang Dalam",
   "category": "cryptid",
   "description": "A large, bipedal, black-furred humanoid creature reported from the jungles of Johor, Malaysia, and sometimes Singapore, described as standing 2.4–3 meters tall and known by the alternative name Orang Mawas.",
+  "full_description": "The Orang Dalam (Malay: 'people within' or 'hidden people') is a cryptid reported from the dense tropical rainforests of Johor, Malaysia's southernmost state, and occasionally from across the causeway in Singapore. Also known as Orang Mawas (or simply Mawas), the creature is described as a large, bipedal, black-furred humanoid standing approximately 2.4–3 meters (roughly 8–10 feet) tall. It is said to feed on fish and raid fruit orchards. Indigenous Orang Asli communities refer to a related entity as 'hantu jarang gigi' ('snaggle-toothed ghost'). Documented claims of Mawas sightings date back to 1871 according to the Wikipedia article on Orang Mawas. A wave of sightings in 2005–2006 attracted significant media attention, particularly in Johor, and prompted official investigation. The Johor wildlife department conducted searches but found no conclusive evidence. Scientific opinion generally identifies the creature as a misidentified sun bear (Helarctos malayanus), a species common in Johor's forests that can stand bipedally and whose claws produce large marks. No specimen, photograph, or unambiguous physical evidence has been confirmed. The creature is comparable to other Southeast Asian hominid cryptids including the orang-pendek of Sumatra and various Malay forest spirit traditions.",
   "aliases": [
     {
       "name": "Orang Mawas",
@@ -48,5 +49,77 @@
   "origin": "Reported from the jungles of Johor, Malaysia's southernmost state, and occasionally from Singapore. Related creature (Muwa) reported from the Philippines; a related tradition (Butnak) from southern Thailand. In Sumatra, 'mawas' is used as a name for orangutans.",
   "first_reported": "1871-01-01",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Orang Dalam: Malay orang (person, people) + dalam (inside, within, deep). The name implies people who live within the deep forest, hidden from ordinary contact. Orang Mawas: mawas is a Malay/Indonesian word for orangutan, particularly in Sumatran usage — the name suggests a large ape-like creature.",
+    "meaning": "Hidden/interior people; forest orangutan-people",
+    "first_use": "1871 (earliest documented Mawas sighting claims per Orang Mawas Wikipedia article)"
+  },
+  "sightings_stats": {
+    "total_documented": 10,
+    "verified": 0,
+    "disputed": 10,
+    "debunked": 0,
+    "date_range": {
+      "earliest": "1871",
+      "latest": "2006"
+    }
+  },
+  "timeline": [
+    {
+      "date": "1871-01-01",
+      "event": "Earliest documented Mawas sighting claims in Johor",
+      "significance": "Establishes the antiquity of the tradition in recorded sources",
+      "source": "Wikipedia: Orang Mawas"
+    },
+    {
+      "date": "2005-01-01",
+      "event": "Wave of sightings in Johor attracts major media attention; Johor wildlife department conducts official search",
+      "significance": "Primary modern documentation episode; brought the creature to international attention",
+      "source": "Media coverage 2005–2006"
+    }
+  ],
+  "related": [
+    {
+      "id": "orang-pendek",
+      "name": "Orang Pendek",
+      "relationship": "related",
+      "description": "Smaller Sumatran bipedal cryptid; related Southeast Asian hominid tradition"
+    },
+    {
+      "id": "bigfoot",
+      "name": "Bigfoot / Sasquatch",
+      "relationship": "similar",
+      "description": "North American large hairy bipedal cryptid; cross-cultural parallel"
+    },
+    {
+      "id": "yeti",
+      "name": "Yeti",
+      "relationship": "similar",
+      "description": "Himalayan hairy hominid cryptid"
+    },
+    {
+      "id": "orang-bunian",
+      "name": "Orang Bunian",
+      "relationship": "related",
+      "description": "Malay hidden spirit people; related Malay forest being tradition"
+    }
+  ],
+  "cultural_notes": "In Orang Asli tradition, the creature is understood as a supernatural entity (hantu) rather than a biological animal. In the broader Malay context, it inhabits the liminal zone between the supernatural forest world and human settlement.",
+  "sources": [
+    {
+      "id": "wikipedia-orang-mawas",
+      "type": "website",
+      "title": "Orang Mawas",
+      "url": "https://en.wikipedia.org/wiki/Orang_Mawas",
+      "accessed": "2026-05-08"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Johor forests, Malaysia",
+      "lat": 2.3,
+      "lng": 103.5
+    }
+  ]
 }

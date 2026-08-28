@@ -3,6 +3,7 @@
   "name": "Simurgh",
   "category": "mythological_creature",
   "description": "The Simurgh is a benevolent mythical bird of Iranian tradition — wise, ancient, and immense — said to nest atop the Alborz Mountains. It is most famous for raising the hero Zal in Ferdowsi's Shahnameh and for serving in Attar of Nishapur's Sufi poem 'Conference of the Birds' as the goal of a spiritual journey whose surprise is the discovery that the seekers themselves (sī murğ, 'thirty birds') are the Simurgh.",
+  "full_description": "The Simurgh (Persian سیمرغ) is among the most celebrated mythological creatures of the Iranian world, attested from the Avestan period (as Saēna meregha, 'the bird Saēna') and Middle Persian Pahlavi texts (as Sēnmurw) through the New Persian epic and lyric tradition into modern Iranian, Kurdish, and Tajik culture. It is a colossal, benevolent bird, often depicted as a peacock-bodied composite with a dog or lion head and lion claws, and described as so old that it has seen the world destroyed and renewed three times, and so wise that it possesses universal knowledge. In Ferdowsi's Shahnameh (c. 1010 CE) the Simurgh raises the abandoned albino prince Zal on Mount Alborz and later gifts feathers that summon her aid for Zal's son, the hero Rostam, including instructing the cesarean delivery of Rostam himself from his mother Rudaba. In Farid al-Din Attar of Nishapur's 12th-century Sufi allegory Manṭiq al-Ṭayr ('The Conference of the Birds') the Simurgh is the absent monarch sought by the birds of the world; when thirty birds (sī murğ) finally complete the journey they discover that they themselves are the Simurgh — the central pun and theological insight of Persian Sufi literature. In Zoroastrian cosmology the bird perches on the Tree of All Seeds (Gaokerena / the cosmic Hōm) and is associated with the divine glory (xvarənah / farr). The Simurgh is widely depicted in Sasanian-era silver vessels, Safavid manuscript painting, and modern Iranian visual culture, and serves as a national emblem of pre-Islamic and Islamic Iran alike.",
   "aliases": [
     {
       "name": "سیمرغ",
@@ -59,5 +60,133 @@
   "origin": "Iranian cultural zone, including modern Iran, Tajikistan, Afghanistan, Iraqi Kurdistan, and the broader Persianate world (Central Asia, the Caucasus, the Indian subcontinent under Mughal influence, and the Ottoman world).",
   "first_reported": "Mid-1st millennium BCE (Avestan)",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "From Avestan mərəγō Saēnō ('the bird Saēna'); Middle Persian (Pahlavi) sēnmurw; New Persian sīmurğ. The Persian folk etymology sī ('thirty') + murğ ('bird') is itself a celebrated literary pun in Attar's poetry but is not the historical origin.",
+    "meaning": "Most plausibly 'the bird Saēna' (a divine bird-figure of pre-Zoroastrian Iran); in folk etymology, 'thirty birds'.",
+    "first_use": "Avestan Yashts (mid-1st millennium BCE, oral tradition; written redaction Sasanian period); Pahlavi Bundahishn; Ferdowsi's Shahnameh (c. 1010 CE)"
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "Mid-1st millennium BCE",
+      "event": "Saēna meregha named in the Avestan Yashts as a great bird perched on the Tree of All Seeds",
+      "significance": "Earliest textual attestation",
+      "source": "Avesta (Yashts)"
+    },
+    {
+      "date": "9th century CE",
+      "event": "Sēnmurw (Pahlavi form) described in the Bundahishn and other Middle Persian texts",
+      "significance": "Sasanian and post-Sasanian Zoroastrian theological framing",
+      "source": "Bundahishn"
+    },
+    {
+      "date": "c. 1010 CE",
+      "event": "Ferdowsi completes the Shahnameh, in which the Simurgh raises Zal and later aids Rostam",
+      "significance": "Establishes the Simurgh as a central figure of Persian epic",
+      "source": "Ferdowsi, Shahnameh"
+    },
+    {
+      "date": "1177 CE",
+      "event": "Farid al-Din Attar of Nishapur composes Manṭiq al-Ṭayr ('Conference of the Birds')",
+      "significance": "Iconic Sufi allegory of the soul's journey to the Simurgh, with the celebrated sī murğ pun",
+      "source": "Attar, Manṭiq al-Ṭayr"
+    },
+    {
+      "date": "16th–17th centuries",
+      "event": "Safavid royal Shahnameh manuscripts produce the most famous Simurgh paintings (e.g. the Shah Tahmasp Shahnameh)",
+      "significance": "Defining visual tradition for the Simurgh in Persianate culture",
+      "source": "Safavid manuscript tradition"
+    }
+  ],
+  "related": [
+    {
+      "id": "phoenix",
+      "name": "Phoenix",
+      "relationship": "similar",
+      "description": "Mediterranean fire-and-renewal bird sometimes compared with Simurgh"
+    },
+    {
+      "id": "anqa",
+      "name": "Anqa",
+      "relationship": "counterpart",
+      "description": "Arabic mythological bird occasionally identified with Simurgh in Islamic literary tradition"
+    },
+    {
+      "id": "fenghuang",
+      "name": "Fenghuang",
+      "relationship": "similar",
+      "description": "Chinese mythological bird sharing the regnal/auspicious role"
+    },
+    {
+      "id": "garuda",
+      "name": "Garuda",
+      "relationship": "similar",
+      "description": "Indic divine bird with comparable mountain-dwelling, hero-bearing role"
+    },
+    {
+      "id": "huma-bird",
+      "name": "Huma",
+      "relationship": "related",
+      "description": "Iranian bird of fortune; closely associated with kingly farr"
+    }
+  ],
+  "cultural_notes": "Treated as a benevolent, sometimes sacred figure of cosmic age and wisdom; in Sufi reading, a symbol of the divine and of self-realisation.",
+  "sources": [
+    {
+      "id": "wikipedia-simurgh",
+      "type": "website",
+      "title": "Simurgh",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Simurgh",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "ferdowsi-shahnameh",
+      "type": "book",
+      "title": "Shahnameh: The Persian Book of Kings (translated by Dick Davis)",
+      "authors": [
+        "Abolqasem Ferdowsi"
+      ],
+      "publication": "Penguin Classics",
+      "date": "2006 (translation; original c. 1010)",
+      "isbn": "978-0143104933"
+    },
+    {
+      "id": "attar-conference",
+      "type": "book",
+      "title": "The Conference of the Birds (Manṭiq al-Ṭayr)",
+      "authors": [
+        "Farid al-Din Attar"
+      ],
+      "publication": "Penguin Classics (translated by Afkham Darbandi & Dick Davis)",
+      "date": "1984 (translation; original 1177)",
+      "isbn": "978-0140444346"
+    },
+    {
+      "id": "encyclopedia-iranica-simorg",
+      "type": "website",
+      "title": "SIMORḠ",
+      "publication": "Encyclopaedia Iranica",
+      "url": "https://iranicaonline.org/articles/simorg",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "schimmel-1975",
+      "type": "book",
+      "title": "Mystical Dimensions of Islam",
+      "authors": [
+        "Annemarie Schimmel"
+      ],
+      "publication": "University of North Carolina Press",
+      "date": "1975",
+      "isbn": "978-0807812716"
+    }
+  ],
+  "locations": []
 }

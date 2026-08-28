@@ -3,6 +3,7 @@
   "name": "Siren Head",
   "category": "urban_legend",
   "description": "Siren Head is a fictional horror entity created by Canadian artist Trevor Henderson in 2018 — a skeletal 40-foot-tall humanoid with two mechanical sirens in place of a head — that spread virally through internet horror communities and inspired games, videos, and fan works before being misidentified by some users as a real cryptid.",
+  "full_description": "Siren Head is an original horror character created by Canadian artist Trevor Henderson, first published through social media (Tumblr and Twitter) posts in 2018. The character is depicted as an approximately 40-foot-tall (roughly 12 meter) skeletal humanoid with mummified, dried, rusty-appearing skin, extremely elongated limbs, and no biological head — instead bearing a thin pole of flesh from which two metal road sirens or megaphones extend, capable of swiveling independently. Wires and tendrils connect the siren assembly to the creature's upper body. The entity communicates and hunts through audio mimicry — broadcasting emergency alert tones, music snippets, air raid sirens, radio chatter, and imitations of human voices through its siren speakers. It is described as a predatory entity associated with rural and suburban disappearances, using sound-based camouflage and mimicry to approach victims. Despite being a documented, original fictional creation by a named living artist, Siren Head spread through internet communities quickly enough that many users misidentified it as an actual cryptid or genuine sighting report. A horror video game featuring Siren Head was released on October 31, 2018, by developer Modus Interactive, significantly expanding the character's reach. The character is the most well-known of Trevor Henderson's horror art creations.",
   "aliases": [
     {
       "name": "Sirenhead",
@@ -29,5 +30,67 @@
   "origin": "A fictional entity with no real-world geographic range. In its fictional framing, depicted in rural North American settings.",
   "first_reported": "2018-01-01",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Invented by Canadian artist Trevor Henderson in 2018. The name is descriptive: a creature with sirens (the mechanical emergency warning devices) where a head should be.",
+    "meaning": "A being with mechanical road sirens in place of a biological head.",
+    "first_use": "2018 (Trevor Henderson's Tumblr and Twitter posts)"
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "2018-01-01",
+      "event": "Trevor Henderson creates and publishes Siren Head artwork on Tumblr and Twitter",
+      "significance": "Creation event; the work is explicitly fictional by a named Canadian artist",
+      "source": "Trevor Henderson's social media accounts"
+    },
+    {
+      "date": "2018-10-31",
+      "event": "Modus Interactive releases a Siren Head horror video game, dramatically expanding the character's reach",
+      "significance": "Video game adaptation greatly increases the character's cultural footprint and begins the process of misidentification as a 'real' cryptid in some communities",
+      "source": "Modus Interactive (2018)"
+    }
+  ],
+  "related": [
+    {
+      "id": "slender-man",
+      "name": "Slender Man",
+      "relationship": "similar",
+      "description": "Another fictional internet horror character (created 2009 on Something Awful) that spread virally and was similarly misidentified as a real entity by some communities"
+    },
+    {
+      "id": "smile-dog",
+      "name": "Smile Dog",
+      "relationship": "similar",
+      "description": "Early internet creepypasta horror entity; part of the same tradition of fictional creatures spreading through online communities"
+    }
+  ],
+  "cultural_notes": "Within internet horror communities, Siren Head occupies a space between acknowledged fiction and adopted folklore — known to be invented but treated with the narrative seriousness of a real cryptid. Some younger or less-contextualized audiences have reported genuine belief in the creature's existence.",
+  "sources": [
+    {
+      "id": "henderson-2018",
+      "type": "other",
+      "title": "Siren Head original artwork",
+      "authors": [
+        "Trevor Henderson"
+      ],
+      "date": "2018",
+      "url": "https://trevorhenderson.tumblr.com",
+      "accessed": "2026-05-08",
+      "notes": "Original social media posts by the creator; explicit fictional framing"
+    },
+    {
+      "id": "websearch-sirenhead-2026",
+      "type": "website",
+      "title": "Siren Head — Trevor Henderson Wiki (Fandom)",
+      "url": "https://trevorhenderson.fandom.com/wiki/Siren_Head",
+      "accessed": "2026-05-08"
+    }
+  ],
+  "locations": []
 }

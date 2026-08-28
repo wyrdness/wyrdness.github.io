@@ -3,6 +3,7 @@
   "name": "Redcap",
   "category": "fae_folklore",
   "description": "A murderous goblin of Anglo-Scottish Border folklore who haunts ruined peel-towers and castles, dyeing his cap in the blood of travellers he kills.",
+  "full_description": "The Redcap is a malevolent fae of the Anglo-Scottish Border country, particularly associated with ruined peel-towers and border castles. Sir Walter Scott describes him in the Minstrelsy of the Scottish Border (1802), and William Henderson preserves the canonical description in Notes on the Folk-Lore of the Northern Counties of England and the Borders (1879): a short, thickset old man with long prominent teeth, skinny taloned fingers, large fiery red eyes, grizzled hair streaming down his shoulders, iron boots, a pikestaff in his left hand, and a red cap on his head. He is said to be impossible to overcome by mortal strength, but flees and drops a tooth when confronted with scripture or the sign of the cross. The most famous Redcap of legend is Robin Redcap, the supposed familiar of the 14th-century Lord William de Soulis at Hermitage Castle in Liddesdale.",
   "aliases": [
     {
       "name": "Red Cap",
@@ -58,5 +59,129 @@
   "origin": "Confined to the Anglo-Scottish Border country, with sympathetic legends in adjacent areas of northern England and southern Scotland.",
   "first_reported": "1802-01-01",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "From English red and cap, named for the cap which the creature is said to dye in the blood of travellers it kills. Powrie and dunter are Scots dialect names for the same being, dunter from the dunting (dull-thudding) sounds said to be heard within the haunted towers.",
+    "meaning": "'Red cap' — referring to the blood-dyed cap that is the creature's defining attribute.",
+    "first_use": "Sir Walter Scott's Minstrelsy of the Scottish Border (1802) is the earliest widely-cited literary record of the named figure; older Border tradition is implied but undated."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "1320-01-01",
+      "event": "Traditional date of the death of William de Soulis at Hermitage Castle, with whom Robin Redcap is later associated in folklore",
+      "significance": "Historical anchor for the most famous Redcap legend",
+      "source": "Scott, W., Minstrelsy of the Scottish Border (1802)"
+    },
+    {
+      "date": "1802-01-01",
+      "event": "Walter Scott publishes the Minstrelsy of the Scottish Border, including the ballad and notes on Lord Soulis",
+      "significance": "First major literary record of the Robin Redcap legend",
+      "source": "Scott, W., Minstrelsy of the Scottish Border"
+    },
+    {
+      "date": "1879-01-01",
+      "event": "William Henderson publishes Notes on the Folk-Lore of the Northern Counties of England and the Borders",
+      "significance": "Canonical 19th-century descriptive passage on the Redcap",
+      "source": "Henderson, W. (1879)"
+    },
+    {
+      "date": "1976-01-01",
+      "event": "Katharine Briggs publishes An Encyclopedia of Fairies, with a substantial Redcap entry",
+      "significance": "Cements the figure in modern reference fairy-lore",
+      "source": "Briggs, K. (1976)"
+    }
+  ],
+  "related": [
+    {
+      "id": "powrie",
+      "name": "Powrie",
+      "relationship": "similar",
+      "description": "Scots Border name for closely related (or identical) goblin"
+    },
+    {
+      "id": "dunter",
+      "name": "Dunter",
+      "relationship": "similar",
+      "description": "Border name emphasising the muffled noise made in haunted towers"
+    },
+    {
+      "id": "brownie",
+      "name": "Brownie",
+      "relationship": "counterpart",
+      "description": "Benevolent household fae of British folklore, structural opposite of the Redcap"
+    },
+    {
+      "id": "kobold",
+      "name": "Kobold",
+      "relationship": "similar",
+      "description": "Germanic goblin with overlapping motifs"
+    },
+    {
+      "id": "goblin",
+      "name": "Goblin",
+      "relationship": "superset",
+      "description": "Wider European class of malevolent fae to which Redcap belongs"
+    },
+    {
+      "id": "red-caps-pamphlets",
+      "name": "Red Caps in chapbooks",
+      "relationship": "related",
+      "description": "Diverse cap-wearing fae figures (e.g. Cornish red caps) sometimes conflated with Border Redcap"
+    }
+  ],
+  "cultural_notes": "Within Border tradition, Redcaps were taken seriously as a real supernatural hazard of ruins; the iconography of cap, pike, and iron boots is consistent across recorded variants.",
+  "sources": [
+    {
+      "id": "wikipedia-redcap",
+      "type": "website",
+      "title": "Redcap",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Redcap",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "scott-1802",
+      "type": "book",
+      "title": "Minstrelsy of the Scottish Border",
+      "authors": [
+        "Walter Scott"
+      ],
+      "publication": "James Ballantyne",
+      "date": "1802"
+    },
+    {
+      "id": "henderson-1879",
+      "type": "book",
+      "title": "Notes on the Folk-Lore of the Northern Counties of England and the Borders",
+      "authors": [
+        "William Henderson"
+      ],
+      "publication": "Folk-Lore Society",
+      "date": "1879"
+    },
+    {
+      "id": "briggs-1976",
+      "type": "book",
+      "title": "An Encyclopedia of Fairies: Hobgoblins, Brownies, Bogies, and Other Supernatural Creatures",
+      "authors": [
+        "Katharine Briggs"
+      ],
+      "publication": "Pantheon Books",
+      "date": "1976",
+      "isbn": "978-0394734675"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Hermitage Castle",
+      "lat": 55.2604,
+      "lng": -2.7892
+    }
+  ]
 }

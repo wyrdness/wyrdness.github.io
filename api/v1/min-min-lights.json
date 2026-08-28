@@ -3,6 +3,7 @@
   "name": "Min Min Light",
   "category": "atmospheric_phenomenon",
   "description": "An anomalous light phenomenon reported across the Australian outback — most famously near Boulia in Queensland's Channel Country — and now widely attributed by physicist Jack Pettigrew (2003) to an inferior-mirage Fata Morgana effect over cool, still inland air.",
+  "full_description": "The Min Min light is an unexplained light phenomenon reported across the Australian outback. The classic location is the Channel Country of western Queensland — particularly the Boulia–Winton area on the road between Boulia and Winton — but reports extend from Brewarrina in western New South Wales to as far north as Boulia, and to Yunta in South Australia and the Pilbara in Western Australia. Witnesses describe fuzzy, disc-shaped lights, usually white but sometimes coloured, that hover just above the horizon, follow vehicles or people at a constant distance, and disappear when approached or fired on. In a March 2003 paper in Clinical and Experimental Optometry, neuroscientist Jack Pettigrew of the University of Queensland argued that the Min Min light is a Fata Morgana mirage in which distant lights — homestead windows, car headlights, even campfires — are refracted by a strong temperature inversion over the cold ground of inland Australia, appearing close, strange, and persistent. Aboriginal traditions of the area incorporate the lights in their own terms; the name itself is sometimes traced to the Min Min Hotel ruins between Boulia and Winton, but neither this nor an Aboriginal-language origin has been firmly established.",
   "aliases": [
     {
       "name": "Min Min",
@@ -31,5 +32,109 @@
   "origin": "Reports range across outback Australia from western New South Wales (Brewarrina) north to Boulia in northern Queensland, with additional sightings in Yunta (South Australia) and the Pilbara (Western Australia). The classic location is the Channel Country of western Queensland.",
   "first_reported": "Pre-contact (Aboriginal traditions); reported in European-language sources from the late 19th c.",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "English Australian; the name's origin is uncertain. Wikipedia notes possible derivation from the Min Min Hotel (a former staging post between Boulia and Winton, near which a 1918 sighting was reported) or from an Aboriginal-language word, but neither connection has been substantiated.",
+    "meaning": "Unknown",
+    "first_use": "Reportedly used in regional Queensland from the late 19th and early 20th centuries"
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0,
+    "date_range": {
+      "earliest": "Late 19th c.",
+      "latest": "2020s"
+    }
+  },
+  "timeline": [
+    {
+      "date": "1918-01-01",
+      "event": "Reported sighting near the Min Min Hotel ruins between Boulia and Winton, often cited as the origin of the name",
+      "significance": "Anchor early 20th-century sighting",
+      "source": "Wikipedia, citing regional folklore sources"
+    },
+    {
+      "date": "2003-03-01",
+      "event": "Jack Pettigrew publishes 'The Min Min light and the Fata Morgana' in Clinical and Experimental Optometry 86(2)",
+      "significance": "Foundational scientific paper attributing the phenomenon to Fata Morgana refraction",
+      "source": "Pettigrew, J. D. (2003)"
+    }
+  ],
+  "related": [
+    {
+      "id": "marfa-lights",
+      "name": "Marfa Lights",
+      "relationship": "similar",
+      "description": "West Texas anomalous lights with similar mirage explanations"
+    },
+    {
+      "id": "hessdalen-lights",
+      "name": "Hessdalen Lights",
+      "relationship": "similar",
+      "description": "Norwegian valley anomalous lights"
+    },
+    {
+      "id": "brown-mountain-lights",
+      "name": "Brown Mountain Lights",
+      "relationship": "similar",
+      "description": "North Carolina anomalous lights"
+    },
+    {
+      "id": "paulding-light",
+      "name": "Paulding Light",
+      "relationship": "similar",
+      "description": "Michigan anomalous light shown to be vehicle headlights"
+    },
+    {
+      "id": "will-o-wisp",
+      "name": "Will-o'-the-Wisp",
+      "relationship": "similar",
+      "description": "European folkloric night-light tradition"
+    }
+  ],
+  "cultural_notes": "Within outback culture the Min Min light is widely treated as a real (if unexplained) experience; the Pettigrew hypothesis has now joined folklore as the most-cited explanation.",
+  "sources": [
+    {
+      "id": "pettigrew-2003",
+      "type": "paper",
+      "title": "The Min Min light and the Fata Morgana",
+      "authors": [
+        "Jack D. Pettigrew"
+      ],
+      "publication": "Clinical and Experimental Optometry 86(2): 109–120",
+      "date": "2003-03"
+    },
+    {
+      "id": "kozicka-1994",
+      "type": "book",
+      "title": "The Mystery of the Min Min Light",
+      "authors": [
+        "Maureen Kozicka"
+      ],
+      "publication": "Bolton Imprint",
+      "date": "1994"
+    },
+    {
+      "id": "wikipedia-min-min",
+      "type": "website",
+      "title": "Min Min light",
+      "url": "https://en.wikipedia.org/wiki/Min_Min_light",
+      "publication": "Wikipedia",
+      "accessed": "2026-05-07"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Boulia, Queensland",
+      "lat": -22.9106,
+      "lng": 139.9006
+    },
+    {
+      "name": "Min Min Hotel ruins",
+      "lat": -22.6,
+      "lng": 141
+    }
+  ]
 }

@@ -3,6 +3,7 @@
   "name": "Qallupilluk",
   "category": "entity_spirit",
   "description": "Qallupilluk is a water-dwelling humanoid being from Inuit folklore that lurks beneath Arctic sea ice to abduct children who wander too close to the water's edge, functioning as a cautionary tradition protecting children from the real dangers of Arctic ice.",
+  "full_description": "The Qallupilluk (plural: Qallupilluit) is a water spirit from Inuit oral tradition, found particularly in Nunavut and Alaska. The creature dwells beneath Arctic sea ice and along the coastlines, waiting for children who disobey their parents and wander too close to the ice edge. To lure children closer, it emits an ethereal hum. When a child is near enough, the Qallupilluk snatches them and carries them away — in many accounts, concealing them in the amautik (the large hood-pouch of a traditional Inuit woman's parka used to carry infants). Descriptions are consistent in broad outline: the creature has greenish slimy skin, long dark hair and extended fingernails, webbed hands, and sometimes scales or fins, and predominantly presents as feminine. Some accounts attribute a shapeshifting ability (called pilutitaminik) and a paralyzing shriek from one flipper. The legend serves a vital protective function in the Arctic environment, where falling through ice or being swept into open water is a genuine and frequent cause of child mortality. Some traditional accounts also describe children being voluntarily given to the Qallupilluik during times of community hardship, with the creature keeping them safe and returning them later — suggesting a more complex relationship between the community and the spirit than simple predation. The legend has been preserved in Inuit oral tradition and has entered contemporary children's literature and media, making it one of the most widely known Inuit folklore figures outside Indigenous communities.",
   "aliases": [
     {
       "name": "Qalupalik",
@@ -37,5 +38,65 @@
   "origin": "The Qallupilluk tradition is documented in Inuit communities across Arctic Canada (especially Nunavut) and Alaska.",
   "first_reported": "Pre-contact",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Inuktitut word from Inuit oral tradition of the Arctic regions of Canada and Alaska",
+    "meaning": "The precise etymology is not standardized in academic sources; the name is associated with the creatures' domain of water and ice and their humming call",
+    "first_use": "Pre-contact Inuit oral tradition; written documentation by researchers during the 20th century"
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "2010-01-01",
+      "event": "Roselynn Akulukjuk's picture book Qalupalik, illustrated by Krista Ostertag and published by Inhabit Media, brings the legend to a broad English-language children's audience",
+      "significance": "Major contemporary popularization of the legend outside Inuit communities",
+      "source": "Akulukjuk, R. (2010), Qalupalik. Inhabit Media"
+    },
+    {
+      "date": "2010-01-01",
+      "event": "The National Film Board of Canada produced an animated short Qalupalik, directed by Ame Papatsie, based on Inuit oral tradition",
+      "significance": "NFB animation brings the legend to a wider Canadian and international audience",
+      "source": "National Film Board of Canada"
+    }
+  ],
+  "related": [
+    {
+      "id": "water-horses",
+      "name": "Water Horses / Kelpies",
+      "relationship": "similar",
+      "description": "Scottish water spirit that also lures children and drowns them; similar cautionary function"
+    },
+    {
+      "id": "jengu",
+      "name": "Jengu",
+      "relationship": "similar",
+      "description": "Water spirits of the Sawa peoples of Cameroon; broadly similar water-being archetype"
+    }
+  ],
+  "cultural_notes": "Within traditional Inuit belief, the Qallupilluk is a real spiritual inhabitant of Arctic waters. The legend functions both as a cautionary tale for children and as part of a broader understanding of the non-human spiritual entities that share the Arctic environment.",
+  "sources": [
+    {
+      "id": "akulukjuk-2010",
+      "type": "book",
+      "title": "Qalupalik",
+      "authors": [
+        "Roselynn Akulukjuk"
+      ],
+      "publication": "Inhabit Media",
+      "date": "2010"
+    },
+    {
+      "id": "wikipedia-qallupilluit",
+      "type": "website",
+      "title": "Qallupilluit",
+      "url": "https://en.wikipedia.org/wiki/Qallupilluit",
+      "accessed": "2026-05-08"
+    }
+  ],
+  "locations": []
 }

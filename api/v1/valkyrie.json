@@ -3,6 +3,7 @@
   "name": "Valkyrie",
   "category": "mythological_creature",
   "description": "Valkyries are female figures in Norse mythology who serve Odin, choosing which warriors die in battle and escorting the chosen slain (einherjar) to Valhalla; their name derives from Old Norse valkyrja meaning 'chooser of the slain.'",
+  "full_description": "Valkyries (Old Norse: valkyrjur, singular valkyrja, meaning 'chooser of the slain') are a group of female divine beings who serve Odin, the Allfather, in Norse mythology. Their primary function is to determine the outcome of battles: they ride over battlefields, selecting which warriors will die and which will survive. The warriors chosen by the valkyries become the einherjar — the chosen slain — who are escorted to Odin's hall Valhalla (or alternatively to Freyja's field Fólkvangr) to prepare for Ragnarök, the apocalyptic battle at the end of the world. In Valhalla, valkyries serve as handmaidens to the einherjar, bringing mead and sustenance. The Old English cognate wælcyrge appears in several manuscripts. Valkyries are depicted as powerful, spear-wielding women in helmets and chainmail, mounted on horseback; they are associated with ravens and wolves (the battlefield scavengers sacred to Odin). They are also sometimes portrayed as 'swan-maidens' capable of shapeshifting by donning feathered cloaks. Archaeological finds include silver amulets from approximately 800 CE depicting women with ponytails, long dresses, swords, and shields — likely valkyrie figures. Scholars propose that valkyries evolved from 'demons of death' associated with battlefields into romantic figures capable of loving mortals. The Prose Edda lists 29 valkyrie names across various sources. Famous individual valkyries include Brynhildr, Sigrún, and Hildr. Valkyries connect in complex ways to other Norse female divine beings including the dísir (female spirits), norns (fate-weavers), and the goddess Freyja.",
   "aliases": [
     {
       "name": "Valkyrja",
@@ -54,5 +55,106 @@
   "origin": "Norse and Germanic mythology across Scandinavia and the broader Germanic cultural sphere. Primary textual sources are Old Norse (Iceland, Norway); Old English cognates appear in Anglo-Saxon manuscripts.",
   "first_reported": "0800-01-01",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Old Norse valkyrja, a compound of valr (the slain on a battlefield, literally 'corpses of the slain') and kjósa (to choose). The compound therefore means 'she who chooses the slain.' The Old English cognate wælcyrge derives from the same Germanic root.",
+    "meaning": "Chooser of the slain",
+    "first_use": "Old Norse literature of the 9th–13th centuries; the Old English form wælcyrge appears in Anglo-Saxon manuscripts from approximately the same period"
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "0800-01-01",
+      "event": "Silver amulets depicting armored female figures — likely valkyries — produced in Scandinavia; example from Hårby, Denmark",
+      "significance": "Archaeological evidence of valkyrie belief in the Viking Age",
+      "source": "Archaeological record; National Museum of Denmark"
+    },
+    {
+      "date": "0900-01-01",
+      "event": "Old Norse Eddic poems including Vǫluspá, Grímnismál, and Sigrdrífumál composed, providing the earliest textual valkyrie accounts",
+      "significance": "Primary literary sources for valkyrie mythology",
+      "source": "Poetic Edda"
+    },
+    {
+      "date": "1220-01-01",
+      "event": "Snorri Sturluson compiles the Prose Edda in Iceland, preserving and systematizing Norse mythological material including the most detailed accounts of valkyries",
+      "significance": "Most comprehensive single source for valkyrie mythology",
+      "source": "Sturluson, S. (c. 1220), Prose Edda"
+    },
+    {
+      "date": "1870-01-01",
+      "event": "Richard Wagner's Die Walküre (The Valkyrie) premieres in Munich as the second opera of the Ring Cycle; the Ride of the Valkyries becomes the most famous piece of music associated with the tradition",
+      "significance": "Most influential modern reimagining of valkyries; established the modern popular image",
+      "source": "Wagner, R. (1870), Die Walküre"
+    }
+  ],
+  "related": [
+    {
+      "id": "norns",
+      "name": "Norns",
+      "relationship": "related",
+      "description": "Norse fate-weavers who determine the destiny of gods and humans; related to valkyries in their deterministic function on the battlefield"
+    },
+    {
+      "id": "disir",
+      "name": "Dísir",
+      "relationship": "related",
+      "description": "Female Norse spirits associated with fate, protection, and death; scholarly debate over overlap with valkyries"
+    },
+    {
+      "id": "freyja",
+      "name": "Freyja",
+      "relationship": "related",
+      "description": "Norse goddess who receives half of the battle-slain in Fólkvangr; her relationship to the valkyries is complex and scholars debate whether she leads them"
+    },
+    {
+      "id": "shield-maiden",
+      "name": "Skjaldmær (Shield-maiden)",
+      "relationship": "related",
+      "description": "Mortal female warriors in Norse tradition; sometimes conflated with valkyries in saga literature"
+    }
+  ],
+  "cultural_notes": "In Norse warrior belief, a death in battle chosen by the valkyries was the most honorable end — the dead warrior would join the einherjar in Valhalla, feasting and training for the final battle of Ragnarök. The valkyrie was therefore not feared but revered: the beautiful, terrible power that determined a warrior's ultimate fate.",
+  "sources": [
+    {
+      "id": "poetic-edda",
+      "type": "archive",
+      "title": "Poetic Edda (Codex Regius)",
+      "date": "1270",
+      "notes": "Compiled c. 1270 CE in Iceland; preserves Old Norse mythological and heroic poetry from the 9th–12th centuries; primary source for valkyrie mythology"
+    },
+    {
+      "id": "sturluson-prose-edda-valkyrie",
+      "type": "book",
+      "title": "Prose Edda",
+      "authors": [
+        "Snorri Sturluson"
+      ],
+      "date": "1220",
+      "notes": "Most comprehensive Norse mythological compendium; primary source for valkyrie accounts"
+    },
+    {
+      "id": "davidson-1964",
+      "type": "book",
+      "title": "Gods and Myths of Northern Europe",
+      "authors": [
+        "Hilda Roderick Ellis Davidson"
+      ],
+      "publication": "Penguin Books",
+      "date": "1964"
+    },
+    {
+      "id": "wikipedia-valkyrie",
+      "type": "website",
+      "title": "Valkyrie — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Valkyrie",
+      "accessed": "2026-05-08"
+    }
+  ],
+  "locations": []
 }

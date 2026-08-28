@@ -3,6 +3,7 @@
   "name": "Bridgewater Triangle",
   "category": "location",
   "description": "The Bridgewater Triangle is a roughly 200-square-mile (520 km²) area of southeastern Massachusetts, designated by cryptozoologist Loren Coleman in the 1970s, where unusually frequent reports of UFOs, cryptids, ghost lights, and other paranormal phenomena cluster around the Hockomock Swamp.",
+  "full_description": "The Bridgewater Triangle is an approximately 200-square-mile (520 km²) area of southeastern Massachusetts, named by cryptozoologist Loren Coleman in the 1970s and described in his book 'Mysterious America' (1983). The triangle is centered on the Hockomock Swamp — a 16,950-acre (6,860-ha) wetland whose name derives from an Algonquian term commonly translated as 'place where spirits dwell' and which colonial-era settlers nicknamed 'Devil's Swamp'. The region encompasses Freetown-Fall River State Forest, Profile Rock, Anawan Rock, and several towns associated with King Philip's War (1675–1678) and Wampanoag history. Reports clustered in the area span an unusually broad range of paranormal categories: UFOs (described as silent triangular craft, balls of light, and structured objects), Bigfoot-like cryptids, giant snakes, thunderbird-style giant flying creatures with wingspans of up to 12 feet, ghost lights, poltergeist activity, animal mutilations attributed to alleged cult activity, and apparitions including 'Pukwudgie' figures from Wampanoag tradition. Researchers such as Coleman frame the triangle as a paranormal 'window area'; skeptics argue the cluster reflects population density, media amplification, and the canonical effect of naming a region a paranormal hotspot, which itself increases reported sightings.",
   "aliases": [
     {
       "name": "Hockomock area",
@@ -30,5 +31,122 @@
   "origin": "An approximately 200-square-mile region of southeastern Massachusetts in Bristol, Plymouth, and Norfolk counties, including the towns of Abington, Bridgewater, East Bridgewater, West Bridgewater, Brockton, Easton, Freetown, Mansfield, Norton, Raynham, Rehoboth, Seekonk, and Taunton (per Coleman's mapping).",
   "first_reported": "1675",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Coined by cryptozoologist Loren Coleman in the 1970s; modeled after the Bermuda Triangle naming convention. The name references the towns of Bridgewater, West Bridgewater, and East Bridgewater near the centre of the area.",
+    "meaning": "A roughly triangular area defined by the towns of Abington, Freetown, and Rehoboth (per Coleman's later definition).",
+    "first_use": "Documented in Coleman's writings from the 1970s; canonical print appearance in 'Mysterious America' (1983)."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0,
+    "date_range": {
+      "earliest": "1675",
+      "latest": "2026"
+    }
+  },
+  "timeline": [
+    {
+      "date": "1675",
+      "event": "Hockomock Swamp serves as a Wampanoag stronghold during King Philip's War",
+      "significance": "Establishes the area's reputation as a place of conflict and 'spirits'",
+      "source": "Colonial-era New England histories"
+    },
+    {
+      "date": "1970",
+      "event": "Loren Coleman begins cataloguing southeastern Massachusetts paranormal reports under the 'Bridgewater Triangle' label",
+      "significance": "Origin of the modern phenomenon",
+      "source": "Coleman, L. (1983), Mysterious America"
+    },
+    {
+      "date": "1983",
+      "event": "Coleman publishes 'Mysterious America', formally introducing the Bridgewater Triangle to the public",
+      "significance": "Canonical print introduction",
+      "source": "Coleman, L. (1983)"
+    },
+    {
+      "date": "2013",
+      "event": "Documentary 'The Bridgewater Triangle' is released, directed by Aaron Cadieux and Manny Famolare",
+      "significance": "Major modern audiovisual treatment of the area",
+      "source": "Big Operations Productions"
+    }
+  ],
+  "related": [
+    {
+      "id": "skinwalker-ranch",
+      "name": "Skinwalker Ranch",
+      "relationship": "similar",
+      "description": "Utah locale described as a multi-phenomenon paranormal hotspot"
+    },
+    {
+      "id": "bermuda-triangle",
+      "name": "Bermuda Triangle",
+      "relationship": "similar",
+      "description": "Originating template for triangular 'mystery zone' naming"
+    },
+    {
+      "id": "pine-barrens",
+      "name": "Pine Barrens (New Jersey)",
+      "relationship": "similar",
+      "description": "Another large Northeast US wilderness associated with cryptid and paranormal lore"
+    }
+  ],
+  "cultural_notes": "Local lore emphasizes the swamp as a liminal, dangerous place where ordinary rules do not fully apply; this framing predates and shapes modern paranormal claims.",
+  "sources": [
+    {
+      "id": "wikipedia-bridgewater-triangle",
+      "type": "website",
+      "title": "Bridgewater Triangle",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Bridgewater_Triangle",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "coleman-1983",
+      "type": "book",
+      "title": "Mysterious America: The Ultimate Guide to the Nation's Weirdest Wonders, Strangest Spots, and Creepiest Creatures",
+      "authors": [
+        "Loren Coleman"
+      ],
+      "publication": "Faber & Faber (later Paraview)",
+      "date": "1983",
+      "isbn": "978-1416527367"
+    },
+    {
+      "id": "balzano-2008",
+      "type": "book",
+      "title": "Dark Woods: Cults, Crime and the Paranormal in the Freetown State Forest, Massachusetts",
+      "authors": [
+        "Christopher Balzano"
+      ],
+      "publication": "Schiffer Publishing",
+      "date": "2008",
+      "isbn": "978-0764329470"
+    },
+    {
+      "id": "doc-2013",
+      "type": "documentary",
+      "title": "The Bridgewater Triangle",
+      "authors": [
+        "Aaron Cadieux",
+        "Manny Famolare"
+      ],
+      "publication": "Big Operations Productions",
+      "date": "2013"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Hockomock Swamp",
+      "lat": 41.9667,
+      "lng": -71.05
+    },
+    {
+      "name": "Freetown-Fall River State Forest",
+      "lat": 41.77,
+      "lng": -71.05
+    }
+  ]
 }

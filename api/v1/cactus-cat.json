@@ -3,6 +3,7 @@
   "name": "Cactus Cat",
   "category": "cryptid",
   "description": "The Cactus Cat is a humorous fictional creature of American 'fearsome critters' folklore — a thorn-covered, branched-tailed bobcat-like animal said to slash cacti, drink the fermented sap, and yowl drunkenly through the night canyons of the Southwest.",
+  "full_description": "The Cactus Cat is a creature of American 'fearsome critters' folklore — the tall-tale bestiary developed by 19th- and early-20th-century lumberjacks, ranchers, and outdoor workers and partly canonised in print by William T. Cox's 'Fearsome Creatures of the Lumberwoods, with a Few Desert and Mountain Beasts' (1910) and Henry H. Tryon's 'Fearsome Critters' (1939). The Cactus Cat is described as a bobcat-sized animal whose body is covered in stiff, hair-like thorns, with especially long spines projecting from the legs and a distinctive branched, thorn-tipped tail. According to the tradition, the cat prowls the deserts of Arizona, New Mexico, and Texas at night, using its bony, blade-edged forelegs to slash open barrel cacti and saguaros. The exuded sap ferments in the desert sun over several days, and on a return circuit the Cactus Cat drinks the alcoholic juice and becomes thoroughly drunk, producing the strange yowling, screaming, and barking that echo through canyons after dark. The figure is unambiguously a tall tale: in lumberjack and ranching culture, fearsome-critter stories functioned as humour, hazing of greenhorn newcomers, and explanatory folklore for the strange noises of unfamiliar wildernesses. The Cactus Cat occupies the desert equivalent of the Hodag, the Squonk, the Hoop Snake, and Cox's other fearsome critters.",
   "aliases": [
     {
       "name": "Cactus-cat",
@@ -28,5 +29,110 @@
   "origin": "Folkloric range covers the deserts of the American Southwest — Arizona, New Mexico, southern Texas — where saguaro and barrel cacti are common.",
   "first_reported": "1910",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Coined within American lumberjack and ranching tall-tale tradition; first canonical print appearance in William T. Cox, 'Fearsome Creatures of the Lumberwoods' (1910).",
+    "meaning": "'Cactus cat' — a feline of the cactus country.",
+    "first_use": "1910 (Cox); name in oral tradition predates the printed appearance."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "1910",
+      "event": "William T. Cox publishes 'Fearsome Creatures of the Lumberwoods, with a Few Desert and Mountain Beasts'",
+      "significance": "First print appearance of the Cactus Cat",
+      "source": "Cox, W. T. (1910)"
+    },
+    {
+      "date": "1939",
+      "event": "Henry H. Tryon publishes 'Fearsome Critters', expanding the tall-tale bestiary",
+      "significance": "Second canonical compendium including desert critters",
+      "source": "Tryon, H. H. (1939)"
+    },
+    {
+      "date": "1975",
+      "event": "Daniel Cohen includes the Cactus Cat in 'Monsters, Giants, and Little Men from Mars'",
+      "significance": "Mid-century popular synthesis",
+      "source": "Cohen, D. (1975)"
+    }
+  ],
+  "related": [
+    {
+      "id": "hodag",
+      "name": "Hodag",
+      "relationship": "similar",
+      "description": "Wisconsin lumberjack fearsome critter"
+    },
+    {
+      "id": "jackalope",
+      "name": "Jackalope",
+      "relationship": "similar",
+      "description": "American Southwest tall-tale animal"
+    },
+    {
+      "id": "squonk",
+      "name": "Squonk",
+      "relationship": "similar",
+      "description": "Pennsylvania fearsome critter"
+    },
+    {
+      "id": "hoop-snake",
+      "name": "Hoop Snake",
+      "relationship": "similar",
+      "description": "Tall-tale snake of the rural United States"
+    },
+    {
+      "id": "splintercat",
+      "name": "Splintercat",
+      "relationship": "similar",
+      "description": "Forest fearsome critter that smashes trees"
+    }
+  ],
+  "cultural_notes": "Within the tradition the Cactus Cat is openly fictitious — a joke shared knowingly between veterans and used to mislead newcomers.",
+  "sources": [
+    {
+      "id": "wikipedia-cactus-cat",
+      "type": "website",
+      "title": "Cactus cat",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Cactus_cat",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "cox-1910",
+      "type": "book",
+      "title": "Fearsome Creatures of the Lumberwoods, with a Few Desert and Mountain Beasts",
+      "authors": [
+        "William T. Cox"
+      ],
+      "publication": "Judd & Detweiler",
+      "date": "1910"
+    },
+    {
+      "id": "tryon-1939",
+      "type": "book",
+      "title": "Fearsome Critters",
+      "authors": [
+        "Henry H. Tryon"
+      ],
+      "publication": "Idlewild Press",
+      "date": "1939"
+    },
+    {
+      "id": "cohen-1975",
+      "type": "book",
+      "title": "Monsters, Giants, and Little Men from Mars: An Unnatural History of the Americas",
+      "authors": [
+        "Daniel Cohen"
+      ],
+      "publication": "Doubleday",
+      "date": "1975"
+    }
+  ],
+  "locations": []
 }

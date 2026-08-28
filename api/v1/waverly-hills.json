@@ -3,6 +3,7 @@
   "name": "Waverly Hills Sanatorium",
   "category": "location",
   "description": "A former tuberculosis sanatorium in Louisville, Kentucky (opened 1910, expanded 1926, closed 1961) widely reputed to be haunted; among the most heavily investigated 'haunted hospital' locations in the United States.",
+  "full_description": "Waverly Hills Sanatorium is a former tuberculosis hospital in the Waverly Hills neighborhood of Louisville, Kentucky. The original two-story wooden facility opened in 1910 and was replaced by a much larger five-story Gothic Revival brick building that opened on October 17, 1926. Following the introduction of the antibiotic streptomycin in 1943 and improvements in TB treatment, the sanatorium closed in June 1961; the building reopened the next year as the Woodhaven Geriatric Center, which the Commonwealth of Kentucky shut down in 1980/1982. Since being purchased by Tina and Charlie Mattingly in 2001, the site has been preserved as a paranormal-tourism attraction and a Halloween haunted-attraction venue, with proceeds going toward restoration. Waverly Hills was added to the U.S. National Register of Historic Places on July 12, 1983. Its reputation as a haunted location is sustained by reports of full-bodied apparitions, shadow figures, disembodied voices, and physical contact, and by appearances on television programmes including Ghost Hunters and Ghost Adventures and in the 2005 horror film Death Tunnel. The building includes a service tunnel — the so-called 'body chute' or 'death tunnel' — that connected the heating plant to the main building and is the focus of much of the site's modern legend, although mainstream historical accounts describe it as a service and supply tunnel that may also have been used to discreetly remove the bodies of deceased patients.",
   "aliases": [
     {
       "name": "Waverly Hills Tuberculosis Hospital",
@@ -32,5 +33,119 @@
   "origin": "A single fixed location: the Waverly Hills Sanatorium complex on Paralee Drive, Louisville, Kentucky.",
   "first_reported": "1910-01-01",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Named for the Waverly Hills neighborhood of Louisville; the area was reportedly named for Sir Walter Scott's Waverley novels by an early-19th-century schoolteacher, Major Thomas H. Hays.",
+    "meaning": "Place-name derived from the early-19th-century literary Waverley association.",
+    "first_use": "The sanatorium opened under the name Waverly Hills in 1910."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "1910-07-26",
+      "event": "Original wooden Waverly Hills tuberculosis hospital opens in Louisville, Kentucky",
+      "significance": "Founding of the institution",
+      "source": "Waverly Hills Historical Society / Wikipedia"
+    },
+    {
+      "date": "1926-10-17",
+      "event": "New five-story Gothic Revival brick sanatorium opens",
+      "significance": "Establishes the present main building",
+      "source": "Waverly Hills Historical Society"
+    },
+    {
+      "date": "1943-01-01",
+      "event": "Streptomycin antibiotic introduced for tuberculosis treatment, eventually allowing TB patients to be treated as outpatients",
+      "significance": "Begins the obsolescence of large TB sanatoriums",
+      "source": "Public-health histories of tuberculosis"
+    },
+    {
+      "date": "1961-06-01",
+      "event": "Waverly Hills closes as a tuberculosis sanatorium",
+      "significance": "End of the TB-treatment era",
+      "source": "Waverly Hills Historical Society"
+    },
+    {
+      "date": "1962-01-01",
+      "event": "Building reopens as the Woodhaven Geriatric Center",
+      "significance": "Begins the second institutional phase",
+      "source": "Waverly Hills Historical Society"
+    },
+    {
+      "date": "1980-01-01",
+      "event": "Commonwealth of Kentucky closes the Woodhaven Geriatric Center after allegations of mistreatment of patients",
+      "significance": "End of the building's institutional use",
+      "source": "Wikipedia / Kentucky records"
+    },
+    {
+      "date": "1983-07-12",
+      "event": "Waverly Hills Sanatorium added to the U.S. National Register of Historic Places",
+      "significance": "Federal heritage recognition",
+      "source": "National Register of Historic Places"
+    },
+    {
+      "date": "2001-01-01",
+      "event": "Tina and Charlie Mattingly purchase the property",
+      "significance": "Begin the long-running restoration / paranormal-tourism era",
+      "source": "Waverly Hills Historical Society"
+    }
+  ],
+  "related": [
+    {
+      "id": "trans-allegheny-lunatic-asylum",
+      "name": "Trans-Allegheny Lunatic Asylum",
+      "relationship": "similar",
+      "description": "Comparable U.S. former-institutional haunted-tourism site (West Virginia)"
+    },
+    {
+      "id": "pennhurst-asylum",
+      "name": "Pennhurst State School and Hospital",
+      "relationship": "similar",
+      "description": "Comparable Pennsylvania institutional ghost-tourism site"
+    },
+    {
+      "id": "eastern-state-penitentiary",
+      "name": "Eastern State Penitentiary",
+      "relationship": "similar",
+      "description": "Comparable U.S. heritage / ghost-tourism site"
+    }
+  ],
+  "cultural_notes": "Local and online communities widely treat Waverly Hills as one of the most active haunted locations in the United States; mainstream history and skeptical scholarship treat the haunting reputation as cultural rather than evidential.",
+  "sources": [
+    {
+      "id": "wikipedia-waverly-hills",
+      "type": "website",
+      "title": "Waverly Hills Sanatorium",
+      "url": "https://en.wikipedia.org/wiki/Waverly_Hills_Sanatorium",
+      "publication": "Wikipedia",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "waverly-hills-official",
+      "type": "website",
+      "title": "The Waverly Hills Sanatorium (official site)",
+      "url": "https://thewaverlyhillssanatorium.com/",
+      "publication": "Waverly Hills Historical Society",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "nrhp-1983",
+      "type": "archive",
+      "title": "National Register of Historic Places listing — Waverly Hills Sanatorium",
+      "publication": "U.S. National Park Service",
+      "date": "1983-07-12"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Waverly Hills Sanatorium main building",
+      "lat": 38.1191,
+      "lng": -85.8419
+    }
+  ]
 }

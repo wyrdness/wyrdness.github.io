@@ -3,6 +3,7 @@
   "name": "Nang Mai",
   "category": "entity_spirit",
   "description": "A general Thai folkloric category of female spirits that inhabit large trees. Specific named tree spirits — including Nang Tani and Nang Ta-khian — are types of Nang Mai. The male equivalent is the Rukkhadeva.",
+  "full_description": "Nang Mai (Thai: นางไม้, 'Lady of the Tree') is the generic Thai folkloric category for female ghosts or spirits that inhabit large trees. Specific named tree spirits — most prominently Nang Tani (of the wild Musa acuminata banana tree) and Nang Ta-khian (of the takhian, Hopea odorata) — are understood as particular instances of Nang Mai. Nang Mai are typically described as young women in pleated traditional Thai dress with shoulder-length hair, said to inhabit invisible 'palaces' within the canopies of their trees. The male equivalent is the Rukkhadeva (รุกขเทวดา), a Pali-derived term for a tree deity who tends to inhabit larger trees such as the banyan. Beliefs around Nang Mai are pragmatic as well as devotional: they are invoked to deter the felling of large trees, with folklore warning that a tree-cutter who disturbs a Nang Mai's home will be cursed, sicken, or lose their mind. Modern offerings include traditional Thai costumes, perfumes, and cosmetic kits, and Thai villagers commonly mark spirit trees with multicoloured (often three-coloured) cloth bands. The tradition is integrated with Theravada Buddhist practice in Thailand: monastic precepts forbidding the cutting of fresh vegetation are widely understood to honor tree spirits, and folk practice happily compromises between formal Buddhism and local animist veneration.",
   "aliases": [
     {
       "name": "นางไม้",
@@ -32,5 +33,49 @@
   "origin": "Nang Mai veneration is found throughout Thailand and in adjacent Theravada-Buddhist Southeast Asia.",
   "first_reported": "Unknown",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Thai นาง (nang, 'lady') + ไม้ (mai, 'wood, tree').",
+    "meaning": "Literally 'Lady of the Tree' or 'Wood Lady'.",
+    "first_use": "Long-standing Thai folk-religious usage; precise textual emergence undated."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [],
+  "related": [
+    {
+      "id": "nang-tani",
+      "name": "Nang Tani",
+      "relationship": "subset",
+      "description": "Specific Nang Mai of the wild Musa acuminata banana tree"
+    },
+    {
+      "id": "nang-ta-khian",
+      "name": "Nang Ta-khian",
+      "relationship": "subset",
+      "description": "Specific Nang Mai of the takhian (Hopea odorata) tree"
+    },
+    {
+      "id": "rukkhadeva",
+      "name": "Rukkhadeva",
+      "relationship": "counterpart",
+      "description": "Male Thai tree deity, the masculine counterpart of Nang Mai"
+    }
+  ],
+  "cultural_notes": "Nang Mai are integrated with Theravada Buddhism: monastic precepts forbidding the cutting of fresh vegetation are popularly understood to respect tree spirits.",
+  "sources": [
+    {
+      "id": "wikipedia-nang-mai",
+      "type": "website",
+      "title": "Nang mai",
+      "publication": "English Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Nang_mai",
+      "accessed": "2026-05-07"
+    }
+  ],
+  "locations": []
 }

@@ -3,6 +3,7 @@
   "name": "Nachzehrer",
   "category": "undead",
   "description": "A revenant of northern Germanic folklore believed to remain in its grave chewing its burial shroud and its own flesh, draining the life of surviving relatives at a distance. Distinct from the more familiar bloodsucking vampire of Slavic and English-language tradition.",
+  "full_description": "The Nachzehrer ('after-consumer') is a type of Wiedergänger (revenant) of northern German, Silesian, and Bavarian folklore, with a closely related figure among the Kashubian people of northern Poland. Unlike the Slavic and English-language vampire that leaves its grave to bite the living, the Nachzehrer was believed to remain in its grave, chewing through its burial shroud, its limbs, and its own flesh; this autophagic consumption was thought to drain the vitality of the deceased's surviving family and acquaintances at a distance, causing them to waste away. The term itself came into common use in the nineteenth century, although the underlying beliefs are older and were associated, but not exclusively, with epidemic mortality. Identification of a suspected Nachzehrer relied on post-mortem signs: open eyes, open mouth, soft (still-flexible) corpse, reddened lips, and the corpse holding its thumb in the opposite hand. Apotropaic measures included placing a coin or stone in the corpse's mouth, tying a cloth tightly around the jaw, severing the head, or burying the body face-down so that any chewing would only sink the corpse deeper into the earth.",
   "aliases": [
     {
       "name": "Nachzehrer",
@@ -46,5 +47,68 @@
   "origin": "Folklore of the Nachzehrer is concentrated in northern Germany, Silesia, Bavaria, and Kashubia (northern Poland).",
   "first_reported": "19th century",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "German nach- ('after') + zehren ('to consume, to wear down'), giving roughly 'one who consumes after [death]' or 'one who wears down [others] from the afterlife'.",
+    "meaning": "Literally 'after-consumer' or 'one who consumes from beyond'.",
+    "first_use": "The compound came into common use in the nineteenth century; underlying folk beliefs are older."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "19th century",
+      "event": "The term 'Nachzehrer' enters common use in German folkloric and ethnographic writing",
+      "significance": "Crystallization of the regional revenant figure as a named folkloric category",
+      "source": "German-language folklore scholarship"
+    }
+  ],
+  "related": [
+    {
+      "id": "vampire",
+      "name": "Vampire",
+      "relationship": "similar",
+      "description": "Slavic-derived bloodsucking revenant of European folklore"
+    },
+    {
+      "id": "draugr",
+      "name": "Draugr",
+      "relationship": "similar",
+      "description": "Norse/Scandinavian undead inhabitant of grave-mounds"
+    },
+    {
+      "id": "revenant",
+      "name": "Revenant",
+      "relationship": "superset",
+      "description": "General European folkloric category of the returning dead"
+    },
+    {
+      "id": "ghoul",
+      "name": "Ghoul",
+      "relationship": "similar",
+      "description": "Middle Eastern grave-haunting flesh-eater"
+    },
+    {
+      "id": "wiedergaenger",
+      "name": "Wiedergänger",
+      "relationship": "superset",
+      "description": "German-language category of the returning dead, of which Nachzehrer is a subtype"
+    }
+  ],
+  "cultural_notes": "The Nachzehrer was treated as a real and present danger requiring funerary precautions; identification justified exhumation and apotropaic mutilation of the corpse.",
+  "sources": [
+    {
+      "id": "wikipedia-nachzehrer",
+      "type": "website",
+      "title": "Nachzehrer",
+      "publication": "English Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Nachzehrer",
+      "accessed": "2026-05-07"
+    }
+  ],
+  "locations": []
 }

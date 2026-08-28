@@ -3,6 +3,7 @@
   "name": "Moon landing conspiracy theories",
   "category": "conspiracy_theory",
   "description": "Moon landing conspiracy theories claim that NASA's six crewed Apollo lunar landings between 1969 and 1972 were faked; the claims have been examined and rebutted by scientists, engineers, multiple independent national space agencies, and physical evidence on the Moon itself.",
+  "full_description": "Moon landing conspiracy theories assert that one or more of NASA's Apollo crewed lunar landings (Apollo 11 through Apollo 17, 1969-1972, with twelve astronauts walking on the Moon) were faked, typically claiming the missions were filmed on a soundstage with director Stanley Kubrick named in some versions. The modern American hoax theory was popularised by Bill Kaysing's self-published 1976 book 'We Never Went to the Moon: America's Thirty Billion Dollar Swindle'; Kaysing had worked as a technical writer at Rocketdyne (1956-1963) but had no engineering training. Other prominent proponents include Bart Sibrel and the Flat Earth Society (which formally accused NASA in 1980). Survey data show belief rates between roughly 6% and 20% of Americans, 25% of Britons, and 28% of Russians in polls between 1994 and 2009. The theories are debunked by visual evidence (NASA's Lunar Reconnaissance Orbiter photographed the Apollo landing sites in 2009-2012, including the lunar module descent stages and disturbed regolith, with five of the six American flags still standing); by physics-based explanations of the alleged 'anomalies' (no stars in photographs reflects camera exposure for the bright lunar surface; Hasselblad / Carl Zeiss optics explain image quality; flag movement is pendulum motion of an L-shaped support rod, not wind; radiation dose was ~1 rem / 10 mSv, well within safe range); and by social-network analyses (David Robert Grimes calculated that a successful conspiracy of ~411,000 NASA-affiliated personnel would have been exposed within 3.68 years). MythBusters' 2008 'NASA Moon Landing' episode tested and rejected major claimed anomalies. The Soviet Union, NASA's Cold War rival, never alleged a hoax and tracked Apollo missions from its IP-15 and IP-16 deep-space facilities.",
   "aliases": [
     {
       "name": "Apollo Moon hoax",
@@ -31,5 +32,160 @@
   "origin": "Originated in the United States, with significant followings in Russia, the United Kingdom and elsewhere; the conspiracy theory circulates globally on the internet.",
   "first_reported": "1976",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "American English; popularised by Bill Kaysing's 1976 self-published book.",
+    "meaning": "The claim that the Apollo Moon landings were a hoax.",
+    "first_use": "1976 (Kaysing); concept circulated earlier in fringe space-program criticism."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "1969-07-20",
+      "event": "Apollo 11 lands on the Moon; Neil Armstrong and Buzz Aldrin walk on the lunar surface",
+      "significance": "The historical event the theories deny",
+      "source": "NASA Apollo program records"
+    },
+    {
+      "date": "1969-01-01",
+      "event": "Apollo 12, the second crewed lunar landing",
+      "significance": "Continuing missions",
+      "source": "NASA"
+    },
+    {
+      "date": "1971-01-01",
+      "event": "Apollo 14 and Apollo 15 lunar landings",
+      "significance": "Continuing missions",
+      "source": "NASA"
+    },
+    {
+      "date": "1972-12-01",
+      "event": "Apollo 17, the final crewed lunar landing",
+      "significance": "Last of the six Apollo landings",
+      "source": "NASA"
+    },
+    {
+      "date": "1976-01-01",
+      "event": "Bill Kaysing self-publishes 'We Never Went to the Moon: America's Thirty Billion Dollar Swindle'",
+      "significance": "Founding text of the modern hoax theory",
+      "source": "Wikipedia: Moon landing conspiracy theories"
+    },
+    {
+      "date": "1980-01-01",
+      "event": "The Flat Earth Society publicly accuses NASA of having staged the landings, naming Stanley Kubrick as alleged director",
+      "significance": "Cross-pollination with Flat Earth conspiracism",
+      "source": "Wikipedia: Moon landing conspiracy theories"
+    },
+    {
+      "date": "2001-02-15",
+      "event": "Fox television airs 'Conspiracy Theory: Did We Land on the Moon?'",
+      "significance": "Major mainstream-media exposure of the hoax claims",
+      "source": "Wikipedia: Moon landing conspiracy theories"
+    },
+    {
+      "date": "2002-01-01",
+      "event": "Phil Plait publishes 'Bad Astronomy', detailing scientific rebuttals of common Moon-hoax claims",
+      "significance": "Influential debunking",
+      "source": "Plait, P. (2002), Bad Astronomy"
+    },
+    {
+      "date": "2008-08-27",
+      "event": "MythBusters airs the 'NASA Moon Landing' episode rebutting major claimed anomalies",
+      "significance": "High-profile public debunking",
+      "source": "Wikipedia: Moon landing conspiracy theories"
+    },
+    {
+      "date": "2009-01-01",
+      "event": "NASA's Lunar Reconnaissance Orbiter begins photographing the Apollo landing sites, showing lunar module descent stages and rover tracks",
+      "significance": "Direct orbital imagery of Apollo hardware",
+      "source": "NASA LRO mission"
+    },
+    {
+      "date": "2012-01-01",
+      "event": "LRO imagery shows five of the six American flags still standing on the lunar surface",
+      "significance": "Continuing direct evidence",
+      "source": "NASA LRO"
+    },
+    {
+      "date": "2016-01-01",
+      "event": "David Robert Grimes publishes mathematical model finding a Moon-hoax conspiracy of about 411,000 personnel would be exposed within 3.68 years",
+      "significance": "Quantitative argument against the conspiracy's feasibility",
+      "source": "Grimes, D. R. (2016), PLoS ONE"
+    }
+  ],
+  "related": [
+    {
+      "id": "flat-earth",
+      "name": "Flat Earth",
+      "relationship": "related",
+      "description": "Other denial conspiracy that frequently overlaps with Moon-landing denial"
+    },
+    {
+      "id": "chemtrails",
+      "name": "Chemtrails",
+      "relationship": "related",
+      "description": "Other denial / re-interpretation conspiracy theory"
+    },
+    {
+      "id": "montauk-project",
+      "name": "Montauk Project",
+      "relationship": "related",
+      "description": "Sometimes claimed to have 'staged' the Apollo landings"
+    },
+    {
+      "id": "new-world-order",
+      "name": "New World Order",
+      "relationship": "related",
+      "description": "Wider conspiracy framework that absorbs Moon-hoax claims"
+    }
+  ],
+  "cultural_notes": "Belief is concentrated in conspiracy subcultures; survey data place believers at roughly 6-20% of Americans (1994-2009).",
+  "sources": [
+    {
+      "id": "wikipedia-moon-landing-conspiracy",
+      "type": "website",
+      "title": "Moon landing conspiracy theories",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Moon_landing_conspiracy_theories",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "kaysing-1976",
+      "type": "book",
+      "title": "We Never Went to the Moon: America's Thirty Billion Dollar Swindle",
+      "authors": [
+        "Bill Kaysing"
+      ],
+      "publication": "Self-published",
+      "date": "1976"
+    },
+    {
+      "id": "plait-2002",
+      "type": "book",
+      "title": "Bad Astronomy: Misconceptions and Misuses Revealed, from Astrology to the Moon Landing 'Hoax'",
+      "authors": [
+        "Philip C. Plait"
+      ],
+      "publication": "Wiley",
+      "date": "2002",
+      "isbn": "978-0471409762"
+    },
+    {
+      "id": "grimes-2016",
+      "type": "paper",
+      "title": "On the Viability of Conspiratorial Beliefs",
+      "authors": [
+        "David Robert Grimes"
+      ],
+      "publication": "PLoS ONE",
+      "date": "2016",
+      "doi": "10.1371/journal.pone.0147905"
+    }
+  ],
+  "locations": []
 }

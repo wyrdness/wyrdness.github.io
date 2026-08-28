@@ -3,6 +3,7 @@
   "name": "Denver International Airport Conspiracy Theories",
   "category": "conspiracy_theory",
   "description": "A cluster of conspiracy theories surrounding Denver International Airport (opened 28 February 1995), including claims of secret underground bunkers, Illuminati or New World Order activity, hidden symbolism in Leo Tanguma's murals, the Blue Mustang sculpture ('Blucifer') by Luis Jiménez, and a dedication capstone inscribed 'New World Airport Commission' (1994).",
+  "full_description": "Denver International Airport (DEN/DIA), located approximately 25 miles northeast of downtown Denver, Colorado, opened on 28 February 1995 after construction delays and a final cost of approximately US$4.8 billion (roughly US$2 billion over budget). Almost from opening it has been the focus of an interconnected family of conspiracy theories. Promoters argue that the airport disguises an underground complex variously identified as a Continuity-of-Government bunker, a New World Order or Illuminati headquarters, a base for reptilian shape-shifters, or a refuge for the global elite during a coming apocalypse. Specific objects feed the legend: the dedication capstone in the Great Hall (1994), inscribed with a Freemason square-and-compasses and the words 'New World Airport Commission'; two large public-art murals by Chicano artist Leo Tanguma — 'Children of the World Dream of Peace' and 'In Peace and Harmony with Nature' — read by conspiracy theorists as depicting genocide, gas-masked soldiers, and apocalyptic symbolism; the 32-foot blue mustang sculpture 'Mustang' by Luis Jiménez (1940–2006), known popularly as 'Blucifer', a section of which fell on Jiménez and killed him in 2006 before being completed by his family and installed in 2008; the unusual layout of the airport's runways, claimed by some to evoke a swastika; and an extensive system of underground tunnels that, in fact, house an automated baggage system originally intended to use driverless vehicles. The airport's management has openly engaged with the conspiracy theories — installing a talking gargoyle named 'Notorious DIA' in baggage claim, running 2018 construction-barrier signage parodying the theories — which has further amplified them. Mainstream investigation by journalists, the airport's own historians, and skeptical writers has found mundane explanations for each individual claim.",
   "aliases": [
     {
       "name": "DIA Conspiracy",
@@ -38,5 +39,157 @@
   "origin": "The airport is in Adams County, Colorado, USA. The conspiracy-theory phenomenon itself is global through Internet circulation.",
   "first_reported": "1995-02-28",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "American conspiracy-theory subculture of the late 1990s and 2000s; the 'New World Order' framing draws on broader Cold War / post-Cold War conspiracism.",
+    "meaning": "The phrase 'Denver Airport conspiracy' refers collectively to claims of hidden, malevolent activity at DIA.",
+    "first_use": "Late 1990s in Internet conspiracy circles; popularised in the 2000s by Alex Jones (InfoWars), Jay Weidner, and the Jesse Ventura programme Conspiracy Theory (TruTV, 2009)."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "1989-09-28",
+      "event": "Construction of Denver International Airport begins",
+      "significance": "Sets the stage for cost-overrun and delay narratives",
+      "source": "DIA airport history"
+    },
+    {
+      "date": "1994-03-19",
+      "event": "Dedication capstone laid in Great Hall, inscribed with Freemason emblem and 'New World Airport Commission'",
+      "significance": "Becomes the central physical artefact of the conspiracy theories",
+      "source": "Plaque text, in situ at DIA"
+    },
+    {
+      "date": "1995-02-28",
+      "event": "Denver International Airport opens after 16 months of delays",
+      "significance": "Public opening of the contested facility",
+      "source": "DIA airport history"
+    },
+    {
+      "date": "2006-06-13",
+      "event": "Sculptor Luis Jiménez killed in his Hondo, NM studio when a section of the Mustang sculpture falls on him",
+      "significance": "Adds a 'curse' element to the Blucifer narrative",
+      "source": "Jiménez Studio statement; Albuquerque Journal"
+    },
+    {
+      "date": "2008-02-11",
+      "event": "Mustang ('Blucifer') unveiled at DIA",
+      "significance": "Installation of the most-meme'd object on the campus",
+      "source": "DIA press release, 11 February 2008"
+    },
+    {
+      "date": "2009-12-09",
+      "event": "Jesse Ventura's Conspiracy Theory episode 'Apocalypse 2012' airs on TruTV with extensive DIA coverage",
+      "significance": "Major mainstream-television vehicle for the conspiracy theories",
+      "source": "TruTV original broadcast"
+    },
+    {
+      "date": "2018-11-01",
+      "event": "Great Hall renovation begins; the airport's construction-barrier signage parodies the conspiracy theories",
+      "significance": "Airport's official self-aware engagement with the legend",
+      "source": "DIA Great Hall renovation press materials"
+    }
+  ],
+  "related": [
+    {
+      "id": "area-51",
+      "name": "Area 51",
+      "relationship": "similar",
+      "description": "Other major U.S. site associated with secret underground facility theories"
+    },
+    {
+      "id": "dulce-base",
+      "name": "Dulce Base",
+      "relationship": "similar",
+      "description": "Alleged underground base near Dulce, New Mexico"
+    },
+    {
+      "id": "illuminati",
+      "name": "Illuminati",
+      "relationship": "related",
+      "description": "Recurring villain of New World Order conspiracy theories invoked at DIA"
+    },
+    {
+      "id": "new-world-order",
+      "name": "New World Order",
+      "relationship": "related",
+      "description": "Master conspiracy theory framework invoked for DIA"
+    },
+    {
+      "id": "reptilians",
+      "name": "Reptilians",
+      "relationship": "related",
+      "description": "Sometimes alleged inhabitants of the airport's underground"
+    },
+    {
+      "id": "bohemian-grove",
+      "name": "Bohemian Grove",
+      "relationship": "similar",
+      "description": "Other site associated with elite-conspiracy theories"
+    }
+  ],
+  "cultural_notes": "Within American conspiracy-theory subcultures, DIA is treated as one of the most important physical sites of an alleged hidden ruling order; among general travellers, the legends function chiefly as colourful airport folklore.",
+  "sources": [
+    {
+      "id": "wikipedia-dia-conspiracies",
+      "type": "website",
+      "title": "Denver International Airport conspiracy theories",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Denver_International_Airport_conspiracy_theories",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "wikipedia-dia",
+      "type": "website",
+      "title": "Denver International Airport",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Denver_International_Airport",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "colorado-sun-tanguma",
+      "type": "news",
+      "title": "The true story behind the conspiracy-ridden murals at Denver International Airport",
+      "authors": [
+        "Kevin Simpson"
+      ],
+      "publication": "The Colorado Sun",
+      "date": "2023-07-07",
+      "url": "https://coloradosun.com/2023/07/07/dia-murals-conspiracy-tanguma/",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "rmpbs-tanguma",
+      "type": "news",
+      "title": "The true story behind the conspiracy-ridden murals at DIA",
+      "publication": "Rocky Mountain PBS",
+      "url": "https://www.rmpbs.org/news/rocky-mountain-pbs/dia-mural-conspiracies-story",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "snopes-dia",
+      "type": "website",
+      "title": "Denver International Airport (DIA) fact checks",
+      "publication": "Snopes",
+      "url": "https://www.snopes.com/?s=Denver+International+Airport",
+      "accessed": "2026-05-07"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Denver International Airport, Jeppesen Terminal",
+      "lat": 39.8617,
+      "lng": -104.6731
+    },
+    {
+      "name": "Mustang sculpture site",
+      "lat": 39.8556,
+      "lng": -104.6739
+    }
+  ]
 }

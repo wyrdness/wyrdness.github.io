@@ -3,6 +3,7 @@
   "name": "Marfa Lights",
   "category": "atmospheric_phenomenon",
   "description": "Anomalous nocturnal lights observed on Mitchell Flat east of Marfa, Texas, since at least 1883. The lights typically appear as glowing, drifting orbs that hover, split, merge, and move erratically; a 2004 University of Texas at Dallas physics study attributed many modern observations to refracted headlights from U.S. Highway 67 between Marfa and Presidio.",
+  "full_description": "The Marfa Lights are anomalous nocturnal lights observed on Mitchell Flat, east of Marfa in Presidio County, far west Texas. They have been reported since at least 1883, when the cowhand Robert Reed Ellison saw a flickering light while driving cattle through Paisano Pass and initially took it for an Apache campfire. They are typically described as small glowing balls of light, white or yellowish (sometimes red, blue, or green), that hover above the horizon, drift, split, recombine, and disappear. There is an official Marfa Lights Viewing Center on U.S. Highway 90 about nine miles east of Marfa, established by the Texas Department of Transportation. A 2004 study by the Society of Physics Students at the University of Texas at Dallas concluded that many modern Marfa Lights observations correspond to vehicle headlights on U.S. Highway 67 between Marfa and Presidio, refracted through atmospheric thermal layers under the strong daily temperature gradients of the Trans-Pecos region. A subsequent 2008 Texas State University investigation reached compatible conclusions. Pre-automobile reports from the 19th century and a residue of lights appearing in directions not consistent with Highway 67 traffic remain unexplained.",
   "aliases": [
     {
       "name": "Marfa Ghost Lights",
@@ -31,5 +32,133 @@
   "origin": "Mitchell Flat, east of Marfa, Texas, in the Trans-Pecos region.",
   "first_reported": "1883",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Named for the town of Marfa, Texas, near which they are most easily observed.",
+    "meaning": "'Marfa Lights' = the anomalous nocturnal lights of Marfa.",
+    "first_use": "20th-century usage; first published account of the phenomenon appeared in Coronet magazine in 1957."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "1883-01-01",
+      "event": "Cowhand Robert Reed Ellison reports seeing a flickering light while driving cattle through Paisano Pass east of Marfa",
+      "significance": "Earliest documented sighting",
+      "source": "Ellison family / local Texas history"
+    },
+    {
+      "date": "1885-01-01",
+      "event": "Settlers Joe and Anne Humphreys report seeing the lights near Marfa",
+      "significance": "Confirms 19th-century reports independent of Ellison",
+      "source": "Local Texas history"
+    },
+    {
+      "date": "1957-01-01",
+      "event": "First nationally circulated published account appears in Coronet magazine",
+      "significance": "Introduces the Marfa Lights to a wide audience",
+      "source": "Coronet magazine (1957)"
+    },
+    {
+      "date": "1976-01-01",
+      "event": "Elton Miles publishes Tales of the Big Bend, including 19th-century Marfa Lights accounts and an early photograph",
+      "significance": "Brings the lights into Texas folklore literature",
+      "source": "Miles, Tales of the Big Bend (Texas A&M University Press, 1976)"
+    },
+    {
+      "date": "2003-01-01",
+      "event": "Texas Department of Transportation opens the Marfa Lights Viewing Center on U.S. Highway 90",
+      "significance": "Formal recognition and infrastructure for visitors",
+      "source": "Texas Department of Transportation"
+    },
+    {
+      "date": "2004-01-01",
+      "event": "Society of Physics Students at the University of Texas at Dallas conduct a multi-night optical study and conclude that many Marfa Lights observations correspond to refracted headlights from U.S. Highway 67",
+      "significance": "Strongest scientific reframing of the modern phenomenon",
+      "source": "SPS Observer (2004)"
+    },
+    {
+      "date": "2008-01-01",
+      "event": "Texas State University researchers conduct further field study and likewise attribute the bulk of observed lights to vehicle headlights and atmospheric mirage",
+      "significance": "Supports the 2004 conclusion",
+      "source": "Texas State University field study (2008)"
+    }
+  ],
+  "related": [
+    {
+      "id": "brown-mountain-lights",
+      "name": "Brown Mountain Lights",
+      "relationship": "similar",
+      "description": "Long-running ghost-light reports in the Pisgah National Forest, North Carolina"
+    },
+    {
+      "id": "hessdalen-lights",
+      "name": "Hessdalen Lights",
+      "relationship": "similar",
+      "description": "Anomalous lights in the Hessdalen valley, Norway"
+    },
+    {
+      "id": "min-min-light",
+      "name": "Min Min Light",
+      "relationship": "similar",
+      "description": "Anomalous nocturnal light of outback Queensland, Australia"
+    },
+    {
+      "id": "will-o-the-wisp",
+      "name": "Will-o'-the-wisp",
+      "relationship": "related",
+      "description": "European folkloric / atmospheric light phenomenon"
+    }
+  ],
+  "cultural_notes": "In local tradition, the Marfa Lights are a long-standing and broadly accepted feature of the regional landscape, drawing equal parts curiosity, skepticism, and pride.",
+  "sources": [
+    {
+      "id": "wikipedia-marfa-lights",
+      "type": "website",
+      "title": "Marfa lights",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Marfa_lights",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "miles-1976",
+      "type": "book",
+      "title": "Tales of the Big Bend",
+      "authors": [
+        "Elton Miles"
+      ],
+      "publication": "Texas A&M University Press",
+      "date": "1976"
+    },
+    {
+      "id": "bunnell-2009",
+      "type": "book",
+      "title": "Hunting Marfa Lights",
+      "authors": [
+        "James Bunnell"
+      ],
+      "date": "2009"
+    },
+    {
+      "id": "sps-2004",
+      "type": "article",
+      "title": "Marfa Lights investigation",
+      "authors": [
+        "University of Texas at Dallas Society of Physics Students"
+      ],
+      "publication": "SPS Observer",
+      "date": "2004"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Marfa Lights Viewing Center",
+      "lat": 30.3119,
+      "lng": -104.0247
+    }
+  ]
 }

@@ -3,6 +3,7 @@
   "name": "Azazel",
   "category": "demon_angel",
   "description": "A figure that appears in Leviticus 16 as the destination of the Yom Kippur scapegoat and develops, in Second Temple Jewish literature (especially the Book of Enoch and the Apocalypse of Abraham), into a chief fallen angel who teaches forbidden knowledge to humanity.",
+  "full_description": "Azazel (Hebrew: עֲזָאזֵל, ʿĂzāʾzēl) is a figure whose meaning has shifted across the long history of Jewish, Christian, and Islamic religious literature. In the Hebrew Bible the name appears only in Leviticus 16, where one of two goats on the Day of Atonement is sent 'la-Azazel' (for/to Azazel) into the wilderness, bearing the iniquities of Israel. Whether 'Azazel' here denotes a place (a rugged cliff), a fate ('absolute removal'), or a desert demon has been debated since antiquity. By the Second Temple period, Jewish apocalyptic literature recast Azazel as a personal supernatural agent. In the Book of the Watchers (1 Enoch chs. 6–11, c. 3rd–2nd century BCE), Azazel/Asael is a chief among the Watchers who descend to earth, take human wives, and corrupt humanity by teaching metallurgy, weaponry, and cosmetics. The Apocalypse of Abraham (1st–2nd century CE) further develops him as a competitor with God, depicted as an unclean bird. In rabbinic and medieval Jewish tradition Azazel is variously a place, a personification of evil, or — for Nachmanides (1194–1270) — identified with Samael. Christian writers from Origen onward associated him with Satan or the demonic powers; in Islamic tradition the name appears in extra-Qur'anic narratives related to fallen angels. In modern Western occultism (e.g. the works of Aleister Crowley and Anton LaVey) Azazel is treated as one of the named princely demons, an interpretation that derives from medieval and early-modern grimoire traditions rather than directly from the biblical text.",
   "aliases": [
     {
       "name": "ʿAzāʾzēl",
@@ -57,5 +58,181 @@
   "origin": "Azazel is a textual / theological figure rather than a geographically reported entity. The relevant literary traditions originate in the ancient Near East (the Levant and Mesopotamia), especially in Second Temple Judaism; the figure is then transmitted through Jewish, Christian, and Islamic literatures across the wider Mediterranean and Middle East, and into modern Western occultism.",
   "first_reported": "c. 6th-5th century BCE",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Hebrew עֲזָאזֵל (ʿĂzāʾzēl), of disputed derivation. Proposed analyses include (1) a contraction of ʿēz (goat) + ʾāzal (to go away) — 'the goat that departs'; (2) a place name meaning 'rugged cliff' or 'desolate place'; (3) a proper name of a desert demon; (4) Wilhelm Gesenius's 'the averter'.",
+    "meaning": "Literal sense uncertain. In its earliest biblical usage it functions as the destination/recipient of the scapegoat; in Second Temple literature it becomes a personal name for a fallen angel.",
+    "first_use": "Leviticus 16 (Hebrew Bible / Torah; redaction commonly dated to the 6th–5th centuries BCE). First named as a fallen angelic figure in 1 Enoch (Book of the Watchers), c. 3rd–2nd century BCE."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "c. 6th-5th century BCE",
+      "event": "The Priestly source of Leviticus 16 is composed/redacted, prescribing the Yom Kippur ritual of two goats — one 'for YHWH' and one 'for Azazel'.",
+      "significance": "Earliest occurrence of the name in the Hebrew Bible.",
+      "source": "Leviticus 16:8-10, 26 (Hebrew Bible)"
+    },
+    {
+      "date": "c. 3rd-2nd century BCE",
+      "event": "1 Enoch (Book of the Watchers) develops Azazel/Asael as chief Watcher who teaches humans forbidden arts and is bound in the desert until the judgment.",
+      "significance": "First identification of Azazel as a personal angelic being.",
+      "source": "1 Enoch 6-11"
+    },
+    {
+      "date": "1st-2nd century CE",
+      "event": "Apocalypse of Abraham depicts Azazel as a fallen being and unclean bird.",
+      "significance": "Further angelic / demonic personification.",
+      "source": "Apocalypse of Abraham 13, 23"
+    },
+    {
+      "date": "c. 200 CE",
+      "event": "Mishnah Yoma 6 codifies the rabbinic memory of the Yom Kippur scapegoat rite.",
+      "significance": "Talmudic preservation of Temple-era practice.",
+      "source": "Mishnah, tractate Yoma"
+    },
+    {
+      "date": "c. 248 CE",
+      "event": "Origen, in Contra Celsum 6.43, discusses Azazel and associates him with the demonic.",
+      "significance": "Christian patristic engagement.",
+      "source": "Origen, Contra Celsum"
+    },
+    {
+      "date": "1530",
+      "event": "William Tyndale translates 'la-Azazel' as 'escape-goat' in his English Pentateuch, coining 'scapegoat'.",
+      "significance": "Origin of the English word 'scapegoat'.",
+      "source": "Tyndale Pentateuch (1530)"
+    },
+    {
+      "date": "13th century CE",
+      "event": "Nachmanides (Ramban) explicitly identifies Azazel with Samael in his Torah commentary on Leviticus 16.",
+      "significance": "Anchor of the medieval Jewish demonological reading.",
+      "source": "Nachmanides, Commentary on Leviticus 16:8"
+    }
+  ],
+  "related": [
+    {
+      "id": "samael",
+      "name": "Samael",
+      "relationship": "related",
+      "description": "Angel of death and chief Satan-figure in rabbinic literature; identified with Azazel by Nachmanides."
+    },
+    {
+      "id": "satan",
+      "name": "Satan",
+      "relationship": "related",
+      "description": "Christian tradition (e.g. Origen) associates Azazel with Satan or the demonic host."
+    },
+    {
+      "id": "lucifer",
+      "name": "Lucifer",
+      "relationship": "similar",
+      "description": "Distinct biblical/poetic figure; later Christian demonology sometimes groups Azazel with Lucifer as a fallen archangel."
+    },
+    {
+      "id": "watchers",
+      "name": "Watchers (Grigori)",
+      "relationship": "superset",
+      "description": "Class of fallen angels in 1 Enoch of which Azazel/Asael is a leader."
+    },
+    {
+      "id": "iblis",
+      "name": "Iblis",
+      "relationship": "counterpart",
+      "description": "Islamic chief of the jinn / fallen angel; sometimes conflated with Azazel in extra-Qurʾanic literature."
+    }
+  ],
+  "cultural_notes": "Across these traditions Azazel functions as a marker of moral and ritual pollution, a fallen-angel figure responsible for corrupting human knowledge, or — in the Levitical ritual itself — as the destination to which sin is symbolically removed.",
+  "sources": [
+    {
+      "id": "leviticus-16",
+      "type": "book",
+      "title": "Hebrew Bible — Leviticus 16",
+      "publication": "Hebrew Bible / Tanakh",
+      "date": "c. 6th-5th century BCE"
+    },
+    {
+      "id": "1-enoch",
+      "type": "book",
+      "title": "1 Enoch (Book of the Watchers, chs. 1-36)",
+      "publication": "Second Temple Jewish apocalyptic literature",
+      "date": "c. 3rd-2nd century BCE"
+    },
+    {
+      "id": "apocalypse-abraham",
+      "type": "book",
+      "title": "Apocalypse of Abraham",
+      "publication": "Old Slavonic apocalyptic literature",
+      "date": "c. 1st-2nd century CE"
+    },
+    {
+      "id": "mishnah-yoma",
+      "type": "book",
+      "title": "Mishnah, tractate Yoma",
+      "publication": "Rabbinic literature",
+      "date": "c. 200 CE"
+    },
+    {
+      "id": "orlov-2011",
+      "type": "book",
+      "title": "Dark Mirrors: Azazel and Satanael in Early Jewish Demonology",
+      "authors": [
+        "Andrei A. Orlov"
+      ],
+      "publication": "SUNY Press",
+      "date": "2011",
+      "isbn": "978-1438439518"
+    },
+    {
+      "id": "milgrom-1991",
+      "type": "book",
+      "title": "Leviticus 1-16: A New Translation with Introduction and Commentary (Anchor Bible)",
+      "authors": [
+        "Jacob Milgrom"
+      ],
+      "publication": "Doubleday",
+      "date": "1991",
+      "isbn": "978-0300139402"
+    },
+    {
+      "id": "bamberger-1952",
+      "type": "book",
+      "title": "Fallen Angels: Soldiers of Satan's Realm",
+      "authors": [
+        "Bernard J. Bamberger"
+      ],
+      "publication": "Jewish Publication Society",
+      "date": "1952"
+    },
+    {
+      "id": "wikipedia-azazel",
+      "type": "website",
+      "title": "Azazel — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Azazel",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "thetorah-azazel",
+      "type": "website",
+      "title": "Is Azazel a Goat, Place, Demon, or Deity?",
+      "publication": "TheTorah.com",
+      "url": "https://www.thetorah.com/article/is-azazel-a-goat-place-demon-or-deity",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "marquette-orlov-azazel",
+      "type": "website",
+      "title": "Azazel as the Celestial Scapegoat",
+      "authors": [
+        "Andrei A. Orlov"
+      ],
+      "url": "https://www.marquette.edu/maqom/azazelscapegoat.html",
+      "accessed": "2026-05-07"
+    }
+  ],
+  "locations": []
 }

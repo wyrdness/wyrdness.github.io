@@ -3,6 +3,7 @@
   "name": "Come-at-a-Body",
   "category": "cryptid",
   "description": "The Come-at-a-Body is a fearsome critter of early 20th-century American lumberjack folklore, described by William T. Cox in 1910 as a small, woodchuck-sized animal with soft kitten-like fur that suddenly charges out of the brush at New Hampshire travellers and stops abruptly inches away to startle them.",
+  "full_description": "The Come-at-a-Body is one of the so-called 'fearsome critters' — comic, exaggerated tall-tale animals invented by lumberjacks of the North American logging frontier in the late 19th and early 20th centuries and committed to print in William T. Cox's Fearsome Creatures of the Lumberwoods, With a Few Desert and Mountain Beasts (1910). According to Cox's informant, B. B. Bickford of Gorham, New Hampshire, the Come-at-a-Body is a small, woodchuck-like creature native to the White Mountains, covered in 'soft velvety fur like a kitten's', that practises a single, distinctive trick: it bursts from cover and charges directly at any passing traveller, then halts only inches away. Cox describes it as relying entirely on bravado and surprise — it does not bite, scratch, or harm — but the shock to a lone hiker, hunter, or mail-rider can be considerable. Like other fearsome critters (the hidebehind, the squonk, the hodag, the snallygaster), the Come-at-a-Body served lumber camps as both entertainment and a vehicle for hazing greenhorn workers. Coert Du Bois illustrated the animal for Cox's volume, and the U.S. Department of Agriculture forester George B. Sudworth supplied a tongue-in-cheek pseudo-Latin classification. The creature was reproduced and re-illustrated in Henry H. Tryon's 1939 anthology Fearsome Critters and again in modern reissues, securing the Come-at-a-Body a small but durable place in American lumberwoods folklore.",
   "aliases": [
     {
       "name": "Come-At-A-Body",
@@ -32,5 +33,144 @@
   "origin": "Strictly localised to the White Mountains of northern New Hampshire in Cox's account, with secondary references in 20th-century compilations covering the wider Northern New England logging country.",
   "first_reported": "1910",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Hiberno- and rural American English. 'Body' is a dialectal pronoun meaning 'a person' (as in 'a body could get hurt' = 'a person could get hurt'). The name 'Come-at-a-Body' literally describes the creature's habit: 'comes at a [person]'.",
+    "meaning": "'A creature that comes at a person'; named after its sole behaviour.",
+    "first_use": "First in print in William T. Cox, Fearsome Creatures of the Lumberwoods (Washington, D.C.: Judd & Detweiler, 1910)."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0,
+    "date_range": {
+      "earliest": "1910 (literary)",
+      "latest": "1939 (literary)"
+    }
+  },
+  "timeline": [
+    {
+      "date": "1910",
+      "event": "Publication of William T. Cox, Fearsome Creatures of the Lumberwoods, including the Come-at-a-Body entry attributed to B. B. Bickford of Gorham, NH",
+      "significance": "Sole original print attestation of the creature",
+      "source": "Cox, W. T. (1910)"
+    },
+    {
+      "date": "1939",
+      "event": "Henry H. Tryon publishes Fearsome Critters, an expanded compilation that incorporates Cox's earlier entries",
+      "significance": "Reinforces and extends the corpus of fearsome-critter tales",
+      "source": "Tryon, H. H. (1939)"
+    },
+    {
+      "date": "1990s–2010s",
+      "event": "Reissues of Cox's book and online folklore catalogues bring the Come-at-a-Body back into print and onto the web",
+      "significance": "Sustains the figure in modern cryptid- and folklore-enthusiast culture",
+      "source": "Modern facsimile editions; A Book of Creatures and Cryptid Wiki online"
+    }
+  ],
+  "related": [
+    {
+      "id": "hidebehind",
+      "name": "Hidebehind",
+      "relationship": "similar",
+      "description": "Stealth-based fearsome critter that always hides behind whatever the traveller turns toward"
+    },
+    {
+      "id": "squonk",
+      "name": "Squonk",
+      "relationship": "similar",
+      "description": "Pennsylvania fearsome critter included in the same Cox volume"
+    },
+    {
+      "id": "hodag",
+      "name": "Hodag",
+      "relationship": "similar",
+      "description": "Wisconsin fearsome critter; classic lumberwoods tall tale"
+    },
+    {
+      "id": "agropelter",
+      "name": "Agropelter",
+      "relationship": "similar",
+      "description": "Branch-throwing fearsome critter from the same 1910 Cox volume"
+    },
+    {
+      "id": "axehandle-hound",
+      "name": "Axehandle Hound",
+      "relationship": "similar",
+      "description": "Another characteristic Cox-era lumberwoods tall tale beast"
+    },
+    {
+      "id": "fearsome-critters",
+      "name": "Fearsome Critters",
+      "relationship": "superset",
+      "description": "Genre of North American lumberjack tall-tale animals to which the Come-at-a-Body belongs"
+    }
+  ],
+  "cultural_notes": "Strictly humorous: the creature is offered as a deadpan local 'fact' designed to be believed only briefly by an inexperienced listener.",
+  "sources": [
+    {
+      "id": "wikipedia-fearsome-critters",
+      "type": "website",
+      "title": "Fearsome critters",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Fearsome_critters",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "wikipedia-cox-book",
+      "type": "website",
+      "title": "Fearsome Creatures of the Lumberwoods, With a Few Desert and Mountain Beasts",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Fearsome_Creatures_of_the_Lumberwoods,_With_a_Few_Desert_and_Mountain_Beasts",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "cox-1910",
+      "type": "book",
+      "title": "Fearsome Creatures of the Lumberwoods, With a Few Desert and Mountain Beasts",
+      "authors": [
+        "William T. Cox"
+      ],
+      "publication": "Judd & Detweiler, Inc., Washington, D.C.",
+      "date": "1910"
+    },
+    {
+      "id": "tryon-1939",
+      "type": "book",
+      "title": "Fearsome Critters",
+      "authors": [
+        "Henry H. Tryon"
+      ],
+      "publication": "Idlewild Press, Cornwall, NY",
+      "date": "1939"
+    },
+    {
+      "id": "cox-1910-unl",
+      "type": "archive",
+      "title": "Fearsome Creatures of the Lumberwoods (digital edition)",
+      "publication": "University of Nebraska–Lincoln Digital Commons",
+      "url": "https://digitalcommons.unl.edu/nebraskianapubs/8/",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "coleman-clark-1999",
+      "type": "book",
+      "title": "Cryptozoology A to Z",
+      "authors": [
+        "Loren Coleman",
+        "Jerome Clark"
+      ],
+      "publication": "Simon & Schuster",
+      "date": "1999",
+      "isbn": "978-0684856025"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Gorham, New Hampshire",
+      "lat": 44.3884,
+      "lng": -71.1729
+    }
+  ]
 }

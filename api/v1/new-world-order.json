@@ -3,6 +3,7 @@
   "name": "New World Order",
   "category": "conspiracy_theory",
   "description": "A family of conspiracy theories alleging that a secretive power-elite is conspiring to establish an authoritarian one-world government, displacing democratic nation-states. Mainstream scholarship treats it as an unfounded conspiracy narrative rather than as a description of any actual coordinated plot.",
+  "full_description": "The New World Order (NWO) is a long-running family of conspiracy theories alleging that a secretive power-elite — most often identified with combinations of the Illuminati, Freemasons, the Bilderberg Group, the Council on Foreign Relations, the Trilateral Commission, the United Nations, the European Union, and global banking institutions — is conspiring to establish an authoritarian one-world government in place of sovereign nation-states. The theory took its modern form in the United States during the Cold War, drawing on earlier antisemitic and anti-Masonic conspiracy traditions and on the writings of Canadian theorist William Guy Carr; it was substantially recast after George H. W. Bush used the phrase 'new world order' in a September 11, 1990 speech describing the post-Cold-War international landscape. Pat Robertson's 1991 bestseller The New World Order popularized the conspiratorial reading among American Christian conservatives, depicting Wall Street, the Federal Reserve, and the Council on Foreign Relations as controlling world events 'from behind the scenes'. Subsequent variants incorporate Christian end-times prophecy, militia and patriot-movement imagery, claims about extraterrestrials and 'reptilians' (notably in the writings of David Icke), and fears about transhumanism and digital surveillance. Academic scholars such as Michael Barkun (A Culture of Conspiracy, 2003) and Chip Berlet have documented the theory's diffusion through right-wing media, militia subcultures, AM radio, and online networks, and have argued that NWO conspiracism functions as a master-frame uniting otherwise distinct concerns. The mainstream scholarly position is that the New World Order is a conspiracy theory: legitimate critique of corporate internationalism or particular institutional power exists, but the NWO claim of a coordinated authoritarian world-domination plot is unsubstantiated.",
   "aliases": [
     {
       "name": "NWO",
@@ -37,5 +38,116 @@
   "origin": "Belief in the New World Order is concentrated in Anglophone right-wing political subcultures, especially in the United States, with significant uptake in Canada, the United Kingdom, Australia, and across the European far right; online distribution has globalized the discourse.",
   "first_reported": "Cold War era",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "The phrase 'new world order' has a long history in twentieth-century international politics (used by Wilson, Churchill, Hitler, and others). Its modern conspiratorial usage was catalyzed by President George H. W. Bush's September 11, 1990 address.",
+    "meaning": "In conspiracy usage: a coming or existing authoritarian one-world government secretly controlled by an elite cabal.",
+    "first_use": "The conspiratorial usage crystallized in the early 1990s, building on earlier Cold-War antisemitic and anti-Masonic literature."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "1971",
+      "event": "Gary Allen publishes None Dare Call It Conspiracy",
+      "significance": "Influential mid-20th-century right-wing exposition of the conspiracy thesis",
+      "source": "Allen, G. (1971)"
+    },
+    {
+      "date": "1990-09-11",
+      "event": "President George H. W. Bush uses the phrase 'new world order' in an address to a joint session of Congress on the Persian Gulf crisis",
+      "significance": "Catalyzed conspiratorial reframing of the post-Cold-War international order",
+      "source": "Wikipedia: New World Order (conspiracy theory)"
+    },
+    {
+      "date": "1991",
+      "event": "Pat Robertson publishes The New World Order, a New York Times bestseller",
+      "significance": "Popularized the NWO conspiracy among American Christian conservatives",
+      "source": "Robertson, P. (1991), The New World Order"
+    },
+    {
+      "date": "1991",
+      "event": "William Cooper publishes Behold a Pale Horse",
+      "significance": "Foundational text of 1990s American patriot/militia conspiracy culture",
+      "source": "Cooper, W. (1991), Behold a Pale Horse"
+    },
+    {
+      "date": "2003",
+      "event": "Michael Barkun publishes A Culture of Conspiracy: Apocalyptic Visions in Contemporary America",
+      "significance": "Major academic synthesis of NWO conspiracism",
+      "source": "Barkun, M. (2003)"
+    }
+  ],
+  "related": [
+    {
+      "id": "illuminati-conspiracy",
+      "name": "Illuminati conspiracy theory",
+      "relationship": "subset",
+      "description": "Sub-narrative attributing NWO planning to the (historically defunct) Bavarian Illuminati"
+    },
+    {
+      "id": "qanon",
+      "name": "QAnon",
+      "relationship": "related",
+      "description": "Later conspiracy movement that incorporates and extends NWO themes"
+    },
+    {
+      "id": "great-reset",
+      "name": "'Great Reset' conspiracy theory",
+      "relationship": "related",
+      "description": "21st-century conspiracy theory framing the World Economic Forum's policy agenda as NWO implementation"
+    },
+    {
+      "id": "reptilian-conspiracy",
+      "name": "Reptilian conspiracy (Icke)",
+      "relationship": "related",
+      "description": "David Icke's claim that an extraterrestrial reptilian elite controls human affairs, integrated into NWO mythology"
+    }
+  ],
+  "cultural_notes": "Believers treat the NWO as an active and ongoing conspiracy whose advance is to be resisted; mainstream scholarship treats it as a conspiracy theory.",
+  "sources": [
+    {
+      "id": "wikipedia-nwo",
+      "type": "website",
+      "title": "New World Order (conspiracy theory)",
+      "publication": "English Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/New_World_Order_conspiracy_theory",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "robertson-1991",
+      "type": "book",
+      "title": "The New World Order",
+      "authors": [
+        "Pat Robertson"
+      ],
+      "publication": "Word Publishing",
+      "date": "1991"
+    },
+    {
+      "id": "barkun-2003",
+      "type": "book",
+      "title": "A Culture of Conspiracy: Apocalyptic Visions in Contemporary America",
+      "authors": [
+        "Michael Barkun"
+      ],
+      "publication": "University of California Press",
+      "date": "2003"
+    },
+    {
+      "id": "fenster-2008",
+      "type": "book",
+      "title": "Conspiracy Theories: Secrecy and Power in American Culture",
+      "authors": [
+        "Mark Fenster"
+      ],
+      "publication": "University of Minnesota Press",
+      "date": "2008"
+    }
+  ],
+  "locations": []
 }

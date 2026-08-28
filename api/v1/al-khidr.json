@@ -3,6 +3,7 @@
   "name": "Al-Khidr",
   "category": "entity_spirit",
   "description": "Al-Khidr ('the Green One') is a Quranic figure of Islamic tradition described in Surah al-Kahf 18:65–82 as a righteous servant of God endowed with hidden knowledge. He is variously identified as an angel, prophet, or saint (wali), and is held by many traditions to be still alive, guiding seekers and aiding those in distress.",
+  "full_description": "Al-Khidr (Arabic: الخضر, 'the Green One' or 'the Verdant One') is one of the most enigmatic figures in Islamic tradition. He appears anonymously in Surah al-Kahf (Quran 18:65–82) as 'a servant from among Our servants to whom We had given mercy from Us and had taught from Us a [certain] knowledge', who travels with Moses (Musa) and performs three apparently inscrutable acts — damaging a ship, killing a young man, and rebuilding a wall — each later explained as preventing greater harm. Classical Islamic exegesis (notably the History of al-Tabari and al-Bukhari's Sahih) names this figure al-Khidr. He is variously regarded as a prophet, an angel, or a wali (friend/saint of God), and many traditions hold him to be still living, encountered as an unobtrusive stranger by the deserving. He is associated with greenness, vegetation, and water, sometimes identified as a guardian of the sea. Across the Islamic world he has been syncretised with related figures — Elijah in Judaism and in the paired Iraqi feast of Eid Khidr Elias, Saint George and Saint Sergius in Christian Levant and Asia Minor, John the Baptist in Armenia, Jhulelal in Sindh and Punjab, and the spring-festival figure Hıdırellez (Khidr–Ilyas) celebrated on 6 May in Turkey and the Balkans. Sufi authors, especially Ibn Arabi and the lineage of Henry Corbin's interpreters, treat him as the archetypal initiator of mystics. The Dome of al-Khidr at the Al-Aqsa compound in Jerusalem is one of his major dedicated shrines.",
   "aliases": [
     {
       "name": "Al-Khaḍir",
@@ -57,5 +58,137 @@
   "origin": "A pan-Islamic figure with regional inflections across the Arab world, Iran, Turkey, the Balkans, the Caucasus, the Indian subcontinent, and the Malay archipelago; also venerated by Druze and (under different names) by Christian and Yazidi communities.",
   "first_reported": "7th century",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Arabic root kh-ḍ-r, denoting greenness or verdure.",
+    "meaning": "'The Green One' or 'the Verdant One', glossed in tradition as a sign of his association with eternal life and renewing vegetation; some accounts say wherever he sits or prays, vegetation springs up.",
+    "first_use": "Quranic (7th century CE) — the figure is unnamed in the text but is identified as al-Khidr in early hadith and in al-Tabari's tafsir."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "7th century",
+      "event": "Surah al-Kahf is revealed, including the Moses–Khidr narrative (verses 65–82)",
+      "significance": "Foundational scripture for the figure",
+      "source": "Quran 18:65–82"
+    },
+    {
+      "date": "9th century",
+      "event": "Al-Bukhari's Sahih records hadith identifying the unnamed servant of Quran 18 as al-Khidr",
+      "significance": "Authoritative Sunni identification",
+      "source": "Sahih al-Bukhari, Kitab al-Anbiya"
+    },
+    {
+      "date": "10th century",
+      "event": "Al-Tabari includes 'The Tale of al-Khidr and His History' in his Tarikh al-Rusul wa al-Muluk (History of the Prophets and Kings)",
+      "significance": "Major classical narrative source",
+      "source": "Al-Tabari, History of the Prophets and Kings"
+    },
+    {
+      "date": "11th century",
+      "event": "Nissim ben Jacob's Hibbur Yafeh me-ha-Yeshuah cites parallel Jewish tales of an immortal teacher",
+      "significance": "Jewish parallel literature",
+      "source": "Nissim ben Jacob (11th century)"
+    },
+    {
+      "date": "13th century",
+      "event": "Ibn Arabi develops al-Khidr as the archetypal Sufi initiator in his Futuhat al-Makkiyya and other works",
+      "significance": "Major Sufi systematisation",
+      "source": "Ibn Arabi, Futuhat al-Makkiyya"
+    },
+    {
+      "date": "13th century",
+      "event": "Sirat al-Iskandar transmits the Alexander–Khidr Water-of-Life episode in Arabic",
+      "significance": "Spreads the immortality motif",
+      "source": "Sirat al-Iskandar (13th-century Arabic Alexander Romance)"
+    }
+  ],
+  "related": [
+    {
+      "id": "elijah",
+      "name": "Elijah (Ilyas)",
+      "relationship": "counterpart",
+      "description": "Hebrew/Quranic prophet often paired with al-Khidr; their joint feast Eid Khidr Elias is celebrated in Iraq"
+    },
+    {
+      "id": "saint-george",
+      "name": "Saint George",
+      "relationship": "counterpart",
+      "description": "Christian saint syncretised with al-Khidr in the Levant and Asia Minor"
+    },
+    {
+      "id": "jhulelal",
+      "name": "Jhulelal",
+      "relationship": "counterpart",
+      "description": "Sindhi river-deity associated with al-Khidr in South Asia"
+    },
+    {
+      "id": "utnapishtim",
+      "name": "Utnapishtim",
+      "relationship": "similar",
+      "description": "Mesopotamian flood survivor and immortal often compared with al-Khidr by historians of religion"
+    },
+    {
+      "id": "green-man",
+      "name": "Green Man (European)",
+      "relationship": "similar",
+      "description": "European folkloric figure of vegetation and rebirth, sometimes compared with al-Khidr"
+    }
+  ],
+  "cultural_notes": "Believers commonly invoke al-Khidr in moments of distress at sea or on the road; many Sufis hold that he can appear as a teacher at any stage of the path.",
+  "sources": [
+    {
+      "id": "wikipedia-khidr",
+      "type": "website",
+      "title": "Khidr",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Khidr",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "britannica-khidr",
+      "type": "website",
+      "title": "al-Khidr",
+      "publication": "Encyclopædia Britannica",
+      "url": "https://www.britannica.com/topic/al-Khidr",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "quran-18",
+      "type": "book",
+      "title": "Quran, Surah al-Kahf 18:65–82",
+      "date": "7th century"
+    },
+    {
+      "id": "tabari-history",
+      "type": "book",
+      "title": "Tarikh al-Rusul wa al-Muluk (History of the Prophets and Kings)",
+      "authors": [
+        "Muhammad ibn Jarir al-Tabari"
+      ],
+      "date": "10th century"
+    },
+    {
+      "id": "franke-2000",
+      "type": "book",
+      "title": "Begegnung mit Khidr: Quellenstudien zum Imaginären im traditionellen Islam",
+      "authors": [
+        "Patrick Franke"
+      ],
+      "publication": "Beiruter Texte und Studien 79, Ergon Verlag",
+      "date": "2000"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Dome of al-Khidr",
+      "lat": 31.7779,
+      "lng": 35.2358
+    }
+  ]
 }

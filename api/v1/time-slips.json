@@ -3,6 +3,7 @@
   "name": "Time Slips",
   "category": "anomaly",
   "description": "An anomalous experience in which a percipient apparently perceives, or briefly enters, a different time period (most often the past) before returning to the present without the passage of normal time.",
+  "full_description": "Time slips are reports - usually first-person, sometimes shared by multiple witnesses - of having briefly experienced an environment from a different historical period. Witnesses describe period-appropriate clothing, vehicles, signage, architecture, and people, often accompanied by an oppressive 'flat' or 'stage-set' atmospheric quality. The phenomenon was given its first systematically published case in An Adventure (1911) by Charlotte Anne Moberly and Eleanor Jourdain, recounting their 10 August 1901 visit to the Petit Trianon at Versailles. In the United Kingdom the most-discussed cluster is on or near Bold Street, Liverpool, with a much-circulated account from a retired police officer, Frank Williams, in 1996. Within psychical research the experience is typically classified as a form of retrocognition rather than literal time travel; sceptics treat reports as misperception, false memory, or confabulation. The Society for Psychical Research's Psi Encyclopedia maintains an entry on the Versailles case as a benchmark example.",
   "aliases": [
     {
       "name": "Retrocognition",
@@ -36,5 +37,168 @@
   "origin": "Reported worldwide; the largest published clusters are in the United Kingdom (Versailles in France, Liverpool, Wiltshire, Norfolk) and the United States.",
   "first_reported": "1901-08-10",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "English compound 'time slip', popularized by 20th-century authors including Joan Forman (The Mask of Time, 1978) and Andrew MacKenzie (Adventures in Time, 1997).",
+    "meaning": "A 'slip' in time during which a witness apparently experiences another era",
+    "first_use": "Term entered popular use in the mid-20th century; 'An Adventure' (1911) used the description 'an adventure' rather than 'time slip'."
+  },
+  "sightings_stats": {
+    "total_documented": 200,
+    "verified": 0,
+    "disputed": 150,
+    "debunked": 30,
+    "date_range": {
+      "earliest": "1901-08-10",
+      "latest": "2026"
+    }
+  },
+  "timeline": [
+    {
+      "date": "1901-08-10",
+      "event": "Charlotte Anne Moberly and Eleanor Jourdain visit the Petit Trianon at Versailles and report seeing the gardens as in the late 18th century, including figures they later interpret as Marie Antoinette and others",
+      "significance": "Founding case of the modern time-slip canon",
+      "source": "Moberly & Jourdain, An Adventure (1911)"
+    },
+    {
+      "date": "1911",
+      "event": "Publication of An Adventure under pseudonyms 'Elizabeth Morison' and 'Frances Lamont' (London: Macmillan)",
+      "significance": "First mainstream time-slip publication; sells out quickly with multiple printings",
+      "source": "An Adventure, first edition"
+    },
+    {
+      "date": "1931",
+      "event": "Authors of An Adventure are publicly identified as Charlotte Anne Moberly and Eleanor Jourdain",
+      "significance": "End of the anonymous period; renewed scholarly attention",
+      "source": "Joan Evans, edited later editions"
+    },
+    {
+      "date": "1978",
+      "event": "Joan Forman publishes The Mask of Time",
+      "significance": "Popular collection of British time-slip cases",
+      "source": "Forman, J., The Mask of Time (Macdonald and Jane's, 1978)"
+    },
+    {
+      "date": "1996-07",
+      "event": "Bold Street, Liverpool: retired police officer Frank Williams reports a brief time-slip in or near the building formerly housing the Cripps store, recounted later on BBC Radio Merseyside's Billy Butler programme",
+      "significance": "Most-discussed UK time-slip case of the late 20th century; corroborated only by callers who confirmed the historical existence of Cripps",
+      "source": "Bold Street press and radio coverage"
+    },
+    {
+      "date": "1997",
+      "event": "Andrew MacKenzie publishes Adventures in Time: Encounters with the Past",
+      "significance": "Major SPR-affiliated case collection",
+      "source": "MacKenzie, A., Adventures in Time (Athlone Press, 1997)"
+    }
+  ],
+  "related": [
+    {
+      "id": "stone-tape-theory",
+      "name": "Stone Tape Theory",
+      "relationship": "related",
+      "description": "Hypothesis that environments record and replay past events"
+    },
+    {
+      "id": "ghosts",
+      "name": "Ghosts / apparitions",
+      "relationship": "related",
+      "description": "Apparitional phenomena often described in the same locations"
+    },
+    {
+      "id": "vanishing-hitchhiker",
+      "name": "Vanishing Hitchhiker",
+      "relationship": "related",
+      "description": "Anomalous-experience folklore involving phantom encounters"
+    },
+    {
+      "id": "mandela-effect",
+      "name": "Mandela Effect",
+      "relationship": "related",
+      "description": "Memory-anomaly phenomenon sometimes invoked alongside time slips"
+    },
+    {
+      "id": "out-of-body-experiences",
+      "name": "Out-of-Body Experiences",
+      "relationship": "related",
+      "description": "Other classes of anomalous experience studied by psychical research"
+    }
+  ],
+  "cultural_notes": "Often interpreted as retrocognition or 'place memory' rather than literal time travel within the psychical-research tradition.",
+  "sources": [
+    {
+      "id": "wikipedia-timeslip",
+      "type": "website",
+      "title": "Time slip",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Time_slip",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "wikipedia-moberlyjourdain",
+      "type": "website",
+      "title": "Moberly–Jourdain incident",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Moberly%E2%80%93Jourdain_incident",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "moberly-jourdain-1911",
+      "type": "book",
+      "title": "An Adventure",
+      "authors": [
+        "C. A. E. Moberly",
+        "E. F. Jourdain"
+      ],
+      "publication": "Macmillan, London",
+      "date": "1911"
+    },
+    {
+      "id": "forman-1978",
+      "type": "book",
+      "title": "The Mask of Time",
+      "authors": [
+        "Joan Forman"
+      ],
+      "publication": "Macdonald and Jane's",
+      "date": "1978"
+    },
+    {
+      "id": "mackenzie-1997",
+      "type": "book",
+      "title": "Adventures in Time: Encounters with the Past",
+      "authors": [
+        "Andrew MacKenzie"
+      ],
+      "publication": "Athlone Press",
+      "date": "1997"
+    },
+    {
+      "id": "psi-encyclopedia-versailles",
+      "type": "website",
+      "title": "Versailles 'Time-Slip'",
+      "publication": "Psi Encyclopedia (Society for Psychical Research)",
+      "url": "https://psi-encyclopedia.spr.ac.uk/articles/versailles-%E2%80%98time-slip%E2%80%99",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "spookyisles-bold-street",
+      "type": "article",
+      "title": "The Time Slips Of Bold Street, Liverpool",
+      "publication": "Spooky Isles",
+      "url": "https://www.spookyisles.com/time-slips-bold-street-liverpool/",
+      "accessed": "2026-05-07"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Petit Trianon, Versailles",
+      "lat": 48.8156,
+      "lng": 2.11
+    },
+    {
+      "name": "Bold Street, Liverpool",
+      "lat": 53.4047,
+      "lng": -2.981
+    }
+  ]
 }

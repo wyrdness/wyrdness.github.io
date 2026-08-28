@@ -3,6 +3,7 @@
   "name": "Lernaean Hydra",
   "category": "mythological_creature",
   "description": "The Lernaean Hydra is a many-headed serpentine drakōn of Greek mythology, offspring of Typhon and Echidna, slain by Heracles as his second labor; its defining trait is the regrowth of two heads for each one severed.",
+  "full_description": "The Lernaean Hydra (Greek Λερναῖα Ὕδρα) is a chthonic, multi-headed serpent-monster of Greek mythology that lurked in the springs of Lerna in the Argolid, near a reputed entrance to the Underworld. Hesiod's Theogony names her parents as Typhon and Echidna and her siblings as Cerberus, Orthrus, and the Chimera. Sources differ on the number of heads — six on early bronze fibulae (c. 700 BCE), nine in Alcaeus, fifty in Simonides, and indeterminate in Euripides and Virgil — but the regenerating-head motif, first attested in Euripides, became canonical: each severed head sprouted two more (or three, in Servius). Heracles, sent against the Hydra by King Eurystheus as his second labor, ultimately defeated her with the help of his nephew Iolaus, who cauterized each neck stump with a firebrand to prevent regrowth. The single immortal head was severed and buried under a great rock between Lerna and Elaius. Heracles dipped his arrows in the Hydra's venomous blood, providing him a deadly resource for later labors and ultimately the means of his own death through the Tunic of Nessus. The Hydra became proverbial in Greek and remains a stock image for problems that multiply when attacked.",
   "aliases": [
     {
       "name": "Λερναῖα Ὕδρα (Lernaía Hýdra)",
@@ -38,5 +39,237 @@
   "origin": "Mythological habitat is the marsh of Lerna, in the Argolid region of the Peloponnese, southern Greece, near a reputed entrance to the Underworld.",
   "first_reported": "c. 700 BCE",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Greek ὕδρα (húdra), 'water-snake', cognate with English 'otter' via the Indo-European root *wódr̥ ('water'). The name binds the creature to its watery lair at Lerna.",
+    "meaning": "'Water-snake of Lerna'; in classical usage 'Hydra' specifically denotes the Lernaean monster slain by Heracles.",
+    "first_use": "Hesiod's Theogony (c. 700 BCE) is the earliest extant narrative reference; the figure appears on Boeotian bronze fibulae of the same era."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0,
+    "date_range": {
+      "earliest": "c. 700 BCE",
+      "latest": "Roman period"
+    }
+  },
+  "timeline": [
+    {
+      "date": "Pre-contact",
+      "event": "Boeotian bronze fibulae depict a hero attacking a six-headed water-serpent, c. 700 BCE",
+      "significance": "Earliest visual attestation of the Hydra tradition",
+      "source": "Boeotian bronze fibulae, c. 700 BCE"
+    },
+    {
+      "date": "Pre-contact",
+      "event": "Hesiod's Theogony (c. 700 BCE) names the Hydra as offspring of Typhon and Echidna and sister of Cerberus and the Chimera",
+      "significance": "Earliest extant narrative attestation",
+      "source": "Hesiod, Theogony 313–318"
+    },
+    {
+      "date": "Pre-contact",
+      "event": "Alcaeus of Mytilene (c. 600 BCE) gives the Hydra nine heads",
+      "significance": "Earliest specific head-count assignment in the canonical lineage",
+      "source": "Alcaeus, fragments"
+    },
+    {
+      "date": "Pre-contact",
+      "event": "Euripides (5th c. BCE) attests the regenerating-heads motif",
+      "significance": "First extant source for the iconic head-regrowth feature",
+      "source": "Euripides (cited in scholia)"
+    },
+    {
+      "date": "Pre-contact",
+      "event": "Plato uses the Hydra as a logical metaphor in the Euthydemus (4th c. BCE)",
+      "significance": "Early proverbial use of the Hydra for proliferating problems",
+      "source": "Plato, Euthydemus 297c"
+    },
+    {
+      "date": "Pre-contact",
+      "event": "Pseudo-Apollodorus's Bibliotheca (1st–2nd c. CE) gives the canonical Heracles-and-Iolaus account, including the immortal head buried under a rock",
+      "significance": "Standard mythographic source for the second labor of Heracles",
+      "source": "Pseudo-Apollodorus, Bibliotheca 2.5.2"
+    },
+    {
+      "date": "Pre-contact",
+      "event": "Pausanias's Description of Greece (2nd c. CE) locates the Hydra at the spring of Amymone",
+      "significance": "Geographic anchoring of the myth in the Argolid",
+      "source": "Pausanias, Description of Greece 2.37"
+    },
+    {
+      "date": "Pre-contact",
+      "event": "Servius (4th–5th c. CE) reports the variant of three heads regrowing per severance",
+      "significance": "Late antique elaboration of the regeneration motif",
+      "source": "Servius, Commentary on the Aeneid"
+    },
+    {
+      "date": "1985-01-01",
+      "event": "Walter Burkert's Greek Religion published in English by Harvard University Press",
+      "significance": "Standard modern reference framing the Hydra within Greek chthonic mythology",
+      "source": "Burkert, W. (1985)"
+    },
+    {
+      "date": "2013-01-01",
+      "event": "Daniel Ogden publishes Drakōn: Dragon Myth and Serpent Cult in the Greek and Roman Worlds (Oxford)",
+      "significance": "Definitive modern study of Greek and Roman dragon-myth, including the Hydra",
+      "source": "Ogden, D. (2013)"
+    }
+  ],
+  "related": [
+    {
+      "id": "ladon",
+      "name": "Ladon",
+      "relationship": "similar",
+      "description": "Hundred-headed dragon guarding the apples of the Hesperides"
+    },
+    {
+      "id": "chimera",
+      "name": "Chimera",
+      "relationship": "similar",
+      "description": "Sibling of the Hydra, also offspring of Typhon and Echidna"
+    },
+    {
+      "id": "cerberus",
+      "name": "Cerberus",
+      "relationship": "similar",
+      "description": "Three-headed sibling of the Hydra guarding the underworld"
+    },
+    {
+      "id": "python",
+      "name": "Python",
+      "relationship": "similar",
+      "description": "Chthonic serpent of Delphi slain by Apollo"
+    },
+    {
+      "id": "yamata-no-orochi",
+      "name": "Yamata no Orochi",
+      "relationship": "similar",
+      "description": "Eight-headed Japanese dragon slain by Susanoo"
+    },
+    {
+      "id": "typhon",
+      "name": "Typhon",
+      "relationship": "related",
+      "description": "Father of the Hydra in Hesiod's Theogony"
+    },
+    {
+      "id": "echidna",
+      "name": "Echidna",
+      "relationship": "related",
+      "description": "Mother of the Hydra in Hesiod's Theogony"
+    }
+  ],
+  "cultural_notes": "In ancient Greek religion, the Hydra is firmly mythological — a child of Typhon and Echidna belonging to the chthonic order subdued by Olympian heroes — rather than a creature of folk sighting tradition.",
+  "sources": [
+    {
+      "id": "hesiod-theogony",
+      "type": "book",
+      "title": "Theogony",
+      "authors": [
+        "Hesiod"
+      ],
+      "publication": "Greek epic, c. 700 BCE",
+      "date": "c. 700 BCE"
+    },
+    {
+      "id": "apollodorus-bibliotheca",
+      "type": "book",
+      "title": "Bibliotheca",
+      "authors": [
+        "Pseudo-Apollodorus"
+      ],
+      "publication": "Greek mythography, 1st–2nd c. CE",
+      "date": "1st–2nd c. CE"
+    },
+    {
+      "id": "pausanias-description",
+      "type": "book",
+      "title": "Description of Greece",
+      "authors": [
+        "Pausanias"
+      ],
+      "publication": "Greek travel writing, 2nd c. CE",
+      "date": "2nd c. CE"
+    },
+    {
+      "id": "ovid-metamorphoses",
+      "type": "book",
+      "title": "Metamorphoses",
+      "authors": [
+        "Ovid"
+      ],
+      "publication": "Latin epic, 1–8 CE",
+      "date": "1–8 CE"
+    },
+    {
+      "id": "hyginus-fabulae",
+      "type": "book",
+      "title": "Fabulae",
+      "authors": [
+        "Hyginus"
+      ],
+      "publication": "Latin mythography, 1st–2nd c. CE",
+      "date": "1st–2nd c. CE"
+    },
+    {
+      "id": "burkert-1985",
+      "type": "book",
+      "title": "Greek Religion",
+      "authors": [
+        "Walter Burkert"
+      ],
+      "publication": "Harvard University Press",
+      "date": "1985",
+      "isbn": "978-0-674-36281-9"
+    },
+    {
+      "id": "ogden-2013",
+      "type": "book",
+      "title": "Drakōn: Dragon Myth and Serpent Cult in the Greek and Roman Worlds",
+      "authors": [
+        "Daniel Ogden"
+      ],
+      "publication": "Oxford University Press",
+      "date": "2013",
+      "isbn": "978-0-19-955732-5"
+    },
+    {
+      "id": "kerenyi-1959",
+      "type": "book",
+      "title": "The Heroes of the Greeks",
+      "authors": [
+        "Carl Kerenyi"
+      ],
+      "publication": "Thames and Hudson",
+      "date": "1959"
+    },
+    {
+      "id": "grimal-1986",
+      "type": "book",
+      "title": "The Dictionary of Classical Mythology",
+      "authors": [
+        "Pierre Grimal"
+      ],
+      "publication": "Blackwell",
+      "date": "1986",
+      "isbn": "978-0-631-13209-7"
+    },
+    {
+      "id": "wikipedia-lernaean-hydra",
+      "type": "website",
+      "title": "Lernaean Hydra",
+      "url": "https://en.wikipedia.org/wiki/Lernaean_Hydra",
+      "publication": "Wikipedia",
+      "accessed": "2026-05-07"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Lake Lerna",
+      "lat": 37.5556,
+      "lng": 22.7194
+    }
+  ]
 }

@@ -3,6 +3,7 @@
   "name": "Yeren",
   "category": "cryptid",
   "description": "The Yeren (Chinese: 野人, 'wild man') is a hairy bipedal hominid cryptid reported from the remote mountain forests of central China, most famously the Shennongjia Forestry District of Hubei Province. It is the principal Chinese counterpart to Bigfoot and the Yeti.",
+  "full_description": "Yeren, literally 'wild man' in Chinese, is a humanoid cryptid reported from remote, mountainous regions of central China — most famously the Shennongjia Forestry District in Hubei Province, but also the surrounding Fang County area, Shaanxi, and parts of Yunnan. Witnesses describe a bipedal creature standing more than two metres (6 ft) tall, covered in tawny or reddish-brown hair, with long arms reaching to the knees, large feet, and a face combining ape-like and human traits. Wildman-type figures appear in classical Chinese texts as early as Qu Yuan's Jiu Ge ('Nine Songs', 4th century BCE) and in later works such as the Yi Zhou Shu, the Erya, the Huainanzi (139 BCE), the Youyang Zazu (853 CE), and Li Shizhen's Bencao Gangmu / Compendium of Materia Medica (1578). A 1555 entry in the Fang County local gazetteer Fangxianzhi records yeren sheltering in caves and raiding villagers' livestock. Modern scientific interest peaked in a series of expeditions organised by the Chinese Academy of Sciences from the late 1970s through the 1980s — the so-called 'Yeren Fever' that followed the Cultural Revolution — including a major 1977 Shennongjia expedition led by Zhou Guoxing. The China Wildman Research Society was founded in 1981, offering bounties for specimens. No specimen, body, or peer-reviewed genetic confirmation has been produced; collected hair samples and footprints have been attributed to known animals (bears, macaques, gibbons). A minority of researchers, drawing on Mao Guangnian's relict-Gigantopithecus hypothesis, continue to argue for an undiscovered hominid.",
   "aliases": [
     {
       "name": "野人",
@@ -56,5 +57,164 @@
   "origin": "Reports concentrate in the rugged, forested mountains of central China, especially the Shennongjia Forestry District in northwestern Hubei Province and adjacent Fang County. Additional reports come from Shaanxi (notably referenced in Yuan Mei's 1788 Zibuyu) and from a 1962 Chinese Academy of Sciences investigation in the Xishuangbanna Dai Autonomous Prefecture of Yunnan.",
   "first_reported": "circa 340 BCE",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "The modern Chinese term 野人 (yěrén, 'wild man') was standardised through 20th-century ethnographic and zoological reporting, especially around the Shennongjia Forestry District. Earlier Chinese texts use related terms such as xingxing (猩猩) and feifei (狒狒).",
+    "meaning": "Literally 'wild person' or 'wild man'.",
+    "first_use": "The term in its modern Chinese-cryptid sense gains traction in the mid-20th century; older 'wildman' and 'mountain spirit' antecedents go back to Qu Yuan's Jiu Ge (4th century BCE)."
+  },
+  "sightings_stats": {
+    "total_documented": 400,
+    "verified": 0,
+    "disputed": 350,
+    "debunked": 50,
+    "date_range": {
+      "earliest": "1555",
+      "latest": "2020s"
+    }
+  },
+  "timeline": [
+    {
+      "date": "circa 340 BCE",
+      "event": "Qu Yuan's Jiu Ge references a 'mountain spirit' that is later read as a wildman antecedent",
+      "significance": "Earliest Chinese textual reference in the wildman lineage",
+      "source": "Qu Yuan, Jiu Ge"
+    },
+    {
+      "date": "139 BCE",
+      "event": "The Huainanzi (commentary by Gao Yu) describes the xingxing as having a human face but the body of a beast",
+      "significance": "Classical-era articulation of an ape-like wildman figure",
+      "source": "Huainanzi"
+    },
+    {
+      "date": "853",
+      "event": "Duan Chengshi's Youyang Zazu describes feifei in detail",
+      "significance": "Tang-dynasty consolidation of wildman lore",
+      "source": "Youyang Zazu"
+    },
+    {
+      "date": "1555",
+      "event": "Fangxianzhi (Fang County gazetteer) records yeren sheltering in mountain caves and raiding villagers' livestock",
+      "significance": "Earliest specifically modern-style yeren account",
+      "source": "Fangxianzhi (1555)"
+    },
+    {
+      "date": "1578",
+      "event": "Li Shizhen's Bencao Gangmu (Compendium of Materia Medica) discusses yeren among wild creatures",
+      "significance": "Encyclopaedic Ming-era reference",
+      "source": "Bencao Gangmu"
+    },
+    {
+      "date": "1962",
+      "event": "Wu Rukang leads a Chinese Academy of Sciences investigation of apeman reports in Xishuangbanna, Yunnan, attributing them to misidentified gibbons",
+      "significance": "Early modern scientific dismissal",
+      "source": "Chinese Academy of Sciences investigation (Wu Rukang)"
+    },
+    {
+      "date": "1977",
+      "event": "Major Chinese Academy of Sciences expedition to Shennongjia, led by Zhou Guoxing, with military, zoologists, biologists, and photographers",
+      "significance": "Highest-profile state-organised yeren expedition",
+      "source": "Chinese Academy of Sciences (1977)"
+    },
+    {
+      "date": "1981",
+      "event": "China Wildman Research Society founded; offers ¥5,000 for a dead yeren and ¥10,000 for a live one",
+      "significance": "Institutionalises post-Mao yeren research",
+      "source": "China Wildman Research Society (1981)"
+    }
+  ],
+  "related": [
+    {
+      "id": "bigfoot",
+      "name": "Bigfoot",
+      "relationship": "similar",
+      "description": "North American hairy-hominid cryptid"
+    },
+    {
+      "id": "yeti",
+      "name": "Yeti",
+      "relationship": "similar",
+      "description": "Himalayan hairy-hominid cryptid"
+    },
+    {
+      "id": "almas",
+      "name": "Almas",
+      "relationship": "similar",
+      "description": "Central Asian / Mongolian hairy-hominid tradition"
+    },
+    {
+      "id": "yowie",
+      "name": "Yowie",
+      "relationship": "similar",
+      "description": "Australian hairy-hominid cryptid"
+    },
+    {
+      "id": "orang-pendek",
+      "name": "Orang Pendek",
+      "relationship": "similar",
+      "description": "Sumatran short bipedal cryptid"
+    }
+  ],
+  "cultural_notes": "Within local Hubei mountain communities the yeren has historically been treated as a real but rare forest creature, with reports running parallel to the modern cryptozoological framing rather than being created by it.",
+  "sources": [
+    {
+      "id": "wikipedia-yeren",
+      "type": "website",
+      "title": "Yeren",
+      "url": "https://en.wikipedia.org/wiki/Yeren",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "spp-wildman",
+      "type": "paper",
+      "title": "The Wildman of China: The Search for the Yeren",
+      "publication": "Sino-Platonic Papers, no. 309",
+      "url": "https://sino-platonic.org/complete/spp309_chinese_wildman.pdf",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "meldrum-yeren-rhi",
+      "type": "paper",
+      "title": "Footprint Evidence of the Chinese Yeren",
+      "authors": [
+        "Jeffrey Meldrum"
+      ],
+      "publication": "Idaho State University Relict Hominoid Inquiry, Brief Communications",
+      "url": "https://www.isu.edu/media/libraries/rhi/brief-communications/Footprint-Evidence-of-Chinese-Yeren.pdf",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "schmalzer-2008",
+      "type": "book",
+      "title": "The People's Peking Man: Popular Science and Human Identity in Twentieth-Century China",
+      "authors": [
+        "Sigrid Schmalzer"
+      ],
+      "publication": "University of Chicago Press",
+      "date": "2008",
+      "isbn": "978-0226738604"
+    },
+    {
+      "id": "fangxianzhi-1555",
+      "type": "archive",
+      "title": "Fangxianzhi (Fang County Gazetteer), 1555 entry on yeren",
+      "date": "1555"
+    },
+    {
+      "id": "bencao-gangmu-1578",
+      "type": "book",
+      "title": "Bencao Gangmu (Compendium of Materia Medica)",
+      "authors": [
+        "Li Shizhen"
+      ],
+      "date": "1578"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Shennongjia Forestry District",
+      "lat": 31.7444,
+      "lng": 110.675
+    }
+  ]
 }

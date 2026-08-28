@@ -3,6 +3,7 @@
   "name": "Bigfoot",
   "category": "cryptid",
   "description": "A large, hairy, bipedal humanoid creature reported throughout North America, particularly in the Pacific Northwest. One of the most extensively reported and culturally entrenched cryptids, with thousands of eyewitness accounts but no specimen accepted by mainstream science.",
+  "full_description": "Bigfoot, also known as Sasquatch, is the most prominent cryptid of North America. Witnesses describe a large, ape-like creature standing 6 to 10 feet (1.8–3 m) tall, covered in dark hair, walking upright, and sometimes accompanied by a strong, unpleasant odor. Reports cluster in heavily forested regions of the Pacific Northwest and British Columbia but extend across the continent. The modern phenomenon coalesced after large footprints were found at Bluff Creek, California in 1958, and the term 'Bigfoot' was popularized in the Humboldt Times by journalist Andrew Genzoli later that year. Despite many decades of investigation, including academic work by primate anatomists such as Grover Krantz and Jeff Meldrum, no remains, captured specimen, or unambiguous photographic record has been accepted by mainstream zoology. Mainstream scientific consensus treats Bigfoot as a folkloric phenomenon explained by misidentification of bears and humans, hoaxes, and the cultural transmission of expectation. A minority of researchers, drawing on Indigenous tradition and a database of reports with structural consistency, continue to investigate the possibility of an undiscovered North American hominid.",
   "aliases": [
     {
       "name": "Sasquatch",
@@ -72,5 +73,300 @@
   "origin": "Reports span the contiguous United States, Alaska, and Canada. The densest, most studied clusters are in the temperate rainforests of the Pacific Northwest (northern California, Oregon, Washington, British Columbia). Secondary clusters occur in the Ohio River Valley, Appalachia, the Florida Everglades, and the Boreal forests of central Canada.",
   "first_reported": "Pre-contact",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "The English word 'Bigfoot' was popularized by Andrew Genzoli's 1958 column in the Humboldt Times (Eureka, California) reporting on large tracks discovered by tractor operator Jerry Crew at Bluff Creek. The Halkomelem (Salish) word sasq'ets, anglicized as 'Sasquatch', was popularized by the Canadian schoolteacher J. W. Burns in the 1920s.",
+    "meaning": "Sasquatch derives from sasq'ets, glossed as 'wild man' or 'hairy man'. 'Bigfoot' refers to the very large footprints (commonly 14–18 inches; outliers up to 24 inches) reported with sightings.",
+    "first_use": "1958 (Bigfoot, English); 1929 (Sasquatch, English usage by J. W. Burns)"
+  },
+  "sightings_stats": {
+    "total_documented": 10000,
+    "verified": 0,
+    "disputed": 8500,
+    "debunked": 1200,
+    "date_range": {
+      "earliest": "1811",
+      "latest": "2026"
+    }
+  },
+  "timeline": [
+    {
+      "date": "Pre-contact",
+      "event": "Coast Salish, Sts'ailes, Lummi, Yakama, and other nations carry oral traditions of forest-dwelling hairy hominids",
+      "significance": "Cultural baseline predating colonial contact",
+      "source": "Indigenous oral traditions"
+    },
+    {
+      "date": "1811",
+      "event": "Surveyor David Thompson records 14-inch footprints near Jasper, Alberta",
+      "significance": "Earliest known European-language documentation",
+      "source": "Thompson, D. journals (publ. 1916)"
+    },
+    {
+      "date": "1924-07",
+      "event": "Fred Beck and four miners report being attacked by 'ape-men' at what is now Ape Canyon, Mount St. Helens",
+      "significance": "First widely-publicized modern incident; covered in Portland Oregonian",
+      "source": "Beck, F. (1967), I Fought the Apemen of Mt. St. Helens"
+    },
+    {
+      "date": "1929",
+      "event": "Canadian schoolteacher J. W. Burns publishes 'Introducing B.C.'s Hairy Giants' in Maclean's, popularizing 'Sasquatch' from Sts'ailes word sasq'ets",
+      "significance": "Anchors the English-language term",
+      "source": "Maclean's magazine"
+    },
+    {
+      "date": "1958-08-27",
+      "event": "Tractor operator Jerry Crew makes plaster casts of large footprints in the Bluff Creek road project, Northern California",
+      "significance": "Triggers Andrew Genzoli's coining of 'Bigfoot' in Humboldt Times",
+      "source": "Humboldt Times (Eureka, CA)"
+    },
+    {
+      "date": "1967-10-20",
+      "event": "Roger Patterson and Bob Gimlin film a bipedal subject ('Patty') at Bluff Creek",
+      "significance": "The single most-analyzed piece of cryptid evidence in history",
+      "source": "Original 16 mm film footage"
+    },
+    {
+      "date": "1995",
+      "event": "Jeff Meldrum begins publishing on Bigfoot footprint biomechanics from Idaho State University",
+      "significance": "Reintroduction of academic primate-anatomy analysis",
+      "source": "Cryptozoology and peer journals"
+    },
+    {
+      "date": "2000-09-22",
+      "event": "BFRO expedition recovers the 'Skookum cast' from a muddy elk wallow",
+      "significance": "Body-impression rather than footprint cast; central to subsequent debates",
+      "source": "BFRO field report"
+    },
+    {
+      "date": "2002-11",
+      "event": "Family of Ray Wallace claims Wallace faked the 1958 Bluff Creek tracks",
+      "significance": "Skeptics' touchstone; researchers note inconsistencies between Wallace's wooden feet and the casts",
+      "source": "Seattle Times obituary coverage"
+    },
+    {
+      "date": "2014",
+      "event": "Sykes et al. publish a survey genetics study in Proceedings of the Royal Society B examining alleged Bigfoot/Yeti hair samples; all identified as known mammals",
+      "significance": "First peer-reviewed genetic survey",
+      "source": "Proc. R. Soc. B 281:20140161"
+    }
+  ],
+  "related": [
+    {
+      "id": "yeti",
+      "name": "Yeti",
+      "relationship": "similar",
+      "description": "Himalayan hairy hominid cryptid"
+    },
+    {
+      "id": "yowie",
+      "name": "Yowie",
+      "relationship": "regional_variant",
+      "description": "Australian hairy hominid cryptid"
+    },
+    {
+      "id": "almas",
+      "name": "Almas",
+      "relationship": "similar",
+      "description": "Central Asian hairy hominid cryptid"
+    },
+    {
+      "id": "orang-pendek",
+      "name": "Orang Pendek",
+      "relationship": "similar",
+      "description": "Short bipedal cryptid of Sumatra"
+    },
+    {
+      "id": "yeren",
+      "name": "Yeren",
+      "relationship": "similar",
+      "description": "Chinese hairy wild man cryptid"
+    },
+    {
+      "id": "skunk-ape",
+      "name": "Skunk Ape",
+      "relationship": "regional_variant",
+      "description": "Southeastern US variant centered in Florida"
+    },
+    {
+      "id": "grafton-monster",
+      "name": "Grafton Monster",
+      "relationship": "related",
+      "description": "Regional West Virginia hominid sighting cluster"
+    },
+    {
+      "id": "beast-of-bray-road",
+      "name": "Beast of Bray Road",
+      "relationship": "related",
+      "description": "Wisconsin bipedal cryptid sometimes grouped with dogman/sasquatch reports"
+    }
+  ],
+  "cultural_notes": "Many Pacific Northwest nations consider these beings as real, sentient, and deserving of respect; some traditions warn against hunting or intentionally seeking them.",
+  "sources": [
+    {
+      "id": "meldrum-2006",
+      "type": "book",
+      "title": "Sasquatch: Legend Meets Science",
+      "authors": [
+        "Jeff Meldrum"
+      ],
+      "publication": "Forge Books",
+      "date": "2006",
+      "isbn": "978-0765312174"
+    },
+    {
+      "id": "buhs-2009",
+      "type": "book",
+      "title": "Bigfoot: The Life and Times of a Legend",
+      "authors": [
+        "Joshua Blu Buhs"
+      ],
+      "publication": "University of Chicago Press",
+      "date": "2009",
+      "isbn": "978-0226079790"
+    },
+    {
+      "id": "krantz-1992",
+      "type": "book",
+      "title": "Big Footprints: A Scientific Inquiry into the Reality of Sasquatch",
+      "authors": [
+        "Grover Krantz"
+      ],
+      "publication": "Johnson Books",
+      "date": "1992",
+      "isbn": "978-1555661472"
+    },
+    {
+      "id": "bindernagel-1998",
+      "type": "book",
+      "title": "North America's Great Ape: The Sasquatch",
+      "authors": [
+        "John Bindernagel"
+      ],
+      "publication": "Beachcomber Books",
+      "date": "1998",
+      "isbn": "978-0968288405"
+    },
+    {
+      "id": "pyle-1995",
+      "type": "book",
+      "title": "Where Bigfoot Walks: Crossing the Dark Divide",
+      "authors": [
+        "Robert Michael Pyle"
+      ],
+      "publication": "Houghton Mifflin",
+      "date": "1995",
+      "isbn": "978-0395657607"
+    },
+    {
+      "id": "green-1978",
+      "type": "book",
+      "title": "Sasquatch: The Apes Among Us",
+      "authors": [
+        "John Green"
+      ],
+      "publication": "Hancock House",
+      "date": "1978",
+      "isbn": "978-0888390233"
+    },
+    {
+      "id": "coleman-2003",
+      "type": "book",
+      "title": "Bigfoot! The True Story of Apes in America",
+      "authors": [
+        "Loren Coleman"
+      ],
+      "publication": "Paraview Pocket Books",
+      "date": "2003",
+      "isbn": "978-0743469753"
+    },
+    {
+      "id": "napier-1973",
+      "type": "book",
+      "title": "Bigfoot: The Yeti and Sasquatch in Myth and Reality",
+      "authors": [
+        "John Napier"
+      ],
+      "publication": "E. P. Dutton",
+      "date": "1973",
+      "isbn": "978-0525066583"
+    },
+    {
+      "id": "beck-1967",
+      "type": "book",
+      "title": "I Fought the Apemen of Mt. St. Helens",
+      "authors": [
+        "Fred Beck"
+      ],
+      "publication": "Self-published",
+      "date": "1967"
+    },
+    {
+      "id": "sykes-2014",
+      "type": "paper",
+      "title": "Genetic analysis of hair samples attributed to yeti, bigfoot and other anomalous primates",
+      "authors": [
+        "Bryan C. Sykes",
+        "Rhettman A. Mullis",
+        "Christophe Hagenmuller",
+        "Terry W. Melton",
+        "Michel Sartori"
+      ],
+      "publication": "Proceedings of the Royal Society B",
+      "date": "2014",
+      "doi": "10.1098/rspb.2014.0161"
+    },
+    {
+      "id": "lozier-2009",
+      "type": "paper",
+      "title": "Predicting the distribution of Sasquatch in western North America: anything goes with ecological niche modelling",
+      "authors": [
+        "Jason D. Lozier",
+        "Pierre Aniello",
+        "Michael J. Hickerson"
+      ],
+      "publication": "Journal of Biogeography",
+      "date": "2009",
+      "doi": "10.1111/j.1365-2699.2009.02152.x"
+    },
+    {
+      "id": "bfro-database",
+      "type": "website",
+      "title": "BFRO Geographic Database",
+      "url": "https://www.bfro.net/gdb/",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "humboldt-times-1958",
+      "type": "news",
+      "title": "Bigfoot tracks at Bluff Creek",
+      "authors": [
+        "Andrew Genzoli"
+      ],
+      "publication": "Humboldt Times (Eureka, CA)",
+      "date": "1958-10"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Bluff Creek",
+      "lat": 41.4494,
+      "lng": -123.8172
+    },
+    {
+      "name": "Ape Canyon",
+      "lat": 46.1879,
+      "lng": -122.19
+    },
+    {
+      "name": "Harrison Lake / Sts'ailes Territory",
+      "lat": 49.55,
+      "lng": -121.78
+    },
+    {
+      "name": "Skookum Meadow",
+      "lat": 46.17,
+      "lng": -121.78
+    }
+  ]
 }

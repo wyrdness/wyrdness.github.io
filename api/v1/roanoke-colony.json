@@ -3,6 +3,7 @@
   "name": "Roanoke Colony",
   "category": "location",
   "description": "The Roanoke Colony, known as 'The Lost Colony,' was an English settlement of approximately 115–121 colonists established on Roanoke Island (present-day North Carolina) in 1587. When Governor John White returned in August 1590, the settlement was found completely abandoned, with only the word 'CROATOAN' carved into a post.",
+  "full_description": "The Roanoke Colony was the second English attempt to establish a permanent settlement in North America, established in 1587 on Roanoke Island in what is now Dare County, North Carolina. Governor John White led approximately 112–121 colonists, including women and children. His granddaughter Virginia Dare — born August 18, 1587 — was the first English child born in the Americas. White returned to England weeks after the colony's establishment to secure additional supplies, but was delayed for three years by the Anglo-Spanish War and the Spanish Armada crisis. When White finally returned in August 1590, he found the settlement fortified but completely abandoned, with no signs of struggle. The word 'CROATOAN' was carved into a post, and 'CRO' was inscribed into a nearby tree — consistent with a pre-arranged signal indicating the colonists had relocated to Croatoan Island (present-day Hatteras Island). White was unable to investigate further due to deteriorating weather and his ships' condition. The fate of the colonists has never been definitively established. Leading theories include voluntary relocation to Croatoan Island and assimilation with the Croatoan people, movement to Chesapeake Bay (the colony's original intended destination), and massacre — possibly by Powhatan Confederacy forces (William Strachey, 1612, claimed Wahunsenacawh's priests advised him to attack the colonists). Archaeologist Mark Horton has found European artifacts including part of a sword and gun at a Native American site on Hatteras Island. Tree ring analysis confirmed a severe drought from 1587–1589, corroborating documented food shortage difficulties.",
   "aliases": [
     {
       "name": "The Lost Colony",
@@ -31,5 +32,183 @@
   "origin": "Roanoke Island, present-day Dare County, North Carolina, United States. Archaeological investigation has extended to Hatteras Island (Croatoan Island) and a site 50 miles inland ('Site X' in Bertie County).",
   "first_reported": "1587-07-22",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Roanoke Island is named after the Roanoke people; the name is of Algonquian origin. 'CROATOAN' carved at the site referred to Croatoan Island (now Hatteras Island) and the Croatoan people.",
+    "meaning": "Roanoke: Algonquian origin; Croatoan: the name of the island (now Hatteras Island) and its Indigenous people, the Croatoan, who were allied with the English colonists",
+    "first_use": "1584 (English colonial use of 'Roanoke'); 1587–1590 (colony period)"
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "1584-04-27",
+      "event": "The Amadas-Barlowe expedition departs England; explores coastal North Carolina and returns with Manteo and Wanchese (Roanoke and Croatoan men)",
+      "significance": "First English reconnaissance of the region that would host the colony",
+      "source": "Hakluyt, R. (1600), Principall Navigations"
+    },
+    {
+      "date": "1585-04-09",
+      "event": "Ralph Lane's first colony fleet departs Plymouth; approximately 108 colonists arrive at Roanoke Island",
+      "significance": "First Roanoke colony; abandoned 1586 after food shortages and conflict with Pemisapan (Wingina)",
+      "source": "Hakluyt, R. (1600), Principall Navigations"
+    },
+    {
+      "date": "1586-06-01",
+      "event": "Governor Ralph Lane kills Pemisapan (formerly Wingina); first colony evacuated by Sir Francis Drake's fleet shortly after",
+      "significance": "End of the first colony; leaves English relations with local Algonquian peoples severely damaged",
+      "source": "Lane, R., account in Hakluyt (1600)"
+    },
+    {
+      "date": "1587-05-08",
+      "event": "John White's second colony fleet departs England; approximately 112–121 colonists including women and children",
+      "significance": "The 'Lost Colony' proper begins; first English settlement attempt to include families",
+      "source": "White, J., journal in Hakluyt (1600)"
+    },
+    {
+      "date": "1587-07-22",
+      "event": "Fleet anchors off Croatoan Island; colonists arrive at Roanoke Island",
+      "significance": "Arrival of the second colony",
+      "source": "White, J., journal"
+    },
+    {
+      "date": "1587-08-18",
+      "event": "Virginia Dare born to Ananias and Eleanor White Dare — the first English child born in the Americas",
+      "significance": "Virginia Dare becomes an enduring symbol of American colonial history",
+      "source": "White, J., journal"
+    },
+    {
+      "date": "1587-08-27",
+      "event": "Governor John White departs for England to secure additional supplies at the colonists' insistence",
+      "significance": "White's departure marks the last confirmed European contact with the colonists",
+      "source": "White, J., journal"
+    },
+    {
+      "date": "1588-04-22",
+      "event": "White's attempted resupply mission departs; attacked by French pirates; forced to return to England",
+      "significance": "First failed resupply; the Spanish Armada crisis then delays White for three years",
+      "source": "White, J., correspondence"
+    },
+    {
+      "date": "1590-08-17",
+      "event": "John White returns to Roanoke Island; finds settlement 'fortified but abandoned' with CROATOAN carved into a post and CRO carved into a tree; no colonists found",
+      "significance": "The discovery that gives rise to 'The Lost Colony' mystery; the primary documented evidence of the disappearance",
+      "source": "White, J., letter to Richard Hakluyt (1593)"
+    },
+    {
+      "date": "1590-10-24",
+      "event": "White's ship returns to England; White never returns to America",
+      "significance": "End of English attempts to locate the colony in this period",
+      "source": "White, J., correspondence"
+    },
+    {
+      "date": "1612-01-01",
+      "event": "William Strachey's account claims Wahunsenacawh's priests advised him to massacre the colonists; 'seven English — four men, two boys, and one woman — survived and fled up the Chowan River'",
+      "significance": "Important secondary source for the massacre theory; written 22 years after the discovery",
+      "source": "Strachey, W. (1612), The Historie of Travell into Virginia Britania"
+    },
+    {
+      "date": "1998-01-01",
+      "event": "Tree ring analysis confirms severe drought in the Tidewater region from 1587–1589, consistent with documented food shortage difficulties during the colony period",
+      "significance": "Scientific corroboration of a key factor in the colony's probable hardship",
+      "source": "Stahle, D. W. et al. (1998)"
+    },
+    {
+      "date": "2011-01-01",
+      "event": "Researchers discover a hidden fort symbol on John White's map covered by a paper patch; excavations at 'Site X' in Bertie County yield Tudor-period pottery and weapons fragments",
+      "significance": "First significant archaeological evidence for possible inland colony presence",
+      "source": "First Colony Foundation / British Museum (2011)"
+    },
+    {
+      "date": "2025-01-01",
+      "event": "Hammerscale deposits (iron-forging byproducts) on Hatteras Island are preliminarily dated to the late 16th century, suggesting European metalworking presence at a Croatoan site",
+      "significance": "Most recent archaeological evidence supporting the Croatoan integration theory",
+      "source": "Archaeological fieldwork on Hatteras Island (2025)"
+    }
+  ],
+  "related": [
+    {
+      "id": "oak-island",
+      "name": "Oak Island Mystery",
+      "relationship": "similar",
+      "description": "Another unresolved North American colonial-era mystery involving possible buried artifacts"
+    }
+  ],
+  "cultural_notes": "The Lost Colony has generated extensive American popular mythology, with Virginia Dare as a recurring figure in regional legend. The CROATOAN carving has entered American culture as a symbol of mysterious disappearance.",
+  "sources": [
+    {
+      "id": "hakluyt-1600",
+      "type": "archive",
+      "title": "Principall Navigations, Voiages, Traffiques and Discoueries of the English Nation",
+      "authors": [
+        "Richard Hakluyt"
+      ],
+      "publication": "George Bishop",
+      "date": "1600",
+      "notes": "Contains John White's journals and letters; primary source for the Roanoke Colony"
+    },
+    {
+      "id": "strachey-1612",
+      "type": "archive",
+      "title": "The Historie of Travell into Virginia Britania",
+      "authors": [
+        "William Strachey"
+      ],
+      "date": "1612",
+      "notes": "Contains account claiming Powhatan admitted to killing the Roanoke colonists; written 22 years after the discovery"
+    },
+    {
+      "id": "quinn-1955",
+      "type": "book",
+      "title": "The Roanoke Voyages, 1584–1590",
+      "authors": [
+        "David Beers Quinn"
+      ],
+      "publication": "Hakluyt Society",
+      "date": "1955"
+    },
+    {
+      "id": "quinn-1985",
+      "type": "book",
+      "title": "Set Fair for Roanoke: Voyages and Colonies 1584–1606",
+      "authors": [
+        "David Beers Quinn"
+      ],
+      "publication": "University of North Carolina Press",
+      "date": "1985"
+    },
+    {
+      "id": "stahle-1998",
+      "type": "paper",
+      "title": "The Lost Colony and Jamestown Droughts",
+      "authors": [
+        "David W. Stahle"
+      ],
+      "publication": "Science",
+      "date": "1998"
+    },
+    {
+      "id": "wikipedia-roanoke",
+      "type": "website",
+      "title": "Roanoke Colony",
+      "url": "https://en.wikipedia.org/wiki/Roanoke_Colony",
+      "accessed": "2026-05-08"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Roanoke Island",
+      "lat": 35.9096,
+      "lng": -75.669
+    },
+    {
+      "name": "Hatteras Island (Croatoan Island)",
+      "lat": 35.2269,
+      "lng": -75.6152
+    }
+  ]
 }

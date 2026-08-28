@@ -3,6 +3,7 @@
   "name": "Người Rừng",
   "category": "cryptid",
   "description": "A proposed Indochinese hominid cryptid reported from the dense forests of Vietnam and Laos, broadly analogous to the North American Bigfoot. Reports cluster in the Vu Quang region of Vietnam and on the Vietnam-Laos border; no specimen has been collected.",
+  "full_description": "Người Rừng (Vietnamese for 'forest man') is a proposed hominid cryptid reported from the rugged forests of Vietnam and Laos, with related accounts extending into northern Borneo. The same or related figure is also called Batutut and Ujit in cryptozoological literature, and was nicknamed 'rock ape' by U.S. servicemen during the Vietnam War. Witnesses describe an upright, hair-covered being roughly six feet tall, completely covered with grey, brown, or black hair except on the knees, the soles of the feet, the hands, and the face. Reports describe both solitary individuals and small groups. Long before American military involvement, Vietnamese, Lao, and Montagnard highland communities maintained a substantial oral tradition of forest people seen at the edges of clearings and remote settlements. Modern scientific engagement begins with British primatologist John MacKinnon, who reported observing unusual bipedal tracks in 1970 during fieldwork that he later described in his 1975 book In Search of the Red Ape; MacKinnon at the time speculated about a hominid related to Meganthropus. Professor Trần Hồng Việt of the Pedagogic University of Hanoi announced in 1982 that he had found and cast similar footprints, measuring 28 × 16 cm, comparable to MacKinnon's 1970 observations. No specimen has been recovered, and no peer-reviewed evidence has demonstrated that the Người Rừng exists; mainstream zoologists treat reports as folkloric and as plausibly explained by misidentification of known primates (gibbons, langurs, and other apes) and bears.",
   "aliases": [
     {
       "name": "Người Rừng",
@@ -47,5 +48,86 @@
   "origin": "Reports cluster in the forested mountains of central Vietnam (notably the Vu Quang region) and along the Vietnam-Laos border, with related Batutut/Ujit accounts extending into Laos and reportedly into northern Borneo.",
   "first_reported": "Pre-modern",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Vietnamese người ('person, man') + rừng ('forest, jungle').",
+    "meaning": "Literally 'forest man' or 'forest person'.",
+    "first_use": "Long-standing Vietnamese folkloric usage; entered English-language cryptozoological literature in the 1970s–1980s."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0,
+    "date_range": {
+      "earliest": "1970",
+      "latest": "1990s"
+    }
+  },
+  "timeline": [
+    {
+      "date": "1970",
+      "event": "British primatologist John MacKinnon reports observing unusual bipedal footprints during fieldwork in Vietnam, leading him to speculate about a hominid related to Meganthropus",
+      "significance": "Earliest modern scientific report of Người Rừng tracks",
+      "source": "MacKinnon, J. (1975), In Search of the Red Ape"
+    },
+    {
+      "date": "1975",
+      "event": "MacKinnon publishes In Search of the Red Ape, describing his 1970 track observations",
+      "significance": "First scientific monograph mention of the Indochinese tracks",
+      "source": "MacKinnon, J. (1975)"
+    },
+    {
+      "date": "1982",
+      "event": "Professor Trần Hồng Việt of the Pedagogic University of Hanoi announces the discovery and casting of bipedal footprints (28 × 16 cm) similar to those reported by MacKinnon in 1970",
+      "significance": "Most prominent Vietnamese scientific engagement with the cryptid",
+      "source": "Trần Hồng Việt, announcement reported in cryptozoological literature; Wikipedia: Người Rừng"
+    }
+  ],
+  "related": [
+    {
+      "id": "bigfoot",
+      "name": "Bigfoot",
+      "relationship": "similar",
+      "description": "North American hairy hominid cryptid"
+    },
+    {
+      "id": "yeti",
+      "name": "Yeti",
+      "relationship": "similar",
+      "description": "Himalayan hairy hominid cryptid"
+    },
+    {
+      "id": "yeren",
+      "name": "Yeren",
+      "relationship": "similar",
+      "description": "Chinese 'wild man' cryptid"
+    },
+    {
+      "id": "orang-pendek",
+      "name": "Orang Pendek",
+      "relationship": "similar",
+      "description": "Sumatran short bipedal cryptid"
+    },
+    {
+      "id": "almas",
+      "name": "Almas",
+      "relationship": "similar",
+      "description": "Central Asian hairy hominid cryptid"
+    }
+  ],
+  "cultural_notes": "Highland communities historically regarded the forest people as real beings inhabiting remote areas of the Annamite range.",
+  "sources": [
+    {
+      "id": "mackinnon-1975",
+      "type": "book",
+      "title": "In Search of the Red Ape",
+      "authors": [
+        "John MacKinnon"
+      ],
+      "publication": "Holt, Rinehart and Winston",
+      "date": "1975"
+    }
+  ],
+  "locations": []
 }

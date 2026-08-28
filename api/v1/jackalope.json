@@ -3,6 +3,7 @@
   "name": "Jackalope",
   "category": "cryptid",
   "description": "The jackalope is a mythical North American hare with antelope or deer antlers, originating as a 1930s taxidermy creation by the Herrick brothers in Douglas, Wyoming. It is the most famous American example of an old global folkloric tradition of horned hares.",
+  "full_description": "The jackalope is a mythical creature of American folklore, depicted as a jackrabbit with the antlers of a pronghorn antelope or deer. The modern phenomenon traces to Douglas, Wyoming in the early 1930s, where brothers Douglas Herrick (1920–2003) and Ralph Herrick are credited with mounting a jackrabbit head to a set of deer antlers and selling the first specimen to Roy Ball of the La Bonte Hotel for ten dollars in 1932. The fabrication tapped a much older tradition: medieval and early-modern European naturalists illustrated the 'lepus cornutus' or horned hare in bestiaries and natural-history compendia, the Bavarian wolpertinger remains a related taxidermy tradition, and the Persian / Arabic al-mi'raj is a horned hare of medieval Islamic mythography. The Wyoming variant rapidly became roadside-attraction kitsch and a regional tall-tale staple, complete with claims of human-voice mimicry, lightning-fast running, attack behavior, and 'jackalope milk' with medicinal properties. A widely-cited biological cause for at least some original sightings is infection by the Shope papillomavirus (named for Richard E. Shope), which causes large keratinous, horn-shaped tumors to grow on the heads of cottontails and jackrabbits. Douglas, Wyoming has self-styled the 'Jackalope Capital of the World' since 1965, with a city statue, a 'jackalope hunting license' sold by the chamber of commerce, and repeated state-legislature attempts (2005, 2013, 2015) to designate the jackalope Wyoming's official mythological creature.",
   "aliases": [
     {
       "name": "Antelabbit",
@@ -50,5 +51,113 @@
   "origin": "Folklore range covers the American West, especially Wyoming, with secondary tall-tale presence across Nebraska, South Dakota, Montana, and Colorado. The wider 'horned hare' tradition is global, with European (wolpertinger, lepus cornutus) and Middle Eastern (al-mi'raj) analogues.",
   "first_reported": "1932",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Portmanteau of 'jackrabbit' and 'antelope'; coined in the United States, popularized by the Herrick brothers' Douglas, Wyoming taxidermy work in the 1930s",
+    "meaning": "Jackrabbit + (pronghorn) antelope",
+    "first_use": "1930s (Douglas, Wyoming, USA)"
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0,
+    "date_range": {
+      "earliest": "1932",
+      "latest": "2026"
+    }
+  },
+  "timeline": [
+    {
+      "date": "1932",
+      "event": "Douglas and Ralph Herrick of Douglas, Wyoming sell their first taxidermy jackalope to Roy Ball at the La Bonte Hotel for $10",
+      "significance": "Creation of the modern American jackalope",
+      "source": "Herrick family oral history; Smithsonian Magazine"
+    },
+    {
+      "date": "1933",
+      "event": "Richard E. Shope, M.D., describes the cottontail rabbit papillomavirus that causes horn-like tumors on rabbits",
+      "significance": "Provides a plausible biological substrate for older horned-hare folklore",
+      "source": "Shope, R. E. (1933), Journal of Experimental Medicine"
+    },
+    {
+      "date": "1965",
+      "event": "Douglas, Wyoming officially declares itself the 'Jackalope Capital of the World'",
+      "significance": "Civic codification of the legend",
+      "source": "Wyoming state historical records"
+    },
+    {
+      "date": "2003-01",
+      "event": "Death of Douglas Herrick, co-creator of the jackalope, age 82",
+      "significance": "Obituary coverage in The New York Times and elsewhere reaffirmed the Herrick origin story",
+      "source": "The New York Times, January 2003"
+    },
+    {
+      "date": "2005",
+      "event": "First Wyoming state legislative attempt to designate the jackalope the official mythological creature of Wyoming",
+      "significance": "First of several legislative efforts (also 2013, 2015)",
+      "source": "Wyoming Legislature records"
+    }
+  ],
+  "related": [
+    {
+      "id": "wolpertinger",
+      "name": "Wolpertinger",
+      "relationship": "counterpart",
+      "description": "Bavarian chimeric taxidermy creature with hare body, antlers, fangs, and wings"
+    },
+    {
+      "id": "al-miraj",
+      "name": "Al-mi'raj",
+      "relationship": "similar",
+      "description": "Single-horned hare from medieval Arabic / Persian mythography"
+    },
+    {
+      "id": "lepus-cornutus",
+      "name": "Lepus cornutus",
+      "relationship": "related",
+      "description": "Pre-modern European 'horned hare' described in early natural-history texts"
+    },
+    {
+      "id": "skvader",
+      "name": "Skvader",
+      "relationship": "similar",
+      "description": "Swedish taxidermy chimera (hare with grouse wings) created 1918"
+    }
+  ],
+  "cultural_notes": "Universally acknowledged as folklore / hoax in modern usage; embraced as regional identity rather than as a literal cryptid.",
+  "sources": [
+    {
+      "id": "wikipedia-jackalope",
+      "type": "website",
+      "title": "Jackalope",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Jackalope",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "shope-1933",
+      "type": "paper",
+      "title": "Infectious papillomatosis of rabbits",
+      "authors": [
+        "Richard E. Shope"
+      ],
+      "publication": "Journal of Experimental Medicine",
+      "date": "1933"
+    },
+    {
+      "id": "nyt-herrick-2003",
+      "type": "news",
+      "title": "Douglas Herrick, 82, Dies; Father of Jackalope",
+      "publication": "The New York Times",
+      "date": "2003-01"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Douglas, Wyoming",
+      "lat": 42.7595,
+      "lng": -105.3828
+    }
+  ]
 }

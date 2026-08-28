@@ -3,6 +3,7 @@
   "name": "Moehau Man",
   "category": "cryptid",
   "description": "A large, hairy bipedal cryptid said to inhabit the rugged Moehau Range and other forested ranges of New Zealand, often linked by Maori tradition to the maeroero, a wild bush-dwelling people.",
+  "full_description": "The Moehau Man is a New Zealand cryptid associated with the Moehau Range at the northern tip of the Coromandel Peninsula on the North Island, and named after that range. Witnesses describe a tall, hairy, bipedal creature, and Maori tradition describes the maeroero (or maero) — a class of wild, hairy bush people of similar proportions and temperament. Some Maori commentators have suggested that modern Moehau reports describe a being descended from the maeroero. Mainstream New Zealand commentators have offered prosaic explanations: George Dean, then director of the Auckland Zoo, dismissed an 'escaped baboon' theory in 1969 on the grounds that such an animal could not survive in the New Zealand bush, while in 1970 Coromandel County Councillor Jim Reedy told researcher Robyn Gosset the 'Hairy Moehau' had grown out of an exaggerated joke and Bob Grey told her the term originally referred to a Yankee steam hauler used in logging. The phenomenon nonetheless persists in popular and Maori cultural memory.",
   "aliases": [
     {
       "name": "Moehau",
@@ -48,5 +49,100 @@
   "origin": "Primarily the Moehau Range and broader Coromandel Peninsula of the North Island, New Zealand. In Maori tradition the maeroero are spoken of in remote bush regions across both the North and South Islands.",
   "first_reported": "Pre-contact",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Named after the Moehau Range on the Coromandel Peninsula. 'Maeroero' (also 'maero') is a Maori term for wild bush-dwelling beings.",
+    "meaning": "Moehau is the place name; maeroero refers to bush-dwelling wild people in Maori tradition.",
+    "first_use": "The maeroero appear in long-standing Maori tradition; modern English-language 'Moehau Man' usage in 20th-century newspaper accounts."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "Pre-contact",
+      "event": "Maori oral traditions describe the maeroero / maero as wild, hairy people of the bush",
+      "significance": "Cultural baseline of the phenomenon",
+      "source": "Maori oral tradition"
+    },
+    {
+      "date": "1969",
+      "event": "Auckland Zoo director George Dean publicly dismisses the 'escaped baboon' explanation in the New Zealand Herald",
+      "significance": "Skeptical commentary in mainstream press",
+      "source": "The New Zealand Herald (1969)"
+    },
+    {
+      "date": "1970",
+      "event": "Coromandel County Councillor Jim Reedy tells researcher Robyn Gosset the Hairy Moehau grew out of an exaggerated joke; Bob Grey tells her the name originally referred to a Yankee steam hauler used for logging",
+      "significance": "Skeptical / debunking accounts collected by Gosset",
+      "source": "Reported in The Auckland Star and The Press, April 1970"
+    },
+    {
+      "date": "1996",
+      "event": "Robyn Gosset publishes folklore commentary on the Moehau / maeroero tradition",
+      "significance": "Folklorist documentation",
+      "source": "Gosset, R. (1996), New Zealand Mysteries"
+    }
+  ],
+  "related": [
+    {
+      "id": "yowie",
+      "name": "Yowie",
+      "relationship": "similar",
+      "description": "Australian hairy hominid cryptid"
+    },
+    {
+      "id": "bigfoot",
+      "name": "Bigfoot",
+      "relationship": "similar",
+      "description": "North American hairy hominid cryptid"
+    },
+    {
+      "id": "yeti",
+      "name": "Yeti",
+      "relationship": "similar",
+      "description": "Himalayan hairy hominid cryptid"
+    },
+    {
+      "id": "orang-pendek",
+      "name": "Orang Pendek",
+      "relationship": "similar",
+      "description": "Sumatran bipedal cryptid"
+    }
+  ],
+  "cultural_notes": "In Maori tradition the maeroero are aggressive bush-dwelling beings to be avoided; the modern Moehau Man is sometimes interpreted as a continuation of this tradition.",
+  "sources": [
+    {
+      "id": "wikipedia-moehau",
+      "type": "website",
+      "title": "Moehau",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Moehau",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "nz-herald-1969",
+      "type": "news",
+      "title": "Coverage of George Dean's comments on the 'escaped baboon' theory",
+      "publication": "The New Zealand Herald",
+      "date": "1969"
+    },
+    {
+      "id": "auckland-star-press-1970",
+      "type": "news",
+      "title": "Coverage of Robyn Gosset's collected statements from Jim Reedy and Bob Grey",
+      "publication": "The Auckland Star and The Press",
+      "date": "1970-04"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Moehau Range",
+      "lat": -36.5167,
+      "lng": 175.4
+    }
+  ]
 }

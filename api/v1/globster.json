@@ -3,6 +3,7 @@
   "name": "Globster",
   "category": "cryptid",
   "description": "An unidentified, often large, fibrous organic mass washed up on a shoreline. Once a staple of cryptozoological speculation, almost every well-studied globster has been identified by DNA or histology as the decomposed remains of a whale or other large vertebrate.",
+  "full_description": "A globster is an unidentified organic mass — usually large, pale or whitish, fibrous, and lacking obvious anatomy — that washes up on a beach or other shoreline. The term was coined by writer Ivan T. Sanderson in 1962 to describe a Tasmanian carcass discovered in 1960 that had 'no visible eyes, no defined head, and no apparent bone structure'. Globsters were widely cited in 20th-century cryptozoological literature as possible evidence of unknown sea creatures (including alleged 'sea monsters', surviving plesiosaurs, or giant octopuses). Since the late 1980s a series of histological and DNA studies — notably by Sidney K. Pierce and colleagues at the University of South Florida — has shown that almost every well-analyzed globster is the decomposed remains of a whale (or, in a few cases, a basking shark or other large vertebrate). The fibrous appearance is produced by the persistence of dense collagen fibres from blubber and connective tissue after softer tissues have decomposed. Notable cases include the St. Augustine Monster (Florida, 1896 — eventually identified as whale collagen), the Tasmanian Globster (1960), the Stronsay Beast (Orkney, 1808 — identified as a basking shark), the Bermuda Blobs (1988, 1997), the Newfoundland Blob (2001), and the Chilean Blob (2003). The category remains useful as a catch-all for shoreline carcasses pending identification.",
   "aliases": [
     {
       "name": "Blob",
@@ -34,5 +35,170 @@
   "origin": "Globsters have been reported on coastlines globally — Atlantic, Pacific, Indian Oceans, and adjacent seas. The phenomenon is not regional in any meaningful sense; it tracks the geography of large cetacean populations and shipping/observer density.",
   "first_reported": "1808-09-01",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Coined by Ivan T. Sanderson in 1962 as a portmanteau / nonce term — apparently a blend of 'globular' (or 'glob') and 'monster'.",
+    "meaning": "Unidentified blob-like mass washed ashore",
+    "first_use": "1962 (Sanderson)"
+  },
+  "sightings_stats": {
+    "total_documented": 30,
+    "verified": 0,
+    "disputed": 5,
+    "debunked": 25,
+    "date_range": {
+      "earliest": "1808-09-25",
+      "latest": "2026-05-07"
+    }
+  },
+  "timeline": [
+    {
+      "date": "1808-09-25",
+      "event": "Stronsay Beast washes up on Stronsay, Orkney; initially described as a sea serpent, later identified as a basking shark",
+      "significance": "Earliest classic globster",
+      "source": "Edinburgh Royal Society reports (1808–1812); Wikipedia, Stronsay Beast"
+    },
+    {
+      "date": "1896-11-30",
+      "event": "St. Augustine Monster carcass discovered on Anastasia Island, Florida",
+      "significance": "Long-running cryptozoological cause célèbre, attributed by Addison Verrill (1897) to a giant octopus, finally identified as whale collagen by Pierce et al. (1995)",
+      "source": "Pierce, S. K. et al. (1995), Biological Bulletin"
+    },
+    {
+      "date": "1924-11-01",
+      "event": "Trunko reported at Margate, South Africa, allegedly fighting two whales",
+      "significance": "Often-cited 'tentacled' globster; later analysis suggests decomposed whale",
+      "source": "Daily Mail (London), 27 December 1924; Wikipedia, Trunko"
+    },
+    {
+      "date": "1960-08-01",
+      "event": "Tasmanian Globster found on Western Tasmanian beach; described by Ivan T. Sanderson and named in 1962",
+      "significance": "Coining of 'globster'",
+      "source": "Sanderson, I. T. (1962); CSIRO investigation"
+    },
+    {
+      "date": "1962-01-01",
+      "event": "Ivan T. Sanderson coins the term 'globster' to describe the 1960 Tasmanian carcass",
+      "significance": "Establishes the category in popular cryptozoology",
+      "source": "Sanderson, I. T. (1962)"
+    },
+    {
+      "date": "1988-05-01",
+      "event": "First Bermuda Blob found",
+      "significance": "Investigated and identified as decomposed whale by Pierce et al.",
+      "source": "Pierce, S. K. et al. (1995/2004)"
+    },
+    {
+      "date": "1995-01-01",
+      "event": "Sidney K. Pierce et al. publish histological/biochemical analysis of the St. Augustine Monster identifying it as whale collagen",
+      "significance": "Landmark study debunking giant-octopus hypothesis",
+      "source": "Pierce, S. K. et al. (1995), Biological Bulletin 188:219"
+    },
+    {
+      "date": "2003-07-01",
+      "event": "Chilean Blob found at Los Muermos, Chile",
+      "significance": "Major early-21st-century globster; identified by DNA analysis as sperm whale tissue",
+      "source": "Pinto-Rodríguez et al. (2003); Wikipedia, Chilean Blob"
+    },
+    {
+      "date": "2004-07-01",
+      "event": "Pierce et al. publish a sweeping histology/molecular survey of multiple globsters in The Biological Bulletin, all identified as whale",
+      "significance": "Generalizes the whale-collagen explanation across cases",
+      "source": "Pierce, S. K. et al. (2004), Biological Bulletin 206:125"
+    }
+  ],
+  "related": [
+    {
+      "id": "kraken",
+      "name": "Kraken",
+      "relationship": "related",
+      "description": "Older sea-monster tradition sometimes invoked to explain globsters"
+    },
+    {
+      "id": "lusca",
+      "name": "Lusca",
+      "relationship": "related",
+      "description": "Caribbean sea-monster tradition sometimes linked to globsters"
+    },
+    {
+      "id": "loch-ness-monster",
+      "name": "Loch Ness Monster",
+      "relationship": "related",
+      "description": "Famous lake/sea cryptid; contrast case for marine cryptid investigation"
+    },
+    {
+      "id": "trunko",
+      "name": "Trunko",
+      "relationship": "subset",
+      "description": "Famous 1924 Margate (South Africa) globster reportedly fighting whales"
+    },
+    {
+      "id": "montauk-monster",
+      "name": "Montauk Monster (2008)",
+      "relationship": "similar",
+      "description": "Decomposed shoreline carcass widely covered in 2008; identified as a raccoon"
+    }
+  ],
+  "cultural_notes": "Local communities encountering large unidentified shoreline carcasses have historically reached for sea-monster framings; as DNA analysis has become routine, these have largely been replaced by identification as whales or basking sharks.",
+  "sources": [
+    {
+      "id": "wikipedia-globster",
+      "type": "website",
+      "title": "Globster",
+      "url": "https://en.wikipedia.org/wiki/Globster",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "pierce-1995",
+      "type": "paper",
+      "title": "Microscopic, Biochemical, and Molecular Characteristics of the Chilean Blob and a Comparison with the Remains of Other Sea Monsters: Nothing but Whales",
+      "authors": [
+        "Sidney K. Pierce",
+        "Steven E. Massey",
+        "Nicholas E. Curtis",
+        "Gerald N. Smith",
+        "Carlos Olavarria",
+        "Timothy K. Maugel"
+      ],
+      "publication": "Biological Bulletin",
+      "date": "2004",
+      "doi": "10.2307/1543634"
+    },
+    {
+      "id": "pierce-1995-st-augustine",
+      "type": "paper",
+      "title": "On the Giant Octopus (Octopus giganteus) and the Bermuda Blob: Homage to A. E. Verrill",
+      "authors": [
+        "Sidney K. Pierce",
+        "Gerald N. Smith",
+        "Timothy K. Maugel",
+        "Eugenie Clark"
+      ],
+      "publication": "Biological Bulletin",
+      "date": "1995"
+    },
+    {
+      "id": "loxton-prothero-2013",
+      "type": "book",
+      "title": "Abominable Science! Origins of the Yeti, Nessie, and Other Famous Cryptids",
+      "authors": [
+        "Daniel Loxton",
+        "Donald R. Prothero"
+      ],
+      "publication": "Columbia University Press",
+      "date": "2013",
+      "isbn": "978-0231153201"
+    },
+    {
+      "id": "sanderson-1962",
+      "type": "article",
+      "title": "Things (column / book)",
+      "authors": [
+        "Ivan T. Sanderson"
+      ],
+      "publication": "Pyramid Books / Pursuit journal",
+      "date": "1962"
+    }
+  ],
+  "locations": []
 }

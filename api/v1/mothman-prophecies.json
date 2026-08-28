@@ -3,6 +3,7 @@
   "name": "The Mothman Prophecies",
   "category": "cultural_artifact",
   "description": "The Mothman Prophecies is a 1975 nonfiction book by John Keel investigating the Mothman sightings around Point Pleasant, West Virginia (1966-1967), the December 1967 Silver Bridge collapse, and associated UFO and 'ultraterrestrial' phenomena, later adapted into a 2002 film directed by Mark Pellington.",
+  "full_description": "The Mothman Prophecies is a 1975 nonfiction book by paranormal author John Keel (Saturday Review Press, 269 pages, ISBN 0-8415-0355-9) chronicling Keel's first-person investigation of the wave of Mothman sightings reported around Point Pleasant, West Virginia between November 1966 and December 1967. The book ties those sightings — beginning with the November 15, 1966 encounter by Roger and Linda Scarberry and Steve and Mary Mallette near the 'TNT area', a former World War II munitions site — to UFO reports, Men in Black encounters and the December 15, 1967 collapse of the Silver Bridge across the Ohio River, in which 46 people died. Keel proposed an 'ultraterrestrial' framework in which intelligences from outside ordinary reality manipulate human perception to generate these phenomena. The book is influential in paranormal literature; a 2002 Skeptical Inquirer article by John C. Sherwood raised accuracy concerns by comparing Keel's contemporaneous correspondence with UFO researcher Gray Barker to his later published account, and the 1971 NTSB investigation determined the Silver Bridge collapse resulted from stress corrosion cracking in a single eyebar (no paranormal cause). The book was loosely adapted into a 2002 feature film directed by Mark Pellington and starring Richard Gere and Laura Linney.",
   "aliases": [
     {
       "name": "The Mothman Prophecies (book)",
@@ -31,5 +32,127 @@
   "origin": "Published worldwide as paranormal nonfiction; the 2002 film had global theatrical and home-media distribution.",
   "first_reported": "1975",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Title coined by John Keel for his 1975 book.",
+    "meaning": "'The Mothman Prophecies' — the alleged prophetic dimension of the West Virginia Mothman sightings.",
+    "first_use": "1975, in the book's first edition."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "1966-11-15",
+      "event": "Roger and Linda Scarberry and Steve and Mary Mallette report the first widely publicised Mothman encounter near the 'TNT area', Point Pleasant, West Virginia",
+      "significance": "Inciting incident of the Mothman flap and of Keel's investigation",
+      "source": "Wikipedia: Mothman; Wikipedia: The Mothman Prophecies"
+    },
+    {
+      "date": "1967-12-15",
+      "event": "The Silver Bridge across the Ohio River collapses, killing 46 people",
+      "significance": "Disaster Keel ties to the Mothman flap as a 'prophecy'",
+      "source": "NTSB Silver Bridge investigation (1971)"
+    },
+    {
+      "date": "1971-01-01",
+      "event": "NTSB investigation concludes the Silver Bridge collapse was caused by stress corrosion cracking in a suspension chain eyebar",
+      "significance": "Mainstream engineering verdict on the disaster (non-paranormal)",
+      "source": "NTSB Silver Bridge investigation (1971)"
+    },
+    {
+      "date": "1975-01-01",
+      "event": "John Keel publishes 'The Mothman Prophecies' (Saturday Review Press, ISBN 0-8415-0355-9, 269 pages)",
+      "significance": "Founding text of the Mothman literary tradition",
+      "source": "Wikipedia: The Mothman Prophecies"
+    },
+    {
+      "date": "2002-01-25",
+      "event": "Mark Pellington's film adaptation 'The Mothman Prophecies', starring Richard Gere and Laura Linney, releases theatrically (Lakeshore Entertainment / Screen Gems)",
+      "significance": "Major mainstream-cinema adaptation",
+      "source": "Wikipedia: The Mothman Prophecies (film)"
+    },
+    {
+      "date": "2002-01-01",
+      "event": "John C. Sherwood publishes a Skeptical Inquirer article documenting discrepancies between Keel's contemporaneous correspondence with Gray Barker and his published account",
+      "significance": "Skeptical re-examination of the source record",
+      "source": "Sherwood, J. C. (2002), Skeptical Inquirer"
+    }
+  ],
+  "related": [
+    {
+      "id": "mothman",
+      "name": "Mothman",
+      "relationship": "subset",
+      "description": "The cryptid the book is named for"
+    },
+    {
+      "id": "silver-bridge-collapse",
+      "name": "Silver Bridge collapse",
+      "relationship": "related",
+      "description": "The December 15, 1967 disaster the book associates with the Mothman flap"
+    },
+    {
+      "id": "men-in-black",
+      "name": "Men in Black",
+      "relationship": "related",
+      "description": "Phenomenon that recurs throughout Keel's narrative"
+    },
+    {
+      "id": "ufo-uap",
+      "name": "UFO/UAP phenomena",
+      "relationship": "related",
+      "description": "Wider phenomenon that Keel ties to Mothman through his 'ultraterrestrial' framework"
+    }
+  ],
+  "cultural_notes": "The Mothman Prophecies has shaped how readers in the English-speaking world understand the relationship between cryptid sightings, prophecy and disaster; skeptical readers treat the book as paranormal nonfiction with documented sourcing concerns.",
+  "sources": [
+    {
+      "id": "wikipedia-mothman-prophecies",
+      "type": "website",
+      "title": "The Mothman Prophecies",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Mothman_Prophecies",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "wikipedia-mothman",
+      "type": "website",
+      "title": "Mothman",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Mothman",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "keel-1975",
+      "type": "book",
+      "title": "The Mothman Prophecies",
+      "authors": [
+        "John A. Keel"
+      ],
+      "publication": "Saturday Review Press",
+      "date": "1975",
+      "isbn": "0-8415-0355-9"
+    },
+    {
+      "id": "sherwood-2002",
+      "type": "article",
+      "title": "Gray Barker's Book of Bunk: Mothman, Saucers, and MIB",
+      "authors": [
+        "John C. Sherwood"
+      ],
+      "publication": "Skeptical Inquirer",
+      "date": "2002"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Point Pleasant, West Virginia",
+      "lat": 38.8442,
+      "lng": -82.1377
+    }
+  ]
 }

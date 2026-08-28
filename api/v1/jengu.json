@@ -3,6 +3,7 @@
   "name": "Jengu",
   "category": "entity_spirit",
   "description": "The Jengu (plural Miengu) are beautiful, mermaid-like water spirits from the folklore of the Sawa peoples of Cameroon's coastal and riverine regions, venerated for healing, protection, and mediation between the living and the ancestral world.",
+  "full_description": "The Jengu (singular) or Miengu (plural) are water spirits from the oral traditions of the Sawa-speaking peoples of Cameroon's coast and river regions, particularly the Duala, Bakweri, Malimba (Limba), Subu, Bakoko, and Oroko ethnic groups. Among the Bakweri the singular form is liengu and the plural maengu. Jengu are described as beautiful, mermaid-like beings with long hair and distinctive gap-teeth. They inhabit the oceans, rivers, and lakes of Cameroon — particularly the Wouri River, its tributaries, the Wouri estuary, and nearby islands. Their spiritual functions are broad and benevolent: they act as intermediaries between the living and ancestral spirits; control the fate of humans and animals in waterways; bring good fortune to those who venerate them; cure disease through healing rituals; and provide prophetic messages about coming years. European traders and explorers documented jengu worship as well established along the Cameroonian coast by the early 19th century. The jengu are venerated through dedicated ritual specialists and community ceremonies. The annual Ngondo festival, inaugurated in 1949, is the most prominent public celebration associated with jengu veneration, bringing together Sawa peoples along the Wouri River in Douala. The jengu tradition is related to similar water-spirit beliefs across the region: the bisimbi of Kongo religion and the Mamba Muntu figure present across West and Central African cultures.",
   "aliases": [
     {
       "name": "Miengu",
@@ -51,5 +52,73 @@
   "origin": "Cameroonian coast and river regions, particularly the Wouri River, its tributaries, the Wouri estuary, and nearby islands. Veneration persists in Cameroon's Littoral and Southwest Provinces.",
   "first_reported": "Pre-1800",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Duala language, spoken by the Duala people of the Cameroonian coast. Jengu (singular) / miengu (plural) is the Duala form; Bakweri has liengu / maengu.",
+    "meaning": "The term refers specifically to these aquatic spirits; the precise etymological meaning within Duala is not documented in available sources.",
+    "first_use": "Living oral tradition; European documentation from early 19th century."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "1800-01-01",
+      "event": "European traders and explorers document jengu worship as established practice among Sawa peoples of the Cameroonian coast",
+      "significance": "Earliest external documentation; confirms pre-colonial depth of the tradition",
+      "source": "Wikipedia / Jengu article"
+    },
+    {
+      "date": "1949-01-01",
+      "event": "Annual Ngondo festival inaugurated; brings Sawa peoples together at the Wouri River for public jengu veneration and cultural celebration",
+      "significance": "Institutionalization of jengu worship in public ceremonial calendar",
+      "source": "Wikipedia / Jengu article"
+    }
+  ],
+  "related": [
+    {
+      "id": "mami-wata",
+      "name": "Mami Wata",
+      "relationship": "similar",
+      "description": "Pan-African water spirit with comparable appearance and healing functions; regional cognate"
+    },
+    {
+      "id": "bisimbi",
+      "name": "Bisimbi",
+      "relationship": "similar",
+      "description": "Water spirits in Kongo religion; similar functions and aquatic habitat"
+    },
+    {
+      "id": "mamba-muntu",
+      "name": "Mamba Muntu",
+      "relationship": "similar",
+      "description": "Mermaid-like water spirit present across West and Central African cultures"
+    },
+    {
+      "id": "nixie",
+      "name": "Nixie",
+      "relationship": "similar",
+      "description": "Germanic water spirit with comparable humanoid aquatic form"
+    }
+  ],
+  "cultural_notes": "The miengu are venerated as genuine spiritual beings who inhabit and govern the waterways of the Cameroonian coast. Proper ritual respect is essential for safety in the waters and for access to healing and good fortune. The beliefs are living and actively practiced.",
+  "sources": [
+    {
+      "id": "wikipedia-jengu",
+      "type": "website",
+      "title": "Jengu",
+      "url": "https://en.wikipedia.org/wiki/Jengu",
+      "accessed": "2026-05-08"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Wouri River, Douala",
+      "lat": 4.05,
+      "lng": 9.7
+    }
+  ]
 }

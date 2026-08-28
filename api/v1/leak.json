@@ -3,6 +3,7 @@
   "name": "Leak",
   "category": "undead",
   "description": "The Leak (Balinese: Leyak) is a flying-head witch-spirit of Balinese folklore: a practitioner of black magic whose head detaches at night from her body, trailing entrails, to hunt blood — particularly that of pregnant women and newborns. The Leyak serve the witch-queen Rangda.",
+  "full_description": "The Leak — Balinese Leyak (ᬮᬾᬬᬓ᭄) — is a witch-figure of Balinese folklore who practises black magic and feeds at night in the form of a flying head with entrails (heart, lungs, liver) still attached. By day the Leyak appears as an ordinary person; at night the head and viscera detach from the body and fly through the dark in search of victims. The Leyak hunts pregnant women and newborns, drinking the blood of unborn or newborn children, and is also said to haunt graveyards and feed on corpses. Leyaks possess unusually long tongues and large fangs and can shapeshift into animals such as pigs. They serve the widow-witch Rangda, the queen of the Leyak, who plays a central role in Balinese ritual drama; the cosmic struggle between Rangda and the protective lion-dragon Barong is a defining motif of Balinese performance. Belief in Leyaks remains a strong feature of Balinese village life, particularly in rural areas, and protective practices around childbirth (such as placing onions on a child's forehead) are still observed.",
   "aliases": [
     {
       "name": "Leyak",
@@ -38,5 +39,108 @@
   "origin": "Centred in Bali, Indonesia, with extension to Lombok and Java; the wider Southeast Asian female-vampire complex (Krasue, Penanggalan, Manananggal) shares the detached-head motif.",
   "first_reported": "Pre-modern",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Balinese ᬮᬾᬬᬓ᭄ (Léyak), pronounced [le.ak]; the romanised form 'Leak' is a regional alternative for the same word.",
+    "meaning": "The vernacular Balinese name for the witch-figure with detached flying head; no fixed etymological gloss in standard sources.",
+    "first_use": "Embedded in long-standing Balinese tradition; documented in academic ethnography from the late 19th and 20th centuries onward."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0,
+    "date_range": {
+      "earliest": "pre-modern",
+      "latest": "2026"
+    }
+  },
+  "timeline": [
+    {
+      "date": "Pre-modern",
+      "event": "Leyak / Rangda / Barong tradition established as a central feature of Balinese religion",
+      "significance": "Cultural baseline",
+      "source": "Balinese oral and ritual tradition"
+    },
+    {
+      "date": "1942",
+      "event": "Margaret Mead and Gregory Bateson publish 'Balinese Character: A Photographic Analysis' (New York Academy of Sciences), giving Western academic visibility to Balinese trance, the Rangda–Barong drama and the Leyak",
+      "significance": "Foundational mid-20th-century ethnographic record",
+      "source": "Mead & Bateson (1942)"
+    },
+    {
+      "date": "1999",
+      "event": "Michele Stephen publishes 'Witchcraft, Grief, and the Ambivalence of Emotions' in American Ethnologist 26(3): 711–737, examining Balinese witchcraft (including Leyak belief)",
+      "significance": "Modern academic anthropology of Leyak belief",
+      "source": "American Ethnologist 26(3)"
+    }
+  ],
+  "related": [
+    {
+      "id": "rangda",
+      "name": "Rangda",
+      "relationship": "superset",
+      "description": "Widow-witch queen of the Leyak in Balinese tradition"
+    },
+    {
+      "id": "barong",
+      "name": "Barong",
+      "relationship": "counterpart",
+      "description": "Balinese lion-dragon protector spirit, opponent of Rangda and the Leyak"
+    },
+    {
+      "id": "krasue",
+      "name": "Krasue",
+      "relationship": "regional_variant",
+      "description": "Thai cognate detached-head female spirit"
+    },
+    {
+      "id": "penanggalan",
+      "name": "Penanggalan",
+      "relationship": "regional_variant",
+      "description": "Malay cognate detached-head female vampire"
+    },
+    {
+      "id": "manananggal",
+      "name": "Manananggal",
+      "relationship": "similar",
+      "description": "Philippine winged self-segmenting female vampire"
+    },
+    {
+      "id": "flying-head",
+      "name": "Flying Head",
+      "relationship": "similar",
+      "description": "Iroquois / Wyandot detached-head folkloric figure (cited in Wikipedia)"
+    }
+  ],
+  "cultural_notes": "Babies are believed to be at greatest risk from Leyaks; Balinese tradition prescribes placing onion on the child's forehead, the smell of which is said to drive Leyaks away. Death-temples store the Rangda mask and parade it during festivals.",
+  "sources": [
+    {
+      "id": "wikipedia-leyak",
+      "type": "website",
+      "title": "Leyak",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Leyak",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "wikipedia-rangda",
+      "type": "website",
+      "title": "Rangda",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Rangda",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "stephen-1999",
+      "type": "paper",
+      "title": "Witchcraft, Grief, and the Ambivalence of Emotions",
+      "authors": [
+        "Michele Stephen"
+      ],
+      "publication": "American Ethnologist 26(3): 711–737",
+      "date": "1999"
+    }
+  ],
+  "locations": []
 }

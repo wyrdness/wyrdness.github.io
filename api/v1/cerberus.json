@@ -3,6 +3,7 @@
   "name": "Cerberus",
   "category": "mythological_creature",
   "description": "The multi-headed hound of Greek mythology that guards the gates of Hades, preventing the dead from leaving. Most famously captured by Heracles as his twelfth and final labour.",
+  "full_description": "Cerberus (Greek: Kérberos) is the monstrous hound that guards the gates of Hades in Greek and Roman mythology. He is the offspring of the giants Typhon and Echidna, and the brother of the Lernaean Hydra, the Chimera, and the two-headed dog Orthrus. Ancient sources differ on his appearance: Hesiod's Theogony assigns him fifty heads and a 'voice of bronze', and Pindar one hundred heads, while the dominant tradition from the late Archaic period onward gives him three heads, often with a serpent for a tail and snakes growing from his body. His role is to keep the dead within the underworld; the Greeks believed the dead could enter Hades freely but could not leave, and Cerberus enforces that one-way passage. The most famous story involving him is Heracles' Twelfth Labour, in which the hero descends into Hades, wrestles Cerberus into submission with his bare hands (using only his lion-skin as armour) and brings him up to King Eurystheus before returning him. Cerberus also appears in the catabases of Orpheus (charmed asleep by music) and Aeneas (in Virgil's Aeneid VI, drugged with a honey-and-herb cake by the Sibyl). He is a prolific subject of Greek vase-painting and Roman sculpture and survives in modern usage in the names of the Kerberos network authentication protocol and a genus of fanged snakes.",
   "aliases": [
     {
       "name": "Kérberos",
@@ -32,5 +33,128 @@
   "origin": "In classical mythology Cerberus is located at the entrance to the Greek underworld; the entrance was traditionally placed at sites such as Cape Tainaron in Laconia and Lake Avernus in Campania.",
   "first_reported": "0700",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Ancient Greek Kérberos (Κέρβερος); a long-standing but disputed Indo-European derivation links it to a root meaning 'spotted'.",
+    "meaning": "Possibly 'spotted' (cf. Sanskrit śárvara-); the etymology remains debated.",
+    "first_use": "Earliest substantial Greek attestations are Hesiodic (c. 700 BCE)."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "0700-01-01",
+      "event": "Hesiod's Theogony names Cerberus as offspring of Typhon and Echidna with fifty heads and a voice of bronze",
+      "significance": "First major literary attestation",
+      "source": "Hesiod, Theogony (c. 700 BCE)"
+    },
+    {
+      "date": "-0470-01-01",
+      "event": "Pindar describes Cerberus with one hundred heads (5th c. BCE)",
+      "significance": "Pindar's number is the maximum recorded",
+      "source": "Pindar (5th c. BCE fragments)"
+    },
+    {
+      "date": "-0019-01-01",
+      "event": "Virgil's Aeneid VI depicts Aeneas's descent past Cerberus, who is sedated with a honey-and-herb cake by the Sibyl (c. 19 BCE)",
+      "significance": "Canonical Latin literary version",
+      "source": "Virgil, Aeneid VI"
+    },
+    {
+      "date": "0008-01-01",
+      "event": "Ovid retells the Heracles–Cerberus story in Metamorphoses VII",
+      "significance": "Standard Latin literary version of the Twelfth Labour",
+      "source": "Ovid, Metamorphoses VII"
+    },
+    {
+      "date": "0150-01-01",
+      "event": "Apollodorus's Bibliotheca (2nd c. CE) gives the standard prose narrative of Heracles wrestling Cerberus into submission",
+      "significance": "Most-cited Greek prose summary",
+      "source": "Apollodorus, Bibliotheca II.5.12"
+    }
+  ],
+  "related": [
+    {
+      "id": "orthrus",
+      "name": "Orthrus",
+      "relationship": "related",
+      "description": "Cerberus's two-headed brother, dog of Geryon, also offspring of Typhon and Echidna"
+    },
+    {
+      "id": "hydra",
+      "name": "Lernaean Hydra",
+      "relationship": "related",
+      "description": "Cerberus's serpentine sister"
+    },
+    {
+      "id": "chimera",
+      "name": "Chimera",
+      "relationship": "related",
+      "description": "Cerberus's hybrid sister"
+    },
+    {
+      "id": "garmr",
+      "name": "Garmr",
+      "relationship": "counterpart",
+      "description": "Norse hound of Hel; comparable underworld hound"
+    },
+    {
+      "id": "hellhound",
+      "name": "Hellhound (general)",
+      "relationship": "superset",
+      "description": "Generic 'hound of hell' figure in later European folklore"
+    }
+  ],
+  "cultural_notes": "In antiquity Cerberus was understood as a guardian of the threshold between life and death; he is not typically the object of cult but is invoked as an emblem of the inescapability of death.",
+  "sources": [
+    {
+      "id": "hesiod-theogony",
+      "type": "book",
+      "title": "Theogony",
+      "authors": [
+        "Hesiod"
+      ],
+      "publication": "Oral/written tradition (c. 700 BCE)",
+      "date": "0700-01-01"
+    },
+    {
+      "id": "virgil-aeneid",
+      "type": "book",
+      "title": "Aeneid",
+      "authors": [
+        "Virgil"
+      ],
+      "publication": "Rome",
+      "date": "-0019-01-01"
+    },
+    {
+      "id": "apollodorus-bibliotheca",
+      "type": "book",
+      "title": "Bibliotheca",
+      "authors": [
+        "Pseudo-Apollodorus"
+      ],
+      "publication": "Greek (2nd c. CE)",
+      "date": "0150-01-01"
+    },
+    {
+      "id": "wikipedia-cerberus",
+      "type": "website",
+      "title": "Cerberus",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Cerberus",
+      "accessed": "2026-05-07"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Cape Tainaron",
+      "lat": 36.3866,
+      "lng": 22.483
+    }
+  ]
 }

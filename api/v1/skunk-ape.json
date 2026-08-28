@@ -3,6 +3,7 @@
   "name": "Skunk Ape",
   "category": "cryptid",
   "description": "The Skunk Ape is a bipedal, ape-like cryptid reported primarily in the swamps and forests of Florida and the wider southeastern United States, named for the strong, foul odor associated with its reported encounters.",
+  "full_description": "The Skunk Ape is the regional Florida and Gulf-Coast variant of the broader North American hairy-hominid cryptid complex usually grouped under 'Bigfoot'. Witnesses describe a bipedal, ape-like creature roughly 1.5–2.1 m (5–7 ft) tall, covered in mottled reddish-brown or dark hair, often associated with a powerful odor likened to skunk, sulphur, or rotting eggs. Reports cluster in the Everglades, Big Cypress National Preserve, and surrounding cypress swamps and pine flatwoods. The phenomenon entered wide public attention in the 1970s with a wave of sightings in Broward County, Florida, and again around 2000 with the so-called 'Myakka photographs' submitted anonymously to the Sarasota County Sheriff's Office. Mainstream zoological consensus, including statements from the U.S. National Park Service, treats the Skunk Ape as folklore, hoax, or misidentification — most often of Florida black bears, occasionally of escaped exotic primates. A small number of dedicated researchers, most notably Everglades-based naturalist David Shealy, continue field investigations.",
   "aliases": [
     {
       "name": "Florida Bigfoot",
@@ -45,5 +46,131 @@
   "origin": "Reports concentrate in central and southern Florida, with secondary clusters across Georgia, Alabama, and the wider southeastern coastal plain. According to coverage cited on the English Wikipedia article, sightings have been reported from 48 of Florida's 67 counties since 2010.",
   "first_reported": "1818",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "American English regional usage, southeastern United States.",
+    "meaning": "Named for the foul, skunk-like odor reported in close encounters.",
+    "first_use": "In wide print circulation by the 1970s; isolated 'man-sized monkey' reports in Florida newspapers go back to the early 19th century."
+  },
+  "sightings_stats": {
+    "total_documented": 300,
+    "verified": 0,
+    "disputed": 250,
+    "debunked": 50,
+    "date_range": {
+      "earliest": "1818",
+      "latest": "2026"
+    }
+  },
+  "timeline": [
+    {
+      "date": "1818",
+      "event": "Apalachicola, Florida newspaper report of a 'man-sized monkey' raiding food stores",
+      "significance": "Earliest cited 19th-century account in this lineage",
+      "source": "Wikipedia, citing Apalachicola newspaper coverage"
+    },
+    {
+      "date": "1971",
+      "event": "Broward County, Florida sighting wave begins (5–7 ft hairy creature)",
+      "significance": "Foundational modern Skunk Ape wave",
+      "source": "Wikipedia, citing contemporary Florida press"
+    },
+    {
+      "date": "1977",
+      "event": "Florida legislature considers bill (HB 1664) proposing to protect 'anthropoids or humanoid animals'",
+      "significance": "Documented official-record acknowledgement of the phenomenon",
+      "source": "Wikipedia, citing Florida House records"
+    },
+    {
+      "date": "1997-07-01",
+      "event": "David Shealy reports Skunk Ape activity at lima-bean bait stations in Big Cypress National Preserve",
+      "significance": "Beginning of the Shealy-era of Skunk Ape investigation",
+      "source": "Wikipedia citation"
+    },
+    {
+      "date": "1997",
+      "event": "Ochopee Fire Control District Chief Vince Doerr photographs a dark upright figure in Big Cypress",
+      "significance": "Best-known photograph of the 1990s wave",
+      "source": "Wikipedia citation"
+    },
+    {
+      "date": "2000-12-01",
+      "event": "Anonymous woman submits the 'Myakka photographs' to the Sarasota County Sheriff's Office",
+      "significance": "Most-discussed Skunk Ape photographic case",
+      "source": "Sarasota County Sheriff's Office records, as summarized in Wikipedia"
+    }
+  ],
+  "related": [
+    {
+      "id": "bigfoot",
+      "name": "Bigfoot / Sasquatch",
+      "relationship": "superset",
+      "description": "Broader North American hairy-hominid cryptid complex; Skunk Ape is treated as the southeastern regional variant"
+    },
+    {
+      "id": "fouke-monster",
+      "name": "Fouke Monster",
+      "relationship": "regional_variant",
+      "description": "Hairy hominid cryptid of the Boggy Creek area, Arkansas"
+    },
+    {
+      "id": "honey-island-swamp-monster",
+      "name": "Honey Island Swamp Monster",
+      "relationship": "regional_variant",
+      "description": "Louisiana swamp-dwelling hominid cryptid"
+    },
+    {
+      "id": "momo",
+      "name": "Momo (Missouri Monster)",
+      "relationship": "regional_variant",
+      "description": "Missouri hairy hominid cryptid"
+    }
+  ],
+  "cultural_notes": "Treated locally as a regional cryptid akin to Bigfoot; sustained by community storytelling, roadside attractions, and active fieldworkers.",
+  "sources": [
+    {
+      "id": "wikipedia-skunk-ape",
+      "type": "website",
+      "title": "Skunk ape",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Skunk_ape",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "coleman-2003",
+      "type": "book",
+      "title": "Bigfoot! The True Story of Apes in America",
+      "authors": [
+        "Loren Coleman"
+      ],
+      "publication": "Paraview Pocket Books",
+      "date": "2003",
+      "isbn": "978-0743469753"
+    },
+    {
+      "id": "nps-skunk-ape",
+      "type": "website",
+      "title": "Big Cypress National Preserve — frequently asked questions (Skunk Ape)",
+      "publication": "U.S. National Park Service",
+      "url": "https://www.nps.gov/bicy/",
+      "accessed": "2026-05-07"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Big Cypress National Preserve",
+      "lat": 25.86,
+      "lng": -81.04
+    },
+    {
+      "name": "Myakka River area",
+      "lat": 27.24,
+      "lng": -82.31
+    },
+    {
+      "name": "Bardin",
+      "lat": 29.66,
+      "lng": -81.85
+    }
+  ]
 }

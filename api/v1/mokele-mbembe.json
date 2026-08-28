@@ -3,6 +3,7 @@
   "name": "Mokele-mbembe",
   "category": "cryptid",
   "description": "Mokele-mbembe is a legendary water-dwelling creature of Congo Basin folklore, sometimes described in modern cryptozoology as a surviving sauropod-like animal of the Likouala swamps and Lake Tele.",
+  "full_description": "Mokele-mbembe is a legendary creature of the Congo River basin, particularly the Likouala swamp region around Lake Tele in the Republic of the Congo, and adjacent areas of Cameroon and the Democratic Republic of the Congo. The Lingala name is commonly translated as 'one who stops the flow of rivers', a reference to the creature's supposed habit of resting in river bends. Eyewitness descriptions reported to Western researchers describe a long-necked, long-tailed animal with a body the size of an elephant or hippopotamus, short legs, reddish-brown smooth skin, and a single long tooth or horn. Cryptozoologists from the 20th century onward have proposed that mokele-mbembe is a surviving non-avian sauropod dinosaur. The first widely cited Western account is a 1913 report by German Captain Ludwig Freiherr von Stein zu Lausnitz; subsequent expeditions include those led by Roy Mackal (1980-1981), Herman Regusters (1981), Marcellin Agnagna (1983), and William Gibbons (1985 and after). No expedition has produced verifiable physical evidence. The mainstream scientific view is that the legend reflects a combination of indigenous folklore, misidentification of known animals (notably elephants swimming with raised trunks, hippopotamuses, and possibly folk memory of black rhinoceros), and, in some Western retellings, ideologically motivated 'living dinosaur' narratives — paleontologist Donald Prothero has noted that the searches today are largely conducted by creationist ministers rather than by mainstream wildlife biologists.",
   "aliases": [
     {
       "name": "Mokèlé-mbèmbé",
@@ -33,5 +34,121 @@
   "origin": "Reports cluster in the Likouala region and around Lake Tele in the Republic of the Congo, with adjacent reports from Cameroon and the Democratic Republic of the Congo.",
   "first_reported": "1913",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Lingala, a Bantu language of the Congo basin.",
+    "meaning": "Commonly glossed as 'one who stops the flow of rivers'; alternative interpretations include 'rainbow'.",
+    "first_use": "Recorded in Western literature from the early 20th century (von Stein, 1913)."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "1913",
+      "event": "German Captain Ludwig Freiherr von Stein zu Lausnitz documents the first widely cited Western account of mokele-mbembe",
+      "significance": "Earliest detailed Western record",
+      "source": "von Stein, 1913 (per Wikipedia)"
+    },
+    {
+      "date": "1980",
+      "event": "Roy Mackal and colleagues mount an expedition to Lake Tele and the Likouala",
+      "significance": "Beginning of the modern cryptozoological expedition era",
+      "source": "Mackal, R. (1987), A Living Dinosaur?"
+    },
+    {
+      "date": "1981",
+      "event": "Herman Regusters claims to photograph the creature at Lake Tele",
+      "significance": "Most-discussed photographic claim; results disputed",
+      "source": "Wikipedia: Mokele-mbembe"
+    },
+    {
+      "date": "1983",
+      "event": "Congolese zoologist Marcellin Agnagna reports an encounter at Lake Tele; his film footage was reportedly never developed correctly",
+      "significance": "Most-cited African-led account",
+      "source": "Agnagna, M. (1983), report cited in Mackal (1987)"
+    },
+    {
+      "date": "1985",
+      "event": "First William Gibbons expedition",
+      "significance": "Beginning of a long-running series of creationist-affiliated expeditions",
+      "source": "Wikipedia: Mokele-mbembe"
+    },
+    {
+      "date": "2001",
+      "event": "BBC documentary team interviews local people and concludes mokele-mbembe is folk memory of the rhinoceros",
+      "significance": "Notable mainstream-media skeptical conclusion",
+      "source": "BBC documentary, cited in Wikipedia"
+    },
+    {
+      "date": "2018",
+      "event": "Danish-led scientific expedition surveys Lake Tele; finds no cryptid evidence but documents new algae species",
+      "significance": "Modern scientific survey",
+      "source": "Wikipedia: Mokele-mbembe"
+    }
+  ],
+  "related": [
+    {
+      "id": "loch-ness-monster",
+      "name": "Loch Ness Monster",
+      "relationship": "similar",
+      "description": "Western lake / aquatic cryptid framed as a possible surviving prehistoric reptile"
+    },
+    {
+      "id": "emela-ntouka",
+      "name": "Emela-ntouka",
+      "relationship": "related",
+      "description": "Other purported large cryptid of the Likouala region"
+    },
+    {
+      "id": "ninki-nanka",
+      "name": "Ninki Nanka",
+      "relationship": "similar",
+      "description": "West African cryptid sometimes described as a long-necked aquatic reptile"
+    },
+    {
+      "id": "kongamato",
+      "name": "Kongamato",
+      "relationship": "related",
+      "description": "Central African cryptid often described as a flying reptile"
+    },
+    {
+      "id": "chipekwe",
+      "name": "Chipekwe",
+      "relationship": "related",
+      "description": "Central African aquatic cryptid associated with horned descriptions"
+    }
+  ],
+  "cultural_notes": "Local communities have long described dangerous large creatures in the deep waters of the Likouala; the modern 'living sauropod' framing is largely a Western cryptozoological overlay.",
+  "sources": [
+    {
+      "id": "wikipedia-mokele-mbembe",
+      "type": "website",
+      "title": "Mokele-mbembe",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Mokele-mbembe",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "mackal-1987",
+      "type": "book",
+      "title": "A Living Dinosaur? In Search of Mokele-Mbembe",
+      "authors": [
+        "Roy P. Mackal"
+      ],
+      "publication": "E. J. Brill",
+      "date": "1987",
+      "isbn": "978-9004085435"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Lake Tele",
+      "lat": 1.35,
+      "lng": 17.15
+    }
+  ]
 }

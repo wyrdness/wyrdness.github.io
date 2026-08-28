@@ -39,18 +39,18 @@
 
     addMarkers(phenomena) {
       phenomena.forEach(item => {
-        if (item.location?.coordinates) {
-          const [lat, lng] = item.location.coordinates;
-          
-          const marker = L.marker([lat, lng]).addTo(this.map);
+        (item.locations || []).forEach(loc => {
+          if (typeof loc.lat !== 'number' || typeof loc.lng !== 'number') return;
+
+          const marker = L.marker([loc.lat, loc.lng]).addTo(this.map);
           marker.bindPopup(`
-            <strong>${item.name}</strong><br>
+            <strong>${item.name}</strong>${loc.name ? ` &mdash; ${loc.name}` : ''}<br>
             <em>${item.category}</em><br>
             <a href="/phenomena/${item.id}/">View Details</a>
           `);
-          
+
           this.markers.push(marker);
-        }
+        });
       });
     },
 

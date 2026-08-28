@@ -3,6 +3,7 @@
   "name": "Succubus / Incubus",
   "category": "demon_angel",
   "description": "In medieval Christian demonology, the succubus (female) and incubus (male) are demons that seduce humans during sleep through sexual encounters, draining their life force; the tradition appears globally under various names and is now understood to be closely associated with sleep paralysis and hypnagogic hallucinations.",
+  "full_description": "The succubus and incubus are complementary demons appearing prominently in medieval Christian demonology. A succubus takes female form to seduce men during sleep, while the incubus takes male form to assault women. Repeated nocturnal encounters were believed to drain the victim's physical and mental health, potentially causing death. According to the Malleus Maleficarum (1486), succubi collect semen from seduced men; male demons (incubi) then use this semen to impregnate human females. The offspring, called cambions, were said to be born deformed or supernaturally influenced. The succubus typically manifests as a beautiful woman, though closer inspection might reveal deformities such as bird-like claws or a serpentine tail. King James I of England, in his Daemonologie (1597), theorized that demons employed two methods: stealing sperm from corpses or possessing dead bodies for sexual relations. Modern scholarship attributes the experiences underlying these legends primarily to sleep paralysis with hypnagogic or hypnopompic hallucinations, which can produce vivid sensations of a presence, physical pressure, and even sexual experiences during the hypnagogic state. The phenomenon appears in folklore worldwide under various names, including the Mara of Germanic tradition, the Alp of Central Europe, and the Mare of Old English texts.",
   "aliases": [
     {
       "name": "Succuba",
@@ -60,5 +61,126 @@
   "origin": "The succubus/incubus tradition is found throughout medieval Europe and has functional analogues in cultures worldwide. The specific Christian demonological framework is primarily European (especially Western and Central Europe), but similar nocturnal sexual demon traditions appear across the Middle East, Africa, and Asia.",
   "first_reported": "Ancient",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Late Latin succuba, from succubare (to lie beneath), combined with the prefix sub- and cubare (to lie down). The incubus derives from incubare (to lie upon). Both terms entered medieval theological Latin.",
+    "meaning": "Succubus: 'she who lies beneath'; Incubus: 'he who lies upon'",
+    "first_use": "Succubus in English: late 14th century. Both terms widely used in medieval Latin theological writing from the 13th century onward."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "700",
+      "event": "Church councils and penitentials begin addressing incubus demons in canon law, indicating the tradition was established enough to require ecclesiastical response",
+      "significance": "Earliest documented institutional recognition",
+      "source": "Medieval canon law sources"
+    },
+    {
+      "date": "1215",
+      "event": "Fourth Lateran Council reinforces orthodox positions on demonic activity, influencing subsequent demonological literature",
+      "significance": "Theological framework for later succubus/incubus doctrine",
+      "source": "Fourth Lateran Council documents"
+    },
+    {
+      "date": "1486",
+      "event": "Publication of the Malleus Maleficarum by Heinrich Kramer and Jacob Sprenger; provides the most detailed medieval theological account of incubi and succubi, including the theory of semen transfer",
+      "significance": "Most influential demonological text; primary source for succubus/incubus doctrine",
+      "source": "Kramer, H. & Sprenger, J. (1486), Malleus Maleficarum"
+    },
+    {
+      "date": "1597",
+      "event": "King James VI of Scotland (later James I of England) publishes Daemonologie, discussing incubi and succubi",
+      "significance": "Royal endorsement of the tradition; influenced witch-trial jurisprudence",
+      "source": "James VI (1597), Daemonologie"
+    },
+    {
+      "date": "1931",
+      "event": "Ernest Jones publishes On the Nightmare, linking the nightmare/incubus tradition to unconscious psychological processes",
+      "significance": "First major psychoanalytic treatment of the tradition",
+      "source": "Jones, E. (1931), On the Nightmare, Hogarth Press"
+    }
+  ],
+  "related": [
+    {
+      "id": "mara-nightmare",
+      "name": "Mara / Mare",
+      "relationship": "regional_variant",
+      "description": "Germanic and Old Norse nightmare demon that rides sleeping persons; functionally similar to succubus/incubus"
+    },
+    {
+      "id": "alp",
+      "name": "Alp",
+      "relationship": "regional_variant",
+      "description": "Central European nightmare demon of Germanic tradition"
+    },
+    {
+      "id": "lilith",
+      "name": "Lilith",
+      "relationship": "related",
+      "description": "Hebrew demoness associated with nocturnal predation and infant death; frequently identified with the succubus tradition"
+    },
+    {
+      "id": "sleep-paralysis",
+      "name": "Sleep Paralysis",
+      "relationship": "related",
+      "description": "Modern scientific explanation for reported succubus/incubus encounters"
+    }
+  ],
+  "cultural_notes": "In the medieval Christian framework, succubi and incubi were understood as real demonic entities whose purpose was to corrupt human souls through sexual sin. The tradition provided theological explanations for nocturnal emissions, unwanted sexual dreams, and out-of-wedlock pregnancies. Religious remedies included prayer, fasting, confession, and wearing holy objects.",
+  "sources": [
+    {
+      "id": "kramer-sprenger-1486",
+      "type": "book",
+      "title": "Malleus Maleficarum",
+      "authors": [
+        "Heinrich Kramer",
+        "Jacob Sprenger"
+      ],
+      "date": "1486",
+      "notes": "Primary medieval demonological source; multiple modern translations available"
+    },
+    {
+      "id": "james-1597",
+      "type": "book",
+      "title": "Daemonologie",
+      "authors": [
+        "King James VI of Scotland"
+      ],
+      "date": "1597",
+      "notes": "Royal demonological treatise discussing incubi and succubi"
+    },
+    {
+      "id": "jones-1931",
+      "type": "book",
+      "title": "On the Nightmare",
+      "authors": [
+        "Ernest Jones"
+      ],
+      "publication": "Hogarth Press",
+      "date": "1931"
+    },
+    {
+      "id": "hufford-1982",
+      "type": "book",
+      "title": "The Terror That Comes in the Night: An Experience-Centered Study of Supernatural Assault Traditions",
+      "authors": [
+        "David J. Hufford"
+      ],
+      "publication": "University of Pennsylvania Press",
+      "date": "1982"
+    },
+    {
+      "id": "wikipedia-succubus",
+      "type": "website",
+      "title": "Succubus — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Succubus",
+      "accessed": "2026-05-08"
+    }
+  ],
+  "locations": []
 }

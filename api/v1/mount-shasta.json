@@ -3,6 +3,7 @@
   "name": "Mount Shasta",
   "category": "location",
   "description": "Mount Shasta is a 14,179-foot (4,322 m) stratovolcano in the southern Cascade Range of Siskiyou County, California, sacred to multiple Indigenous nations (Shasta, Karuk, Modoc, Wintu, Klamath) and a focal point of modern paranormal traditions including the legend of the hidden Lemurian city of Telos and Guy Ballard's 'I AM' Activity.",
+  "full_description": "Mount Shasta is a major stratovolcano of the southern Cascade Range, rising 14,179 ft (4,322 m) in Siskiyou County, California (approximately 41.4092 N, 122.1949 W). At about 85 cubic miles, it is the most voluminous stratovolcano in the Cascade Volcanic Arc; it is roughly 593,000 years old and last erupted around 1250. The mountain is sacred to multiple Indigenous nations, including the Shasta (Waka-nunee-Tuki-wuki), Karuk (Úytaahkoo, 'White Mountain'), Modoc, Wintu, and Klamath; in Klamath cosmology Mount Shasta is the home of Skell, Spirit of the Above-World, who battled Llao at Mount Mazama. From the late 19th century onward, Mount Shasta accreted a parallel non-Indigenous esoteric tradition: Frederick Spencer Oliver's 'A Dweller on Two Planets' (written by 1899, published 1905), allegedly channelled from the Lemurian spirit Phylos, was the first published work to link Mount Shasta to a hidden tunnel city of Lemurians, the concept of 'I AM' and the channelling of disembodied spirits. Harvey Spencer Lewis, writing as 'Wishar S. Cerve', published 'Lemuria: The Lost Continent of the Pacific' through the AMORC Rosicrucian order in 1931, cementing the legend in popular imagination. Guy Ballard's encounters with the 'Ascended Master' Saint Germain on the slopes of Mount Shasta in the 1930s founded the I AM Activity, which J. Gordon Melton has identified as the first 'UFO religion'. The mountain has subsequently become a focal point for UFO sighting reports, New Age 'spiritual vortex' practice, claimed Telos / Lemurian encounters, and recurring Bigfoot reports.",
   "aliases": [
     {
       "name": "Waka-nunee-Tuki-wuki",
@@ -37,5 +38,125 @@
   "origin": "Single mountain in Siskiyou County, northern California, with cultural and paranormal influence felt across the western United States and globally through New Age and UFO-religion networks.",
   "first_reported": "Pre-contact",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "English 'Shasta' is from the Shasta people, indigenous to the surrounding region.",
+    "meaning": "Karuk Úytaahkoo means 'White Mountain'; the Shasta name is Waka-nunee-Tuki-wuki.",
+    "first_use": "Indigenous names predate European contact; English 'Mount Shasta' enters the written record in the early 19th century with European-American exploration of northern California."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "Pre-contact",
+      "event": "Indigenous nations of northern California (Shasta, Karuk, Modoc, Wintu, Klamath) maintain oral traditions of Mount Shasta as a sacred mountain",
+      "significance": "Cultural baseline of the mountain's significance",
+      "source": "Wikipedia: Mount Shasta; Wikipedia: Legends of Mount Shasta"
+    },
+    {
+      "date": "1905-01-01",
+      "event": "Frederick Spencer Oliver's 'A Dweller on Two Planets' published, claimed to be channelled from the Lemurian spirit Phylos; first published work linking Mount Shasta to Lemurians, hidden tunnel cities, and the 'I AM' concept",
+      "significance": "Founding text of the Mount Shasta esoteric tradition",
+      "source": "Wikipedia: Legends of Mount Shasta"
+    },
+    {
+      "date": "1931-01-01",
+      "event": "Harvey Spencer Lewis (as 'Wishar S. Cerve') publishes 'Lemuria: The Lost Continent of the Pacific' through AMORC",
+      "significance": "Major popularisation of the Mount Shasta-Lemuria legend",
+      "source": "Wikipedia: Legends of Mount Shasta"
+    },
+    {
+      "date": "1934-01-01",
+      "event": "Guy Ballard publishes accounts of his encounters with the Ascended Master Saint Germain on Mount Shasta, founding the I AM Activity",
+      "significance": "Founding of the world's first 'UFO religion' (per J. Gordon Melton)",
+      "source": "Wikipedia: Legends of Mount Shasta"
+    },
+    {
+      "date": "1250-01-01",
+      "event": "Last known eruption of Mount Shasta",
+      "significance": "Most recent volcanic activity (geological)",
+      "source": "Wikipedia: Mount Shasta"
+    }
+  ],
+  "related": [
+    {
+      "id": "lemuria",
+      "name": "Lemuria",
+      "relationship": "related",
+      "description": "Lost-continent mythology associated with Mount Shasta in non-Indigenous esoteric writings"
+    },
+    {
+      "id": "sedona-vortexes",
+      "name": "Sedona vortexes",
+      "relationship": "similar",
+      "description": "Other major American 'spiritual vortex' site"
+    },
+    {
+      "id": "skinwalker-ranch",
+      "name": "Skinwalker Ranch",
+      "relationship": "similar",
+      "description": "Other American site framed as paranormal nexus"
+    },
+    {
+      "id": "stonehenge",
+      "name": "Stonehenge",
+      "relationship": "similar",
+      "description": "Sacred / esoteric site in another tradition"
+    }
+  ],
+  "cultural_notes": "For Indigenous nations Mount Shasta is genuinely sacred; for New Age and esoteric communities it is a 'spiritual vortex' and Lemurian portal; for mainstream geologists it is an active stratovolcano demanding monitoring.",
+  "sources": [
+    {
+      "id": "wikipedia-mount-shasta",
+      "type": "website",
+      "title": "Mount Shasta",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Mount_Shasta",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "wikipedia-legends-of-mount-shasta",
+      "type": "website",
+      "title": "Legends of Mount Shasta",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Legends_of_Mount_Shasta",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "oliver-1905",
+      "type": "book",
+      "title": "A Dweller on Two Planets",
+      "authors": [
+        "Frederick Spencer Oliver (as 'Phylos the Thibetan')"
+      ],
+      "publication": "Baumgardt Publishing Co.",
+      "date": "1905"
+    },
+    {
+      "id": "cerve-1931",
+      "type": "book",
+      "title": "Lemuria: The Lost Continent of the Pacific",
+      "authors": [
+        "Wishar S. Cerve (Harvey Spencer Lewis)"
+      ],
+      "publication": "AMORC",
+      "date": "1931"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Mount Shasta summit and slopes",
+      "lat": 41.4092,
+      "lng": -122.1949
+    },
+    {
+      "name": "City of Mount Shasta",
+      "lat": 41.3099,
+      "lng": -122.3106
+    }
+  ]
 }

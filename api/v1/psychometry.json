@@ -3,6 +3,7 @@
   "name": "Psychometry",
   "category": "psychic_phenomena",
   "description": "Psychometry is the alleged paranormal ability to obtain information about an object's history — its past owners, locations, or events surrounding it — by physical contact. The term was coined by American physician Joseph Rodes Buchanan in 1842.",
+  "full_description": "Psychometry (also called token-object reading or object reading) is a claimed psi modality in which a sensitive holds or touches an object and reports impressions of its history, owners, or associated events. American physician and Eclectic Medical Institute professor Joseph Rodes Buchanan coined the term in 1842, theorising that all things give off persistent emanations that could be 'measured' by trained sensitives; he developed the concept further in his Manual of Psychometry (1893). Geologist William Denton extended the practice into 'geological psychometry' with The Soul of Things (1863), in which his sister and wife reported impressions from rock and fossil specimens. Through the late 19th and early 20th centuries psychometry was a popular feature of Spiritualist seances and stage performances. Selected mediums — notably Stefan Ossowiecki in interwar Poland and Gerard Croiset in the mid-20th-century Netherlands — were tested by parapsychologists and remain reference cases in the field. Modern parapsychology absorbs psychometry-like tasks into broader ESP / clairvoyance protocols. The mainstream scientific consensus is that there is no replicable evidence for psychometry; apparent successes are well explained by cold reading, confirmation bias, and selective reporting. Police agencies overwhelmingly do not consider psychic tipsters useful.",
   "aliases": [
     {
       "name": "Token-object reading",
@@ -33,5 +34,170 @@
   "origin": "Practised principally in 19th- and 20th-century Anglosphere Spiritualism and 20th-century European parapsychology, though similar 'reading-from-objects' practices appear in many divinatory traditions worldwide.",
   "first_reported": "1842",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Coined in 1842 by Joseph Rodes Buchanan from Greek psychē ('soul, mind') and metron ('measure')",
+    "meaning": "Literally 'soul-measuring'; the measurement of an object's psychic 'emanations'",
+    "first_use": "Buchanan, J. R. (c.1842); developed in his Manual of Psychometry (1893)"
+  },
+  "sightings_stats": {
+    "date_range": {
+      "earliest": "1842",
+      "latest": "2026"
+    }
+  },
+  "timeline": [
+    {
+      "date": "1842",
+      "event": "Joseph Rodes Buchanan coins the term 'psychometry' and begins systematic experiments",
+      "significance": "Founding moment of the practice as a self-conscious paranormal claim",
+      "source": "Buchanan, J. R., Journal of Man (1849–1856); Manual of Psychometry (1893)"
+    },
+    {
+      "date": "1849",
+      "event": "Buchanan begins publishing Buchanan's Journal of Man",
+      "significance": "Early American Spiritualist / reform venue for psychometry research",
+      "source": "Wikipedia: Joseph Rodes Buchanan"
+    },
+    {
+      "date": "1863",
+      "event": "William Denton publishes The Soul of Things, extending psychometry to rocks and fossils",
+      "significance": "Landmark Spiritualist text; popularises 'geological psychometry'",
+      "source": "Denton, W., & Denton, E. M. F. (1863), The Soul of Things"
+    },
+    {
+      "date": "1893",
+      "event": "Buchanan publishes Manual of Psychometry: the Dawn of a New Civilization",
+      "significance": "Defining systematic statement of the doctrine",
+      "source": "Buchanan, J. R. (1893)"
+    },
+    {
+      "date": "1899-12-26",
+      "event": "Death of Joseph Rodes Buchanan in San Jose, California",
+      "significance": "End of the founder's life; his program continued through Spiritualist popularisers",
+      "source": "Wikipedia: Joseph Rodes Buchanan"
+    },
+    {
+      "date": "1924",
+      "event": "Stefan Ossowiecki tested by Polish and international parapsychologists, including Charles Richet",
+      "significance": "Best-known interwar European 'psychometric' medium",
+      "source": "Wikipedia: Stefan Ossowiecki"
+    },
+    {
+      "date": "1953",
+      "event": "W. H. C. Tenhaeff begins systematic testing of Gerard Croiset at Utrecht's parapsychology laboratory",
+      "significance": "Mid-20th-century academic testing of object-reading claims",
+      "source": "Wikipedia: Gerard Croiset"
+    },
+    {
+      "date": "1980",
+      "event": "Croiset's death and Tenhaeff scandal: posthumous re-analysis exposes selective reporting",
+      "significance": "Major sceptical correction to a well-known psychometry case",
+      "source": "Hoebens, P. H. (1981), Skeptical Inquirer"
+    }
+  ],
+  "related": [
+    {
+      "id": "clairvoyance",
+      "name": "Clairvoyance",
+      "relationship": "related",
+      "description": "Direct perception of distant or hidden contemporaneous events"
+    },
+    {
+      "id": "retrocognition",
+      "name": "Retrocognition",
+      "relationship": "subset",
+      "description": "Knowledge of past events by anomalous means; psychometry is its object-mediated form"
+    },
+    {
+      "id": "remote-viewing",
+      "name": "Remote viewing",
+      "relationship": "related",
+      "description": "Free-response psi protocol; sometimes uses associated 'targets' analogous to tokens"
+    },
+    {
+      "id": "mediumship",
+      "name": "Mediumship",
+      "relationship": "related",
+      "description": "Spiritualist practice in which psychometry was a common feature"
+    },
+    {
+      "id": "psychic-detective",
+      "name": "Psychic detective work",
+      "relationship": "related",
+      "description": "Application of psychometry-like claims to criminal investigations"
+    }
+  ],
+  "cultural_notes": "Psychometry remains a popular feature of contemporary mediumship and is widely depicted in fiction, despite the absence of replicable scientific evidence.",
+  "sources": [
+    {
+      "id": "wikipedia-psychometry-paranormal",
+      "type": "website",
+      "title": "Psychometry (paranormal)",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Psychometry_(paranormal)",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "wikipedia-buchanan",
+      "type": "website",
+      "title": "Joseph Rodes Buchanan",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Joseph_Rodes_Buchanan",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "buchanan-1893",
+      "type": "book",
+      "title": "Manual of Psychometry: the Dawn of a New Civilization",
+      "authors": [
+        "Joseph Rodes Buchanan"
+      ],
+      "publication": "Dudley M. Holman",
+      "date": "1893"
+    },
+    {
+      "id": "denton-1863",
+      "type": "book",
+      "title": "The Soul of Things; or, Psychometric Researches and Discoveries",
+      "authors": [
+        "William Denton",
+        "Elizabeth M. F. Denton"
+      ],
+      "publication": "Walker, Wise, and Co.",
+      "date": "1863"
+    },
+    {
+      "id": "hoebens-1981",
+      "type": "article",
+      "title": "Croiset and Professor Tenhaeff: Discrepancies in Claims of Clairvoyance",
+      "authors": [
+        "Piet Hein Hoebens"
+      ],
+      "publication": "Skeptical Inquirer",
+      "date": "1981"
+    },
+    {
+      "id": "hyman-1977",
+      "type": "article",
+      "title": "Cold Reading: How to Convince Strangers That You Know All About Them",
+      "authors": [
+        "Ray Hyman"
+      ],
+      "publication": "Zetetic / Skeptical Inquirer",
+      "date": "1977"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Eclectic Medical Institute, Cincinnati",
+      "lat": 39.1031,
+      "lng": -84.512
+    },
+    {
+      "name": "Utrecht University parapsychology laboratory (Tenhaeff)",
+      "lat": 52.0907,
+      "lng": 5.1214
+    }
+  ]
 }

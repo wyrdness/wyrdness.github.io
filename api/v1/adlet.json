@@ -3,6 +3,7 @@
   "name": "Adlet",
   "category": "cryptid",
   "description": "The Adlet are a race of hybrid beings in Inuit mythology — dog from the waist down, human above — said to be taller than humans, hostile, and the offspring of an Inuit woman and a red dog.",
+  "full_description": "Adlet (also Erqigdlet / Erqigdlit) is a race of mythical creatures in the oral traditions of the Inuit of Greenland, Baffin Island, Labrador, and the western Hudson Bay coast. The lower body of an Adlet resembles that of a dog and the upper body that of a human; some accounts add a pointed snout, sharp teeth, pointed ears, and yellow eyes. They are described as taller than the Inuit and faster runners. The origin myth, recorded by Franz Boas in 1889, tells of a woman named Niviarsiang who refused human suitors and married a red dog named Ijirqang; she bore ten offspring, half of whom became the dog-bodied Adlet and were sent overseas to become the ancestors of distant peoples. Adlet are typically antagonistic in stories, sometimes cannibalistic, and most encounters end with humans defeating them. The myth is closely related to the wider 'Dog Husband' motif found among the Dakelh of British Columbia and the Chukchi of Siberia, and may have influenced Inuit understandings of contact with non-Inuit peoples to the south.",
   "aliases": [
     {
       "name": "Erqigdlet",
@@ -37,5 +38,121 @@
   "origin": "Adlet stories are recorded across the eastern Arctic: Greenland (especially Smith Sound), Baffin Island, the Labrador and Hudson Bay coasts, and adjacent inland areas.",
   "first_reported": "1888",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Inuktitut. Boas suggests the term may derive from 'ad-' meaning 'below' or from 'agdlak' ('striped, streaked'), possibly referring to face-painting on neighbouring peoples; western Hudson Bay groups use the cognate 'Erqigdlit'.",
+    "meaning": "Often translated as 'inland dwellers' or rendered simply as the proper name of the dog-human hybrids; meaning is debated.",
+    "first_use": "First non-Indigenous publication: Franz Boas, 'The Central Eskimo' (1888) and follow-up articles in The Journal of American Folklore (1889)."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "1883-01-01",
+      "event": "Franz Boas begins ethnographic fieldwork among the Inuit of Cumberland Sound, Baffin Island",
+      "significance": "Source of his subsequent Adlet documentation",
+      "source": "Boas (1888)"
+    },
+    {
+      "date": "1886-01-01",
+      "event": "John Murdoch documents related stories at Point Barrow, Alaska",
+      "significance": "Extends the documented range of dog-hybrid traditions",
+      "source": "Murdoch, Ninth Annual Report of the Bureau of Ethnology (1892), reporting fieldwork from 1881–1883"
+    },
+    {
+      "date": "1888-01-01",
+      "event": "Boas publishes 'The Central Eskimo' in the Sixth Annual Report of the Bureau of Ethnology",
+      "significance": "First major English-language account of the Adlet myth",
+      "source": "Boas (1888)"
+    },
+    {
+      "date": "1889-01-01",
+      "event": "Boas publishes 'Notes on the Eskimo of Port Clarence, Alaska' and related Adlet material in The Journal of American Folklore",
+      "significance": "Wider dissemination among folklorists",
+      "source": "The Journal of American Folklore (1889)"
+    },
+    {
+      "date": "1899-01-01",
+      "event": "A. L. Kroeber publishes 'Tales of the Smith Sound Eskimo' in The Journal of American Folklore",
+      "significance": "Adds Greenland Smith Sound variants of the Adlet tradition",
+      "source": "Kroeber (1899)"
+    }
+  ],
+  "related": [
+    {
+      "id": "cynocephali",
+      "name": "Cynocephali",
+      "relationship": "similar",
+      "description": "Classical and medieval European 'dog-headed people'"
+    },
+    {
+      "id": "dog-husband",
+      "name": "Dog Husband myth",
+      "relationship": "related",
+      "description": "Widespread North-Pacific myth complex of women married to dogs producing hybrid offspring"
+    },
+    {
+      "id": "sedna",
+      "name": "Sedna",
+      "relationship": "related",
+      "description": "Inuit sea-goddess myth that shares structural elements with the Adlet origin story"
+    }
+  ],
+  "cultural_notes": "Adlet are treated as dangerous beings of the inland wilderness whose existence explains both the presence of unrelated peoples and the boundaries of safe travel.",
+  "sources": [
+    {
+      "id": "wikipedia-adlet",
+      "type": "website",
+      "title": "Adlet",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Adlet",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "boas-1888",
+      "type": "book",
+      "title": "The Central Eskimo",
+      "authors": [
+        "Franz Boas"
+      ],
+      "publication": "Sixth Annual Report of the Bureau of Ethnology, Smithsonian Institution",
+      "date": "1888",
+      "notes": "Primary ethnographic source for the Niviarsiang / Ijirqang origin tale of the Adlet."
+    },
+    {
+      "id": "boas-1889-jafl",
+      "type": "paper",
+      "title": "Notes on the Eskimo of Port Clarence, Alaska / Adlet material",
+      "authors": [
+        "Franz Boas"
+      ],
+      "publication": "The Journal of American Folklore",
+      "date": "1889"
+    },
+    {
+      "id": "kroeber-1899",
+      "type": "paper",
+      "title": "Tales of the Smith Sound Eskimo",
+      "authors": [
+        "A. L. Kroeber"
+      ],
+      "publication": "The Journal of American Folklore",
+      "date": "1899"
+    },
+    {
+      "id": "murdoch-1892",
+      "type": "paper",
+      "title": "Ethnological Results of the Point Barrow Expedition",
+      "authors": [
+        "John Murdoch"
+      ],
+      "publication": "Ninth Annual Report of the Bureau of Ethnology",
+      "date": "1892"
+    }
+  ],
+  "locations": []
 }

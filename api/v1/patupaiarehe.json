@@ -3,6 +3,7 @@
   "name": "Patupaiarehe",
   "category": "fae_folklore",
   "description": "In Maori tradition, the patupaiarehe (also called turehu or pakepakeha) are pale-skinned, fair- or red-haired supernatural people of the misty forests, mountains, and high country of Aotearoa / New Zealand, regarded as he iwi atua - a 'people of the gods' rather than ordinary humans.",
+  "full_description": "Patupaiarehe are fairy-like supernatural beings in the traditions of Maori iwi (tribes) across both islands of Aotearoa / New Zealand. They are described as pale to fair-skinned, with blonde or red hair, light-coloured eyes, and untattooed faces, and as living in invisible communities deep in forests and on mist-shrouded mountain tops. Patupaiarehe are nocturnal or active in mist and fog and are said to be harmed or driven off by direct sunlight, fire, light, cooked food, and strong smells. In some accounts they are roughly human-sized, while certain Whanganui traditions describe them as standing more than two metres tall and Tuhoe traditions describe them as small. They are skilled musicians of the koauau and putorino flutes and use this music to lure people into the forest. Maori traditions describe specific encounters - for example, the explorer Ihenga at Mount Ngongotaha, the patupaiarehe woman Kaiheraki and the hunter Hautapu, and Hinerehia who is said to have taught Maori women the art of weaving. The tradition is treated by Maori communities as part of a living spiritual landscape, distinct from the European fairy tradition with which it has been compared.",
   "aliases": [
     {
       "name": "Turehu",
@@ -45,5 +46,92 @@
   "origin": "Patupaiarehe traditions are known across Aotearoa / New Zealand, with named locations on both the North and South Islands.",
   "first_reported": "Pre-European",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Maori. The names patupaiarehe and turehu are inherited Maori terms; pakepakeha is a related variant sometimes proposed as one source for the modern Maori word pakeha (used for New Zealanders of European descent).",
+    "meaning": "There is no agreed gloss for patupaiarehe in standard reference works; the term denotes a class of supernatural forest people (he iwi atua).",
+    "first_use": "Recorded in 19th-century Maori manuscript traditions and ethnographies, including Sir George Grey's collections (1840s-1850s) and the work of James Cowan in the early 20th century."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "1840s",
+      "event": "Sir George Grey collects Maori manuscript accounts of patupaiarehe traditions",
+      "significance": "Earliest substantial written record",
+      "source": "Grey, G. - Maori manuscript collection (Auckland Libraries)"
+    },
+    {
+      "date": "1925",
+      "event": "James Cowan publishes Fairy Folk Tales of the Maori",
+      "significance": "First major English-language synthesis of patupaiarehe traditions",
+      "source": "Cowan, J. - Fairy Folk Tales of the Maori (1925)"
+    },
+    {
+      "date": "2006",
+      "event": "Te Ara: The Encyclopedia of New Zealand publishes a peer-reviewed entry on patupaiarehe and ponaturi",
+      "significance": "Authoritative modern Maori-informed reference",
+      "source": "Te Ara Encyclopedia of New Zealand"
+    }
+  ],
+  "related": [
+    {
+      "id": "ponaturi",
+      "name": "Ponaturi",
+      "relationship": "counterpart",
+      "description": "Hostile sea-dwelling supernatural people in Maori tradition, also vulnerable to sunlight"
+    },
+    {
+      "id": "maero",
+      "name": "Maero / Mohoao",
+      "relationship": "related",
+      "description": "Wild forest people of Maori tradition, distinct from patupaiarehe"
+    },
+    {
+      "id": "menehune",
+      "name": "Menehune",
+      "relationship": "similar",
+      "description": "Hawaiian small forest-people tradition"
+    },
+    {
+      "id": "fae-folklore",
+      "name": "European fairy folk",
+      "relationship": "similar",
+      "description": "Western fairy traditions to which patupaiarehe are often (loosely) compared"
+    }
+  ],
+  "cultural_notes": "Patupaiarehe are part of a living Maori spiritual landscape; specific mountains and ranges are recognised as their territory and treated with appropriate cultural respect.",
+  "sources": [
+    {
+      "id": "wikipedia-patupaiarehe",
+      "type": "website",
+      "title": "Patupaiarehe",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Patupaiarehe",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "teara-patupaiarehe",
+      "type": "website",
+      "title": "Patupaiarehe",
+      "publication": "Te Ara: The Encyclopedia of New Zealand",
+      "url": "https://teara.govt.nz/en/patupaiarehe",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "cowan-1925",
+      "type": "book",
+      "title": "Fairy Folk Tales of the Maori",
+      "authors": [
+        "James Cowan"
+      ],
+      "publication": "Whitcombe & Tombs",
+      "date": "1925"
+    }
+  ],
+  "locations": []
 }

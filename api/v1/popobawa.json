@@ -3,6 +3,7 @@
   "name": "Popobawa",
   "category": "demon_angel",
   "description": "A shapeshifting evil spirit of Zanzibari Swahili tradition, blamed for waves of nocturnal sexual assaults on Pemba Island, Unguja, and the Tanzanian coast. Major panics occurred in 1965, the 1970s, 1995, and 2007.",
+  "full_description": "Popobawa (Swahili 'bat-wing') is a shapeshifting evil spirit in the Swahili-speaking islands and coast of Tanzania, especially Zanzibar (Pemba and Unguja). It is most commonly described as attacking sleepers at night and committing sexualized assaults on victims of any gender, though men are often emphasized in the tradition. The name refers to the bat-like shadow the spirit is said to cast rather than to a fixed appearance: in different reports it is dwarfish, gigantic, animal-shaped, or invisible, often accompanied by a sulfurous smell. The phenomenon is best understood as a collective social experience that erupts in episodes of mass panic, frequently around political crises and elections. The first widely documented panic occurred on Pemba in 1965, soon after the Zanzibar Revolution; major later waves followed in the 1970s, in 1995 (spreading from Pemba to Unguja and the mainland), and in 2007 (Dar es Salaam). Anthropologists Martin Walsh, David Parkin, and Katrina Daly Thompson have analyzed Popobawa as articulated social memory of slavery and colonial trauma; skeptics including Joe Nickell have framed individual experiences as sleep paralysis with hypnopompic hallucinations. Victims report feeling pressed down, paralyzed, and assaulted, and are pushed by community expectation to publicly disclose the attack to avoid recurrence. Protective practices include staying outdoors near a fire, group vigil, recitation of Qur'anic verses, charms, and exorcism by traditional and Islamic specialists.",
   "aliases": [
     {
       "name": "Popo Bawa",
@@ -36,5 +37,151 @@
   "origin": "Concentrated in the Zanzibar archipelago — particularly Pemba Island and Unguja — with episodic outbreaks reaching the Tanzanian mainland (Dar es Salaam) and elsewhere on the Swahili coast.",
   "first_reported": "1965",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Swahili 'popo' (bat) + 'bawa' (wing); the compound is glossed in the literature as 'bat-wing' and refers to the dark, batlike shadow the spirit is said to cast as it descends on a sleeper",
+    "meaning": "Bat-wing; literally 'wing of a bat' in Swahili",
+    "first_use": "Documented in popular reports from Pemba Island in 1965"
+  },
+  "sightings_stats": {
+    "date_range": {
+      "earliest": "1965",
+      "latest": "2007"
+    }
+  },
+  "timeline": [
+    {
+      "date": "1964-01-12",
+      "event": "Zanzibar Revolution overthrows the Sultanate of Zanzibar",
+      "significance": "Political and social rupture immediately preceding the first major Popobawa panic",
+      "source": "Walsh, M. (2009)"
+    },
+    {
+      "date": "1965",
+      "event": "First widely documented Popobawa panic on Pemba Island",
+      "significance": "Founding incident of the modern phenomenon",
+      "source": "Walsh, M. (2009), 'The Politicisation of Popobawa'"
+    },
+    {
+      "date": "1995",
+      "event": "Major Popobawa panic spreads from Pemba to Unguja and the Tanzanian mainland (Dar es Salaam)",
+      "significance": "Best-documented wave; subject of extensive anthropological study by Parkin, Walsh, and others",
+      "source": "Parkin, D. (2004); Walsh, M. (2009)"
+    },
+    {
+      "date": "2007",
+      "event": "Popobawa panic in Dar es Salaam draws international press coverage",
+      "significance": "First major panic of the digital media era; analyzed by Joe Nickell and others",
+      "source": "BBC News (2007); Nickell, J. (2008)"
+    }
+  ],
+  "related": [
+    {
+      "id": "incubus",
+      "name": "Incubus",
+      "relationship": "similar",
+      "description": "European male sex demon attacking sleepers"
+    },
+    {
+      "id": "succubus",
+      "name": "Succubus",
+      "relationship": "similar",
+      "description": "European female counterpart to the incubus"
+    },
+    {
+      "id": "sleep-paralysis",
+      "name": "Sleep paralysis",
+      "relationship": "related",
+      "description": "Neurophysiological state strongly implicated in Popobawa experiences by skeptical analysts"
+    },
+    {
+      "id": "old-hag",
+      "name": "Old Hag (Newfoundland)",
+      "relationship": "similar",
+      "description": "Cross-cultural night-pressing spirit tradition"
+    },
+    {
+      "id": "alp",
+      "name": "Alp",
+      "relationship": "similar",
+      "description": "Germanic night-pressing spirit"
+    }
+  ],
+  "cultural_notes": "Within Zanzibari Swahili tradition, Popobawa is treated as a real spirit whose attacks must be answered with public disclosure, communal vigilance, prayer, and the intervention of traditional or Islamic specialists.",
+  "sources": [
+    {
+      "id": "wikipedia-popobawa",
+      "type": "website",
+      "title": "Popobawa",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Popobawa",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "walsh-2009",
+      "type": "paper",
+      "title": "The Politicisation of Popobawa: Changing Explanations of a Collective Apparition in Zanzibar",
+      "authors": [
+        "Martin Walsh"
+      ],
+      "publication": "Journal of Humanities (Univ. of Dar es Salaam)",
+      "date": "2009"
+    },
+    {
+      "id": "parkin-2004",
+      "type": "paper",
+      "title": "In the Nature of the Human Landscape: Provenances in the Making of Zanzibari Politics",
+      "authors": [
+        "David Parkin"
+      ],
+      "publication": "Social Anthropology / collected volumes",
+      "date": "2004"
+    },
+    {
+      "id": "thompson-popobawa",
+      "type": "paper",
+      "title": "Popobawa: Tanzanian Talk, Global Misreadings",
+      "authors": [
+        "Katrina Daly Thompson"
+      ],
+      "publication": "Indiana University Press",
+      "date": "2017"
+    },
+    {
+      "id": "nickell-2008",
+      "type": "article",
+      "title": "Investigative Files: The Popobawa Demon",
+      "authors": [
+        "Joe Nickell"
+      ],
+      "publication": "Skeptical Inquirer",
+      "date": "2008"
+    },
+    {
+      "id": "bbc-2007-popobawa",
+      "type": "news",
+      "title": "Sex attacks blamed on bat demon",
+      "publication": "BBC News",
+      "date": "2007",
+      "url": "http://news.bbc.co.uk/2/hi/africa/7019662.stm",
+      "accessed": "2026-05-07"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Pemba Island",
+      "lat": -5,
+      "lng": 39.7833
+    },
+    {
+      "name": "Unguja (Zanzibar Island)",
+      "lat": -6.1659,
+      "lng": 39.2026
+    },
+    {
+      "name": "Dar es Salaam",
+      "lat": -6.7924,
+      "lng": 39.2083
+    }
+  ]
 }

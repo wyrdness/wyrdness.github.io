@@ -3,6 +3,7 @@
   "name": "Roswell Incident",
   "category": "ufo_uap",
   "description": "The 1947 recovery of debris from a ranch near Corona, New Mexico, by personnel from Roswell Army Air Field, briefly described in an RAAF press release as a 'flying disc' before being officially identified as a weather balloon. From the late 1970s onward, popular UFO literature reframed the recovery as the crash of an extraterrestrial vehicle and the foundation of a long-running US government cover-up.",
+  "full_description": "In early July 1947, rancher William 'Mac' Brazel found scattered debris on the J. B. Foster sheep ranch near Corona, in Lincoln County, New Mexico. After hearing radio reports of 'flying discs', Brazel reported the find to Sheriff George Wilcox of Chaves County, who notified Roswell Army Air Field. Major Jesse Marcel and Captain Sheridan Cavitt examined the debris on 7 July. On 8 July 1947 the RAAF public information officer, 1st Lt. Walter Haut, issued a press release stating that the field had recovered a 'flying disc'. Within hours, Eighth Air Force commander Brigadier General Roger Ramey publicly reidentified the material as a weather balloon, and the story disappeared from the news. The incident attracted little attention until the late 1970s, when ufologist Stanton Friedman interviewed Marcel (1978) and Charles Berlitz and William Moore published The Roswell Incident (1980), reframing the recovery as an extraterrestrial event. The 1994 GAO investigation prompted the US Air Force to release reports in 1994 (The Roswell Report: Fact vs. Fiction in the New Mexico Desert) and 1997 (The Roswell Report: Case Closed) identifying the debris as Flight 4 of Project Mogul — a classified high-altitude balloon train designed to detect Soviet nuclear tests — and identifying secondary 'alien body' accounts as conflations with parachute-test dummies dropped between 1953 and 1959. Roswell remains the foundational case of modern UFO conspiracy literature and supports a substantial tourism economy in Roswell, New Mexico.",
   "aliases": [
     {
       "name": "Roswell UFO Incident",
@@ -38,5 +39,220 @@
   "origin": "The debris field is on the J. B. Foster sheep ranch in Lincoln County, New Mexico, roughly 75 miles north-west of the city of Roswell. Secondary 'crash sites' and 'body recovery' sites have been claimed at multiple locations across south-central New Mexico in later literature, with no contemporaneous physical evidence.",
   "first_reported": "1947-07-08",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Named for Roswell Army Air Field, the army installation whose press release made the case famous, located south of Roswell, Chaves County, New Mexico. The actual debris field is on the Foster ranch near Corona, roughly 75 miles north-west of the city.",
+    "meaning": "Place-name; Roswell, New Mexico, is named for early settler Roswell Smith.",
+    "first_use": "1947 (Roswell Daily Record headline, 8 July 1947)"
+  },
+  "sightings_stats": {
+    "total_documented": 1,
+    "verified": 1,
+    "disputed": 0,
+    "debunked": 0,
+    "date_range": {
+      "earliest": "1947-07",
+      "latest": "1947-07"
+    }
+  },
+  "timeline": [
+    {
+      "date": "1947-06-04",
+      "event": "NYU / Project Mogul Flight 4 launched from Alamogordo Army Air Field",
+      "significance": "Likely physical source of the recovered debris",
+      "source": "USAF (1997), The Roswell Report: Case Closed"
+    },
+    {
+      "date": "1947-06-24",
+      "event": "Kenneth Arnold reports nine crescent-shaped objects near Mount Rainier; press coins 'flying saucer'",
+      "significance": "Sets the cultural context for the Roswell press response",
+      "source": "Associated Press wire stories (1947-06-25)"
+    },
+    {
+      "date": "1947-07-08",
+      "event": "RAAF public information officer 1st Lt. Walter Haut issues a press release stating that the field has recovered a 'flying disc'; the Roswell Daily Record runs the headline 'RAAF Captures Flying Saucer On Ranch in Roswell Region'",
+      "significance": "Origin of the case in the public record",
+      "source": "Roswell Daily Record (1947-07-08); RAAF press release"
+    },
+    {
+      "date": "1947-07-09",
+      "event": "Brigadier General Roger Ramey, commander of the Eighth Air Force, holds a press conference identifying the debris as a weather balloon and Rawin radar target",
+      "significance": "Effective end of the original 1947 story",
+      "source": "Fort Worth Star-Telegram (1947-07-09); Ramey office photographs"
+    },
+    {
+      "date": "1978",
+      "event": "Ufologist Stanton Friedman interviews retired Major Jesse Marcel about the 1947 recovery",
+      "significance": "Catalyses the modern revival of the case",
+      "source": "Friedman, S. T., Crash at Corona (1992)"
+    },
+    {
+      "date": "1980",
+      "event": "Charles Berlitz and William Moore publish The Roswell Incident",
+      "significance": "First book-length popular argument that the debris was an alien craft and that the recovery was covered up",
+      "source": "Berlitz, C. & Moore, W. L. (1980), The Roswell Incident"
+    },
+    {
+      "date": "1984-12",
+      "event": "The 'Majestic-12' documents are mailed to Jaime Shandera; later judged a hoax by FBI and academic analysts",
+      "significance": "Conspiracy-document offshoot of the Roswell narrative",
+      "source": "Federal Bureau of Investigation files; Klass, P. J. (1990), The MJ-12 Crashed-Saucer Documents"
+    },
+    {
+      "date": "1991",
+      "event": "Kevin Randle and Donald Schmitt publish UFO Crash at Roswell",
+      "significance": "Major second-generation Roswell book; Randle later changed positions on details",
+      "source": "Randle, K. D. & Schmitt, D. R. (1991), UFO Crash at Roswell"
+    },
+    {
+      "date": "1994-09-08",
+      "event": "US General Accounting Office releases its report on Roswell records, completing a request by Congressman Steven Schiff",
+      "significance": "Triggers the US Air Force's first comprehensive Roswell investigation",
+      "source": "GAO/NSIAD-95-187 (1995)"
+    },
+    {
+      "date": "1994",
+      "event": "USAF publishes The Roswell Report: Fact vs. Fiction in the New Mexico Desert, identifying the debris as Project Mogul Flight 4",
+      "significance": "Official US government identification of the debris",
+      "source": "United States Air Force (1995), The Roswell Report: Fact vs. Fiction in the New Mexico Desert"
+    },
+    {
+      "date": "1995-08",
+      "event": "Ray Santilli releases 'alien autopsy' footage in London",
+      "significance": "Major Roswell-adjacent hoax; Santilli admitted in 2006 it was a reconstruction",
+      "source": "Santilli (2006) statement; The Real Roswell Alien Autopsy (2006 documentary)"
+    },
+    {
+      "date": "1997",
+      "event": "USAF publishes The Roswell Report: Case Closed, identifying secondary 'alien body' accounts as conflations with high-altitude parachute-test dummies dropped 1953–1959",
+      "significance": "Official US government explanation of the body-recovery accounts",
+      "source": "United States Air Force (1997), The Roswell Report: Case Closed"
+    }
+  ],
+  "related": [
+    {
+      "id": "kecksburg-incident",
+      "name": "Kecksburg UFO Incident",
+      "relationship": "similar",
+      "description": "1965 alleged crash retrieval in Pennsylvania"
+    },
+    {
+      "id": "rendlesham-forest",
+      "name": "Rendlesham Forest Incident",
+      "relationship": "similar",
+      "description": "1980 UK military UFO encounter"
+    },
+    {
+      "id": "majestic-12",
+      "name": "Majestic-12",
+      "relationship": "related",
+      "description": "Hoaxed documents purporting to detail a US committee on Roswell crash retrieval"
+    },
+    {
+      "id": "kenneth-arnold-sighting",
+      "name": "Kenneth Arnold sighting",
+      "relationship": "related",
+      "description": "1947 Mount Rainier sighting that originated the term 'flying saucer' two weeks before Roswell"
+    }
+  ],
+  "cultural_notes": "Roswell is the foundational case of post-1947 American UFO conspiracy belief and continues to anchor much of the genre.",
+  "sources": [
+    {
+      "id": "berlitz-moore-1980",
+      "type": "book",
+      "title": "The Roswell Incident",
+      "authors": [
+        "Charles Berlitz",
+        "William L. Moore"
+      ],
+      "publication": "Grosset & Dunlap",
+      "date": "1980",
+      "isbn": "978-0448211992"
+    },
+    {
+      "id": "friedman-berliner-1992",
+      "type": "book",
+      "title": "Crash at Corona: The U.S. Military Retrieval and Cover-Up of a UFO",
+      "authors": [
+        "Stanton T. Friedman",
+        "Don Berliner"
+      ],
+      "publication": "Paragon House",
+      "date": "1992",
+      "isbn": "978-1557784490"
+    },
+    {
+      "id": "randle-schmitt-1991",
+      "type": "book",
+      "title": "UFO Crash at Roswell",
+      "authors": [
+        "Kevin D. Randle",
+        "Donald R. Schmitt"
+      ],
+      "publication": "Avon Books",
+      "date": "1991",
+      "isbn": "978-0380761968"
+    },
+    {
+      "id": "pflock-2001",
+      "type": "book",
+      "title": "Roswell: Inconvenient Facts and the Will to Believe",
+      "authors": [
+        "Karl T. Pflock"
+      ],
+      "publication": "Prometheus Books",
+      "date": "2001",
+      "isbn": "978-1573928946"
+    },
+    {
+      "id": "usaf-1995",
+      "type": "archive",
+      "title": "The Roswell Report: Fact vs. Fiction in the New Mexico Desert",
+      "authors": [
+        "Richard L. Weaver",
+        "James McAndrew"
+      ],
+      "publication": "United States Air Force / Government Printing Office",
+      "date": "1995"
+    },
+    {
+      "id": "usaf-1997",
+      "type": "archive",
+      "title": "The Roswell Report: Case Closed",
+      "authors": [
+        "James McAndrew"
+      ],
+      "publication": "United States Air Force / Government Printing Office",
+      "date": "1997"
+    },
+    {
+      "id": "gao-1995",
+      "type": "archive",
+      "title": "Government Records: Results of a Search for Records Concerning the 1947 Crash Near Roswell, New Mexico (GAO/NSIAD-95-187)",
+      "authors": [
+        "United States General Accounting Office"
+      ],
+      "publication": "GAO",
+      "date": "1995"
+    },
+    {
+      "id": "wikipedia-roswell",
+      "type": "website",
+      "title": "Roswell incident",
+      "url": "https://en.wikipedia.org/wiki/Roswell_incident",
+      "accessed": "2026-05-07"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Foster ranch debris field",
+      "lat": 33.95,
+      "lng": -105.32
+    },
+    {
+      "name": "Roswell Army Air Field",
+      "lat": 33.3,
+      "lng": -104.53
+    }
+  ]
 }

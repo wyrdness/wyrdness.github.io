@@ -3,6 +3,7 @@
   "name": "Altamaha-ha",
   "category": "cryptid",
   "description": "An aquatic cryptid said to inhabit the lower Altamaha River and Altamaha Sound of coastal Georgia, USA, sometimes called 'Altie'.",
+  "full_description": "Altamaha-ha is an aquatic cryptid associated with the lower Altamaha River, the Altamaha Sound, and the surrounding marshes of McIntosh County, Georgia. The creature has roots in Muscogee (Creek) oral tradition and has been a subject of local folklore in the town of Darien for generations. Modern accounts describe a long-bodied, serpentine animal with a horse- or alligator-like head and flippers, often nicknamed 'Altie'. Like the Loch Ness Monster and Ogopogo, the creature is part of a wider tradition of freshwater / brackish lake-and-river monsters and there is no scientifically accepted evidence of its existence. A 2018 'carcass' photographed on Wolf Island National Wildlife Refuge was later revealed by performance artist Zardulu to be a fabrication built from a stuffed shark and papier-mâché. Skeptical commentators have proposed misidentification of large alligator gar, sturgeon, or manatees as parsimonious explanations for sightings.",
   "aliases": [
     {
       "name": "Altie",
@@ -26,5 +27,83 @@
   "origin": "The lower Altamaha River system in coastal Georgia, USA, including Altamaha Sound and the surrounding salt marsh.",
   "first_reported": "Pre-contact",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "The name comes from the Altamaha River, formed by the confluence of the Oconee and Ocmulgee in southeastern Georgia. The legend has roots in Muscogee (Creek) tradition.",
+    "meaning": "The river name 'Altamaha' itself is of Indigenous origin; '-ha' has been popularly glossed by local users as a creature suffix, but no academic etymology endorses the gloss.",
+    "first_use": "The name 'Altamaha-ha' enters print in late-20th-century Georgia local history and tourist literature."
+  },
+  "sightings_stats": null,
+  "timeline": [
+    {
+      "date": "Pre-contact",
+      "event": "Muscogee (Creek) oral tradition records a large creature in the Altamaha River",
+      "significance": "Cultural baseline of the legend",
+      "source": "Local Muscogee tradition (cited in The Brunswick News)"
+    },
+    {
+      "date": "2018-08-15",
+      "event": "A reported 'Altie carcass' is photographed on Wolf Island National Wildlife Refuge",
+      "significance": "Triggers viral coverage; later attributed to a fabrication",
+      "source": "WTOC / The Brunswick News coverage, 2018"
+    },
+    {
+      "date": "2019",
+      "event": "Performance artist Zardulu publicly takes credit for fabricating the 2018 carcass from a stuffed shark and papier-mâché",
+      "significance": "Confirmed hoax",
+      "source": "Press coverage of Zardulu disclosure"
+    }
+  ],
+  "related": [
+    {
+      "id": "loch-ness-monster",
+      "name": "Loch Ness Monster",
+      "relationship": "similar",
+      "description": "Scottish lake monster with similar serpentine descriptions"
+    },
+    {
+      "id": "ogopogo",
+      "name": "Ogopogo",
+      "relationship": "similar",
+      "description": "Canadian lake monster of Lake Okanagan"
+    },
+    {
+      "id": "champ",
+      "name": "Champ",
+      "relationship": "similar",
+      "description": "Lake Champlain monster"
+    }
+  ],
+  "cultural_notes": "Locally embraced as a benign mascot of the Altamaha River.",
+  "sources": [
+    {
+      "id": "wikipedia-altamaha-ha",
+      "type": "website",
+      "title": "Altamaha-ha",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Altamaha-ha",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "brunswick-news-altie",
+      "type": "news",
+      "title": "Coverage of the 'Altie' tradition and 2018 carcass",
+      "publication": "The Brunswick News",
+      "date": "2018"
+    },
+    {
+      "id": "wtoc-2018",
+      "type": "news",
+      "title": "Wolf Island carcass coverage",
+      "publication": "WTOC",
+      "date": "2018"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Darien, Georgia",
+      "lat": 31.3697,
+      "lng": -81.4334
+    }
+  ]
 }

@@ -3,6 +3,7 @@
   "name": "Eilean Mòr Lighthouse Mystery",
   "category": "location",
   "description": "The 1900 disappearance of three lighthouse keepers from the Flannan Isles Lighthouse on Eilean Mòr in the Outer Hebrides, Scotland — most plausibly attributable to a rogue wave during a severe storm.",
+  "full_description": "The Eilean Mòr (Flannan Isles) Lighthouse Mystery refers to the disappearance of three lighthouse keepers — James Ducat, Thomas Marshall, and Donald McArthur — from Eilean Mòr in the Flannan Isles, off the coast of Lewis in the Outer Hebrides of Scotland, in mid-December 1900. The lighthouse, designed by David Alan Stevenson and only commissioned a year earlier (first lit 7 December 1899), had been operating normally until the steamer SS Archtor noted that no light was showing on the night of 15 December 1900. The relief vessel NLB Hesperus reached the island on 26 December 1900 after weather delays; relief keeper Joseph Moore found the station empty, the lamp prepared but not lit, the entrance gate and door closed, and a meal not (as later legend held) overturned. Northern Lighthouse Board superintendent Robert Muirhead's official report, dated 8 January 1901, concluded that 'an extra large sea' had likely swept the keepers from the west landing while they attempted to secure equipment during a severe storm. The case was popularised internationally by Wilfrid Wilson Gibson's 1912 poem 'Flannan Isle', which introduced sensational embellishments (uneaten meal, overturned chair) that have persisted in popular retelling. The lighthouse was automated in 1971.",
   "aliases": [
     {
       "name": "Flannan Isles Lighthouse Mystery",
@@ -35,5 +36,145 @@
   "origin": "Single location: Eilean Mòr (the largest of the Flannan Isles), about 32 km west of the Isle of Lewis in the Outer Hebrides of Scotland.",
   "first_reported": "1900-12-15",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "'Eilean Mòr' is Scottish Gaelic for 'big island' — the largest of the seven Flannan Isles, on which the lighthouse stands. The Flannan Isles take their name from the 7th-century Irish saint Flannan.",
+    "meaning": "Eilean Mòr = 'big island'; Flannan Isles = 'isles of Saint Flannan'.",
+    "first_use": "Gaelic name attested in Scottish toponymy long before the lighthouse era; English-language usage standardised in 19th-century Admiralty charts."
+  },
+  "sightings_stats": {
+    "total_documented": 1,
+    "verified": 0,
+    "disputed": 1,
+    "debunked": 0,
+    "date_range": {
+      "earliest": "1900-12-15",
+      "latest": "1900-12-26"
+    }
+  },
+  "timeline": [
+    {
+      "date": "1899-12-07",
+      "event": "Flannan Isles Lighthouse first lit",
+      "significance": "Beginning of operations on Eilean Mòr",
+      "source": "Northern Lighthouse Board records"
+    },
+    {
+      "date": "1900-12-07",
+      "event": "Last logbook entry by the keepers",
+      "significance": "Final routine record before the disappearance",
+      "source": "Lighthouse logbook (Northern Lighthouse Board)"
+    },
+    {
+      "date": "1900-12-15",
+      "event": "SS Archtor passes at night and notes the light is not showing",
+      "significance": "First indication of an irregularity",
+      "source": "Northern Lighthouse Board incident file"
+    },
+    {
+      "date": "1900-12-26",
+      "event": "NLB tender Hesperus reaches Eilean Mòr after weather delays; relief keeper Joseph Moore discovers the station empty",
+      "significance": "Discovery of the disappearance",
+      "source": "Joseph Moore's statement; Hesperus log"
+    },
+    {
+      "date": "1900-12-29",
+      "event": "Northern Lighthouse Board superintendent Robert Muirhead arrives to investigate",
+      "significance": "Beginning of the official inquiry",
+      "source": "NLB report by Muirhead"
+    },
+    {
+      "date": "1901-01-08",
+      "event": "Muirhead submits his official report concluding the keepers were swept away by a rogue wave at the west landing while securing equipment",
+      "significance": "Official explanation",
+      "source": "Muirhead, R. (1901), Northern Lighthouse Board"
+    },
+    {
+      "date": "1912-01-01",
+      "event": "Wilfrid Wilson Gibson publishes 'Flannan Isle'",
+      "significance": "Establishes the popular embellished version (uneaten meal, overturned chair)",
+      "source": "Gibson, W. W. (1912)"
+    },
+    {
+      "date": "1971-09-28",
+      "event": "Flannan Isles Lighthouse automated",
+      "significance": "End of human keeper presence on the island",
+      "source": "Northern Lighthouse Board"
+    }
+  ],
+  "related": [
+    {
+      "id": "mary-celeste",
+      "name": "Mary Celeste",
+      "relationship": "similar",
+      "description": "Iconic 19th-century unexplained ship abandonment"
+    },
+    {
+      "id": "bermuda-triangle",
+      "name": "Bermuda Triangle",
+      "relationship": "related",
+      "description": "Generalised maritime-disappearance lore"
+    },
+    {
+      "id": "phantom-ships",
+      "name": "Phantom Ships",
+      "relationship": "related",
+      "description": "Maritime mystery folklore"
+    }
+  ],
+  "cultural_notes": "Local Hebridean tradition treats the Flannan Isles as a place of taboo; the lighthouse mystery sits within this older substratum, though the events themselves are documented historical fact.",
+  "sources": [
+    {
+      "id": "muirhead-1901",
+      "type": "archive",
+      "title": "Report on the Flannan Isles Lighthouse keepers' disappearance",
+      "authors": [
+        "Robert Muirhead"
+      ],
+      "publication": "Northern Lighthouse Board",
+      "date": "1901-01-08"
+    },
+    {
+      "id": "gibson-1912",
+      "type": "book",
+      "title": "Flannan Isle (in 'Fires')",
+      "authors": [
+        "Wilfrid Wilson Gibson"
+      ],
+      "publication": "Elkin Mathews, London",
+      "date": "1912"
+    },
+    {
+      "id": "dash-smithsonian",
+      "type": "article",
+      "title": "The Vanishing of the Flannan Lighthouse Keepers",
+      "authors": [
+        "Mike Dash"
+      ],
+      "publication": "Smithsonian Magazine",
+      "date": "2017",
+      "url": "https://www.smithsonianmag.com"
+    },
+    {
+      "id": "nlb-flannan",
+      "type": "website",
+      "title": "Flannan Isles Lighthouse — Northern Lighthouse Board",
+      "url": "https://www.nlb.org.uk/lighthouses/flannan-isles",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "wikipedia-flannan",
+      "type": "website",
+      "title": "Flannan Isles Lighthouse",
+      "url": "https://en.wikipedia.org/wiki/Flannan_Isles_Lighthouse",
+      "accessed": "2026-05-07"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Flannan Isles Lighthouse, Eilean Mòr",
+      "lat": 58.2881,
+      "lng": -7.5881
+    }
+  ]
 }

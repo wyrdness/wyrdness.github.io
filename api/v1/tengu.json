@@ -3,6 +3,7 @@
   "name": "Tengu",
   "category": "entity_spirit",
   "description": "Japanese mountain spirits, classed as both yōkai and kami, ranging from lesser bird-like kotengu to high-ranking long-nosed daitengu, originally portrayed as Buddhist demons but later re-imagined as protective mountain guardians and martial-arts mentors.",
+  "full_description": "Tengu (天狗, literally 'heavenly dog') are legendary creatures of Japanese folklore, classified as both a kind of yōkai (supernatural beings) and as a kind of kami (Shinto deity). They inhabit deep forests and mountains, especially in central and northern Honshu. Two main types are distinguished: kotengu, lesser, more bird-like figures often called karasu-tengu ('crow tengu') or konoha-tengu ('leaf tengu'); and daitengu, the high-ranking, more humanoid 'great tengu' (also yamabushi-tengu, in mountain-ascetic dress) characterized by very long, prominent noses (hanatakatengu). Earlier Japanese sources, especially the late Heian and Kamakura-era Buddhist texts (Konjaku Monogatari, Genpei Jōsuiki), depict tengu as disruptive demons who possess people, abduct monks, and foretell war. From the 14th century onward — exemplified by the legend in which the Daitengu Sōjōbō of Mount Kurama trains Minamoto no Yoshitsune in swordsmanship — they are increasingly re-cast as protective mountain spirits and martial-arts masters. Major named daitengu include Sōjōbō of Mount Kurama, Tarōbō of Mount Atago, and Jirōbō of the Hira Mountains; the 18th-century 'Tengu Meigikō' by Hayashi Razan / Inoue Enryō tradition lists their hierarchy. Tengu are widely venerated at mountain shrines, appear in Noh and kabuki, and remain a strong presence in modern manga, anime, and video games.",
   "aliases": [
     {
       "name": "天狗",
@@ -55,5 +56,122 @@
   "origin": "Tengu are exclusively associated with Japan and concentrated in the country's mountainous interior, especially central Honshu.",
   "first_reported": "0720-01-01",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Japanese 天 ('heaven, sky') + 狗 ('dog'), borrowed from Chinese tiāngǒu (天狗), originally a celestial dog associated with meteoric phenomena.",
+    "meaning": "Literally 'heavenly dog'; the Japanese figure diverged early from the Chinese original to become a bird-like / humanoid mountain being.",
+    "first_use": "Earliest recorded Japanese mention in the Nihon Shoki (720 CE)."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "0720-01-01",
+      "event": "Nihon Shoki records the first mention of a 'tengu' in Japanese sources, identifying a meteoric or aerial phenomenon",
+      "significance": "Earliest written use of the term in Japan",
+      "source": "Nihon Shoki (720)"
+    },
+    {
+      "date": "1120-01-01",
+      "event": "Konjaku Monogatari-shū (late Heian) presents tengu as Buddhist demons who possess priests and abduct monks",
+      "significance": "Foundational 'demon-tengu' phase",
+      "source": "Konjaku Monogatari"
+    },
+    {
+      "date": "1300-01-01",
+      "event": "Genpei Jōsuiki and other late-Kamakura/Nanboku-chō works describe a hierarchical tengu society with named daitengu",
+      "significance": "Codification of the daitengu tradition",
+      "source": "Genpei Jōsuiki"
+    },
+    {
+      "date": "1400-01-01",
+      "event": "Tengu of Mount Kurama (Sōjōbō) is firmly established in the Yoshitsune legend cycle as a martial mentor",
+      "significance": "Anchors the 'protective tengu' phase",
+      "source": "Yoshitsune-related Noh and otogizōshi"
+    },
+    {
+      "date": "1754-01-01",
+      "event": "Hayashi Razan / Inoue Enryō traditions and the 'Tengu Meigikō' rank major daitengu by mountain",
+      "significance": "Codifies the named-daitengu hierarchy still cited today",
+      "source": "Tengu Meigikō (18th c.)"
+    }
+  ],
+  "related": [
+    {
+      "id": "tiangou",
+      "name": "Tiāngǒu (天狗)",
+      "relationship": "counterpart",
+      "description": "Chinese celestial-dog source of the Japanese name"
+    },
+    {
+      "id": "yamabushi",
+      "name": "Yamabushi",
+      "relationship": "related",
+      "description": "Real-world Japanese mountain ascetics whose dress was adopted in tengu iconography"
+    },
+    {
+      "id": "yokai",
+      "name": "Yōkai",
+      "relationship": "superset",
+      "description": "Wider category of Japanese supernatural beings to which tengu belong"
+    },
+    {
+      "id": "kami",
+      "name": "Kami",
+      "relationship": "superset",
+      "description": "Shinto deities; daitengu are sometimes worshipped as kami"
+    }
+  ],
+  "cultural_notes": "Tengu are venerated at numerous mountain shrines and temples; major festivals such as the Kurama Fire Festival and the Hi-watari at Mount Takao acknowledge tengu as guardians of the mountain.",
+  "sources": [
+    {
+      "id": "wikipedia-tengu",
+      "type": "website",
+      "title": "Tengu",
+      "publication": "English Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Tengu",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "de-visser-1908",
+      "type": "paper",
+      "title": "The Tengu",
+      "authors": [
+        "Marinus Willem de Visser"
+      ],
+      "publication": "Transactions of the Asiatic Society of Japan, vol. 36",
+      "date": "1908"
+    },
+    {
+      "id": "komatsu-1994",
+      "type": "book",
+      "title": "Yōkai bunka nyūmon",
+      "authors": [
+        "Komatsu Kazuhiko"
+      ],
+      "publication": "Serika Shobo",
+      "date": "1994"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Mount Kurama (Kibune-Kurama, Kyoto)",
+      "lat": 35.1167,
+      "lng": 135.77
+    },
+    {
+      "name": "Mount Atago (Kyoto)",
+      "lat": 35.0586,
+      "lng": 135.6356
+    },
+    {
+      "name": "Mount Takao (Tokyo)",
+      "lat": 35.6267,
+      "lng": 139.2436
+    }
+  ]
 }

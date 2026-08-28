@@ -3,6 +3,7 @@
   "name": "Tunguska Event",
   "category": "anomaly",
   "description": "A large atmospheric explosion over the Podkamennaya Tunguska River, Siberia, on 30 June 1908 — the largest impact event in recorded history, now widely attributed to the airburst of a small asteroid 5–10 km above the surface.",
+  "full_description": "The Tunguska event was an enormous explosion that occurred on the morning of 30 June 1908 near the Podkamennaya Tunguska River in the Yeniseysk Governorate (now Krasnoyarsk Krai), Russia. The blast flattened an estimated 2,150 km² of taiga forest — roughly 80 million trees — but produced no clearly identified impact crater. Modern scientific consensus attributes the event to the airburst of a stony asteroid roughly 50–60 m in diameter that exploded at an altitude of 5–10 km, releasing energy estimated at 3–50 megatons of TNT (consensus near 10–30 Mt). Because the explosion happened in an extremely remote and sparsely populated region, no confirmed deaths were ever attributed to the blast, though local Evenki residents and a small number of trans-Siberian rail observers reported the fireball. The first significant scientific expedition was led by Leonid Kulik for the Soviet Academy of Sciences in 1921 and again in 1927, when he reached ground zero and documented the radial pattern of flattened trees. The event has since become a touchstone for impact science and was honored in 2016 when the United Nations designated 30 June as International Asteroid Day, anchored to the date of the Tunguska blast.",
   "aliases": [
     {
       "name": "Tunguska explosion",
@@ -38,5 +39,161 @@
   "origin": "Localized event with effects concentrated in central Siberia, but atmospheric and luminous effects observed across Eurasia.",
   "first_reported": "1908-06-30",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Named for the Podkamennaya Tunguska (Stony Tunguska) River, the nearest geographic feature to ground zero. 'Tunguska' derives from the historical Russian exonym 'Tungus' for the Evenki people who inhabit the region.",
+    "meaning": "'Stony Tunguska' — referring to the river basin in which the explosion occurred",
+    "first_use": "Russian-language scientific literature beginning in the 1920s with Kulik's expeditions; widely used in English from the mid-20th century"
+  },
+  "sightings_stats": {
+    "total_documented": 1,
+    "verified": 1,
+    "disputed": 0,
+    "debunked": 0,
+    "date_range": {
+      "earliest": "1908-06-30",
+      "latest": "1908-06-30"
+    }
+  },
+  "timeline": [
+    {
+      "date": "1908-06-30",
+      "event": "At approximately 07:17 local time, an enormous explosion occurs above the Podkamennaya Tunguska River basin; trees are flattened over ~2,150 km² and bright nights are observed across Europe and Asia",
+      "significance": "The event itself; largest recorded atmospheric impact event",
+      "source": "Contemporary newspaper coverage; later Soviet expedition reports"
+    },
+    {
+      "date": "1921",
+      "event": "Mineralogist Leonid Kulik leads the first Soviet Academy of Sciences reconnaissance toward the impact area",
+      "significance": "Beginning of formal scientific investigation",
+      "source": "Soviet Academy of Sciences records"
+    },
+    {
+      "date": "1927",
+      "event": "Kulik reaches ground zero and documents standing scorched trees and the radial flattened-forest pattern",
+      "significance": "First scientific eyewitness account of the impact site, 19 years post-event",
+      "source": "Kulik expedition reports"
+    },
+    {
+      "date": "1930",
+      "event": "British astronomer F. J. W. Whipple proposes a small comet as the impactor",
+      "significance": "First widely cited cometary hypothesis",
+      "source": "Whipple, F. J. W. (1930), Quarterly Journal of the Royal Meteorological Society"
+    },
+    {
+      "date": "1958",
+      "event": "Kirill Florensky leads renewed Soviet expeditions, recovering silicate and magnetite microspherules consistent with extraterrestrial material",
+      "significance": "Material evidence for an extraterrestrial impactor",
+      "source": "Soviet Academy of Sciences expedition reports"
+    },
+    {
+      "date": "2007",
+      "event": "Italian team led by Luca Gasperini publishes the Lake Cheko impact-crater hypothesis",
+      "significance": "Reignites debate over whether a fragment reached the surface",
+      "source": "Gasperini, L. et al., Terra Nova (2007)"
+    },
+    {
+      "date": "2013-02-15",
+      "event": "Chelyabinsk meteor airburst over Russia provides instrumented modern comparison case",
+      "significance": "Validates airburst physics central to modern Tunguska reconstructions",
+      "source": "International scientific reporting"
+    },
+    {
+      "date": "2016",
+      "event": "United Nations designates 30 June as International Asteroid Day in commemoration of the Tunguska event",
+      "significance": "Cultural and policy recognition of impact-hazard science",
+      "source": "United Nations General Assembly resolution"
+    }
+  ],
+  "related": [
+    {
+      "id": "chelyabinsk-meteor",
+      "name": "Chelyabinsk meteor (2013)",
+      "relationship": "similar",
+      "description": "Smaller but well-instrumented airburst over Chelyabinsk Oblast that gave modern researchers a benchmark for Tunguska-class events"
+    },
+    {
+      "id": "barringer-crater",
+      "name": "Barringer (Meteor) Crater",
+      "relationship": "counterpart",
+      "description": "Arizona impact crater illustrating ground impact, contrasting with Tunguska's airburst"
+    },
+    {
+      "id": "lake-cheko",
+      "name": "Lake Cheko",
+      "relationship": "related",
+      "description": "Siberian lake hypothesized by some researchers as an impact crater of a Tunguska fragment; hypothesis disputed"
+    }
+  ],
+  "cultural_notes": "For the Evenki, the affected area was treated for years as a forbidden, spiritually charged place.",
+  "sources": [
+    {
+      "id": "wiki-tunguska-event",
+      "type": "website",
+      "title": "Tunguska event",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Tunguska_event",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "britannica-tunguska",
+      "type": "website",
+      "title": "Tunguska event",
+      "publication": "Encyclopædia Britannica",
+      "url": "https://www.britannica.com/event/Tunguska-event",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "nasa-tunguska-115",
+      "type": "website",
+      "title": "115 Years Ago: The Tunguska Asteroid Impact Event",
+      "publication": "NASA",
+      "url": "https://www.nasa.gov/history/115-years-ago-the-tunguska-asteroid-impact-event/",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "krinov-1966",
+      "type": "book",
+      "title": "Giant Meteorites",
+      "authors": [
+        "Evgeny L. Krinov"
+      ],
+      "publication": "Pergamon Press",
+      "date": "1966"
+    },
+    {
+      "id": "verma-2005",
+      "type": "book",
+      "title": "The Tunguska Fireball: Solving One of the Great Mysteries of the 20th Century",
+      "authors": [
+        "Surendra Verma"
+      ],
+      "publication": "Icon Books",
+      "date": "2005"
+    },
+    {
+      "id": "gasperini-2007",
+      "type": "paper",
+      "title": "A possible impact crater for the 1908 Tunguska Event",
+      "authors": [
+        "Luca Gasperini",
+        "Filippo Alvisi",
+        "Gilberto Biasini",
+        "Enrico Bonatti",
+        "Giuseppe Longo",
+        "Maurizio Pipan",
+        "Marco Ravaioli",
+        "Romano Serra"
+      ],
+      "publication": "Terra Nova",
+      "date": "2007"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Tunguska epicenter",
+      "lat": 60.886,
+      "lng": 101.894
+    }
+  ]
 }

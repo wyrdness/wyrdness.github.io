@@ -3,6 +3,7 @@
   "name": "Phoenix",
   "category": "mythological_creature",
   "description": "A long-lived bird of classical mythology that, at the end of its life, builds a nest, ignites, and is reborn from its own ashes. Frequently identified by ancient writers with the Egyptian Bennu and adopted across Roman, Christian, alchemical, and modern symbolism as an emblem of renewal.",
+  "full_description": "The phoenix (Greek phoinix, φοῖνιξ; Latin phoenīx) is a mythological bird described from at least the archaic period of Greek literature as exceptionally long-lived and self-renewing. The earliest extant clear reference is in Hesiod's 'Precepts of Chiron' (c. 8th century BC), which gives the phoenix's lifespan as roughly 972 times that of a human. The 5th-century BC historian Herodotus describes it as eagle-sized, plumed in red and gold, and visiting the Egyptian temple of the sun at Heliopolis once every 500 years to bury its predecessor. Pliny the Elder, Tacitus, Ovid, and the late-antique poet Lactantius elaborate the bird with details that became canonical: a unique lifespan, brilliant plumage of crimson and gold, a fragrant nest of aromatic woods, self-immolation, and rebirth from the ashes. Greek and Roman authors typically associated the bird with Egypt and identified it with the Bennu — a heron-like Egyptian solar deity linked to Ra, the rising sun, and creation — though modern scholarship suggests the influence may have run in either direction. Christianity adopted the phoenix as a symbol of Christ's resurrection from the late 1st century onward (notably in 1 Clement). The figure has remained a stable symbol of renewal, regeneration, and immortality in heraldry, alchemy, literature, and modern popular culture, and is distinct from — though often translated using the same English word — the Chinese fenghuang, the Persian Huma, and the Arabic 'anqa.",
   "aliases": [
     {
       "name": "φοῖνιξ (phoinix)",
@@ -59,5 +60,160 @@
   "origin": "Mythological — described in classical literature as native to Arabia, Egypt, Ethiopia, or India, depending on the author. The phoenix has no real geographic range.",
   "first_reported": "c. 8th century BC",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "From Latin phoenīx, from Greek φοῖνιξ (phoinix). The Greek word also meant 'date palm' and 'crimson/purple', and may itself derive from a West Semitic root for madder, the source of a red dye.",
+    "meaning": "'Crimson one' or 'purple bird'; in classical authors, the immortal solar bird.",
+    "first_use": "Greek phoinix appears in Mycenaean Linear B; the bird-meaning is clearly attested in Hesiod's 'Precepts of Chiron' (c. 8th century BC)."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "Pre-1500 BC",
+      "event": "Egyptian Bennu attested in religious texts including the Pyramid Texts and Coffin Texts as a solar bird associated with Ra and Atum",
+      "significance": "Egyptian antecedent that classical authors will identify with the phoenix",
+      "source": "Egyptian funerary literature"
+    },
+    {
+      "date": "c. 800 BC",
+      "event": "Hesiod's 'Precepts of Chiron' cites the phoenix's enormous lifespan",
+      "significance": "Earliest extant Greek reference",
+      "source": "Hesiod, 'Precepts of Chiron'"
+    },
+    {
+      "date": "c. 450 BC",
+      "event": "Herodotus describes the phoenix in 'Histories' II.73 as an eagle-sized red-and-gold bird that visits Heliopolis once every 500 years",
+      "significance": "First detailed surviving description; Egyptian connection fixed",
+      "source": "Herodotus, 'Histories' II.73"
+    },
+    {
+      "date": "c. AD 8",
+      "event": "Ovid's 'Metamorphoses' XV elaborates the phoenix's self-renewal in a fragrant nest of cassia, spikenard, cinnamon, and myrrh",
+      "significance": "Major Roman elaboration",
+      "source": "Ovid, 'Metamorphoses' XV"
+    },
+    {
+      "date": "c. AD 77",
+      "event": "Pliny the Elder's 'Natural History' X.2 describes the phoenix's plumage and lifespan, attributing the report to Manilius",
+      "significance": "Encyclopedic Roman reception",
+      "source": "Pliny, 'Natural History' X.2"
+    },
+    {
+      "date": "c. AD 96",
+      "event": "1 Clement (Christian epistle) cites the phoenix as proof of resurrection",
+      "significance": "Begins the Christian reception of the phoenix as a resurrection symbol",
+      "source": "1 Clement 25"
+    },
+    {
+      "date": "c. AD 300",
+      "event": "Lactantius composes 'De Ave Phoenice', the most extended Latin poem on the phoenix",
+      "significance": "Classic statement of the Christian-resurrection reading",
+      "source": "Lactantius, 'De Ave Phoenice'"
+    }
+  ],
+  "related": [
+    {
+      "id": "bennu",
+      "name": "Bennu",
+      "relationship": "counterpart",
+      "description": "Egyptian solar bird identified by Greco-Roman authors with the phoenix"
+    },
+    {
+      "id": "fenghuang",
+      "name": "Fenghuang",
+      "relationship": "similar",
+      "description": "Chinese mythological bird often called 'Chinese phoenix' in English; not directly cognate"
+    },
+    {
+      "id": "huma",
+      "name": "Huma",
+      "relationship": "similar",
+      "description": "Persian mythological bird associated with kingship and immortality"
+    },
+    {
+      "id": "simurgh",
+      "name": "Simurgh",
+      "relationship": "similar",
+      "description": "Persian giant mythological bird with regenerative associations"
+    },
+    {
+      "id": "anqa",
+      "name": "Anqa",
+      "relationship": "similar",
+      "description": "Arabic mythological bird sometimes equated with the phoenix"
+    },
+    {
+      "id": "thunderbird",
+      "name": "Thunderbird",
+      "relationship": "similar",
+      "description": "North American Indigenous mythological bird with solar / storm associations"
+    }
+  ],
+  "cultural_notes": "A unique, immortal bird that lives, dies, and is reborn cyclically; emblem of renewal.",
+  "sources": [
+    {
+      "id": "wikipedia-phoenix",
+      "type": "website",
+      "title": "Phoenix (mythology)",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Phoenix_(mythology)",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "wikipedia-bennu",
+      "type": "website",
+      "title": "Bennu",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Bennu",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "herodotus-histories",
+      "type": "book",
+      "title": "Histories, Book II (Euterpe), 73",
+      "authors": [
+        "Herodotus"
+      ],
+      "date": "c. 450 BC"
+    },
+    {
+      "id": "ovid-metamorphoses",
+      "type": "book",
+      "title": "Metamorphoses, Book XV",
+      "authors": [
+        "Ovid"
+      ],
+      "date": "c. AD 8"
+    },
+    {
+      "id": "pliny-natural-history",
+      "type": "book",
+      "title": "Natural History, Book X, ch. 2",
+      "authors": [
+        "Pliny the Elder"
+      ],
+      "date": "c. AD 77"
+    },
+    {
+      "id": "lactantius-de-ave-phoenice",
+      "type": "book",
+      "title": "De Ave Phoenice",
+      "authors": [
+        "Lactantius"
+      ],
+      "date": "c. AD 300"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Heliopolis",
+      "lat": 30.1289,
+      "lng": 31.3072
+    }
+  ]
 }

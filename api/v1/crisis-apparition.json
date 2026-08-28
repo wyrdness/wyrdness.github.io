@@ -3,6 +3,7 @@
   "name": "Crisis Apparition",
   "category": "psychic_phenomena",
   "description": "A crisis apparition is an apparition of a living person that appears to friends or family at the moment of — or within approximately 12 hours of — that person's death, serious injury, or extreme distress, despite the person being physically distant from the witness.",
+  "full_description": "A crisis apparition is a specific type of spontaneous apparition in which a person appears to friends, family, or loved ones at the moment of — or shortly before or after — their death, serious injury, or extreme distress, despite being physically distant from the witness. Unlike traditional ghosts that appear long after death at haunted locations, crisis apparitions occur as one-time events, typically within 12 hours of the crisis itself. These phenomena have been extensively documented by psychical researchers since the late 19th century and represent one of the most statistically well-attested categories of spontaneous paranormal experience. The Society for Psychical Research (SPR), founded in 1882, conducted systematic surveys and found that crisis apparitions occurred 440 times more frequently than chance expectation. In 1886, Edmund Gurney, Frederic W.H. Myers, and Frank Podmore published Phantasms of the Living, a 1,300-page two-volume analysis of 702 verified apparition cases collected from 5,700 respondents. The dominant psychical-research theory holds that crisis apparitions are hallucinations caused by telepathic impressions from the distressed person reaching the percipient's mind. Mainstream psychology attributes such reports to coincidence, selective memory, grief, and the human tendency to impose narrative meaning on random events.",
   "aliases": [
     {
       "name": "Veridical apparition",
@@ -37,5 +38,96 @@
   "origin": "Crisis apparitions have been reported globally across all cultures and historical periods. Systematic collection has focused heavily on the British Isles and Europe from the 1880s onward, with cases documented in North America, Australia, and other countries.",
   "first_reported": "Pre-modern",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "English compound term from psychical research literature, late 19th century",
+    "meaning": "'Crisis' (from Greek krisis, decisive point/moment of danger) + 'apparition' (from Latin apparere, to appear). A vision that appears coinciding with a moment of crisis.",
+    "first_use": "Late 19th century; systematized in SPR literature from 1882 onward; formally defined in Phantasms of the Living (1886)"
+  },
+  "sightings_stats": {
+    "total_documented": 702,
+    "verified": 0,
+    "disputed": 702,
+    "debunked": 0,
+    "date_range": {
+      "earliest": "1882",
+      "latest": "2026"
+    }
+  },
+  "timeline": [
+    {
+      "date": "1882-01-01",
+      "event": "Society for Psychical Research (SPR) founded in Cambridge, England, by Henry Sidgwick, Frederic W.H. Myers, Edmund Gurney, and others",
+      "significance": "First organized scientific body to systematically collect and evaluate apparition reports",
+      "source": "SPR official history"
+    },
+    {
+      "date": "1886-01-01",
+      "event": "Phantasms of the Living published by Edmund Gurney, Frederic W.H. Myers, and Frank Podmore, analyzing 702 verified crisis apparition cases",
+      "significance": "Foundational systematic study of crisis apparitions; proposed telepathy as the mechanism",
+      "source": "Gurney, Myers, Podmore (1886), Phantasms of the Living"
+    },
+    {
+      "date": "1894-01-01",
+      "event": "SPR Census of Hallucinations, coordinated by Eleanor Sidgwick, surveys 17,000 people across multiple countries about apparition experiences",
+      "significance": "Large-scale statistical survey confirming frequency of crisis coincidences far above chance",
+      "source": "SPR Proceedings (1894)"
+    }
+  ],
+  "related": [
+    {
+      "id": "ghost",
+      "name": "Ghost",
+      "relationship": "related",
+      "description": "Post-mortem apparitions; crisis apparitions occur at the moment of death rather than afterward"
+    },
+    {
+      "id": "telepathy",
+      "name": "Telepathy",
+      "relationship": "related",
+      "description": "The dominant psychical-research explanation is that crisis apparitions are caused by telepathic transmission of distress"
+    },
+    {
+      "id": "near-death-experience",
+      "name": "Near-Death Experience",
+      "relationship": "related",
+      "description": "Sometimes co-occurs with NDE accounts; both involve altered perception at the boundary of life and death"
+    },
+    {
+      "id": "doppelganger",
+      "name": "Doppelganger",
+      "relationship": "similar",
+      "description": "Double of a living person; in some traditions, seeing one's own doppelganger portends death"
+    }
+  ],
+  "cultural_notes": "Across many cultures, the appearance of a living person's image to a distant friend or family member has been interpreted as evidence of a soul's ability to travel at the moment of death, or of a deep bond between loved ones that transcends physical distance.",
+  "sources": [
+    {
+      "id": "gurney-1886",
+      "type": "book",
+      "title": "Phantasms of the Living",
+      "authors": [
+        "Edmund Gurney",
+        "Frederic W.H. Myers",
+        "Frank Podmore"
+      ],
+      "publication": "Trubner and Co.",
+      "date": "1886"
+    },
+    {
+      "id": "spr-history",
+      "type": "website",
+      "title": "Society for Psychical Research — Our History",
+      "url": "https://www.spr.ac.uk/about/our-history",
+      "accessed": "2026-05-08"
+    },
+    {
+      "id": "monstropedia-crisis",
+      "type": "website",
+      "title": "Crisis Apparitions — Monstropedia",
+      "url": "https://www.monstropedia.org/index.php?title=Crisis_Apparitions",
+      "accessed": "2026-05-08"
+    }
+  ],
+  "locations": []
 }

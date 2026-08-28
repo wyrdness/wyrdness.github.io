@@ -3,6 +3,7 @@
   "name": "Automatic Writing",
   "category": "psychic_phenomena",
   "description": "Automatic writing is the practice of writing without conscious volition, attributed by practitioners to spirit communication, the subconscious mind, or psychic faculties — and explained by scientists through the ideomotor phenomenon of unconscious muscular movement.",
+  "full_description": "Automatic writing — also called psychography or trance writing — is the production of written text without deliberate conscious control of the writing hand. The writer typically enters a relaxed, dissociative, or trance state and allows the hand to move freely across paper, producing words, sentences, or drawings claimed to originate from spirits, higher forces, or the practitioner's own subconscious. The practice has deep roots across multiple cultures. Chinese spirit-writing traditions (fuji or planchette writing) date to the Song dynasty (960–1279 CE). In Western esoteric tradition, 16th-century occultist John Dee and his associate Edward Kelley claimed to receive the Enochian angelic language through a process including automatic writing. In 13th-century Kabbalistic practice, automatic writing was associated with prophetic states. Automatic writing reached its popular peak during the 19th-century Spiritualist movement, when mediums used it to channel messages from the deceased for paying clients. Notable practitioners included W. B. Yeats (who received a body of esoteric material through his wife Georgie Hyde-Lees), Arthur Conan Doyle (a committed Spiritualist), and the Brazilian medium Chico Xavier, who claimed to have produced dozens of books through psychography. The Surrealist movement adapted automatic writing as an artistic technique for accessing subconscious creativity, with André Breton and Robert Desnos prominent among its practitioners. Modern science explains automatic writing through the ideomotor phenomenon: unconscious muscle movements produce the writing without conscious awareness, similar to the mechanism underlying Ouija board movement. Psychologist Théodore Flournoy's 1900 study of the medium Hélène Smith attributed her automatic productions to autosuggestion, autohypnosis, and what he termed 'cryptomnesia' (the unconscious resurfacing of forgotten memories as apparently new information).",
   "aliases": [
     {
       "name": "Psychography",
@@ -44,5 +45,89 @@
   "origin": "Automatic writing has been documented across multiple cultures and continents, with significant traditions in China (fuji/planchette writing), 16th-century European occultism, 19th-century Anglo-American Spiritualism, Brazilian Spiritism (kardecismo), and early 20th-century Surrealism.",
   "first_reported": "960-01-01",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "The term 'automatic writing' derives from 'automatism' — action without conscious volition — which entered psychological and philosophical vocabulary in the 19th century. 'Psychography' (Greek: psyche + graphia) was used in Spiritualist contexts. The Chinese tradition 'fuji' dates at least to the Song dynasty (960–1279 CE).",
+    "meaning": "Writing produced without conscious control; mechanically or automatically.",
+    "first_use": "Fuji (Chinese spirit writing): Song dynasty (circa 960–1279 CE). 'Automatic writing' as English term: mid-19th century in Spiritualist literature."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "1580-01-01",
+      "event": "Occultist John Dee and seer Edward Kelley claim to receive the Enochian angelic language and associated texts through a process including automatic writing and scrying",
+      "significance": "Major early Western example of claimed supernormal writing; produced an elaborate angelic language system still studied by occultists",
+      "source": "Dee, J., personal diaries and 'A True and Faithful Relation' (1659)"
+    },
+    {
+      "date": "1848-01-01",
+      "event": "The modern Spiritualist movement begins in Hydesville, New York, with the Fox sisters; automatic writing rapidly becomes a primary mediumistic technique",
+      "significance": "Launches the era in which automatic writing reached its widest Western practice",
+      "source": "Historical records of the Spiritualist movement"
+    },
+    {
+      "date": "1900-01-01",
+      "event": "Psychologist Théodore Flournoy publishes 'From India to the Planet Mars', a study of medium Hélène Smith, attributing her automatic productions to autosuggestion and 'cryptomnesia' (unconscious memory)",
+      "significance": "Foundational scientific analysis of automatic writing; introduces the concept of cryptomnesia",
+      "source": "Flournoy, T. (1900), From India to the Planet Mars"
+    },
+    {
+      "date": "1917-01-01",
+      "event": "W. B. Yeats and his wife Georgie Hyde-Lees begin automatic writing sessions that produce the material systematized in Yeats's 'A Vision' (1925)",
+      "significance": "Most famous literary case; produced an elaborate occult philosophical system claimed to come from spirit 'Instructors'",
+      "source": "Yeats, W. B. (1925), A Vision"
+    },
+    {
+      "date": "1924-01-01",
+      "event": "André Breton publishes the 'Surrealist Manifesto', defining automatism — including automatic writing — as the central technique of Surrealism",
+      "significance": "Transplants automatic writing from spiritualism to avant-garde art, reframing it as access to the unconscious rather than spirit contact",
+      "source": "Breton, A. (1924), Manifeste du surréalisme"
+    }
+  ],
+  "related": [
+    {
+      "id": "ouija-board",
+      "name": "Ouija Board",
+      "relationship": "related",
+      "description": "Uses the same ideomotor mechanism; a group rather than individual form of spirit communication through involuntary movement"
+    },
+    {
+      "id": "channeling",
+      "name": "Channeling",
+      "relationship": "related",
+      "description": "Broader category of spirit communication that includes automatic writing as one modality"
+    },
+    {
+      "id": "mediumship",
+      "name": "Mediumship",
+      "relationship": "superset",
+      "description": "Automatic writing is a specific technique within the broader practice of spirit mediumship"
+    }
+  ],
+  "cultural_notes": "Within Spiritualism and Spiritism, automatic writing is understood as a genuine channel of spirit communication. Within Surrealism, it is a technique for accessing the unconscious. Within psychology, it is an automatism. These frameworks coexist and sometimes overlap in practice.",
+  "sources": [
+    {
+      "id": "flournoy-1900",
+      "type": "book",
+      "title": "From India to the Planet Mars: A Study of a Case of Somnambulism",
+      "authors": [
+        "Théodore Flournoy"
+      ],
+      "publication": "Harper and Brothers",
+      "date": "1900"
+    },
+    {
+      "id": "wikipedia-automatic-writing",
+      "type": "website",
+      "title": "Automatic writing",
+      "url": "https://en.wikipedia.org/wiki/Automatic_writing",
+      "accessed": "2026-05-08"
+    }
+  ],
+  "locations": []
 }

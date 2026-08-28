@@ -3,6 +3,7 @@
   "name": "Kuchisake-onna",
   "category": "urban_legend",
   "description": "A malevolent female figure of Japanese urban legend who covers her mouth with a surgical mask and asks 'Am I beautiful?' before revealing a mouth slit ear-to-ear. The modern legend caused a documented school-route panic across Japan in 1979.",
+  "full_description": "Kuchisake-onna ('slit-mouthed woman') is a malevolent figure of modern Japanese urban legend, classified by folklorist and manga artist Shigeru Mizuki as a yōkai and described as the onryō (vengeful spirit) of a woman whose mouth was slit from ear to ear. She typically appears at night to lone walkers — most often schoolchildren — wearing a surgical mask, hand fan or handkerchief over her face. She asks 'Watashi, kirei?' ('Am I beautiful?'); on receiving an answer she reveals her mutilated mouth and asks again. Depending on the response and the local variant, she either kills the victim with scissors, knife or other sharp implement, or cuts the victim's mouth to match her own. The legend draws on older Edo-period (17th–19th century) folk traditions, but the modern story crystallised in Gifu Prefecture in late 1978 and spread nationally through 1979 newspaper coverage, producing a school-route panic in which children walked home in adult-escorted groups.",
   "aliases": [
     {
       "name": "Slit-Mouthed Woman",
@@ -34,5 +35,123 @@
   "origin": "Originated in Gifu Prefecture, Japan, in late 1978 and spread nationally through Japan in 1979. Subsequent transmission carried the legend to South Korea and into the worldwide horror-media imaginary.",
   "first_reported": "1978-12",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Japanese 口裂け女 kuchi-sake-onna, literally 'mouth-slit woman'",
+    "meaning": "'Slit-mouthed woman'",
+    "first_use": "Recorded in modern form from late 1978; subsequently catalogued as a yōkai by Shigeru Mizuki."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0,
+    "date_range": {
+      "earliest": "1978",
+      "latest": "2004"
+    }
+  },
+  "timeline": [
+    {
+      "date": "1978-12-01",
+      "event": "Rumour begins circulating in Gifu Prefecture about a slit-mouthed woman appearing on school routes",
+      "significance": "Origin of the modern Kuchisake-onna legend",
+      "source": "Wikipedia: Kuchisake-onna"
+    },
+    {
+      "date": "1979-01-26",
+      "event": "Gifu Nichi Nichi Shinbun publishes an article on the slit-mouthed woman",
+      "significance": "First documented newspaper coverage",
+      "source": "Wikipedia: Kuchisake-onna"
+    },
+    {
+      "date": "1979-03-23",
+      "event": "Weekly magazine Shukan Asahi runs a feature on the legend",
+      "significance": "Nationwide diffusion in mass media",
+      "source": "Wikipedia: Kuchisake-onna"
+    },
+    {
+      "date": "1979-04-05",
+      "event": "Weekly magazine Shukan Shincho runs a Kuchisake-onna feature",
+      "significance": "Continued media amplification at the peak of the panic",
+      "source": "Wikipedia: Kuchisake-onna"
+    },
+    {
+      "date": "1979-06-01",
+      "event": "Peak of the Kuchisake-onna panic; Japanese schools and parents organise escorted walking groups",
+      "significance": "Documented behavioural impact on Japanese society",
+      "source": "Wikipedia: Kuchisake-onna"
+    },
+    {
+      "date": "2004-01-01",
+      "event": "Reported revival of the legend in South Korea",
+      "significance": "Cross-border transmission of the modern legend",
+      "source": "Wikipedia: Kuchisake-onna"
+    },
+    {
+      "date": "2007-01-01",
+      "event": "Release of Japanese horror film 'Carved: The Slit-Mouthed Woman' (Kuchisake-onna), directed by Kōji Shiraishi",
+      "significance": "First major theatrical Kuchisake-onna film since the panic era",
+      "source": "Wikipedia: Kuchisake-onna"
+    }
+  ],
+  "related": [
+    {
+      "id": "teke-teke",
+      "name": "Teke Teke",
+      "relationship": "similar",
+      "description": "Japanese urban-legend onryō without a lower body"
+    },
+    {
+      "id": "ouni",
+      "name": "Ouni",
+      "relationship": "similar",
+      "description": "Japanese yōkai with a face torn from mouth to ear"
+    },
+    {
+      "id": "hanako-san",
+      "name": "Hanako-san",
+      "relationship": "related",
+      "description": "Japanese school-toilet ghost urban legend"
+    },
+    {
+      "id": "onryo",
+      "name": "Onryō",
+      "relationship": "superset",
+      "description": "Generic class of vengeful Japanese spirits"
+    }
+  ],
+  "cultural_notes": "Treated as a cautionary urban legend rather than a religious belief; remains a stock figure of Japanese horror and a common reference in schoolyard storytelling.",
+  "sources": [
+    {
+      "id": "wikipedia-kuchisake-onna",
+      "type": "website",
+      "title": "Kuchisake-onna",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Kuchisake-onna",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "gifu-nichi-nichi-1979",
+      "type": "news",
+      "title": "Article on the Kuchisake-onna rumour",
+      "publication": "Gifu Nichi Nichi Shinbun",
+      "date": "1979-01-26"
+    },
+    {
+      "id": "shukan-asahi-1979",
+      "type": "news",
+      "title": "Feature on the slit-mouthed woman rumour",
+      "publication": "Shukan Asahi",
+      "date": "1979-03-23"
+    },
+    {
+      "id": "shukan-shincho-1979",
+      "type": "news",
+      "title": "Feature on the slit-mouthed woman rumour",
+      "publication": "Shukan Shincho",
+      "date": "1979-04-05"
+    }
+  ],
+  "locations": []
 }

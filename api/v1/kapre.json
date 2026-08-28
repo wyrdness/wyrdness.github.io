@@ -3,6 +3,7 @@
   "name": "Kapre",
   "category": "entity_spirit",
   "description": "The Kapre is a giant, dark-skinned, tobacco-smoking tree-dwelling spirit of Philippine folklore, traditionally associated with large balete, acacia, and mango trees. Generally non-hostile but mischievous and territorial, the kapre is regarded as a guardian of its tree.",
+  "full_description": "The Kapre is a class of tall, dark-skinned, hairy male giant of Philippine folklore, generally said to be 7–9 feet (2–3 m) tall, often shown wearing a bahag (loincloth), and almost always smoking a large cigar or pipe whose tobacco glow is one of the principal field-signs witnesses use to identify a kapre's presence. The kapre lives in large, old trees — most famously balete (Ficus species), acacia, mango, and bamboo — and is regarded as a guardian or 'owner' of that tree; cutting down a kapre's tree without first asking permission is said to bring misfortune. Kapres are usually mischievous rather than dangerous: they confuse travelers, cause people to lose their way in familiar surroundings, rustle branches when there is no wind, or (in some accounts) fall in love with a human and stalk them benignly. The word 'kapre' is a Spanish-period loan from cafre, ultimately from the Arabic kāfir ('infidel', 'non-believer'), a pejorative used by colonial Spaniards for dark-skinned peoples of the East Indies and Africa; the earliest attestation in the Philippine context is in Antonio Pigafetta's chronicle of the Magellan circumnavigation (chapri, recorded 1521). Modern folklorists generally read the kapre as a colonial-era racialization of indigenous forest-dwelling peoples (the Aeta / Agta, Mamanwa, and other Negrito groups) refracted into a forest-giant figure, layered onto deeper indigenous traditions of forest engkanto and tree-spirit guardians. The kapre remains a vivid figure in modern Filipino popular culture, present in komiks, films, the Trese graphic-novel and Netflix series (2021), and as a ubiquitous Halloween / town-fiesta character.",
   "aliases": [
     {
       "name": "Kapre",
@@ -39,5 +40,127 @@
   "origin": "Found throughout the Philippine archipelago, especially in lowland forests, rural barangays, and old agricultural land where balete and other large trees survive.",
   "first_reported": "1521",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Spanish cafre, from Arabic kāfir ('infidel'); applied during the colonial period in the Philippines and East Indies as a racial pejorative for dark-skinned peoples",
+    "meaning": "Literally 'infidel / unbeliever'; in folkloric usage, redirected to denote a tall, dark-skinned tree-dwelling giant",
+    "first_use": "Earliest Philippine-context attestation is 'chapri' in Antonio Pigafetta's account of the Magellan voyage (1521); 'kapre' as folkloric figure is documented from the Spanish colonial period onward"
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "1521-03-17",
+      "event": "Antonio Pigafetta records the term 'chapri' in his account of the Magellan expedition's landing at Suluan / Homonhon, applied to dark-skinned, tattooed indigenous peoples",
+      "significance": "Earliest Spanish-context attestation of the lexeme that becomes 'kapre'",
+      "source": "Pigafetta, A. — Primo viaggio intorno al mondo (c. 1525)"
+    },
+    {
+      "date": "1898",
+      "event": "End of Spanish colonial rule in the Philippines; the kapre figure has by this time become a fixture of lowland Christian Filipino folklore",
+      "significance": "Transition point: folkloric figure inherited into modern Filipino tradition",
+      "source": "Standard Philippine historiography"
+    },
+    {
+      "date": "2014",
+      "event": "Beginning of the Trese komiks anthology (Budjette Tan and Kajo Baldisimo), which features kapre and other Philippine yokai-class figures prominently",
+      "significance": "Major modern pop-culture vehicle for the kapre",
+      "source": "Tan, B. & Baldisimo, K. — Trese (komiks)"
+    },
+    {
+      "date": "2021-06-11",
+      "event": "Netflix premieres the animated series 'Trese', adapted from the komiks; features kapre prominently",
+      "significance": "Global popular-culture exposure for the kapre",
+      "source": "Netflix / Base Entertainment"
+    }
+  ],
+  "related": [
+    {
+      "id": "tikbalang",
+      "name": "Tikbalang",
+      "relationship": "related",
+      "description": "Tall horse-headed Philippine forest spirit; often grouped with the kapre in regional folklore"
+    },
+    {
+      "id": "duwende",
+      "name": "Duwende",
+      "relationship": "related",
+      "description": "Philippine earth-dwarves / dwarves; share the engkanto-spirit category"
+    },
+    {
+      "id": "engkanto",
+      "name": "Engkanto",
+      "relationship": "superset",
+      "description": "Broad Philippine category of nature-spirit / enchanted being to which the kapre belongs"
+    },
+    {
+      "id": "agta",
+      "name": "Agta (folkloric giant)",
+      "relationship": "regional_variant",
+      "description": "Bikol / Visayan dark-skinned forest giant, sometimes synonymous with the kapre"
+    },
+    {
+      "id": "kapre-ng-bulwagan",
+      "name": "Cyclops / oni",
+      "relationship": "similar",
+      "description": "Comparable forest-giant motifs in other cultures (the Greek cyclops, the Japanese oni)"
+    }
+  ],
+  "cultural_notes": "Belief in kapres remains common in rural Philippines as a living folk tradition of respecting trees and forest places; in urban contexts the kapre is largely treated as folkloric heritage.",
+  "sources": [
+    {
+      "id": "wikipedia-kapre",
+      "type": "website",
+      "title": "Kapre",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Kapre",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "ramos-1971-creatures",
+      "type": "book",
+      "title": "Creatures of Philippine Lower Mythology",
+      "authors": [
+        "Maximo D. Ramos"
+      ],
+      "publication": "University of the Philippines Press",
+      "date": "1971"
+    },
+    {
+      "id": "ramos-1971-aswang",
+      "type": "book",
+      "title": "The Aswang Complex in Philippine Folklore",
+      "authors": [
+        "Maximo D. Ramos"
+      ],
+      "publication": "Philippine Folklore Society",
+      "date": "1971"
+    },
+    {
+      "id": "menez-1996",
+      "type": "book",
+      "title": "Explorations in Philippine Folklore",
+      "authors": [
+        "Herminia Meñez"
+      ],
+      "publication": "Ateneo de Manila University Press",
+      "date": "1996"
+    },
+    {
+      "id": "trese-komiks",
+      "type": "book",
+      "title": "Trese",
+      "authors": [
+        "Budjette Tan",
+        "Kajo Baldisimo"
+      ],
+      "publication": "Visprint",
+      "date": "2005–present"
+    }
+  ],
+  "locations": []
 }

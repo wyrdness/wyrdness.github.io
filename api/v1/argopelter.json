@@ -3,6 +3,7 @@
   "name": "Argopelter",
   "category": "cryptid",
   "description": "A fearsome critter of North American lumberjack folklore — a slender, ape-like beast said to dwell in hollow trees of the conifer woods and to hurl branches and wood splinters at passing humans.",
+  "full_description": "The Argopelter (also spelled Agropelter) is one of the so-called 'fearsome critters' of early-20th-century North American lumber-camp folklore. Documented most prominently in William T. Cox's Fearsome Creatures of the Lumberwoods (1910), the Argopelter was said to inhabit hollow trees in the coniferous forests stretching from Maine through the Great Lakes region and across to Oregon. The creature was described by Cox as having a slender, wiry body, the face of an ape, and arms 'like muscular whiplashes' which it used to snap off dead branches and hurl them with great force at intruders. Like other fearsome critters, the Argopelter served as a humorous folk explanation for hazards of the working forest — falling branches, mysterious injuries, and odd noises in the woods — and was often invoked to haze new lumberjacks. The Argopelter was reprinted and elaborated in Henry H. Tryon's Fearsome Critters (1939) and remains one of the more frequently cited members of the lumber-woods bestiary.",
   "aliases": [
     {
       "name": "Agropelter",
@@ -32,5 +33,109 @@
   "origin": "Said by Cox (1910) to inhabit the coniferous forests of North America from Maine to Oregon, with the densest reporting in the Great Lakes / Upper Midwest lumber region.",
   "first_reported": "1910-01-01",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Coined by William T. Cox in Fearsome Creatures of the Lumberwoods (1910); the prefix 'agro-' or 'argo-' is fanciful, while 'pelter' denotes the creature's habit of pelting passersby with wood.",
+    "meaning": "Roughly 'one that pelts'; mock binomial Anthrocephalus craniofractens may be glossed 'human-headed skull-breaker'.",
+    "first_use": "1910 (William T. Cox)."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0,
+    "date_range": {
+      "earliest": "1910",
+      "latest": "1939"
+    }
+  },
+  "timeline": [
+    {
+      "date": "1910-01-01",
+      "event": "William T. Cox publishes Fearsome Creatures of the Lumberwoods, including the Argopelter",
+      "significance": "First print attestation",
+      "source": "Cox, W. T. (1910)"
+    },
+    {
+      "date": "1939-01-01",
+      "event": "Henry H. Tryon's Fearsome Critters reprints and elaborates lumber-woods bestiary",
+      "significance": "Carries the Argopelter into mid-20th-century folkloric literature",
+      "source": "Tryon, H. H. (1939)"
+    }
+  ],
+  "related": [
+    {
+      "id": "fearsome-critters",
+      "name": "Fearsome critters",
+      "relationship": "superset",
+      "description": "The broader class of humorous folk-creatures of the North American lumber camps"
+    },
+    {
+      "id": "hodag",
+      "name": "Hodag",
+      "relationship": "similar",
+      "description": "Wisconsin fearsome critter"
+    },
+    {
+      "id": "axehandle-hound",
+      "name": "Axehandle hound",
+      "relationship": "similar",
+      "description": "Minnesota/Wisconsin fearsome critter"
+    },
+    {
+      "id": "hidebehind",
+      "name": "Hidebehind",
+      "relationship": "similar",
+      "description": "Lumber-woods fearsome critter that hides behind trees"
+    },
+    {
+      "id": "splintercat",
+      "name": "Splintercat",
+      "relationship": "similar",
+      "description": "Fearsome critter that smashes through trees"
+    }
+  ],
+  "cultural_notes": "The Argopelter was understood as a humorous fiction even by its tellers; fearsome critters served social functions of bonding and explanation rather than belief.",
+  "sources": [
+    {
+      "id": "cox-1910",
+      "type": "book",
+      "title": "Fearsome Creatures of the Lumberwoods, with a Few Desert and Mountain Beasts",
+      "authors": [
+        "William T. Cox"
+      ],
+      "publication": "Judd & Detweiler",
+      "date": "1910"
+    },
+    {
+      "id": "tryon-1939",
+      "type": "book",
+      "title": "Fearsome Critters",
+      "authors": [
+        "Henry H. Tryon"
+      ],
+      "publication": "Idlewild Press",
+      "date": "1939"
+    },
+    {
+      "id": "johnson-2015",
+      "type": "book",
+      "title": "Fearsome Creatures of the Lumberwoods: 20 Chilling Tales from the Wilderness",
+      "authors": [
+        "Hal Johnson"
+      ],
+      "publication": "Workman Publishing",
+      "date": "2015",
+      "isbn": "978-0761183181"
+    },
+    {
+      "id": "wikipedia-fearsome-critters",
+      "type": "website",
+      "title": "Fearsome critters",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Fearsome_critters",
+      "accessed": "2026-05-07"
+    }
+  ],
+  "locations": []
 }

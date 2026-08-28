@@ -3,6 +3,7 @@
   "name": "Vrykolakas",
   "category": "undead",
   "description": "A revenant of Greek folk belief — an undead, often swollen and bloated corpse held to leave the grave at night and afflict the living, with strong continuity to wider Balkan vampire traditions.",
+  "full_description": "The vrykolakas (Greek: βρυκόλακας) is a malevolent undead being of Greek folk tradition, particularly associated with the Aegean islands, Crete, Mainland Greece, and Greek-speaking Balkan and Anatolian communities. The corpse of a vrykolakas was reported as undecayed, swollen 'drum-like', red-faced, and gorged as if with new blood; some accounts emphasise red hair and grey eyes. People could become vrykolakes through sacrilegious living, excommunication, burial in unconsecrated ground, eating meat from animals killed by wolves or werewolves, or being buried improperly. Once active, the vrykolakas was said to leave its grave at night, knock at doors and call the inhabitants by name (answering on the first call was thought to invite death), spread plague, harass relatives, and in some accounts cannibalise (preferring the human liver) rather than drink blood as in the Western vampire stereotype. Defences included exhumation on a Saturday, beheading, impaling, and cremation; preventive measures included burying corpses face down or weighting them with stones. The vrykolakas tradition is closely linked, etymologically and culturally, to broader Slavic and Balkan revenant beliefs and to one of the best-known early Western European reports of vampirism — Joseph Pitton de Tournefort's 1717 account of an exhumation he witnessed on Mykonos in 1700/1701.",
   "aliases": [
     {
       "name": "Vourkolakas",
@@ -51,5 +52,128 @@
   "origin": "Strongest in the Greek-speaking world: mainland Greece, the Aegean islands (especially Mykonos, Santorini, Crete, and Chios), and historically Greek communities of Anatolia, Cyprus, and the southern Balkans.",
   "first_reported": "Medieval",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "From a South Slavic source related to the Bulgarian върколак (varkolak) and Serbo-Croatian vukodlak, originally meaning 'wolf-haired' or 'werewolf'; in Greek the word's referent shifted from werewolf to revenant.",
+    "meaning": "Originally 'wolf-pelted, werewolf'; in modern Greek folklore, an undead revenant.",
+    "first_use": "Greek attestations from the medieval and early modern period; the term and concept are documented in Western Europe from the early 18th century via Tournefort and others."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "1717-01-01",
+      "event": "Joseph Pitton de Tournefort publishes his Relation d'un voyage du Levant, including a detailed account of a vrykolakas exhumation he witnessed on Mykonos in 1700–1701",
+      "significance": "One of the most influential Western European reports of folk vampirism",
+      "source": "Tournefort, Relation d'un voyage du Levant (1717)"
+    },
+    {
+      "date": "1746-01-01",
+      "event": "Augustin Calmet publishes his Treatise on Vampires and Revenants, drawing on Greek vrykolakas reports as well as Slavic material",
+      "significance": "Helps establish the Western European vampire genre",
+      "source": "Calmet, Dissertations sur les apparitions (1746)"
+    },
+    {
+      "date": "1871-01-01",
+      "event": "Nikolaos Politis begins systematic Greek folklore research that will document vrykolakas beliefs in detail",
+      "significance": "Foundational Greek-language scholarship on the tradition",
+      "source": "Politis, Modern Greek Folkloristics"
+    }
+  ],
+  "related": [
+    {
+      "id": "vampire",
+      "name": "Vampire",
+      "relationship": "superset",
+      "description": "Broader European undead complex of which vrykolakas is one regional form"
+    },
+    {
+      "id": "vukodlak",
+      "name": "Vukodlak",
+      "relationship": "counterpart",
+      "description": "Serbo-Croatian wolf-revenant, etymological cognate"
+    },
+    {
+      "id": "strigoi",
+      "name": "Strigoi",
+      "relationship": "similar",
+      "description": "Romanian undead with comparable folk role"
+    },
+    {
+      "id": "upior",
+      "name": "Upiór",
+      "relationship": "similar",
+      "description": "Slavic undead, etymological ancestor of 'vampire'"
+    },
+    {
+      "id": "callicantzaros",
+      "name": "Kallikantzaros",
+      "relationship": "related",
+      "description": "Greek malevolent goblin-like spirit (distinct but sometimes confused)"
+    },
+    {
+      "id": "draugr",
+      "name": "Draugr",
+      "relationship": "similar",
+      "description": "Norse undead inhabiting its own corpse"
+    }
+  ],
+  "cultural_notes": "Vrykolakes were widely believed in until well into the 19th and even early 20th century in some Greek-speaking communities, with documented cases of village-level exhumation rituals.",
+  "sources": [
+    {
+      "id": "wikipedia-vrykolakas",
+      "type": "website",
+      "title": "Vrykolakas",
+      "url": "https://en.wikipedia.org/wiki/Vrykolakas",
+      "publication": "Wikipedia",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "tournefort-1717",
+      "type": "book",
+      "title": "Relation d'un voyage du Levant",
+      "authors": [
+        "Joseph Pitton de Tournefort"
+      ],
+      "publication": "Imprimerie Royale, Paris",
+      "date": "1717"
+    },
+    {
+      "id": "calmet-1746",
+      "type": "book",
+      "title": "Dissertations sur les apparitions des esprits, et sur les vampires ou les revenans de Hongrie, de Moravie, etc.",
+      "authors": [
+        "Augustin Calmet"
+      ],
+      "publication": "Debure l'aîné",
+      "date": "1746"
+    },
+    {
+      "id": "barber-1988",
+      "type": "book",
+      "title": "Vampires, Burial, and Death: Folklore and Reality",
+      "authors": [
+        "Paul Barber"
+      ],
+      "publication": "Yale University Press",
+      "date": "1988",
+      "isbn": "978-0300048599"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Mykonos",
+      "lat": 37.45,
+      "lng": 25.33
+    },
+    {
+      "name": "Santorini (Thera)",
+      "lat": 36.4,
+      "lng": 25.43
+    }
+  ]
 }

@@ -3,6 +3,7 @@
   "name": "Psychic Phenomena",
   "category": "psychic_phenomena",
   "description": "Psychic phenomena (psi) are alleged mental abilities — telepathy, clairvoyance, precognition, and psychokinesis — that operate outside known sensory channels and physical mechanisms. The mainstream scientific community classifies the field as pseudoscience.",
+  "full_description": "Psychic phenomena, collectively designated psi (ψ) in parapsychology, are alleged human capacities to acquire information or influence matter without using known sensory or physical channels. The principal reported modalities are extrasensory perception (ESP) — including telepathy, clairvoyance, and precognition — and psychokinesis (PK), the mental influence of physical systems. The field of psychical research was institutionalised with the founding of the Society for Psychical Research (London, 1882) and the American Society for Psychical Research (Boston, 1885). Joseph Banks Rhine's Duke University laboratory (1930s onwards) introduced forced-choice card protocols and popularised the term 'parapsychology'. From the 1970s, Charles Honorton's ganzfeld experiments and Russell Targ and Harold Puthoff's Stanford Research Institute remote-viewing program were central; the U.S. government's Stargate Project ran from 1972 to 1995. Mainstream scientific consensus, formalised by reviews including Hyman and Honorton's joint communiqué (1986), the AIR review of Stargate (Mumford et al. 1995), and the Wiseman / French / Ritchie failed replications of Bem (2012), is that psi has no replicable, accepted experimental basis and is best classed as pseudoscience. The Parapsychological Association is an affiliate of the American Association for the Advancement of Science, but the field rarely publishes in mainstream scientific journals.",
   "aliases": [
     {
       "name": "Psi",
@@ -48,5 +49,282 @@
   "origin": "Belief in psi is documented across most cultures and historical periods. Laboratory study has been concentrated in the United States, the United Kingdom, Western Europe, and the former Soviet Union.",
   "first_reported": "Antiquity",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "From Greek psyche (soul, mind); the umbrella term 'psi' was introduced by B. P. Wiesner and Robert Thouless in 1942",
+    "meaning": "Phenomena of the mind/soul outside the known senses",
+    "first_use": "Wiesner and Thouless (1942) for 'psi'; 'psychical research' attested in English from the 1880s; 'parapsychology' popularised by Rhine in the 1930s"
+  },
+  "sightings_stats": {
+    "date_range": {
+      "earliest": "1882",
+      "latest": "2026"
+    }
+  },
+  "timeline": [
+    {
+      "date": "1882",
+      "event": "Society for Psychical Research (SPR) founded in London by Henry Sidgwick, Frederic Myers, and Edmund Gurney",
+      "significance": "Birth of organised psychical research",
+      "source": "Wikipedia: Society for Psychical Research"
+    },
+    {
+      "date": "1885",
+      "event": "American Society for Psychical Research founded in Boston",
+      "significance": "U.S. counterpart to the SPR",
+      "source": "Wikipedia: American Society for Psychical Research"
+    },
+    {
+      "date": "1934",
+      "event": "J. B. Rhine publishes Extra-Sensory Perception, marshalling Duke Zener-card data",
+      "significance": "Foundational text of laboratory parapsychology",
+      "source": "Rhine, J. B. (1934)"
+    },
+    {
+      "date": "1942",
+      "event": "B. P. Wiesner and Robert Thouless propose 'psi' as a neutral umbrella term",
+      "significance": "Establishes the field's modern terminology",
+      "source": "Thouless & Wiesner (1942)"
+    },
+    {
+      "date": "1957",
+      "event": "Parapsychological Association founded; admitted as AAAS affiliate in 1969",
+      "significance": "Institutionalisation of parapsychology in the U.S. scientific community",
+      "source": "Wikipedia: Parapsychological Association"
+    },
+    {
+      "date": "1972",
+      "event": "Targ and Puthoff begin remote-viewing experiments at SRI, leading to the U.S. Stargate Project",
+      "significance": "Most-funded program of psi research in history; ran until 1995",
+      "source": "Targ, R., & Puthoff, H. (1977), Mind-Reach"
+    },
+    {
+      "date": "1974",
+      "event": "First published ganzfeld telepathy experiment by Charles Honorton",
+      "significance": "Beginning of the most extensively meta-analysed ESP protocol",
+      "source": "Honorton, C. (1974)"
+    },
+    {
+      "date": "1979",
+      "event": "Princeton Engineering Anomalies Research (PEAR) lab established by Robert Jahn",
+      "significance": "PK and human-machine interaction research; closed 2007",
+      "source": "Wikipedia: Princeton Engineering Anomalies Research"
+    },
+    {
+      "date": "1986",
+      "event": "Hyman–Honorton joint communiqué on ganzfeld methodology",
+      "significance": "Key methodological reform agreement between sceptics and proponents",
+      "source": "Hyman & Honorton (1986)"
+    },
+    {
+      "date": "1995",
+      "event": "Termination of the U.S. Stargate Project; AIR review concludes operational use unjustified",
+      "significance": "End of major government psi-research funding",
+      "source": "Mumford, Rose & Goslin (1995), AIR Stargate review"
+    },
+    {
+      "date": "2011-03",
+      "event": "Daryl Bem publishes 'Feeling the Future' in JPSP",
+      "significance": "Catalyses modern replication-crisis reforms in psychology",
+      "source": "Bem, D. J. (2011)"
+    },
+    {
+      "date": "2012",
+      "event": "Failed pre-registered replications of Bem (Ritchie, Wiseman & French; Galak et al.)",
+      "significance": "Independent failure to replicate Bem's effects",
+      "source": "Ritchie et al. (2012); Galak et al. (2012)"
+    }
+  ],
+  "related": [
+    {
+      "id": "telepathy",
+      "name": "Telepathy",
+      "relationship": "subset",
+      "description": "Mind-to-mind communication"
+    },
+    {
+      "id": "clairvoyance",
+      "name": "Clairvoyance",
+      "relationship": "subset",
+      "description": "Direct perception of distant or hidden contemporaneous events"
+    },
+    {
+      "id": "precognition",
+      "name": "Precognition",
+      "relationship": "subset",
+      "description": "Direct perception of future events"
+    },
+    {
+      "id": "psychokinesis",
+      "name": "Psychokinesis",
+      "relationship": "subset",
+      "description": "Mental influence of physical systems"
+    },
+    {
+      "id": "psychometry",
+      "name": "Psychometry",
+      "relationship": "subset",
+      "description": "Object-mediated retrocognitive claims"
+    },
+    {
+      "id": "remote-viewing",
+      "name": "Remote viewing",
+      "relationship": "subset",
+      "description": "Stargate-era protocol for clairvoyance / precognition"
+    }
+  ],
+  "cultural_notes": "Substantial fractions of the public in many countries report belief in or personal experience of psi; surveys consistently show majority belief in some form of psychic phenomenon.",
+  "sources": [
+    {
+      "id": "wikipedia-parapsychology",
+      "type": "website",
+      "title": "Parapsychology",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Parapsychology",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "wikipedia-ganzfeld",
+      "type": "website",
+      "title": "Ganzfeld experiment",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ganzfeld_experiment",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "rhine-1934",
+      "type": "book",
+      "title": "Extra-Sensory Perception",
+      "authors": [
+        "J. B. Rhine"
+      ],
+      "publication": "Boston Society for Psychic Research",
+      "date": "1934"
+    },
+    {
+      "id": "gurney-1886",
+      "type": "book",
+      "title": "Phantasms of the Living",
+      "authors": [
+        "Edmund Gurney",
+        "Frederic W. H. Myers",
+        "Frank Podmore"
+      ],
+      "publication": "Trübner / SPR",
+      "date": "1886"
+    },
+    {
+      "id": "hyman-honorton-1986",
+      "type": "paper",
+      "title": "A Joint Communiqué: The Psi Ganzfeld Controversy",
+      "authors": [
+        "Ray Hyman",
+        "Charles Honorton"
+      ],
+      "publication": "Journal of Parapsychology",
+      "date": "1986"
+    },
+    {
+      "id": "bem-2011",
+      "type": "paper",
+      "title": "Feeling the Future: Experimental Evidence for Anomalous Retroactive Influences on Cognition and Affect",
+      "authors": [
+        "Daryl J. Bem"
+      ],
+      "publication": "Journal of Personality and Social Psychology",
+      "date": "2011",
+      "doi": "10.1037/a0021524"
+    },
+    {
+      "id": "ritchie-2012",
+      "type": "paper",
+      "title": "Failing the Future: Three Unsuccessful Attempts to Replicate Bem's 'Retroactive Facilitation of Recall' Effect",
+      "authors": [
+        "Stuart J. Ritchie",
+        "Richard Wiseman",
+        "Christopher C. French"
+      ],
+      "publication": "PLOS ONE",
+      "date": "2012",
+      "doi": "10.1371/journal.pone.0033423"
+    },
+    {
+      "id": "air-stargate-1995",
+      "type": "archive",
+      "title": "An Evaluation of Remote Viewing: Research and Applications (Stargate Review)",
+      "authors": [
+        "Michael D. Mumford",
+        "Andrew M. Rose",
+        "David A. Goslin"
+      ],
+      "publication": "American Institutes for Research",
+      "date": "1995"
+    },
+    {
+      "id": "radin-1997",
+      "type": "book",
+      "title": "The Conscious Universe: The Scientific Truth of Psychic Phenomena",
+      "authors": [
+        "Dean Radin"
+      ],
+      "publication": "HarperEdge",
+      "date": "1997",
+      "isbn": "978-0062515025"
+    },
+    {
+      "id": "blackmore-1996",
+      "type": "book",
+      "title": "In Search of the Light: The Adventures of a Parapsychologist",
+      "authors": [
+        "Susan Blackmore"
+      ],
+      "publication": "Prometheus Books",
+      "date": "1996",
+      "isbn": "978-1573920612"
+    },
+    {
+      "id": "alcock-2003",
+      "type": "paper",
+      "title": "Give the Null Hypothesis a Chance: Reasons to Remain Doubtful about the Existence of Psi",
+      "authors": [
+        "James E. Alcock"
+      ],
+      "publication": "Journal of Consciousness Studies",
+      "date": "2003"
+    },
+    {
+      "id": "targ-puthoff-1977",
+      "type": "book",
+      "title": "Mind-Reach: Scientists Look at Psychic Ability",
+      "authors": [
+        "Russell Targ",
+        "Harold Puthoff"
+      ],
+      "publication": "Delacorte Press",
+      "date": "1977",
+      "isbn": "978-1571746580"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Society for Psychical Research, London",
+      "lat": 51.5074,
+      "lng": -0.1278
+    },
+    {
+      "name": "Duke University Parapsychology Laboratory",
+      "lat": 36.0014,
+      "lng": -78.9382
+    },
+    {
+      "name": "Stanford Research Institute (SRI)",
+      "lat": 37.4538,
+      "lng": -122.1822
+    },
+    {
+      "name": "Princeton Engineering Anomalies Research (PEAR)",
+      "lat": 40.3431,
+      "lng": -74.6551
+    }
+  ]
 }

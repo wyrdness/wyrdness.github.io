@@ -3,6 +3,7 @@
   "name": "Likho",
   "category": "entity_spirit",
   "description": "Likho is the Slavic personification of bad luck and evil fate, most often depicted as a one-eyed gaunt old woman in black or, more rarely, as a male forest goblin. It is a fairy-tale figure rather than a major mythological deity, woven into proverbs warning against tempting fate.",
+  "full_description": "Likho (Russian and Ukrainian Лихо, Belarusian лі́ха, Polish licho) is the Slavic embodiment of evil fate and misfortune. It appears in East Slavic and West Slavic fairy tales and proverbs as a one-eyed creature — typically an emaciated old woman dressed in black, occasionally an evil male goblin of the forest — whose touch or company brings ill luck. The word itself is a common noun meaning 'bad luck' or 'evil' in modern Russian and Ukrainian, and its root in Old Russian carried the sense of 'excessive' or 'odd', from which the pejorative use developed. Unlike major Slavic mythological figures such as Perun or Veles, Likho is not part of any canonical pantheon; instead it survives in folklore through cautionary tales and idioms (the Russian and Ukrainian proverb 'Don't wake Likho while it is quiet'). In one well-known fairy tale a blacksmith encounters Likho in a hut deep in the forest; she demands he forge her a new eye, but the smith blinds her remaining eye instead and escapes. Other narratives warn that Likho clings to its victims and cannot be drowned, and that one can only be rid of her by passing the curse to another.",
   "aliases": [
     {
       "name": "Лихо",
@@ -51,5 +52,91 @@
   "origin": "Likho is a figure of East and West Slavic folklore, most prominent in Russian, Ukrainian, Belarusian, and Polish tradition. The figure is woven into proverbs and fairy tales rather than tied to a specific landscape.",
   "first_reported": "Pre-modern",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Common Slavic noun meaning 'evil' or 'misfortune'. In Old Russian likho meant 'excessive', 'too much', 'remaining' or 'odd' (as opposed to even); the pejorative sense developed from the idea of an unlucky odd number. Most likely derived from Indo-European *leikʷ- 'to remain, leave behind'.",
+    "meaning": "'Evil', 'bad luck', 'misfortune'; as a personification, the spirit that brings these.",
+    "first_use": "Attested in Slavic folktale traditions; widely recorded in 19th-century Russian, Ukrainian, Belarusian, and Polish folklore collections."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "Pre-modern",
+      "event": "Slavic oral traditions develop tales of the one-eyed Likho who dwells in forests and brings misfortune",
+      "significance": "Cultural baseline of the figure",
+      "source": "Slavic oral tradition"
+    },
+    {
+      "date": "1807",
+      "event": "Polish dictionaries record licho with its folkloric and proverbial uses",
+      "significance": "Early lexicographic attestation in West Slavic",
+      "source": "Polish dictionary sources cited in Wikipedia, Likho"
+    },
+    {
+      "date": "1998",
+      "event": "Mike Dixon-Kennedy publishes Encyclopedia of Russian and Slavic Myth and Legend, including an entry on Likho",
+      "significance": "Standard English-language reference for the figure",
+      "source": "Dixon-Kennedy, M. (1998)"
+    }
+  ],
+  "related": [
+    {
+      "id": "baba-yaga",
+      "name": "Baba Yaga",
+      "relationship": "related",
+      "description": "Slavic forest hag of fairy tales; appears alongside or in similar settings to Likho"
+    },
+    {
+      "id": "likhoradka",
+      "name": "Likhoradka",
+      "relationship": "related",
+      "description": "Slavic fever-demon sisters whose name shares the lik(h)o- root"
+    },
+    {
+      "id": "kikimora",
+      "name": "Kikimora",
+      "relationship": "similar",
+      "description": "East Slavic female household / nightmare spirit"
+    },
+    {
+      "id": "mahr",
+      "name": "Mahr / Mara",
+      "relationship": "similar",
+      "description": "Germanic and Slavic nightmare-bringing entity"
+    },
+    {
+      "id": "cyclops",
+      "name": "Cyclops",
+      "relationship": "similar",
+      "description": "Greek one-eyed cave-dwelling figure paralleling the blacksmith-and-Likho tale"
+    }
+  ],
+  "cultural_notes": "Likho is treated as a real risk in proverbial speech: one should not 'wake' her, name her too freely, or seek out misfortune. Encountering Likho is understood as an explanation for sudden ruin.",
+  "sources": [
+    {
+      "id": "dixon-kennedy-1998",
+      "type": "book",
+      "title": "Encyclopedia of Russian and Slavic Myth and Legend",
+      "authors": [
+        "Mike Dixon-Kennedy"
+      ],
+      "publication": "ABC-CLIO",
+      "date": "1998",
+      "isbn": "978-1576070635"
+    },
+    {
+      "id": "wikipedia-likho",
+      "type": "website",
+      "title": "Likho",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Likho",
+      "accessed": "2026-05-07"
+    }
+  ],
+  "locations": []
 }

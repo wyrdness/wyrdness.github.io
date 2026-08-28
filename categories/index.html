@@ -14,7 +14,7 @@
     <div class="container">
       <div class="site-header__content">
         <a href="/" class="site-header__logo">
-          <span style="font-size: var(--font-2xl); font-weight: 700; color: var(--accent-purple);">Wyrdness</span>
+          <img src="https://avatars.githubusercontent.com/u/235253252" alt="Wyrdness" width="40" height="40">
         </a>
         
         <input type="checkbox" id="menu-toggle" class="menu-toggle sr-only">
@@ -103,7 +103,8 @@
           conspiracy_theory: '🕵️', anomaly: '❔',
           atmospheric_phenomenon: '🌩️', atmospheric_phenomena: '🌩️',
           location: '📍', haunted_location: '🏚️', location_phenomenon: '📍',
-          shapeshifter_undead: '🐺', uncategorized: '❓'
+          shapeshifter: '🐺', shapeshifter_undead: '🐺',
+          cultural_artifact: '🏺', uncategorized: '❓'
         };
 
         function prettyName(key) {
@@ -118,14 +119,16 @@
 
           return `
             <div style="background: var(--bg-secondary); padding: var(--space-lg); border-radius: var(--radius-lg); border: 1px solid var(--border-color);">
-              <div style="font-size: var(--font-3xl); text-align: center; margin-bottom: var(--space-sm);">${emoji}</div>
-              <h3 style="text-align: center; margin-bottom: var(--space-xs);">${label}</h3>
+              <a href="/categories/${name}/" style="text-decoration: none; color: inherit;">
+                <div style="font-size: var(--font-3xl); text-align: center; margin-bottom: var(--space-sm);">${emoji}</div>
+                <h3 style="text-align: center; margin-bottom: var(--space-xs);">${label}</h3>
+              </a>
               <p class="text-muted text-center mb-md">${data.count} phenomena</p>
               <details>
-                <summary style="cursor: pointer; color: var(--accent-purple);">View all</summary>
+                <summary style="cursor: pointer; color: var(--accent-purple);">Quick preview</summary>
                 <ul style="margin-top: var(--space-sm); padding-left: var(--space-md);">
                   ${data.items.slice(0, 10).map(p => `<li><a href="/phenomena/${p.id}/">${p.name}</a></li>`).join('')}
-                  ${data.count > 10 ? `<li class="text-muted">...and ${data.count - 10} more</li>` : ''}
+                  ${data.count > 10 ? `<li class="text-muted"><a href="/categories/${name}/">...and ${data.count - 10} more</a></li>` : ''}
                 </ul>
               </details>
             </div>

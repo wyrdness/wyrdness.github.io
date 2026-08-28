@@ -3,6 +3,7 @@
   "name": "Curse of the Pharaohs",
   "category": "urban_legend",
   "description": "The popular belief that those who disturb the tomb of an ancient Egyptian pharaoh, especially Tutankhamun, suffer misfortune or death. The legend coalesced in 1922–1923 around the death of Lord Carnarvon and was sustained by sensational press reporting; statistical study has found no excess mortality.",
+  "full_description": "The 'curse of the pharaohs' is the popular belief that anyone who disturbs the mummy of an ancient Egyptian pharaoh — especially Tutankhamun, whose tomb was opened by Howard Carter on 26 November 1922 — will suffer bad luck, illness, or death. The modern legend was crystallised by the death of Carter's patron, George Herbert, 5th Earl of Carnarvon, in Cairo on 5 April 1923, four months after entering the tomb, from blood poisoning following an infected mosquito bite. Sensational coverage in the British and American press — encouraged by remarks attributed to authors such as Marie Corelli and Sir Arthur Conan Doyle — invented and popularised a 'curse' for which there is no inscription in Tutankhamun's tomb. A 2002 cohort study in the British Medical Journal by Mark Nelson followed Westerners present at key tomb events and found no significant difference in mortality compared with controls. Alternative natural explanations for individual deaths include opportunistic infection, pre-existing conditions, and (more speculatively) exposure to airborne pathogens such as Aspergillus from sealed tombs. The curse remains a major theme of mummy films, fiction, and popular pseudoarchaeology.",
   "aliases": [
     {
       "name": "Curse of Tutankhamun",
@@ -36,5 +37,162 @@
   "origin": "The curse is centred on the Theban necropolis (Valley of the Kings) and on museums holding pharaonic remains, but the legend itself is global through Anglophone press and cinema.",
   "first_reported": "1923",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "English-language press of the 1920s. Earlier 19th-century 'mummy curse' fiction (e.g. Jane C. Loudon's 1827 The Mummy!, Louisa May Alcott's 1869 'Lost in a Pyramid; or, The Mummy's Curse') prefigured the trope.",
+    "meaning": "An alleged supernatural punishment befalling those who disturb a pharaoh's tomb or remains.",
+    "first_use": "Late 19th century in fiction; widely popularised in news media from 1923 following Lord Carnarvon's death."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "1827",
+      "event": "Jane C. Loudon publishes The Mummy!: Or a Tale of the Twenty-Second Century, an early Gothic mummy novel",
+      "significance": "Helps establish the mummy-curse trope in English fiction",
+      "source": "Loudon, J. C. (1827)"
+    },
+    {
+      "date": "1869-01",
+      "event": "Louisa May Alcott publishes 'Lost in a Pyramid; or, The Mummy's Curse' in The New World",
+      "significance": "Establishes the 'mummy's curse' phrase in American fiction",
+      "source": "Alcott, L. M. (1869)"
+    },
+    {
+      "date": "1922-11-26",
+      "event": "Howard Carter and Lord Carnarvon enter the antechamber of Tutankhamun's tomb (KV62)",
+      "significance": "Sets the stage for the modern curse legend",
+      "source": "Carter & Mace (1923–1933), The Tomb of Tut-ankh-Amen"
+    },
+    {
+      "date": "1923-03",
+      "event": "Marie Corelli writes a widely-circulated letter warning of dire consequences for those who disturbed the tomb",
+      "significance": "Crystallises the curse narrative in the press",
+      "source": "New York World, 24 March 1923"
+    },
+    {
+      "date": "1923-04-05",
+      "event": "Lord Carnarvon dies in Cairo from blood poisoning following an infected mosquito bite",
+      "significance": "Triggers global 'curse' coverage",
+      "source": "The Times, London, 6 April 1923"
+    },
+    {
+      "date": "1924-04",
+      "event": "Excavation team member Aubrey Herbert (Carnarvon's half-brother) dies of blood poisoning",
+      "significance": "Folded into curse narratives, despite no direct tomb contact",
+      "source": "Press obituaries, 1924"
+    },
+    {
+      "date": "1929-11",
+      "event": "Richard Bethell, Carter's secretary, dies in his sleep aged 46",
+      "significance": "Cited as a curse victim",
+      "source": "Press obituaries, 1929"
+    },
+    {
+      "date": "1939-03-02",
+      "event": "Howard Carter dies in London, aged 64, of Hodgkin's lymphoma — sixteen years after opening the tomb",
+      "significance": "Carter's long survival is cited by sceptics against the curse",
+      "source": "The Times, 3 March 1939"
+    },
+    {
+      "date": "2002-12-21",
+      "event": "Mark R. Nelson publishes a cohort study in the British Medical Journal finding no excess mortality among Westerners exposed to the tomb",
+      "significance": "Major peer-reviewed debunking",
+      "source": "Nelson, M. R. (2002), BMJ 325:1482"
+    }
+  ],
+  "related": [
+    {
+      "id": "tower-of-london",
+      "name": "Tower of London hauntings",
+      "relationship": "related",
+      "description": "Other historic-site curse and haunting traditions"
+    },
+    {
+      "id": "oak-island",
+      "name": "Oak Island Money Pit",
+      "relationship": "similar",
+      "description": "Another archaeological 'curse' folklore around an excavation site"
+    },
+    {
+      "id": "mary-celeste",
+      "name": "Mary Celeste",
+      "relationship": "related",
+      "description": "Another 19th–20th century mystery sustained by press sensationalism"
+    }
+  ],
+  "cultural_notes": "In popular Western culture, opening a pharaonic tomb still carries a faint aura of taboo; in modern Egypt, the curse functions chiefly as a tourist legend rather than a religious belief.",
+  "sources": [
+    {
+      "id": "nelson-2002",
+      "type": "paper",
+      "title": "The mummy's curse: historical cohort study",
+      "authors": [
+        "Mark R. Nelson"
+      ],
+      "publication": "British Medical Journal",
+      "date": "2002-12-21",
+      "doi": "10.1136/bmj.325.7378.1482"
+    },
+    {
+      "id": "luckhurst-2012",
+      "type": "book",
+      "title": "The Mummy's Curse: The True History of a Dark Fantasy",
+      "authors": [
+        "Roger Luckhurst"
+      ],
+      "publication": "Oxford University Press",
+      "date": "2012",
+      "isbn": "978-0199698714"
+    },
+    {
+      "id": "carter-mace-1923",
+      "type": "book",
+      "title": "The Tomb of Tut-ankh-Amen",
+      "authors": [
+        "Howard Carter",
+        "A. C. Mace"
+      ],
+      "publication": "Cassell & Co., London",
+      "date": "1923-1933"
+    },
+    {
+      "id": "frayling-1992",
+      "type": "book",
+      "title": "The Face of Tutankhamun",
+      "authors": [
+        "Christopher Frayling"
+      ],
+      "publication": "Faber & Faber",
+      "date": "1992",
+      "isbn": "978-0571169733"
+    },
+    {
+      "id": "wikipedia-curse-pharaohs",
+      "type": "website",
+      "title": "Curse of the pharaohs",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Curse_of_the_pharaohs",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "griffith-institute",
+      "type": "website",
+      "title": "Tutankhamun: Anatomy of an Excavation",
+      "publication": "Griffith Institute, University of Oxford",
+      "url": "https://www.griffith.ox.ac.uk/discoveringtut",
+      "accessed": "2026-05-07"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Tomb of Tutankhamun (KV62)",
+      "lat": 25.7402,
+      "lng": 32.6014
+    }
+  ]
 }

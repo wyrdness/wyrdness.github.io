@@ -3,6 +3,7 @@
   "name": "Māui",
   "category": "mythological_creature",
   "description": "Māui is the great culture-hero and trickster of Polynesian mythology, credited across the Pacific with snaring the sun, fishing up islands, securing fire for humanity, and ultimately dying in his attempt to defeat death.",
+  "full_description": "Māui (also spelled Maui or Māui-tikitiki) is the most widely shared figure in Polynesian mythology. He appears across Hawaiʻi, Aotearoa (New Zealand), Tonga, Sāmoa, Tahiti, Mangareva, the Marquesas and beyond, and is generally cast as a demigod and culture hero of mischievous and audacious character (kolohe). Although his genealogy and exact deeds vary by tradition, the central cycle is consistent: he is the youngest of several brothers; he uses a magic fish-hook (often made from the jawbone of his ancestress, e.g. Murirangawhenua in Māori tradition) to draw landmasses up from the sea floor; he snares the sun to lengthen the day so people can finish their work; he wins fire for humanity from an underworld fire-keeper (Mahuika in Māori tradition); and finally he attempts to win immortality by entering the body of the death-goddess Hine-nui-te-pō, transforming into a worm or lizard, and is crushed when she awakes. The Hawaiian island of Maui is named after him.",
   "aliases": [
     {
       "name": "Māui-tikitiki",
@@ -77,5 +78,151 @@
   "origin": "The Māui cycle is told across virtually all of Polynesia. Wikipedia notes the tradition can be traced 'as far west as islands off New Guinea' and is found in Hawaiʻi, Aotearoa, Tonga, Sāmoa, Tahiti, Mangareva, the Marquesas, the New Hebrides (Vanuatu), and beyond.",
   "first_reported": "Pre-contact",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Proto-Polynesian *Maaui, reconstructed from cognates across all Polynesian branches.",
+    "meaning": "The name itself is generally treated as a proper name without a transparent native gloss; epithets such as Māui-tikitiki ('top-knot') and Māui-pōtiki ('last-born') describe his role and birth order rather than his name's etymology.",
+    "first_use": "Pre-contact across Polynesia; first transcribed in European-language sources in the late 18th and 19th centuries"
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0,
+    "date_range": {
+      "earliest": "Pre-contact",
+      "latest": "present (cultural)"
+    }
+  },
+  "timeline": [
+    {
+      "date": "1855-01-01",
+      "event": "Sir George Grey publishes Polynesian Mythology and Ancient Traditional History of the New Zealand Race, presenting the major Māori Māui cycle in English",
+      "significance": "First widely-circulated European-language version of the Māui cycle",
+      "source": "Grey, G. (1855)"
+    },
+    {
+      "date": "1891-01-01",
+      "event": "Edward Tregear publishes The Maori-Polynesian Comparative Dictionary, providing comparative entries for Māui across Polynesian languages",
+      "significance": "Anchors comparative scholarship on the figure",
+      "source": "Tregear, E. R. (1891)"
+    },
+    {
+      "date": "1915-01-01",
+      "event": "W. D. Westervelt publishes Legends of Maui — A Demi-God of Polynesia",
+      "significance": "Anchor compilation of the Hawaiian Māui cycle",
+      "source": "Westervelt, W. D. (1915)"
+    },
+    {
+      "date": "1940-01-01",
+      "event": "Martha Warren Beckwith publishes Hawaiian Mythology",
+      "significance": "Definitive academic synthesis of the Hawaiian corpus, including the Māui cycle",
+      "source": "Beckwith, M. W. (1940)"
+    },
+    {
+      "date": "2016-11-23",
+      "event": "Walt Disney Animation Studios releases Moana, with Māui as a central character voiced by Dwayne Johnson",
+      "significance": "Highest-profile mainstream pop-culture treatment of the figure; received both popular acclaim and mixed Polynesian community responses",
+      "source": "Disney production records"
+    }
+  ],
+  "related": [
+    {
+      "id": "mo-o",
+      "name": "Moʻo",
+      "relationship": "related",
+      "description": "Hawaiian water-guardian lizard spirits in the same mythological corpus"
+    },
+    {
+      "id": "menehune",
+      "name": "Menehune",
+      "relationship": "related",
+      "description": "Hawaiian small-people tradition appearing in the same corpus"
+    },
+    {
+      "id": "anansi",
+      "name": "Anansi",
+      "relationship": "similar",
+      "description": "West African / Caribbean trickster culture-hero"
+    },
+    {
+      "id": "saci",
+      "name": "Saci",
+      "relationship": "similar",
+      "description": "Brazilian trickster spirit"
+    }
+  ],
+  "cultural_notes": "Across Polynesia, Māui is treated not as a fictional character but as a culturally foundational ancestor-figure whose deeds explain features of the world (islands, day-length, fire, mortality).",
+  "sources": [
+    {
+      "id": "grey-1855",
+      "type": "book",
+      "title": "Polynesian Mythology and Ancient Traditional History of the New Zealand Race",
+      "authors": [
+        "George Grey"
+      ],
+      "publication": "John Murray, London",
+      "date": "1855"
+    },
+    {
+      "id": "tregear-1891",
+      "type": "book",
+      "title": "The Maori-Polynesian Comparative Dictionary",
+      "authors": [
+        "Edward Tregear"
+      ],
+      "publication": "Lyon and Blair, Wellington",
+      "date": "1891"
+    },
+    {
+      "id": "westervelt-1910",
+      "type": "book",
+      "title": "Legends of Ma-ui — A Demi-God of Polynesia and of His Mother Hina",
+      "authors": [
+        "W. D. Westervelt"
+      ],
+      "publication": "Hawaiian Gazette Co.",
+      "date": "1910"
+    },
+    {
+      "id": "beckwith-1940",
+      "type": "book",
+      "title": "Hawaiian Mythology",
+      "authors": [
+        "Martha Warren Beckwith"
+      ],
+      "publication": "Yale University Press",
+      "date": "1940"
+    },
+    {
+      "id": "luomala-1949",
+      "type": "book",
+      "title": "Maui-of-a-Thousand-Tricks: His Oceanic and European Biographers",
+      "authors": [
+        "Katharine Luomala"
+      ],
+      "publication": "Bernice P. Bishop Museum Bulletin 198",
+      "date": "1949"
+    },
+    {
+      "id": "wikipedia-maui",
+      "type": "website",
+      "title": "Māui (Polynesian mythology)",
+      "url": "https://en.wikipedia.org/wiki/M%C4%81ui_(mythology)",
+      "publication": "Wikipedia",
+      "accessed": "2026-05-07"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Te Ika-a-Māui (North Island, New Zealand)",
+      "lat": -38,
+      "lng": 175.5
+    },
+    {
+      "name": "Haleakalā",
+      "lat": 20.7097,
+      "lng": -156.2533
+    }
+  ]
 }

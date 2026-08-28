@@ -3,6 +3,7 @@
   "name": "Dobhar-chú",
   "category": "cryptid",
   "description": "The Dobhar-chú is a fearsome Irish cryptid described as a massive otter-like creature approximately 10–15 feet long with a white pelt and a black cross on its back, known for extreme ferocity and territorial aggression toward humans.",
+  "full_description": "The Dobhar-chú (pronounced 'dower-hoo' or 'dur-a-khoo') is a creature from Irish folklore described as a massive, otter-like beast with canine characteristics. The name derives from Irish: dobhar (water) and cú (hound), making 'water hound.' Dobharchú is also one of the two most common Irish words for 'otter,' suggesting the legend evolved from exaggerated accounts of large otters. The creature is approximately 10–15 feet long — roughly five times larger than a normal otter — and is typically described with a white pelt, black ear tips, and a distinctive black cross marking on its back. It inhabits lakes and rivers throughout Ireland, particularly in County Leitrim. The most famous documented account concerns the 1722 death of Grace McGloighlin (née Connolly) at Glenade Lough, County Leitrim. A sandstone headstone at Conwall cemetery depicting the creature commemorates this incident. Unlike benign water spirits, the Dobhar-chú is consistently portrayed as a dangerous predator that attacks humans and livestock, making it one of Ireland's most feared cryptozoological entities. A 2003 sighting was reported on Omey Island, Connemara, County Galway.",
   "aliases": [
     {
       "name": "Dobarcu",
@@ -66,5 +67,77 @@
   "origin": "Found in Irish folklore associated with lakes and rivers throughout Ireland, particularly in the northwest. Most accounts concentrate in County Leitrim. A 2003 sighting report came from Omey Island, Connemara, County Galway.",
   "first_reported": "1722-01-01",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Irish Gaelic; derives from ancient Celtic water-word",
+    "meaning": "Dobhar (water, an ancient form found across Celtic languages) + cú (hound) = 'water hound.' Dobharchú is also one of the standard Irish words for otter.",
+    "first_use": "Irish oral tradition; earliest written documentation dates to the 18th century (the Conwall headstone, c. 1722)"
+  },
+  "sightings_stats": {
+    "total_documented": 2,
+    "verified": 0,
+    "disputed": 2,
+    "debunked": 0,
+    "date_range": {
+      "earliest": "1722",
+      "latest": "2003"
+    }
+  },
+  "timeline": [
+    {
+      "date": "1722-01-01",
+      "event": "Grace McGloighlin (née Connolly) reportedly killed by a Dobhar-chú at Glenade Lough, County Leitrim; her husband Terrence killed both the creature and its mate",
+      "significance": "The most famous and best-documented historical account; commemorated on a grave marker at Conwall cemetery",
+      "source": "Conwall cemetery headstone; Wikipedia article on Dobhar-chú"
+    },
+    {
+      "date": "2003-01-01",
+      "event": "A sighting of a large otter-like creature reported on Omey Island, Connemara, County Galway",
+      "significance": "Most recent documented sighting report",
+      "source": "Wikipedia article on Dobhar-chú"
+    }
+  ],
+  "related": [
+    {
+      "id": "each-uisce",
+      "name": "Each-uisce",
+      "relationship": "related",
+      "description": "Irish water horse; another dangerous aquatic creature from Celtic folklore"
+    },
+    {
+      "id": "kelpie",
+      "name": "Kelpie",
+      "relationship": "similar",
+      "description": "Scottish water horse; dangerous shape-shifting aquatic spirit"
+    },
+    {
+      "id": "loch-ness-monster",
+      "name": "Loch Ness Monster",
+      "relationship": "similar",
+      "description": "Scottish large lake cryptid; shares the large aquatic creature archetype"
+    },
+    {
+      "id": "afanc",
+      "name": "Afanc",
+      "relationship": "similar",
+      "description": "Welsh aquatic monster from Celtic tradition"
+    }
+  ],
+  "cultural_notes": "The Dobhar-chú is treated as a real and dangerous animal in traditional Irish folklore, not a supernatural spirit. Fishermen and those who work near lakes have historically treated it with caution.",
+  "sources": [
+    {
+      "id": "wikipedia-dobhar-chu",
+      "type": "website",
+      "title": "Dobhar-chú — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Dobhar-ch%C3%BA",
+      "accessed": "2026-05-08"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Glenade Lough",
+      "lat": 54.3167,
+      "lng": -8.2167
+    }
+  ]
 }

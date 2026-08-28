@@ -3,6 +3,7 @@
   "name": "Ifrit",
   "category": "entity_spirit",
   "description": "An ifrit is a powerful, often malevolent class of jinn in Arabic and Islamic tradition, frequently associated with fire, the underworld, and the spirits of the violently slain.",
+  "full_description": "The ifrit (Arabic عفريت, ʿifrīt; pl. عفاريت, ʿafārīt) is a class of supernatural being in Arabic and Islamic tradition, generally classified as a powerful and dangerous jinn. The Qur'an mentions an ifrit in Sūrat an-Naml (27:38–40), where one of the jinn before Solomon offers to bring the throne of Bilqīs (Queen of Sheba) before the king rises. Hadith and tafsīr literature describe ifrits as fire-formed, capable of shapeshifting and great strength, but also constrained: they can be compelled by sorcerers and bound by the seal of Solomon. In Egyptian folk Islam ifrits are linked specifically to the souls of those killed by violence, drawn to the spilled blood of the victim; in Moroccan tradition they are conceived as a more substantial and physically deformed kind of demon, with claw-like hands, flaming eyes, and sometimes seven heads. Ifrits also figure prominently in the One Thousand and One Nights, where they appear in tales such as 'The Fisherman and the Jinni' and 'The Porter and the Three Ladies of Baghdad'. Although usually portrayed as wicked, classical and modern Muslim scholarship is clear that ifrits, like other jinn, are moral agents who are not fundamentally evil and may even serve God's purposes.",
   "aliases": [
     {
       "name": "عفريت ('ifrīt)",
@@ -49,5 +50,190 @@
   "origin": "Ifrit belief is distributed across the Arabic-speaking world and the broader Islamic cultural sphere, including the Mashriq, Egypt, North Africa, the Persian world, and parts of South and Southeast Asia.",
   "first_reported": "7th c. CE",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Arabic عفر ('afara), 'to rub with dust' or 'roll into dust', the root of عفريت ('ifrīt). Some Western scholars have proposed Middle Persian āfrītan ('to create') as a possible foreign source, with the Avestan spirit āfriti- offered as a possible ultimate origin (Cheung), but this remains contested.",
+    "meaning": "'Powerful, cunning, malevolent demon'; in Islamic usage almost always followed by the phrase 'among the jinn'.",
+    "first_use": "Earliest extant Arabic Islamic attestations are in the Qur'an (7th c. CE, Sūrat an-Naml 27:39) and in early hadith collections."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0,
+    "date_range": {
+      "earliest": "7th c. CE",
+      "latest": "2026"
+    }
+  },
+  "timeline": [
+    {
+      "date": "Pre-contact",
+      "event": "Qur'anic revelation: an ifrit offers to bring the throne of the Queen of Sheba to Solomon (Sūrat an-Naml 27:38–40)",
+      "significance": "Earliest authoritative Islamic textual reference",
+      "source": "Qur'an 27:38–40"
+    },
+    {
+      "date": "Pre-contact",
+      "event": "Hadith of al-Bukhārī recording an ifrit attempting to interrupt Muhammad's prayers",
+      "significance": "Establishment of the ifrit as a real demonic class in early Islamic tradition",
+      "source": "Sahih al-Bukhari"
+    },
+    {
+      "date": "Pre-contact",
+      "event": "Account in Mālik ibn Anas (8th c.) of an ifrit threatening Muhammad on the Mi'raj until Gabriel teaches a protective prayer",
+      "significance": "Classical hadith tradition on the ifrit",
+      "source": "Mālik ibn Anas (8th c.)"
+    },
+    {
+      "date": "Pre-contact",
+      "event": "Nizami Ganjavi (c. 1141–1209) tells the tale of Māhān and the ifrit in Haft Peykar",
+      "significance": "Persianate literary elaboration framing the ifrit as a moral instructor",
+      "source": "Nizami Ganjavi, Haft Peykar"
+    },
+    {
+      "date": "1973-01-01",
+      "event": "Vincent Crapanzano publishes The Ḥamadsha: A Study in Moroccan Ethnopsychiatry (UC Press)",
+      "significance": "Modern ethnographic account of ifrit-possession healing in Moroccan Islam",
+      "source": "Crapanzano (1973)"
+    },
+    {
+      "date": "2002-01-01",
+      "event": "el-Sayed al-Aswad publishes Religion and Folk Cosmology: Scenarios of the Visible and Invisible in Rural Egypt (Praeger)",
+      "significance": "Modern ethnographic study of Egyptian folk-Islamic ifrit beliefs",
+      "source": "al-Aswad (2002)"
+    },
+    {
+      "date": "2009-01-01",
+      "event": "Amira El-Zein publishes Islam, Arabs, and the Intelligent World of the Jinn (Syracuse University Press)",
+      "significance": "Authoritative academic survey of jinn and ifrit traditions",
+      "source": "El-Zein (2009)"
+    },
+    {
+      "date": "2010-07-30",
+      "event": "Robert Lebling publishes Legends of the Fire Spirits: Jinn and Genies from Arabia to Zanzibar (I.B. Tauris)",
+      "significance": "Wide-ranging contemporary survey including ifrit lore",
+      "source": "Lebling (2010)"
+    }
+  ],
+  "related": [
+    {
+      "id": "jinn",
+      "name": "Jinn",
+      "relationship": "superset",
+      "description": "The general class of fire-formed supernatural beings of which ifrits are a powerful subtype"
+    },
+    {
+      "id": "marid",
+      "name": "Marid",
+      "relationship": "similar",
+      "description": "Another powerful class of jinn, often substituted for ifrits in folkloric narratives"
+    },
+    {
+      "id": "shaitan",
+      "name": "Shaitan",
+      "relationship": "related",
+      "description": "Devils of Islamic tradition; some classical sources blur the boundary with ifrits"
+    },
+    {
+      "id": "ghul",
+      "name": "Ghūl",
+      "relationship": "related",
+      "description": "Shapeshifting desert demon of Arabic folklore"
+    },
+    {
+      "id": "iblis",
+      "name": "Iblīs",
+      "relationship": "related",
+      "description": "The leader of the shayāṭīn; in some narratives summons ifrits to test prophets"
+    }
+  ],
+  "cultural_notes": "Ifrits inhabit ruins, deserts, and places of violent death; can be compelled by sorcery and bound by the Seal of Solomon; nail driven into the blood of a murder victim prevents the formation of an ifrit (Egyptian folk Islam).",
+  "sources": [
+    {
+      "id": "elzein-2009",
+      "type": "book",
+      "title": "Islam, Arabs, and the Intelligent World of the Jinn",
+      "authors": [
+        "Amira El-Zein"
+      ],
+      "publication": "Syracuse University Press",
+      "date": "2009",
+      "isbn": "978-0-815-65070-6"
+    },
+    {
+      "id": "lebling-2010",
+      "type": "book",
+      "title": "Legends of the Fire Spirits: Jinn and Genies from Arabia to Zanzibar",
+      "authors": [
+        "Robert Lebling"
+      ],
+      "publication": "I.B. Tauris",
+      "date": "2010",
+      "isbn": "978-0-857-73063-3"
+    },
+    {
+      "id": "westermarck-1926",
+      "type": "book",
+      "title": "Ritual and Belief in Morocco",
+      "authors": [
+        "Edward Westermarck"
+      ],
+      "publication": "Macmillan",
+      "date": "1926"
+    },
+    {
+      "id": "crapanzano-1973",
+      "type": "book",
+      "title": "The Ḥamadsha: A Study in Moroccan Ethnopsychiatry",
+      "authors": [
+        "Vincent Crapanzano"
+      ],
+      "publication": "University of California Press",
+      "date": "1973",
+      "isbn": "978-0-520-02241-6"
+    },
+    {
+      "id": "alaswad-2002",
+      "type": "book",
+      "title": "Religion and Folk Cosmology: Scenarios of the Visible and Invisible in Rural Egypt",
+      "authors": [
+        "el-Sayed al-Aswad"
+      ],
+      "publication": "Praeger / Greenwood",
+      "date": "2002",
+      "isbn": "978-0-897-89924-6"
+    },
+    {
+      "id": "nuenlist-2015",
+      "type": "book",
+      "title": "Dämonenglaube im Islam",
+      "authors": [
+        "Tobias Nünlist"
+      ],
+      "publication": "Walter de Gruyter",
+      "date": "2015",
+      "isbn": "978-3-110-33168-4"
+    },
+    {
+      "id": "vuckovic-2004",
+      "type": "book",
+      "title": "Heavenly Journeys, Earthly Concerns: The Legacy of the Mi'raj in the Formation of Islam",
+      "authors": [
+        "Brooke Olson Vuckovic"
+      ],
+      "publication": "Routledge",
+      "date": "2004",
+      "isbn": "978-1-135-88524-3"
+    },
+    {
+      "id": "wikipedia-ifrit",
+      "type": "website",
+      "title": "Ifrit",
+      "url": "https://en.wikipedia.org/wiki/Ifrit",
+      "publication": "Wikipedia",
+      "accessed": "2026-05-07"
+    }
+  ],
+  "locations": []
 }

@@ -3,6 +3,7 @@
   "name": "Mammon",
   "category": "demon_angel",
   "description": "A biblical and later Christian personification of wealth and greed. Originally an Aramaic word for 'riches' used in the Gospels, Mammon was later treated in Christian thought as a false god and, in medieval and Renaissance literature, as a fallen angel and demon of avarice.",
+  "full_description": "Mammon (Aramaic māmōnā, 'wealth' or 'riches') appears in the New Testament Gospels of Matthew (6:24) and Luke (16:9-13) as the personification of material wealth opposed to God: 'Ye cannot serve God and mammon.' In the Aramaic and Hebrew background, the term simply means money or property, but in the Greek and Latin reception of the Gospels it was treated as a name for an alternative master and increasingly personified. From late antiquity onward, Christian writers such as Gregory of Nyssa, Cyprian, and Jerome treated Mammon as a demonic power; medieval and early modern demonologies sometimes ranked him among the 'princes of Hell' as the demon of greed. In Edmund Spenser's Faerie Queene (Book II, 1590) Mammon presides over a cave of worldly riches; in John Milton's Paradise Lost (1667) Mammon is one of the fallen angels, characterized by greed even before the fall. Thomas Carlyle's Past and Present (1843) coined the influential phrase 'Gospel of Mammonism' to describe Victorian commercial materialism, and Jacques Collin de Plancy's Dictionnaire Infernal (1818, expanded 1863) lists Mammon among the demonic hierarchy.",
   "aliases": [
     {
       "name": "Māmōnā",
@@ -36,5 +37,140 @@
   "origin": "A figure of Christian theology and Western literature; not tied to a specific geographic locale.",
   "first_reported": "1st century CE",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Aramaic מָמוֹנָא (māmōnā), 'wealth' or 'riches'; passed into Hellenistic Greek (μαμωνᾶς), then Latin (mammona) via the Vulgate, then English via the Bible.",
+    "meaning": "'Wealth', 'property', or 'that in which one trusts' (a sense suggested in some Mishnaic Hebrew etymologies).",
+    "first_use": "1st century CE in the Greek Gospels of Matthew and Luke; widespread Christian English usage from the 14th century (Wycliffe Bible) onward."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "0050-01-01",
+      "event": "Mammon appears in the Gospels of Matthew (6:24) and Luke (16:9-13) as a personification of wealth opposed to God",
+      "significance": "Establishes the term in Christian scripture",
+      "source": "New Testament"
+    },
+    {
+      "date": "0400-01-01",
+      "event": "Patristic writers (Cyprian, Jerome, Gregory of Nyssa) interpret Mammon as a demonic power; Gregory of Nyssa identifies Mammon with Beelzebub",
+      "significance": "Personifies the term as a named demon",
+      "source": "Patristic writings"
+    },
+    {
+      "date": "1590-01-01",
+      "event": "Edmund Spenser depicts Mammon as the keeper of a cave of worldly wealth in The Faerie Queene, Book II",
+      "significance": "Major early modern literary personification",
+      "source": "Spenser, The Faerie Queene (1590)"
+    },
+    {
+      "date": "1667-01-01",
+      "event": "John Milton portrays Mammon as a fallen angel obsessed with the gold of Heaven in Paradise Lost",
+      "significance": "Definitive English literary portrait of Mammon",
+      "source": "Milton, Paradise Lost (1667)"
+    },
+    {
+      "date": "1818-01-01",
+      "event": "Jacques Collin de Plancy's Dictionnaire Infernal lists Mammon in the hierarchy of Hell (later editions through 1863 add iconography)",
+      "significance": "Embeds Mammon in popular demonology",
+      "source": "Collin de Plancy, Dictionnaire Infernal"
+    },
+    {
+      "date": "1843-01-01",
+      "event": "Thomas Carlyle's Past and Present coins the phrase 'Gospel of Mammonism' to attack Victorian commercial culture",
+      "significance": "Repurposes Mammon as a critique of industrial capitalism",
+      "source": "Carlyle, Past and Present (1843)"
+    }
+  ],
+  "related": [
+    {
+      "id": "lucifer",
+      "name": "Lucifer",
+      "relationship": "related",
+      "description": "Fellow fallen angel in the Christian demonological tradition"
+    },
+    {
+      "id": "beelzebub",
+      "name": "Beelzebub",
+      "relationship": "related",
+      "description": "Gregory of Nyssa identified Mammon with Beelzebub"
+    },
+    {
+      "id": "asmodeus",
+      "name": "Asmodeus",
+      "relationship": "similar",
+      "description": "Demon of lust in Christian and Jewish tradition; commonly listed alongside Mammon among the 'princes of Hell'"
+    },
+    {
+      "id": "plutus",
+      "name": "Plutus",
+      "relationship": "similar",
+      "description": "Greek personification of wealth, sometimes paralleled with Mammon"
+    }
+  ],
+  "cultural_notes": "In Christian moral teaching, to 'serve Mammon' is to give one's allegiance to wealth in place of God; this remains a live image in preaching and ethics.",
+  "sources": [
+    {
+      "id": "wikipedia-mammon",
+      "type": "website",
+      "title": "Mammon",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Mammon",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "kjv-matthew-624",
+      "type": "book",
+      "title": "Gospel of Matthew, ch. 6 v. 24",
+      "publication": "King James Bible (1611)"
+    },
+    {
+      "id": "kjv-luke-16",
+      "type": "book",
+      "title": "Gospel of Luke, ch. 16",
+      "publication": "King James Bible (1611)"
+    },
+    {
+      "id": "spenser-faerie-queene-1590",
+      "type": "book",
+      "title": "The Faerie Queene, Book II",
+      "authors": [
+        "Edmund Spenser"
+      ],
+      "date": "1590"
+    },
+    {
+      "id": "milton-paradise-lost-1667",
+      "type": "book",
+      "title": "Paradise Lost",
+      "authors": [
+        "John Milton"
+      ],
+      "date": "1667"
+    },
+    {
+      "id": "carlyle-past-and-present-1843",
+      "type": "book",
+      "title": "Past and Present",
+      "authors": [
+        "Thomas Carlyle"
+      ],
+      "date": "1843"
+    },
+    {
+      "id": "collin-de-plancy-dictionnaire-infernal",
+      "type": "book",
+      "title": "Dictionnaire Infernal",
+      "authors": [
+        "Jacques Auguste Simon Collin de Plancy"
+      ],
+      "date": "1863"
+    }
+  ],
+  "locations": []
 }

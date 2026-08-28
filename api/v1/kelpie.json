@@ -3,6 +3,7 @@
   "name": "Kelpie",
   "category": "shapeshifter",
   "description": "A shape-shifting water spirit of Scottish folklore, most often appearing as a horse near rivers and lochs, that lures victims onto its back and drags them underwater to drown.",
+  "full_description": "The kelpie (or water-kelpie) is a shape-shifting water spirit prominent in Scottish folklore and attested across the British Isles in cognate forms — the Highland each-uisge, Manx cabyll-ushtey, Welsh Ceffyl Dŵr, and the Orcadian tangie among others. It typically appears as a powerful, beautiful horse — most often black, sometimes grey or white — at the bank of a river, loch, or pool. Folkloric accounts emphasize an adhesive coat that traps any rider onto its back; the kelpie then plunges into the water and drowns its victim, sometimes devouring all but the entrails. It can also assume human form, generally a handsome young man or woman, but betrays itself by water-weeds in the hair, cold wet skin, or — in some variants — hooves it cannot fully conceal. A related body of tradition holds that a kelpie may be controlled by a person who can seize or pierce the bridle that often appears around its neck, after which the spirit becomes a powerful but resentful servant. The figure functioned in Scottish rural society as both an explanation for unexplained drownings and as a cautionary tale warning children away from dangerous water and young women from charming strangers.",
   "aliases": [
     {
       "name": "Water-kelpie",
@@ -70,5 +71,163 @@
   "origin": "Scotland, particularly the Highlands and the major river systems and lochs; cognate water-horse traditions across Ireland, the Isle of Man, Wales, the Hebrides, Orkney, and Shetland.",
   "first_reported": "1700s",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Likely from Scottish Gaelic 'cailpeach' or 'colpach' ('heifer, colt'), via Scots 'kelpie'. The Gaelic each-uisge ('water horse') is a parallel native term for the loch-dwelling form.",
+    "meaning": "'Water horse' or 'water colt' — a horse-formed water spirit.",
+    "first_use": "The earliest known printed use of 'kelpie' in English is in William Collins's manuscript ode 'On the Popular Superstitions of the Highlands of Scotland', composed before 1759; the term then appears in Robert Burns's 'Address to the Devil' (1786)."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0,
+    "date_range": {
+      "earliest": "n/a",
+      "latest": "n/a"
+    }
+  },
+  "timeline": [
+    {
+      "date": "1759-01-01",
+      "event": "William Collins's ode 'On the Popular Superstitions of the Highlands of Scotland' published, containing the earliest widely cited literary reference to the kelpie",
+      "significance": "Anchors the English-language literary record",
+      "source": "William Collins, manuscript ode (publ. 1788)"
+    },
+    {
+      "date": "1786-01-01",
+      "event": "Robert Burns publishes 'Address to the Devil', referring to 'water-kelpies' haunting the fords by night",
+      "significance": "Embeds the kelpie in canonical Scottish literature",
+      "source": "Robert Burns, Poems Chiefly in the Scottish Dialect (Kilmarnock edition)"
+    },
+    {
+      "date": "1830-01-01",
+      "event": "Walter Scott discusses water-horses, kelpies and each-uisge in 'Letters on Demonology and Witchcraft'",
+      "significance": "Standardizes the educated 19th-century framing",
+      "source": "Walter Scott, Letters on Demonology and Witchcraft (1830)"
+    },
+    {
+      "date": "1860-01-01",
+      "event": "John Francis Campbell publishes Popular Tales of the West Highlands, gathering Highland water-horse tales in Gaelic and English",
+      "significance": "Foundational ethnographic source",
+      "source": "J. F. Campbell, Popular Tales of the West Highlands (1860–62)"
+    },
+    {
+      "date": "1900-01-01",
+      "event": "John Gregorson Campbell publishes Superstitions of the Highlands and Islands of Scotland, with substantial each-uisge / kelpie material",
+      "significance": "Late-Victorian field synthesis",
+      "source": "J. G. Campbell, 1900"
+    },
+    {
+      "date": "2013-10-01",
+      "event": "Andy Scott's 30-metre-tall steel sculptures 'The Kelpies' open at Helix Park, Falkirk",
+      "significance": "Contemporary monumental embodiment of the legend",
+      "source": "Scottish Canals / Helix Park"
+    }
+  ],
+  "related": [
+    {
+      "id": "each-uisge",
+      "name": "Each-uisge",
+      "relationship": "regional_variant",
+      "description": "Highland Gaelic loch-dwelling water-horse, often considered more dangerous than the river kelpie"
+    },
+    {
+      "id": "nykur",
+      "name": "Nykur (Nennir)",
+      "relationship": "similar",
+      "description": "Icelandic water-horse with reversed hooves; a North Atlantic counterpart"
+    },
+    {
+      "id": "bunyip",
+      "name": "Bunyip",
+      "relationship": "similar",
+      "description": "Australian water-spirit that, like the kelpie, embodies the lethal danger of inland waters"
+    },
+    {
+      "id": "nixie",
+      "name": "Nixie / Nix",
+      "relationship": "similar",
+      "description": "Germanic water spirit, sometimes equine, paralleling the kelpie's role"
+    },
+    {
+      "id": "ceffyl-dwr",
+      "name": "Ceffyl Dŵr",
+      "relationship": "regional_variant",
+      "description": "Welsh water-horse"
+    }
+  ],
+  "cultural_notes": "Avoid lone water at dusk; do not mount a strange horse near a loch; never accept a ride from a charming stranger near water.",
+  "sources": [
+    {
+      "id": "wikipedia-kelpie",
+      "type": "website",
+      "title": "Kelpie",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Kelpie",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "campbell-1860",
+      "type": "book",
+      "title": "Popular Tales of the West Highlands",
+      "authors": [
+        "John Francis Campbell"
+      ],
+      "publication": "Edmonston and Douglas, Edinburgh",
+      "date": "1860"
+    },
+    {
+      "id": "campbell-1900",
+      "type": "book",
+      "title": "Superstitions of the Highlands and Islands of Scotland",
+      "authors": [
+        "John Gregorson Campbell"
+      ],
+      "publication": "James MacLehose and Sons",
+      "date": "1900"
+    },
+    {
+      "id": "scott-1830",
+      "type": "book",
+      "title": "Letters on Demonology and Witchcraft",
+      "authors": [
+        "Walter Scott"
+      ],
+      "publication": "John Murray",
+      "date": "1830"
+    },
+    {
+      "id": "briggs-1976",
+      "type": "book",
+      "title": "An Encyclopedia of Fairies: Hobgoblins, Brownies, Bogies, and Other Supernatural Creatures",
+      "authors": [
+        "Katharine Briggs"
+      ],
+      "publication": "Pantheon Books",
+      "date": "1976",
+      "isbn": "978-0394734675"
+    },
+    {
+      "id": "burns-1786",
+      "type": "book",
+      "title": "Poems, Chiefly in the Scottish Dialect ('Kilmarnock edition')",
+      "authors": [
+        "Robert Burns"
+      ],
+      "date": "1786"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Loch Ness",
+      "lat": 57.3229,
+      "lng": -4.4244
+    },
+    {
+      "name": "River Spey",
+      "lat": 57.65,
+      "lng": -3.05
+    }
+  ]
 }

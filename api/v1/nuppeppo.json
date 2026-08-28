@@ -3,6 +3,7 @@
   "name": "Nuppeppō",
   "category": "entity_spirit",
   "description": "A blob-like Japanese yokai resembling a soft, wrinkled mass of flesh, said to wander abandoned temples and graveyards. Depicted in classic Edo-period yokai scrolls including Toriyama Sekien's Gazu Hyakki Yagyō (1776).",
+  "full_description": "The Nuppeppō (ぬっぺっぽう) is a yokai of Japanese folklore depicted as an amorphous, wrinkled blob of flesh — roughly humanoid in scale but lacking distinct features beyond rudimentary fingers, toes, and a face suggested by folds of skin. Tradition assigns it no eyes or ears, and it is generally treated as harmless, wandering deserted places: abandoned temples, graveyards, and empty village streets, especially at night and at year's end. Its name derives from nupperi (ぬっぺり), a derogatory term for women wearing heavy makeup, referencing the saggy face. The Nuppeppō is depicted in major Edo-period yokai scrolls including the Bakemono no e (c. 1700, held at Brigham Young University's L. Tom Perry Special Collections), Sawaki Suushi's Hyakkai Zukan (1737), and Toriyama Sekien's Gazu Hyakki Yagyō (1776). A related tradition — the nikujin ('meat-person') reported at Sunpu Castle in 1609 — is sometimes associated with the Nuppeppō; in some lore, eating its flesh confers immortality, echoing Chinese 'feng' or panacea-creature traditions.",
   "aliases": [
     {
       "name": "ぬっぺっぽう",
@@ -38,5 +39,86 @@
   "origin": "Japan; an Edo-period yokai documented in classical Japanese yokai scrolls.",
   "first_reported": "1700-01-01",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Japanese, from nupperi (ぬっぺり), a term referring to drooping or sagging — originally a derogatory description of women in heavy makeup",
+    "meaning": "Approximately 'sagging / drooping thing'",
+    "first_use": "Edo period; depicted by name in 18th-century yokai scrolls"
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "1609-01-01",
+      "event": "A nikujin ('meat-person') is reported at Sunpu Castle (Tokugawa Ieyasu's residence); later commentators connect this incident to Chinese 'feng' panacea-creature lore and to Nuppeppō tradition",
+      "significance": "Often-cited proto-Nuppeppō historical anecdote",
+      "source": "Wikipedia, 'Nuppeppo'"
+    },
+    {
+      "date": "1700-01-01",
+      "event": "Bakemono no e scroll (c. 1700) depicts the Nuppeppō; held at Brigham Young University's L. Tom Perry Special Collections",
+      "significance": "Earliest visual attestation of the Nuppeppō by name",
+      "source": "Bakemono no e (BYU L. Tom Perry Special Collections)"
+    },
+    {
+      "date": "1737-01-01",
+      "event": "Sawaki Suushi includes the Nuppeppō in the Hyakkai Zukan (1737)",
+      "significance": "Major Edo-period yokai-scroll attestation",
+      "source": "Sawaki Suushi, Hyakkai Zukan"
+    },
+    {
+      "date": "1776-01-01",
+      "event": "Toriyama Sekien depicts the Nuppeppō in the Gazu Hyakki Yagyō (1776)",
+      "significance": "Most influential and widely-reproduced visual depiction",
+      "source": "Toriyama Sekien, Gazu Hyakki Yagyō"
+    }
+  ],
+  "related": [
+    {
+      "id": "noppera-bo",
+      "name": "Noppera-bō",
+      "relationship": "related",
+      "description": "Faceless yokai sometimes confused with or treated as a precursor to the Nuppeppō"
+    },
+    {
+      "id": "hitotsume-kozo",
+      "name": "Hitotsume-kozō",
+      "relationship": "similar",
+      "description": "Other Edo-period featureless yokai compiled by Toriyama Sekien"
+    }
+  ],
+  "cultural_notes": "Treated as a grotesque but generally harmless yokai; in rare traditions its flesh is said to confer immortality.",
+  "sources": [
+    {
+      "id": "wikipedia-nuppeppo",
+      "type": "website",
+      "title": "Nuppeppo",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Nuppeppo",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "sekien-gazu-hyakki",
+      "type": "book",
+      "title": "Gazu Hyakki Yagyō",
+      "authors": [
+        "Toriyama Sekien"
+      ],
+      "date": "1776"
+    },
+    {
+      "id": "sawaki-hyakkai",
+      "type": "book",
+      "title": "Hyakkai Zukan",
+      "authors": [
+        "Sawaki Suushi"
+      ],
+      "date": "1737"
+    }
+  ],
+  "locations": []
 }

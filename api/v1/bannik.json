@@ -3,6 +3,7 @@
   "name": "Bannik",
   "category": "entity_spirit",
   "description": "A male tutelary spirit of the Russian and East Slavic bathhouse (banya): unpredictable, sometimes helpful and sometimes deadly, who must be propitiated by ritual hospitality. Appears as a small, naked old man covered in soot and birch leaves.",
+  "full_description": "Bannik (Russian: Ба́нник, from banya 'bathhouse') is a male household spirit of Russian and broader East Slavic folk belief associated with the banya — the rural Russian wood-fired bathhouse. Unlike the largely benevolent domovoi (house spirit), the bannik is dangerous and territorial, although capable of helpful behaviour if treated correctly. He appears as a small, naked, long-bearded old man covered with soot and the birch leaves of used bath-besoms (veniki); some accounts give him shapeshifting abilities and let him appear as stone or coal, or take a human shape. The bathhouse in pre-modern East Slavic peasant culture was a liminal space — built apart from the dwelling, used for cleansing, healing, divination, and sometimes childbirth. As such, it was treated as the property of the bannik, who was reserved a 'fourth firing' (after the three for human bathers) and given offerings of fir branches, water, and soap. Visitors who broke bathhouse etiquette — entering after midnight, breaking ritual order, or speaking taboo subjects — risked being scalded, suffocated by steam, or driven mad. Reciprocally, the bannik could foretell the future by stroking or striking a person's bare back at the threshold. Bannik traditions are documented in 19th-century Russian ethnographies (e.g. A. N. Afanasyev's Poetic Views, 1865-69; D. K. Zelenin's Russkaya etnografiya, 1927) and synthesised in modern English-language scholarship by Linda J. Ivanits's Russian Folk Belief (M. E. Sharpe, 1989) and W. F. Ryan's The Bathhouse at Midnight (Penn State, 1999). A female counterpart, the bannaikha (or obderikha), and other bath-related spirits (shishiga, kikimora) appear in some regions.",
   "aliases": [
     {
       "name": "Ба́нник",
@@ -48,5 +49,139 @@
   "origin": "Documented across the Russian, Belarusian, and Ukrainian peasant cultural area, with cognate bath-spirit traditions in West Slavic and Baltic regions.",
   "first_reported": "19th century",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Russian баня (banya, 'bathhouse') + agent suffix -ник (-nik), giving 'the one of the bathhouse'.",
+    "meaning": "'Bathhouse spirit' / 'bathhouse-fellow'.",
+    "first_use": "Established usage in Russian peasant tradition documented from at least the 19th century; the underlying tradition is likely older."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "1865-1869",
+      "event": "A. N. Afanasyev publishes Poeticheskie vozzreniya slavyan na prirodu (Poetic Views of the Slavs on Nature), 3 vols.",
+      "significance": "Foundational scholarly synthesis including bannik traditions.",
+      "source": "Afanasyev, Poeticheskie vozzreniya slavyan na prirodu (1865-69)."
+    },
+    {
+      "date": "1903",
+      "event": "S. V. Maksimov publishes Nechistaya, nevedomaya i krestnaya sila (Unclean, Unknown and Holy Power), one of the standard Russian ethnographies of household and structure spirits including the bannik.",
+      "significance": "Standard Russian ethnographic reference.",
+      "source": "Maksimov, Nechistaya, nevedomaya i krestnaya sila (St. Petersburg, 1903)."
+    },
+    {
+      "date": "1927",
+      "event": "D. K. Zelenin publishes Russische (Ostslavische) Volkskunde (German edition); a comprehensive ethnography of East Slavic folklore including the bannik.",
+      "significance": "Major scholarly synthesis.",
+      "source": "Zelenin, D. K., Russkaya etnografiya / Russische (Ostslavische) Volkskunde (1927)."
+    },
+    {
+      "date": "1989",
+      "event": "Linda J. Ivanits publishes Russian Folk Belief (M. E. Sharpe), with a substantial chapter on the bannik.",
+      "significance": "Standard English-language reference.",
+      "source": "Ivanits, L. J., Russian Folk Belief (1989), ISBN 978-0873324229."
+    },
+    {
+      "date": "1999",
+      "event": "W. F. Ryan publishes The Bathhouse at Midnight: An Historical Survey of Magic and Divination in Russia (Penn State).",
+      "significance": "Major historical survey of Russian bathhouse magic, including the bannik.",
+      "source": "Ryan, W. F., The Bathhouse at Midnight (1999), ISBN 978-0271019673."
+    }
+  ],
+  "related": [
+    {
+      "id": "domovoi",
+      "name": "Domovoi",
+      "relationship": "related",
+      "description": "Slavic household spirit of the dwelling itself; generally benevolent counterpart to the bannik."
+    },
+    {
+      "id": "ovinnik",
+      "name": "Ovinnik",
+      "relationship": "similar",
+      "description": "Spirit of the threshing-barn (ovin) in Russian peasant tradition; another structure-tutelary spirit."
+    },
+    {
+      "id": "dvorovoi",
+      "name": "Dvorovoi",
+      "relationship": "related",
+      "description": "Spirit of the courtyard or yard."
+    },
+    {
+      "id": "kikimora",
+      "name": "Kikimora",
+      "relationship": "related",
+      "description": "Female household spirit; sometimes paired with the bannik in some regions."
+    },
+    {
+      "id": "bannaya",
+      "name": "Bannaya / Obderikha",
+      "relationship": "counterpart",
+      "description": "Female bathhouse spirit; counterpart of the bannik in some regions."
+    },
+    {
+      "id": "leshy",
+      "name": "Leshy",
+      "relationship": "related",
+      "description": "Slavic forest spirit; another structure-bound or place-bound figure of Russian peasant tradition."
+    }
+  ],
+  "cultural_notes": "The bathhouse is treated as a liminal space owned by the bannik; bathers reserve the 'fourth firing' for him, leave offerings, observe taboos, and perform divinations at the threshold.",
+  "sources": [
+    {
+      "id": "wikipedia-bannik",
+      "type": "website",
+      "title": "Bannik — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Bannik",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "ivanits-1989",
+      "type": "book",
+      "title": "Russian Folk Belief",
+      "authors": [
+        "Linda J. Ivanits"
+      ],
+      "publication": "M. E. Sharpe",
+      "date": "1989",
+      "isbn": "978-0873324229"
+    },
+    {
+      "id": "ryan-1999",
+      "type": "book",
+      "title": "The Bathhouse at Midnight: An Historical Survey of Magic and Divination in Russia",
+      "authors": [
+        "W. F. Ryan"
+      ],
+      "publication": "Pennsylvania State University Press",
+      "date": "1999",
+      "isbn": "978-0271019673"
+    },
+    {
+      "id": "afanasyev-1865",
+      "type": "book",
+      "title": "Poeticheskie vozzreniya slavyan na prirodu",
+      "authors": [
+        "A. N. Afanasyev"
+      ],
+      "publication": "Moscow",
+      "date": "1865-1869"
+    },
+    {
+      "id": "maksimov-1903",
+      "type": "book",
+      "title": "Nechistaya, nevedomaya i krestnaya sila",
+      "authors": [
+        "S. V. Maksimov"
+      ],
+      "publication": "St. Petersburg",
+      "date": "1903"
+    }
+  ],
+  "locations": []
 }

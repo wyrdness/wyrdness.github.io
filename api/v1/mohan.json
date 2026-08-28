@@ -3,6 +3,7 @@
   "name": "El Mohán",
   "category": "entity_spirit",
   "description": "El Mohán is a Colombian folk figure — a hairy, long-bearded river spirit and shamanic ancestor associated with the Magdalena River and the rivers of Tolima and Huila — said to seduce young women, harass fishermen, and guard hidden treasures.",
+  "full_description": "El Mohán (also Muan, Moán, Mohanes, Poira) is one of the most important figures of Colombian folklore. He is described as a hairy, long-bearded man with long hair, gold teeth, and an ever-lit cigar, sometimes wearing finery and adorned with gold ornaments. The legend has its strongest roots in the Pijao and Panche peoples of central Colombia, in the area historically called Tolima Grande (the modern departments of Tolima and Huila), and the Magdalena River is described as his principal home. In indigenous Tolima-region usage 'mohán' originally referred to shamans and witch-doctors who served as intermediaries between the human community and ancestral spirits or natural forces; under colonial Catholicism the figure was demonised, and in modern folklore he is variously portrayed as a satyr-like being, a forest or barren-land spirit, an old, brawny indigenous man with a terrifying grin, or a hybrid creature with fish-fins on his back and short legs. He is associated with shapeshifting (often into a cat, alligator, or black bear), with the seduction of women washing clothes at riverbanks, with the harassment of fishermen who break rules of restraint, and with treasures hidden in caves and beneath waterfalls. Today El Mohán functions as a cultural symbol of respect for rivers, fish stocks and the natural environment.",
   "aliases": [
     {
       "name": "Mohán",
@@ -50,5 +51,102 @@
   "origin": "Strongest in the Magdalena River basin and the central Andean Colombian departments of Tolima and Huila. Variants of the figure (Muan, Moan, Poira, Mohanes) appear across Colombia and into other parts of South and Central America.",
   "first_reported": "Pre-Columbian",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "From indigenous Tolima-region usage where 'mohán' denoted shamans / witch-doctors. 'Poira' is a regional variant associated with Cerro del Pacandé.",
+    "meaning": "Originally 'shaman' or 'witch-doctor' in Tolima-region indigenous usage; later applied to the supernatural figure of the river.",
+    "first_use": "Pre-Columbian indigenous (Pijao / Panche) usage; Spanish-language attestation from the colonial period."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "Pre-Columbian",
+      "event": "Indigenous Pijao and Panche peoples revere mohán shamans as intermediaries with spirits and natural forces",
+      "significance": "Cultural baseline of the figure",
+      "source": "Wikipedia: Mohanes; Botero (1999)"
+    },
+    {
+      "date": "Colonial era",
+      "event": "Spanish colonial Catholicism re-codes mohán shamans as demonic and the figure becomes a folk-supernatural entity rather than a living office",
+      "significance": "Demonisation under colonial religion",
+      "source": "Wikipedia: Mohanes"
+    },
+    {
+      "date": "20th-21st century",
+      "event": "El Mohán becomes a major figure of Colombian national folklore, education, and tourism, often invoked in environmental discourse",
+      "significance": "Modern folklore canonisation",
+      "source": "Colombia Country Brand and folklore commentary"
+    }
+  ],
+  "related": [
+    {
+      "id": "patasola",
+      "name": "Patasola",
+      "relationship": "related",
+      "description": "Other Colombian forest spirit who lures travellers"
+    },
+    {
+      "id": "madremonte",
+      "name": "Madremonte",
+      "relationship": "related",
+      "description": "Colombian guardian spirit of the wild"
+    },
+    {
+      "id": "boto-cor-de-rosa",
+      "name": "Boto Encantado",
+      "relationship": "similar",
+      "description": "Amazonian river-spirit who seduces women, in Brazilian folklore"
+    },
+    {
+      "id": "iara",
+      "name": "Iara",
+      "relationship": "similar",
+      "description": "Brazilian river-spirit who lures men into water"
+    },
+    {
+      "id": "yacuruna",
+      "name": "Yacuruna",
+      "relationship": "similar",
+      "description": "Amazonian Quechua river-spirit"
+    },
+    {
+      "id": "tunda",
+      "name": "La Tunda",
+      "relationship": "related",
+      "description": "Pacific-coast Colombian shape-shifting forest spirit"
+    }
+  ],
+  "cultural_notes": "El Mohán is treated as both feared and respected: he embodies the danger of the river, but also its bounty and the moral demands it places on people who depend on it.",
+  "sources": [
+    {
+      "id": "wikipedia-mohanes",
+      "type": "website",
+      "title": "Mohan (legendary)",
+      "publication": "Wikipedia (article 'Mohanes')",
+      "url": "https://en.wikipedia.org/wiki/Mohanes",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "wikipedia-colombian-folklore",
+      "type": "website",
+      "title": "Colombian folklore",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Colombian_folklore",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "colombia-country-brand-myths",
+      "type": "website",
+      "title": "Colombia's myths and legends",
+      "publication": "Colombia Country Brand (colombia.co)",
+      "url": "https://colombia.co/en/colombia-country/history/colombias-myths-legends",
+      "accessed": "2026-05-07"
+    }
+  ],
+  "locations": []
 }

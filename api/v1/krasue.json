@@ -3,6 +3,7 @@
   "name": "Krasue",
   "category": "undead",
   "description": "A female nocturnal spirit of mainland Southeast Asian folklore, manifesting as a floating disembodied woman's head from which the heart, stomach and other internal organs trail. Belief in the Krasue remains active in rural Thailand, Laos and Cambodia.",
+  "full_description": "The Krasue (Thai: กระสือ; Khmer: អាប, Ahp; Lao: Kasu) is a female spirit of mainland Southeast Asian folklore. By day she lives as an ordinary woman; at night her head detaches from her body and floats free, the heart, stomach and a length of intestine still attached and dangling beneath. In this form she hunts for blood and raw flesh, often preying on livestock or on pregnant women and newborns, and is associated with luminous lights seen drifting across rice fields. The headless body must be hidden during the night and the head must rejoin it before sunrise; if the body is destroyed or hidden too well, the Krasue will die. Belief in the Krasue remains widespread in rural Thailand, Laos and Cambodia. The figure belongs to a wider Southeast Asian complex of detached-head female spirits that includes the Khmer Ahp, Lao Kasu, Malay Penanggal, Indonesian Kuyang and Balinese Leyak, and Filipino Manananggal.",
   "aliases": [
     {
       "name": "Phi Krasue",
@@ -73,5 +74,124 @@
   "origin": "Belief in the Krasue and its cognates spans mainland Southeast Asia and the Malay Archipelago, with the strongest contemporary tradition in rural Thailand, Laos and Cambodia. Closely related figures are reported throughout Malaysia, Indonesia (including Bali), the Philippines and parts of Vietnam.",
   "first_reported": "Pre-modern",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Thai กระสือ (krasue). The Khmer cognate Ahp is traditionally derived from Sanskrit आप्यति (āpyati), meaning 'to cause anyone to suffer'.",
+    "meaning": "The vernacular Thai name has no fixed lexical meaning beyond identifying the spirit; in usage 'krasue' is now generic for this category of detached-head ghost.",
+    "first_use": "Documented in Thai and Khmer folklore long before modern attestation; first systematic English-language description in late 19th- and early 20th-century colonial ethnographies of Southeast Asia."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0,
+    "date_range": {
+      "earliest": "pre-modern",
+      "latest": "2026"
+    }
+  },
+  "timeline": [
+    {
+      "date": "Pre-modern",
+      "event": "Krasue/Ahp/Kasu belief established across mainland Southeast Asia as part of folk religion",
+      "significance": "Cultural baseline",
+      "source": "Oral tradition"
+    },
+    {
+      "date": "1973",
+      "event": "Thai film 'Krasue Sao' released, establishing Krasue as a mainstay of Thai horror cinema",
+      "significance": "Beginning of the modern Thai-cinematic Krasue",
+      "source": "Wikipedia: Krasue"
+    },
+    {
+      "date": "2002",
+      "event": "Thai film 'Demonic Beauty' (Krasue) released, treating the Krasue legend through a romantic-horror frame",
+      "significance": "Mainstream regional revival of the figure",
+      "source": "Wikipedia: Krasue"
+    },
+    {
+      "date": "2008-08",
+      "event": "CCTV footage from a lemon-juice factory in Pathum Thani Province, Thailand, was widely reported as depicting a Krasue",
+      "significance": "High-profile modern 'sighting' that received national news coverage; an imaging analyst suggested an explanation involving light reflection",
+      "source": "Wikipedia: Krasue"
+    },
+    {
+      "date": "2014-06",
+      "event": "Hundreds of teenagers in Ayutthaya Province, Thailand, gathered to watch red lights moving over rice fields, attributed locally to a Krasue",
+      "significance": "Crowd-scale modern Krasue panic; landowner attributed the lights to bird-scaring lanterns",
+      "source": "Wikipedia: Krasue"
+    },
+    {
+      "date": "2019",
+      "event": "Thai romantic-horror film 'Inhuman Kiss' (Sang Krasue) released, gaining international attention as Thailand's submission for the Academy Awards Best International Feature consideration",
+      "significance": "Most internationally visible recent Krasue production",
+      "source": "Wikipedia: Krasue"
+    }
+  ],
+  "related": [
+    {
+      "id": "penanggalan",
+      "name": "Penanggalan",
+      "relationship": "regional_variant",
+      "description": "Malay detached-head female vampire"
+    },
+    {
+      "id": "leyak",
+      "name": "Leyak",
+      "relationship": "regional_variant",
+      "description": "Balinese practitioner of black magic with a detached flying head"
+    },
+    {
+      "id": "manananggal",
+      "name": "Manananggal",
+      "relationship": "similar",
+      "description": "Philippine winged vampire that severs at the waist"
+    },
+    {
+      "id": "langsuir",
+      "name": "Langsuir",
+      "relationship": "similar",
+      "description": "Malay female revenant of women who died in childbirth"
+    },
+    {
+      "id": "nukekubi",
+      "name": "Nukekubi",
+      "relationship": "similar",
+      "description": "Japanese detached-head yōkai"
+    },
+    {
+      "id": "rokurokubi",
+      "name": "Rokurokubi",
+      "relationship": "similar",
+      "description": "Japanese yōkai whose neck stretches at night"
+    }
+  ],
+  "cultural_notes": "The Krasue is widely understood as a curse on a living woman rather than a free-floating ghost. Protective practices include surrounding sleeping people with thorny branches that the entrails cannot pass; hiding or destroying the headless body during the night; in Cambodia, burying the placenta of a newborn far from the home so an Ahp cannot reach it.",
+  "sources": [
+    {
+      "id": "wikipedia-krasue",
+      "type": "website",
+      "title": "Krasue",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Krasue",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "wikipedia-leyak",
+      "type": "website",
+      "title": "Leyak",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Leyak",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "wikipedia-langsuyar",
+      "type": "website",
+      "title": "Langsuyar",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Langsuyar",
+      "accessed": "2026-05-07"
+    }
+  ],
+  "locations": []
 }

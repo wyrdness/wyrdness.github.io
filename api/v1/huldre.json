@@ -3,6 +3,7 @@
   "name": "Hulder",
   "category": "fae_folklore",
   "description": "The Hulder (Huldra) is a seductive and beautiful supernatural woman from Scandinavian folklore who conceals her true nature — a hollow back like a rotted tree and an animal's tail — beneath her alluring appearance.",
+  "full_description": "The Hulder (Norwegian: Huldra; Swedish: Skogsrå or Tallemaja) is one of the most widely attested supernatural beings of Scandinavian folk tradition. She appears as an extraordinarily beautiful woman — sometimes described as having long flowing hair and wearing traditional rural dress — but conceals inhuman features beneath her clothing: an animal's tail (usually a cow's or fox's tail) and a back that is hollow and resembles the inside of a rotted-out tree trunk. Her name derives from a Proto-Germanic root meaning 'covered' or 'secret,' and scholars have noted connections to the völva figure Huld and the German Holda. The Hulder dwells in forests and mountains and is associated with wild, liminal spaces at the edge of human settlement. She is known to approach lone men, particularly hunters, woodcutters, and charcoal burners; she could be kind when treated with respect — folklore holds that hulders were generous to charcoal burners, watching their kilns while they slept. In other accounts she leads men astray or lures them to their deaths. She has a male counterpart, the Huldrekall. Regional variants include the Swedish Skogsrå (forest guardian) and the Sámi Ulda. Her story has been collected and published by Norwegian folklorists Peter Christen Asbjørnsen and Jørgen Moe.",
   "aliases": [
     {
       "name": "Huldra",
@@ -59,5 +60,72 @@
   "origin": "Scandinavian Peninsula and Sámi territories. Documented primarily in Norway, Sweden, and Sápmi. Regional naming variants reflect local linguistic traditions.",
   "first_reported": "Pre-1800",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Norwegian/Old Norse; the name derives from a Proto-Germanic root meaning 'covered' or 'secret.' Scholars connect it to the Old Norse völva Huld and the German Holda (a similar hidden woman of German folklore).",
+    "meaning": "The name means 'the hidden one' or 'the secret one,' referring to the creature's concealed true nature.",
+    "first_use": "Attested in Scandinavian oral tradition from medieval times; systematically documented in 19th century by Asbjørnsen and Moe."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "1845-01-01",
+      "event": "Peter Christen Asbjørnsen and Jørgen Moe publish collected Norwegian folktales including hulder narratives",
+      "significance": "First major systematic publication of hulder lore; defines the creature for modern scholarship",
+      "source": "Asbjørnsen, P. C. & Moe, J. (1845), Norske Folkeeventyr"
+    }
+  ],
+  "related": [
+    {
+      "id": "sjora",
+      "name": "Sjörå",
+      "relationship": "similar",
+      "description": "Water spirit in Scandinavian tradition; parallel to the Hulder in aquatic contexts"
+    },
+    {
+      "id": "bergsra",
+      "name": "Bergsrå",
+      "relationship": "similar",
+      "description": "Cave/mine spirit in Scandinavian tradition; parallel guardian of underground spaces"
+    },
+    {
+      "id": "holda",
+      "name": "Holda",
+      "relationship": "related",
+      "description": "German female supernatural figure with similar attributes; possible etymological connection"
+    },
+    {
+      "id": "melusine",
+      "name": "Melusine",
+      "relationship": "similar",
+      "description": "European water-woman with concealed serpentine lower body; shares the theme of hidden nature"
+    }
+  ],
+  "cultural_notes": "In traditional Scandinavian belief, the hulder and related hidden folk inhabit the same spaces as humans but remain normally invisible. They demand respect for the natural world and punish those who show contempt for it. A hulder who married a Christian man could be humanized through the church sacrament.",
+  "sources": [
+    {
+      "id": "asbjornsen-moe-1845",
+      "type": "book",
+      "title": "Norske Folkeeventyr",
+      "authors": [
+        "Peter Christen Asbjørnsen",
+        "Jørgen Moe"
+      ],
+      "date": "1845",
+      "notes": "Foundational Norwegian folktale collection including hulder narratives"
+    },
+    {
+      "id": "wikipedia-hulder",
+      "type": "website",
+      "title": "Hulder",
+      "url": "https://en.wikipedia.org/wiki/Hulder",
+      "accessed": "2026-05-08"
+    }
+  ],
+  "locations": []
 }

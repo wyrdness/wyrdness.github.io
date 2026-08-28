@@ -3,6 +3,7 @@
   "name": "Cheollima",
   "category": "mythological_creature",
   "description": "A mythical winged horse of East Asian tradition — Korean cheollima, Chinese qianlima — said to gallop one thousand li in a single day. Long used as a metaphor for exceptional talent in classical Chinese and Korean literature, and adopted in the 20th century as a state symbol in North Korea.",
+  "full_description": "The cheollima (Korean 천리마, Hanja 千里馬; Chinese qiānlǐmǎ; Japanese senrima) is a mythical winged horse of East Asian tradition. The name literally means 'thousand-li horse' — a li being a Chinese unit of distance of about 0.5 km (modern) or roughly 0.4 km in classical use — and the creature is said to be capable of travelling one thousand li (approximately 400 km) in a single day, far beyond the reach of any ordinary horse, and to be too swift and excellent to be ridden by any mortal. The image originates in classical Chinese literature: it is associated with the legendary horse-judge Bo Le (伯樂), and with the proverb 'a thousand-li horse is common, but Bo Le is rare', meaning that exceptional talent goes unrecognised without a discerning patron. In Korea the figure was absorbed into Goryeo and Joseon literature and folklore, and acquired an additional life in the 20th century when the Workers' Party of Korea launched the Chollima Movement in late 1956 / early 1957 — a mass mobilisation campaign in the wake of the Korean War, modelled in part on the Chinese Great Leap Forward — and erected the 46-metre bronze Chollima Statue in Pyongyang in 1961. The cheollima is also the nickname of the North Korean men's national football team and lends its name to a 21st-century North Korean dissident movement (Cheollima Civil Defense / Free Joseon).",
   "aliases": [
     {
       "name": "천리마",
@@ -46,5 +47,96 @@
   "origin": "Sino-Korean cultural sphere; with strong modern presence in the Korean peninsula, especially North Korea.",
   "first_reported": "0300-01-01",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Sino-Korean compound 千 (cheon, 'thousand') + 里 (ri/li, the East Asian unit of distance) + 馬 (ma, 'horse').",
+    "meaning": "'Thousand-li horse' — a horse capable of running one thousand li in a day.",
+    "first_use": "The Chinese qianlima motif is attested in classical Chinese texts of the late Warring States and Han periods (c. 3rd c. BCE – 1st c. CE); the Korean cheollima is current in Goryeo and Joseon literature."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "0300-01-01",
+      "event": "The qianlima motif is established in classical Chinese literature, often paired with the figure of Bo Le (Sun Yang)",
+      "significance": "Origin of the literary motif",
+      "source": "Classical Chinese texts (Warring States / Han)"
+    },
+    {
+      "date": "1956-12-01",
+      "event": "Workers' Party of Korea launches the Chollima Movement at the December 1956 plenum",
+      "significance": "State adoption of the cheollima as an emblem of post-war reconstruction",
+      "source": "DPRK state historiography"
+    },
+    {
+      "date": "1961-04-15",
+      "event": "Unveiling of the 46-metre Chollima Statue on Mansu Hill, Pyongyang",
+      "significance": "Physical monument to the Chollima Movement",
+      "source": "DPRK state media"
+    },
+    {
+      "date": "2017-03-11",
+      "event": "Cheollima Civil Defense (later Free Joseon) is formed as a dissident movement assisting at-risk North Koreans abroad",
+      "significance": "21st-c. dissident appropriation of the cheollima symbol",
+      "source": "Group's public statements; international press"
+    }
+  ],
+  "related": [
+    {
+      "id": "qianlima",
+      "name": "Qianlima",
+      "relationship": "counterpart",
+      "description": "Chinese parent tradition"
+    },
+    {
+      "id": "senrima",
+      "name": "Senrima",
+      "relationship": "counterpart",
+      "description": "Japanese cognate"
+    },
+    {
+      "id": "pegasus",
+      "name": "Pegasus",
+      "relationship": "similar",
+      "description": "Greek mythological winged horse, with which the cheollima is sometimes loosely compared"
+    }
+  ],
+  "cultural_notes": "The cheollima is widely understood as a literary and political symbol rather than a literal animal; in DPRK official discourse it functions as an emblem of national speed and self-reliance.",
+  "sources": [
+    {
+      "id": "wikipedia-chollima",
+      "type": "website",
+      "title": "Chollima",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Chollima",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "wikipedia-chollima-movement",
+      "type": "website",
+      "title": "Chollima Movement",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Chollima_Movement",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "wikipedia-chollima-statue",
+      "type": "website",
+      "title": "Chollima Statue",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Chollima_Statue",
+      "accessed": "2026-05-07"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Chollima Statue, Pyongyang",
+      "lat": 39.0383,
+      "lng": 125.7591
+    }
+  ]
 }

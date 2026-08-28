@@ -3,6 +3,7 @@
   "name": "Kidney Thieves Urban Legend",
   "category": "urban_legend",
   "description": "A widely circulated late-20th-century urban legend in which a traveler, often male, is drugged by a stranger and wakes in a bathtub of ice with a fresh surgical incision and a note instructing them to call 911 because their kidney has been removed for the black market.",
+  "full_description": "The 'kidney thieves' or 'kidney heist' urban legend is one of the most heavily documented modern American urban legends. In its canonical form a businessman or traveler meets an attractive stranger at a bar (most commonly in New Orleans, Las Vegas, or another convention city), accepts a drink, blacks out, and awakens hours later in a hotel bathtub filled with ice; a phone is placed beside the tub and a note instructs them to call 911 immediately, where they are told that one or both of their kidneys have been surgically removed and almost certainly sold on the black market. The legend was tracked from at least 1991 by folklorists and journalists, and from the mid-1990s by Snopes, the National Kidney Foundation, and law-enforcement agencies. It spread explosively as one of the first major chain-email legends in 1996–97. Despite intense investigation by police, transplant medicine professionals, and journalists, no documented case matching the legend has ever been substantiated; it is now a textbook example in folklore studies of an organ-theft 'contemporary legend' (Jan Harold Brunvand). It is distinct from the real, separately documented problem of organ trafficking (e.g., the 2008 Gurgaon kidney scandal in India), which involves consenting-but-coerced or deceived donors, not surreptitious surgical kidnapping.",
   "aliases": [
     {
       "name": "The Kidney Heist",
@@ -43,5 +44,149 @@
   "origin": "Originated in the United States and spread worldwide via email and social media; localized variants exist in many countries.",
   "first_reported": "1991",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Folkloric coinage; the phrase 'Kidney Heist' is journalistic.",
+    "meaning": "Self-explanatory: legend about kidneys being stolen.",
+    "first_use": "Folklore tracking dates the canonical 'bathtub of ice' form to 1991; the version went viral on email circa 1996–1997."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0,
+    "date_range": {
+      "earliest": "1991",
+      "latest": "present"
+    }
+  },
+  "timeline": [
+    {
+      "date": "1987-01-01",
+      "event": "Rumors of child organ theft spread in Central and South America, drawing condemnation from the U.S. Information Agency",
+      "significance": "Antecedent organ-theft rumor cluster",
+      "source": "Campion-Vincent, V. (1997), Organ Theft Narratives"
+    },
+    {
+      "date": "1991-01-01",
+      "event": "Earliest documented American-style bathtub-of-ice tellings of the kidney-theft legend tracked by folklorists",
+      "significance": "Canonical form emerges",
+      "source": "Snopes (snopes.com)"
+    },
+    {
+      "date": "1996-01-01",
+      "event": "The legend goes viral as an early major email forward, often citing fictional New Orleans police bulletins",
+      "significance": "First mass-viral spread on the internet",
+      "source": "Snopes; New Orleans Police Department public statement (1997)"
+    },
+    {
+      "date": "1997-03-09",
+      "event": "Spokesman-Review and other regional U.S. newspapers cover the rumor, quoting officials calling it an 'urban myth run amok'",
+      "significance": "Newspaper-of-record debunking",
+      "source": "Spokesman-Review (1997-03-09)"
+    },
+    {
+      "date": "1997-01-01",
+      "event": "Véronique Campion-Vincent publishes 'Organ Theft Narratives' in the Western Folklore journal",
+      "significance": "Academic anchoring of the legend within folkloristics",
+      "source": "Campion-Vincent, V., Western Folklore, 56(1), 1997"
+    },
+    {
+      "date": "1998-01-01",
+      "event": "National Kidney Foundation issues a formal statement asking any actual victim to come forward; none does",
+      "significance": "Public health debunking",
+      "source": "National Kidney Foundation press release"
+    },
+    {
+      "date": "2008-01-01",
+      "event": "The Gurgaon kidney scandal is exposed in India — a real organ-trafficking ring exploiting impoverished donors, structurally distinct from the legend",
+      "significance": "Often cited in coverage of the legend; underscores that real organ trafficking exists but does not match the bathtub-of-ice scenario",
+      "source": "Times of India and international coverage"
+    }
+  ],
+  "related": [
+    {
+      "id": "vanishing-hitchhiker",
+      "name": "The Vanishing Hitchhiker",
+      "relationship": "similar",
+      "description": "Classic American urban legend studied by Brunvand"
+    },
+    {
+      "id": "hook-man",
+      "name": "The Hook (Hook Man)",
+      "relationship": "similar",
+      "description": "Canonical mid-20th-century cautionary urban legend"
+    },
+    {
+      "id": "child-organ-theft-legend",
+      "name": "Child organ-theft rumors (Latin America, 1980s–90s)",
+      "relationship": "related",
+      "description": "Earlier wave of organ-theft rumors targeting foreign tourists in Central and South America"
+    },
+    {
+      "id": "blood-libel",
+      "name": "Blood libel",
+      "relationship": "related",
+      "description": "Much older defamatory body-harvesting rumor pattern that comparative folklorists treat as a structural ancestor"
+    }
+  ],
+  "cultural_notes": "Beware accepting drinks from strangers in unfamiliar cities; the human body can be reduced to a market commodity.",
+  "sources": [
+    {
+      "id": "snopes-kidney-theft",
+      "type": "website",
+      "title": "Kidney Theft",
+      "publication": "Snopes",
+      "url": "https://www.snopes.com/fact-check/youve-got-to-be-kidneying/",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "wikipedia-organ-theft",
+      "type": "website",
+      "title": "Organ theft",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Organ_theft",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "spokesman-1997-kidney",
+      "type": "news",
+      "title": "Rumors of Stolen Kidneys Spreading on Internet — Official Calls Message 'Urban Myth Run Amok'",
+      "publication": "The Spokesman-Review",
+      "date": "1997-03-09",
+      "url": "https://www.spokesman.com/stories/1997/mar/09/rumors-of-stolen-kidneys-spreading-on-internet/",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "campion-vincent-1997",
+      "type": "paper",
+      "title": "Organ Theft Narratives",
+      "authors": [
+        "Véronique Campion-Vincent"
+      ],
+      "publication": "Western Folklore",
+      "date": "1997",
+      "pages": "1-37"
+    },
+    {
+      "id": "brunvand-1993",
+      "type": "book",
+      "title": "The Baby Train and Other Lusty Urban Legends",
+      "authors": [
+        "Jan Harold Brunvand"
+      ],
+      "publication": "W. W. Norton",
+      "date": "1993",
+      "isbn": "978-0393311624"
+    },
+    {
+      "id": "cbs-transplant-myths",
+      "type": "news",
+      "title": "Transplant Myths & Urban Legends",
+      "publication": "CBS News",
+      "url": "https://www.cbsnews.com/news/transplant-myths-urban-legends/",
+      "accessed": "2026-05-07"
+    }
+  ],
+  "locations": []
 }

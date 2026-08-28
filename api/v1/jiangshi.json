@@ -3,6 +3,7 @@
   "name": "Jiangshi",
   "category": "undead",
   "description": "The jiangshi (僵尸, 'stiff corpse') is a reanimated corpse from Chinese folklore, depicted in modern popular culture in Qing dynasty official garb, hopping with arms outstretched, and draining the qi (life force) of the living. It is repelled by Taoist talismans, mirrors, and other ritual implements.",
+  "full_description": "The jiangshi (Mandarin jiāngshī, Cantonese goengsi) is a class of undead in Chinese folk religion and yokai-like popular folklore. The body is rigid (literally 'stiff corpse'), unable to bend at the knees, and so moves by hopping with arms thrust forward. Modern depictions standardize a Qing dynasty (1644–1912) court official's costume and a yellow paper talisman (符 fú) pasted to the forehead by a Taoist priest to control or pacify the corpse. Jiangshi are not blood-drinkers in the European sense but drain qi (氣) — vital breath / life force — from victims. Classical Qing-era literary sources are central: Yuan Mei's 'Zibuyu' (子不語, 'What the Master Would Not Discuss', 1788) and Ji Yun (Ji Xiaolan)'s 'Yuewei Caotang Biji' (閱微草堂筆記, 'Notes from the Thatched Cottage of Subtle Perception', late 18th century) catalogue jiangshi types and prevention methods. A widely-cited folk-cultural origin is the Xiangxi (Western Hunan) practice of 'transporting corpses over a thousand li' (赶尸 gǎnshī), in which Taoist priests reportedly led lines of corpses back to their hometowns for burial; observers describing this practice may have generated the modern hopping-corpse imagery. The jiangshi was made a global popular-culture icon by the 1985 Hong Kong horror-comedy 'Mr. Vampire' (殭屍先生), directed by Ricky Lau and produced by Sammo Hung, which spawned a sequel franchise and decades of related films, manhua, and video games. Defenses listed in folk and literary sources include peach-wood swords, sticky rice, mirrors, the blood of a black dog, the hooves of a black donkey, and Taoist talismans.",
   "aliases": [
     {
       "name": "僵尸 (jiāngshī)",
@@ -58,5 +59,115 @@
   "origin": "Native to Han Chinese folklore, with strong regional roots in southern China (especially Western Hunan / Xiangxi). The jiangshi spread throughout the Sinosphere — Hong Kong, Taiwan, Vietnam, Korea, and Japan — primarily through Hong Kong cinema in the 1980s.",
   "first_reported": "Pre-Qing oral tradition; 18th century literary",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Chinese 僵 (jiāng, 'stiff, rigid') + 尸 (shī, 'corpse')",
+    "meaning": "'Stiff corpse' or 'rigid corpse'",
+    "first_use": "Documented in Qing dynasty literary sources (late 18th century); folk tradition predates"
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "1788",
+      "event": "Yuan Mei publishes 'Zibuyu' (子不語), a major Qing-era anomaly-tale collection cataloguing jiangshi types and lore",
+      "significance": "Foundational classical literary source",
+      "source": "Yuan Mei (1788), Zibuyu"
+    },
+    {
+      "date": "1789",
+      "event": "Ji Yun's 'Yuewei Caotang Biji' (閱微草堂筆記) begins serial publication, including jiangshi tales and prevention methods",
+      "significance": "Second pillar of the classical jiangshi corpus",
+      "source": "Ji Yun, Yuewei Caotang Biji (c. 1789–1798)"
+    },
+    {
+      "date": "1985-11-07",
+      "event": "Hong Kong release of 'Mr. Vampire' (殭屍先生), directed by Ricky Lau and produced by Sammo Hung",
+      "significance": "Global mainstreaming of the jiangshi image and aesthetic",
+      "source": "Hong Kong cinema records"
+    },
+    {
+      "date": "1986",
+      "event": "Taiwanese-produced children's TV series 'Hello Jacky / Hsin Jiangshi Xiansheng' (新殭屍先生), spreads the 'Kyonshī' boom across East Asia",
+      "significance": "Children's-media propagation of jiangshi across the Sinosphere and Japan",
+      "source": "Taiwanese / Japanese TV records"
+    }
+  ],
+  "related": [
+    {
+      "id": "vampire",
+      "name": "European vampire",
+      "relationship": "similar",
+      "description": "Western blood-drinking undead; share vampiric framing but differ in mechanism"
+    },
+    {
+      "id": "zombie",
+      "name": "Zombie",
+      "relationship": "similar",
+      "description": "Reanimated corpse, but driven by hunger for flesh rather than qi"
+    },
+    {
+      "id": "gaki",
+      "name": "Gaki / preta",
+      "relationship": "related",
+      "description": "Hungry-ghost class of Buddhist / East Asian afterlife beings"
+    },
+    {
+      "id": "yurei",
+      "name": "Yūrei",
+      "relationship": "related",
+      "description": "Japanese ghost; sometimes paralleled with jiangshi in East Asian comparative folklore"
+    }
+  ],
+  "cultural_notes": "Belief in literal jiangshi has receded in modern urban China but remains a recognizable folk-religious framework; the figure is a fully entrenched cultural icon throughout the Sinosphere.",
+  "sources": [
+    {
+      "id": "wikipedia-jiangshi",
+      "type": "website",
+      "title": "Jiangshi",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Jiangshi",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "yuan-mei-1788",
+      "type": "book",
+      "title": "Zibuyu (子不語) — What the Master Would Not Discuss",
+      "authors": [
+        "Yuan Mei"
+      ],
+      "date": "1788"
+    },
+    {
+      "id": "ji-yun-1789",
+      "type": "book",
+      "title": "Yuewei Caotang Biji (閱微草堂筆記) — Notes from the Thatched Cottage of Subtle Perception",
+      "authors": [
+        "Ji Yun"
+      ],
+      "date": "c. 1789–1798"
+    },
+    {
+      "id": "mr-vampire-1985",
+      "type": "documentary",
+      "title": "Mr. Vampire (殭屍先生)",
+      "authors": [
+        "Ricky Lau (director)",
+        "Sammo Hung (producer)"
+      ],
+      "publication": "Bo Ho Films / Golden Harvest",
+      "date": "1985"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Xiangxi (Western Hunan)",
+      "lat": 28.3,
+      "lng": 109.7
+    }
+  ]
 }

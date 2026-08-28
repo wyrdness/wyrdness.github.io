@@ -3,6 +3,7 @@
   "name": "Sidehill Gouger",
   "category": "cryptid",
   "description": "The Sidehill Gouger is a fearsome critter of American lumberjack folklore: a hoofed, hill-dwelling beast with legs shorter on one side than the other, perfectly adapted to walk a steep slope but only in one direction around a hill. It belongs to the humorous tall-tale tradition of the North American logging camps and is not a creature anyone was ever expected to believe in.",
+  "full_description": "The Sidehill Gouger is one of the canonical 'fearsome critters' of North American lumberjack folklore — fictional animals of the bunkhouse tall-tale tradition, told (and dryly embellished) for the entertainment of new hands and visitors in late-19th and early-20th-century logging camps from New England west to the Pacific Northwest, and across the Great Lakes into Canada. The Gouger's defining feature is the asymmetric length of its legs: shorter on the uphill side and longer on the downhill side, allowing it to walk a steep mountainside in level comfort but only in one direction around the hill. Two opposed species or 'breeds' — clockwise and counterclockwise — are joked to occasionally meet, mate, and produce normal-legged offspring that have to take their chances on flat ground. The creature's mortal weakness is to be turned around to face the other way, or driven into the plain, where it is condemned to walk in endless circles. The Sidehill Gouger appears under many regional names — Sidehill Hoofer, Sidehill Dodger, Sidehill Wowser, Sidehill Winder, Wampahoofus (Vermont), Gwinter (Appalachia) — and is included in the canonical fearsome-critters compendia of William T. Cox's 'Fearsome Creatures of the Lumberwoods' (1910) and Henry H. Tryon's 'Fearsome Critters' (1939). Its function in tradition is unambiguously comic: an absurd 'just-so' explanation of mountain adaptation that takes the deadpan logic of natural selection one step too far.",
   "aliases": [
     {
       "name": "Sidehill Hoofer",
@@ -66,5 +67,114 @@
   "origin": "Reported in tall-tale tradition across the lumberwoods of the northern and western United States and adjacent Canada, particularly New England, the Adirondacks and Appalachians, the Great Lakes states, the Driftless Area of Wisconsin, the northern Rockies, and the Pacific Northwest.",
   "first_reported": "1910",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "American English (lumberwoods slang).",
+    "meaning": "'Side-hill' = a steep hillside; 'gouger' = something that gouges, here a punning name for an animal whose feet purportedly cut into the hill. Variants substitute hoofer, dodger, wowser, winder, etc.",
+    "first_use": "Late 19th century in oral lumberjack tradition; printed in William T. Cox's 'Fearsome Creatures of the Lumberwoods' (1910)."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "1910",
+      "event": "William T. Cox publishes 'Fearsome Creatures of the Lumberwoods, with a Few Desert and Mountain Beasts'",
+      "significance": "First printed compendium to record the Sidehill Gouger and its kin",
+      "source": "Cox, W. T. (1910)"
+    },
+    {
+      "date": "1939",
+      "event": "Henry H. Tryon publishes 'Fearsome Critters'",
+      "significance": "Second canonical fearsome-critters compendium, with extensive Sidehill Gouger material",
+      "source": "Tryon, H. H. (1939)"
+    },
+    {
+      "date": "1976",
+      "event": "Vance Randolph documents Ozark variants of side-hill creatures in 'We Always Lie to Strangers'",
+      "significance": "Folkloric attestation in another regional tradition",
+      "source": "Randolph (1951; reprint)"
+    }
+  ],
+  "related": [
+    {
+      "id": "hodag",
+      "name": "Hodag",
+      "relationship": "similar",
+      "description": "Wisconsin fearsome critter from the same lumberjack tall-tale tradition"
+    },
+    {
+      "id": "hidebehind",
+      "name": "Hidebehind",
+      "relationship": "similar",
+      "description": "Lumberjack tall-tale predator that always hides behind trees"
+    },
+    {
+      "id": "agropelter",
+      "name": "Agropelter",
+      "relationship": "similar",
+      "description": "Tree-throwing fearsome critter from Cox (1910)"
+    },
+    {
+      "id": "splinter-cat",
+      "name": "Splinter Cat",
+      "relationship": "similar",
+      "description": "Tree-shattering fearsome critter from Cox (1910)"
+    },
+    {
+      "id": "haggis-wild",
+      "name": "Wild haggis",
+      "relationship": "counterpart",
+      "description": "Scottish counterpart with the same asymmetric-leg joke"
+    },
+    {
+      "id": "dahu",
+      "name": "Dahu",
+      "relationship": "counterpart",
+      "description": "French / Alpine counterpart with shorter legs on one side"
+    }
+  ],
+  "cultural_notes": "Functions as humour, not as belief; participation in the joke is the test of belonging in lumberjack and outdoor culture.",
+  "sources": [
+    {
+      "id": "wikipedia-sidehill-gouger",
+      "type": "website",
+      "title": "Sidehill gouger",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sidehill_gouger",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "wikipedia-fearsome-critters",
+      "type": "website",
+      "title": "Fearsome critters",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Fearsome_critters",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "cox-1910",
+      "type": "book",
+      "title": "Fearsome Creatures of the Lumberwoods, with a Few Desert and Mountain Beasts",
+      "authors": [
+        "William T. Cox"
+      ],
+      "publication": "Judd & Detweiler",
+      "date": "1910"
+    },
+    {
+      "id": "tryon-1939",
+      "type": "book",
+      "title": "Fearsome Critters",
+      "authors": [
+        "Henry H. Tryon"
+      ],
+      "publication": "Idlewild Press",
+      "date": "1939"
+    }
+  ],
+  "locations": []
 }

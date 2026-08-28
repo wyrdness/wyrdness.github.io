@@ -3,6 +3,7 @@
   "name": "Men in Black",
   "category": "ufo_uap",
   "description": "Mysterious figures in dark suits who, in modern UFO lore beginning with Albert K. Bender (1953), allegedly visit witnesses of UFO sightings to intimidate them into silence; the tradition was popularised in print by Gray Barker and John Keel and has since become deeply embedded in popular culture.",
+  "full_description": "The Men in Black (MIB) are a recurring motif in modern UFO folklore: pale-skinned figures in dark, dated suits who appear after a UFO sighting or other anomalous experience and warn or intimidate the witness into silence. The tradition is conventionally dated to 1953, when Connecticut ufologist Albert K. Bender — founder of the International Flying Saucer Bureau (IFSB) in 1952 — abruptly closed the IFSB and announced that he had been visited by 'three men in black' who had silenced him. Bender's friend Gray Barker turned the story into the influential book They Knew Too Much About Flying Saucers (1956), and John Keel's later work (notably The Mothman Prophecies, 1975) folded MIB encounters into a broader ultraterrestrial framework. Folklorists such as Peter Rojcewicz and James R. Lewis treat MIB encounters as a 20th-century supernatural-encounter tradition structurally akin to older traditions of devils and demons. The Men in Black franchise (Marvel Comics 1990; Sony films 1997 onward) has made the figures a global pop-cultural icon, somewhat detaching the modern image from the original folklore.",
   "aliases": [
     {
       "name": "MIB",
@@ -35,5 +36,197 @@
   "origin": "Reports are concentrated in the United States, with secondary reports in the United Kingdom, continental Europe, and Latin America.",
   "first_reported": "1947-06-21",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "English; popularised through Albert K. Bender's account (1953, published 1962) and Gray Barker's They Knew Too Much About Flying Saucers (1956).",
+    "meaning": "A literal description of the figures as 'men' (humanoid) wearing 'black' (dark suits).",
+    "first_use": "Albert K. Bender's claim of a 1953 visitation; print use in Gray Barker (1956) and Bender's own 1962 book Flying Saucers and the Three Men"
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0,
+    "date_range": {
+      "earliest": "1947-06-21",
+      "latest": "present"
+    }
+  },
+  "timeline": [
+    {
+      "date": "1947-06-21",
+      "event": "Maury Island incident (later determined a hoax); Harold Dahl claims to have been warned by a man in a dark suit not to discuss his alleged UFO sighting",
+      "significance": "Earliest specifically-cited MIB-style visitation in modern UFO lore",
+      "source": "Wikipedia, Maury Island incident"
+    },
+    {
+      "date": "1952-04-01",
+      "event": "Albert K. Bender founds the International Flying Saucer Bureau (IFSB) in Bridgeport, Connecticut",
+      "significance": "First major civilian UFO organisation; the institutional setting for the founding MIB story",
+      "source": "Wikipedia, Albert K. Bender"
+    },
+    {
+      "date": "1953-01-01",
+      "event": "Bender claims to have been visited by 'three men in black' and abruptly shuts down the IFSB",
+      "significance": "Founding incident of the modern MIB tradition",
+      "source": "Wikipedia, Albert K. Bender"
+    },
+    {
+      "date": "1956-01-01",
+      "event": "Gray Barker publishes They Knew Too Much About Flying Saucers, popularising the Bender story and the MIB motif",
+      "significance": "First major print presentation of the tradition",
+      "source": "Barker, G. (1956)"
+    },
+    {
+      "date": "1962-01-01",
+      "event": "Bender publishes Flying Saucers and the Three Men, his own account of the 1953 visitation (after a 'nine years' silence)",
+      "significance": "Source-text for the canonical Bender story",
+      "source": "Bender, A. K. (1962)"
+    },
+    {
+      "date": "1975-01-01",
+      "event": "John Keel publishes The Mothman Prophecies, embedding MIB encounters in his ultraterrestrial framework",
+      "significance": "Reframes MIB beyond ufology into a wider supernatural context",
+      "source": "Keel, J. (1975)"
+    },
+    {
+      "date": "1990-01-01",
+      "event": "Marvel Comics (originally Aircel) launches Lowell Cunningham and Sandy Carruthers's The Men in Black",
+      "significance": "First major fictional adaptation feeding the modern pop image",
+      "source": "Aircel / Marvel Comics"
+    },
+    {
+      "date": "1997-07-02",
+      "event": "Sony Pictures releases Men in Black, directed by Barry Sonnenfeld",
+      "significance": "Global pop-culture entry of the figures",
+      "source": "Sony Pictures"
+    }
+  ],
+  "related": [
+    {
+      "id": "greys",
+      "name": "Greys",
+      "relationship": "related",
+      "description": "The other archetypal modern UFO entity"
+    },
+    {
+      "id": "mothman",
+      "name": "Mothman",
+      "relationship": "related",
+      "description": "Often appears in the same Keel-derived ultraterrestrial framework"
+    },
+    {
+      "id": "black-eyed-children",
+      "name": "Black-eyed Children",
+      "relationship": "similar",
+      "description": "Later American supernatural-visitor folklore"
+    },
+    {
+      "id": "shadow-people",
+      "name": "Shadow People",
+      "relationship": "similar",
+      "description": "Other modern dark-figure visitation tradition"
+    }
+  ],
+  "cultural_notes": "Within ufology, opinion ranges from strict skepticism (hoax / folklore) to ultraterrestrial framings; outside ufology, MIB are largely encountered through the Sony film franchise.",
+  "sources": [
+    {
+      "id": "barker-1956",
+      "type": "book",
+      "title": "They Knew Too Much About Flying Saucers",
+      "authors": [
+        "Gray Barker"
+      ],
+      "publication": "University Books",
+      "date": "1956"
+    },
+    {
+      "id": "bender-1962",
+      "type": "book",
+      "title": "Flying Saucers and the Three Men",
+      "authors": [
+        "Albert K. Bender"
+      ],
+      "publication": "Saucerian Books",
+      "date": "1962"
+    },
+    {
+      "id": "keel-1975",
+      "type": "book",
+      "title": "The Mothman Prophecies",
+      "authors": [
+        "John A. Keel"
+      ],
+      "publication": "Saturday Review Press",
+      "date": "1975",
+      "isbn": "978-0765342324"
+    },
+    {
+      "id": "keel-1970",
+      "type": "book",
+      "title": "Operation Trojan Horse",
+      "authors": [
+        "John A. Keel"
+      ],
+      "publication": "G. P. Putnam's Sons",
+      "date": "1970"
+    },
+    {
+      "id": "redfern-2011",
+      "type": "book",
+      "title": "The Real Men in Black",
+      "authors": [
+        "Nick Redfern"
+      ],
+      "publication": "New Page Books",
+      "date": "2011",
+      "isbn": "978-1601631572"
+    },
+    {
+      "id": "ruppelt-1956",
+      "type": "book",
+      "title": "The Report on Unidentified Flying Objects",
+      "authors": [
+        "Edward J. Ruppelt"
+      ],
+      "publication": "Doubleday",
+      "date": "1956"
+    },
+    {
+      "id": "wikipedia-mib",
+      "type": "website",
+      "title": "Men in black",
+      "url": "https://en.wikipedia.org/wiki/Men_in_black",
+      "publication": "Wikipedia",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "wikipedia-bender",
+      "type": "website",
+      "title": "Albert K. Bender",
+      "url": "https://en.wikipedia.org/wiki/Albert_K._Bender",
+      "publication": "Wikipedia",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "wikipedia-maury",
+      "type": "website",
+      "title": "Maury Island incident",
+      "url": "https://en.wikipedia.org/wiki/Maury_Island_incident",
+      "publication": "Wikipedia",
+      "accessed": "2026-05-07"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Bridgeport, Connecticut",
+      "lat": 41.1865,
+      "lng": -73.1952
+    },
+    {
+      "name": "Maury Island, Washington",
+      "lat": 47.39,
+      "lng": -122.43
+    }
+  ]
 }

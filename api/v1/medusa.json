@@ -3,6 +3,7 @@
   "name": "Medusa",
   "category": "mythological_creature",
   "description": "In Greek mythology, the only mortal of the three Gorgon sisters, whose gaze turned onlookers to stone and who was beheaded by the hero Perseus; her severed head, the Gorgoneion, became Athena's apotropaic symbol set on the Aegis.",
+  "full_description": "Medusa (Ancient Greek: Μέδουσα, Médousa) is a figure of Greek mythology, one of the three Gorgon sisters — Stheno, Euryale and Medusa — daughters of the primordial sea-deities Phorcys and Ceto. Of the three only Medusa was mortal. She is described from Hesiod onward as a winged, snake-haired creature whose direct gaze petrified the viewer. The hero Perseus, sent by King Polydectes of Seriphos to fetch her head, used a polished shield from Athena, winged sandals from Hermes, an adamantine sickle and the cap of invisibility of Hades to behead her without meeting her eyes. From her severed neck sprang the winged horse Pegasus and the warrior Chrysaor, fathered by Poseidon. Perseus carried the head as a weapon and finally gave it to Athena, who set it (the Gorgoneion) on her shield, the Aegis. Ovid's Metamorphoses (Roman, 1st century CE) gives an influential later version in which Medusa was originally a beautiful mortal raped by Poseidon in Athena's temple and punished by Athena with her serpentine transformation — the version on which most modern feminist readings of Medusa as victim-turned-symbol draw.",
   "aliases": [
     {
       "name": "Medousa",
@@ -33,5 +34,176 @@
   "origin": "Medusa is a figure of ancient Greek mythology, transmitted across the Greek and Roman Mediterranean and into the broader European tradition through Latin sources (notably Ovid).",
   "first_reported": "c. 8th century BCE",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Ancient Greek Μέδουσα (Médousa), feminine present participle of the verb μέδω (medō, 'to rule, to guard, to protect').",
+    "meaning": "'Guardian' or 'queen / ruler'.",
+    "first_use": "Earliest extant attestations in Hesiod's Theogony (c. 8th century BCE) and Homer (Iliad, Odyssey)"
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "0700-01-01",
+      "event": "Hesiod's Theogony names the three Gorgons (Sthenno, Euryale, Medousa) as daughters of Phorcys and Ceto and recounts Medusa's beheading and the birth of Pegasus and Chrysaor",
+      "significance": "Earliest surviving canonical version",
+      "source": "Hesiod, Theogony 270–283"
+    },
+    {
+      "date": "0580-01-01",
+      "event": "Pediment of the Temple of Artemis, Corfu, executed with a colossal Gorgon Medusa",
+      "significance": "Iconic archaic Gorgoneion",
+      "source": "Archaeological record, Corfu"
+    },
+    {
+      "date": "0008-01-01",
+      "event": "Ovid's Metamorphoses (Book IV) gives the Athena/Poseidon-temple version of Medusa's transformation",
+      "significance": "Foundational text for the later 'Medusa as victim' reading",
+      "source": "Ovid, Metamorphoses IV"
+    },
+    {
+      "date": "1554-01-01",
+      "event": "Benvenuto Cellini completes his bronze Perseus with the Head of Medusa for the Loggia dei Lanzi, Florence",
+      "significance": "Definitive Renaissance treatment of the myth",
+      "source": "Loggia dei Lanzi, Florence"
+    },
+    {
+      "date": "1597-01-01",
+      "event": "Caravaggio paints his shield-like Medusa for Cardinal Francesco Maria del Monte",
+      "significance": "Among the most famous early-modern depictions",
+      "source": "Uffizi, Florence"
+    },
+    {
+      "date": "1922-01-01",
+      "event": "Sigmund Freud writes 'Das Medusenhaupt' (published posthumously 1940), reading Medusa as a symbol of castration anxiety",
+      "significance": "Foundational psychoanalytic reading",
+      "source": "Freud, S. (1922 / 1940)"
+    },
+    {
+      "date": "1975-01-01",
+      "event": "Hélène Cixous publishes 'Le Rire de la Méduse' (The Laugh of the Medusa)",
+      "significance": "Foundational feminist reading reclaiming Medusa as a symbol of female creative power",
+      "source": "Cixous, H. (1975), L'Arc 61"
+    }
+  ],
+  "related": [
+    {
+      "id": "gorgon",
+      "name": "Gorgons (Stheno, Euryale, Medusa)",
+      "relationship": "superset",
+      "description": "The three-sister Gorgon class of which Medusa is the mortal member"
+    },
+    {
+      "id": "harpy",
+      "name": "Harpy",
+      "relationship": "similar",
+      "description": "Other female Greek hybrid monsters"
+    },
+    {
+      "id": "siren",
+      "name": "Siren",
+      "relationship": "similar",
+      "description": "Other female Greek mythological figures of dangerous beauty"
+    },
+    {
+      "id": "basilisk",
+      "name": "Basilisk",
+      "relationship": "similar",
+      "description": "Later Mediterranean creature whose gaze likewise kills"
+    },
+    {
+      "id": "cockatrice",
+      "name": "Cockatrice",
+      "relationship": "similar",
+      "description": "Medieval European petrifying-gaze creature"
+    }
+  ],
+  "cultural_notes": "In archaic and classical Greek practice the image of Medusa (the Gorgoneion) functioned as a powerful apotropaic device, set on shields, temple pediments, and household items to ward off evil.",
+  "sources": [
+    {
+      "id": "hesiod-theogony",
+      "type": "book",
+      "title": "Theogony",
+      "authors": [
+        "Hesiod"
+      ],
+      "publication": "Loeb Classical Library / Oxford World's Classics",
+      "date": "c. 700 BCE"
+    },
+    {
+      "id": "apollodorus-bibliotheca",
+      "type": "book",
+      "title": "Bibliotheca (The Library)",
+      "authors": [
+        "Pseudo-Apollodorus"
+      ],
+      "publication": "Loeb Classical Library",
+      "date": "1st–2nd c. CE"
+    },
+    {
+      "id": "ovid-metamorphoses",
+      "type": "book",
+      "title": "Metamorphoses",
+      "authors": [
+        "Ovid"
+      ],
+      "publication": "Loeb Classical Library",
+      "date": "c. 8 CE"
+    },
+    {
+      "id": "wilk-2000",
+      "type": "book",
+      "title": "Medusa: Solving the Mystery of the Gorgon",
+      "authors": [
+        "Stephen R. Wilk"
+      ],
+      "publication": "Oxford University Press",
+      "date": "2000",
+      "isbn": "978-0195124316"
+    },
+    {
+      "id": "cixous-1975",
+      "type": "article",
+      "title": "Le Rire de la Méduse (The Laugh of the Medusa)",
+      "authors": [
+        "Hélène Cixous"
+      ],
+      "publication": "L'Arc 61",
+      "date": "1975"
+    },
+    {
+      "id": "freud-1922",
+      "type": "article",
+      "title": "Das Medusenhaupt (Medusa's Head)",
+      "authors": [
+        "Sigmund Freud"
+      ],
+      "publication": "Internationale Zeitschrift für Psychoanalyse",
+      "date": "1922 (publ. 1940)"
+    },
+    {
+      "id": "wikipedia-medusa",
+      "type": "website",
+      "title": "Medusa",
+      "url": "https://en.wikipedia.org/wiki/Medusa",
+      "publication": "Wikipedia",
+      "accessed": "2026-05-07"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Seriphos / Argolid",
+      "lat": 37.15,
+      "lng": 24.5
+    },
+    {
+      "name": "Temple of Artemis, Corfu",
+      "lat": 39.6202,
+      "lng": 19.9217
+    }
+  ]
 }

@@ -3,6 +3,7 @@
   "name": "La Llorona",
   "category": "ghost_haunting",
   "description": "A weeping female ghost said to haunt rivers, lakes, and irrigation channels across Mexico, Central America, parts of South America, and the southwestern United States, mourning the children she drowned. Among the most widespread and durable legends in the Spanish-speaking Americas.",
+  "full_description": "La Llorona ('the weeping woman') is the central female revenant of Mexican and Mexican-American folklore. The standard narrative tells of a woman — most often called María — who, betrayed or abandoned by her husband or lover, drowns her children in a river in a fit of jealousy or madness, then either drowns herself or is condemned to wander the waterways of the Earth weeping for them. Her cry of '¡Ay, mis hijos!' ('Oh, my children!') is heard near rivers, lakes, irrigation ditches (acequias), and arroyos at night. Sightings describe a tall woman in white with long dark hair, sometimes with a horse-like or skull-like face. Folklorists trace La Llorona's pre-Columbian roots to the Aztec mother-goddess Cihuacóatl, identified in Bernardino de Sahagún's mid-16th-century Florentine Codex as the source of a weeping omen heard before the Spanish conquest, and to Chocacíhuatl ('weeping woman'), one of the cihuateteo — spirits of women who died in childbirth. From the colonial period onward, the legend was used to discipline women and children and to warn against dangerous waterways; from the 1980s, Chicana scholars including Domino Renee Pérez and Gloria Anzaldúa have re-read La Llorona as a figure of resistance, mourning under colonialism, and Chicana identity. Variants exist across Mexico, Guatemala, Honduras, El Salvador, Costa Rica, Panama, Colombia, Venezuela, Ecuador, Peru, Bolivia, Chile, Uruguay, and the southwestern United States.",
   "aliases": [
     {
       "name": "The Weeping Woman",
@@ -64,5 +65,205 @@
   "origin": "La Llorona is widespread across the Spanish-speaking Americas. Core regions are Mexico (especially central Mexico and the Mexico City basin), the U.S.-Mexico border, and the southwestern United States, with strong variants throughout Central America, in Colombia, Venezuela, Ecuador, Peru, Bolivia, and as far south as Uruguay. Significant regional names include María Pardo and Tarumama in Colombia and La Sayona in Venezuela.",
   "first_reported": "c. 1550–1585",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Spanish 'la llorona', from the verb llorar ('to cry, to weep') and the agentive suffix -ona, giving 'the (great) weeping woman'.",
+    "meaning": "The weeping woman; the crying woman.",
+    "first_use": "Mid-16th century in colonial Mexican Spanish; Bernardino de Sahagún records a 'woman heard going along weeping and shouting' as the sixth omen of the Spanish conquest in the Florentine Codex (Book 12)."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0,
+    "date_range": {
+      "earliest": "c. 1550",
+      "latest": "2026"
+    }
+  },
+  "timeline": [
+    {
+      "date": "Pre-1519",
+      "event": "Cihuacóatl, mother-goddess of the Aztec Triple Alliance, has an established role as a weeping omen-figure",
+      "significance": "Pre-Columbian root cited by Sahagún",
+      "source": "Florentine Codex, Books 1 and 12"
+    },
+    {
+      "date": "c. 1550–1585",
+      "event": "Bernardino de Sahagún records the weeping omen of the conquest in the Florentine Codex",
+      "significance": "Earliest written attestation that scholars connect to La Llorona",
+      "source": "Sahagún, B. de (c. 1577), Historia general de las cosas de Nueva España (Florentine Codex)"
+    },
+    {
+      "date": "17th–18th century",
+      "event": "La Llorona narrative coalesces in colonial New Spain, often in the form of a betrayed Indigenous or mestiza woman drowning her children",
+      "significance": "Colonial-period consolidation",
+      "source": "Colonial-era oral and broadside traditions (cited in Pérez 2008)"
+    },
+    {
+      "date": "1933",
+      "event": "La Llorona, directed by Ramón Peón, becomes the first Mexican sound horror film and the first to put La Llorona on screen",
+      "significance": "Mass-media debut of the legend",
+      "source": "Mexican film archives"
+    },
+    {
+      "date": "1986",
+      "event": "Gloria Anzaldúa publishes Borderlands/La Frontera: The New Mestiza, treating La Llorona as a key figure of Chicana identity",
+      "significance": "Foundational Chicana feminist re-reading",
+      "source": "Anzaldúa, G. (1987), Borderlands/La Frontera"
+    },
+    {
+      "date": "1991",
+      "event": "Sandra Cisneros publishes the short story 'Woman Hollering Creek'",
+      "significance": "Major literary reworking of the Llorona figure",
+      "source": "Cisneros, S. (1991), Woman Hollering Creek and Other Stories"
+    },
+    {
+      "date": "2008",
+      "event": "Domino Renee Pérez publishes There Was a Woman: La Llorona from Folklore to Popular Culture",
+      "significance": "Most cited modern academic synthesis of the legend",
+      "source": "Pérez, D. R. (2008), There Was a Woman"
+    },
+    {
+      "date": "2017-11-22",
+      "event": "Disney/Pixar's Coco features the folk song 'La Llorona' (made famous by Chavela Vargas)",
+      "significance": "Mass global re-introduction of the song associated with the legend",
+      "source": "Coco soundtrack (Disney/Pixar, 2017)"
+    },
+    {
+      "date": "2019-04-19",
+      "event": "Warner Bros. releases The Curse of La Llorona, directed by Michael Chaves",
+      "significance": "Major Hollywood film tied to The Conjuring franchise",
+      "source": "Warner Bros. release records"
+    }
+  ],
+  "related": [
+    {
+      "id": "white-lady",
+      "name": "White Lady",
+      "relationship": "similar",
+      "description": "Pan-European tradition of female ghosts in white"
+    },
+    {
+      "id": "banshee",
+      "name": "Banshee",
+      "relationship": "similar",
+      "description": "Irish female death-omen spirit whose cry foretells death"
+    },
+    {
+      "id": "lamia",
+      "name": "Lamia",
+      "relationship": "similar",
+      "description": "Greek child-killing female spirit"
+    },
+    {
+      "id": "medea",
+      "name": "Medea",
+      "relationship": "similar",
+      "description": "Greek mythological figure who kills her children after Jason's betrayal"
+    },
+    {
+      "id": "cihuacoatl",
+      "name": "Cihuacóatl",
+      "relationship": "related",
+      "description": "Pre-Columbian Aztec mother-goddess identified by Sahagún with a weeping omen"
+    },
+    {
+      "id": "la-sayona",
+      "name": "La Sayona",
+      "relationship": "regional_variant",
+      "description": "Venezuelan vengeful female ghost"
+    }
+  ],
+  "cultural_notes": "La Llorona is widely treated as a real spirit by traditional storytellers, while simultaneously functioning as a moral and pedagogical figure for children and as a literary symbol of Chicana resistance and mourning.",
+  "sources": [
+    {
+      "id": "perez-2008",
+      "type": "book",
+      "title": "There Was a Woman: La Llorona from Folklore to Popular Culture",
+      "authors": [
+        "Domino Renee Pérez"
+      ],
+      "publication": "University of Texas Press",
+      "date": "2008",
+      "isbn": "978-0292717695"
+    },
+    {
+      "id": "anzaldua-1987",
+      "type": "book",
+      "title": "Borderlands/La Frontera: The New Mestiza",
+      "authors": [
+        "Gloria Anzaldúa"
+      ],
+      "publication": "Aunt Lute Books",
+      "date": "1987",
+      "isbn": "978-1879960565"
+    },
+    {
+      "id": "cisneros-1991",
+      "type": "book",
+      "title": "Woman Hollering Creek and Other Stories",
+      "authors": [
+        "Sandra Cisneros"
+      ],
+      "publication": "Random House",
+      "date": "1991",
+      "isbn": "978-0679738565"
+    },
+    {
+      "id": "hayes-1987",
+      "type": "book",
+      "title": "La Llorona / The Weeping Woman: An Hispanic Legend Told in Spanish and English",
+      "authors": [
+        "Joe Hayes"
+      ],
+      "publication": "Cinco Puntos Press",
+      "date": "1987",
+      "isbn": "978-0938317029"
+    },
+    {
+      "id": "limon-1990",
+      "type": "article",
+      "title": "La Llorona, the Third Legend of Greater Mexico",
+      "authors": [
+        "José E. Limón"
+      ],
+      "publication": "in Between Borders: Essays on Mexicana/Chicana History (Floricanto Press)",
+      "date": "1990"
+    },
+    {
+      "id": "sahagun-florentine",
+      "type": "archive",
+      "title": "Historia general de las cosas de Nueva España (Florentine Codex)",
+      "authors": [
+        "Bernardino de Sahagún"
+      ],
+      "publication": "Biblioteca Medicea Laurenziana, Florence",
+      "date": "c. 1577"
+    },
+    {
+      "id": "wikipedia-llorona",
+      "type": "website",
+      "title": "La Llorona",
+      "url": "https://en.wikipedia.org/wiki/La_Llorona",
+      "accessed": "2026-05-07"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Mexico City / former Lake Texcoco",
+      "lat": 19.4326,
+      "lng": -99.1332
+    },
+    {
+      "name": "Río Grande / U.S.-Mexico border",
+      "lat": 31.78,
+      "lng": -106.49
+    },
+    {
+      "name": "Lake Texcoco",
+      "lat": 19.5,
+      "lng": -98.99
+    }
+  ]
 }

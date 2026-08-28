@@ -3,6 +3,7 @@
   "name": "Yara-ma-yha-who",
   "category": "mythological_creature",
   "description": "The Yara-ma-yha-who is a small, red, vampire-like humanoid of southeastern Australian Aboriginal folklore, depicted with suckers on its hands and feet that drain a victim's blood; it serves as a cautionary figure warning against wandering alone beneath wild fig trees.",
+  "full_description": "The Yara-ma-yha-who is a creature from the folklore of Aboriginal peoples of southeastern Australia, recorded in early-20th-century English-language ethnographic compilations. It is described as a small, red, frog-like humanoid roughly four feet tall, with a disproportionately large head, a wide toothless mouth, and octopus-like suckers on the tips of its fingers and toes. According to the legend, the creature inhabits wild fig trees and ambushes travellers — particularly children — who rest beneath them. It descends, attaches itself to the victim, and drains blood through its suckers. Once the victim is too weak to resist, the Yara-ma-yha-who swallows them whole, drinks water, and naps; it later regurgitates the victim alive but slightly shorter and with reddened skin. Repeated capture causes a person to shrink and gradually transform into a Yara-ma-yha-who themselves. The creature is said to be active during the day and to target only living prey; the recommended counter-strategy in the stories is to feign death until sunset. The story functions as a teaching narrative — warning children against wandering alone, encoding caution about specific landscape features, and (in some readings) as a spiritual enforcer of country rather than a 'demon' in the European sense.",
   "aliases": [
     {
       "name": "Yara-ma-yha-who",
@@ -29,5 +30,96 @@
   "origin": "The legend is recorded from Aboriginal traditions of southeastern Australia. Published English-language compilations do not consistently localise it to a single nation; the story circulates in the broader cultural region documented in early-20th-century ethnographies.",
   "first_reported": "1930",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Name recorded in English-language ethnographic sources of the early 20th century; the original Aboriginal language of attribution is not consistently identified across published sources.",
+    "meaning": "Glossed in English-language compilations as the name of the creature itself; no widely accepted literal translation appears in the secondary literature available.",
+    "first_use": "Earliest scholarly English documentation in W. Ramsay Smith's 'Myths and Legends of the Australian Aboriginals' (1930)."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "Pre-contact",
+      "event": "Yara-ma-yha-who story circulates in southeastern Aboriginal oral tradition as a cautionary narrative",
+      "significance": "Cultural baseline pre-dating colonial documentation",
+      "source": "Aboriginal oral tradition (as recorded in later ethnographies)"
+    },
+    {
+      "date": "1930",
+      "event": "W. Ramsay Smith publishes 'Myths and Legends of the Australian Aboriginals', incorporating manuscripts by David Unaipon and including the Yara-ma-yha-who story",
+      "significance": "Earliest widely-cited English-language documentation of the legend",
+      "source": "Smith, W. Ramsay (1930)"
+    },
+    {
+      "date": "2001",
+      "event": "Melbourne University Press publishes 'Legendary Tales of the Australian Aborigines' restoring David Unaipon's authorship of the manuscripts that Smith had drawn on",
+      "significance": "Re-attribution of the Yara-ma-yha-who narrative to its Aboriginal author",
+      "source": "Unaipon, D., 'Legendary Tales of the Australian Aborigines' (2001)"
+    }
+  ],
+  "related": [
+    {
+      "id": "bunyip",
+      "name": "Bunyip",
+      "relationship": "related",
+      "description": "Aboriginal Australian water-dwelling creature, often paired with the Yara-ma-yha-who as a cautionary figure"
+    },
+    {
+      "id": "yowie",
+      "name": "Yowie",
+      "relationship": "related",
+      "description": "Hairy hominid of Aboriginal Australian folklore"
+    },
+    {
+      "id": "vampire",
+      "name": "Vampire (general)",
+      "relationship": "similar",
+      "description": "Cross-cultural archetype of blood-drinking humanoids"
+    }
+  ],
+  "cultural_notes": "The Yara-ma-yha-who is described in published Aboriginal narrative collections as a being one should not seek out; the right response is avoidance, and (within the story) feigning death until sunset. The narrative encodes practical caution about lone travel and specific tree species.",
+  "sources": [
+    {
+      "id": "smith-1930",
+      "type": "book",
+      "title": "Myths and Legends of the Australian Aboriginals",
+      "authors": [
+        "W. Ramsay Smith"
+      ],
+      "publication": "George G. Harrap & Co.",
+      "date": "1930"
+    },
+    {
+      "id": "unaipon-2001",
+      "type": "book",
+      "title": "Legendary Tales of the Australian Aborigines",
+      "authors": [
+        "David Unaipon"
+      ],
+      "publication": "Melbourne University Press",
+      "date": "2001",
+      "isbn": "978-0522849059"
+    },
+    {
+      "id": "wikipedia-yara",
+      "type": "website",
+      "title": "Yara-ma-yha-who",
+      "url": "https://en.wikipedia.org/wiki/Yara-ma-yha-who",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "atlas-obscura-yara",
+      "type": "article",
+      "title": "The Child-Eating Yara-Ma-Yha-Who Stalks Australia's Wilds",
+      "publication": "Atlas Obscura",
+      "url": "https://www.atlasobscura.com/articles/yara-ma-yha-who",
+      "accessed": "2026-05-07"
+    }
+  ],
+  "locations": []
 }

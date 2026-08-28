@@ -3,6 +3,7 @@
   "name": "Kecksburg UFO Incident",
   "category": "ufo_uap",
   "description": "On 9 December 1965 a brilliant fireball was observed across at least six U.S. states and parts of Canada; eyewitnesses near Kecksburg, Pennsylvania reported a metallic, acorn-shaped object coming to rest in the woods, where U.S. military personnel are said to have cordoned the area before removing something on a flatbed truck.",
+  "full_description": "The Kecksburg incident is one of the most-investigated UFO events of the post-Roswell era. On the evening of 9 December 1965, a brilliant fireball was observed across Michigan, Ohio, Pennsylvania, Indiana, New York, and parts of Canada. Astronomers identified it as a bolide (a bright meteor) descending steeply on a southwest-to-northeast trajectory; a 1967 scientific analysis using seismographic and observational data placed the likely impact in or near the northwestern shore of Lake Erie, north of Windsor, Ontario. However, residents of the small village of Kecksburg, Pennsylvania (about 30 miles southeast of Pittsburgh) reported seeing an object descend in a controlled-looking manner, change course, and come to rest in nearby woods. Witnesses who reached the area before authorities arrived described an acorn- or bell-shaped metallic object roughly the size of a Volkswagen Beetle (about 9–12 feet across), bearing markings around its base that resembled hieroglyphs. State police, U.S. Army personnel, and reportedly Air Force investigators arrived, secured the area, and — according to multiple residents — left with a large covered object on a flatbed truck. Official statements then said nothing of consequence had been found. The incident was rapidly absorbed into UFO lore. Investigative journalist Leslie Kean and the Sci-Fi (now Syfy) Channel pursued NASA records under the U.S. Freedom of Information Act, leading in 2007 to a federal court order that NASA conduct a more thorough search; NASA ultimately said two boxes of relevant records were missing. Competing explanations include extraterrestrial craft, the reentry of the Soviet probe Kosmos 96, a U.S. General Electric Mark 2 reentry vehicle, and a natural meteor (with the actual landfall in Canada and the Kecksburg recovery being a local misperception).",
   "aliases": [
     {
       "name": "Pennsylvania's Roswell",
@@ -41,5 +42,149 @@
   "origin": "The fireball was visible from Michigan, Ohio, Pennsylvania, Indiana, New York, and parts of Canada. The recovery and military activity reports center on Kecksburg, Pennsylvania.",
   "first_reported": "1965-12-09",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Named after Kecksburg, an unincorporated community in Mt. Pleasant Township, Westmoreland County, Pennsylvania, where the alleged object came down.",
+    "meaning": "Geographic naming.",
+    "first_use": "1965 contemporaneous newspaper coverage; 'Pennsylvania's Roswell' came into wider use after renewed media attention in the 1990s."
+  },
+  "sightings_stats": {
+    "total_documented": 1,
+    "verified": 0,
+    "disputed": 1,
+    "debunked": 0,
+    "date_range": {
+      "earliest": "1965-12-09",
+      "latest": "1965-12-09"
+    }
+  },
+  "timeline": [
+    {
+      "date": "1965-12-09",
+      "event": "Brilliant fireball observed across the Great Lakes states and Canada at approximately 4:47 PM EST; reports of an object coming down near Kecksburg, Pennsylvania",
+      "significance": "Core event",
+      "source": "Contemporaneous press coverage"
+    },
+    {
+      "date": "1965-12-10",
+      "event": "Greensburg Tribune-Review and other Pennsylvania papers publish accounts of the fireball and military activity in the woods near Kecksburg",
+      "significance": "First written record of the local recovery",
+      "source": "Greensburg Tribune-Review"
+    },
+    {
+      "date": "1967-01-01",
+      "event": "A scientific analysis of the fireball, including seismographic data, concludes the bolide most plausibly impacted in or near the northwestern shore of Lake Erie",
+      "significance": "Key naturalistic counter-explanation",
+      "source": "Astronomical journal analyses of the December 9, 1965 fireball"
+    },
+    {
+      "date": "1990-01-01",
+      "event": "Researcher Stan Gordon begins long-running investigation of the case, interviewing witnesses and compiling testimony",
+      "significance": "Anchors the modern Kecksburg case file",
+      "source": "Gordon, S. — multiple publications and interviews"
+    },
+    {
+      "date": "2003-12-04",
+      "event": "Sci-Fi Channel airs 'The New Roswell: Kecksburg Exposed', drawing wide attention to the case",
+      "significance": "Mainstream pop-cultural revival",
+      "source": "Sci-Fi Channel documentary"
+    },
+    {
+      "date": "2003-12-08",
+      "event": "Investigative journalist Leslie Kean and the Sci-Fi Channel file a Freedom of Information Act lawsuit against NASA for records relating to the incident",
+      "significance": "Triggers federal court oversight",
+      "source": "Kean v. NASA, U.S. District Court for the District of Columbia"
+    },
+    {
+      "date": "2005-12-08",
+      "event": "NASA states that fragments examined in the 1960s were from a 'Soviet satellite' but that the records have been lost since the 1980s",
+      "significance": "Key official statement",
+      "source": "NASA spokesperson via the Associated Press"
+    },
+    {
+      "date": "2007-10-26",
+      "event": "Following a federal court order, NASA agrees to conduct a more thorough search for missing Kecksburg records",
+      "significance": "Court-supervised disclosure obligation",
+      "source": "U.S. District Court for the District of Columbia"
+    }
+  ],
+  "related": [
+    {
+      "id": "roswell-incident",
+      "name": "Roswell incident (1947)",
+      "relationship": "similar",
+      "description": "Earlier, more famous alleged crash retrieval by U.S. military"
+    },
+    {
+      "id": "shag-harbour-incident",
+      "name": "Shag Harbour incident (1967)",
+      "relationship": "similar",
+      "description": "Canadian water-impact UFO event with military involvement"
+    },
+    {
+      "id": "kosmos-96",
+      "name": "Kosmos 96",
+      "relationship": "related",
+      "description": "Soviet Venera probe whose decaying orbit was hypothesized to coincide with the Kecksburg event"
+    },
+    {
+      "id": "1965-great-lakes-fireball",
+      "name": "1965 Great Lakes fireball",
+      "relationship": "related",
+      "description": "The natural-meteor framing of the same December 9, 1965 event"
+    }
+  ],
+  "cultural_notes": "Many Kecksburg residents maintain that something physical was recovered; the case is part of local civic identity.",
+  "sources": [
+    {
+      "id": "wikipedia-kecksburg",
+      "type": "website",
+      "title": "Kecksburg UFO incident",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Kecksburg_UFO_incident",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "psu-pa-book-kecksburg",
+      "type": "article",
+      "title": "Acorn from Space: The Kecksburg Incident",
+      "publication": "Pennsylvania Center for the Book, Penn State Libraries",
+      "url": "https://pabook.libraries.psu.edu/literary-cultural-heritage-map-pa/feature-articles/acorn-space-kecksburg-incident",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "kean-2010",
+      "type": "book",
+      "title": "UFOs: Generals, Pilots, and Government Officials Go on the Record",
+      "authors": [
+        "Leslie Kean"
+      ],
+      "publication": "Harmony Books",
+      "date": "2010",
+      "isbn": "978-0307716842"
+    },
+    {
+      "id": "nbc-2009-kecksburg",
+      "type": "news",
+      "title": "Is case finally closed on 1965 UFO mystery?",
+      "publication": "NBC News",
+      "date": "2009",
+      "url": "https://www.nbcnews.com/id/wbna34135497",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "stan-gordon-website",
+      "type": "website",
+      "title": "Stan Gordon's UFO Anomalies Zone",
+      "url": "https://www.stangordon.info",
+      "accessed": "2026-05-07"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Kecksburg, Pennsylvania",
+      "lat": 40.1773,
+      "lng": -79.4639
+    }
+  ]
 }

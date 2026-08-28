@@ -3,6 +3,7 @@
   "name": "Mogwai",
   "category": "entity_spirit",
   "description": "Mogwai (魔鬼, Cantonese mō gwái) is a Chinese term for demons, devils, or evil spirits, denoting a category of malevolent supernatural beings in Chinese folk and religious traditions.",
+  "full_description": "Mogwai is the Cantonese romanisation of the Chinese 魔鬼 (Mandarin mógui), a term used in Chinese folk religion, popular Buddhism, and Daoism for demons, devils, or malevolent spirits. The first character 魔 (mó) derives ultimately from the Sanskrit māra (मार), originally meaning 'death' or 'evil being', a term that entered Chinese with the spread of Buddhism. The second character 鬼 (gui) refers to ghosts or spirits, particularly the souls of departed beings. In Chinese tradition mogwai (mógui) are commonly distinguished from neighbouring categories: yāoguài (妖怪, goblins or sprites associated with abnormal phenomena), guǐ (鬼, ghosts), and guài (怪, strange phenomena). Mogwai broadly denotes demonic adversaries, including beings adopted from Indian Buddhism such as yakshas (yecha 夜叉) and rakshasas (luocha 罗刹), which appear extensively in classical literature including Pu Songling's Strange Tales from a Chinese Studio (Liaozhai zhiyi) and the Ming-dynasty novel Investiture of the Gods (Fengshen Yanyi). The English-language word 'mogwai' was popularised in the Western world by the 1984 Joe Dante film Gremlins, which used the term for its furry creatures; that usage is a borrowing of the Chinese name and not the traditional Chinese referent.",
   "aliases": [
     {
       "name": "魔鬼",
@@ -36,5 +37,88 @@
   "origin": "Mogwai are part of the broad Chinese demonological tradition and appear throughout Chinese-speaking cultures and the Sinosphere (where Chinese Buddhism and Daoism shaped local folklore).",
   "first_reported": "Medieval Chinese Buddhist texts",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Cantonese romanisation of Chinese 魔鬼; the character 魔 (mó) derives from Sanskrit māra ('death' / 'evil being'), entering Chinese through Buddhist scripture translation.",
+    "meaning": "Demon, devil, evil spirit (literally 'evil ghost').",
+    "first_use": "The compound 魔鬼 has been used in Chinese-Buddhist contexts since at least the medieval period; the romanisation 'mogwai' is a 20th-century Cantonese-English convention popularised in the West by Gremlins (1984)."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "Medieval",
+      "event": "Sanskrit māra rendered as Chinese 魔; absorbed into Chinese-language Buddhist scripture and demonology",
+      "significance": "Establishes the term and concept of mogui in Chinese",
+      "source": "Wikipedia: Mogwai (Chinese culture)"
+    },
+    {
+      "date": "Ming dynasty",
+      "event": "Yecha and luocha appear prominently in Investiture of the Gods (Fengshen Yanyi)",
+      "significance": "Demons enter major Chinese popular literature",
+      "source": "Wikipedia: Mogwai (Chinese culture)"
+    },
+    {
+      "date": "Qing dynasty",
+      "event": "Pu Songling's Strange Tales from a Chinese Studio (Liaozhai zhiyi) collects many tales of demonic encounters",
+      "significance": "Canonical Chinese supernatural literature",
+      "source": "Wikipedia: Mogwai (Chinese culture)"
+    },
+    {
+      "date": "1984",
+      "event": "Joe Dante's film Gremlins introduces 'mogwai' as a name for furry creatures, popularising the Chinese word in the English-speaking world",
+      "significance": "Western popular-culture borrowing of the term",
+      "source": "Wikipedia: Gremlins (film)"
+    }
+  ],
+  "related": [
+    {
+      "id": "yaoguai",
+      "name": "Yaoguai",
+      "relationship": "related",
+      "description": "Chinese category of goblins / sprites (妖怪)"
+    },
+    {
+      "id": "ghosts",
+      "name": "Gui (ghosts)",
+      "relationship": "related",
+      "description": "Chinese class of disembodied spirits (鬼)"
+    },
+    {
+      "id": "rakshasa",
+      "name": "Rakshasa",
+      "relationship": "subset",
+      "description": "Indian-origin man-eating demon (luocha 罗刹) absorbed into Chinese demonology"
+    },
+    {
+      "id": "demons",
+      "name": "Demons",
+      "relationship": "superset",
+      "description": "Cross-cultural category of malevolent spirits"
+    }
+  ],
+  "cultural_notes": "Mogwai represent real malevolent forces in Chinese folk and religious thought, to be countered by virtuous conduct, Buddhist or Daoist ritual, and protective talismans.",
+  "sources": [
+    {
+      "id": "wikipedia-mogwai-chinese",
+      "type": "website",
+      "title": "Mogwai (Chinese culture)",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Mogwai_(Chinese_culture)",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "wikipedia-gremlins-film",
+      "type": "website",
+      "title": "Gremlins (film)",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Gremlins",
+      "accessed": "2026-05-07"
+    }
+  ],
+  "locations": []
 }

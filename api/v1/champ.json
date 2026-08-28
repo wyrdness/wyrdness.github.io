@@ -3,6 +3,7 @@
   "name": "Champ",
   "category": "cryptid",
   "description": "An aquatic cryptid said to inhabit Lake Champlain on the border of Vermont, New York, and Quebec. Reported as a long-necked, serpentine animal in the loch-monster mould, with several hundred reported sightings since the 19th century.",
+  "full_description": "Champ is the popular name for a purported large aquatic cryptid said to inhabit Lake Champlain, a long, deep freshwater lake straddling the border of Vermont, New York, and the Canadian province of Quebec. Reports describe a serpentine or long-necked creature commonly compared with the Loch Ness Monster. Iroquois tradition records giant serpents in the lake — the Mohawk Onyare'kowa — long before European contact, and 19th-century newspaper reports describe sightings such as those of 'Captain Crum' (1819) and Sheriff Nathan Mooney (1883). The most famous modern piece of evidence is the 1977 photograph by Sandra Mansi, taken on July 5, 1977 at a bay on the Vermont side of the lake; the photograph's negative was discarded, and analysts have noted that the bay is only ~14 feet deep, complicating biological interpretations. Both Vermont (1982) and the New York town of Port Henry have passed measures protecting Champ from harm. The creature is one of the most prominent North American lake-monster legends and an important regional cultural and tourism symbol; mainstream scientific consensus regards Champ as a folkloric and misidentification phenomenon rather than a confirmed animal.",
   "aliases": [
     {
       "name": "Champy",
@@ -38,5 +39,134 @@
   "origin": "Lake Champlain, a 125-mile-long freshwater lake forming part of the border between Vermont and New York and extending into the Canadian province of Quebec.",
   "first_reported": "1819",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Anglophone shortening of 'Champlain', the lake's name, which itself commemorates French explorer Samuel de Champlain (1567–1635).",
+    "meaning": "Affectionate diminutive of 'Champlain'.",
+    "first_use": "Popularised in late-19th-century regional press; widespread by the 20th century."
+  },
+  "sightings_stats": {
+    "total_documented": 300,
+    "verified": 0,
+    "disputed": 200,
+    "debunked": 50,
+    "date_range": {
+      "earliest": "1819",
+      "latest": "2026"
+    }
+  },
+  "timeline": [
+    {
+      "date": "1819-01-01",
+      "event": "Newspaper account of 'Capt. Crum' on Lake Champlain reports a creature estimated at ~187 feet long",
+      "significance": "Earliest English-language documented sighting",
+      "source": "19th-c. American press; cited in Wikipedia and lake-monster surveys"
+    },
+    {
+      "date": "1873-08-01",
+      "event": "P. T. Barnum offers a reward for Champ's hide",
+      "significance": "Triggers a major wave of late-19th-century newspaper reports",
+      "source": "Contemporary American press"
+    },
+    {
+      "date": "1883-07-01",
+      "event": "Sheriff Nathan H. Mooney reports a serpent-like creature 25–30 feet long in Lake Champlain near Plattsburgh",
+      "significance": "Most-cited 19th-century law-enforcement witness report",
+      "source": "Contemporary American press; Wikipedia"
+    },
+    {
+      "date": "1977-07-05",
+      "event": "Sandra Mansi photographs an apparent long-necked creature in Lake Champlain north of St. Albans, Vermont",
+      "significance": "Most famous Champ photograph; long called the best lake-monster photograph ever taken",
+      "source": "Mansi photograph; Vermont Life and subsequent press"
+    },
+    {
+      "date": "1982-03-01",
+      "event": "Vermont House of Representatives passes a resolution protecting Champ from harm",
+      "significance": "Formal civic protection of the cryptid",
+      "source": "Vermont legislative record"
+    },
+    {
+      "date": "2003-06-01",
+      "event": "Fauna Communications survey claims to record echolocation-like clicks in Lake Champlain",
+      "significance": "Acoustic-evidence claim; not peer-reviewed and contested",
+      "source": "Fauna Communications report (2003)"
+    },
+    {
+      "date": "2005-05-31",
+      "event": "Bob Aurora and Pete Bodette video apparent large creature in Lake Champlain off Burlington",
+      "significance": "Most-discussed video evidence of the 21st century",
+      "source": "ABC News coverage (2005)"
+    }
+  ],
+  "related": [
+    {
+      "id": "loch-ness-monster",
+      "name": "Loch Ness Monster",
+      "relationship": "similar",
+      "description": "Scottish lake monster; the prototypical long-necked freshwater cryptid"
+    },
+    {
+      "id": "ogopogo",
+      "name": "Ogopogo",
+      "relationship": "similar",
+      "description": "Lake Okanagan (BC, Canada) lake monster"
+    },
+    {
+      "id": "memphre",
+      "name": "Memphré",
+      "relationship": "regional_variant",
+      "description": "Lake Memphremagog (Vermont/Quebec) lake monster of the same regional folklore complex"
+    }
+  ],
+  "cultural_notes": "Local tradition treats Champ as a real, if elusive, animal of the lake; protection ordinances reflect both genuine belief and tourism-friendly civic identity.",
+  "sources": [
+    {
+      "id": "wikipedia-champ",
+      "type": "website",
+      "title": "Champ (folklore)",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Champ_(folklore)",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "zarzynski-1984",
+      "type": "book",
+      "title": "Champ: Beyond the Legend",
+      "authors": [
+        "Joseph W. Zarzynski"
+      ],
+      "publication": "Bannister Publications",
+      "date": "1984"
+    },
+    {
+      "id": "skeptical-inquirer-mansi",
+      "type": "article",
+      "title": "New Information Surfaces on 'World's Best Lake Monster Photo,' Raising Questions",
+      "publication": "Skeptical Inquirer",
+      "date": "2013",
+      "url": "https://skepticalinquirer.org/2013/05/new-information-surfaces-on-worlds-best-lake-monster-photo-raising-question/",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "yankee-mansi",
+      "type": "article",
+      "title": "The Champ Sighting (Sandra Mansi)",
+      "publication": "Yankee Magazine / NewEngland.com",
+      "url": "https://newengland.com/yankee/champ-sighting/",
+      "accessed": "2026-05-07"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Bulwagga Bay (Port Henry)",
+      "lat": 44.0414,
+      "lng": -73.4609
+    },
+    {
+      "name": "Mansi photograph site (St. Albans Bay area)",
+      "lat": 44.78,
+      "lng": -73.15
+    }
+  ]
 }

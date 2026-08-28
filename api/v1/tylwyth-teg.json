@@ -3,6 +3,7 @@
   "name": "Tylwyth Teg",
   "category": "fae_folklore",
   "description": "The Tylwyth Teg ('Fair Family') are the principal fairy folk of Welsh folklore, parallel to the Aos Sí of Ireland and the fairies of English and Continental tradition.",
+  "full_description": "Y Tylwyth Teg are the most widely known fairies of Welsh folklore, encompassing a varied family of supernatural beings recorded in Welsh oral and literary tradition since at least the 12th century. The category includes household, lake, mountain, and mine fairies, and overlaps with Bendith y Mamau ('Blessing of the Mothers'), Gwyllion, and Ellyllon. They are typically described as fair-haired and beautiful, dwelling in fairy hills, lakes (notably Llyn y Fan Fach), or under green mounds, and entering human society to dance in fairy rings, leave gifts at houses where milk has been set out for them, or — more darkly — to abduct human children, leaving changelings in their place. Iron, salt, and the Christian cross are traditional protections. The term tylwyth teg is first attested in a 14th-century poem attributed to Dafydd ap Gwilym, and references to Welsh fairy folk go back at least to Giraldus Cambrensis (c. 1146–1223). The 19th-century folklorist Wirt Sikes systematized later accounts in his British Goblins (1880), and 20th-century work by John Rhŷs (Celtic Folklore, 1901) remains a standard reference.",
   "aliases": [
     {
       "name": "Y Tylwyth Teg",
@@ -71,5 +72,131 @@
   "origin": "Tylwyth Teg traditions are found across Wales, with regional variations in name and emphasis. They are part of the broader Brythonic Celtic fairy tradition shared with Cornwall and Brittany.",
   "first_reported": "12th century",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Middle Welsh phrase tylwyth teg, literally 'fair tribe' or 'fair family'. 'Tylwyth' means tribe, family, household; 'teg' means fair, beautiful.",
+    "meaning": "'The Fair Family' or 'the Fair Folk' — euphemistic; like the Irish term Aos Sí, the name avoids invoking the fairies directly.",
+    "first_use": "First attested in a 14th-century Welsh poem attributed to Dafydd ap Gwilym; possibly earlier in oral tradition."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "1191",
+      "event": "Giraldus Cambrensis records the tale of Elidyr's visit to the fairy realm in Itinerarium Cambriae",
+      "significance": "Among the earliest written Welsh fairy narratives",
+      "source": "Giraldus Cambrensis, Itinerarium Cambriae (c. 1191)"
+    },
+    {
+      "date": "14th century",
+      "event": "Term 'tylwyth teg' first attested in a poem attributed to Dafydd ap Gwilym",
+      "significance": "First attestation of the Welsh name",
+      "source": "Dafydd ap Gwilym corpus"
+    },
+    {
+      "date": "1880",
+      "event": "Wirt Sikes publishes British Goblins, systematizing Welsh fairy lore including the Tylwyth Teg's five-fold classification",
+      "significance": "Standard 19th-century synthesis",
+      "source": "Sikes, W. (1880)"
+    },
+    {
+      "date": "1901",
+      "event": "Sir John Rhŷs publishes Celtic Folklore: Welsh and Manx, a major scholarly study of Tylwyth Teg traditions",
+      "significance": "Foundational academic treatment",
+      "source": "Rhŷs, J. (1901)"
+    }
+  ],
+  "related": [
+    {
+      "id": "aos-si",
+      "name": "Aos Sí",
+      "relationship": "counterpart",
+      "description": "Irish fairy folk, the closest cousin tradition to Tylwyth Teg"
+    },
+    {
+      "id": "sidhe",
+      "name": "Sidhe",
+      "relationship": "counterpart",
+      "description": "Irish fairy folk of the hollow hills"
+    },
+    {
+      "id": "seelie-court",
+      "name": "Seelie Court",
+      "relationship": "similar",
+      "description": "Scottish 'blessed' fairy court"
+    },
+    {
+      "id": "korrigan",
+      "name": "Korrigan",
+      "relationship": "similar",
+      "description": "Breton fairy women associated with springs and dolmens"
+    },
+    {
+      "id": "changeling",
+      "name": "Changeling",
+      "relationship": "related",
+      "description": "Belief that fairies substitute their own offspring for human babies; common to Tylwyth Teg lore"
+    }
+  ],
+  "cultural_notes": "Belief that the Tylwyth Teg are powerful, easily offended, fond of cleanliness and reciprocity, and best referred to with respectful or euphemistic names.",
+  "sources": [
+    {
+      "id": "wiki-tylwyth-teg",
+      "type": "website",
+      "title": "Tylwyth Teg",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Tylwyth_Teg",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "sikes-1880",
+      "type": "book",
+      "title": "British Goblins: Welsh Folk-Lore, Fairy Mythology, Legends, and Traditions",
+      "authors": [
+        "Wirt Sikes"
+      ],
+      "publication": "Sampson Low, Marston, Searle, & Rivington",
+      "date": "1880"
+    },
+    {
+      "id": "rhys-1901",
+      "type": "book",
+      "title": "Celtic Folklore: Welsh and Manx",
+      "authors": [
+        "John Rhŷs"
+      ],
+      "publication": "Clarendon Press",
+      "date": "1901"
+    },
+    {
+      "id": "evans-wentz-1911",
+      "type": "book",
+      "title": "The Fairy-Faith in Celtic Countries",
+      "authors": [
+        "W. Y. Evans-Wentz"
+      ],
+      "publication": "Henry Frowde / Oxford University Press",
+      "date": "1911"
+    },
+    {
+      "id": "giraldus-cambrensis",
+      "type": "book",
+      "title": "Itinerarium Cambriae and Descriptio Cambriae",
+      "authors": [
+        "Giraldus Cambrensis (Gerald of Wales)"
+      ],
+      "date": "c. 1191"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Llyn y Fan Fach",
+      "lat": 51.8836,
+      "lng": -3.7372
+    }
+  ]
 }

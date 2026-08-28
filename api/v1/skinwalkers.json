@@ -3,6 +3,7 @@
   "name": "Skinwalker (Yee Naaldlooshii)",
   "category": "shapeshifter",
   "description": "In some Indigenous American legends, a skinwalker (Navajo: yee naaldlooshii) is a harmful witch with the power to disguise itself as, transform into, or possess an animal. The figure is deeply embedded in Navajo tradition and is rarely discussed with outsiders.",
+  "full_description": "Yee naaldlooshii — usually translated 'by means of it, it goes on all fours' — is one specific kind of 'ánti'įhnii, the broad Navajo category of witches. Skinwalkers are described as having gained malevolent supernatural power through the violation of cultural taboos, including the killing of a relative. They are said to be able to transform into, disguise themselves as, or possess animals — most often coyotes, wolves, foxes, owls, crows, and other creatures associated with tricksters, death, or ill omen. The skinwalker is the antithesis of the Navajo medicine person: where the latter uses ceremony for healing and balance, the skinwalker uses ceremonial knowledge for harm, sickness, and misfortune. Among Navajo people, the topic is treated with great seriousness and is not freely discussed with outsiders; both the figure and the discussion of it carry spiritual risk. Outside the Navajo cultural context, the term has been widely appropriated in cryptozoology, internet folklore, and entertainment media, often in ways that flatten or distort its specific cultural meaning. Major academic treatments include Clyde Kluckhohn's 'Navaho Witchcraft' (1944) and Margaret K. Brady's 'Some Kind of Power: Navajo Children's Skinwalker Narratives' (1984).",
   "aliases": [
     {
       "name": "Yee Naaldlooshii",
@@ -42,5 +43,117 @@
   "origin": "Yee naaldlooshii belief is specific to Navajo (Diné) communities of the Four Corners region of the southwestern United States. Outside that cultural context, an English-language 'skinwalker' folklore — often substantially altered from the Navajo tradition — circulates broadly across North American popular culture and the internet.",
   "first_reported": "Pre-contact",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Navajo (Diné Bizaad). The English term 'skin-walker' is a calque/loose translation of yee naaldlooshii.",
+    "meaning": "Yee naaldlooshii is glossed as 'by means of it, it goes on all fours' or 'with it, he goes on all fours', referring to the use of an animal skin to move as that animal.",
+    "first_use": "Documented in English-language anthropological literature from the early–mid 20th century, notably Kluckhohn (1944)."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0,
+    "date_range": {
+      "earliest": "pre-contact (oral tradition)",
+      "latest": "present"
+    }
+  },
+  "timeline": [
+    {
+      "date": "Pre-contact",
+      "event": "Yee naaldlooshii belief is part of long-standing Navajo oral tradition",
+      "significance": "Cultural baseline",
+      "source": "Navajo oral tradition"
+    },
+    {
+      "date": "1944",
+      "event": "Clyde Kluckhohn publishes 'Navaho Witchcraft' (Peabody Museum Papers)",
+      "significance": "Foundational anthropological treatment of Navajo witchcraft, including yee naaldlooshii",
+      "source": "Kluckhohn, C. (1944), 'Navaho Witchcraft'"
+    },
+    {
+      "date": "1984",
+      "event": "Margaret K. Brady publishes 'Some Kind of Power: Navajo Children's Skinwalker Narratives'",
+      "significance": "Folkloristic study of how skinwalker narratives are told and transmitted within Navajo communities",
+      "source": "Brady, M. K. (1984), University of Utah Press"
+    }
+  ],
+  "related": [
+    {
+      "id": "wendigo",
+      "name": "Wendigo",
+      "relationship": "similar",
+      "description": "Algonquian malevolent transformative being from a distinct cultural tradition; sometimes wrongly conflated"
+    },
+    {
+      "id": "nagual",
+      "name": "Nagual",
+      "relationship": "similar",
+      "description": "Mesoamerican human-to-animal transformation tradition"
+    },
+    {
+      "id": "loup-garou",
+      "name": "Loup-garou",
+      "relationship": "similar",
+      "description": "European/Francophone werewolf tradition with shape-changing witches"
+    },
+    {
+      "id": "soucouyant",
+      "name": "Soucouyant",
+      "relationship": "similar",
+      "description": "Caribbean shape-shifting witch who sheds her skin"
+    }
+  ],
+  "cultural_notes": "Within Navajo cultural understanding, yee naaldlooshii are real and dangerous; ceremonial responses (e.g., specific Navajo ceremonies performed by medicine people) address their harm. The topic is not for casual discussion, particularly with outsiders.",
+  "sources": [
+    {
+      "id": "kluckhohn-1944",
+      "type": "book",
+      "title": "Navaho Witchcraft",
+      "authors": [
+        "Clyde Kluckhohn"
+      ],
+      "publication": "Peabody Museum of American Archaeology and Ethnology, Harvard University",
+      "date": "1944"
+    },
+    {
+      "id": "brady-1984",
+      "type": "book",
+      "title": "Some Kind of Power: Navajo Children's Skinwalker Narratives",
+      "authors": [
+        "Margaret K. Brady"
+      ],
+      "publication": "University of Utah Press",
+      "date": "1984",
+      "isbn": "978-0874802269"
+    },
+    {
+      "id": "kelleher-knapp-2005",
+      "type": "book",
+      "title": "Hunt for the Skinwalker: Science Confronts the Unexplained at a Remote Ranch in Utah",
+      "authors": [
+        "Colm A. Kelleher",
+        "George Knapp"
+      ],
+      "publication": "Paraview Pocket Books",
+      "date": "2005",
+      "isbn": "978-1416505211"
+    },
+    {
+      "id": "wikipedia-skinwalker",
+      "type": "website",
+      "title": "Skin-walker",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Skin-walker",
+      "accessed": "2026-05-07"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Navajo Nation",
+      "lat": 36,
+      "lng": -109.5
+    }
+  ]
 }

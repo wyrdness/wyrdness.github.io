@@ -3,6 +3,7 @@
   "name": "Draugr",
   "category": "undead",
   "description": "A corporeal revenant of Old Norse and Icelandic tradition, the draugr is an animated corpse with superhuman strength, magical abilities, and a violent jealousy toward the living, most often encountered as a guardian of treasure in a burial mound or as a re-walking neighbour terrorizing a farmstead.",
+  "full_description": "The draugr (Old Norse draugr, plural draugar) is a corporeal undead being of Old Norse, Icelandic, Norwegian, and Faroese tradition. Unlike incorporeal ghosts, draugar are physical, often described as 'death-blue' (hel-blár) or 'corpse-pale' (nár-fölr), bloated to the size of bulls or oxen, reeking of decay, and possessed of immense strength. Old Norse literature distinguishes the haugbúi or 'mound-dweller', who guards a barrow and attacks only those who trespass, from the aptrganga or 'after-walker', who leaves the grave to terrorize a wider community. Draugar wield trollskapr — a magical capacity that includes shape-shifting (into seals, bulls, cats, or half-flayed monstrosities), changing size, controlling weather, entering the dreams of the living, sinking through solid ground, and inflicting curses. Famous saga draugar include Glámr the shepherd in Grettis saga, Kárr inn gamli (Kar the Old) the mound-guardian in Grettis saga, Víga-Hrappr Sumarliðason in Laxdœla saga, and Þórólfr bægifótr (Thorolf Lame-foot) in Eyrbyggja saga. Methods recorded in the sagas for ending a draugr include wrestling, decapitation, burning, and casting the ashes into the sea. The Norwegian sjødraug ('sea-draug') is a related figure: the ghost of a drowned fisherman without Christian burial, often seen sailing a half-boat as a death-omen.",
   "aliases": [
     {
       "name": "Draugur",
@@ -58,5 +59,113 @@
   "origin": "Old Norse and post-Norse Scandinavia: Iceland, Norway, the Faroe Islands, with related traditions in Sweden, Denmark, and the Northern Isles of Britain (Orkney, Shetland).",
   "first_reported": "c. 1200",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Old Norse draugr, from Proto-Germanic *draugaz ('phantom, illusion'), Indo-European *dʰrowgʰos",
+    "meaning": "Linked to a root meaning 'illusion, deceit'; cognate with German Trug ('deception') and Sanskrit drúh ('injury, harm')",
+    "first_use": "Old Norse poetry and prose; defined by Cleasby & Vigfússon (1873) as 'a ghost, spirit, especially the dead inhabitant of a cairn'"
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "1200-01-01",
+      "event": "Composition of Eyrbyggja saga (early 13th century), preserving the Þórólfr bægifótr account",
+      "significance": "Definitive account of contagious revenant haunting",
+      "source": "Eyrbyggja saga"
+    },
+    {
+      "date": "1240-01-01",
+      "event": "Composition of Laxdœla saga (mid-13th century), preserving the Víga-Hrappr account",
+      "significance": "Classic account of the after-walking, shape-shifting draugr",
+      "source": "Laxdœla saga"
+    },
+    {
+      "date": "1310-01-01",
+      "event": "Composition of Grettis saga (early 14th century), preserving the Glámr and Kárr inn gamli accounts",
+      "significance": "Most-cited saga dealing with draugar",
+      "source": "Grettis saga"
+    },
+    {
+      "date": "1741-01-01",
+      "event": "Hans Egede describes the Norwegian sjødraug in his account of Greenland",
+      "significance": "Early modern ethnographic record of the sea-draug tradition",
+      "source": "Hans Egede (1741)"
+    },
+    {
+      "date": "1873-01-01",
+      "event": "Cleasby & Guðbrandur Vigfússon's An Icelandic-English Dictionary defines draugr as 'a ghost, spirit, especially the dead inhabitant of a cairn'",
+      "significance": "Foundational lexicographic entry",
+      "source": "Cleasby & Vigfússon (1873)"
+    }
+  ],
+  "related": [
+    {
+      "id": "vampires",
+      "name": "Vampires",
+      "relationship": "similar",
+      "description": "Other corporeal revenant traditions (Slavic upyr, vrykolakas)"
+    },
+    {
+      "id": "revenant",
+      "name": "Revenant",
+      "relationship": "superset",
+      "description": "Broader European category of returning dead"
+    },
+    {
+      "id": "vrykolakas",
+      "name": "Vrykolakas",
+      "relationship": "similar",
+      "description": "Greek corporeal revenant tradition"
+    },
+    {
+      "id": "strigoi",
+      "name": "Strigoi",
+      "relationship": "similar",
+      "description": "Romanian undead tradition"
+    },
+    {
+      "id": "nachzehrer",
+      "name": "Nachzehrer",
+      "relationship": "similar",
+      "description": "Germanic corpse-eater revenant"
+    }
+  ],
+  "cultural_notes": "Draugar are bound to wealth, land, and unresolved grievance; correct burial, decapitation and burning, or the door-doom (duradómr) legal ritual were said to neutralize them.",
+  "sources": [
+    {
+      "id": "wikipedia-draugr",
+      "type": "website",
+      "title": "Draugr",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Draugr",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "cleasby-vigfusson-1873",
+      "type": "book",
+      "title": "An Icelandic-English Dictionary",
+      "authors": [
+        "Richard Cleasby",
+        "Guðbrandur Vigfússon"
+      ],
+      "publication": "Clarendon Press",
+      "date": "1873"
+    },
+    {
+      "id": "armann-2011",
+      "type": "paper",
+      "title": "Vampires and watchmen: categorizing the medieval Icelandic undead",
+      "authors": [
+        "Ármann Jakobsson"
+      ],
+      "publication": "Journal of English and Germanic Philology",
+      "date": "2011"
+    }
+  ],
+  "locations": []
 }

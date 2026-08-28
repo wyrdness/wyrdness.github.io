@@ -3,6 +3,7 @@
   "name": "Jumbie",
   "category": "ghost_haunting",
   "description": "Jumbie (also jumbee) is a broad term from Caribbean folklore for supernatural entities — primarily spirits of the dead but also nature spirits, shapeshifters, and other beings — rooted in West and Central African traditions carried to the Caribbean through the transatlantic slave trade.",
+  "full_description": "Jumbie (also spelled jumbee) is the primary term across English-speaking Caribbean territories for a wide spectrum of supernatural beings: malevolent spirits of the dead, ancestral presences, nature spirits dwelling in trees and waters, protective house spirits, vengeful murdered souls, trickster entities, and shapeshifters, among others. The word derives from Kikongo roots, and the related term nfumbi (ancestral ghost) of the Kongo people may be etymologically connected. Alternative names include mendo and chongo in Colombia and Venezuela; duppy in Jamaica and Barbados (from Akan); and zombi in French Caribbean territories. Jumbie traditions were carried to the Caribbean by enslaved peoples from diverse West and Central African ethnic groups, where they merged with indigenous Taíno and Kalinago spirit concepts and European ghost folklore to create a distinctly Caribbean but recognizably African spiritual cosmology. The tradition survives today across Guyana, Antigua, Barbuda, The Bahamas, Trinidad, the US and British Virgin Islands, and related territories. Jumbies are described as dark, shadowy figures — contrasting with the wispy translucent ghost of Western European tradition. They are said to shape-shift (especially into dogs, pigs, or cats), possess people during ceremonial dances, and can be distracted by obsessive counting (placing grains of salt, rice, or sand near a doorway forces a jumbie to count every grain before entering, buying time for inhabitants). Jumbies allegedly cannot cross water or tolerate the presence of shoes left outside a door. The tradition is connected to Obeah — Caribbean spiritual and magical practice — and to the broader understanding that those who have lived evil lives become instruments of evil after death. In the US and British Virgin Islands, Mocko Jumbies are tall stilt-dancers who perform in carnival parades and are understood to embody protective ancestral spirits.",
   "aliases": [
     {
       "name": "Jumbee",
@@ -68,5 +69,48 @@
   "origin": "English-speaking Caribbean territories, primarily those with British colonial history. Also present in Guyana and some South American territories. Related traditions in French Caribbean (zombi) and Jamaica/Barbados (duppy).",
   "first_reported": "Pre-1800",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Kikongo roots; the Kongo people's term nfumbi (ancestral ghost) may be etymologically related. The word entered English through the contact between enslaved African peoples and English-speaking colonizers in the Caribbean.",
+    "meaning": "A general term for supernatural entities, primarily spirits of the dead. The word encompasses a much broader range of beings than the Western 'ghost' concept.",
+    "first_use": "Attested in English Caribbean usage from the colonial period; precise first documentation date not established from available sources."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [],
+  "related": [
+    {
+      "id": "duppy",
+      "name": "Duppy",
+      "relationship": "regional_variant",
+      "description": "Jamaican / Barbadian equivalent term for the same class of spirit beings"
+    },
+    {
+      "id": "zombi",
+      "name": "Zombi",
+      "relationship": "regional_variant",
+      "description": "French Caribbean equivalent; also shares Kikongo/West African roots"
+    },
+    {
+      "id": "obeah",
+      "name": "Obeah",
+      "relationship": "related",
+      "description": "Caribbean spiritual practice tradition within which jumbie beliefs operate"
+    }
+  ],
+  "cultural_notes": "Jumbie beliefs represent a complex and sophisticated spiritual cosmology rather than simple ghost superstition. They encode African diaspora understandings of death, the afterlife, ancestral agency, and the continuing presence of the past in the lives of the living. These beliefs have survived centuries of colonial suppression and continue to shape Caribbean identity, community practices, and artistic expression.",
+  "sources": [
+    {
+      "id": "wikipedia-jumbee",
+      "type": "website",
+      "title": "Jumbee",
+      "url": "https://en.wikipedia.org/wiki/Jumbie",
+      "accessed": "2026-05-08"
+    }
+  ],
+  "locations": []
 }

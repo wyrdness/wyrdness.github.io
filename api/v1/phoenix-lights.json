@@ -3,6 +3,7 @@
   "name": "Phoenix Lights",
   "category": "ufo_uap",
   "description": "A widely witnessed series of unidentified aerial lights observed across Arizona and parts of Nevada on the evening of 13 March 1997. Two distinct events occurred — a high-altitude V-formation moving south, and a later set of stationary lights over the Estrella Mountains south of Phoenix — both later attributed by U.S. Air Force investigators to A-10 Thunderbolt II aircraft and illumination flares from Operation Snowbird training exercises.",
+  "full_description": "The Phoenix Lights are a sequence of unidentified flying object reports made between roughly 7:30 p.m. and 10:30 p.m. Mountain Standard Time on 13 March 1997, observed across approximately 300 miles of southwestern airspace from southern Nevada through Phoenix to the Tucson area. Two separate phenomena were involved. The first, occurring shortly after 8 p.m., was a triangular or V-shaped formation of lights moving silently and slowly south over Arizona; tens of thousands of people are estimated to have seen it. Among the witnesses were the Ley family north of Phoenix, amateur astronomer Mitch Stanley in Scottsdale (who reported he saw individual aircraft through a telescope), and Arizona Governor Fife Symington III, who later said he saw an enormous craft. The second event, around 10 p.m., was a row of stationary lights over the Estrella Mountain range south-west of Phoenix. The U.S. Air Force later identified the first event as a formation of A-10 Thunderbolt II aircraft on a training flight returning to Davis-Monthan Air Force Base, and the second as illumination flares dropped by A-10s from the Maryland Air National Guard at the Barry Goldwater Range under Operation Snowbird; the flares hung beneath parachutes and appeared to fade out one by one as the Estrella ridge occluded them. Astronomer and retired USAF pilot James McGaha and others have published technical reconstructions consistent with this explanation. Robert Sheaffer has called the Phoenix Lights 'perhaps the most widely witnessed UFO event in history'. The case remains a touchstone of U.S. UFO discussion, particularly because of Symington's 2007 reversal in which he said he had personally witnessed an unexplained craft.",
   "aliases": [
     {
       "name": "Lights over Phoenix",
@@ -38,5 +39,105 @@
   "origin": "A single-event phenomenon localized to the southwestern United States — southern Nevada through Phoenix and surrounding Arizona to the Tucson area.",
   "first_reported": "1997-03-13",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Named in the popular press for the city of Phoenix, Arizona, where the most heavily populated viewing took place.",
+    "meaning": "'The Phoenix Lights' — the lights seen over Phoenix, Arizona on 13 March 1997.",
+    "first_use": "Coined in March 1997 in the immediate aftermath of the event."
+  },
+  "sightings_stats": {
+    "total_documented": 1,
+    "verified": 0,
+    "disputed": 1,
+    "debunked": 0,
+    "date_range": {
+      "earliest": "1997-03-13",
+      "latest": "1997-03-13"
+    }
+  },
+  "timeline": [
+    {
+      "date": "1997-03-13",
+      "event": "Between approximately 19:30 and 22:30 MST, two distinct light events are seen over Arizona by tens of thousands of witnesses",
+      "significance": "The Phoenix Lights event itself",
+      "source": "Contemporary news reports; Wikipedia, 'Phoenix Lights'"
+    },
+    {
+      "date": "1997-06-19",
+      "event": "Arizona Governor Fife Symington III holds a press conference announcing 'we found who did it' and presents an aide in an alien costume",
+      "significance": "Initial public response treated as a joke",
+      "source": "Wikipedia, 'Phoenix Lights'"
+    },
+    {
+      "date": "1997-07",
+      "event": "U.S. Air Force identifies the second event as illumination flares dropped by A-10 Thunderbolt II aircraft from the Maryland Air National Guard during Operation Snowbird training at the Barry Goldwater Range",
+      "significance": "Official explanation for the stationary-light event",
+      "source": "U.S. Air Force statements; Wikipedia, 'Phoenix Lights'"
+    },
+    {
+      "date": "2007-03",
+      "event": "Symington publicly reverses his 1997 stance, telling reporters and a UFO investigator that he personally saw an unexplained craft on the night of 13 March 1997 and joined the press conference only to defuse public alarm",
+      "significance": "High-profile reversal that re-energizes the case",
+      "source": "Wikipedia, 'Phoenix Lights'"
+    }
+  ],
+  "related": [
+    {
+      "id": "belgian-ufo-wave",
+      "name": "Belgian UFO wave (1989–1990)",
+      "relationship": "similar",
+      "description": "Earlier mass triangle-UFO sighting wave"
+    },
+    {
+      "id": "stephenville-lights",
+      "name": "Stephenville Lights (2008, Texas)",
+      "relationship": "similar",
+      "description": "Later mass U.S. UFO sighting event"
+    },
+    {
+      "id": "hudson-valley-ufo",
+      "name": "Hudson Valley UFO sightings (1982–1986)",
+      "relationship": "similar",
+      "description": "Earlier U.S. mass triangle-shaped UFO sightings"
+    }
+  ],
+  "cultural_notes": "A significant minority of Americans regard the Phoenix Lights as among the strongest evidence for non-mundane UAP.",
+  "sources": [
+    {
+      "id": "wikipedia-phoenix-lights",
+      "type": "website",
+      "title": "Phoenix Lights",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Phoenix_Lights",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "kitei-2010",
+      "type": "book",
+      "title": "The Phoenix Lights: A Skeptic's Discovery That We Are Not Alone",
+      "authors": [
+        "Lynne D. Kitei"
+      ],
+      "publication": "Hampton Roads Publishing",
+      "date": "2010",
+      "isbn": "978-1571746023"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Phoenix metropolitan area",
+      "lat": 33.4484,
+      "lng": -112.074
+    },
+    {
+      "name": "Estrella Mountain Range",
+      "lat": 33.3,
+      "lng": -112.4
+    },
+    {
+      "name": "Barry M. Goldwater Range",
+      "lat": 32.5,
+      "lng": -113
+    }
+  ]
 }

@@ -3,6 +3,7 @@
   "name": "Pelesit",
   "category": "entity_spirit",
   "description": "The pelesit is a familiar spirit of Malay folk magic, manifesting as a cricket or grasshopper (sometimes with a human head) and traditionally owned by women, who keep it in a bottle and use it to attack victims at the command of its master and its companion spirit, the polong.",
+  "full_description": "In Malay folklore, a pelesit is a hereditary familiar spirit kept by a sorcerer or witch (most often a woman) and used to harm enemies. It is most commonly described as a cricket or grasshopper, and the name itself derives from the Malay root lesit ('to buzz or whizz'). The pelesit is closely paired with the polong, another familiar spirit; together they form a working pair, with the pelesit often described as the 'pet' of the polong. To create or inherit a pelesit, the practitioner performs a ritual involving the recitation of incantations and the biting off of the tongue of a dead infant; the preserved tongue, treated with the proper ritual, becomes the pelesit. When not deployed, the pelesit is kept in a small bottle and fed turmeric rice or blood drawn from the ring finger (the 'ghost finger', jari hantu). When directed at a victim, it enters the body tail-first through the mouth and chirps to summon the polong, which can drive the victim mad or unconscious. Treatment is performed by a bomoh (Malay folk healer), who interrogates the victim under the spirit's influence to identify its owner. The tradition is documented across the Malay-speaking world, with particularly strong attestation in the state of Kedah, in northern Peninsular Malaysia.",
   "aliases": [
     {
       "name": "Belalang Pelesit",
@@ -31,5 +32,72 @@
   "origin": "The pelesit is part of Malay folk magic across Peninsular Malaysia, Indonesia, Brunei, and Singapore. The tradition is particularly strongly associated with Kedah in northern Peninsular Malaysia.",
   "first_reported": "1800s",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Malay. From the root lesit ('to buzz or whizz'), referring to the sound of the cricket/grasshopper form the spirit takes.",
+    "meaning": "'Buzzer' (loosely).",
+    "first_use": "Documented in 19th- and 20th-century European-language ethnographies of Malay folk magic, including the works of Walter William Skeat (Malay Magic, 1900); the underlying belief is older."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "1900",
+      "event": "Walter William Skeat publishes Malay Magic, providing the first systematic English-language treatment of Malay folk magic including the pelesit and polong",
+      "significance": "Foundational ethnographic documentation",
+      "source": "Skeat, W. W. - Malay Magic (Macmillan, 1900)"
+    }
+  ],
+  "related": [
+    {
+      "id": "polong",
+      "name": "Polong",
+      "relationship": "counterpart",
+      "description": "The pelesit's paired master spirit, often described as a tiny humanoid kept in a bottle and summoned by the pelesit's chirp"
+    },
+    {
+      "id": "bajang",
+      "name": "Bajang",
+      "relationship": "similar",
+      "description": "Male equivalent hereditary familiar spirit in Malay folklore, typically appearing as a polecat or civet"
+    },
+    {
+      "id": "toyol",
+      "name": "Toyol",
+      "relationship": "related",
+      "description": "Malay child-spirit familiar used for theft"
+    },
+    {
+      "id": "hantu-raya",
+      "name": "Hantu Raya",
+      "relationship": "related",
+      "description": "Greater familiar spirit in Malay folk magic"
+    }
+  ],
+  "cultural_notes": "Pelesit attack is treated as a real and serious cause of sudden illness in some Malay communities; defensive practices include consulting a bomoh, the use of Quranic verses, and physical defences such as iron objects.",
+  "sources": [
+    {
+      "id": "wikipedia-pelesit",
+      "type": "website",
+      "title": "Pelesit",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Pelesit",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "skeat-1900",
+      "type": "book",
+      "title": "Malay Magic: An Introduction to the Folklore and Popular Religion of the Malay Peninsula",
+      "authors": [
+        "Walter William Skeat"
+      ],
+      "publication": "Macmillan",
+      "date": "1900"
+    }
+  ],
+  "locations": []
 }

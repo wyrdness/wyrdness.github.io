@@ -3,6 +3,7 @@
   "name": "Rusalka",
   "category": "undead",
   "description": "A female water spirit in East and West Slavic folklore, often understood as the restless soul of a drowned woman or unbaptized girl, who lures men into rivers and lakes during a seasonal week of activity around Pentecost.",
+  "full_description": "Rusalki are female water beings of Slavic folklore, especially well documented in Russian, Ukrainian, Belarusian, Polish and Czech tradition. Earlier ethnographic record describes them as broadly benevolent spring fertility spirits associated with rain, dew, and the growing crop, while later 19th-century folk belief — particularly in East Slavic territory — recasts them as dangerous, often hostile revenants of women who died unmarried, by drowning, by suicide, or as unbaptized children. Hair, especially loose unbraided hair, is the central somatic motif: rusalki are said to have long flowing hair (sometimes green like waterweed) and to comb it on the bank, a gesture explicitly tied to their unmarried status. They lure men to the water with song, beauty or laughter and kill them by drowning, by tickling, or by forcing them into a frenzied dance. Their period of greatest activity is Rusalka Week (Rusalnaya nedelya, Trinity Week / the week before Pentecost), when they leave the water to swing on the branches of birches and willows; swimming was forbidden in many villages during this week, which closed with rituals of farewell or ritual 'burial' of the rusalka. The rusalka has been a central figure in 19th- and 20th-century Slavic high culture, including Pushkin, Lermontov, Gogol, Dargomyzhsky, Lesya Ukrainka and Antonín Dvořák.",
   "aliases": [
     {
       "name": "Rusalki",
@@ -55,5 +56,149 @@
   "origin": "Widely attested across the East Slavic world (Russia, Ukraine, Belarus) and into Poland, Czech and Slovak lands; secondary attestations in Slovenia and parts of the Balkans.",
   "first_reported": "Early modern period",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "From Old East Slavic; ultimately related to the Latin 'rosālia' / Byzantine Greek 'rousália', a Pentecost festival of roses commemorating the dead. The Slavic spring festival 'rusalija' lent its name to the spirits associated with it.",
+    "meaning": "'Rusalka' is the feminine singular for a being of the rusalija festival; later popularly understood as a water nymph or drowned soul.",
+    "first_use": "Attested in East Slavic ethnographic and chronicle sources by at least the early modern period; the literary use was canonised by Pushkin's poems and Gogol's tales in the 1830s."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "1831-01-01",
+      "event": "Mikhail Lermontov writes the poem 'Rusalka'",
+      "significance": "Early canonisation of the rusalka as a literary motif in Russian Romanticism",
+      "source": "Lermontov, M. (1831), 'Rusalka'"
+    },
+    {
+      "date": "1832-01-01",
+      "event": "Alexander Pushkin writes the unfinished verse drama 'Rusalka'",
+      "significance": "Foundational Russian literary treatment",
+      "source": "Pushkin, A. S. (1832), 'Rusalka'"
+    },
+    {
+      "date": "1856-01-01",
+      "event": "Alexander Dargomyzhsky's opera 'Rusalka' premieres",
+      "significance": "First major operatic treatment in Russia",
+      "source": "Dargomyzhsky, A. (1856), opera 'Rusalka'"
+    },
+    {
+      "date": "1901-03-31",
+      "event": "Antonín Dvořák's opera 'Rusalka' premieres at the National Theatre, Prague",
+      "significance": "Introduces the Slavic rusalka into the international operatic canon",
+      "source": "Dvořák, A. (1901), opera 'Rusalka'"
+    },
+    {
+      "date": "1911-01-01",
+      "event": "Lesya Ukrainka publishes the dramatic poem 'Lisova pisnia' ('The Forest Song') featuring a Mavka",
+      "significance": "Major Ukrainian literary engagement with the figure",
+      "source": "Ukrainka, L. (1911), 'Lisova pisnia'"
+    }
+  ],
+  "related": [
+    {
+      "id": "vila",
+      "name": "Vila / Samodiva",
+      "relationship": "similar",
+      "description": "South Slavic feminine nature spirits with comparable seasonal and water associations"
+    },
+    {
+      "id": "mermaid",
+      "name": "Mermaid",
+      "relationship": "counterpart",
+      "description": "Western European aquatic seductress, often conflated with the rusalka in modern translation"
+    },
+    {
+      "id": "siren",
+      "name": "Siren",
+      "relationship": "similar",
+      "description": "Greek luring-by-song water entity"
+    },
+    {
+      "id": "lorelei",
+      "name": "Lorelei",
+      "relationship": "similar",
+      "description": "Rhine river maiden whose song lures men to drowning"
+    },
+    {
+      "id": "vodyanoy",
+      "name": "Vodyanoy",
+      "relationship": "related",
+      "description": "Male Slavic water spirit, sometimes paired with rusalki in folk taxonomy"
+    },
+    {
+      "id": "drekavac",
+      "name": "Drekavac",
+      "relationship": "related",
+      "description": "South Slavic spirit of unbaptized children, structurally analogous to certain rusalka subtypes"
+    }
+  ],
+  "cultural_notes": "Rusalki straddle the categories of nature spirit and unquiet dead. Apotropaics include wormwood, iron, the Christian cross, and the avoidance of water during their week.",
+  "sources": [
+    {
+      "id": "wikipedia-rusalka",
+      "type": "website",
+      "title": "Rusalka — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Rusalka",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "ivanits-1989",
+      "type": "book",
+      "title": "Russian Folk Belief",
+      "authors": [
+        "Linda J. Ivanits"
+      ],
+      "publication": "M. E. Sharpe",
+      "date": "1989",
+      "isbn": "978-0873324229"
+    },
+    {
+      "id": "hubbs-1988",
+      "type": "book",
+      "title": "Mother Russia: The Feminine Myth in Russian Culture",
+      "authors": [
+        "Joanna Hubbs"
+      ],
+      "publication": "Indiana University Press",
+      "date": "1988",
+      "isbn": "978-0253206848"
+    },
+    {
+      "id": "afanasyev",
+      "type": "book",
+      "title": "Poetic Views of the Slavs on Nature (Поэтические воззрения славян на природу)",
+      "authors": [
+        "Aleksandr N. Afanasyev"
+      ],
+      "publication": "Moscow",
+      "date": "1865-1869"
+    },
+    {
+      "id": "dvorak-rusalka",
+      "type": "other",
+      "title": "Rusalka (opera)",
+      "authors": [
+        "Antonín Dvořák",
+        "Jaroslav Kvapil (libretto)"
+      ],
+      "publication": "National Theatre, Prague",
+      "date": "1901-03-31"
+    },
+    {
+      "id": "pushkin-rusalka",
+      "type": "book",
+      "title": "Rusalka (unfinished verse drama)",
+      "authors": [
+        "Alexander S. Pushkin"
+      ],
+      "date": "1832"
+    }
+  ],
+  "locations": []
 }

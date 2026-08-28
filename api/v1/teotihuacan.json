@@ -3,6 +3,7 @@
   "name": "Teotihuacan",
   "category": "location",
   "description": "Teotihuacan is a vast pre-Columbian city in the Valley of Mexico, approximately 40 km northeast of Mexico City, that was one of the largest cities in the ancient world at its peak (c. 100,000–200,000 inhabitants around 400–500 CE); its builders remain unknown, and the city features extraordinary astronomical alignments, a 100-meter ritual tunnel sealed for 2,000 years, and evidence of collective governance unlike other ancient civilizations.",
+  "full_description": "Teotihuacan is located in the Valley of Mexico, approximately 40 kilometers northeast of modern Mexico City, in the State of Mexico (coordinates: 19°41'33\"N, 98°50'38\"W). At its height between 400 and 500 CE, it was among the largest cities in the ancient world, with an estimated population of 100,000 to 200,000 people — comprising 80–90% of the Valley of Mexico's population — making it the sixth-largest city in the world at that time. The city covers approximately 8 to 21 square kilometers and features a central 4-kilometer boulevard (the Avenue of the Dead, 40 meters wide), the massive Pyramid of the Sun (third-largest pyramid in the world by base area: 219.4 × 231.6 meters, 65 meters tall), the Pyramid of the Moon, and the Temple of the Feathered Serpent (Quetzalcoatl) with its associated underground tunnel system. The city's builders and original ethnic identity remain subjects of scholarly debate; candidates include Nahuas, Otomi, Totonac, or a multi-ethnic founding population. Uniquely among ancient civilizations, there is no evidence of a centralized monarchy at Teotihuacan: no royal palaces, no ceremonial ball courts, and no depictions of conquest or individual rulers in the artistic record, suggesting some form of collective governance. The city declined around 550–650 CE, with evidence of burning concentrated on elite structures (suggesting internal uprising or civil strife rather than external conquest), correlated with climate changes of 535–536 CE and possible drought-induced famine. The city was rediscovered and named by the Aztecs (Mexica) centuries after its abandonment; the Nahuatl name Teōtīhuacān means 'birthplace of the gods.' It was designated a UNESCO World Heritage Site in 1987.",
   "aliases": [
     {
       "name": "Teohuacan",
@@ -41,5 +42,146 @@
   "origin": "Single location in the Valley of Mexico, but cultural influence extended across Mesoamerica during the city's peak period (1–650 CE).",
   "first_reported": "0100-01-01",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Nahuatl language (Aztec), applied to the already-abandoned city when the Aztecs encountered it.",
+    "meaning": "'Birthplace of the gods' (Nahuatl: teōtl = god + ihuan = among + can = place). A 2018 scholarly proposal suggests the original name may have been 'Teohuacan' meaning 'City of the Sun.' The Maya texts reference the city as 'Puh' (Place of Reeds).",
+    "first_use": "The Nahuatl name was applied by the Aztecs after approximately 1300 CE. The original name used by the city's inhabitants is unknown."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "0100-01-01",
+      "event": "City of Teotihuacan begins rapid urban development; estimated 60,000–80,000 inhabitants",
+      "significance": "Founding of the city as an urban center",
+      "source": "Archaeological record"
+    },
+    {
+      "date": "0200-01-01",
+      "event": "Construction of the Pyramid of the Sun and early phases of the Pyramid of the Moon",
+      "significance": "Creation of the city's most iconic structures",
+      "source": "Archaeological excavation dating"
+    },
+    {
+      "date": "0378-01-01",
+      "event": "Warlord Sihyaj K'ahk', carrying feathered-serpent imagery associated with Teotihuacan, conquers Tikal and installs a new Maya king",
+      "significance": "Direct evidence of Teotihuacan military and political influence over the Maya lowlands",
+      "source": "Maya epigraphic record; archaeological evidence"
+    },
+    {
+      "date": "0426-01-01",
+      "event": "K'inich Yax K'uk' Mo' establishes the Copán dynasty in Honduras with Teotihuacan backing",
+      "significance": "Further evidence of Teotihuacan's wide political reach",
+      "source": "Maya epigraphic record"
+    },
+    {
+      "date": "0550-01-01",
+      "event": "Major burning event: elite residential compounds and temples selectively burned; evidence points to internal uprising or civil strife rather than external conquest",
+      "significance": "Turning point in the city's decline",
+      "source": "Archaeological record; burn pattern analysis"
+    },
+    {
+      "date": "0750-01-01",
+      "event": "City effectively abandoned; population dispersed into surrounding region",
+      "significance": "End of Teotihuacan as a major urban center",
+      "source": "Archaeological record"
+    },
+    {
+      "date": "1905-01-01",
+      "event": "Major excavation project conducted by Leopoldo Batres under Mexican government direction; significant site alteration",
+      "significance": "Early modern archaeological investigation, though methods now considered damaging",
+      "source": "Mexican archaeological record"
+    },
+    {
+      "date": "1971-01-01",
+      "event": "Man-made tunnel discovered beneath the Pyramid of the Sun during installation of a sound-and-light system",
+      "significance": "Discovery of underground architecture beneath the largest pyramid",
+      "source": "INAH archaeological record"
+    },
+    {
+      "date": "1987-01-01",
+      "event": "Teotihuacan designated a UNESCO World Heritage Site",
+      "significance": "International recognition of the site's outstanding universal value",
+      "source": "UNESCO World Heritage List"
+    },
+    {
+      "date": "2003-01-01",
+      "event": "A sinkhole forms after a rainstorm above a sealed tunnel beneath the Temple of the Feathered Serpent; excavation by Sergio Gómez Chávez (Tlalocan Project) begins",
+      "significance": "Discovery of the most artifact-rich archaeological context at the site",
+      "source": "INAH / Tlalocan Project"
+    },
+    {
+      "date": "2015-01-01",
+      "event": "Excavation of the Feathered Serpent tunnel yields approximately 75,000 artifact fragments: wooden masks with jade/quartz inlay, pyrite spheres, greenstone figurines, miniature liquid mercury lakes, and four greenstone statues in original positions",
+      "significance": "Most significant archaeological discovery at Teotihuacan in decades",
+      "source": "Gómez Chávez, S. et al., INAH reports 2015"
+    },
+    {
+      "date": "2021-01-01",
+      "event": "An approximately 1,800-year-old flower bouquet discovered in the Feathered Serpent tunnel — the first well-preserved plant matter found at the site",
+      "significance": "Extraordinary preservation providing new insight into ritual deposits",
+      "source": "INAH press releases 2021"
+    }
+  ],
+  "related": [
+    {
+      "id": "chichen-itza",
+      "name": "Chichen Itza",
+      "relationship": "related",
+      "description": "Maya city that shows strong Teotihuacan cultural and architectural influence"
+    },
+    {
+      "id": "tikal",
+      "name": "Tikal",
+      "relationship": "related",
+      "description": "Maya city conquered by a Teotihuacan-affiliated warlord in 378 CE; significant Teotihuacan cultural presence documented"
+    },
+    {
+      "id": "nazca-lines",
+      "name": "Nazca Lines",
+      "relationship": "similar",
+      "description": "Another pre-Columbian archaeological phenomenon in South America associated with astronomical alignments and unknown purpose"
+    }
+  ],
+  "cultural_notes": "The Aztecs who encountered the abandoned city were so awed by its scale that they named it the birthplace of the gods and incorporated it into their own cosmology. The city's astronomical alignments suggest its builders had sophisticated cosmological beliefs that shaped the city's entire layout.",
+  "sources": [
+    {
+      "id": "wikipedia-teotihuacan",
+      "type": "website",
+      "title": "Teotihuacan — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Teotihuacan",
+      "accessed": "2026-05-08"
+    },
+    {
+      "id": "inah-tlalocan",
+      "type": "website",
+      "title": "Tlalocan Project — INAH",
+      "url": "https://www.inah.gob.mx",
+      "accessed": "2026-05-08"
+    },
+    {
+      "id": "unesco-teotihuacan",
+      "type": "website",
+      "title": "Pre-Hispanic City of Teotihuacan — UNESCO World Heritage",
+      "url": "https://whc.unesco.org/en/list/414",
+      "accessed": "2026-05-08"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Pyramid of the Sun",
+      "lat": 19.6925,
+      "lng": -98.8438
+    },
+    {
+      "name": "Temple of the Feathered Serpent Tunnel",
+      "lat": 19.6892,
+      "lng": -98.8459
+    }
+  ]
 }

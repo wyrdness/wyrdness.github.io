@@ -3,6 +3,7 @@
   "name": "Candle Cove",
   "category": "urban_legend",
   "description": "A short horror fiction piece by webcomic author Kris Straub, published in 2009 on the Ichor Falls website. Written in the form of a forum thread in which adults remember a disturbing 1970s children's television program called 'Candle Cove' that turns out never to have existed.",
+  "full_description": "Candle Cove is a creepypasta short story written by American webcomic author Kris Straub and published on his fiction site Ichor Falls in 2009. The piece is presented as a transcript of a NetNostalgia forum thread in which several adults from the Ohio River Valley share half-remembered fragments of a low-budget puppet show called Candle Cove that aired on a local UHF station (Channel 58) in the 1970s. The recollections grow progressively more disturbing — culminating in a 'Skin-Taker' marionette and an episode in which the puppets simply scream — before one user's mother delivers the closing twist: the television was tuned to static during those broadcasts. Candle Cove is widely cited as a foundational example of the creepypasta genre and was adapted as the first season of Syfy's anthology series Channel Zero in 2016. The work is a documented piece of fiction; Wyrdness catalogues it as an internet legend rather than a paranormal phenomenon.",
   "aliases": [
     {
       "name": "Candle Cove (creepypasta)",
@@ -25,5 +26,85 @@
   "origin": "An internet phenomenon distributed through the Ichor Falls site, creepypasta wikis, Reddit, YouTube readings, and the Channel Zero television adaptation. The fictional setting is a UHF children's television program in the Huntington–Ashland (West Virginia / Kentucky / Ohio) media market.",
   "first_reported": "2009",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Coined by Kris Straub for the 2009 Ichor Falls story.",
+    "meaning": "The fictional name of the in-universe children's television show.",
+    "first_use": "2009 (Ichor Falls website)"
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0,
+    "date_range": {
+      "earliest": "2009",
+      "latest": "2009"
+    }
+  },
+  "timeline": [
+    {
+      "date": "2009",
+      "event": "Kris Straub publishes 'Candle Cove' on Ichor Falls",
+      "significance": "Origin of the story",
+      "source": "Ichor Falls (ichorfalls.com)"
+    },
+    {
+      "date": "2015",
+      "event": "Syfy announces 'Channel Zero', an anthology series whose first season is based on Candle Cove",
+      "significance": "First major commercial adaptation",
+      "source": "Syfy press release"
+    },
+    {
+      "date": "2016-10-11",
+      "event": "'Channel Zero: Candle Cove' premieres on Syfy",
+      "significance": "Brings the creepypasta to a mainstream television audience",
+      "source": "Syfy"
+    }
+  ],
+  "related": [
+    {
+      "id": "slender-man",
+      "name": "Slender Man",
+      "relationship": "similar",
+      "description": "Internet-era folkloric figure originating in a 2009 Something Awful thread"
+    },
+    {
+      "id": "backrooms",
+      "name": "The Backrooms",
+      "relationship": "similar",
+      "description": "Internet creepypasta location-as-horror"
+    }
+  ],
+  "cultural_notes": "Candle Cove is widely understood by readers to be fiction; the 'belief' aspect is in-genre roleplay rather than sincere claim.",
+  "sources": [
+    {
+      "id": "straub-2009",
+      "type": "website",
+      "title": "Candle Cove",
+      "authors": [
+        "Kris Straub"
+      ],
+      "publication": "Ichor Falls",
+      "date": "2009",
+      "url": "https://ichorfalls.com/2009/03/15/candle-cove/",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "wikipedia-candle-cove",
+      "type": "website",
+      "title": "Candle Cove",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Candle_Cove",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "channel-zero-2016",
+      "type": "documentary",
+      "title": "Channel Zero: Candle Cove (Season 1)",
+      "publication": "Syfy",
+      "date": "2016"
+    }
+  ],
+  "locations": []
 }

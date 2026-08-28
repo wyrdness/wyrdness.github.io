@@ -3,6 +3,7 @@
   "name": "Pegasus",
   "category": "mythological_creature",
   "description": "Pegasus is the immortal winged horse of Greek mythology, sired by Poseidon and born from the blood of the Gorgon Medusa when Perseus beheaded her; the steed of the hero Bellerophon, later the bearer of Zeus's thunderbolts and the namesake of the constellation Pegasus.",
+  "full_description": "Pegasus (Ancient Greek: Pegasos) is one of the most recognisable creatures of Greek mythology - a divine, immortal winged horse, usually depicted as pure white. According to Hesiod's Theogony and the bulk of the later tradition, Pegasus and his brother Chrysaor sprang from the neck of the Gorgon Medusa at the moment Perseus beheaded her; their father was Poseidon in his role as horse-god. Pegasus is most closely associated with the hero Bellerophon, who tamed him with a golden bridle given by the goddess Athena and used him to slay the fire-breathing Chimera, defeat the Solymoi and the Amazons, and avenge the false accusations of Stheneboea (Anteia). When Bellerophon attempted to fly Pegasus to Olympus, Zeus sent a gadfly to sting the horse, and Bellerophon was thrown back to earth, while Pegasus continued to Olympus and entered the service of Zeus, carrying his thunderbolts. Pegasus's hooves were said to have struck the ground on Mount Helicon and produced the spring Hippocrene ('Horse's Spring'), sacred to the Muses. Pegasus was eventually placed among the stars as the constellation Pegasus.",
   "aliases": [
     {
       "name": "Pegasos",
@@ -34,5 +35,141 @@
   "origin": "As a literary and religious figure, Pegasus belongs to the Greek and wider Mediterranean mythological imagination, with a documented narrative geography centred on Corinth, Mount Helicon, Lycia, and Mount Olympus.",
   "first_reported": "0700 BCE",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Hesiod (Theogony 281-283) offers a folk etymology deriving Pegasus from Greek pege ('spring, well'), since he was said to have been born near the springs of Ocean. Modern scholarship, including Robin Lane Fox and others, has linked the name to the Luwian/Hittite term pihassas ('lightning'), suggesting a Bronze Age West Anatolian origin connected to a storm-god's lightning-bolt animal.",
+    "meaning": "Either 'of the springs' (Hesiod) or 'lightning' (Luwian-derived hypothesis).",
+    "first_use": "Earliest extant Greek attestations are in Hesiod's Theogony (c. 700 BCE) and on Corinthian black-figure pottery of the 7th-6th centuries BCE."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "0700 BCE",
+      "event": "Hesiod composes the Theogony, which records the birth of Pegasus and Chrysaor from the neck of Medusa",
+      "significance": "Earliest surviving literary attestation",
+      "source": "Hesiod, Theogony 280-286"
+    },
+    {
+      "date": "0600 BCE",
+      "event": "Pegasus appears as the civic emblem on Corinthian silver staters",
+      "significance": "Earliest mass-circulation Pegasus iconography",
+      "source": "Numismatic record (British Museum, ANS collections)"
+    },
+    {
+      "date": "0464 BCE",
+      "event": "Pindar's Olympian 13 (for Xenophon of Corinth) tells the story of Bellerophon, Athena's golden bridle, and the taming of Pegasus at the Pirene spring",
+      "significance": "Canonical narrative association of Pegasus with Bellerophon and Corinth",
+      "source": "Pindar, Olympian 13"
+    },
+    {
+      "date": "0008 CE",
+      "event": "Ovid's Metamorphoses includes the birth of Pegasus from Medusa's blood and the Hippocrene episode",
+      "significance": "Major Latin-language transmission of the myth into the Roman and post-Roman world",
+      "source": "Ovid, Metamorphoses Books IV-V"
+    }
+  ],
+  "related": [
+    {
+      "id": "chrysaor",
+      "name": "Chrysaor",
+      "relationship": "related",
+      "description": "Brother of Pegasus, also born from Medusa's neck; a giant or warrior with a golden sword"
+    },
+    {
+      "id": "medusa",
+      "name": "Medusa",
+      "relationship": "related",
+      "description": "Gorgon mother of Pegasus, decapitated by Perseus"
+    },
+    {
+      "id": "bellerophon",
+      "name": "Bellerophon",
+      "relationship": "related",
+      "description": "Mortal hero who tamed and rode Pegasus"
+    },
+    {
+      "id": "chimera",
+      "name": "Chimera",
+      "relationship": "related",
+      "description": "Fire-breathing monster slain by Bellerophon while riding Pegasus"
+    },
+    {
+      "id": "buraq",
+      "name": "Buraq",
+      "relationship": "similar",
+      "description": "Winged steed of Islamic tradition, comparable in form"
+    },
+    {
+      "id": "tianma",
+      "name": "Tianma (Heavenly Horse)",
+      "relationship": "similar",
+      "description": "Chinese winged horse tradition"
+    },
+    {
+      "id": "hippocampus",
+      "name": "Hippocampus",
+      "relationship": "similar",
+      "description": "Greek sea-horse hybrid; another hippoid mythological creature"
+    }
+  ],
+  "cultural_notes": "In Greek civic religion, Pegasus is bound to Corinth as a civic symbol and to the Muses through the Hippocrene; in literary tradition he becomes the emblem of poetic inspiration.",
+  "sources": [
+    {
+      "id": "wikipedia-pegasus",
+      "type": "website",
+      "title": "Pegasus",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Pegasus",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "britannica-pegasus",
+      "type": "website",
+      "title": "Pegasus",
+      "publication": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/topic/Pegasus-Greek-mythology",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "theoi-pegasus",
+      "type": "website",
+      "title": "Pegasos - Winged Horse of Greek Mythology",
+      "publication": "Theoi Project",
+      "url": "https://www.theoi.com/Ther/HipposPegasos.html",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "hesiod-theogony",
+      "type": "book",
+      "title": "Theogony",
+      "authors": [
+        "Hesiod"
+      ],
+      "date": "c. 700 BCE"
+    },
+    {
+      "id": "pindar-olympian-13",
+      "type": "book",
+      "title": "Olympian 13",
+      "authors": [
+        "Pindar"
+      ],
+      "date": "464 BCE"
+    },
+    {
+      "id": "ovid-metamorphoses",
+      "type": "book",
+      "title": "Metamorphoses",
+      "authors": [
+        "Ovid"
+      ],
+      "date": "8 CE"
+    }
+  ],
+  "locations": []
 }

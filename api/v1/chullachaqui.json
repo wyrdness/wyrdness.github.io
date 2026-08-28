@@ -3,6 +3,7 @@
   "name": "Chullachaqui",
   "category": "entity_spirit",
   "description": "The Chullachaqui (Quechua chulla 'odd / unequal' + chaki 'foot') is a forest spirit of Peruvian and Brazilian Amazonia, depicted as a small humanoid with one mismatched foot — typically one human foot and one animal hoof — who shapeshifts into a familiar person to lead unwary travellers astray.",
+  "full_description": "The Chullachaqui (also spelled Chullachaki, Shapingo, or in Brazilian Portuguese Curupira) is one of the most widespread forest spirits of the Western Amazon basin, attested in Quechua, Cocama-Cocamilla, Shipibo-Conibo, Yagua, and mestizo riverine traditions of Peru, eastern Ecuador, and adjoining Brazilian Amazonia. The figure is consistently described as a small (roughly one-metre) male humanoid with one foot conspicuously different from the other — usually one human foot and one animal foot (a deer, peccary, jaguar, tapir, or rooster), in some versions reversed or twisted. The Chullachaqui's central narrative function is shapeshifting: it appears in the form of a relative, friend, or trusted local in order to lure a victim deep into the forest, then reveals its true nature and leaves the person hopelessly disoriented, sometimes for days. The mismatched foot is the only sure way to detect the deception, since the spirit cannot disguise its footprints. Beyond pranks, the Chullachaqui is widely understood as a guardian (dueño) of the forest, its plants, and its game animals; respectful behaviour, ritual offerings (typically of mapacho tobacco) and an apology before hunting are traditional means of avoiding its anger. Modern Amazonian shamanism, particularly the ayahuasca traditions of Loreto and Ucayali, integrates the Chullachaqui into its cosmology as a powerful but dangerous spirit teacher; eco-tourism and contemporary literature have also adopted it as a symbol of Amazonian conservation.",
   "aliases": [
     {
       "name": "Chullachaki",
@@ -43,5 +44,146 @@
   "origin": "Western Amazon basin: lowland Peru (especially Loreto, Ucayali, San Martín, and Madre de Dios), eastern Ecuador (Pastaza, Napo), western Brazil (Acre, Amazonas), and the headwaters region of Colombia and Bolivia.",
   "first_reported": "Pre-contact",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Quechua: chulla (chh'ulla) 'odd, unequal, mismatched' + chaki 'foot'.",
+    "meaning": "'One foot' or 'mismatched foot', referring to its diagnostic feature.",
+    "first_use": "Quechua oral tradition predates documented written usage; recorded in Spanish-language Amazonian ethnographic and folkloric collections from the 19th and 20th centuries onward."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0,
+    "date_range": {
+      "earliest": "Oral tradition",
+      "latest": "Contemporary"
+    }
+  },
+  "timeline": [
+    {
+      "date": "Pre-Columbian",
+      "event": "Quechua and Amazonian oral traditions of forest-owning spirits include the chulla-chaki figure",
+      "significance": "Foundational layer of the tradition",
+      "source": "Quechua and Amazonian oral tradition"
+    },
+    {
+      "date": "16th century",
+      "event": "Spanish chroniclers in the Andes and Amazon record duendes and forest-spirit traditions among indigenous peoples",
+      "significance": "Provides earliest colonial-period framing of Amazonian forest-spirit beliefs (general; the Chullachaqui by name is later)",
+      "source": "Colonial-era chronicles of Peru"
+    },
+    {
+      "date": "20th century",
+      "event": "Peruvian folklorists (e.g. Mario Florián, Arturo Jiménez Borja) and indigenous-language scholars publish accounts of Chullachaqui in collections of Amazonian myth and legend",
+      "significance": "Anchors the figure in academic folklore studies",
+      "source": "Peruvian folkloric collections"
+    },
+    {
+      "date": "1980s-2000s",
+      "event": "Chullachaqui becomes a routine subject in Amazonian shamanic and ayahuasca-tourism literature, including works by Luis Eduardo Luna and Steve Beyer",
+      "significance": "Brings the figure into wider international awareness",
+      "source": "Luna, L. E. & Amaringo, P. (1991), Ayahuasca Visions; Beyer, S. (2009), Singing to the Plants"
+    }
+  ],
+  "related": [
+    {
+      "id": "curupira",
+      "name": "Curupira",
+      "relationship": "counterpart",
+      "description": "Brazilian (Tupi-Guarani) forest spirit with backward-pointing feet; closely cognate with the Chullachaqui"
+    },
+    {
+      "id": "duende",
+      "name": "Duende",
+      "relationship": "similar",
+      "description": "Spanish-American small forest/household spirit; shares trickster forest-guardian role"
+    },
+    {
+      "id": "patasola",
+      "name": "Patasola",
+      "relationship": "similar",
+      "description": "Colombian one-legged forest spirit who lures men deep into the forest"
+    },
+    {
+      "id": "tunda",
+      "name": "La Tunda",
+      "relationship": "similar",
+      "description": "Afro-Colombian forest spirit who shape-shifts into loved ones to lure victims"
+    },
+    {
+      "id": "el-sisimite",
+      "name": "El Sisimite",
+      "relationship": "similar",
+      "description": "Central American forest spirit / hairy hominid in shared 'forest abductor' tradition"
+    },
+    {
+      "id": "yacuruna",
+      "name": "Yacuruna",
+      "relationship": "related",
+      "description": "Aquatic counterpart in Amazonian cosmology; underwater spirits whose terrestrial complement includes the Chullachaqui"
+    }
+  ],
+  "cultural_notes": "The Chullachaqui is a real being that should be neither sought nor mocked. Hunters and travellers offer mapacho tobacco and ask permission before entering deep forest, and avoid speaking its name unnecessarily.",
+  "sources": [
+    {
+      "id": "wikipedia-chullachaki",
+      "type": "website",
+      "title": "Chullachaki",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Chullachaki",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "luna-amaringo-1991",
+      "type": "book",
+      "title": "Ayahuasca Visions: The Religious Iconography of a Peruvian Shaman",
+      "authors": [
+        "Luis Eduardo Luna",
+        "Pablo Amaringo"
+      ],
+      "publication": "North Atlantic Books",
+      "date": "1991",
+      "isbn": "978-1556430305"
+    },
+    {
+      "id": "beyer-2009",
+      "type": "book",
+      "title": "Singing to the Plants: A Guide to Mestizo Shamanism in the Upper Amazon",
+      "authors": [
+        "Stephan V. Beyer"
+      ],
+      "publication": "University of New Mexico Press",
+      "date": "2009",
+      "isbn": "978-0826347299"
+    },
+    {
+      "id": "perujungletrips",
+      "type": "website",
+      "title": "The Legend of the Chullachaqui: Myths of the Peruvian Amazon",
+      "publication": "Peru Jungle Trips",
+      "url": "https://perujungletrips.com/the-legend-of-the-chullachaqui-myths-of-the-peruvian-amazon/",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "kuoda-chullachaqui",
+      "type": "website",
+      "title": "Spooky Peru: The Myth of the Chullachaqui in the Amazon",
+      "publication": "Kuoda Travel",
+      "url": "https://www.kuodatravel.com/blog/spooky-peru-the-myth-of-the-chullachaqui-in-the-amazon/",
+      "accessed": "2026-05-07"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Iquitos and surrounding rainforest",
+      "lat": -3.7491,
+      "lng": -73.2538
+    },
+    {
+      "name": "Pucallpa / Ucayali River",
+      "lat": -8.3793,
+      "lng": -74.5539
+    }
+  ]
 }

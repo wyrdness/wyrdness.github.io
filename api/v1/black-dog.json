@@ -3,6 +3,7 @@
   "name": "Black Dog",
   "category": "cryptid",
   "description": "A spectral or phantom black hound of British and Irish folklore, often interpreted as a death-omen or guardian, appearing on lonely roads, churchyards, and bridges throughout the British Isles.",
+  "full_description": "The Black Dog is one of the most pervasive supernatural figures in the folklore of the British Isles. Reports describe a large hound — typically calf- or even horse-sized — with shaggy black fur and (often) glowing red or fiery eyes. Across regional traditions the Black Dog is linked to specific names: Black Shuck in East Anglia, Padfoot in Yorkshire, Barghest in York, Gytrash in northern England, Cù Sìth in the Scottish Highlands, Moddey Dhoo on the Isle of Man, and many others. In most traditions the Black Dog is a death omen — to see one is to learn that you, or someone you love, will soon die — but in a minority of cases (notably the Gurt Dog of Somerset) it is a protective guardian. The most famous single incident is the 4 August 1577 appearance of Black Shuck during a thunderstorm at Holy Trinity Church, Blythburgh, and St Mary's Church, Bungay, in Suffolk, recorded in Abraham Fleming's pamphlet 'A Straunge and Terrible Wunder'. The legend influenced both the Reverend Sabine Baring-Gould's compendia and Arthur Conan Doyle's 1902 novel The Hound of the Baskervilles, drawn in part from West Country traditions about Squire Richard Cabell. Folklorists including Theo Brown, Ethel H. Rudkin, and Katharine Briggs have catalogued the regional variations. Modern reports continue, and the figure has been productively connected to deeper European death-dog traditions (Cerberus, Garmr, Cŵn Annwn).",
   "aliases": [
     {
       "name": "Black Shuck",
@@ -68,5 +69,200 @@
   "origin": "Throughout the British Isles, with regionally distinctive names and personalities; closely related figures appear in continental Europe (German Höllenhund, Scandinavian Garmr) and in the African and Caribbean diaspora (Rolling Calf, Cadejo).",
   "first_reported": "1127",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "The English compound 'black dog' is straightforwardly descriptive. Regional names have varied origins: 'Shuck' from Old English scucca ('devil, fiend'); 'Barghest' uncertain (variously from 'burrow ghost' or 'bier ghost'); 'Cù Sìth' from Scottish Gaelic for 'fairy dog'.",
+    "meaning": "A large, ominous, spectral hound; in most traditions associated with death and judgement.",
+    "first_use": "Medieval English; the 1577 Bungay/Blythburgh pamphlet (Abraham Fleming) is one of the earliest extensively documented cases."
+  },
+  "sightings_stats": {
+    "date_range": {
+      "earliest": "1127",
+      "latest": "21st century"
+    }
+  },
+  "timeline": [
+    {
+      "date": "1127",
+      "event": "Peterborough Chronicle records 'huntsmen' with red-eyed black hounds heard around the abbey",
+      "significance": "Earliest English-language reference often cited as Black Dog folklore",
+      "source": "Peterborough Chronicle (Anglo-Saxon Chronicle E)"
+    },
+    {
+      "date": "1577-08-04",
+      "event": "Black Shuck reportedly appears during a thunderstorm at Blythburgh and Bungay, Suffolk, killing several parishioners",
+      "significance": "Foundational early-modern Black Dog incident",
+      "source": "Abraham Fleming, 'A Straunge and Terrible Wunder' (1577)"
+    },
+    {
+      "date": "1677",
+      "event": "Death of Squire Richard Cabell at Brook Manor, Buckfastleigh, Devon",
+      "significance": "Cabell legend (huntsman pursued by ghostly hounds) is a partial source for The Hound of the Baskervilles",
+      "source": "Local Devon parish tradition"
+    },
+    {
+      "date": "1751-08-24",
+      "event": "Execution of Thomas Colley at Gubblecote for the murder of Ruth Osborne; black-dog ghost reported nearby",
+      "significance": "19th-century black dog story tied to a specific historical execution",
+      "source": "St Albans Mercury contemporary coverage; Henderson 1879"
+    },
+    {
+      "date": "1901",
+      "event": "W. A. Dutt publishes Highways and Byways in East Anglia, including the canonical Black Shuck description",
+      "significance": "Anchors the modern image of the East Anglian Black Dog",
+      "source": "Dutt, W. A. (1901), Highways and Byways in East Anglia"
+    },
+    {
+      "date": "1902",
+      "event": "Arthur Conan Doyle publishes The Hound of the Baskervilles",
+      "significance": "Establishes the Black Dog as a global cultural reference via Sherlock Holmes",
+      "source": "Doyle, A. C. (1902), The Hound of the Baskervilles"
+    },
+    {
+      "date": "1938",
+      "event": "Ethel H. Rudkin publishes 'The Black Dog' (Folklore 49:111–131), the first major folkloric survey",
+      "significance": "Foundational scholarly treatment",
+      "source": "Rudkin, E. H. (1938), Folklore 49:111–131"
+    },
+    {
+      "date": "1958",
+      "event": "Theo Brown publishes 'The Black Dog' (Folklore 69:175–192) on Devon and West-Country traditions",
+      "significance": "Second canonical scholarly survey",
+      "source": "Brown, T. (1958), Folklore 69:175–192"
+    },
+    {
+      "date": "2014",
+      "event": "Excavations at Leiston Abbey (Suffolk) uncover the skeleton of an unusually large dog",
+      "significance": "Reported in tabloid press as 'remains of Black Shuck'; archaeologists are sceptical",
+      "source": "DigVentures and BBC News coverage, May 2014"
+    }
+  ],
+  "related": [
+    {
+      "id": "black-shuck",
+      "name": "Black Shuck",
+      "relationship": "regional_variant",
+      "description": "East Anglian black dog tradition"
+    },
+    {
+      "id": "cu-sith",
+      "name": "Cù Sìth",
+      "relationship": "regional_variant",
+      "description": "Scottish Highland fairy dog"
+    },
+    {
+      "id": "el-cadejo",
+      "name": "El Cadejo",
+      "relationship": "similar",
+      "description": "Central American black/white dog spirit pair"
+    },
+    {
+      "id": "rolling-calf",
+      "name": "Rolling Calf",
+      "relationship": "similar",
+      "description": "Jamaican spectral animal of similar omen function"
+    },
+    {
+      "id": "cerberus",
+      "name": "Cerberus",
+      "relationship": "related",
+      "description": "Greek hound of the underworld; canonical 'death-dog' antecedent"
+    },
+    {
+      "id": "wild-hunt",
+      "name": "Wild Hunt",
+      "relationship": "related",
+      "description": "Northern European spectral procession sometimes accompanied by hounds"
+    }
+  ],
+  "cultural_notes": "Black Dog encounters are most often interpreted as omens; in a minority of regions (Somerset Gurt Dog) the dog is benign or protective.",
+  "sources": [
+    {
+      "id": "fleming-1577",
+      "type": "book",
+      "title": "A Straunge and Terrible Wunder",
+      "authors": [
+        "Abraham Fleming"
+      ],
+      "publication": "London",
+      "date": "1577"
+    },
+    {
+      "id": "rudkin-1938",
+      "type": "paper",
+      "title": "The Black Dog",
+      "authors": [
+        "Ethel H. Rudkin"
+      ],
+      "publication": "Folklore 49(2):111–131",
+      "date": "1938"
+    },
+    {
+      "id": "brown-1958",
+      "type": "paper",
+      "title": "The Black Dog",
+      "authors": [
+        "Theo Brown"
+      ],
+      "publication": "Folklore 69(3):175–192",
+      "date": "1958"
+    },
+    {
+      "id": "westwood-simpson-2005",
+      "type": "book",
+      "title": "The Lore of the Land: A Guide to England's Legends",
+      "authors": [
+        "Jennifer Westwood",
+        "Jacqueline Simpson"
+      ],
+      "publication": "Penguin",
+      "date": "2005",
+      "isbn": "978-0141021034"
+    },
+    {
+      "id": "doyle-1902",
+      "type": "book",
+      "title": "The Hound of the Baskervilles",
+      "authors": [
+        "Arthur Conan Doyle"
+      ],
+      "publication": "George Newnes",
+      "date": "1902"
+    },
+    {
+      "id": "dutt-1901",
+      "type": "book",
+      "title": "Highways and Byways in East Anglia",
+      "authors": [
+        "W. A. Dutt"
+      ],
+      "publication": "Macmillan",
+      "date": "1901"
+    },
+    {
+      "id": "wikipedia-black-dog",
+      "type": "website",
+      "title": "Black dog (folklore)",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Black_dog_(folklore)",
+      "accessed": "2026-05-07"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Bungay and Blythburgh (Suffolk)",
+      "lat": 52.32,
+      "lng": 1.59
+    },
+    {
+      "name": "Tring, Hertfordshire",
+      "lat": 51.795,
+      "lng": -0.66
+    },
+    {
+      "name": "Buckfastleigh, Devon",
+      "lat": 50.484,
+      "lng": -3.776
+    }
+  ]
 }

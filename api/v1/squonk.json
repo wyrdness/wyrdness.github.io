@@ -3,6 +3,7 @@
   "name": "Squonk",
   "category": "cryptid",
   "description": "A 'fearsome critter' of North American lumberjack folklore, said to inhabit the hemlock forests of northern Pennsylvania. The squonk is famously ugly, weeps continuously, and is said to dissolve into its own tears when cornered.",
+  "full_description": "The squonk is a creature of the lumberjack 'fearsome critters' tradition of the late 19th and early 20th century United States. First described in print in William T. Cox's 1910 Fearsome Creatures of the Lumberwoods, with a Few Desert and Mountain Beasts, the squonk is said to inhabit the hemlock forests of northern Pennsylvania. Its skin is described as ill-fitting, covered in warts and moles, so that the creature is utterly miserable about its appearance and weeps perpetually. The squonk is therefore most easily tracked at night by following its tear-stained trail. The most famous tale, given by Cox and attributed to a hunter named J. P. Wentling of Pennsylvania, recounts how Wentling supposedly captured a squonk in a sack only to discover, upon arrival home, that the creature had dissolved into a puddle of tears and bubbles. The squonk has no zoological reality but has retained an outsized place in American folklore and popular culture, including a song by Genesis (1976), references in Steely Dan, and the annual Squonkapalooza festival in Johnstown, Pennsylvania.",
   "aliases": [
     {
       "name": "Lacrimacorpus dissolvens",
@@ -26,5 +27,97 @@
   "origin": "Confined in lumberjack folklore to the hemlock forests of northern Pennsylvania, USA. Cox notes a possible secondary range in adjacent forested mountain country.",
   "first_reported": "1910",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Lumberjack tall-tale tradition of the northeastern United States; first attested in print in Cox's 1910 monograph.",
+    "meaning": "Origin obscure; likely an imitative coinage from logging-camp slang. Cox's mock-Latin Lacrimacorpus dissolvens means 'tear-body that dissolves'.",
+    "first_use": "1910 (Cox, Fearsome Creatures of the Lumberwoods)"
+  },
+  "sightings_stats": {
+    "total_documented": 1,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 1,
+    "date_range": {
+      "earliest": "ca. 1900",
+      "latest": "ca. 1900"
+    }
+  },
+  "timeline": [
+    {
+      "date": "1910",
+      "event": "William T. Cox publishes Fearsome Creatures of the Lumberwoods, with a Few Desert and Mountain Beasts (Judd & Detweiler), describing the squonk and naming it Lacrimacorpus dissolvens",
+      "significance": "First print appearance of the squonk",
+      "source": "Cox, W.T. (1910)"
+    },
+    {
+      "date": "1939",
+      "event": "Henry H. Tryon publishes Fearsome Critters, an expanded compendium that retains and elaborates the squonk entry",
+      "source": "Tryon, H.H. (1939)"
+    },
+    {
+      "date": "1976",
+      "event": "Genesis releases 'Squonk' on the album A Trick of the Tail",
+      "significance": "Brings the squonk into late-20th-century popular culture",
+      "source": "Genesis, A Trick of the Tail (Charisma Records, 1976)"
+    }
+  ],
+  "related": [
+    {
+      "id": "hodag",
+      "name": "Hodag",
+      "relationship": "similar",
+      "description": "Wisconsin lumberwoods fearsome critter"
+    },
+    {
+      "id": "hidebehind",
+      "name": "Hidebehind",
+      "relationship": "similar",
+      "description": "Lumberwoods predator that hides behind trees; from the same Cox 1910 corpus"
+    },
+    {
+      "id": "agropelter",
+      "name": "Agropelter",
+      "relationship": "similar",
+      "description": "Tree-throwing lumberwoods critter; same Cox 1910 corpus"
+    },
+    {
+      "id": "jackalope",
+      "name": "Jackalope",
+      "relationship": "similar",
+      "description": "Later American tall-tale composite creature"
+    }
+  ],
+  "cultural_notes": "A humorous, melancholic figure used in logging camps to entertain and to haze inexperienced lumberjacks.",
+  "sources": [
+    {
+      "id": "wikipedia-squonk",
+      "type": "website",
+      "title": "Squonk",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Squonk",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "cox-1910",
+      "type": "book",
+      "title": "Fearsome Creatures of the Lumberwoods, with a Few Desert and Mountain Beasts",
+      "authors": [
+        "William T. Cox"
+      ],
+      "publication": "Judd & Detweiler",
+      "date": "1910"
+    },
+    {
+      "id": "tryon-1939",
+      "type": "book",
+      "title": "Fearsome Critters",
+      "authors": [
+        "Henry H. Tryon"
+      ],
+      "publication": "Idlewild Press",
+      "date": "1939"
+    }
+  ],
+  "locations": []
 }

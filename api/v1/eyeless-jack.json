@@ -3,6 +3,7 @@
   "name": "Eyeless Jack",
   "category": "urban_legend",
   "description": "Eyeless Jack is a fictional character from internet creepypasta fiction, depicted as a figure in a black hoodie and blue mask with empty, black-fluid-leaking eye sockets who breaks into homes to harvest and eat human organs — particularly kidneys.",
+  "full_description": "Eyeless Jack is a fictional horror character that emerged from internet creepypasta culture, first appearing in 2012. He is typically depicted as a humanoid entity wearing a black hoodie and a blue mask, with empty eye sockets leaking black fluid, who stalks victims at night, breaks into their homes, and surgically removes and consumes their internal organs — most characteristically their kidneys. The character was created by a user on the Creepypasta Wiki (username Azelf5000) and published on February 25, 2012. A reference image associated with the character was originally posted on 4chan on June 7, 2010, by a user named Arnon as part of a thread about disturbing imagery from video games. Eyeless Jack became part of the informal 'creepypasta canon' of recurring internet horror characters, alongside Slender Man, Jeff the Killer, and others. Fan-created origin stories — most notably one by Kiki-Hyuga — elaborated the character's backstory significantly beyond the original story. The character has no basis in real events or sightings.",
   "aliases": [],
   "tags": [
     "creepypasta",
@@ -18,5 +19,61 @@
   "origin": "As an internet-based fictional character, Eyeless Jack has no geographic distribution in the traditional sense. The character circulates globally through English-language and translated creepypasta communities.",
   "first_reported": "2012-02-25",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "English; internet origin on Creepypasta Wiki, 2012",
+    "meaning": "'Eyeless' refers to the character's defining feature of empty, black-leaking eye sockets; 'Jack' is a generic male given name used in horror fiction",
+    "first_use": "February 25, 2012 (original story published by Azelf5000 on Creepypasta Wiki)"
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "2010-06-07",
+      "event": "An image later associated with Eyeless Jack is posted on 4chan by a user named Arnon, in a thread about disturbing imagery from video games",
+      "significance": "Earliest element of what becomes the Eyeless Jack character",
+      "source": "Creepypasta fan wikis / web search results"
+    },
+    {
+      "date": "2012-02-25",
+      "event": "User Azelf5000 publishes the original Eyeless Jack story on the Creepypasta Wiki",
+      "significance": "Official origin of the Eyeless Jack character as a named entity",
+      "source": "Creepypasta Wiki publication date from fan sources"
+    }
+  ],
+  "related": [
+    {
+      "id": "slenderman",
+      "name": "Slender Man",
+      "relationship": "similar",
+      "description": "Foundational internet-era creepypasta character; child-stalking entity with supernatural abilities"
+    },
+    {
+      "id": "jeff-the-killer",
+      "name": "Jeff the Killer",
+      "relationship": "similar",
+      "description": "Creepypasta character; knife-wielding serial killer with disfigured face"
+    },
+    {
+      "id": "ben-drowned",
+      "name": "BEN Drowned",
+      "relationship": "similar",
+      "description": "Creepypasta character from a video game haunting narrative"
+    }
+  ],
+  "cultural_notes": "Within creepypasta fan communities, Eyeless Jack is treated as a shared fictional character with a loose canonical set of traits (blue mask, black hoodie, empty eyes, organ consumption). Some younger readers have interpreted creepypasta characters including Eyeless Jack as real.",
+  "sources": [
+    {
+      "id": "creepypasta-wiki-ej",
+      "type": "website",
+      "title": "Eyeless Jack — Creepypasta.com",
+      "url": "https://www.creepypasta.com/eyeless-jack/",
+      "accessed": "2026-05-08"
+    }
+  ],
+  "locations": []
 }

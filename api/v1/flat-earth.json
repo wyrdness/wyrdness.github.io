@@ -3,6 +3,7 @@
   "name": "Flat Earth",
   "category": "conspiracy_theory",
   "description": "Flat Earth is a modern conspiracy belief that the Earth is a flat plane (typically a disc with the Arctic at the centre and Antarctica as a perimeter ice wall) rather than the oblate spheroid established by more than two millennia of observational and physical evidence.",
+  "full_description": "The Flat Earth movement is a modern conspiracy theory community that rejects the spherical Earth model in favour of one of several flat-Earth cosmologies — most often a disc with the Arctic at the centre, an ice wall (interpreted as Antarctica) along the edge, and a dome enclosing a relatively small sun and moon. The movement traces its modern lineage to the Englishman Samuel Rowbotham (1816–1884), whose 1838 'Bedford Level' experiments and 1865 book Earth Not a Globe established 'Zetetic Astronomy'. Lady Elizabeth Blount's Universal Zetetic Society (founded 1893) carried the tradition into the 20th century; Samuel Shenton revived it in 1956 as the International Flat Earth Research Society, which Charles K. Johnson led from Lancaster, California, between 1971 and 2001. The contemporary movement re-emerged after 2009, when Daniel Shenton resurrected the Flat Earth Society as a web-based community, and grew rapidly between 2014 and 2019, propelled by YouTube algorithm dynamics and figures such as Mark Sargent, Mike Hughes, and rapper B.o.B. The 2018 documentary Behind the Curve (dir. Daniel J. Clark) followed several leading believers and notably recorded a 2017 ring-laser-gyroscope experiment in which their own apparatus measured the Earth's rotation. Although flat-Earth claims have been definitively refuted by everything from Eratosthenes' c. 240 BCE shadow measurement to satellite imagery, the modern movement persists as a sociological and online phenomenon and is the most-studied case in the contemporary literature on conspiracy belief.",
   "aliases": [
     {
       "name": "Zetetic Astronomy",
@@ -38,5 +39,197 @@
   "origin": "The modern Flat Earth movement is a global, primarily English-speaking online community with concentrations in the United States, the United Kingdom, Brazil, and parts of Africa and South Asia, and with significant enclaves in Russian and Spanish-speaking communities.",
   "first_reported": "1838-01-01",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "The English phrase 'flat earth' is descriptive. The term Zetetic, used by 19th-century proponents, derives from Greek zētēin, 'to seek', and was adopted by Samuel Rowbotham as the name of his investigative method.",
+    "meaning": "'Flat Earth' simply asserts that the Earth's surface is a plane rather than a curved spheroid. 'Zetetic' frames the project as one of empirical seeking opposed to deductive Newtonian science.",
+    "first_use": "1849 (Rowbotham's pamphlet Zetetic Astronomy, A Description of Several Experiments); 1865 (Rowbotham's Earth Not a Globe)."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0,
+    "date_range": {
+      "earliest": "1838",
+      "latest": "2026"
+    }
+  },
+  "timeline": [
+    {
+      "date": "1838-01-01",
+      "event": "Samuel Rowbotham conducts his Bedford Level experiment, claiming to demonstrate a flat Earth",
+      "significance": "Foundational modern flat-Earth experiment",
+      "source": "Rowbotham, S. (1849, 1865)"
+    },
+    {
+      "date": "1865-01-01",
+      "event": "Samuel Rowbotham publishes Earth Not a Globe",
+      "significance": "Modern flat-Earth canon",
+      "source": "Rowbotham, S. (1865)"
+    },
+    {
+      "date": "1870-03-05",
+      "event": "Naturalist John Hampden's wager prompts Alfred Russel Wallace to repeat the Bedford Level experiment, definitively demonstrating Earth's curvature",
+      "significance": "First systematic scientific refutation of Rowbotham's claims",
+      "source": "Garwood, C. (2007), Flat Earth: The History of an Infamous Idea"
+    },
+    {
+      "date": "1893-01-01",
+      "event": "Lady Elizabeth Blount founds the Universal Zetetic Society",
+      "significance": "Continuation of the Rowbotham tradition",
+      "source": "Garwood, C. (2007)"
+    },
+    {
+      "date": "1956-01-01",
+      "event": "Samuel Shenton founds the International Flat Earth Research Society in Dover, England",
+      "significance": "Modern revival of organised flat-Earth belief",
+      "source": "Garwood, C. (2007)"
+    },
+    {
+      "date": "1972-01-01",
+      "event": "Charles K. Johnson assumes leadership of the International Flat Earth Research Society of America in Lancaster, California",
+      "significance": "Society peaks at c. 3,500 members under his leadership",
+      "source": "Schadewald, R. (2008), The Plane Truth"
+    },
+    {
+      "date": "2009-10-01",
+      "event": "Daniel Shenton officially relaunches the Flat Earth Society as a web-based forum",
+      "significance": "Beginning of the modern online revival",
+      "source": "Flat Earth Society relaunch announcement"
+    },
+    {
+      "date": "2017-11-09",
+      "event": "First Flat Earth International Conference held in Cary, North Carolina",
+      "significance": "First major in-person convention of the YouTube-era movement",
+      "source": "Flat Earth International Conference, 2017"
+    },
+    {
+      "date": "2018-02-24",
+      "event": "Mike Hughes launches a homemade steam rocket in California in pursuit of flat-Earth observation",
+      "significance": "Highly publicised event of the YouTube era; Hughes died in a 2020 launch attempt",
+      "source": "Associated Press (2018, 2020)"
+    },
+    {
+      "date": "2018-11-15",
+      "event": "Behind the Curve documentary released (dir. Daniel J. Clark)",
+      "significance": "Most influential documentary on the modern movement; includes the ring-laser-gyroscope rotation experiment",
+      "source": "Clark, D. J. (2018)"
+    },
+    {
+      "date": "2019-01-25",
+      "event": "YouTube announces algorithmic changes to reduce promotion of conspiracy content, citing flat-Earth belief",
+      "significance": "Platform-level intervention in the spread of flat-Earth content",
+      "source": "YouTube Official Blog (2019)"
+    },
+    {
+      "date": "2024-12-08",
+      "event": "'The Final Experiment' Antarctic trip takes flat-Earth and globe-Earth representatives to observe the 24-hour Antarctic sun",
+      "significance": "High-profile direct empirical test (organised by Will Duffy); most participants accepted the spherical-Earth conclusion, though others did not",
+      "source": "BBC News (2024); Reuters (2024)"
+    }
+  ],
+  "related": [
+    {
+      "id": "moon-landing-hoax",
+      "name": "Moon landing hoax conspiracy",
+      "relationship": "related",
+      "description": "Closely overlapping NASA conspiracy belief"
+    },
+    {
+      "id": "hollow-earth",
+      "name": "Hollow Earth",
+      "relationship": "similar",
+      "description": "Alternative pseudoscientific cosmology popular in the 19th century"
+    },
+    {
+      "id": "geocentrism",
+      "name": "Modern geocentrism",
+      "relationship": "related",
+      "description": "Pseudoscientific rejection of heliocentric astronomy"
+    },
+    {
+      "id": "qanon",
+      "name": "QAnon",
+      "relationship": "related",
+      "description": "Overlapping online conspiracy ecosystem"
+    }
+  ],
+  "cultural_notes": "Modern flat-Earth belief combines biblical-literalist cosmology, distrust of NASA and government, and an empiricist self-image emphasising 'do your own research'. Researchers consistently identify it as a faith / identity community rather than a research programme.",
+  "sources": [
+    {
+      "id": "garwood-2007",
+      "type": "book",
+      "title": "Flat Earth: The History of an Infamous Idea",
+      "authors": [
+        "Christine Garwood"
+      ],
+      "publication": "Macmillan",
+      "date": "2007",
+      "isbn": "978-1429938778"
+    },
+    {
+      "id": "russell-1991",
+      "type": "book",
+      "title": "Inventing the Flat Earth: Columbus and Modern Historians",
+      "authors": [
+        "Jeffrey Burton Russell"
+      ],
+      "publication": "Praeger",
+      "date": "1991",
+      "isbn": "978-0275939564"
+    },
+    {
+      "id": "weill-2022",
+      "type": "book",
+      "title": "Off the Edge: Flat Earthers, Conspiracy Culture, and Why People Will Believe Anything",
+      "authors": [
+        "Kelly Weill"
+      ],
+      "publication": "Algonquin Books",
+      "date": "2022",
+      "isbn": "978-1643750682"
+    },
+    {
+      "id": "rowbotham-1865",
+      "type": "book",
+      "title": "Earth Not a Globe",
+      "authors": [
+        "Samuel Rowbotham"
+      ],
+      "publication": "London: published by the author",
+      "date": "1865"
+    },
+    {
+      "id": "behind-the-curve-2018",
+      "type": "documentary",
+      "title": "Behind the Curve",
+      "authors": [
+        "Daniel J. Clark"
+      ],
+      "publication": "Delta-V Productions",
+      "date": "2018-11-15"
+    },
+    {
+      "id": "wikipedia-modern-flat-earth",
+      "type": "website",
+      "title": "Modern flat Earth beliefs",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Modern_flat_Earth_beliefs",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "landrum-olshansky-2019",
+      "type": "paper",
+      "title": "The role of identity and self-perception in flat-Earth beliefs",
+      "authors": [
+        "Asheley R. Landrum",
+        "Alex Olshansky",
+        "Othello Richards"
+      ],
+      "publication": "Public Understanding of Science",
+      "date": "2019"
+    }
+  ],
+  "locations": []
 }

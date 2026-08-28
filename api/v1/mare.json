@@ -3,6 +3,7 @@
   "name": "Mare",
   "category": "entity_spirit",
   "description": "The pan-European nightmare spirit — the 'mare' from which English 'nightmare' (literally 'night-mare') is derived. A malicious entity, typically female, in Germanic and Slavic folklore that 'rides' people's chests at night.",
+  "full_description": "The Mare is the broad pan-European nightmare spirit known in Germanic, Scandinavian, and Slavic folklore. The English word 'nightmare' itself preserves the term: nyght-mare in Middle English meant a 'mara' visiting at night. The mare is described as a malicious entity, typically female, who sits, walks, or 'rides' on the chest of a sleeping person, causing bad dreams, suffocating sensations, sweating, and the experience now identified as sleep paralysis. The word descends from Old English mære and Old Norse mara, both from Proto-Germanic *marōn, ultimately from a Proto-Indo-European root meaning 'to crush' or 'to press'. The same element entered French as -mar in cauchemar (caucher 'to press' + mare). In Scandinavia, the earliest narrative reference is in Snorri Sturluson's Ynglinga saga (c. 1230), which describes the death of King Vanlandi by a mara conjured by the Sámi sorceress Huld. In German tradition the mare is closely linked to the Alp (Albtraum, 'alp-dream', is the standard German word for nightmare); in Polish and Czech tradition, the zmora / můra may be either a demonic being or the involuntarily wandering soul of a living person. Modern sleep medicine identifies the underlying experience as sleep paralysis with hypnagogic hallucination.",
   "aliases": [
     {
       "name": "Mære",
@@ -49,5 +50,108 @@
   "origin": "Across Germanic-, Scandinavian-, and Slavic-speaking Europe, with cognates and continuations into modern French (cauchemar) and many other languages.",
   "first_reported": "Early medieval",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Old English mære, Old Norse mara, Old High German mara, all from Proto-Germanic *marōn, ultimately from a PIE root meaning 'to crush, press, oppress'.",
+    "meaning": "'Crusher' / 'oppressor' — the spirit that presses on the sleeper's chest.",
+    "first_use": "Attested in Old English and Old Norse from the early medieval period; the compound 'nightmare' is attested in Middle English from the late 13th–14th century."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "1230-01-01",
+      "event": "Snorri Sturluson's Ynglinga saga records King Vanlandi's death by mara",
+      "significance": "Earliest narrative reference to a mare in Scandinavian literature",
+      "source": "Snorri Sturluson, Heimskringla, Ynglinga saga, ch. 13"
+    },
+    {
+      "date": "1300-01-01",
+      "event": "Middle English compound nyght-mare attested",
+      "significance": "Modern English word 'nightmare' enters the language",
+      "source": "Middle English Dictionary"
+    },
+    {
+      "date": "1781-01-01",
+      "event": "Henry Fuseli paints The Nightmare, depicting an incubus on a sleeper's chest with a horse looking on — visual touchstone for the European mare tradition",
+      "significance": "Defining image of the mare in Western art",
+      "source": "Detroit Institute of Arts (The Nightmare, 1781)"
+    }
+  ],
+  "related": [
+    {
+      "id": "mara",
+      "name": "Mara",
+      "relationship": "similar",
+      "description": "Continental and Slavic spelling of the same nightmare spirit"
+    },
+    {
+      "id": "alp",
+      "name": "Alp",
+      "relationship": "similar",
+      "description": "German nightmare creature; German Albtraum 'alp-dream' = nightmare"
+    },
+    {
+      "id": "old-hag",
+      "name": "Old Hag",
+      "relationship": "similar",
+      "description": "Newfoundland sleep-paralysis tradition"
+    },
+    {
+      "id": "kanashibari",
+      "name": "Kanashibari",
+      "relationship": "similar",
+      "description": "Japanese sleep-paralysis tradition"
+    },
+    {
+      "id": "incubus",
+      "name": "Incubus / Succubus",
+      "relationship": "related",
+      "description": "Latin Christian sleep-attack demons"
+    }
+  ],
+  "cultural_notes": "Across Germanic and Slavic Europe the mare was treated as a real cause of bad dreams and chest-pressure, requiring protective measures.",
+  "sources": [
+    {
+      "id": "wikipedia-mare-folklore",
+      "type": "website",
+      "title": "Mare (folklore)",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Mare_(folklore)",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "snorri-heimskringla",
+      "type": "book",
+      "title": "Heimskringla (including Ynglinga saga)",
+      "authors": [
+        "Snorri Sturluson"
+      ],
+      "date": "1230"
+    },
+    {
+      "id": "grimm-1835",
+      "type": "book",
+      "title": "Deutsche Mythologie",
+      "authors": [
+        "Jacob Grimm"
+      ],
+      "date": "1835"
+    },
+    {
+      "id": "cheyne-2003",
+      "type": "paper",
+      "title": "Sleep paralysis and the structure of waking-nightmare hallucinations",
+      "authors": [
+        "J. Allan Cheyne"
+      ],
+      "publication": "Dreaming",
+      "date": "2003"
+    }
+  ],
+  "locations": []
 }

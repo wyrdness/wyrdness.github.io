@@ -3,6 +3,7 @@
   "name": "Polybius",
   "category": "urban_legend",
   "description": "Polybius is an urban legend about a fictional arcade game allegedly deployed in Portland, Oregon in 1981, said to cause severe psychological effects in players before being removed by government agents. No cabinet, ROM, or contemporary documentation has ever been found.",
+  "full_description": "Polybius is an internet-era urban legend centered on a fictional arcade game supposedly released in Portland, Oregon arcades around 1981. According to the legend, the game was manufactured by a company called 'Sinneslöschen' and caused seizures, amnesia, night terrors, and hallucinations in players, while mysterious 'men in black' periodically visited the machines to collect data before the cabinets abruptly disappeared. The legend first appeared online on the gaming history website coinop.org; its upload date was initially listed as 1998, but later archival investigation established that the entry was actually added after 2000. The first mainstream print reference appeared in GamePro magazine's September 2003 issue. No surviving cabinet, ROM image, or 1980s newspaper account of the game has ever been located. Investigators including Brian Dunning found several genuine Portland incidents from 1981 that may have seeded the legend: two residents fell ill at the same arcade; a teenager suffered migraines after extended Tempest play; another played Asteroids for 28 hours causing stomach pain; and the FBI raided Portland arcades investigating illegal gambling machine conversions, resulting in 52 arrests. The legend is considered a retroactive confabulation blending real 1981 incidents, false memories, and government-surveillance anxieties.",
   "aliases": [
     {
       "name": "Sinneslöschen",
@@ -27,5 +28,84 @@
   "origin": "According to the legend, limited to Portland, Oregon arcades in 1981. As an internet legend, the story has global reach.",
   "first_reported": "2000-01-01",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "The name 'Polybius' references the ancient Greek historian Polybius (c. 200–118 BCE), known for systematic historical analysis — an ironic name for a fictional artifact. The manufacturer name 'Sinneslöschen' appears to be a German neologism.",
+    "meaning": "Named after the Greek historian Polybius; the choice of name is unexplained within the legend and may be the invention of the original hoaxer.",
+    "first_use": "Post-2000 (online); 2003 (first print reference, GamePro magazine)"
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "1981-01-01",
+      "event": "Claimed date of events (Portland, Oregon arcades); no contemporary documentation exists for this year",
+      "significance": "The legendary setting of the story",
+      "source": "Legend only; no verified source"
+    },
+    {
+      "date": "2000-01-01",
+      "event": "Coinop.org entry for Polybius appears (archival evidence places upload after 2000 despite a displayed date of 1998)",
+      "significance": "Earliest traceable online source for the legend",
+      "source": "Coinop.org; investigation by Brian Dunning"
+    },
+    {
+      "date": "2003-09-01",
+      "event": "GamePro magazine (September 2003) publishes first mainstream print reference titled 'Secrets and Lies', declaring the game's existence 'inconclusive'",
+      "significance": "Brings the legend to a mass audience of gamers",
+      "source": "GamePro, September 2003"
+    },
+    {
+      "date": "2017-01-01",
+      "event": "Atari releases a real arcade game called Polybius as a VR game, deliberately invoking the legend",
+      "significance": "Mainstream commercial acknowledgment of the legend's cultural currency",
+      "source": "Atari / Jeff Minter (2017)"
+    }
+  ],
+  "related": [
+    {
+      "id": "men-in-black",
+      "name": "Men in Black",
+      "relationship": "related",
+      "description": "The Polybius legend incorporates the 'men in black' motif from UFO conspiracy folklore"
+    },
+    {
+      "id": "slenderman",
+      "name": "Slender Man",
+      "relationship": "similar",
+      "description": "A contemporaneous internet-born legend that also blurred fiction and belief"
+    }
+  ],
+  "cultural_notes": "Some gaming enthusiasts continue to treat Polybius as a real historical artifact, seeking original cabinets. The legend functions as a cautionary tale about technology and government surveillance.",
+  "sources": [
+    {
+      "id": "gamepro-2003",
+      "type": "news",
+      "title": "Secrets and Lies",
+      "publication": "GamePro",
+      "date": "2003-09"
+    },
+    {
+      "id": "dunning-skeptoid",
+      "type": "website",
+      "title": "The Legend of Polybius",
+      "authors": [
+        "Brian Dunning"
+      ],
+      "url": "https://skeptoid.com/episodes/4035",
+      "accessed": "2026-05-08"
+    },
+    {
+      "id": "wikipedia-polybius",
+      "type": "website",
+      "title": "Polybius (urban legend)",
+      "url": "https://en.wikipedia.org/wiki/Polybius_(game)",
+      "accessed": "2026-05-08"
+    }
+  ],
+  "locations": []
 }

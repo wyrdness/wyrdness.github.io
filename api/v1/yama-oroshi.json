@@ -3,6 +3,7 @@
   "name": "Yama-oroshi",
   "category": "entity_spirit",
   "description": "A Japanese yokai (tsukumogami) born from a neglected grater that has become too dull to function. The yama-oroshi grows a body, and its dull, worn slicers protrude like wild spines. Its name is a triple pun: on oroshi (grater), yamaarashi (porcupine), and the strong mountain wind (yama-oroshi) blowing down from peaks. The creature's breath is said to be ten thousand times stronger than a human's, explaining mysterious mountain winds.",
+  "full_description": "The yama-oroshi is a tsukumogami — a Japanese supernatural being born when an inanimate object has been used for a long time or improperly cared for and gains a spirit or life of its own. Specifically, the yama-oroshi arises from a metal grater (oroshi-gane) that has grown so dull it can no longer grate properly. When a grater reaches this state of neglect and uselessness, it may sprout a body from the grater's surface, with the blunted, worn spines of the grater sticking out like wild quills from its head and body. The creature's name encodes a deliberate triple wordplay that is central to understanding the yokai: first, oroshi means 'grater' in Japanese; second, the creature's spiny appearance and name evoke yamaarashi (ヤマアラシ), the Japanese word for porcupine — the similarity in sound was intentional in oral tradition; third, yama-oroshi also means a strong wind blowing down from mountain peaks, a natural phenomenon that was traditionally unexplained and attributed by village folklore to the breath of the creature. When mysterious strong winds came down from the mountains, the yama-oroshi was said to be breathing — and its breath was described as ten thousand times stronger than a human's. The yama-oroshi exemplifies the tsukumogami tradition: the Japanese cultural value of caring for one's tools and not wasting them is encoded in the belief that neglected or discarded objects will animate and potentially cause harm.",
   "aliases": [
     {
       "name": "山颪",
@@ -32,5 +33,55 @@
   "origin": "Japanese folklore tradition; documented as part of the broader tsukumogami and yokai tradition of Japan. The creature is associated with mountain environments across Japan.",
   "first_reported": "Pre-contact",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Japanese; the name is a multi-layered pun on oroshi (grater), yamaarashi (porcupine), and yama-oroshi (mountain wind blowing downward)",
+    "meaning": "Primary: mountain-grater or mountain-wind; also punning on porcupine (yamaarashi). The creature's identity is inseparable from this wordplay.",
+    "first_use": "Traditional Japanese folklore; exact first documentation date not established; tsukumogami traditions are recorded from the Heian and Muromachi periods onward"
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [],
+  "related": [
+    {
+      "id": "tsukumogami",
+      "name": "Tsukumogami",
+      "relationship": "superset",
+      "description": "The broad class of Japanese spirit-objects — any inanimate object that gains a soul after long use or neglect; yama-oroshi is one specific tsukumogami"
+    },
+    {
+      "id": "yamaarashi",
+      "name": "Yamaarashi (porcupine)",
+      "relationship": "related",
+      "description": "The natural porcupine whose name and spiny appearance the yama-oroshi evokes through punning"
+    },
+    {
+      "id": "yama-no-kami",
+      "name": "Yama-no-kami",
+      "relationship": "related",
+      "description": "Japanese mountain deity; shares the 'yama' (mountain) element and the attribution of mountain wind phenomena"
+    }
+  ],
+  "cultural_notes": "The yama-oroshi embodies the tsukumogami principle: objects cared for and properly used do not animate dangerously, but objects left to decay, neglected, or discarded may develop grievances and supernatural power. The triple wordplay in the creature's name (grater / porcupine / mountain wind) reflects the Edo-period delight in linguistic wit in yokai classification.",
+  "sources": [
+    {
+      "id": "yokai-com-yamaoroshi",
+      "type": "website",
+      "title": "Yama oroshi",
+      "url": "https://yokai.com/yamaoroshi/",
+      "accessed": "2026-05-08"
+    },
+    {
+      "id": "wikipedia-oroshi",
+      "type": "website",
+      "title": "Oroshi",
+      "url": "https://en.wikipedia.org/wiki/Oroshi",
+      "accessed": "2026-05-08"
+    }
+  ],
+  "locations": []
 }

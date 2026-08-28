@@ -3,6 +3,7 @@
   "name": "Yamauba",
   "category": "entity_spirit",
   "description": "A morally ambivalent yokai in Japanese folklore — an elderly mountain woman who may shelter and aid travelers or devour them. She is most famous as the mother of the folk hero Kintaro and is a major subject of Noh theater. She embodies the dual nature of the wild mountain: nurturing yet consuming, maternal yet dangerous.",
+  "full_description": "Yamauba (山姥, 'mountain hag') is one of the most complex and richly documented yokai in the Japanese supernatural tradition. She typically appears as a monstrous elderly woman with long, disheveled white or gold-white hair and filthy, tattered clothing, dwelling deep in the mountains far from human settlement. Her most disturbing physical trait — appearing in some traditions — is a hidden second mouth on the crown of her head, concealed beneath her hair, which she feeds using her hair as tendrils. Yamauba's behavior is fundamentally ambivalent: she sometimes provides travelers with shelter, food, and guidance; at other times she is a cannibalistic predator who devours those who accept her hospitality or fall into her power. She can shapeshift, most notably into a beautiful young woman to lure victims. Her only documented supernatural weakness in some accounts is a specific flower containing her soul. In some traditions she exhibits superhuman strength, reportedly catching bullets with her bare hands. Regional variants proliferate across Japan: in Miyazaki Prefecture, a yamahime (mountain princess) sings beautifully while grooming; in Hokkaido, Shikoku, and Kyushu she is sometimes a protective maternal figure; in Kagawa Prefecture river variants called kawajoro (river ladies) exist; in Kochi Prefecture she is deified as a household protective deity. Her most culturally significant role is as the mother of Kintaro (Golden Boy), a folk hero of superhuman strength who grew up in the mountains under her care and later became the legendary warrior Sakata no Kintoki. Yamauba also appears prominently in classical theater: the Noh play Yamauba, composed by Konparu Zenchiku, depicts her as an ancient mountain fairy who has decorated the earth since the beginning of creation. In Noh, she is a figure of cosmic significance rather than a simple monster.",
   "aliases": [
     {
       "name": "Yama-uba",
@@ -56,5 +57,70 @@
   "origin": "Found throughout Japanese folklore, with documented regional variants across Honshu, Hokkaido, Shikoku, and Kyushu. Particularly associated with the mountainous interior of Japan and mountain-pass routes historically traveled by merchants and ox-drivers.",
   "first_reported": "1400-01-01",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Japanese; compound of yama (山, mountain) and uba (姥, old woman, hag, or wet nurse). The wet-nurse meaning of uba connects to her role as Kintaro's mountain mother.",
+    "meaning": "Mountain hag or mountain old woman; the term also carries the meaning of mountain wet-nurse through the uba component.",
+    "first_use": "The Noh play Yamauba (by Konparu Zenchiku, c. 14th–15th century) is among the earliest literary treatments; the oral tradition predates it"
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "1400-01-01",
+      "event": "Noh play Yamauba composed by Konparu Zenchiku; establishes the theatrical tradition depicting yamauba as a cosmic mountain fairy",
+      "significance": "Most important early literary treatment; shapes the figure's cultural reception through to the present",
+      "source": "Konparu Zenchiku, Yamauba (Noh play)"
+    }
+  ],
+  "related": [
+    {
+      "id": "yama-no-kami",
+      "name": "Yama-no-kami",
+      "relationship": "related",
+      "description": "Mountain deity of Shinto tradition; shares the mountain setting and female characterization, but Yama-no-kami is a proper deity object of worship while Yamauba is a dangerous, ambivalent yokai"
+    },
+    {
+      "id": "oni",
+      "name": "Oni",
+      "relationship": "similar",
+      "description": "The classical Japanese supernatural cannibal demon; Yamauba is sometimes classified as a female oni in her predatory mode"
+    },
+    {
+      "id": "baba-yaga",
+      "name": "Baba Yaga",
+      "relationship": "similar",
+      "description": "Russian folklore hag living in a forest hut; structurally parallel morally ambivalent dangerous old-woman figure — shelters or devours travelers"
+    },
+    {
+      "id": "kintaro",
+      "name": "Kintaro (Sakata no Kintoki)",
+      "relationship": "related",
+      "description": "Japanese folk hero of superhuman strength; raised in the mountains by Yamauba according to the most famous version of his origin story"
+    }
+  ],
+  "cultural_notes": "Yamauba represents the mountain as a fundamentally ambivalent space: nurturing and dangerous simultaneously. She is the wild feminine in its most uncontrolled form — maternal (raising Kintaro, providing shelter) and consuming (devouring travelers). The hidden mouth is a recurring symbol of her dangerous hidden nature. In the Noh tradition, she is not merely a monster but a cosmic figure, ancient and tied to the fundamental cycles of the natural world.",
+  "sources": [
+    {
+      "id": "wikipedia-yamauba",
+      "type": "website",
+      "title": "Yamauba",
+      "url": "https://en.wikipedia.org/wiki/Yamauba",
+      "accessed": "2026-05-08"
+    },
+    {
+      "id": "konparu-zenchiku-yamauba",
+      "type": "other",
+      "title": "Yamauba (Noh play)",
+      "authors": [
+        "Konparu Zenchiku"
+      ],
+      "date": "1400-01-01"
+    }
+  ],
+  "locations": []
 }

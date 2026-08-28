@@ -3,6 +3,7 @@
   "name": "Oak Island Money Pit",
   "category": "location",
   "description": "Oak Island is a 57-hectare (140-acre) tree-covered island in Mahone Bay, Nova Scotia, the focus of one of the longest-running treasure hunts in history. Since 1795, expeditions have excavated the so-called 'Money Pit' in search of buried treasure, with multiple deaths but no verified treasure recovered.",
+  "full_description": "Oak Island is one of the roughly 360 small islands in Mahone Bay on the south shore of Nova Scotia, Canada. According to the standard account, in the summer of 1795 a teenager named Daniel McGinnis discovered a circular depression in the ground beneath an old oak tree, with evidence of a block-and-tackle in the branches above. With friends John Smith and Anthony Vaughan, he began excavating and reportedly found layers of flagstones and oak log platforms at roughly 3-metre (10-foot) intervals, abandoning the dig at about 9 metres (30 feet). Subsequent expeditions — the Onslow Company (c. 1804), the Truro Company (1849), the Oak Island Association (1861) and many others — encountered repeated flooding once shafts passed about 27 metres (90 feet), allegedly caused by elaborate flood-tunnel booby-traps connected to nearby Smith's Cove. Six men have died on the island during excavations, including a worker killed in 1861 when a steam-engine boiler burst, Maynard Kaiser in 1897, and four men (Robert Restall, Robert Restall Jr., Karl Graeser and Cyril Hiltz) in 1965 from hydrogen-sulfide gas exposure. Notable purported finds include coconut fibre (anomalous for Nova Scotia), a small parchment fragment with the letters 'vi' or 'wi' (1897), and a since-lost stone slab said to bear ciphered text recovered from the pit. From 1965 the Triton Alliance (Daniel Blankenship and David Tobias) operated the major modern excavation; from 2006 onward Michigan brothers Rick and Marty Lagina acquired a controlling interest in Oak Island Tours Inc., and in 2014 the History Channel began the long-running reality series The Curse of Oak Island. Mainstream historians, including geologist Robert Dunfield's findings, archivist Joy Steele, and folklorist Richard Joltes, argue that almost all 'engineered' features can be explained by natural sinkhole geology in the local anhydrite/gypsum bedrock combined with later excavation disturbance and the 19th-century mythologising of the McGinnis story; many of the apparently early reports first appear in newspapers from the 1860s. Despite over 230 years of effort, no treasure has been verifiably recovered.",
   "aliases": [
     {
       "name": "The Money Pit",
@@ -37,5 +38,182 @@
   "origin": "A single island in Mahone Bay, Nova Scotia, Canada, accessed from the village of Western Shore by a causeway constructed in 1965.",
   "first_reported": "1795",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "English; named for the red oak (Quercus rubra) trees historically growing on the island, which inspired the original 1795 name 'Oak Island'. The term 'Money Pit' was applied by 19th-century newspapers describing the central excavation.",
+    "meaning": "Oak Island = 'island of oaks'; Money Pit = the central excavation believed to conceal buried treasure.",
+    "first_use": "'Oak Island' attested in late-18th-century Nova Scotia maps; 'Money Pit' popularised in mid-19th-century treasure-hunt journalism."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0,
+    "date_range": {
+      "earliest": "1795",
+      "latest": "2026"
+    }
+  },
+  "timeline": [
+    {
+      "date": "1795",
+      "event": "Daniel McGinnis, John Smith and Anthony Vaughan reportedly discover a depression and oak-log platforms on Oak Island; abandon the dig at about 9 m (30 ft)",
+      "significance": "Foundational episode of the legend",
+      "source": "Wikipedia, 'Oak Island mystery'; later 19th-century newspaper accounts"
+    },
+    {
+      "date": "1804",
+      "event": "The Onslow Company excavates to about 27 m (90 ft) before the pit floods with seawater",
+      "significance": "Establishes the 'flooding' phenomenon central to the mystery",
+      "source": "1862 Liverpool Transcript account"
+    },
+    {
+      "date": "1849",
+      "event": "The Truro Company resumes excavation and reportedly recovers wooden platforms and metal in pieces from boring",
+      "significance": "First systematic mechanical excavation",
+      "source": "Wikipedia, 'Oak Island mystery'"
+    },
+    {
+      "date": "1861",
+      "event": "First confirmed death on the island when a steam-engine boiler bursts during excavation",
+      "significance": "First of six recorded fatalities",
+      "source": "Wikipedia, 'Oak Island mystery'"
+    },
+    {
+      "date": "1897-03-26",
+      "event": "Worker Maynard Kaiser dies in a fall during excavation; later that year a small piece of parchment with letters 'vi' or 'wi' is reportedly brought up from depth",
+      "significance": "Best-known 19th-century 'find' from the pit",
+      "source": "Wikipedia, 'Oak Island mystery'"
+    },
+    {
+      "date": "1909",
+      "event": "Future U.S. President Franklin D. Roosevelt invests in the Old Gold Salvage and Wrecking Company excavation",
+      "significance": "High-profile early-20th-century interest",
+      "source": "Wikipedia, 'Oak Island mystery'"
+    },
+    {
+      "date": "1965-08-17",
+      "event": "Robert Restall, his son Robert Jr., Karl Graeser and Cyril Hiltz die from hydrogen sulfide gas exposure in a shaft on Smith's Cove",
+      "significance": "Worst single incident on the island; four deaths in one day",
+      "source": "Wikipedia, 'Oak Island mystery'"
+    },
+    {
+      "date": "1965",
+      "event": "Geologist Robert Dunfield bulldozes large areas of the eastern end of the island; argues for natural-sinkhole explanation",
+      "significance": "First formally geological account",
+      "source": "Robert Dunfield reports"
+    },
+    {
+      "date": "1967",
+      "event": "Daniel Blankenship and David Tobias form the Triton Alliance and acquire excavation rights",
+      "significance": "Begins the principal modern excavation era",
+      "source": "Wikipedia, 'Oak Island mystery'"
+    },
+    {
+      "date": "1971",
+      "event": "Triton Alliance sinks Borehole 10-X; underwater camera footage allegedly shows tools and a severed hand (interpretation disputed)",
+      "significance": "Most-discussed modern 'evidence'",
+      "source": "Wikipedia, 'Oak Island mystery'"
+    },
+    {
+      "date": "2006",
+      "event": "Michigan brothers Rick and Marty Lagina acquire a 50% interest in Oak Island Tours Inc.",
+      "significance": "Sets up the modern television era",
+      "source": "Wikipedia, 'Oak Island mystery'"
+    },
+    {
+      "date": "2014-01-05",
+      "event": "History Channel premieres 'The Curse of Oak Island', following the Lagina-led excavation",
+      "significance": "Long-running international media revival",
+      "source": "History Channel"
+    }
+  ],
+  "related": [
+    {
+      "id": "kensington-runestone",
+      "name": "Kensington Runestone",
+      "relationship": "related",
+      "description": "Another long-running North American historical mystery with disputed authenticity"
+    },
+    {
+      "id": "rennes-le-chateau",
+      "name": "Rennes-le-Château mystery",
+      "relationship": "similar",
+      "description": "European treasure / hidden-knowledge legend with similarly elaborate folklore"
+    },
+    {
+      "id": "lost-dutchman-mine",
+      "name": "Lost Dutchman's Gold Mine",
+      "relationship": "similar",
+      "description": "Long-running North American treasure legend with multiple deaths"
+    },
+    {
+      "id": "knights-templar",
+      "name": "Knights Templar treasure legends",
+      "relationship": "related",
+      "description": "Frequently cited (without evidence) as the source of the alleged Oak Island cache"
+    }
+  ],
+  "cultural_notes": "Local belief alternates between treating the island as a genuine engineering and treasure mystery and as a long-running cautionary tale about ruinous obsession.",
+  "sources": [
+    {
+      "id": "wiki-oak-island",
+      "type": "website",
+      "title": "Oak Island mystery",
+      "publication": "Wikipedia, the free encyclopedia",
+      "url": "https://en.wikipedia.org/wiki/Oak_Island_mystery",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "canadian-encyclopedia-oak-island",
+      "type": "website",
+      "title": "Oak Island",
+      "publication": "The Canadian Encyclopedia",
+      "url": "https://www.thecanadianencyclopedia.ca/en/article/oak-island",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "history-channel-oak-island",
+      "type": "website",
+      "title": "What Is the History of Oak Island?",
+      "publication": "HISTORY (A&E Networks)",
+      "url": "https://www.history.com/shows/the-curse-of-oak-island/articles/what-is-the-history-of-oak-island",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "oak-island-mystery-site",
+      "type": "website",
+      "title": "1795, The Year of Discovery",
+      "publication": "Oak Island Tourism Society",
+      "url": "https://www.oakislandmystery.com/the-mystery/1795-the-year-of-discovery",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "oconnor-1988",
+      "type": "book",
+      "title": "The Big Dig: The Search for the Treasure of Oak Island",
+      "authors": [
+        "D'Arcy O'Connor"
+      ],
+      "publication": "Ballantine Books",
+      "date": "1988"
+    },
+    {
+      "id": "steele-2015",
+      "type": "book",
+      "title": "The Oak Island Mystery: The Secret of the World's Greatest Treasure Hunt",
+      "authors": [
+        "Joy A. Steele"
+      ],
+      "publication": "Nimbus Publishing",
+      "date": "2015"
+    }
+  ],
+  "locations": [
+    {
+      "name": "The Money Pit",
+      "lat": 44.5126,
+      "lng": -64.292
+    }
+  ]
 }

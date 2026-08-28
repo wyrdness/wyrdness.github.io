@@ -3,6 +3,7 @@
   "name": "Windigo",
   "category": "entity_spirit",
   "description": "A spirit-being of Algonquian-language traditions — Ojibwe wiindigoo, Cree wīhtikōw — embodying the moral horror of cannibalism, of insatiable greed, and of the heart turned to ice. Both a being met in story and a name for a culturally specific psychological transformation.",
+  "full_description": "The Windigo (Ojibwe wiindigoo; Cree wīhtikōw, often anglicised 'Wendigo') is a powerful spiritual being in the traditions of many Algonquian-speaking peoples of the boreal forest of North America, including the Anishinaabe (Ojibwe), Cree, Innu, Naskapi, and Atikamekw. The reconstructed Proto-Algonquian form, *wi·nteko·wa, may have meant 'owl'. The Windigo is associated with winter, famine, ice, isolation, and the moral catastrophe of human cannibalism. It is described in much of the literature as gaunt and monstrous, with a heart of ice; in Ojibwe tradition specifically, the figure is often understood not as a simple monster but as a being into which a human can transform — through cannibalism, through unchecked greed, or through the imbalance of mind that may follow famine. The English form 'Wendigo' was popularised by Algernon Blackwood's 1910 novella The Wendigo. From the early 20th century, anthropologists including Morton I. Teicher described a culture-bound 'Windigo psychosis' (1961) characterised by a craving for human flesh; this clinical category was sharply criticised by later scholars (notably Lou Marano in the 1980s) as a colonial misreading of Indigenous moral and spiritual concepts. Historical cases entangled with the figure include the 1879 trial and execution of the Plains Cree man Swift Runner (who killed and consumed his family near Fort Saskatchewan during the winter of 1878), and the 1907 arrest of the Oji-Cree leader Jack Fiddler and his brother Joseph for windigo-related killings in Sandy Lake. Indigenous scholars including Basil H. Johnston (Anishinaabe) and James B. Waldram have re-centred the Windigo as a sophisticated moral and spiritual concept rather than a horror trope.",
   "aliases": [
     {
       "name": "Wendigo",
@@ -63,5 +64,170 @@
   "origin": "The Windigo is a being of the boreal forest of northern North America, associated specifically with the territories of Algonquian-speaking peoples — Ojibwe / Anishinaabe, Cree, Innu, Naskapi, Atikamekw, Saulteaux — across present-day Canada and the northern United States.",
   "first_reported": "Pre-contact",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "From Algonquian language family — Ojibwe wiindigoo, Cree wīhtikōw — with reconstructed Proto-Algonquian *wi·nteko·wa.",
+    "meaning": "The Proto-Algonquian root is sometimes glossed as 'owl'; the term in living Algonquian languages denotes a specific class of cannibal spirit. English 'Wendigo' was anglicised from Algonquian forms and popularised by Algernon Blackwood in 1910.",
+    "first_use": "Algonquian usage long predates contact; English-language form 'Wendigo' popularised in 1910 by Algernon Blackwood's novella of the same name."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0,
+    "date_range": {
+      "earliest": "pre-contact",
+      "latest": "present"
+    }
+  },
+  "timeline": [
+    {
+      "date": "1878-12-01",
+      "event": "During the winter of 1878 the Plains Cree man Swift Runner kills and consumes his wife and five children near Fort Saskatchewan",
+      "significance": "Best-known historical case associated with the Windigo concept",
+      "source": "Wikipedia, 'Wendigo'"
+    },
+    {
+      "date": "1879-12-20",
+      "event": "Swift Runner is executed at Fort Saskatchewan",
+      "significance": "Among the earliest legal executions in what became Alberta; long-cited as a 'windigo' case",
+      "source": "Wikipedia, 'Wendigo'"
+    },
+    {
+      "date": "1907-01-01",
+      "event": "Jack Fiddler, an Oji-Cree chief and medicine man, and his brother Joseph are arrested by the North-West Mounted Police for windigo-related homicides at Sandy Lake",
+      "significance": "Major case in the colonial history of the Windigo concept",
+      "source": "Wikipedia, 'Wendigo'"
+    },
+    {
+      "date": "1910-01-01",
+      "event": "Algernon Blackwood publishes The Wendigo, a novella that popularises the Algonquian-derived term in English-language fiction",
+      "significance": "Anchors the spelling 'Wendigo' in English popular usage",
+      "source": "Wikipedia, 'Wendigo'"
+    },
+    {
+      "date": "1961-01-01",
+      "event": "Morton I. Teicher publishes Windigo Psychosis: A Study of a Relationship Between Belief and Behavior among the Indians of Northeastern Canada",
+      "significance": "Establishes the disputed clinical category of 'Windigo psychosis'",
+      "source": "Wikipedia, 'Wendigo'"
+    },
+    {
+      "date": "1967-01-01",
+      "event": "Robin Ridington publishes comparative work on Windigo and Wechuge beliefs",
+      "significance": "Frames the Windigo within Algonquian and Athapaskan cannibal-spirit complexes",
+      "source": "Wikipedia, 'Wendigo'"
+    },
+    {
+      "date": "1982-01-01",
+      "event": "Lou Marano publishes a major critique arguing that 'Windigo psychosis' is an artefact of colonial scholarship",
+      "significance": "Catalyses the modern reassessment of the clinical category",
+      "source": "Wikipedia, 'Wendigo'"
+    },
+    {
+      "date": "1988-01-01",
+      "event": "Robert A. Brightman publishes 'The Windigo in the Material World'",
+      "significance": "Major ethnographic synthesis of Cree windigo beliefs",
+      "source": "Wikipedia, 'Wendigo'"
+    },
+    {
+      "date": "2004-01-01",
+      "event": "James B. Waldram publishes Revenge of the Windigo, examining mental-health framings of Indigenous peoples",
+      "significance": "Locates the Windigo concept in critical Indigenous-studies scholarship",
+      "source": "Wikipedia, 'Wendigo'"
+    }
+  ],
+  "related": [
+    {
+      "id": "wechuge",
+      "name": "Wechuge",
+      "relationship": "similar",
+      "description": "Dane-zaa (Beaver) cannibal-spirit figure; compared with the Windigo by Robin Ridington (1967)"
+    },
+    {
+      "id": "atshen",
+      "name": "Atshen / Atchen",
+      "relationship": "similar",
+      "description": "Innu cannibal-spirit figure"
+    },
+    {
+      "id": "yeti",
+      "name": "Yeti",
+      "relationship": "similar",
+      "description": "Often paired with the Windigo in popular cryptid framings — though the Windigo is a spirit being, not a cryptid"
+    },
+    {
+      "id": "skadegamutc",
+      "name": "Skadegamutc",
+      "relationship": "related",
+      "description": "Wabanaki ghost-witch with cannibalistic associations"
+    }
+  ],
+  "cultural_notes": "In Algonquian teachings the Windigo is a spiritual reality and a moral warning. Cannibalism, greed, and the abandonment of communal obligation are seen not as ordinary crimes but as the doorway to a kind of spiritual transformation.",
+  "sources": [
+    {
+      "id": "wikipedia-wendigo",
+      "type": "website",
+      "title": "Wendigo — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Wendigo",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "blackwood-1910",
+      "type": "book",
+      "title": "The Wendigo",
+      "authors": [
+        "Algernon Blackwood"
+      ],
+      "date": "1910"
+    },
+    {
+      "id": "teicher-1961",
+      "type": "book",
+      "title": "Windigo Psychosis: A Study of a Relationship Between Belief and Behavior among the Indians of Northeastern Canada",
+      "authors": [
+        "Morton I. Teicher"
+      ],
+      "date": "1961"
+    },
+    {
+      "id": "brightman-1988",
+      "type": "paper",
+      "title": "The Windigo in the Material World",
+      "authors": [
+        "Robert A. Brightman"
+      ],
+      "date": "1988"
+    },
+    {
+      "id": "marano-1982",
+      "type": "paper",
+      "title": "Windigo Psychosis: The Anatomy of an Emic-Etic Confusion",
+      "authors": [
+        "Lou Marano"
+      ],
+      "publication": "Current Anthropology",
+      "date": "1982"
+    },
+    {
+      "id": "waldram-2004",
+      "type": "book",
+      "title": "Revenge of the Windigo: The Construction of the Mind and Mental Health of North American Aboriginal Peoples",
+      "authors": [
+        "James B. Waldram"
+      ],
+      "publication": "University of Toronto Press",
+      "date": "2004"
+    },
+    {
+      "id": "johnston-1995",
+      "type": "book",
+      "title": "The Manitous: The Spiritual World of the Ojibway",
+      "authors": [
+        "Basil H. Johnston"
+      ],
+      "publication": "HarperCollins",
+      "date": "1995"
+    }
+  ],
+  "locations": []
 }

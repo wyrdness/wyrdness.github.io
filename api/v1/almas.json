@@ -3,6 +3,7 @@
   "name": "Almas",
   "category": "cryptid",
   "description": "A bipedal, human-sized, hair-covered humanoid cryptid reported from the mountainous regions of the Caucasus, Pamir, Tian Shan, and Altai, with deep roots in Mongolian, Turkic, and Caucasian folklore.",
+  "full_description": "The Almas (plural Almasty in Russian usage) is a humanoid cryptid of Central Asia and the Caucasus. Witnesses describe an upright, roughly human-sized creature, covered in coarse reddish-brown or black hair, with a sloped forehead, prominent brow ridge, flat face, and pigeon-toed gait. Reports cluster in the Caucasus Mountains, the Pamir and Tian Shan ranges, and the Altai of western Mongolia. The most widely cited firsthand description in Western sources is that of the Russian explorer Nikolay Przhevalsky, who in 1876 recorded an account of a flat-faced, bipedal, fur-covered being with large claws on its feet. Soviet-era researchers, most prominently the historian Boris Porshnev, advanced the hypothesis that the Almas was a relict population of Neanderthals or other archaic humans surviving in remote uplands. The most discussed individual case is that of Zana of Tkhina, a hair-covered woman captured in the mid-19th century in Abkhazia and held by villagers; 2021 genome-wide analysis published in the American Journal of Physical Anthropology identified her as a human woman of recent sub-Saharan African ancestry, ending the cryptozoological reading of that case. Hair samples attributed to Almasty examined in the Sykes et al. (2014) survey were identified as known mammals (brown bear, horse, cow). Mainstream science treats Almas as folklore; a minority cryptozoological tradition continues to investigate.",
   "aliases": [
     {
       "name": "Almasty",
@@ -73,5 +74,162 @@
   "origin": "Reports span a belt of mountain ranges from the Caucasus through the Pamirs and Tian Shan to the Altai and southwestern Mongolia, with isolated accounts from northern Iran and the Hindu Kush.",
   "first_reported": "1876",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "The name appears across Mongolic, Turkic and Iranian language families. The Mongolian scholar P. R. Rinčen noted that the origin of the name is unknown and not translatable. The Russian form 'almasty' is the standard plural used in Soviet and Russian-language literature.",
+    "meaning": "Possibly cognate with the Turkic root al- 'to take/seize' and the Mongolian almas 'wild', but no consensus exists. Place names such as Almasyn Dobo and Almasyn Ulan Oula in southwestern Mongolia preserve the term.",
+    "first_use": "Recorded in Mongolian and Caucasian folklore for centuries; entered Western literature with Przhevalsky's 1876 account."
+  },
+  "sightings_stats": {
+    "date_range": {
+      "earliest": "1876",
+      "latest": "2020s"
+    }
+  },
+  "timeline": [
+    {
+      "date": "1876",
+      "event": "Russian explorer Nikolay Przhevalsky records a bipedal, hair-covered, flat-faced creature during his Mongolian expedition",
+      "significance": "Earliest widely-cited Western description",
+      "source": "Przhevalsky, N. (1876), Mongolia, the Tangut Country"
+    },
+    {
+      "date": "mid-1800s",
+      "event": "Local tradition records the capture of Zana, an 'abnauayu', in the forests near Tkhina, Abkhazia",
+      "significance": "Foundational case for cryptozoological readings of Almasty",
+      "source": "Local Abkhazian tradition; reviewed in Margaryan et al. (2021)"
+    },
+    {
+      "date": "1958",
+      "event": "Soviet Academy of Sciences mounts a 'Snowman' expedition to the Pamirs under Boris Porshnev and Kirill Stanyukovich",
+      "significance": "First state-sponsored scientific search; produced no specimen but consolidated Soviet relict-hominid research",
+      "source": "Porshnev, B. F. (1963), Sovremennoe sostoianie voprosa o reliktovykh gominoidakh"
+    },
+    {
+      "date": "1964",
+      "event": "Boris Porshnev publishes 'The Present State of the Question of Relict Hominoids', proposing the Almas is a surviving Neanderthal population",
+      "significance": "Most influential academic articulation of the relict-Neanderthal hypothesis",
+      "source": "Porshnev (1964)"
+    },
+    {
+      "date": "1992",
+      "event": "Myra Shackley and Marie-Jeanne Koffmann continue Caucasus expeditions and publication",
+      "significance": "Sustains Western academic interest into the post-Soviet period",
+      "source": "Shackley, M. (1983), Still Living?"
+    },
+    {
+      "date": "2014",
+      "event": "Sykes et al. publish a genetic survey in Proc. R. Soc. B; Russian Almasty hair samples are identified as Eurasian brown bear, horse, and cattle",
+      "significance": "First peer-reviewed genetic survey of Almasty material",
+      "source": "Sykes et al., Proc. R. Soc. B 281:20140161"
+    },
+    {
+      "date": "2021",
+      "event": "Margaryan et al. publish a genome-wide analysis of skeletal remains attributed to Zana's son Khwit",
+      "significance": "Identifies Zana as a human woman of recent sub-Saharan African (most likely East African) ancestry, closing the cryptozoological reading of the Zana case",
+      "source": "Margaryan et al. (2021), Am. J. Phys. Anthropol."
+    }
+  ],
+  "related": [
+    {
+      "id": "yeti",
+      "name": "Yeti",
+      "relationship": "similar",
+      "description": "Himalayan hairy hominid cryptid; shares the relict-hominid hypothesis"
+    },
+    {
+      "id": "bigfoot",
+      "name": "Bigfoot",
+      "relationship": "similar",
+      "description": "North American hairy hominid cryptid"
+    },
+    {
+      "id": "yowie",
+      "name": "Yowie",
+      "relationship": "similar",
+      "description": "Australian hairy hominid cryptid"
+    },
+    {
+      "id": "yeren",
+      "name": "Yeren",
+      "relationship": "similar",
+      "description": "Chinese 'wild man' cryptid"
+    },
+    {
+      "id": "kaptar",
+      "name": "Kaptar",
+      "relationship": "regional_variant",
+      "description": "Caucasian regional name often used interchangeably with Almasty"
+    }
+  ],
+  "cultural_notes": "Across the region, the Almas is variously regarded as a wild human, a mountain spirit, or a dangerous trickster. Name-avoidance taboos persist in parts of Mongolia.",
+  "sources": [
+    {
+      "id": "wikipedia-almas",
+      "type": "website",
+      "title": "Almas (folklore)",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Almas_(folklore)",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "sykes-2014",
+      "type": "paper",
+      "title": "Genetic analysis of hair samples attributed to yeti, bigfoot and other anomalous primates",
+      "authors": [
+        "Bryan C. Sykes",
+        "Rhettman A. Mullis",
+        "Christophe Hagenmuller",
+        "Terry W. Melton",
+        "Michel Sartori"
+      ],
+      "publication": "Proceedings of the Royal Society B",
+      "date": "2014",
+      "doi": "10.1098/rspb.2014.0161"
+    },
+    {
+      "id": "margaryan-2021",
+      "type": "paper",
+      "title": "The genomic origin of Zana of Abkhazia",
+      "authors": [
+        "Anders Margaryan",
+        "et al."
+      ],
+      "publication": "American Journal of Physical Anthropology",
+      "date": "2021",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9744565/",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "shackley-1983",
+      "type": "book",
+      "title": "Still Living? Yeti, Sasquatch and the Neanderthal Enigma",
+      "authors": [
+        "Myra Shackley"
+      ],
+      "publication": "Thames & Hudson",
+      "date": "1983"
+    },
+    {
+      "id": "porshnev-1963",
+      "type": "book",
+      "title": "Sovremennoe sostoianie voprosa o reliktovykh gominoidakh (The Present State of the Question of Relict Hominoids)",
+      "authors": [
+        "Boris Porshnev"
+      ],
+      "publication": "VINITI / Soviet Academy of Sciences",
+      "date": "1963"
+    },
+    {
+      "id": "przhevalsky-1876",
+      "type": "book",
+      "title": "Mongolia, the Tangut Country, and the Solitudes of Northern Tibet",
+      "authors": [
+        "Nikolay Przhevalsky"
+      ],
+      "publication": "Russian Imperial Geographic Society",
+      "date": "1876"
+    }
+  ],
+  "locations": []
 }

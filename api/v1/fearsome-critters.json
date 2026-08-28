@@ -3,6 +3,7 @@
   "name": "Fearsome Critters",
   "category": "cryptid",
   "description": "Fearsome critters are a body of legendary tall-tale animals from the oral tradition of late-19th and early-20th century North American logging camps, ranging from the Hodag to the Hidebehind, the Squonk, the Hugag, and the Splintercat.",
+  "full_description": "Fearsome critters are the legendary, comic, and frequently grotesque animals of the North American lumber-camp oral tradition, especially of the Great Lakes pinewoods, New England, the Pacific Northwest, and the Canadian boreal forest. They circulated as tall tales (and as initiation pranks for greenhorn loggers) from roughly the 1880s through the 1930s and were collected and published in two foundational works: William T. Cox's Fearsome Creatures of the Lumberwoods, with a Few Desert and Mountain Beasts (1910, illustrated by Coert Du Bois) and Henry H. Tryon's Fearsome Critters (1939, illustrated by Margaret R. Tryon). Vance Randolph's We Always Lie to Strangers (1951) extended the genre into Ozark folk tradition. The taxonomy includes such creatures as the Hodag (Wisconsin), Hidebehind, Snallygaster (Maryland Appalachians), Splintercat (Pacific Northwest), Squonk (Pennsylvania), Agropelter, Hugag, Sidehill Gouger, Wampus Cat, and Jackalope. Most fearsome critters are clearly humorous folklore rather than cryptozoological claims, though several (notably the Snallygaster and the Hodag) have crossed over into modern cryptid culture and regional festivals.",
   "aliases": [
     {
       "name": "Fearsome Creatures of the Lumberwoods",
@@ -43,5 +44,143 @@
   "origin": "Fearsome critters are concentrated in the historical North American lumber regions: the Great Lakes pinewoods (Michigan, Wisconsin, Minnesota), New England, the Pacific Northwest, the Appalachians (especially Maryland and West Virginia), the Ozarks, and the Canadian boreal forest.",
   "first_reported": "1880-01-01",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "The phrase 'fearsome critters' was popularised by Henry H. Tryon's 1939 book of the same title; 'critter' is a 19th-century American colloquial pronunciation of 'creature'. The earlier term in W. T. Cox's 1910 collection was 'fearsome creatures of the lumberwoods'.",
+    "meaning": "A loosely defined genre of comic North American tall-tale animals associated with logging camps and the frontier oral tradition.",
+    "first_use": "1910 (Cox, Fearsome Creatures of the Lumberwoods); 1939 (Tryon, Fearsome Critters)."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0,
+    "date_range": {
+      "earliest": "1880",
+      "latest": "2026"
+    }
+  },
+  "timeline": [
+    {
+      "date": "1893-01-01",
+      "event": "Eugene Shepard exhibits the 'Hodag' at the Oneida County Fair, Rhinelander, Wisconsin",
+      "significance": "Founding showpiece of the fearsome-critter genre",
+      "source": "Shepard, E. (1893); Rhinelander historical records"
+    },
+    {
+      "date": "1910-01-01",
+      "event": "William T. Cox publishes Fearsome Creatures of the Lumberwoods, with a Few Desert and Mountain Beasts (illustrated by Coert Du Bois)",
+      "significance": "First systematic collection of the genre",
+      "source": "Cox, W. T. (1910)"
+    },
+    {
+      "date": "1932-01-01",
+      "event": "Douglas and Ralph Herrick begin selling 'jackalope' taxidermy mounts in Douglas, Wyoming",
+      "significance": "Anchors the modern Jackalope tradition",
+      "source": "Herrick brothers, Douglas, Wyoming"
+    },
+    {
+      "date": "1939-01-01",
+      "event": "Henry H. Tryon publishes Fearsome Critters (illustrated by Margaret R. Tryon)",
+      "significance": "Names the genre as it is now known",
+      "source": "Tryon, H. H. (1939)"
+    },
+    {
+      "date": "1951-01-01",
+      "event": "Vance Randolph publishes We Always Lie to Strangers, surveying Ozark tall-tale traditions including local fearsome critters",
+      "significance": "Extends the corpus into Ozark folklore",
+      "source": "Randolph, V. (1951)"
+    },
+    {
+      "date": "1957-01-01",
+      "event": "Jorge Luis Borges and Margarita Guerrero publish Manual de zoología fantástica (Book of Imaginary Beings), drawing on Cox",
+      "significance": "Introduces the genre to a global literary readership",
+      "source": "Borges & Guerrero (1957)"
+    }
+  ],
+  "related": [
+    {
+      "id": "hodag",
+      "name": "Hodag",
+      "relationship": "subset",
+      "description": "Most famous fearsome critter; bull-bodied, spiked Wisconsin creature popularised by Eugene Shepard in 1893"
+    },
+    {
+      "id": "jackalope",
+      "name": "Jackalope",
+      "relationship": "subset",
+      "description": "Antlered jackrabbit of Wyoming and the American West"
+    },
+    {
+      "id": "snallygaster",
+      "name": "Snallygaster",
+      "relationship": "subset",
+      "description": "Bird-reptile hybrid of the Maryland Appalachians"
+    },
+    {
+      "id": "wampus-cat",
+      "name": "Wampus Cat",
+      "relationship": "subset",
+      "description": "Appalachian cat-like fearsome critter"
+    },
+    {
+      "id": "squonk",
+      "name": "Squonk",
+      "relationship": "subset",
+      "description": "Self-pitying creature of the Pennsylvania hemlock forests, said to dissolve into tears"
+    }
+  ],
+  "cultural_notes": "Fearsome critters were never the subject of literal belief in the way fairy lore was; they functioned as humorous initiation tales for new lumberjacks and as a vehicle for occupational identity. Several have since been embraced as civic mascots.",
+  "sources": [
+    {
+      "id": "cox-1910",
+      "type": "book",
+      "title": "Fearsome Creatures of the Lumberwoods, with a Few Desert and Mountain Beasts",
+      "authors": [
+        "William T. Cox"
+      ],
+      "publication": "Judd & Detweiler, Washington DC",
+      "date": "1910"
+    },
+    {
+      "id": "tryon-1939",
+      "type": "book",
+      "title": "Fearsome Critters",
+      "authors": [
+        "Henry H. Tryon"
+      ],
+      "publication": "Idlewild Press, Cornwall, NY",
+      "date": "1939"
+    },
+    {
+      "id": "randolph-1951",
+      "type": "book",
+      "title": "We Always Lie to Strangers: Tall Tales from the Ozarks",
+      "authors": [
+        "Vance Randolph"
+      ],
+      "publication": "Columbia University Press",
+      "date": "1951"
+    },
+    {
+      "id": "borges-1957",
+      "type": "book",
+      "title": "Manual de zoología fantástica (Book of Imaginary Beings)",
+      "authors": [
+        "Jorge Luis Borges",
+        "Margarita Guerrero"
+      ],
+      "publication": "Fondo de Cultura Económica",
+      "date": "1957"
+    },
+    {
+      "id": "wikipedia-fearsome-critters",
+      "type": "website",
+      "title": "Fearsome Critters",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Fearsome_critters",
+      "accessed": "2026-05-07"
+    }
+  ],
+  "locations": []
 }

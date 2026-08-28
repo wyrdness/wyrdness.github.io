@@ -3,6 +3,7 @@
   "name": "Baba Yaga",
   "category": "fae_folklore",
   "description": "Baba Yaga is an ambiguous supernatural old woman of Slavic — especially East Slavic — folklore who lives in a forest hut on chicken legs, flies in a wooden mortar steered by a pestle, and acts by turns as villain, donor, and threshold-guardian in fairy tales.",
+  "full_description": "Baba Yaga (Russian: Баба-Яга) is one of the most widely-attested supernatural figures in Slavic folklore. She appears in hundreds of East Slavic fairy tales (notably those collected by Alexander Afanasyev in the 19th century) as well as in West Slavic and South Slavic traditions under cognate names. Baba Yaga is portrayed as a long-nosed, iron-toothed old woman with a 'bony leg' who lives deep in the forest in an izbushka — a small hut that stands on chicken legs and turns to face visitors only when addressed with the correct formula. She travels in a wooden mortar, propelling herself with a pestle and sweeping away her tracks with a broom. Her yard is sometimes described as fenced with bones and topped with skulls whose eye sockets glow at night. Across the tales she behaves with striking ambiguity — Vladimir Propp described her as combining the roles of villain, donor, and helper. She tests visitors and may devour the rude or unworthy, but she also gives heroes magical objects and information when properly addressed. She is often associated with the boundary between life and death, with wild nature, with the cycle of seasons (in some Russian tales she commands three rider-figures representing day, dawn, and night), and with female initiatory wisdom. She is a core element of living Slavic folk culture; conflating her with a generic 'evil witch' erases the layered, ambivalent role she plays in the tales themselves.",
   "aliases": [
     {
       "name": "Баба-Яга",
@@ -54,5 +55,159 @@
   "origin": "Pan-Slavic folkloric figure. Most densely attested in East Slavic (Russian, Ukrainian, Belarusian) fairy tales; cognate figures (Ježibaba, Baba Jaga, Baba Roga) appear across West and South Slavic regions.",
   "first_reported": "1755",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Compound of 'baba' (a Pan-Slavic word for old woman, grandmother, or female elder) and 'yaga'. The etymology of 'yaga' is contested; proposals link it to Proto-Slavic *(j)ęga, with possible cognates connoting horror, anger, snake, or disease.",
+    "meaning": "Roughly 'Old-woman Yaga' or 'Grandmother Yaga'. The 'yaga' element resists single-word translation.",
+    "first_use": "First clear written reference in Russian: Mikhail V. Lomonosov, Russian Grammar (Rossiyskaya grammatika), 1755, where 'Baba-Yaga' is listed among native Slavic mythological figures."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "1755",
+      "event": "Mikhail Lomonosov lists 'Baba-Yaga' among native Slavic mythological figures in his Rossiyskaya grammatika.",
+      "significance": "First firm written reference in Russian.",
+      "source": "Lomonosov, Rossiyskaya grammatika (1755)"
+    },
+    {
+      "date": "1855",
+      "event": "Alexander Afanasyev begins publishing Russian Folk Tales (Narodnye russkie skazki), eventually collecting hundreds of tales featuring Baba Yaga.",
+      "significance": "Canonical corpus for the figure.",
+      "source": "Afanasyev, Narodnye russkie skazki, 1855-63"
+    },
+    {
+      "date": "1928",
+      "event": "Vladimir Propp publishes Morphology of the Folktale, analysing Baba Yaga's narrative roles (donor, villain, tester).",
+      "significance": "Anchors her in modern folklore studies.",
+      "source": "Propp, Morfologiya skazki (1928)"
+    },
+    {
+      "date": "1963",
+      "event": "Vladimir Propp's Historical Roots of the Wonder Tale further situates Baba Yaga within Slavic ritual and cosmology.",
+      "significance": "Influential historical-mythological reading.",
+      "source": "Propp, Istoricheskie korni volshebnoi skazki (1946; English ed. 1984)"
+    },
+    {
+      "date": "2004",
+      "event": "Andreas Johns publishes Baba Yaga: The Ambiguous Mother and Witch of the Russian Folktale (Peter Lang).",
+      "significance": "Most comprehensive English-language scholarly monograph.",
+      "source": "Johns, Baba Yaga (2004)"
+    }
+  ],
+  "related": [
+    {
+      "id": "jezibaba",
+      "name": "Ježibaba",
+      "relationship": "regional_variant",
+      "description": "Cognate witch figure in Czech and Slovak folklore."
+    },
+    {
+      "id": "baba-roga",
+      "name": "Baba Roga",
+      "relationship": "regional_variant",
+      "description": "South Slavic cognate, often a child-frightening figure."
+    },
+    {
+      "id": "rusalka",
+      "name": "Rusalka",
+      "relationship": "related",
+      "description": "Other supernatural female figures of Slavic folklore."
+    },
+    {
+      "id": "leshy",
+      "name": "Leshy",
+      "relationship": "related",
+      "description": "Slavic forest spirit; shares the wild-forest domain."
+    },
+    {
+      "id": "holda",
+      "name": "Frau Holle / Holda",
+      "relationship": "similar",
+      "description": "Germanic crone/winter goddess with comparable initiatory and threshold roles."
+    },
+    {
+      "id": "hansel-and-gretel-witch",
+      "name": "Witch in Hansel and Gretel",
+      "relationship": "similar",
+      "description": "Forest-dwelling cannibal-witch type in Germanic fairy tale."
+    }
+  ],
+  "cultural_notes": "Across Slavic peasant traditions Baba Yaga is treated as a real but rarely encountered figure of the deep forest, both feared and respected; modern literary and pop-culture readings range from villain to autonomous wise-woman.",
+  "sources": [
+    {
+      "id": "afanasyev-1855",
+      "type": "book",
+      "title": "Russian Folk Tales (Narodnye russkie skazki)",
+      "authors": [
+        "Alexander Afanasyev"
+      ],
+      "publication": "Originally published Moscow, 8 vols.",
+      "date": "1855-1863"
+    },
+    {
+      "id": "propp-1928",
+      "type": "book",
+      "title": "Morphology of the Folktale (Morfologiya skazki)",
+      "authors": [
+        "Vladimir Propp"
+      ],
+      "publication": "Leningrad",
+      "date": "1928"
+    },
+    {
+      "id": "propp-1946",
+      "type": "book",
+      "title": "Historical Roots of the Wonder Tale (Istoricheskie korni volshebnoi skazki)",
+      "authors": [
+        "Vladimir Propp"
+      ],
+      "publication": "Leningrad State University",
+      "date": "1946"
+    },
+    {
+      "id": "johns-2004",
+      "type": "book",
+      "title": "Baba Yaga: The Ambiguous Mother and Witch of the Russian Folktale",
+      "authors": [
+        "Andreas Johns"
+      ],
+      "publication": "Peter Lang",
+      "date": "2004",
+      "isbn": "978-0820467696"
+    },
+    {
+      "id": "hubbs-1988",
+      "type": "book",
+      "title": "Mother Russia: The Feminine Myth in Russian Culture",
+      "authors": [
+        "Joanna Hubbs"
+      ],
+      "publication": "Indiana University Press",
+      "date": "1988",
+      "isbn": "978-0253344908"
+    },
+    {
+      "id": "lomonosov-1755",
+      "type": "book",
+      "title": "Rossiyskaya grammatika (Russian Grammar)",
+      "authors": [
+        "Mikhail V. Lomonosov"
+      ],
+      "publication": "St. Petersburg",
+      "date": "1755"
+    },
+    {
+      "id": "wikipedia-baba-yaga",
+      "type": "website",
+      "title": "Baba Yaga — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Baba_Yaga",
+      "accessed": "2026-05-07"
+    }
+  ],
+  "locations": []
 }

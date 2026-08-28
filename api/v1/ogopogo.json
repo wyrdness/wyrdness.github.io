@@ -3,6 +3,7 @@
   "name": "Ogopogo",
   "category": "cryptid",
   "description": "A serpentine lake creature reported in Okanagan Lake, British Columbia, Canada. Rooted in the long-standing Nx̌ax̌aitkʷ tradition of the Syilx (Okanagan) people, it became a settler-era cryptid in the late 19th century and one of Canada's most famous lake monsters under the name 'Ogopogo' from 1926 onward.",
+  "full_description": "Ogopogo is the contemporary popular name for a creature reported in Okanagan Lake, a 127.1-km-long fjord-like freshwater lake in the Okanagan Valley of British Columbia, Canada. The Indigenous Syilx (Okanagan) people, whose territory surrounds the lake, have for centuries told of Nx̌ax̌aitkʷ (also written N'ha-a-itk or Naitaka), a powerful water entity associated with Squally Point near Rattlesnake Island. In Syilx tradition Nx̌ax̌aitkʷ is a sacred being to whom travelers traditionally offered a small animal — a chicken, piglet or trout — for safe passage; later settler retellings exaggerated this into 'human sacrifice' demands. The first recorded settler claim was an 1855 account in which John MacDougal said his horses were dragged underwater while swimming behind his canoe; pioneer Susan Allison wrote the first detailed settler description in 1872. The English name 'Ogopogo' was popularised at a Vernon Rotary Club luncheon in August 1926, taken from H. J. Bevin's 1924 English music-hall song 'The Ogo-Pogo: The Funny Foxtrot'. Modern reports describe a 12–15-metre-long, dark, serpentine animal with a head variously compared to that of a horse, snake, sheep or alligator, often seen as a series of humps or vertical undulations on the surface. Notable filmed records include Art Folden's 1968 8 mm film of a wake-producing object near Peachland and a number of subsequent video clips by tourists and residents in 1989 (John Kirk), 2008 (Sean Viloria), 2018 and 2024. Skeptical investigators — most prominently Benjamin Radford, who co-authored a book-length investigation in 2006 — argue that almost all reports are explicable as river otters swimming in line, beavers, waterfowl, sturgeon, floating logs, wave interference or waterspouts, of which Okanagan Lake produces several each year.",
   "aliases": [
     {
       "name": "Nx̌ax̌aitkʷ",
@@ -46,5 +47,191 @@
   "origin": "Reports are confined to Okanagan Lake (a 127-km-long fjord lake reaching 232 m / 762 ft depth) and immediately adjacent waters in the Okanagan Valley, British Columbia.",
   "first_reported": "Pre-contact",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Nsyilxcən (Okanagan Salish) Nx̌ax̌aitkʷ; popular English name from a 1924 music-hall song",
+    "meaning": "Nx̌ax̌aitkʷ is most accurately glossed as a sacred water spirit; 'Ogopogo' is a non-meaningful coined nonsense word from the song's chorus.",
+    "first_use": "Nx̌ax̌aitkʷ in oral tradition predates contact; 'Ogopogo' first publicly applied at a Vernon Rotary Club gathering in August 1926"
+  },
+  "sightings_stats": {
+    "total_documented": 200,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0,
+    "date_range": {
+      "earliest": "1855",
+      "latest": "2024"
+    }
+  },
+  "timeline": [
+    {
+      "date": "1855",
+      "event": "Settler John MacDougal reports that something pulled his swimming horses underwater while he was crossing the lake",
+      "significance": "Earliest recorded settler account",
+      "source": "Wikipedia, 'Ogopogo'"
+    },
+    {
+      "date": "1872",
+      "event": "Susan Allison, the first non-Indigenous female settler in the Okanagan, records the first detailed settler description of the creature",
+      "significance": "Earliest detailed settler description",
+      "source": "Wikipedia, 'Ogopogo'"
+    },
+    {
+      "date": "1926-08",
+      "event": "At a Vernon Rotary Club luncheon, the name 'Ogopogo' (from a 1924 English music-hall song) is publicly applied to the creature",
+      "significance": "Birth of the modern English-language identity",
+      "source": "Wikipedia, 'Ogopogo'"
+    },
+    {
+      "date": "1968-08",
+      "event": "Art Folden films alleged Ogopogo footage on 8 mm cine film near Peachland",
+      "significance": "First widely seen filmed record",
+      "source": "Wikipedia, 'Ogopogo'"
+    },
+    {
+      "date": "1980",
+      "event": "About 50 tourists report a 45-minute sighting; Larry Thal captures further 8 mm footage",
+      "significance": "Mass-witness incident",
+      "source": "Wikipedia, 'Ogopogo'"
+    },
+    {
+      "date": "1989",
+      "event": "Cryptozoologist John Kirk reports a five-humped sighting",
+      "significance": "High-profile modern cryptozoological account",
+      "source": "Wikipedia, 'Ogopogo'"
+    },
+    {
+      "date": "2008",
+      "event": "Sean Viloria photographs and films purported Ogopogo activity",
+      "significance": "Notable digital-era visual record",
+      "source": "Wikipedia, 'Ogopogo'"
+    },
+    {
+      "date": "2018-09",
+      "event": "Three separate September sightings, one describing a creature approximately 15 m (49 ft) long",
+      "significance": "Most-reported month in recent years",
+      "source": "Wikipedia, 'Ogopogo'"
+    },
+    {
+      "date": "2024-06",
+      "event": "Reported sighting describing a long, snake-like form in the lake",
+      "significance": "Most recent widely covered sighting at time of writing",
+      "source": "Global News (2024)"
+    }
+  ],
+  "related": [
+    {
+      "id": "loch-ness-monster",
+      "name": "Loch Ness Monster",
+      "relationship": "similar",
+      "description": "Best-known global lake-monster cryptid; comparison frequently made in popular media"
+    },
+    {
+      "id": "champ",
+      "name": "Champ",
+      "relationship": "similar",
+      "description": "Lake Champlain lake-monster cryptid in northeastern North America"
+    },
+    {
+      "id": "manipogo",
+      "name": "Manipogo",
+      "relationship": "similar",
+      "description": "Lake Manitoba creature explicitly named after Ogopogo"
+    },
+    {
+      "id": "memphre",
+      "name": "Memphré",
+      "relationship": "similar",
+      "description": "Quebec/Vermont lake creature in Lake Memphremagog"
+    },
+    {
+      "id": "naitaka-water-spirit",
+      "name": "Nx̌ax̌aitkʷ (Syilx tradition)",
+      "relationship": "counterpart",
+      "description": "Indigenous water-spirit tradition that underlies the modern cryptid"
+    }
+  ],
+  "cultural_notes": "Among Syilx people, Nx̌ax̌aitkʷ remains a sacred entity; among non-Indigenous communities, Ogopogo is a beloved local mascot and the focus of repeat-visit lake watching.",
+  "sources": [
+    {
+      "id": "wiki-ogopogo",
+      "type": "website",
+      "title": "Ogopogo",
+      "publication": "Wikipedia, the free encyclopedia",
+      "url": "https://en.wikipedia.org/wiki/Ogopogo",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "tourism-kelowna-ogopogo",
+      "type": "website",
+      "title": "The Legend, The Spirit, The Creature: The History of Ogopogo",
+      "publication": "Tourism Kelowna",
+      "url": "https://www.tourismkelowna.com/blog/stories/post/the-legend-the-spirit-the-creature-the-history-of-ogopogo/",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "globalnews-ogopogo-2024",
+      "type": "news",
+      "title": "Ogopogo documentary shines spotlight on mythical B.C. lake creature",
+      "publication": "Global News",
+      "url": "https://globalnews.ca/news/10701310/ogopogo-new-documentary/",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "ogopogo-quest",
+      "type": "website",
+      "title": "Ogopogo Quest — researching the existence of Ogopogo",
+      "publication": "Ogopogo Quest",
+      "url": "https://www.ogopogoquest.com/",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "ebsco-ogopogo",
+      "type": "website",
+      "title": "Ogopogo (mythology)",
+      "publication": "EBSCO Research Starters",
+      "url": "https://www.ebsco.com/research-starters/religion-and-philosophy/ogopogo-mythology",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "gaal-2001",
+      "type": "book",
+      "title": "Ogopogo: The Misunderstood Lake Monster",
+      "authors": [
+        "Arlene Gaal"
+      ],
+      "publication": "Hancock House",
+      "date": "2001",
+      "isbn": "978-0888394828"
+    },
+    {
+      "id": "nickell-radford-2006",
+      "type": "book",
+      "title": "Lake Monster Mysteries: Investigating the World's Most Elusive Creatures",
+      "authors": [
+        "Joe Nickell",
+        "Benjamin Radford"
+      ],
+      "publication": "University Press of Kentucky",
+      "date": "2006",
+      "isbn": "978-0813123943"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Squally Point / Rattlesnake Island",
+      "lat": 49.7333,
+      "lng": -119.7167
+    },
+    {
+      "name": "Peachland waterfront",
+      "lat": 49.7745,
+      "lng": -119.7384
+    },
+    {
+      "name": "Kelowna",
+      "lat": 49.888,
+      "lng": -119.496
+    }
+  ]
 }

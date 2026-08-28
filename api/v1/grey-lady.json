@@ -3,6 +3,7 @@
   "name": "Grey Lady",
   "category": "ghost_haunting",
   "description": "'Grey Lady' is a recurring archetype in British, North American, and broader anglophone ghost-lore: a female apparition dressed in grey, usually associated with a specific historic building and a tragic backstory.",
+  "full_description": "The 'Grey Lady' is not a single ghost but a class name for dozens of female apparitions reported across the anglophone world, particularly in the United Kingdom and the United States. The Wikipedia disambiguation page 'The Grey Lady' lists Grey Lady ghost legends at, among other sites, Rufford Old Hall (Lancashire), the Theatre Royal, Bath, Fort St. Angelo (Birgu, Malta), Cumberland College (Dunedin, New Zealand), the old parsonage at Sims, North Dakota, the Dark Hedges (County Antrim), Gainsborough Old Hall (Lincolnshire), and Willard Library (Evansville, Indiana). Outside the disambiguation, the 'Grey Lady of Hampton Court Palace' is widely identified with Sybil Penn (d. 1562), nurse to Tudor royalty, whose haunting was reported after her tomb was disturbed during a church rebuilding in 1829, and the 'Grey Lady of Glamis' is associated with Janet Douglas, Lady Glamis (c. 1498–1537), executed at Edinburgh Castle in 1537. Grey Ladies are typically described as silent, melancholy, dressed in grey, silver, or pale period clothing, and connected to a story of love, betrayal, injustice, or tragic death; sceptics regard the figure as a generic folkloric template attached opportunistically to historic buildings.",
   "aliases": [
     {
       "name": "Gray Lady",
@@ -38,5 +39,116 @@
   "origin": "Anglophone world, with concentrations in the British Isles and North America. The Wikipedia disambiguation page lists Grey Lady ghosts in England, Northern Ireland, Malta, New Zealand, and the United States.",
   "first_reported": "19th century",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "English. The label appears to consolidate in Victorian and Edwardian ghost-story collecting, when many British country houses, theatres, and castles acquired named resident ghosts.",
+    "meaning": "A female apparition habitually seen in grey or silvery clothing.",
+    "first_use": "19th century"
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0,
+    "date_range": {
+      "earliest": "19th century",
+      "latest": "21st century"
+    }
+  },
+  "timeline": [
+    {
+      "date": "1537-07-17",
+      "event": "Janet Douglas, Lady Glamis, is executed by burning at Edinburgh Castle",
+      "significance": "Historical anchor of the 'Grey Lady of Glamis' legend",
+      "source": "Wikipedia, 'Janet Douglas, Lady Glamis'"
+    },
+    {
+      "date": "1562-11-06",
+      "event": "Sybil Penn, Tudor royal nurse, dies in a smallpox outbreak",
+      "significance": "Historical anchor of the 'Grey Lady of Hampton Court' legend",
+      "source": "Wikipedia, 'Sybil Penn'"
+    },
+    {
+      "date": "1829",
+      "event": "Sybil Penn's monument is disturbed during the rebuilding of St Mary's Hampton; spinning-wheel sounds and apparitions are subsequently reported at Hampton Court Palace",
+      "significance": "Recognised origin of the modern Grey Lady haunting at Hampton Court",
+      "source": "Wikipedia, 'Sybil Penn'"
+    },
+    {
+      "date": "1937",
+      "event": "First widely-cited Willard Library Grey Lady sighting by a night custodian",
+      "significance": "Earliest record of one of the most popular American Grey Lady cases",
+      "source": "Willard Library / local historical records"
+    }
+  ],
+  "related": [
+    {
+      "id": "white-lady",
+      "name": "White Lady",
+      "relationship": "counterpart",
+      "description": "Closely related female-apparition archetype; often more strongly associated with romantic tragedy"
+    },
+    {
+      "id": "black-lady",
+      "name": "Black Lady",
+      "relationship": "counterpart",
+      "description": "Mourning-coded counterpart"
+    },
+    {
+      "id": "weeping-woman",
+      "name": "La Llorona",
+      "relationship": "similar",
+      "description": "Latin American weeping female ghost"
+    },
+    {
+      "id": "banshee",
+      "name": "Banshee",
+      "relationship": "similar",
+      "description": "Irish female apparition; herald of death rather than place-bound resident"
+    }
+  ],
+  "cultural_notes": "Grey Ladies are typically held to be the souls of historical women bound to their former residences by tragic injustice or unresolved grief.",
+  "sources": [
+    {
+      "id": "wikipedia-grey-lady-disambig",
+      "type": "website",
+      "title": "The Grey Lady (disambiguation)",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Grey_Lady",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "wikipedia-sybil-penn",
+      "type": "website",
+      "title": "Sybil Penn",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sybil_Penn",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "wikipedia-janet-douglas",
+      "type": "website",
+      "title": "Janet Douglas, Lady Glamis",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Janet_Douglas,_Lady_Glamis",
+      "accessed": "2026-05-07"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Hampton Court Palace",
+      "lat": 51.4036,
+      "lng": -0.3377
+    },
+    {
+      "name": "Glamis Castle",
+      "lat": 56.6225,
+      "lng": -3.0036
+    },
+    {
+      "name": "Willard Library",
+      "lat": 37.9748,
+      "lng": -87.5736
+    }
+  ]
 }

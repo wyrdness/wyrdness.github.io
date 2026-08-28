@@ -3,6 +3,7 @@
   "name": "Nue",
   "category": "mythological_creature",
   "description": "A chimeric yokai of Japanese legend with a monkey's head, a tanuki's body, a tiger's limbs, and a snake-tail; famous for the Heian-period account of the warrior Minamoto no Yorimasa shooting it down to cure Emperor Konoe.",
+  "full_description": "The Nue (鵺) is one of Japan's most famous yokai: a chimeric creature with the head of a monkey, the limbs of a tiger, the body of a Japanese raccoon dog (tanuki), and the front half of a snake for a tail, according to the most widely-cited description in the Heike Monogatari (Tale of the Heike). Variant accounts (e.g. in the Genpei Jōsuiki) substitute a tiger's back, tanuki limbs, fox tail, cat head, and chicken torso. The creature is said to cry with the call of a scaly thrush (the bird that originally bore the name 'nue') and to manifest as a black cloud bringing illness and ill omens. Its most famous appearance is during the reign of Emperor Konoe in the late Heian period, when nightly black clouds and eerie cries afflicted the imperial Seiryō-den, sickening the emperor; the warrior Minamoto no Yorimasa, drawing on a bow inherited from his ancestor Minamoto no Yorimitsu, shot the creature down with the help of his retainer Ino Hayata. The emperor recovered and rewarded Yorimasa with the sword Shishiō. Multiple sites across Japan claim relics or burial mounds (Nuezuka) associated with the slaying.",
   "aliases": [
     {
       "name": "鵺",
@@ -32,5 +33,68 @@
   "origin": "Japan; the canonical narrative is set at the imperial palace in Heian-kyō (modern Kyoto). Sites associated with the Nuezuka (Nue burial mounds) and Yorimasa relics are scattered across Japan, including Hyōgo and Osaka prefectures.",
   "first_reported": "Heian period (12th century)",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Japanese; the kanji 鵺 originally referred to the scaly thrush (Zoothera dauma), whose mournful nighttime call was considered an ill omen",
+    "meaning": "Originally 'scaly thrush'; later transferred to the chimeric yokai with the same call",
+    "first_use": "Bird sense attested in early Japanese literature; chimera sense canonised in the Heike Monogatari (13th century)"
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "1153-01-01",
+      "event": "Reign of Emperor Konoe (1141–1155); the canonical Nue affliction at the Seiryō-den is set during this reign",
+      "significance": "Historical reference frame for the legend",
+      "source": "Heike Monogatari"
+    },
+    {
+      "date": "1240-01-01",
+      "event": "Approximate compilation period of the Heike Monogatari (early 13th century, c. 1240), containing the Nue narrative",
+      "significance": "Earliest canonical written account of the Nue and Yorimasa",
+      "source": "Heike Monogatari (manuscript tradition)"
+    },
+    {
+      "date": "1776-01-01",
+      "event": "Toriyama Sekien depicts the Nue in his Konjaku Gazu Zoku Hyakki (1779) and related yokai compilations",
+      "significance": "Establishes the standard Edo-period visual depiction of the Nue",
+      "source": "Toriyama Sekien"
+    }
+  ],
+  "related": [
+    {
+      "id": "kitsune",
+      "name": "Kitsune",
+      "relationship": "related",
+      "description": "Other major yokai of Japanese tradition"
+    },
+    {
+      "id": "tsuchigumo",
+      "name": "Tsuchigumo",
+      "relationship": "similar",
+      "description": "Another monstrous adversary slain by a Minamoto warrior"
+    }
+  ],
+  "cultural_notes": "The Nue's call has long been considered an ill omen in Japanese tradition; the bird that originally bore the name was treated similarly.",
+  "sources": [
+    {
+      "id": "wikipedia-nue",
+      "type": "website",
+      "title": "Nue",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Nue",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "heike-monogatari",
+      "type": "book",
+      "title": "Heike Monogatari (Tale of the Heike)",
+      "date": "Early 13th century"
+    }
+  ],
+  "locations": []
 }

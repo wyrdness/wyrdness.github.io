@@ -3,6 +3,7 @@
   "name": "Thunderbird",
   "category": "cryptid",
   "description": "A massive bird-spirit central to many Indigenous North American traditions, paired in modern cryptozoology with reports of enormous unidentified birds with wingspans far exceeding any known living species.",
+  "full_description": "The Thunderbird is a powerful supernatural being widely depicted by Indigenous peoples of the Pacific Northwest Coast, Great Lakes, Great Plains, American Southwest, and US East Coast. In Algonquian, Ojibwe, Menominee, Ho-Chunk, and other traditions, it generates thunder by flapping its wings and lightning by flashing its eyes, and is often portrayed in opposition to underwater serpents or 'horned' panthers. Archaeological evidence places thunderbird depictions in North America at least 4,000 years before present, with petroglyphs near Twin Bluffs, Wisconsin attributed to a shelter used circa 250 BCE to 1500 CE. In modern cryptozoology, 'Thunderbird' has been adopted to describe reports of giant birds with wingspans of 4.5–6 m (15–20+ ft), most famously in the 1977 Lawndale, Illinois case in which a 10-year-old boy was briefly lifted off the ground, and in a wave of Pennsylvania sightings investigated by researcher Stan Gordon in 2001. Mainstream science treats the cryptozoological 'Thunderbird' as misidentification of large extant raptors (golden eagles, vultures, condors), while the Indigenous Thunderbird remains a living cultural and spiritual presence distinct from the cryptid framing.",
   "aliases": [
     {
       "name": "Wakįnyą",
@@ -55,5 +56,166 @@
   "origin": "Thunderbird traditions are recorded across the Pacific Northwest Coast, Great Lakes, Great Plains, American Southwest, and US East Coast. Modern cryptozoological 'giant bird' reports cluster in Illinois, Pennsylvania, the Ozarks, and Alaska.",
   "first_reported": "Pre-contact",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "English calque of various Indigenous terms (e.g. Lakota Wakįnyą, Ojibwe Animikii) describing a supernatural bird that produces thunder. The cryptozoological usage was popularized in the 20th century by writers including Ivan T. Sanderson and John A. Keel.",
+    "meaning": "Bird whose flight, eyes, or voice produce thunder and lightning",
+    "first_use": "English term in widespread anthropological use by the late 19th century"
+  },
+  "sightings_stats": {
+    "total_documented": 500,
+    "verified": 0,
+    "disputed": 400,
+    "debunked": 50,
+    "date_range": {
+      "earliest": "1977",
+      "latest": "2026"
+    }
+  },
+  "timeline": [
+    {
+      "date": "Pre-contact",
+      "event": "Thunderbird depictions across Pacific Northwest, Great Lakes, Plains, and Eastern Woodlands cultures",
+      "significance": "Cultural baseline",
+      "source": "Indigenous oral and material tradition"
+    },
+    {
+      "date": "1977-07-25",
+      "event": "Lawndale, Illinois: 10-year-old Marlon Lowe is briefly lifted by a large bird outside his family home; mother Ruth Lowe is the primary witness",
+      "significance": "Most-cited modern Thunderbird case in cryptozoology",
+      "source": "Lincoln Courier and other contemporary local press; Coleman, L., Mysterious America"
+    },
+    {
+      "date": "2001-06-13",
+      "event": "Greenville, Pennsylvania: a resident reports a very large grayish-black bird soaring overhead",
+      "significance": "Opening incident of the 2001 Pennsylvania wave",
+      "source": "Stan Gordon investigation files"
+    },
+    {
+      "date": "2001-07-06",
+      "event": "Erie County, Pennsylvania: witness reports a creature with an estimated 15-17 ft wingspan, 'dark gray with little or no neck, and a circle of black under its head'",
+      "significance": "Notable Erie County case in the 2001 wave",
+      "source": "Stan Gordon investigation files"
+    },
+    {
+      "date": "2001-09-25",
+      "event": "South Greensburg, Pennsylvania: 19-year-old witness watches a huge dark bird over Route 119 for ~90 seconds, see it land on a dead tree which nearly breaks under the weight",
+      "significance": "Best-known Greensburg case",
+      "source": "Stan Gordon, with Dennis Smeltzer"
+    },
+    {
+      "date": "2021-05-23",
+      "event": "Greensburg, Pennsylvania: another giant flying-creature report logged by Stan Gordon",
+      "significance": "Continuation of the Pennsylvania cluster",
+      "source": "Stan Gordon's UFO Anomalies Zone (stangordon.info)"
+    }
+  ],
+  "related": [
+    {
+      "id": "roc",
+      "name": "Roc",
+      "relationship": "similar",
+      "description": "Giant bird of Middle Eastern myth"
+    },
+    {
+      "id": "ropen",
+      "name": "Ropen",
+      "relationship": "similar",
+      "description": "Reported giant flying cryptid of Papua New Guinea"
+    },
+    {
+      "id": "kongamato",
+      "name": "Kongamato",
+      "relationship": "similar",
+      "description": "African giant flying cryptid"
+    },
+    {
+      "id": "ahool",
+      "name": "Ahool",
+      "relationship": "similar",
+      "description": "Javanese giant flying cryptid"
+    },
+    {
+      "id": "owlman",
+      "name": "Owlman",
+      "relationship": "related",
+      "description": "Cornish humanoid winged cryptid"
+    },
+    {
+      "id": "garuda",
+      "name": "Garuda",
+      "relationship": "counterpart",
+      "description": "Hindu/Buddhist mythological great bird"
+    }
+  ],
+  "cultural_notes": "Thunderbirds are widely held to be powerful, intentional beings deserving of respect; not 'monsters' but cosmological agents.",
+  "sources": [
+    {
+      "id": "wikipedia-thunderbird",
+      "type": "website",
+      "title": "Thunderbird (mythology)",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Thunderbird_(mythology)",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "atlasobscura-lawndale",
+      "type": "article",
+      "title": "The Mythic Child-Stealing Thunderbirds of Illinois",
+      "publication": "Atlas Obscura",
+      "url": "https://www.atlasobscura.com/articles/the-mythic-child-stealing-thunderbirds-of-illinois",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "stangordon-thunderbird",
+      "type": "website",
+      "title": "Thunderbird category",
+      "authors": [
+        "Stan Gordon"
+      ],
+      "publication": "Stan Gordon's UFO Anomalies Zone",
+      "url": "https://www.stangordon.info/wp/category/cryptozoology/thunderbird/",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "mayor-2005",
+      "type": "book",
+      "title": "Fossil Legends of the First Americans",
+      "authors": [
+        "Adrienne Mayor"
+      ],
+      "publication": "Princeton University Press",
+      "date": "2005"
+    },
+    {
+      "id": "hall-2004",
+      "type": "book",
+      "title": "Thunderbirds! America's Living Legends of Giant Birds",
+      "authors": [
+        "Mark A. Hall"
+      ],
+      "publication": "Cosimo, Inc.",
+      "date": "2004"
+    },
+    {
+      "id": "ebsco-thunderbird",
+      "type": "article",
+      "title": "Thunderbird (cryptozoology)",
+      "publication": "EBSCO Research Starters",
+      "url": "https://www.ebsco.com/research-starters/zoology/thunderbird-cryptozoology",
+      "accessed": "2026-05-07"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Lawndale, Illinois",
+      "lat": 40.2375,
+      "lng": -89.2867
+    },
+    {
+      "name": "Westmoreland County, Pennsylvania",
+      "lat": 40.3015,
+      "lng": -79.5389
+    }
+  ]
 }

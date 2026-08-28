@@ -3,6 +3,7 @@
   "name": "Duppy",
   "category": "ghost_haunting",
   "description": "A spirit of the dead in Jamaican and wider Caribbean folklore, of West African (especially Ga and Akan) origin, generally regarded as malevolent and haunting at night.",
+  "full_description": "A duppy is a ghost or restless spirit of the dead in Jamaican folklore and in the wider Anglophone Caribbean (Bahamas, Barbados, parts of Belize and Guyana). The concept descends from West African — especially Ga and Akan — beliefs carried to the Caribbean during the transatlantic slave trade. In the Obeah tradition, each person is held to have two souls: at death the 'good' soul departs to be judged, while the earthbound spirit lingers near the body and may, if proper rites are not observed, escape and return as a duppy. Duppies are generally considered malevolent and most active at night. Specific named forms include the chained Rolling Calf, the Three-Foot Horse, and the Ol' Hige (a soucouyant-type blood-sucker). Protective and apotropaic practices — the Nine-Night wake, libations of white rum, and the placing of salt or open Bibles in the home — remain widespread, and the figure permeates Jamaican literature, music (notably Bob Marley's 'Duppy Conqueror', 1970) and everyday speech.",
   "aliases": [
     {
       "name": "Duffy",
@@ -55,5 +56,122 @@
   "origin": "Jamaican folklore is the densest locus of duppy tradition; cognate beliefs span the Anglophone Caribbean (Bahamas, Barbados, the Caymans, Belize, Guyana) and the wider Caribbean diaspora in the United Kingdom, United States, and Canada. The tradition has antecedents in the Ga and Akan cosmologies of present-day Ghana.",
   "first_reported": "18th century",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Most commonly derived from the Ga 'adope' ('dwarf' / spirit), reflecting the Ga conception of certain dwarfish spirits; an alternative derivation links the word to the Akan day 'Dapaa', occurring nine days after the first Monday of Fwodwo, with subsequent vowel shift.",
+    "meaning": "Ghost; spirit of a deceased person; supernatural being.",
+    "first_use": "Attested in English-language print in the British Caribbean from the 18th century onward."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "1929-01-01",
+      "event": "Martha Warren Beckwith publishes 'Black Roadways: A Study of Jamaican Folk Life' (University of North Carolina Press), one of the foundational ethnographies of duppy belief",
+      "significance": "Anchors duppy folklore in the academic record",
+      "source": "Beckwith, M. (1929)"
+    },
+    {
+      "date": "1970-12-01",
+      "event": "Bob Marley & the Wailers release 'Duppy Conqueror'",
+      "significance": "Cements the duppy in international popular culture via reggae",
+      "source": "Bob Marley discography"
+    },
+    {
+      "date": "1955-01-01",
+      "event": "Ivor Morrish publishes 'Obeah, Christ and Rastaman: Jamaica and Its Religion' establishing the Obeah/duppy continuum in scholarship",
+      "significance": "Theorisation of duppy belief within Jamaican religious practice",
+      "source": "Morrish, I. (1982 ed.)"
+    }
+  ],
+  "related": [
+    {
+      "id": "jumbie",
+      "name": "Jumbie",
+      "relationship": "similar",
+      "description": "General term for ghost/spirit in the eastern Caribbean"
+    },
+    {
+      "id": "soucouyant",
+      "name": "Soucouyant",
+      "relationship": "similar",
+      "description": "Caribbean blood-sucking female spirit; cognate with Ol' Hige"
+    },
+    {
+      "id": "la-diablesse",
+      "name": "La Diablesse",
+      "relationship": "related",
+      "description": "Caribbean female devil-spirit of French Creole origin"
+    },
+    {
+      "id": "lagahoo",
+      "name": "Lagahoo",
+      "relationship": "related",
+      "description": "Trinidadian shapeshifting spirit"
+    },
+    {
+      "id": "rolling-calf",
+      "name": "Rolling Calf",
+      "relationship": "subset",
+      "description": "Specific duppy form: chained, fire-breathing calf-like spirit"
+    }
+  ],
+  "cultural_notes": "A duppy can be sent by an Obeah practitioner; rice grains scattered behind the door force the duppy to stop and count them, foiling its pursuit; salt and white rum are protective; sleeping with an open Bible or scissors under the pillow is widely cited.",
+  "sources": [
+    {
+      "id": "beckwith-1929",
+      "type": "book",
+      "title": "Black Roadways: A Study of Jamaican Folk Life",
+      "authors": [
+        "Martha Warren Beckwith"
+      ],
+      "publication": "University of North Carolina Press",
+      "date": "1929"
+    },
+    {
+      "id": "morrish-1982",
+      "type": "book",
+      "title": "Obeah, Christ and Rastaman: Jamaica and Its Religion",
+      "authors": [
+        "Ivor Morrish"
+      ],
+      "publication": "James Clarke & Co.",
+      "date": "1982",
+      "isbn": "978-0227678749"
+    },
+    {
+      "id": "senior-2003",
+      "type": "book",
+      "title": "Encyclopedia of Jamaican Heritage",
+      "authors": [
+        "Olive Senior"
+      ],
+      "publication": "Twin Guinep Publishers",
+      "date": "2003",
+      "isbn": "978-9768007148"
+    },
+    {
+      "id": "paton-2015",
+      "type": "book",
+      "title": "The Cultural Politics of Obeah: Religion, Colonialism and Modernity in the Caribbean World",
+      "authors": [
+        "Diana Paton"
+      ],
+      "publication": "Cambridge University Press",
+      "date": "2015",
+      "isbn": "978-1107521339"
+    },
+    {
+      "id": "wikipedia-duppy",
+      "type": "website",
+      "title": "Duppy",
+      "url": "https://en.wikipedia.org/wiki/Duppy",
+      "accessed": "2026-05-07"
+    }
+  ],
+  "locations": []
 }

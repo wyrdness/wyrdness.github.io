@@ -3,6 +3,7 @@
   "name": "Ciguapa",
   "category": "entity_spirit",
   "description": "The Ciguapa is a creature of Dominican folklore: a small, beautiful (or in some tellings hideous) woman with smooth, dark or bronze skin, very long flowing hair that covers her body, and feet that point backward, allowing her to leave tracks that mislead anyone who tries to follow her into the mountains.",
+  "full_description": "The Ciguapa (Spanish: La Ciguapa) is the most famous figure of Dominican folklore, a wild female being said to inhabit the mountainous interior of Hispaniola — particularly the Cordillera Central and the Sierra de Bahoruco. Standard descriptions present her as a small woman, naked or nearly so, with smooth dark brown, copper, or in some 19th-century texts dark blue skin, and a long mane of glossy black hair that falls past her ankles and serves as her clothing. Her diagnostic feature is her feet, which are turned backward so that her footprints lead in the opposite direction of her actual travel. Communicating only in chirps, whines, and hoots, never in human speech, the Ciguapa is encountered by men in the deep forest at night; in some versions she is a benign and shy wild creature, in others she lures men by gaze or song and drives them to madness or death. Capture is said to be impossible by ordinary means: only a particular polydactyl five-toed black-and-white dog (perro cinqueño) can track her, and only on the night of a full moon. The figure is first attested in print in 1866, in Francisco Javier Angulo Guridi's romantic story La Ciguapa; her popular profile was further developed by writers such as Manuel de Jesús Galván, José Ramón López, Julia Alvarez, and the Dominican folklorist Mariano Lebrón Saviñón. Ciguapa traditions have entered Dominican national identity as a symbol of indigenous and mountainous resistance, although scholars (including sociologist Ginetta Candelario) note that there is no evidence of a Taíno antecedent and that the figure likely emerged in the 19th century from a combination of African, Spanish, and possibly Canarian influences.",
   "aliases": [
     {
       "name": "La Ciguapa",
@@ -36,5 +37,166 @@
   "origin": "Strongly identified with the Dominican Republic and the wider island of Hispaniola, particularly its mountainous interior. Variants and references occur throughout the Hispanic Caribbean diaspora.",
   "first_reported": "1866",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Possibly derived from cigua, the Dominican name for several species of small native birds (Coereba flaveola, Spindalis dominicensis), referencing her chirping voice; the Taíno provenance often claimed for the word is not securely established.",
+    "meaning": "Conventionally translated 'wild woman' or 'mountain woman'; the connection to cigua (small bird) is most often cited.",
+    "first_use": "First written attestation in 1866, in Francisco Javier Angulo Guridi's prose narrative La Ciguapa (Cuba)."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0,
+    "date_range": {
+      "earliest": "Folklore",
+      "latest": "Contemporary"
+    }
+  },
+  "timeline": [
+    {
+      "date": "1866",
+      "event": "Francisco Javier Angulo Guridi publishes La Ciguapa in Havana, the first written attestation of the figure",
+      "significance": "Founding text of the Ciguapa tradition",
+      "source": "Angulo Guridi, F. J. (1866), La Ciguapa"
+    },
+    {
+      "date": "1882",
+      "event": "Manuel de Jesús Galván's novel Enriquillo presents indigenous-themed Dominican imagery that helps fuse the Ciguapa with national-romantic discourse",
+      "significance": "Embeds wild-island figures in Dominican literature",
+      "source": "Galván, M. de J. (1882), Enriquillo"
+    },
+    {
+      "date": "Mid-20th century",
+      "event": "Dominican folklorist Mariano Lebrón Saviñón and others document Ciguapa narratives across the Cibao and Cordillera Central",
+      "significance": "Anchors the figure in academic Dominican folklore studies",
+      "source": "Lebrón Saviñón, M., Historia de la cultura dominicana"
+    },
+    {
+      "date": "2002",
+      "event": "Julia Alvarez publishes The Secret Footprints, a children's book retelling of the Ciguapa legend",
+      "significance": "Brings the tradition to a wide US and diasporic audience",
+      "source": "Alvarez, J. (2002), The Secret Footprints"
+    },
+    {
+      "date": "2009",
+      "event": "Dominican film El Mito de la Ciguapa is released",
+      "significance": "Modern cinematic treatment",
+      "source": "Dominican film industry record"
+    }
+  ],
+  "related": [
+    {
+      "id": "patasola",
+      "name": "Patasola",
+      "relationship": "similar",
+      "description": "Colombian one-legged forest woman who lures men into the wilderness"
+    },
+    {
+      "id": "tunda",
+      "name": "La Tunda",
+      "relationship": "similar",
+      "description": "Afro-Colombian / Ecuadorian shapeshifting forest woman with one club foot"
+    },
+    {
+      "id": "siguanaba",
+      "name": "Siguanaba",
+      "relationship": "similar",
+      "description": "Central American long-haired river-woman who deceives unfaithful men"
+    },
+    {
+      "id": "chullachaqui",
+      "name": "Chullachaqui",
+      "relationship": "similar",
+      "description": "Peruvian Amazonian forest spirit with mismatched feet that mislead trackers"
+    },
+    {
+      "id": "deer-woman",
+      "name": "Deer Woman",
+      "relationship": "similar",
+      "description": "Native North American forest woman with deer feet who lures unwary men"
+    },
+    {
+      "id": "huldre",
+      "name": "Huldre",
+      "relationship": "similar",
+      "description": "Scandinavian forest-woman with a non-human feature (cow's tail) used as comparator in folkloric scholarship"
+    }
+  ],
+  "cultural_notes": "The Ciguapa is felt by many Dominicans as a real being of the mountains, deserving respect and avoidance; she is sometimes invoked as a protector of the wild interior, sometimes as a danger.",
+  "sources": [
+    {
+      "id": "wikipedia-ciguapa",
+      "type": "website",
+      "title": "Ciguapa",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Ciguapa",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "angulo-guridi-1866",
+      "type": "book",
+      "title": "La Ciguapa",
+      "authors": [
+        "Francisco Javier Angulo Guridi"
+      ],
+      "publication": "Imprenta El Iris, Havana",
+      "date": "1866"
+    },
+    {
+      "id": "galvan-1882",
+      "type": "book",
+      "title": "Enriquillo",
+      "authors": [
+        "Manuel de Jesús Galván"
+      ],
+      "publication": "Imprenta García Hermanos, Santo Domingo",
+      "date": "1882"
+    },
+    {
+      "id": "alvarez-2002",
+      "type": "book",
+      "title": "The Secret Footprints",
+      "authors": [
+        "Julia Alvarez"
+      ],
+      "publication": "Knopf Books for Young Readers",
+      "date": "2002",
+      "isbn": "978-0375802546"
+    },
+    {
+      "id": "candelario-2007",
+      "type": "book",
+      "title": "Black behind the Ears: Dominican Racial Identity from Museums to Beauty Shops",
+      "authors": [
+        "Ginetta E. B. Candelario"
+      ],
+      "publication": "Duke University Press",
+      "date": "2007",
+      "isbn": "978-0822339038"
+    },
+    {
+      "id": "academia-ciguapa-paper",
+      "type": "paper",
+      "title": "La ciguapa y el ciguapeo: Dominican Myth, Metaphor, and Method",
+      "authors": [
+        "April J. Mayes"
+      ],
+      "publication": "Academia.edu (working paper)",
+      "url": "https://www.academia.edu/39644726/La_ciguapa_y_el_ciguapeo_Dominican_Myth_Metaphor_and_Method",
+      "accessed": "2026-05-07"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Cordillera Central",
+      "lat": 19,
+      "lng": -71
+    },
+    {
+      "name": "Cibao Valley",
+      "lat": 19.45,
+      "lng": -70.685
+    }
+  ]
 }

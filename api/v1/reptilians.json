@@ -3,6 +3,7 @@
   "name": "Reptilian Conspiracy Theory",
   "category": "conspiracy_theory",
   "description": "A modern conspiracy theory that alleges shape-shifting reptilian humanoid beings secretly control Earth's institutions, popularised by British conspiracy author David Icke from the late 1990s onwards.",
+  "full_description": "The reptilian conspiracy theory is a modern conspiracy belief, popularised by the British conspiracy author David Icke, that the world is secretly ruled by a hidden elite of shape-shifting reptilian humanoids — sometimes said to originate from the Alpha Draconis star system — who occupy positions of high power including monarchies, banking dynasties, and political offices. The theory in its current form coalesces in Icke's 1999 book The Biggest Secret, drawing on earlier pulp-fiction reptilian motifs (Robert E. Howard's 1929 'The Shadow Kingdom'), Theosophical 'Lemurian' speculation in Helena Blavatsky's The Secret Doctrine (1888), and the UFO-contact and Anunnaki literatures of the 1980s and 1990s. Scholars including Michael Barkun and Edward Guimont have documented its incorporation of older antisemitic conspiracy tropes, particularly motifs from the fabricated Protocols of the Elders of Zion. A 2013 Public Policy Polling survey found that approximately 4% of registered American voters expressed agreement with reptilian-rule ideas; the theory is widely considered a textbook example of modern internet-era conspiracism.",
   "aliases": [
     {
       "name": "Reptoids",
@@ -44,5 +45,157 @@
   "origin": "As a conspiracy belief, the theory has audiences in over 40 countries, with English-language strongholds in the UK, US, Canada, Australia, and online communities globally. Belief has been measured most directly in the United States.",
   "first_reported": "1929-08-01",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Modern English coinage drawing on Latin reptilis ('crawling, creeping'), via the herpetological term 'reptile' applied to alleged humanoid beings.",
+    "meaning": "'Reptilian' = of, or resembling, a reptile; here referring to alleged humanoid lizard-like beings.",
+    "first_use": "Reptilian humanoids appear in Robert E. Howard's pulp story 'The Shadow Kingdom' (Weird Tales, August 1929). The modern conspiracy framing is associated with David Icke from the mid-1990s, particularly The Biggest Secret (1999)."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "1888-01-01",
+      "event": "Helena Blavatsky publishes The Secret Doctrine, with 'dragon-men' on Lemuria",
+      "significance": "Theosophical antecedent of reptilian motifs",
+      "source": "Blavatsky, H. P. (1888)"
+    },
+    {
+      "date": "1929-08-01",
+      "event": "Robert E. Howard's 'The Shadow Kingdom' published in Weird Tales, introducing shape-shifting serpent men",
+      "significance": "Direct pulp-fiction antecedent identified by Michael Barkun",
+      "source": "Weird Tales, August 1929"
+    },
+    {
+      "date": "1976-01-01",
+      "event": "Zecharia Sitchin publishes The 12th Planet, popularising the Anunnaki ancient-astronaut narrative",
+      "significance": "Pseudohistorical framework later co-opted by reptilian theorists",
+      "source": "Sitchin, Z. (1976)"
+    },
+    {
+      "date": "1995-01-01",
+      "event": "David Icke publishes ...And the Truth Shall Set You Free, introducing reptilian themes",
+      "significance": "First Icke book to substantially incorporate reptilian conspiracy",
+      "source": "Icke, D. (1995)"
+    },
+    {
+      "date": "1999-01-01",
+      "event": "David Icke publishes The Biggest Secret, the canonical statement of his reptilian theory",
+      "significance": "Defining text of the modern reptilian conspiracy theory",
+      "source": "Icke, D. (1999)"
+    },
+    {
+      "date": "2003-09-30",
+      "event": "Michael Barkun publishes A Culture of Conspiracy, including the foundational scholarly analysis of Icke's reptilian theory and its antisemitic affinities",
+      "significance": "First major academic treatment",
+      "source": "Barkun, M. (2003)"
+    },
+    {
+      "date": "2013-04-02",
+      "event": "Public Policy Polling survey finds approximately 4% of U.S. registered voters express agreement with the reptilian-elite idea",
+      "significance": "Headline measurement of belief prevalence",
+      "source": "Public Policy Polling (2013)"
+    }
+  ],
+  "related": [
+    {
+      "id": "new-world-order",
+      "name": "New World Order",
+      "relationship": "superset",
+      "description": "Broader hidden-elite conspiracy framework into which reptilian theory plugs"
+    },
+    {
+      "id": "annunaki-ancient-astronauts",
+      "name": "Anunnaki / Ancient Astronaut Theory",
+      "relationship": "related",
+      "description": "Pseudohistorical narrative drawn on by Icke and others, especially via Zecharia Sitchin"
+    },
+    {
+      "id": "qanon",
+      "name": "QAnon",
+      "relationship": "related",
+      "description": "Later online conspiracy movement that has incorporated reptilian motifs in some strands"
+    },
+    {
+      "id": "protocols-elders-of-zion",
+      "name": "Protocols of the Elders of Zion",
+      "relationship": "related",
+      "description": "Antisemitic forgery whose structural motifs underlie much modern hidden-elite conspiracism, including reptilian theory"
+    },
+    {
+      "id": "hollow-earth",
+      "name": "Hollow Earth",
+      "relationship": "related",
+      "description": "Earlier esoteric belief sometimes integrated into reptilian narratives"
+    }
+  ],
+  "cultural_notes": "A modern conspiracy belief held by a small but persistent international audience, propagated primarily through books, lectures, and online video.",
+  "sources": [
+    {
+      "id": "wikipedia-reptilian",
+      "type": "website",
+      "title": "Reptilian conspiracy theory",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Reptilian_conspiracy_theory",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "icke-1999",
+      "type": "book",
+      "title": "The Biggest Secret: The Book That Will Change the World",
+      "authors": [
+        "David Icke"
+      ],
+      "publication": "Bridge of Love",
+      "date": "1999",
+      "isbn": "978-0952614760"
+    },
+    {
+      "id": "barkun-2003",
+      "type": "book",
+      "title": "A Culture of Conspiracy: Apocalyptic Visions in Contemporary America",
+      "authors": [
+        "Michael Barkun"
+      ],
+      "publication": "University of California Press",
+      "date": "2003",
+      "isbn": "978-0520238053"
+    },
+    {
+      "id": "robertson-2016",
+      "type": "book",
+      "title": "UFOs, Conspiracy Theories and the New Age: Millennial Conspiracism",
+      "authors": [
+        "David G. Robertson"
+      ],
+      "publication": "Bloomsbury Academic",
+      "date": "2016",
+      "isbn": "978-1474253208"
+    },
+    {
+      "id": "lewis-kahn-2005",
+      "type": "paper",
+      "title": "The Reptoid Hypothesis: Utopian and Dystopian Representational Motifs in David Icke's Alien Conspiracy Theory",
+      "authors": [
+        "Tyson Lewis",
+        "Richard Kahn"
+      ],
+      "publication": "Utopian Studies",
+      "date": "2005"
+    },
+    {
+      "id": "ppp-2013",
+      "type": "other",
+      "title": "Conspiracy Theory Poll Results",
+      "publication": "Public Policy Polling",
+      "date": "2013-04-02",
+      "url": "https://www.publicpolicypolling.com/polls/conspiracy-theory-poll-results/",
+      "accessed": "2026-05-07"
+    }
+  ],
+  "locations": []
 }

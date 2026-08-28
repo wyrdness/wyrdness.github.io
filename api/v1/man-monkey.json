@@ -3,6 +3,7 @@
   "name": "Man-Monkey",
   "category": "cryptid",
   "description": "A black, ape-like figure with large white eyes reported on the Shropshire Union Canal at Bridge 39, near Norbury Junction on the Staffordshire–Shropshire border. The original 1879 encounter was recorded by folklorist Charlotte Sophia Burne in 1883.",
+  "full_description": "The Man-Monkey is a humanoid cryptid or apparition associated with the Shropshire Union Canal in the English Midlands, particularly with Bridge 39 at the Staffordshire–Shropshire border. The original account, recorded by Charlotte Sophia Burne in Shropshire Folk-Lore (1883) on testimony collected in 1879, describes a labourer driving a horse-cart from Ranton (Staffordshire) to Woodcock (near Newport, Shropshire) on the night of 21 January 1879. As he reached the canal bridge, 'a strange black creature with great white eyes' sprang out of the roadside plantation and onto his horse's back. The man eventually reached home in great fright; a local police-officer he later met reportedly told him that he was lucky not to have met the 'Man-Monkey' that had been seen there before. The story was revived in modern cryptozoology and Fortean writing by Jonathan Downes and Nick Redfern, who collected later 20th-century reports along the same stretch of canal.",
   "aliases": [
     {
       "name": "Man-Monkey of Bridge 39",
@@ -31,5 +32,90 @@
   "origin": "Reports are localized to the Shropshire Union Canal corridor near the Staffordshire–Shropshire border, especially the area around Norbury Junction and the canal bridge identified as Bridge 39.",
   "first_reported": "1879-01-21",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "English; coined in the 19th-century Shropshire/Staffordshire countryside.",
+    "meaning": "'Man-Monkey' — a humanoid figure with ape-like features.",
+    "first_use": "1879 (oral, in Shropshire/Staffordshire); first published 1883 in Burne and Jackson's Shropshire Folk-Lore."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "1879-01-21",
+      "event": "A labourer driving a cart from Ranton to Woodcock is attacked at a Shropshire Union Canal bridge by a black creature with great white eyes that springs onto his horse's back",
+      "significance": "Original Man-Monkey encounter",
+      "source": "Burne and Jackson, Shropshire Folk-Lore (1883)"
+    },
+    {
+      "date": "1883-01-01",
+      "event": "Charlotte Sophia Burne and Georgina F. Jackson publish Shropshire Folk-Lore, including the Man-Monkey account",
+      "significance": "First publication of the story",
+      "source": "Burne and Jackson, Shropshire Folk-Lore (1883)"
+    },
+    {
+      "date": "2001-01-01",
+      "event": "Nick Redfern publishes Man-Monkey: In Search of the British Bigfoot, collecting later reports and reviving the case",
+      "significance": "Modern cryptozoological treatment",
+      "source": "Redfern, Man-Monkey (CFZ Press, 2007 ed. ISBN 978-1905723164; original work earlier)"
+    }
+  ],
+  "related": [
+    {
+      "id": "bigfoot",
+      "name": "Bigfoot",
+      "relationship": "similar",
+      "description": "North American hairy hominid cryptid often paralleled with British 'wildman' reports"
+    },
+    {
+      "id": "yeren",
+      "name": "Yeren",
+      "relationship": "similar",
+      "description": "Chinese hairy man-monkey cryptid"
+    },
+    {
+      "id": "spring-heeled-jack",
+      "name": "Spring-heeled Jack",
+      "relationship": "related",
+      "description": "19th-century English humanoid apparition"
+    }
+  ],
+  "cultural_notes": "Locally, Bridge 39 retains a reputation as a haunted spot among boaters and walkers on the Shropshire Union Canal.",
+  "sources": [
+    {
+      "id": "burne-1883",
+      "type": "book",
+      "title": "Shropshire Folk-Lore: A Sheaf of Gleanings",
+      "authors": [
+        "Charlotte Sophia Burne",
+        "Georgina F. Jackson"
+      ],
+      "publication": "Trübner & Co., London",
+      "date": "1883"
+    },
+    {
+      "id": "redfern-man-monkey",
+      "type": "book",
+      "title": "Man-Monkey: In Search of the British Bigfoot",
+      "authors": [
+        "Nick Redfern"
+      ],
+      "publication": "CFZ Press",
+      "date": "2007",
+      "isbn": "978-1905723164"
+    },
+    {
+      "id": "spookyisles-man-monkey",
+      "type": "website",
+      "title": "The Man-Monkey of Shropshire Union Canal",
+      "publication": "Spooky Isles",
+      "url": "https://www.spookyisles.com/man-monkey-shropshire-union-canal/",
+      "accessed": "2026-05-07"
+    }
+  ],
+  "locations": []
 }

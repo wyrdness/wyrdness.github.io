@@ -3,6 +3,7 @@
   "name": "Yeti",
   "category": "cryptid",
   "description": "An ape-like humanoid cryptid said to inhabit the high Himalayas of Nepal, Tibet, Bhutan, and adjacent regions. Central to Sherpa, Tibetan, and Lepcha tradition long before Western contact, the Yeti became a global cryptozoological icon after 20th-century mountaineering expeditions reported tracks and encounters.",
+  "full_description": "The Yeti is a large, hairy, ape-like creature reported in the snowfields and forested valleys of the Himalayan range. Local Tibetan and Sherpa traditions describe several related beings collectively grouped under the modern term 'Yeti', most commonly the meh-teh (man-bear) and dzu-teh (cattle bear). Western interest accelerated after Eric Shipton's 1951 photographs of large footprints near the Menlung Glacier on the approach to Mount Everest. Several mid-20th-century expeditions, notably Tom Slick's 1957–1959 ventures and the 1960–1961 Hillary–Doig 'Silver Hut' expedition, examined alleged scalps and skins held at Pangboche and Khumjung monasteries. Successive genetic surveys, culminating in Sykes et al. (2014) in Proceedings of the Royal Society B and Lan et al. (2017) in Proceedings of the Royal Society B, identified putative Yeti samples as Himalayan brown bear, Tibetan blue bear, Asiatic black bear, and a domestic dog. Mainstream zoology now treats the Yeti as a folkloric phenomenon with a strong bear-misidentification component, while the figure remains spiritually and culturally important across the Himalayas.",
   "aliases": [
     {
       "name": "Abominable Snowman",
@@ -77,5 +78,265 @@
   "origin": "The Yeti is reported across the Himalayan and adjacent ranges, particularly in Nepal (Khumbu, Solu, Mustang, Makalu-Barun), the Tibet Autonomous Region of China, Bhutan (where the migoi is the national cryptid), Sikkim and other northern Indian states, and parts of southern Siberia where related 'wild man' traditions exist.",
   "first_reported": "Pre-19th century",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "From Tibetan / Sherpa terms for the creature. 'Yeti' is generally derived from yeh-teh ('that thing') or from a compound of ya ('rocky place') and teh (a softened form of dred, 'bear'). 'Abominable Snowman' was coined by Henry Newman of the Calcutta Statesman in 1921 as a sensational rendering of metoh-kangmi reported by Lt-Col Charles Howard-Bury's Everest reconnaissance.",
+    "meaning": "Approximately 'rock-bear' or 'man-bear' depending on derivation; 'metoh-kangmi' translates as 'man-bear of the snow'.",
+    "first_use": "1921 in English-language press (Newman, Calcutta Statesman); local Himalayan terms predate written record"
+  },
+  "sightings_stats": {
+    "total_documented": 200,
+    "verified": 0,
+    "disputed": 150,
+    "debunked": 30,
+    "date_range": {
+      "earliest": "1832",
+      "latest": "2026"
+    }
+  },
+  "timeline": [
+    {
+      "date": "Pre-19th century",
+      "event": "Tibetan, Sherpa, Lepcha, and Bhutanese traditions of meh-teh, dzu-teh, and migoi",
+      "significance": "Cultural baseline predating Western contact",
+      "source": "Indigenous oral and ritual traditions"
+    },
+    {
+      "date": "1832",
+      "event": "B. H. Hodgson reports a hair-covered bipedal creature in northern Nepal",
+      "significance": "Earliest detailed Western account",
+      "source": "Hodgson, B. H., Journal of the Asiatic Society of Bengal"
+    },
+    {
+      "date": "1921",
+      "event": "The Howard-Bury Everest reconnaissance reports tracks at ~6,400 m on the Lhakpa La; Henry Newman of the Calcutta Statesman renders metoh-kangmi as 'Abominable Snowman'",
+      "significance": "Origin of the English popular term",
+      "source": "Howard-Bury, C. K. (1922), Mount Everest: The Reconnaissance, 1921"
+    },
+    {
+      "date": "1925",
+      "event": "N. A. Tombazi observes a hair-covered bipedal figure near the Zemu Glacier, Sikkim",
+      "significance": "First widely-cited Western daylight sighting",
+      "source": "Royal Geographical Society lecture (1925)"
+    },
+    {
+      "date": "1951-11",
+      "event": "Eric Shipton and Michael Ward photograph a large footprint near the Menlung Glacier",
+      "significance": "The most-discussed single piece of physical evidence in the Yeti record",
+      "source": "Shipton, E. (1952), The Mount Everest Reconnaissance Expedition 1951"
+    },
+    {
+      "date": "1954",
+      "event": "The Daily Mail Snowman Expedition led by John Angelo Jackson photographs alleged Yeti scalps and tracks in the Himalayas",
+      "significance": "First major media-funded Yeti expedition",
+      "source": "Daily Mail (London), 1954 dispatches"
+    },
+    {
+      "date": "1957-1959",
+      "event": "Tom Slick funds a series of Yeti expeditions to the Khumbu, with Peter Byrne and others",
+      "significance": "Removed and substituted material from the Pangboche 'hand' for analysis",
+      "source": "Slick expedition records; Byrne, P., recollections"
+    },
+    {
+      "date": "1960-1961",
+      "event": "Edmund Hillary and Marlin Perkins lead the Silver Hut expedition; the Khumjung 'scalp' is taken to the West and identified by Marca Burns and others as serow hide",
+      "significance": "First systematic scientific examination of Yeti relics",
+      "source": "Hillary, E. & Doig, D. (1962), High in the Thin Cold Air"
+    },
+    {
+      "date": "1986",
+      "event": "Reinhold Messner begins fieldwork that he later argues identifies the dzu-teh with the Himalayan brown bear (Ursus arctos isabellinus)",
+      "significance": "Influential bear-identification hypothesis",
+      "source": "Messner, R. (2000), My Quest for the Yeti"
+    },
+    {
+      "date": "2014-07-02",
+      "event": "Sykes et al. publish a peer-reviewed genetic survey in Proceedings of the Royal Society B",
+      "significance": "First broad peer-reviewed DNA survey of putative Yeti samples",
+      "source": "Proc. R. Soc. B 281:20140161"
+    },
+    {
+      "date": "2017-11-29",
+      "event": "Lan et al. publish a follow-up genetic study in Proceedings of the Royal Society B identifying putative Yeti samples as Himalayan brown bear, Tibetan blue bear, Asiatic black bear, and a domestic dog",
+      "significance": "Current best peer-reviewed DNA result",
+      "source": "Proc. R. Soc. B 284:20171804"
+    }
+  ],
+  "related": [
+    {
+      "id": "bigfoot",
+      "name": "Bigfoot",
+      "relationship": "similar",
+      "description": "North American hairy hominid cryptid"
+    },
+    {
+      "id": "almas",
+      "name": "Almas",
+      "relationship": "similar",
+      "description": "Caucasus / Central Asian hairy hominid cryptid"
+    },
+    {
+      "id": "yeren",
+      "name": "Yeren",
+      "relationship": "similar",
+      "description": "Chinese hairy wild man cryptid"
+    },
+    {
+      "id": "orang-pendek",
+      "name": "Orang Pendek",
+      "relationship": "similar",
+      "description": "Short bipedal cryptid of Sumatra"
+    },
+    {
+      "id": "yowie",
+      "name": "Yowie",
+      "relationship": "similar",
+      "description": "Australian hairy hominid cryptid"
+    },
+    {
+      "id": "barmanou",
+      "name": "Barmanou",
+      "relationship": "regional_variant",
+      "description": "Hairy hominid cryptid of the Hindu Kush and Karakoram"
+    }
+  ],
+  "cultural_notes": "Across Sherpa, Tibetan, Bhutanese, and Lepcha tradition, the meh-teh / migoi is treated as a real being of the high country, often associated with spiritual significance and avoided rather than hunted.",
+  "sources": [
+    {
+      "id": "loxton-prothero-2013",
+      "type": "book",
+      "title": "Abominable Science: Origins of the Yeti, Nessie, and Other Famous Cryptids",
+      "authors": [
+        "Daniel Loxton",
+        "Donald R. Prothero"
+      ],
+      "publication": "Columbia University Press",
+      "date": "2013",
+      "isbn": "978-0231153201"
+    },
+    {
+      "id": "messner-2000",
+      "type": "book",
+      "title": "My Quest for the Yeti: Confronting the Himalayas' Deepest Mystery",
+      "authors": [
+        "Reinhold Messner"
+      ],
+      "publication": "St. Martin's Press",
+      "date": "2000",
+      "isbn": "978-0312203948"
+    },
+    {
+      "id": "taylor-2017",
+      "type": "book",
+      "title": "Yeti: The Ecology of a Mystery",
+      "authors": [
+        "Daniel C. Taylor"
+      ],
+      "publication": "Oxford University Press",
+      "date": "2017",
+      "isbn": "978-0199477821"
+    },
+    {
+      "id": "hillary-doig-1962",
+      "type": "book",
+      "title": "High in the Thin Cold Air",
+      "authors": [
+        "Edmund Hillary",
+        "Desmond Doig"
+      ],
+      "publication": "Doubleday",
+      "date": "1962"
+    },
+    {
+      "id": "napier-1973",
+      "type": "book",
+      "title": "Bigfoot: The Yeti and Sasquatch in Myth and Reality",
+      "authors": [
+        "John Napier"
+      ],
+      "publication": "E. P. Dutton",
+      "date": "1973",
+      "isbn": "978-0525066583"
+    },
+    {
+      "id": "heuvelmans-1958",
+      "type": "book",
+      "title": "On the Track of Unknown Animals",
+      "authors": [
+        "Bernard Heuvelmans"
+      ],
+      "publication": "Hart-Davis",
+      "date": "1958"
+    },
+    {
+      "id": "shipton-1952",
+      "type": "book",
+      "title": "The Mount Everest Reconnaissance Expedition 1951",
+      "authors": [
+        "Eric Shipton"
+      ],
+      "publication": "Hodder & Stoughton",
+      "date": "1952"
+    },
+    {
+      "id": "sykes-2014",
+      "type": "paper",
+      "title": "Genetic analysis of hair samples attributed to yeti, bigfoot and other anomalous primates",
+      "authors": [
+        "Bryan C. Sykes",
+        "Rhettman A. Mullis",
+        "Christophe Hagenmuller",
+        "Terry W. Melton",
+        "Michel Sartori"
+      ],
+      "publication": "Proceedings of the Royal Society B",
+      "date": "2014",
+      "doi": "10.1098/rspb.2014.0161"
+    },
+    {
+      "id": "lan-2017",
+      "type": "paper",
+      "title": "Evolutionary history of enigmatic bears in the Tibetan Plateau-Himalaya region and the identity of the yeti",
+      "authors": [
+        "Tianying Lan",
+        "Stephanie Gill",
+        "Eva Bellemain",
+        "Richard Bischof",
+        "Muhammad Ali Nawaz",
+        "Charlotte Lindqvist"
+      ],
+      "publication": "Proceedings of the Royal Society B",
+      "date": "2017",
+      "doi": "10.1098/rspb.2017.1804"
+    },
+    {
+      "id": "wikipedia-yeti",
+      "type": "website",
+      "title": "Yeti",
+      "url": "https://en.wikipedia.org/wiki/Yeti",
+      "accessed": "2026-05-07"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Menlung Glacier / Everest approach",
+      "lat": 28,
+      "lng": 86.7
+    },
+    {
+      "name": "Pangboche and Khumjung monasteries",
+      "lat": 27.8369,
+      "lng": 86.7833
+    },
+    {
+      "name": "Makalu-Barun Valley",
+      "lat": 27.7,
+      "lng": 87.1
+    },
+    {
+      "name": "Zemu Glacier, Sikkim",
+      "lat": 27.7,
+      "lng": 88.2
+    }
+  ]
 }

@@ -3,6 +3,7 @@
   "name": "El Silbón",
   "category": "ghost_haunting",
   "description": "A cursed wandering spirit of the Venezuelan and Colombian Llanos who carries his murdered father's bones in a sack and whose whistle reverses with distance: close-sounding when far, distant-sounding when very near.",
+  "full_description": "El Silbón ('the whistler') is a legendary spirit of the Llanos region of Venezuela — particularly Portuguesa state and Guanarito Municipality — and of Colombia's Eastern Llanos, said to have arisen as a folk legend in the mid-19th century. According to the most widely told version, El Silbón was a spoiled son who, in a drunken rage, killed his father, and (in some versions) prepared the body as food for his unsuspecting mother; on discovering the truth, his grandfather whipped him, rubbed lemon and pepper into his wounds, and cursed him to wander forever, carrying his father's bones in a sack. He appears as the shadow of a tall, gaunt man, sometimes wearing a hat; in some accounts as a six-metre giant moving among the treetops. His characteristic whistle is held to be inverted in distance: when it sounds near, he is far; when it sounds faint and distant, he is dangerously close. He preys particularly on drunkards and unfaithful husbands. Folkloric protections include a barking dog (the only thing he reportedly fears), chili peppers, and a whip — items linked to the curse imposed by his grandfather.",
   "aliases": [
     {
       "name": "El Silbón",
@@ -37,5 +38,80 @@
   "origin": "Folkloric range across the Llanos savanna of Venezuela and the Eastern Llanos of Colombia, with the densest tradition in the Venezuelan state of Portuguesa.",
   "first_reported": "19th century",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Spanish 'el silbón', literally 'the whistler' or 'the one who whistles', from the verb 'silbar' (to whistle).",
+    "meaning": "'The Whistler'.",
+    "first_use": "Recorded in 19th-century Llanero oral tradition; widely standardised in 20th-century Venezuelan folkloric literature."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "1850-01-01",
+      "event": "El Silbón legend takes shape in Venezuelan Llanero oral tradition (per Wikipedia)",
+      "significance": "Approximate origin of the tradition",
+      "source": "Wikipedia, 'El Silbón'"
+    },
+    {
+      "date": "1939-01-01",
+      "event": "Rómulo Gallegos publishes 'Cantaclaro', situating the Llanos in modern Venezuelan literary imagination and creating an audience for Llanero folklore",
+      "significance": "Cultural context for 20th-century literary engagement with Llanero folklore",
+      "source": "Gallegos, R. (1939)"
+    }
+  ],
+  "related": [
+    {
+      "id": "la-llorona",
+      "name": "La Llorona",
+      "relationship": "similar",
+      "description": "Wandering, weeping female spirit of Latin American folklore"
+    },
+    {
+      "id": "el-sombreron",
+      "name": "El Sombrerón",
+      "relationship": "similar",
+      "description": "Hat-wearing nocturnal harasser of Guatemalan and Mexican folklore"
+    },
+    {
+      "id": "el-coco",
+      "name": "El Coco",
+      "relationship": "related",
+      "description": "Pan-Hispanic bogeyman figure"
+    },
+    {
+      "id": "patasola",
+      "name": "Patasola",
+      "relationship": "similar",
+      "description": "Colombian one-legged forest-spirit hunter of unfaithful men"
+    },
+    {
+      "id": "madremonte",
+      "name": "Madremonte",
+      "relationship": "related",
+      "description": "Colombian/Venezuelan forest mother-spirit"
+    }
+  ],
+  "cultural_notes": "Hearing the whistle is itself an omen; if the whistle sounds close, no immediate danger; if it sounds far, the listener is in immediate peril. Protection is sought through dogs, chili pepper, and the whip.",
+  "sources": [
+    {
+      "id": "wikipedia-el-silbon",
+      "type": "website",
+      "title": "El Silbón",
+      "url": "https://en.wikipedia.org/wiki/El_Silb%C3%B3n",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "fundacion-bigott",
+      "type": "website",
+      "title": "Fundación Bigott — Venezuelan folkloric resources",
+      "url": "https://www.fundacionbigott.com",
+      "accessed": "2026-05-07"
+    }
+  ],
+  "locations": []
 }

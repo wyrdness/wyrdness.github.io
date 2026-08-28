@@ -3,6 +3,7 @@
   "name": "The Rake",
   "category": "urban_legend",
   "description": "The Rake is an internet-born fictional entity originating from 4chan's /b/ board around 2005–2006, described as a pale, emaciated humanoid that crouches at the foot of beds or crawls on all fours. Though explicitly created as collaborative fiction, the character has since generated claimed real-world encounter reports.",
+  "full_description": "The Rake is a creepypasta character that emerged from 4chan's /b/ board around 2005–2006 as part of a collaborative fictional project aimed at creating a new internet horror entity. It is described as a pale, hairless, emaciated humanoid creature — resembling something between a naked human and a large hairless dog — that crawls on all fours, appears in bedrooms at night crouching at the foot of the bed or standing over sleeping victims, and possesses hollow or blank eyes. The original creepypasta text established a fictional framing device of found documents and journal entries, giving the character a sense of historicity. Like Slender Man (which originated in 2009 on Something Awful), the Rake represents the phenomenon of internet-born fictional entities that acquire reported real-world sightings as the legend spreads. In the 2010s, claimed 'real' encounters with the Rake began circulating online, blurring the documented fictional origin with emerging pseudo-belief. The Rake is distinct from the Polybius legend in having a clearly identifiable fictional creation context, and from older folklore traditions in being purely a product of early internet culture.",
   "aliases": [],
   "tags": [
     "creepypasta",
@@ -19,5 +20,61 @@
   "origin": "As an internet-born legend, the Rake has no geographic origin. Claimed encounter reports (post-fictional-origin) come primarily from English-speaking internet communities.",
   "first_reported": "2006-01-01",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "4chan's /b/ board, approximately 2005–2006. The name 'The Rake' refers to the creature's raking or clawing behavior and emaciated, raked-over appearance.",
+    "meaning": "Refers to the entity's clawing/scratching behavior and gaunt, rake-like physique",
+    "first_use": "Approximately 2005–2006 (4chan /b/ board)"
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "2006-01-01",
+      "event": "The Rake first appears on 4chan's /b/ board as a collaborative fictional horror project",
+      "significance": "Creation of the entity; establishes its documented fictional origin",
+      "source": "4chan /b/ board (2005–2006)"
+    },
+    {
+      "date": "2010-01-01",
+      "event": "The Rake spreads to creepypasta wikis and horror communities, gaining a wider internet audience",
+      "significance": "Transition from 4chan origin to broader internet legend status",
+      "source": "Creepypasta Wiki and related communities"
+    }
+  ],
+  "related": [
+    {
+      "id": "slenderman",
+      "name": "Slender Man",
+      "relationship": "similar",
+      "description": "The most famous internet-born fictional entity that also acquired pseudo-belief reports; Slender Man originated in 2009 on Something Awful"
+    },
+    {
+      "id": "polybius",
+      "name": "Polybius",
+      "relationship": "related",
+      "description": "Another internet-era urban legend where fiction blurs into claimed real experiences"
+    },
+    {
+      "id": "shadow-people",
+      "name": "Shadow People",
+      "relationship": "similar",
+      "description": "Older reported bedroom intruder entities that share some phenomenological features with Rake reports"
+    }
+  ],
+  "cultural_notes": "A minority of internet users treat the Rake as a real entity despite its documented fictional origin. This represents a broader pattern in digital folklore where fictional creation blurs into pseudo-belief through repeated uncritical retelling.",
+  "sources": [
+    {
+      "id": "creepypasta-wiki-rake",
+      "type": "website",
+      "title": "The Rake (creepypasta)",
+      "url": "https://creepypasta.fandom.com/wiki/The_Rake",
+      "accessed": "2026-05-08"
+    }
+  ],
+  "locations": []
 }

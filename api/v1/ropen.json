@@ -3,6 +3,7 @@
   "name": "Ropen",
   "category": "cryptid",
   "description": "The Ropen is a large nocturnal flying cryptid reported from Papua New Guinea, described by witnesses as a featherless, bat-winged creature with a long tail and bioluminescent glow, and interpreted by some cryptozoologists as a surviving pterosaur.",
+  "full_description": "The Ropen is a cryptid claimed to inhabit the islands and jungles of Papua New Guinea, particularly Umboi Island and surrounding areas. The word 'ropen' in local Kovai language refers to a large nocturnal creature that glows briefly as it flies. Witnesses describe a dark gray or brownish featherless creature with leathery bat-like wings, a long tail with a diamond-shaped flange at the tip, a head crest, a toothed beak, and razor-sharp claws. Wingspan estimates from witnesses range widely, with some accounts claiming up to 29 feet (approximately 9 meters). The creature is said to emit bioluminescent light, possibly used to attract fish. Proponents — largely associated with young-earth creationist organizations — argue the Ropen is a surviving pterosaur (specifically resembling a Rhamphorhynchus or Pteranodon). Mainstream science has not accepted this interpretation, and no physical evidence has been produced. The most cited Western accounts come from Evelyn Cheesman (1935) and World War II serviceman Duane Hodgkinson (1944). The term 'ropen' was later applied by cryptozoologist Jonathan Whitcomb as a broad category for any featherless flying creature in the Southwest Pacific with a tail length more than 25% of its wingspan.",
   "aliases": [
     {
       "name": "Duwas",
@@ -34,5 +35,102 @@
   "origin": "Reports concentrate on Umboi Island and surrounding areas of Papua New Guinea, with some claims from the broader Solomon Islands region and Indonesian Papua.",
   "first_reported": "1935-01-01",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Kovai language, Umboi Island, Papua New Guinea.",
+    "meaning": "In the Kovai language, ropen refers to a large nocturnal creature that glows briefly as it flies.",
+    "first_use": "The term entered Western cryptozoological literature in the early 2000s through the work of Jonathan Whitcomb and other researchers."
+  },
+  "sightings_stats": {
+    "total_documented": 30,
+    "verified": 0,
+    "disputed": 30,
+    "debunked": 0,
+    "date_range": {
+      "earliest": "1935",
+      "latest": "2004"
+    }
+  },
+  "timeline": [
+    {
+      "date": "1935-01-01",
+      "event": "Evelyn Cheesman documents strange moving lights in the skies of New Guinea in The Two Roads of Papua",
+      "significance": "Earliest widely cited Western reference; Cheesman was a credentialed biologist",
+      "source": "Cheesman, E. (1935), The Two Roads of Papua"
+    },
+    {
+      "date": "1944-01-01",
+      "event": "U.S. Army serviceman Duane Hodgkinson reportedly observes a large winged creature near Finschhafen, Papua New Guinea; account publicized decades later",
+      "significance": "Most cited WWII-era sighting claim; Hodgkinson described a pterodactyl-like animal with crest and long snout",
+      "source": "Cryptozoological literature; account publicized by Jonathan Whitcomb"
+    },
+    {
+      "date": "1994-01-01",
+      "event": "Paul Nation and other researchers conduct early Western expeditions to Umboi Island seeking the Ropen",
+      "significance": "Beginning of organized Western cryptozoological fieldwork on the phenomenon",
+      "source": "Cryptozoological expedition accounts"
+    },
+    {
+      "date": "2004-01-01",
+      "event": "Jonathan Whitcomb conducts expedition to Umboi Island; coins or popularizes the broad definition of 'ropen' as any long-tailed featherless flyer in the region",
+      "significance": "Establishes the modern cryptozoological framing",
+      "source": "Whitcomb, J. (2004), expedition accounts"
+    }
+  ],
+  "related": [
+    {
+      "id": "pterosaur",
+      "name": "Pterosaur (fossil record)",
+      "relationship": "related",
+      "description": "The extinct flying reptile that Ropen proponents claim the creature represents"
+    },
+    {
+      "id": "kongamato",
+      "name": "Kongamato",
+      "relationship": "similar",
+      "description": "Central African flying cryptid also interpreted as a surviving pterosaur"
+    },
+    {
+      "id": "duah",
+      "name": "Duah",
+      "relationship": "regional_variant",
+      "description": "Related creature reported from the same region of Papua New Guinea"
+    }
+  ],
+  "cultural_notes": "The Kovai people of Umboi Island describe the ropen as a real creature inhabiting caves and emerging at night. Some accounts associate it with feeding near burial sites, which has informed cultural practices.",
+  "sources": [
+    {
+      "id": "cheesman-1935",
+      "type": "book",
+      "title": "The Two Roads of Papua",
+      "authors": [
+        "Evelyn Cheesman"
+      ],
+      "publication": "Jarrolds",
+      "date": "1935"
+    },
+    {
+      "id": "whitcomb-2004",
+      "type": "book",
+      "title": "Searching for Ropens",
+      "authors": [
+        "Jonathan Whitcomb"
+      ],
+      "date": "2004"
+    },
+    {
+      "id": "websearch-ropen-2026",
+      "type": "website",
+      "title": "Ropen — Cryptid Index",
+      "url": "https://cryptidindex.com/ropen/",
+      "accessed": "2026-05-08"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Umboi Island",
+      "lat": -5.6,
+      "lng": 147.9
+    }
+  ]
 }

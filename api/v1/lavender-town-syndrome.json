@@ -3,6 +3,7 @@
   "name": "Lavender Town Syndrome",
   "category": "urban_legend",
   "description": "Lavender Town Syndrome is a creepypasta — an explicitly fictional internet horror story — first posted in February 2010 alleging that the music of Lavender Town in 1996's Pokémon Red and Green caused suicides and illness in Japanese children. No newspaper records or epidemiological evidence support the claim.",
+  "full_description": "Lavender Town Syndrome is a creepypasta — a piece of internet horror fiction — that emerged in February 2010 and went on to become one of the canonical Pokémon-related online legends. The text alleges that the chiptune background music of Lavender Town in the 1996 Game Boy titles Pokémon Red and Pokémon Green (composed by Junichi Masuda) drove hundreds of Japanese children to suicide, headaches, brain haemorrhage and erratic behaviour through binaural beats and high-frequency tones audible only to children. The story originated as a Pastebin post on 21 February 2010, spread through 4chan's paranormal board (/x/), and was elaborated with photoshopped 'spectrograms' and fabricated newspaper references. No corresponding Japanese newspaper archive entries, coroner reports, or epidemiological records exist. The legend draws plausibility from the genuine in-universe creepiness of Lavender Town (a fictional graveyard town) and from confusion with the unrelated 1997 Dennō Senshi Porygon television incident, in which roughly 700 Japanese children were hospitalised after watching an episode of the Pokémon anime that contained a strobing red-and-blue sequence. Lavender Town Syndrome itself is uniformly classed as fiction; the Wikipedia article on Lavender Town treats it as 'an internet creepypasta' and notes that no underlying real event has been found.",
   "aliases": [
     {
       "name": "Lavender Town Tone",
@@ -33,5 +34,84 @@
   "origin": "Internet-native phenomenon distributed through English- and Japanese-language creepypasta and Pokémon fan communities, with in-game setting in fictional Kanto, Japan.",
   "first_reported": "2010-02-21",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "From Lavender Town (Japanese: シオンタウン Shion Town), the in-game graveyard settlement in 1996's Pokémon Red and Green, plus the medical-sounding 'Syndrome' to mimic a real illness.",
+    "meaning": "'A medical syndrome supposedly caused by the music of Lavender Town' — fictional construct of the creepypasta.",
+    "first_use": "Pastebin post titled 'Lavender Town Syndrome', 21 February 2010."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0,
+    "date_range": {
+      "earliest": "2010",
+      "latest": "2026"
+    }
+  },
+  "timeline": [
+    {
+      "date": "1996-02-27",
+      "event": "Pokémon Red and Pokémon Green released for the Game Boy in Japan, including Lavender Town with its chiptune theme composed by Junichi Masuda",
+      "significance": "Source of the music that the creepypasta would later claim was harmful",
+      "source": "Wikipedia: Lavender Town"
+    },
+    {
+      "date": "1997-12-16",
+      "event": "Pokémon anime episode 'Dennō Senshi Porygon' airs in Japan; flashing red-and-blue strobes hospitalise approximately 700 Japanese children with photosensitive seizures",
+      "significance": "Real precedent later conflated with the Lavender Town Syndrome creepypasta",
+      "source": "Wikipedia: Dennō Senshi Porygon (referenced in Lavender Town article)"
+    },
+    {
+      "date": "2010-02-21",
+      "event": "Pastebin post titled 'Lavender Town Syndrome' originates the creepypasta",
+      "significance": "Origin of the legend",
+      "source": "Wikipedia: Lavender Town"
+    },
+    {
+      "date": "2010-03-01",
+      "event": "Story spreads on 4chan's /x/ board within weeks of the original post",
+      "significance": "Memetic launch of the creepypasta",
+      "source": "Wikipedia: Lavender Town"
+    }
+  ],
+  "related": [
+    {
+      "id": "denno-senshi-porygon-incident",
+      "name": "Dennō Senshi Porygon incident (1997)",
+      "relationship": "related",
+      "description": "Real 1997 Pokémon anime episode that triggered photosensitive seizures in Japanese viewers; frequently confused with Lavender Town Syndrome"
+    },
+    {
+      "id": "ben-drowned",
+      "name": "BEN Drowned",
+      "relationship": "similar",
+      "description": "Major Nintendo-game-themed creepypasta from a similar online era"
+    },
+    {
+      "id": "slender-man",
+      "name": "Slender Man",
+      "relationship": "similar",
+      "description": "Definitive 2009 internet-born creepypasta entity"
+    },
+    {
+      "id": "haunted-cartridge-tropes",
+      "name": "Haunted-cartridge tropes",
+      "relationship": "superset",
+      "description": "Class of creepypasta in which old or rare game cartridges contain hidden malevolent content"
+    }
+  ],
+  "cultural_notes": "Treated within creepypasta communities as an explicitly fictional but evocative horror narrative; periodically resurfaces in mainstream coverage as an example of online moral panic.",
+  "sources": [
+    {
+      "id": "wikipedia-lavender-town",
+      "type": "website",
+      "title": "Lavender Town",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Lavender_Town",
+      "accessed": "2026-05-07"
+    }
+  ],
+  "locations": []
 }

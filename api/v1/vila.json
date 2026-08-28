@@ -3,6 +3,7 @@
   "name": "Vila",
   "category": "fae_folklore",
   "description": "Female nature-spirits of Slavic, especially South Slavic, folklore, often described as beautiful long-haired women in white who dance in mountain meadows and possess powers over weather, healing, and prophecy.",
+  "full_description": "The vila (plural vile) is a Slavic supernatural being most strongly attested in South Slavic folklore (Serbia, Croatia, Bosnia and Herzegovina, Bulgaria, North Macedonia, Slovenia and Montenegro), with regional variants among West Slavs (Czech víla, Polish wiła) and disputed presence further east. Vile are typically described as beautiful young women with long flowing hair and white garments, capable of transforming into swans, falcons, horses, wolves, or whirlwinds. They are associated with mountains, forests, clouds, and bodies of water, and are divided in folkloristic literature into types such as forest-vile (zagorkinje), water-vile (povodne vile) and cloud-vile (zračne vile). Their disposition is famously ambivalent: they may heal, prophesy, befriend heroes as 'blood-sisters' (posestrime) in Serbian and Croatian epic poetry, and reward respectful treatment, but they punish trespassers on their dancing-circles (vilino kolo) and those who steal their belongings, sometimes dancing mortals to exhaustion or death. Folk practice in the Balkans included offerings of food and flowers at caves and springs associated with vile.",
   "aliases": [
     {
       "name": "Vile",
@@ -54,5 +55,94 @@
   "origin": "Strongest attestation in South Slavic folklore (Serbia, Croatia, Bosnia and Herzegovina, North Macedonia, Bulgaria, Slovenia, Montenegro), with regional variants in Czech, Slovak, and Polish tradition. Russian attestation is disputed in scholarship.",
   "first_reported": "Medieval",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Common Slavic; ultimate etymology disputed. Proposed connections include the verb root *vi- 'to wind, twist' (cf. vichъrь 'whirlwind' in Old Church Slavonic) and Indo-European cognates of Sanskrit vāyú- 'wind, air'.",
+    "meaning": "Often glossed in English as 'fairy' or 'nymph'; the underlying sense in folklore is of a wind- or air-bound female spirit.",
+    "first_use": "Vile are attested in medieval South Slavic sources and prominently in Serbian and Bulgarian oral epic and lyric poetry."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "1814-01-01",
+      "event": "Vuk Stefanović Karadžić begins publishing Serbian folk songs in which vile feature prominently",
+      "significance": "Foundational documentation of South Slavic vila lore",
+      "source": "Karadžić, Srpske narodne pjesme"
+    },
+    {
+      "date": "1853-01-01",
+      "event": "Karel Jaromír Erben publishes Kytice, including a treatment of the Bohemian víla",
+      "significance": "Major Czech literary treatment of the víla figure",
+      "source": "Erben, Kytice (1853)"
+    }
+  ],
+  "related": [
+    {
+      "id": "rusalka",
+      "name": "Rusalka",
+      "relationship": "related",
+      "description": "Slavic water spirit, often more dangerous than the vila"
+    },
+    {
+      "id": "samodiva",
+      "name": "Samodiva",
+      "relationship": "regional_variant",
+      "description": "Bulgarian variant of the vila"
+    },
+    {
+      "id": "valkyrie",
+      "name": "Valkyrie",
+      "relationship": "similar",
+      "description": "Norse battle-spirits, sometimes compared to vile in scholarship"
+    },
+    {
+      "id": "nymph",
+      "name": "Greek nymph",
+      "relationship": "similar",
+      "description": "Classical female nature-spirits"
+    },
+    {
+      "id": "fairy",
+      "name": "Western European fairy",
+      "relationship": "similar",
+      "description": "Broader European fairy tradition"
+    }
+  ],
+  "cultural_notes": "Vile are widely understood in folk practice as ambivalent powers: they reward those who respect mountain springs, dancing-grounds, and forest places, and punish those who do not.",
+  "sources": [
+    {
+      "id": "wikipedia-vila",
+      "type": "website",
+      "title": "Vila (fairy)",
+      "url": "https://en.wikipedia.org/wiki/Vila_(fairy)",
+      "publication": "Wikipedia",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "karadzic-1814",
+      "type": "book",
+      "title": "Srpske narodne pjesme (Serbian Folk Songs)",
+      "authors": [
+        "Vuk Stefanović Karadžić"
+      ],
+      "publication": "Various publishers",
+      "date": "1814–1866"
+    },
+    {
+      "id": "erben-1853",
+      "type": "book",
+      "title": "Kytice z pověstí národních (A Bouquet of National Legends)",
+      "authors": [
+        "Karel Jaromír Erben"
+      ],
+      "publication": "Pospíšil",
+      "date": "1853"
+    }
+  ],
+  "locations": []
 }

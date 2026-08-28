@@ -3,6 +3,7 @@
   "name": "Tote-Road Shagamaw",
   "category": "cryptid",
   "description": "A 'fearsome critter' of North American lumberjack folklore, first described in William T. Cox's 1910 Fearsome Creatures of the Lumberwoods. The Shagamaw has the front quarters of a bear and the hindquarters of a moose, and supposedly walks on its forelegs for exactly a quarter of a mile before switching to its hind legs.",
+  "full_description": "The Tote-Road Shagamaw is one of the most absurd creatures in the canon of North American 'fearsome critters' - the tall tales told in lumber camps from the late 19th century through the early 20th. It first appears in print in William T. Cox's Fearsome Creatures of the Lumberwoods, With a Few Desert and Mountain Beasts (Judd & Detweiler, Washington, D.C., 1910), illustrated by Coert Du Bois, with Latin classifications by George B. Sudworth. According to Cox, the Shagamaw was first identified by Gus Demo of Old Town, Maine, an experienced logger and trapper. The creature has the front quarters and forelegs of a bear (with paws) and the hindquarters and hind legs of a moose (with cloven hooves). After observing surveyors tracing perfectly straight lines through the forest, the Shagamaw is said to have learned to imitate them; because it could only count to 440 - the number of paces in a quarter-mile - it switches between walking on its bear forepaws and its moose hooves at exactly that interval. The result is a track that confuses woodsmen, who supposedly fall to fisticuffs accusing each other of being unable to tell a moose track from a bear track. The Shagamaw is a humorous tall tale, never represented as a real animal.",
   "aliases": [
     {
       "name": "Shagamaw",
@@ -32,5 +33,128 @@
   "origin": "Cox locates the Shagamaw in the Maine lumberwoods, with Aroostook County mentioned in his account.",
   "first_reported": "1910",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Coined or recorded by William T. Cox (1910). 'Tote road' is the woodsman's term for a logging-supply road; 'shagamaw' is of unclear derivation, possibly a fanciful word.",
+    "meaning": "'Creature of the tote-road' - a creature seen along logging-supply trails",
+    "first_use": "1910, in Cox's Fearsome Creatures of the Lumberwoods"
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "Pre-1910",
+      "event": "Oral tradition of the Shagamaw circulating in Maine logging camps",
+      "significance": "Cultural baseline",
+      "source": "Lumber-camp oral tradition"
+    },
+    {
+      "date": "1910",
+      "event": "William T. Cox publishes Fearsome Creatures of the Lumberwoods, With a Few Desert and Mountain Beasts (Judd & Detweiler, Washington, D.C.), illustrated by Coert Du Bois, with Latin classifications by George B. Sudworth. Includes the Tote-Road Shagamaw",
+      "significance": "First print appearance; canonical text",
+      "source": "Cox (1910)"
+    },
+    {
+      "date": "1939",
+      "event": "Henry H. Tryon publishes Fearsome Critters (Idlewild Press, Cornwall, NY), expanding the genre",
+      "significance": "Major successor work in the fearsome critters tradition",
+      "source": "Tryon (1939)"
+    }
+  ],
+  "related": [
+    {
+      "id": "fearsome-critters",
+      "name": "Fearsome critters (tradition)",
+      "relationship": "superset",
+      "description": "Genre of North American lumberjack tall-tale beasts"
+    },
+    {
+      "id": "tripodero",
+      "name": "Tripodero",
+      "relationship": "similar",
+      "description": "Another Cox 1910 tall-tale beast"
+    },
+    {
+      "id": "hidebehind",
+      "name": "Hidebehind",
+      "relationship": "similar",
+      "description": "Another lumberjack tall-tale beast"
+    },
+    {
+      "id": "axehandle-hound",
+      "name": "Axehandle Hound",
+      "relationship": "similar",
+      "description": "Another fearsome critter"
+    },
+    {
+      "id": "agropelter",
+      "name": "Agropelter",
+      "relationship": "similar",
+      "description": "Another Cox 1910 critter"
+    },
+    {
+      "id": "splintercat",
+      "name": "Splintercat",
+      "relationship": "similar",
+      "description": "Another Cox 1910 critter"
+    },
+    {
+      "id": "billdad",
+      "name": "Billdad",
+      "relationship": "similar",
+      "description": "Maine fearsome critter (Tryon 1939)"
+    }
+  ],
+  "cultural_notes": "Treated by tellers and listeners as humorous tall tales rather than literal claims.",
+  "sources": [
+    {
+      "id": "wikipedia-fearsomecritters",
+      "type": "website",
+      "title": "Fearsome critters",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Fearsome_critters",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "wikipedia-fclw",
+      "type": "website",
+      "title": "Fearsome Creatures of the Lumberwoods, With a Few Desert and Mountain Beasts",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Fearsome_Creatures_of_the_Lumberwoods,_With_a_Few_Desert_and_Mountain_Beasts",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "cox-1910",
+      "type": "book",
+      "title": "Fearsome Creatures of the Lumberwoods, With a Few Desert and Mountain Beasts",
+      "authors": [
+        "William T. Cox"
+      ],
+      "publication": "Judd & Detweiler, Washington, D.C.",
+      "date": "1910"
+    },
+    {
+      "id": "tryon-1939",
+      "type": "book",
+      "title": "Fearsome Critters",
+      "authors": [
+        "Henry H. Tryon"
+      ],
+      "publication": "Idlewild Press, Cornwall, NY",
+      "date": "1939"
+    },
+    {
+      "id": "lumberwoods-shagamaw",
+      "type": "website",
+      "title": "Tote-Road Shagamaw",
+      "publication": "Lumberwoods (lib.lumberwoods.org)",
+      "url": "http://www.lib.lumberwoods.org/fclw/shagamaw.html",
+      "accessed": "2026-05-07"
+    }
+  ],
+  "locations": []
 }

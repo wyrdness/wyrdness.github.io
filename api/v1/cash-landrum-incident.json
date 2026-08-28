@@ -3,6 +3,7 @@
   "name": "Cash–Landrum incident",
   "category": "ufo_uap",
   "description": "A 1980 close-encounter UFO case in southeast Texas in which Betty Cash, Vickie Landrum, and Vickie's seven-year-old grandson Colby reported a diamond-shaped craft emitting flame and heat, escorted by approximately 23 military helicopters. The witnesses subsequently reported severe injuries consistent, in their physicians' view, with radiation exposure.",
+  "full_description": "The Cash–Landrum incident took place on the evening of December 29, 1980, on a rural two-lane road (FM 1485 / 2100) in dense woods near Dayton, Texas, in the Houston exurbs. Betty Cash (age 51), Vickie Landrum (57), and Landrum's seven-year-old grandson Colby reported that as they returned home from a restaurant they encountered a large, diamond-shaped craft with a flat top and bottom, hovering above the road and emitting a downward cone of flame so intense that it heated the metal of their car. The craft was, according to the witnesses, escorted by approximately 23 helicopters in tight formation, including identifiable Boeing CH-47 Chinooks. In the days that followed, all three witnesses reported nausea, vomiting, headaches, sunburn-like skin reactions, blistering, and hair loss; Cash, who had spent the longest time outside the car, was hospitalized in a critical condition. The case became one of the most-cited 'physical effects' UFO encounters of the 20th century and is unusual for the substantial primary documentation of the witnesses' medical condition. Cash and Landrum sued the U.S. government for $20 million; the case was dismissed in 1986 by U.S. District Court Judge Ross Sterling on the basis that the United States neither owned the object nor operated the helicopters described. The principal investigator was MUFON's John F. Schuessler, an aerospace engineer at NASA's Johnson Space Center; the U.S. Army's own investigation was conducted by Lt. Col. George Sarran. Skeptics including Philip J. Klass, Curt Collins, and Brian Dunning have argued that the medical evidence does not require a UFO explanation and have raised questions about the timeline and corroboration.",
   "aliases": [
     {
       "name": "Cash–Landrum UFO incident",
@@ -31,5 +32,124 @@
   "origin": "Single-incident case located on FM 1485/2100 between New Caney and Huffman, in Liberty County, Texas, with the encounter terminating near Dayton.",
   "first_reported": "1980-12-29",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Named for the principal witnesses, Betty Cash and Vickie Landrum.",
+    "meaning": "Conventional case-name in UFO literature.",
+    "first_use": "Early 1980s, in MUFON case reports."
+  },
+  "sightings_stats": {
+    "total_documented": 1,
+    "verified": 0,
+    "disputed": 1,
+    "debunked": 0,
+    "date_range": {
+      "earliest": "1980-12-29",
+      "latest": "1980-12-29"
+    }
+  },
+  "timeline": [
+    {
+      "date": "1980-12-29",
+      "event": "Cash, Landrum, and Colby Landrum encounter the diamond-shaped craft and helicopter escort near Dayton, Texas",
+      "significance": "The incident itself",
+      "source": "Witness statements; Schuessler (1998)"
+    },
+    {
+      "date": "1981-01-01",
+      "event": "John F. Schuessler (MUFON) begins formal investigation of the case",
+      "significance": "Case enters the UFO research literature",
+      "source": "Schuessler (1998), The Cash-Landrum UFO Incident"
+    },
+    {
+      "date": "1981-08-17",
+      "event": "U.S. Congressman Ron Paul forwards Cash and Landrum's complaint to federal agencies on their behalf",
+      "significance": "Congressional inquiry initiated",
+      "source": "Court records and contemporary press"
+    },
+    {
+      "date": "1982-01-01",
+      "event": "Lt. Col. George Sarran of the U.S. Army Inspector General's office investigates and reports that no Army aviation unit was operating in the area at the relevant time",
+      "significance": "Official military denial of involvement",
+      "source": "Department of the Army inquiry, 1982"
+    },
+    {
+      "date": "1986-08-21",
+      "event": "U.S. District Court Judge Ross N. Sterling dismisses Cash and Landrum's $20 million lawsuit",
+      "significance": "Federal court rules that no U.S. agency was shown to have owned the object or operated the helicopters",
+      "source": "U.S. District Court for the Southern District of Texas"
+    },
+    {
+      "date": "1998-01-01",
+      "event": "John F. Schuessler publishes The Cash-Landrum UFO Incident",
+      "significance": "Definitive book-length treatment of the case from the principal investigator",
+      "source": "Schuessler, J. (1998)"
+    },
+    {
+      "date": "1998-12-29",
+      "event": "Betty Cash dies in Birmingham, Alabama on the eighteenth anniversary of the encounter",
+      "significance": "Her family attributes ongoing illnesses to the encounter; cause-and-effect contested by skeptics",
+      "source": "Schuessler (1998); contemporary press"
+    }
+  ],
+  "related": [
+    {
+      "id": "rendlesham-forest-incident",
+      "name": "Rendlesham Forest incident",
+      "relationship": "similar",
+      "description": "Same-period (December 1980) close-encounter case with multiple witnesses"
+    },
+    {
+      "id": "travis-walton-incident",
+      "name": "Travis Walton incident",
+      "relationship": "similar",
+      "description": "Earlier close-encounter case with claimed physical effects on a witness"
+    }
+  ],
+  "cultural_notes": "Among UFO communities the case is widely treated as one of the strongest physical-effects encounters; in skeptical communities it is treated as a cautionary example of how illness narratives can attach to a misidentified event.",
+  "sources": [
+    {
+      "id": "schuessler-1998",
+      "type": "book",
+      "title": "The Cash-Landrum UFO Incident",
+      "authors": [
+        "John F. Schuessler"
+      ],
+      "publication": "Geo Graphics Printing Company",
+      "date": "1998"
+    },
+    {
+      "id": "wikipedia-cash-landrum",
+      "type": "website",
+      "title": "Cash–Landrum incident",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Cash%E2%80%93Landrum_incident",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "cash-v-us-1986",
+      "type": "archive",
+      "title": "Cash v. United States (Civil Action No. H-81-3441)",
+      "publication": "U.S. District Court for the Southern District of Texas",
+      "date": "1986-08-21"
+    },
+    {
+      "id": "skeptoid-cash-landrum",
+      "type": "article",
+      "title": "The Cash-Landrum UFO Incident",
+      "authors": [
+        "Brian Dunning"
+      ],
+      "publication": "Skeptoid",
+      "url": "https://skeptoid.com/episodes/4441",
+      "accessed": "2026-05-07"
+    }
+  ],
+  "locations": [
+    {
+      "name": "FM 1485 / FM 2100 encounter site",
+      "lat": 30.0925,
+      "lng": -95.1108
+    }
+  ]
 }

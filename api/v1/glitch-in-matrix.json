@@ -3,6 +3,7 @@
   "name": "Glitch in the Matrix",
   "category": "anomaly",
   "description": "An umbrella term, popularized by the 1999 film 'The Matrix', for first-person experiences in which reality appears momentarily to malfunction — déjà vu, objects appearing or disappearing, duplicate strangers, sudden timeline mismatches — and which the experiencer interprets as evidence that the world is a computer simulation.",
+  "full_description": "'Glitch in the Matrix' is a piece of modern internet-era folklore in which first-person reports of unusual perceptual or memory experiences are interpreted as 'glitches' in the underlying computer simulation that, on the simulation hypothesis, is producing the experiencer's reality. The phrase is taken from the 1999 Wachowskis film 'The Matrix' (in which the character Neo experiences a déjà vu that the resistance treats as a real glitch in the simulated world). Typical reported phenomena include: déjà vu, jamais vu, suddenly remembering an event differently from the official record (overlapping with the Mandela effect), seeing a duplicate stranger, watching an object disappear and reappear, brief but vivid mismatches between memory and the world, and the sense of reality 'resetting'. The phenomenon is often discussed alongside the academic simulation hypothesis (Nick Bostrom, 2003), and was the subject of Rodney Ascher's documentary film 'A Glitch in the Matrix' (Sundance premiere, 31 January 2021; theatrical release 5 February 2021). The Reddit community r/Glitch_in_the_Matrix, established in 2009, hosts a large public corpus of self-reports. Cognitive science explains the underlying experiences in well-understood terms — déjà vu, false memory, attention lapses, hypnagogic states, and pareidolia — while not directly addressing the metaphysical claim. The 'glitch' framing is a modern folklore overlay rather than a discrete paranormal entity.",
   "aliases": [
     {
       "name": "Reality glitch",
@@ -31,5 +32,131 @@
   "origin": "A globally distributed, internet-mediated phenomenon, most heavily reported in English-speaking online communities (United States, United Kingdom, Canada, Australia) but with active counterparts in many languages.",
   "first_reported": "1999-03-31",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "From 'The Matrix' (1999), in which Neo's déjà vu is described by Trinity as 'a glitch in the Matrix' — a sign that the simulation has just been altered.",
+    "meaning": "A perceptible irregularity in the operation of the simulation that, on the simulation hypothesis, generates everyday reality.",
+    "first_use": "1999, in the screenplay of 'The Matrix' (Lana and Lilly Wachowski)."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "1999-03-31",
+      "event": "Theatrical release of 'The Matrix' (Wachowskis)",
+      "significance": "Coins the phrase 'glitch in the Matrix' in the popular imagination",
+      "source": "Wikipedia, The Matrix"
+    },
+    {
+      "date": "2003-04-01",
+      "event": "Nick Bostrom publishes 'Are You Living in a Computer Simulation?' in The Philosophical Quarterly 53(211)",
+      "significance": "Brings the simulation hypothesis into mainstream academic philosophy",
+      "source": "Bostrom, N. (2003), Philosophical Quarterly"
+    },
+    {
+      "date": "2009-01-01",
+      "event": "Reddit community r/Glitch_in_the_Matrix is founded",
+      "significance": "Becomes the largest public corpus of first-person glitch-in-the-matrix reports",
+      "source": "Reddit r/Glitch_in_the_Matrix — community age"
+    },
+    {
+      "date": "2021-01-31",
+      "event": "Rodney Ascher's documentary 'A Glitch in the Matrix' premieres at the Sundance Film Festival",
+      "significance": "Mainstream documentary treatment of the phenomenon and the simulation hypothesis",
+      "source": "Wikipedia, A Glitch in the Matrix"
+    },
+    {
+      "date": "2021-02-05",
+      "event": "Theatrical and digital release of 'A Glitch in the Matrix' by Magnolia Pictures",
+      "significance": "Wider distribution of the documentary",
+      "source": "Wikipedia, A Glitch in the Matrix"
+    }
+  ],
+  "related": [
+    {
+      "id": "mandela-effect",
+      "name": "Mandela effect",
+      "relationship": "related",
+      "description": "Shared collective false memories often cited as glitches in the Matrix"
+    },
+    {
+      "id": "time-slips",
+      "name": "Time slips",
+      "relationship": "related",
+      "description": "Reports of brief displacement to other times — frequently reframed as simulation glitches"
+    },
+    {
+      "id": "doppelganger",
+      "name": "Doppelgänger",
+      "relationship": "related",
+      "description": "Sightings of duplicate strangers cited as glitches"
+    },
+    {
+      "id": "deja-vu",
+      "name": "Déjà vu",
+      "relationship": "related",
+      "description": "The canonical 'glitch' experience as framed in The Matrix (1999)"
+    },
+    {
+      "id": "liminal-spaces",
+      "name": "Liminal spaces",
+      "relationship": "related",
+      "description": "Internet aesthetic of unsettling 'in-between' places often described in glitch-in-the-matrix terms"
+    },
+    {
+      "id": "backrooms",
+      "name": "Backrooms",
+      "relationship": "related",
+      "description": "Adjacent internet folklore of reality-glitch settings"
+    }
+  ],
+  "cultural_notes": "Treated by some as serious evidence for the simulation hypothesis, by others as entertainment; the phrase has entered casual English usage to describe any moment when reality 'feels off'.",
+  "sources": [
+    {
+      "id": "wikipedia-a-glitch-in-the-matrix",
+      "type": "website",
+      "title": "A Glitch in the Matrix (film)",
+      "url": "https://en.wikipedia.org/wiki/A_Glitch_in_the_Matrix",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "wikipedia-simulation-hypothesis",
+      "type": "website",
+      "title": "Simulation hypothesis",
+      "url": "https://en.wikipedia.org/wiki/Simulation_hypothesis",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "bostrom-2003",
+      "type": "paper",
+      "title": "Are You Living in a Computer Simulation?",
+      "authors": [
+        "Nick Bostrom"
+      ],
+      "publication": "Philosophical Quarterly",
+      "date": "2003"
+    },
+    {
+      "id": "brown-2004",
+      "type": "book",
+      "title": "The Déjà Vu Experience",
+      "authors": [
+        "Alan S. Brown"
+      ],
+      "publication": "Psychology Press",
+      "date": "2004"
+    },
+    {
+      "id": "reddit-glitch",
+      "type": "website",
+      "title": "r/Glitch_in_the_Matrix",
+      "url": "https://www.reddit.com/r/Glitch_in_the_Matrix/",
+      "accessed": "2026-05-07"
+    }
+  ],
+  "locations": []
 }

@@ -3,6 +3,7 @@
   "name": "Djinn",
   "category": "entity_spirit",
   "description": "An order of supernatural beings in pre-Islamic Arabian religion and in Islam, created (according to the Quran) from smokeless fire. Jinn possess free will, can be Muslim or non-Muslim, and constitute one of the three created orders alongside humans and angels. Western 'genies' are a literary distortion of the tradition.",
+  "full_description": "Jinn (singular jinnī; English djinn) are supernatural beings of pre-Islamic Arabian religion incorporated into Islam as one of three created orders alongside humans (created from clay) and angels (created from light). According to the Quran, jinn were created from a 'smokeless fire' (mārij min nār, Q. 55:15) and are subject like humans to divine judgment, with free will to obey or disobey God. Jinn live alongside humans, generally invisible, and inhabit ruins, deserts, mountains, marketplaces, and human dwellings. The Quran devotes a full surah to them (Sūrat al-Jinn, Q. 72), in which a group of jinn hear the Prophet Muhammad recite and embrace Islam. Iblīs, identified in Q. 18:50 as 'one of the jinn' who refused to bow to Adam, becomes the leader of the shayāṭīn (devils). Classical Islamic sources (al-Jāḥiẓ, al-Damīrī, al-Suyūṭī) and modern studies (notably Amira El-Zein, Islam, Arabs, and the Intelligent World of the Jinn, 2009) describe a typology of jinn including Marid (powerful, often associated with the sea), Ifrīt (powerful and often malevolent), Ghūl (wilderness and graveyard dwellers), Si'lā (female shape-shifters), and Jānn (least-powerful class). King Solomon (Sulaymān) is held to have been granted authority over the jinn (Q. 38:36–38) and to have used them to build temples and works. The Western 'genie of the lamp' figure, popularised by 18th-century European translations of One Thousand and One Nights and especially by the tale of Aladdin (added to the Galland edition c. 1710 from the dictation of Ḥannā Diyāb), gives only a distorted picture: free-will-bearing, religiously-accountable jinn are not the same as Western wish-granting spirits, and the 'three wishes' motif is largely a Western literary invention. Belief in jinn remains an article of mainstream Sunni and Shi'a Islamic doctrine; rituals to seek refuge from jinn (taʿawwudh) and to expel jinn from the possessed (ruqyah) remain part of contemporary Islamic religious practice.",
   "aliases": [
     {
       "name": "Jinn / جن",
@@ -64,5 +65,173 @@
   "origin": "Belief in jinn is universal across the Islamic world and present in regions of pre-Islamic Arabian religious continuity. The jinn appear in folklore from the Maghreb to Southeast Asia.",
   "first_reported": "c. 600",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Arabic root j-n-n (ج-ن-ن), meaning 'to cover, conceal, hide'. Cognate with Aramaic ginnāyē 'tutelary spirits' and possibly with Greek/Latin genius.",
+    "meaning": "'The hidden ones' / 'concealed beings'.",
+    "first_use": "Attested in pre-Islamic Arabic poetry (e.g. of al-Aʿshā) and central to Islamic scripture from the early 7th century CE."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "0610-01-01",
+      "event": "Beginning of Quranic revelation; jinn appear in early Meccan revelations",
+      "significance": "Establishes the Islamic doctrine of jinn",
+      "source": "Quran"
+    },
+    {
+      "date": "0869-01-01",
+      "event": "Al-Jāḥiẓ writes Kitāb al-Ḥayawān (Book of Animals), with extensive treatment of jinn",
+      "significance": "Major early Abbasid scholarly treatment",
+      "source": "Al-Jāḥiẓ (d. 868–869), Kitāb al-Ḥayawān"
+    },
+    {
+      "date": "1372-01-01",
+      "event": "Al-Damīrī's Ḥayāt al-ḥayawān al-kubrā synthesises traditions on jinn",
+      "significance": "Classical encyclopaedic treatment",
+      "source": "Al-Damīrī (1372)"
+    },
+    {
+      "date": "1505-01-01",
+      "event": "Al-Suyūṭī compiles Lāqiṭ al-marjān fī aḥkām al-jānn, a hadith-based treatise on jinn",
+      "significance": "Classical hadith-collection on jinn",
+      "source": "Al-Suyūṭī (d. 1505)"
+    },
+    {
+      "date": "1704-01-01",
+      "event": "Antoine Galland publishes the first volume of Les Mille et une nuits in French",
+      "significance": "Introduces 'le génie' to European literature",
+      "source": "Galland, A. (1704–1717)"
+    },
+    {
+      "date": "1709-01-01",
+      "event": "Galland adds the 'Aladdin and the Wonderful Lamp' tale to volumes IX–X of his translation, drawing on dictation by the Maronite Syrian traveller Ḥannā Diyāb",
+      "significance": "Origin of the Western lamp-genie trope",
+      "source": "Galland's Diary; Diyāb's autobiography"
+    },
+    {
+      "date": "2009-01-01",
+      "event": "Amira El-Zein publishes Islam, Arabs, and the Intelligent World of the Jinn (Syracuse UP)",
+      "significance": "Major modern academic study",
+      "source": "El-Zein, A. (2009)"
+    }
+  ],
+  "related": [
+    {
+      "id": "demons",
+      "name": "Demons (general)",
+      "relationship": "related",
+      "description": "Often conflated with jinn in Western framings, though Islamically distinct"
+    },
+    {
+      "id": "ifrit",
+      "name": "Ifrit",
+      "relationship": "subset",
+      "description": "Powerful jinn class"
+    },
+    {
+      "id": "ghul",
+      "name": "Ghul",
+      "relationship": "subset",
+      "description": "Wilderness jinn class"
+    },
+    {
+      "id": "marid",
+      "name": "Marid",
+      "relationship": "subset",
+      "description": "Powerful, often sea-associated jinn class"
+    },
+    {
+      "id": "iblis",
+      "name": "Iblīs",
+      "relationship": "subset",
+      "description": "The fallen jinn who refused to bow to Adam (Q. 18:50)"
+    },
+    {
+      "id": "div",
+      "name": "Div",
+      "relationship": "counterpart",
+      "description": "Iranian demon class often equated with jinn in Persianate usage"
+    },
+    {
+      "id": "demons",
+      "name": "Shayāṭīn (devils)",
+      "relationship": "related",
+      "description": "Distinct category, including Iblīs and his followers"
+    }
+  ],
+  "cultural_notes": "Belief in jinn is a normative element of mainstream Islamic faith. Practices include recitation of protective surahs, taʿawwudh (seeking refuge in God), use of amulets (taʿāwidh), and ruqyah for possession.",
+  "sources": [
+    {
+      "id": "el-zein-2009",
+      "type": "book",
+      "title": "Islam, Arabs, and the Intelligent World of the Jinn",
+      "authors": [
+        "Amira El-Zein"
+      ],
+      "publication": "Syracuse University Press",
+      "date": "2009",
+      "isbn": "978-0815632009"
+    },
+    {
+      "id": "rothenberg-2004",
+      "type": "book",
+      "title": "Spirits of Palestine: Gender, Society, and Stories of the Jinn",
+      "authors": [
+        "Celia E. Rothenberg"
+      ],
+      "publication": "Lexington Books",
+      "date": "2004",
+      "isbn": "978-0739107744"
+    },
+    {
+      "id": "irwin-1994",
+      "type": "book",
+      "title": "The Arabian Nights: A Companion",
+      "authors": [
+        "Robert Irwin"
+      ],
+      "publication": "Allen Lane",
+      "date": "1994",
+      "isbn": "978-0713990508"
+    },
+    {
+      "id": "zadeh-2014",
+      "type": "paper",
+      "title": "Commanding Demons and Jinn: The Sorcerer in Early Islamic Thought",
+      "authors": [
+        "Travis Zadeh"
+      ],
+      "publication": "Anthropology of the Contemporary Middle East and Central Eurasia",
+      "date": "2014"
+    },
+    {
+      "id": "ei3-djinn",
+      "type": "article",
+      "title": "Djinn",
+      "authors": [
+        "D. B. MacDonald",
+        "H. Massé",
+        "P. N. Boratav",
+        "K. A. Nizami",
+        "P. Voorhoeve"
+      ],
+      "publication": "Encyclopaedia of Islam (2nd edition, Brill)",
+      "date": "1991"
+    },
+    {
+      "id": "wikipedia-jinn",
+      "type": "website",
+      "title": "Jinn",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Jinn",
+      "accessed": "2026-05-07"
+    }
+  ],
+  "locations": []
 }

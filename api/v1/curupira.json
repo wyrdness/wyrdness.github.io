@@ -3,6 +3,7 @@
   "name": "Curupira",
   "category": "entity_spirit",
   "description": "A forest-protector spirit of Tupi-Guaraní tradition in Brazil and neighbouring countries, depicted as a small, red-haired figure with backward-facing feet that punishes hunters who take more than they need and rewards those who respect the forest.",
+  "full_description": "The Curupira is a forest spirit of Tupi-Guaraní origin, attested across Brazil, Paraguay, and the Guianas. Most commonly described as a small, child-like male figure with bright red or flame-coloured hair and feet that point backward, leaving tracks that lead pursuers in the wrong direction. Its earliest documented appearance is in a 31 May 1560 letter by the Jesuit missionary José de Anchieta, in which he describes the Curupira as a feared demon of the forests of São Vicente that strikes Indigenous travellers. As guardian of the forests and their game, the Curupira punishes hunters who kill pregnant or nursing animals, take more than they need, or treat the forest with disrespect, typically by causing them to lose their way, mimicking sounds, or driving them to madness. Conversely, hunters who leave it offerings of tobacco or cachaça are sometimes guided to good hunting. The figure overlaps with — and is often conflated with — the Caipora, which is depicted differently across regions. The Curupira was officially adopted as a symbol of São Paulo state's forest service in 1970 and is widely used as a mascot for Brazilian environmental agencies; it is celebrated annually on Curupira Day, 17 July.",
   "aliases": [
     {
       "name": "Currupira",
@@ -42,5 +43,136 @@
   "origin": "Tupi-Guaraní cultural area: most of Brazil, with strong attestation in the Amazon basin, Atlantic forest, and Cerrado regions; cognate figures in Paraguay and the Guianas.",
   "first_reported": "1560-05-31",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Tupi (Old Tupi); first documented in Portuguese-language writing by Jesuit José de Anchieta in 1560.",
+    "meaning": "The traditional gloss links curu- to a root meaning 'rough' or 'blistered' and -pira to 'body/skin', sometimes rendered 'covered in blisters'. The exact etymology remains debated by Tupinologists.",
+    "first_use": "1560 (Anchieta letter from São Vicente, Brazil)."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "1560-05-31",
+      "event": "Letter of José de Anchieta from São Vicente describes the Curupira",
+      "significance": "Earliest known written reference",
+      "source": "Anchieta, Cartas (publ. 1933, ed. Afrânio Peixoto)"
+    },
+    {
+      "date": "1879",
+      "event": "Couto de Magalhães publishes O Selvagem, with Tupi folktales including Curupira material",
+      "significance": "Foundational 19th-century Brazilian folklore collection",
+      "source": "Couto de Magalhães (1879)"
+    },
+    {
+      "date": "1947",
+      "event": "Luís da Câmara Cascudo's Geografia dos Mitos Brasileiros gives a synthetic regional treatment of the Curupira",
+      "significance": "Key 20th-century scholarly synthesis",
+      "source": "Câmara Cascudo (1947)"
+    },
+    {
+      "date": "1970",
+      "event": "São Paulo State Forest Police adopts the Curupira as its emblem",
+      "significance": "Official environmental adoption",
+      "source": "Polícia Florestal de São Paulo records"
+    },
+    {
+      "date": "2002",
+      "event": "Brazilian environmental agency IBAMA adopts a Curupira-inspired mascot",
+      "significance": "National-level environmental symbolism",
+      "source": "IBAMA institutional materials"
+    },
+    {
+      "date": "2021",
+      "event": "Netflix releases Cidade Invisível (Invisible City), bringing the Curupira to international audiences",
+      "significance": "Major contemporary popular-culture vehicle",
+      "source": "Netflix press materials"
+    }
+  ],
+  "related": [
+    {
+      "id": "caipora",
+      "name": "Caipora",
+      "relationship": "similar",
+      "description": "Closely related Brazilian forest-protector spirit, often conflated with Curupira"
+    },
+    {
+      "id": "saci",
+      "name": "Saci",
+      "relationship": "related",
+      "description": "Brazilian one-legged trickster spirit; part of the same folkloric complex"
+    },
+    {
+      "id": "chullachaqui",
+      "name": "Chullachaqui",
+      "relationship": "similar",
+      "description": "Amazonian Quechua forest spirit with mismatched feet"
+    },
+    {
+      "id": "anchimallen",
+      "name": "Mapinguari",
+      "relationship": "related",
+      "description": "Amazonian forest cryptid with overlapping habitat"
+    },
+    {
+      "id": "leshy",
+      "name": "Leshy",
+      "relationship": "counterpart",
+      "description": "Slavic forest spirit with comparable functions"
+    }
+  ],
+  "cultural_notes": "The Curupira enforces a reciprocal relationship between humans and the forest: respect, restraint, and offering bring its protection; greed and disrespect bring punishment.",
+  "sources": [
+    {
+      "id": "anchieta-1560",
+      "type": "archive",
+      "title": "Cartas, Informações, Fragmentos Históricos e Sermões",
+      "authors": [
+        "José de Anchieta"
+      ],
+      "publication": "Civilização Brasileira (modern edition, ed. Afrânio Peixoto)",
+      "date": "1560 (publ. 1933)"
+    },
+    {
+      "id": "cascudo-1947",
+      "type": "book",
+      "title": "Geografia dos Mitos Brasileiros",
+      "authors": [
+        "Luís da Câmara Cascudo"
+      ],
+      "publication": "José Olympio",
+      "date": "1947"
+    },
+    {
+      "id": "couto-magalhaes-1879",
+      "type": "book",
+      "title": "O Selvagem",
+      "authors": [
+        "José Vieira Couto de Magalhães"
+      ],
+      "publication": "Typographia da Reforma, Rio de Janeiro",
+      "date": "1876"
+    },
+    {
+      "id": "wikipedia-curupira",
+      "type": "website",
+      "title": "Curupira",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Curupira",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "ibama-curupira",
+      "type": "website",
+      "title": "IBAMA institutional materials and mascot information",
+      "publication": "IBAMA",
+      "url": "https://www.gov.br/ibama",
+      "accessed": "2026-05-07"
+    }
+  ],
+  "locations": []
 }

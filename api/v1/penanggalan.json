@@ -3,6 +3,7 @@
   "name": "Penanggalan",
   "category": "undead",
   "description": "The penanggalan is a vampiric female undead of Malay folklore: by day a normal-seeming woman, by night her head detaches and flies through the dark trailing her stomach, lungs, and intestines, hunting the blood of women in childbirth and newborns.",
+  "full_description": "The penanggalan (Malay 'penanggal', from tanggal, 'to detach') is one of the most distinctive vampiric figures in Southeast Asian folklore, particularly associated with the Malay world (Malaysia, Indonesia, Singapore, Brunei) and closely related to similar creatures across the region. By day, the penanggalan is a living woman; at night her head detaches from her body and flies through the air with its viscera - lungs, stomach, and intestines - dangling beneath. The detached head is luminous, said to twinkle like a will-o'-the-wisp. She hunts pregnant women, newborn infants, and women in childbirth, slipping beneath the stilts of traditional Malay houses (rumah panggung) and using her long tongue to drink the blood of the new mother through cracks in the floor. The condition is often acquired through black magic - traditionally a meditation submerged in a vat of vinegar - and the vinegar must be used regularly to shrink the organs back to fit when the head reattaches at dawn. Defences in tradition include scattering thorny pandanus (mengkuang) leaves around the house, looping glass shards on windows, and placing scissors or sharp objects beneath pillows. Direct cognates appear across Southeast Asia: the krasue (Thailand), ahp (Cambodia), kasu (Laos), kuyang and leyak (Indonesia), manananggal (Philippines), and ma lai (Vietnam).",
   "aliases": [
     {
       "name": "Penanggal",
@@ -38,5 +39,119 @@
   "origin": "The penanggalan tradition is centred in the Malay Peninsula and the Malay Archipelago, with directly related variants attested across mainland and maritime Southeast Asia.",
   "first_reported": "1845",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Malay, from the verb tanggal ('to detach, to remove'), with the nominalising prefix peng-/pen- and suffix -an, giving 'one who detaches'.",
+    "meaning": "'(One that) detaches' - a direct reference to the head separating from the body.",
+    "first_use": "Documented in 19th-century Malay literature, including Munsyi Abdullah's Hikayat Abdullah (1845); the underlying tradition is older and oral."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "1845",
+      "event": "Munsyi Abdullah's Hikayat Abdullah includes references to penanggalan beliefs",
+      "significance": "Early Malay-language attestation",
+      "source": "Abdullah bin Abdul Kadir - Hikayat Abdullah (1845)"
+    },
+    {
+      "date": "1900",
+      "event": "Walter William Skeat publishes Malay Magic, with extensive material on penanggalan and related Malay vampiric beliefs",
+      "significance": "Foundational English-language ethnographic record",
+      "source": "Skeat, W. W. - Malay Magic (Macmillan, 1900)"
+    },
+    {
+      "date": "1957",
+      "event": "B. N. Rama Rao directs the Malay film 'Sumpah Orang Minyak' and related Cathay-Keris and Shaw Brothers Malay-horror productions of the 1950s-60s establish the penanggalan and pontianak as cinematic figures",
+      "significance": "Mass-cultural visualisation of the figure",
+      "source": "Cathay-Keris and Shaw Brothers Malay film catalogues"
+    }
+  ],
+  "related": [
+    {
+      "id": "krasue",
+      "name": "Krasue",
+      "relationship": "regional_variant",
+      "description": "Thai equivalent: a floating head with trailing viscera"
+    },
+    {
+      "id": "manananggal",
+      "name": "Manananggal",
+      "relationship": "regional_variant",
+      "description": "Filipino self-segmenting female vampire (torso detaches at the waist rather than head at the neck)"
+    },
+    {
+      "id": "leyak",
+      "name": "Leyak",
+      "relationship": "regional_variant",
+      "description": "Balinese floating head and trailing viscera"
+    },
+    {
+      "id": "ahp",
+      "name": "Ahp",
+      "relationship": "regional_variant",
+      "description": "Cambodian counterpart"
+    },
+    {
+      "id": "ma-lai",
+      "name": "Ma Lai",
+      "relationship": "regional_variant",
+      "description": "Vietnamese counterpart"
+    },
+    {
+      "id": "kuyang",
+      "name": "Kuyang",
+      "relationship": "regional_variant",
+      "description": "Indonesian Dayak counterpart"
+    },
+    {
+      "id": "pontianak",
+      "name": "Pontianak / Kuntilanak",
+      "relationship": "related",
+      "description": "Other female Malay vampiric undead, often associated with childbirth"
+    }
+  ],
+  "cultural_notes": "Pregnant women, women in confinement, and newborns are believed especially vulnerable to penanggalan attack; protective measures include thorny mengkuang leaves, glass shards, sharp objects under the pillow, and Quranic recitation.",
+  "sources": [
+    {
+      "id": "wikipedia-penanggalan",
+      "type": "website",
+      "title": "Penanggalan",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Penanggalan",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "atlas-obscura-penanggalan",
+      "type": "article",
+      "title": "The Malaysian Penanggalan Haunts Pregnant Women and Newborns",
+      "publication": "Atlas Obscura",
+      "url": "https://www.atlasobscura.com/articles/monster-mythology-penanggalan",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "skeat-1900",
+      "type": "book",
+      "title": "Malay Magic: An Introduction to the Folklore and Popular Religion of the Malay Peninsula",
+      "authors": [
+        "Walter William Skeat"
+      ],
+      "publication": "Macmillan",
+      "date": "1900"
+    },
+    {
+      "id": "hikayat-abdullah-1845",
+      "type": "book",
+      "title": "Hikayat Abdullah",
+      "authors": [
+        "Abdullah bin Abdul Kadir (Munsyi Abdullah)"
+      ],
+      "date": "1845"
+    }
+  ],
+  "locations": []
 }

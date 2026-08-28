@@ -3,6 +3,7 @@
   "name": "Corpse Candle",
   "category": "atmospheric_phenomenon",
   "description": "The Corpse Candle (Welsh canwyll corff) is a Welsh death omen: a small, pale, blue or yellow flame seen drifting along country lanes, churchyards, and the route a forthcoming funeral will take, foretelling the death of someone in the household it visits.",
+  "full_description": "The Corpse Candle (Welsh canwyll corff or cannwyll corph, plural canhwyllau corff) is one of the most distinctive figures of Welsh death folklore: a small atmospheric flame, typically described as pale blue, yellow, or white, that drifts at walking pace along an ancient corpse road or lych-way, settles upon the door or window of a doomed house, or marks the route a funeral cortège will shortly take. According to Welsh tradition, the size and brilliance of the flame indicates the age and status of the person about to die — a small dim flame for a child, a brighter one for an adult — and multiple lights may foretell multiple deaths in the same family. The light may be seen by anyone, but particular families and women known as cannwyllwyr are said to have a hereditary gift for seeing them. The phenomenon is documented from at least the 17th century, with the most influential printed account being by the Welsh nonconformist minister Edmund Jones in A Relation of Apparitions of Spirits in the County of Monmouth and the Principality of Wales (1767). Corpse candles form part of a wider Welsh and Celtic 'death-warning' complex that also includes phantom funerals (toili), the cyhyraeth, and the gwrach-y-rhibyn. They are likely related to the same atmospheric ghost-lights known elsewhere as will-o'-the-wisp, ignis fatuus, jack-o'-lantern (English), spunkie (Scots), and feu follet (French). Modern scientific accounts attribute many such sightings to the oxidation of marsh-gas (methane and phosphine) over wetlands, with cold-flame chemistry, bioluminescence, and microlightning between methane bubbles in water proposed as further mechanisms; however, the strongly Welsh death-omen interpretation belongs entirely to folk tradition rather than to natural science.",
   "aliases": [
     {
       "name": "Canwyll Corff",
@@ -59,5 +60,187 @@
   "origin": "Strongly localised to Wales, with secondary occurrences across the Welsh Marches, Cornwall, and parts of Ireland and Scotland; the broader 'death-omen ghost-light' complex extends to most of Northern Europe and to colonial diasporas in the Americas.",
   "first_reported": "1656",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Welsh: canwyll ('candle') + corff ('body, corpse'). The phrase is a direct calque of the Latin candela mortis used in some medieval Welsh ecclesiastical sources.",
+    "meaning": "'Candle of the corpse' or 'corpse candle'.",
+    "first_use": "Welsh-language oral usage long predates documentation; first widely circulated in print through Edmund Jones (1767) in English-language form."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0,
+    "date_range": {
+      "earliest": "Late medieval / early modern Wales",
+      "latest": "20th century"
+    }
+  },
+  "timeline": [
+    {
+      "date": "1656",
+      "event": "Welsh Nonconformist minister Edmund Jones reports being born into a community where corpse-candle tradition is already universal (Jones lived 1702–1793; the tradition predates him by centuries)",
+      "significance": "Background to the 18th-century printed corpus",
+      "source": "Jones, E. (1767), A Relation of Apparitions of Spirits..."
+    },
+    {
+      "date": "1691",
+      "event": "Richard Baxter, in The Certainty of the Worlds of Spirits, prints Welsh accounts of corpse candles",
+      "significance": "Earliest substantial English-language printed record",
+      "source": "Baxter, R. (1691)"
+    },
+    {
+      "date": "1767",
+      "event": "Edmund Jones publishes A Relation of Apparitions of Spirits in the County of Monmouth and the Principality of Wales",
+      "significance": "Becomes the foundational printed source for the canwyll corff tradition",
+      "source": "Jones, E. (1767)"
+    },
+    {
+      "date": "1779",
+      "event": "Jones reissues an expanded edition with further corpse-candle narratives",
+      "significance": "Cements the literary canon of Welsh apparition lore",
+      "source": "Jones, E. (1779)"
+    },
+    {
+      "date": "1880",
+      "event": "American journalist Wirt Sikes publishes British Goblins: Welsh Folk-Lore, Fairy Mythology, Legends, and Traditions, devoting substantial space to canwyll corff",
+      "significance": "Brings the tradition to a wide Anglophone Victorian readership",
+      "source": "Sikes, W. (1880)"
+    },
+    {
+      "date": "1909",
+      "event": "Marie Trevelyan publishes Folk-Lore and Folk-Stories of Wales, including extensive corpse-candle material",
+      "significance": "Most ambitious single Welsh-language and Anglo-Welsh folklore compendium of its era",
+      "source": "Trevelyan, M. (1909)"
+    },
+    {
+      "date": "1959",
+      "event": "T. Gwynn Jones, Welsh Folklore and Folk-Custom, is reissued, summarising and contextualising the canwyll corff",
+      "significance": "Modern academic synthesis",
+      "source": "Jones, T. G. (1930; reissued 1959)"
+    }
+  ],
+  "related": [
+    {
+      "id": "will-o-wisp",
+      "name": "Will-o'-the-wisp",
+      "relationship": "superset",
+      "description": "General English term for atmospheric ghost-lights in marshes and over churchyards"
+    },
+    {
+      "id": "st-elmos-fire",
+      "name": "St Elmo's Fire",
+      "relationship": "similar",
+      "description": "Atmospheric corona-discharge phenomenon often grouped with ghost-lights in folk tradition"
+    },
+    {
+      "id": "marfa-lights",
+      "name": "Marfa Lights",
+      "relationship": "similar",
+      "description": "American mystery-lights phenomenon in Texas"
+    },
+    {
+      "id": "min-min-lights",
+      "name": "Min Min Lights",
+      "relationship": "similar",
+      "description": "Australian outback ghost-lights with similar folkloric weight"
+    },
+    {
+      "id": "hessdalen-lights",
+      "name": "Hessdalen Lights",
+      "relationship": "similar",
+      "description": "Norwegian mystery-light phenomenon under active scientific study"
+    },
+    {
+      "id": "cyhyraeth",
+      "name": "Cyhyraeth",
+      "relationship": "related",
+      "description": "Welsh banshee-like death-omen, often appearing alongside corpse candles"
+    },
+    {
+      "id": "wild-hunt",
+      "name": "Phantom Funeral (toili)",
+      "relationship": "related",
+      "description": "Welsh phantom funeral procession that often accompanies or follows the corpse-candle's route"
+    }
+  ],
+  "cultural_notes": "The canwyll corff is treated within Welsh tradition as a real and serious sign, neither lightly invoked nor mocked; the appropriate response is prayer and preparation for the death of a known parishioner.",
+  "sources": [
+    {
+      "id": "national-library-wales-canwyll",
+      "type": "website",
+      "title": "One dark night: Tales of the 'Cannwyll Corff'",
+      "publication": "National Library of Wales",
+      "url": "https://www.library.wales/news/article/one-dark-night-tales-of-the-cannwyll-corff",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "wikipedia-will-o-wisp",
+      "type": "website",
+      "title": "Will-o'-the-wisp",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Will-o%27-the-wisp",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "jones-1767",
+      "type": "book",
+      "title": "A Relation of Apparitions of Spirits in the County of Monmouth and the Principality of Wales",
+      "authors": [
+        "Edmund Jones"
+      ],
+      "publication": "Trefeca",
+      "date": "1767"
+    },
+    {
+      "id": "sikes-1880",
+      "type": "book",
+      "title": "British Goblins: Welsh Folk-Lore, Fairy Mythology, Legends, and Traditions",
+      "authors": [
+        "Wirt Sikes"
+      ],
+      "publication": "Sampson Low, Marston, Searle & Rivington, London",
+      "date": "1880"
+    },
+    {
+      "id": "trevelyan-1909",
+      "type": "book",
+      "title": "Folk-Lore and Folk-Stories of Wales",
+      "authors": [
+        "Marie Trevelyan"
+      ],
+      "publication": "Elliot Stock, London",
+      "date": "1909"
+    },
+    {
+      "id": "tgwynn-jones-1930",
+      "type": "book",
+      "title": "Welsh Folklore and Folk-Custom",
+      "authors": [
+        "T. Gwynn Jones"
+      ],
+      "publication": "Methuen, London",
+      "date": "1930"
+    },
+    {
+      "id": "burialsandbeyond-corpse-candles",
+      "type": "website",
+      "title": "Corpse Candles",
+      "publication": "Burials & Beyond",
+      "url": "https://burialsandbeyond.com/2021/05/09/corpse-candles/",
+      "accessed": "2026-05-07"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Monmouthshire (Edmund Jones country)",
+      "lat": 51.79,
+      "lng": -2.95
+    },
+    {
+      "name": "Carmarthenshire and Pembrokeshire",
+      "lat": 51.88,
+      "lng": -4.58
+    }
+  ]
 }

@@ -3,6 +3,7 @@
   "name": "El Cadejo",
   "category": "entity_spirit",
   "description": "A Central American spirit that takes the form of a large dog, appearing in two opposing variants: a benevolent white cadejo that protects nocturnal travellers and a malevolent black cadejo (sometimes identified with the Devil) that harms them.",
+  "full_description": "El Cadejo (Spanish, sometimes 'el Cadejos' in Costa Rica) is a supernatural dog of Central American folklore, present across Guatemala, El Salvador, Honduras, Nicaragua, Costa Rica, Panama, and several Mexican states. It appears in two opposing variants: a white cadejo that protects travellers — particularly drunkards — through the night, and a black cadejo (sometimes equated with the Devil) that attempts to harm them. The creature is described as a large, shaggy, dog- or wolf-like animal of cow-like size, with glowing red eyes when aggressive and blue eyes when calm; common features include goat hooves, dragging chains, and an intense goat-like odour. In Costa Rica and Panama only the malevolent (black) form is recognised. Folkloric protection includes religious phrases and crossing oneself, with a regional formula recorded as 'con permiso, compadre Alejo'. The legend is widely understood as a syncretic complex blending Spanish colonial Catholicism with pre-Columbian Mesoamerican beliefs about naguales (animal spiritual doubles), in which the dog occupied a sacred psychopomp role guiding the dead.",
   "aliases": [
     {
       "name": "Cadejo blanco",
@@ -39,5 +40,97 @@
   "origin": "Folkloric range across Central America (Guatemala, El Salvador, Honduras, Nicaragua, Costa Rica, Panama) with extensions into several Mexican states.",
   "first_reported": "19th century",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Spanish 'cadejo' is recorded in regional dictionaries as a tangle or skein (of hair, fibre); the folkloric figure's name may evoke the matted, shaggy appearance of the creature. The underlying mythological substrate draws on Maya and Nahua nahualism.",
+    "meaning": "Folkloric: the shaggy/tangled dog-like spirit. Lexical: 'tangle' (rope, hair).",
+    "first_use": "Present in 19th-century Central American folklore collections; standardised in 20th-century compilations such as those of Salarrué and Sergio Ramírez."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "1933-01-01",
+      "event": "Salvadoran writer Salarrué (Salvador Salazar Arrué) publishes 'Cuentos de barro', helping to canonise cadejo narratives in literary form",
+      "significance": "Influential literary preservation of Salvadoran cadejo folklore",
+      "source": "Salazar Arrué, S. (1933)"
+    },
+    {
+      "date": "1996-01-01",
+      "event": "Sergio Ramírez and other Central American writers continue to anthologise cadejo material in regional collections",
+      "significance": "Ongoing literary engagement with the figure",
+      "source": "Ramírez, S. (1996), 'Cuentos completos'"
+    }
+  ],
+  "related": [
+    {
+      "id": "black-dog",
+      "name": "Black Dog",
+      "relationship": "similar",
+      "description": "British folkloric large black dog spirit (Black Shuck, Barghest, etc.)"
+    },
+    {
+      "id": "rolling-calf",
+      "name": "Rolling Calf",
+      "relationship": "similar",
+      "description": "Jamaican chained malevolent animal-form duppy"
+    },
+    {
+      "id": "cu-sith",
+      "name": "Cù-Sìth",
+      "relationship": "similar",
+      "description": "Scottish fairy hound"
+    },
+    {
+      "id": "nahual",
+      "name": "Nahual",
+      "relationship": "related",
+      "description": "Mesoamerican animal-double / shapeshifter tradition"
+    }
+  ],
+  "cultural_notes": "Looking the black cadejo in the eye, turning one's back, or speaking to it is held to risk madness; protection is sought through prayer, the sign of the cross, and regional formulas.",
+  "sources": [
+    {
+      "id": "salarrue-1933",
+      "type": "book",
+      "title": "Cuentos de barro",
+      "authors": [
+        "Salvador Salazar Arrué (Salarrué)"
+      ],
+      "publication": "El Salvador",
+      "date": "1933"
+    },
+    {
+      "id": "ramirez-1996",
+      "type": "book",
+      "title": "Cuentos completos",
+      "authors": [
+        "Sergio Ramírez"
+      ],
+      "publication": "Alfaguara",
+      "date": "1996"
+    },
+    {
+      "id": "lara-figueroa-1990",
+      "type": "book",
+      "title": "Por los viejos barrios de la Ciudad de Guatemala",
+      "authors": [
+        "Celso Lara Figueroa"
+      ],
+      "publication": "Editorial Universitaria, USAC",
+      "date": "1990"
+    },
+    {
+      "id": "wikipedia-cadejo",
+      "type": "website",
+      "title": "Cadejo",
+      "url": "https://en.wikipedia.org/wiki/Cadejo",
+      "accessed": "2026-05-07"
+    }
+  ],
+  "locations": []
 }

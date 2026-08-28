@@ -3,6 +3,7 @@
   "name": "Nang Kwak",
   "category": "entity_spirit",
   "description": "A benevolent female household deity of Thai folk religion, regarded as the patron of merchants and a bringer of customers and prosperity. Depicted as a beautiful woman in red Thai dress, kneeling, with her right hand raised in a beckoning gesture.",
+  "full_description": "Nang Kwak (Thai: นางกวัก, literally 'Lady of Beckoning') is a Thai folk deity venerated as the patron of merchants and as a household bringer of fortune, customers, and wealth. She is iconographically depicted as a beautiful young woman, typically wearing a red Thai dress and a golden crown, sitting or kneeling in the traditional Thai posture. Her right hand is raised in the Thai gesture of beckoning a customer — palm curved and pointing downward — and her left hand either rests at her side or holds a bag of gold near her lap. Statuettes, amulets, and yantra cloths (pha yant) bearing her image appear in nearly every Thai shop, restaurant, and market stall, and her cult has spread to ethnic-Thai and Chinese-Thai businesses across Southeast Asia and as far as Hong Kong. Two principal origin stories are told: a Buddhist legend in which she is identified with Nang Supawadee, a merchant's daughter who becomes a lay Buddhist and is blessed for her devotion, and a tradition linking her to the Thai Ramakien (Ramayana), positioning her as a daughter of Pu Chao Khao Khiao. She is closely associated and sometimes compared with the rice goddess Mae Phosop and the Hindu goddess Lakshmi, and is iconographically convergent with the Japanese maneki-neko (beckoning cat).",
   "aliases": [
     {
       "name": "นางกวัก",
@@ -38,5 +39,49 @@
   "origin": "Veneration is centered in Thailand and extends to ethnic-Thai and Chinese-Thai communities across Southeast Asia, with documented presence in Hong Kong.",
   "first_reported": "Unknown",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Thai นาง (nang, 'lady') + กวัก (kwak, 'to beckon' in the Thai gesture).",
+    "meaning": "Literally 'Lady of Beckoning'.",
+    "first_use": "The figure is well-attested in modern Thai folk religion; the precise date of textual emergence is uncertain."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [],
+  "related": [
+    {
+      "id": "mae-phosop",
+      "name": "Mae Phosop",
+      "relationship": "related",
+      "description": "Thai rice goddess, also a feminine prosperity figure"
+    },
+    {
+      "id": "lakshmi",
+      "name": "Lakshmi",
+      "relationship": "similar",
+      "description": "Hindu goddess of wealth and fortune"
+    },
+    {
+      "id": "maneki-neko",
+      "name": "Maneki-neko",
+      "relationship": "counterpart",
+      "description": "Japanese beckoning cat, iconographically convergent"
+    }
+  ],
+  "cultural_notes": "Nang Kwak is treated as a present and effective patron of merchants, called upon at the opening of businesses and venerated daily in Thai shops.",
+  "sources": [
+    {
+      "id": "wikipedia-nang-kwak",
+      "type": "website",
+      "title": "Nang Kwak",
+      "publication": "English Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Nang_Kwak",
+      "accessed": "2026-05-07"
+    }
+  ],
+  "locations": []
 }

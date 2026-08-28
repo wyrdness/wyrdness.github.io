@@ -3,6 +3,7 @@
   "name": "Jorōgumo",
   "category": "shapeshifter",
   "description": "The Jorōgumo is a spider yōkai of Japanese folklore, traditionally said to be a Trichonephila clavata that has lived for centuries and gained the power to take the form of a beautiful woman, luring men to ensnare and devour. Famous as the haunt of Jōren Falls in the Izu Peninsula.",
+  "full_description": "The Jorōgumo is a class of spider yōkai (妖怪) in Japanese folklore. The kanji 絡新婦 (literally 'entangling bride / newlywed') is the literary form; the homophonous 女郎蜘蛛 ('woman spider' or 'whore spider') is used in everyday and entomological writing for the real-world golden silk orb-weaver Trichonephila (formerly Nephila) clavata. Folk and Edo-period literary sources describe the Jorōgumo as a spider that, having lived for several hundred years, gains supernatural powers including the ability to transform into a beautiful woman, control her silk threads, and (in some accounts) breathe fire and command smaller fire-breathing spiders. She lures men — typically itinerant samurai, woodcutters, or travelers — to isolated waterfalls, mountain pools, or empty houses, plays seductive music (often the biwa), and binds them in supernaturally strong silk before consuming them. The most famous regional legend places her at the Jōren Falls (浄蓮の滝) on the Izu Peninsula in Shizuoka Prefecture, where a woodcutter is said to have escaped after being warned never to speak of what he saw — a vow he eventually breaks at his own peril. Major early literary sources are the Edo-period kaidan collections Tonoigusa (1660, by Ogita Ansei) and Taihei Hyakumonogatari (1732, anonymous), and Toriyama Sekien's illustrated bestiary Gazu Hyakki Yagyō (画図百鬼夜行, 1776), which depicts the Jorōgumo manipulating fire-breathing spiders. The figure remains a fixture of modern Japanese horror, manga (e.g. xxxHolic), anime, and video games.",
   "aliases": [
     {
       "name": "絡新婦",
@@ -39,5 +40,115 @@
   "origin": "Native to Japanese folklore, with regional legends concentrated in central and western Honshu, especially the Izu Peninsula (Shizuoka), Kashikobuchi (Sendai, Miyagi), and the mountain forests of Kyoto and Kii.",
   "first_reported": "1660",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Japanese; the literary spelling 絡新婦 ('entangling new bride') puns on the homophonous 女郎蜘蛛 ('woman / courtesan spider'), the everyday name of the real Trichonephila clavata orb-weaver",
+    "meaning": "'Entangling bride' (literary) / 'Whore spider' or 'woman spider' (everyday)",
+    "first_use": "Edo-period kaidan literature: Tonoigusa (1660); Taihei Hyakumonogatari (1732); Toriyama Sekien's Gazu Hyakki Yagyō (1776)"
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "1660",
+      "event": "Ogita Ansei's kaidan collection Tonoigusa (宿直草) records an early Jorōgumo tale",
+      "significance": "Foundational literary source",
+      "source": "Ogita Ansei, Tonoigusa (1660)"
+    },
+    {
+      "date": "1732",
+      "event": "Anonymous publication of Taihei Hyakumonogatari (太平百物語), containing Jorōgumo stories",
+      "significance": "Continued codification of the figure",
+      "source": "Taihei Hyakumonogatari (1732)"
+    },
+    {
+      "date": "1776",
+      "event": "Toriyama Sekien publishes Gazu Hyakki Yagyō (画図百鬼夜行), illustrating the Jorōgumo with fire-breathing spider attendants",
+      "significance": "Most influential Edo-period image of the Jorōgumo",
+      "source": "Toriyama Sekien (1776)"
+    }
+  ],
+  "related": [
+    {
+      "id": "tsuchigumo",
+      "name": "Tsuchigumo",
+      "relationship": "related",
+      "description": "Earlier Japanese 'earth spider' yokai of the medieval period"
+    },
+    {
+      "id": "kitsune",
+      "name": "Kitsune",
+      "relationship": "similar",
+      "description": "Fox-yokai shapeshifter of Japanese folklore; shares femme-fatale and seductive-shapeshifter motifs"
+    },
+    {
+      "id": "yuki-onna",
+      "name": "Yuki-onna",
+      "relationship": "similar",
+      "description": "Snow-woman shapeshifter; shares the lure-then-destroy motif"
+    },
+    {
+      "id": "rusalka",
+      "name": "Rusalka",
+      "relationship": "similar",
+      "description": "Slavic water-spirit female shapeshifter who lures men"
+    }
+  ],
+  "cultural_notes": "Treated in modern Japan as canonical folklore rather than living belief; remains a beloved figure of regional tourism (Jōren Falls) and popular culture.",
+  "sources": [
+    {
+      "id": "wikipedia-jorogumo",
+      "type": "website",
+      "title": "Jorōgumo",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Jor%C5%8Dgumo",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "sekien-1776",
+      "type": "book",
+      "title": "Gazu Hyakki Yagyō (画図百鬼夜行)",
+      "authors": [
+        "Toriyama Sekien"
+      ],
+      "date": "1776"
+    },
+    {
+      "id": "tonoigusa-1660",
+      "type": "book",
+      "title": "Tonoigusa (宿直草)",
+      "authors": [
+        "Ogita Ansei"
+      ],
+      "date": "1660"
+    },
+    {
+      "id": "taihei-1732",
+      "type": "book",
+      "title": "Taihei Hyakumonogatari (太平百物語)",
+      "date": "1732"
+    },
+    {
+      "id": "foster-2015",
+      "type": "book",
+      "title": "The Book of Yōkai: Mysterious Creatures of Japanese Folklore",
+      "authors": [
+        "Michael Dylan Foster"
+      ],
+      "publication": "University of California Press",
+      "date": "2015",
+      "isbn": "978-0520271029"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Jōren Falls (浄蓮の滝)",
+      "lat": 34.8825,
+      "lng": 138.9508
+    }
+  ]
 }

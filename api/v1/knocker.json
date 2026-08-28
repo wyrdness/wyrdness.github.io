@@ -3,6 +3,7 @@
   "name": "Knocker",
   "category": "fae_folklore",
   "description": "A small, wrinkled, miner-clad subterranean fairy of Cornish and Devon folklore, said to inhabit mines and to make knocking sounds in the rock — sometimes guiding miners toward rich tin or copper veins, sometimes warning of imminent collapse, and sometimes maliciously punishing whistlers or thieves.",
+  "full_description": "The knocker (also knacker or, in the United States, Tommyknocker) is a mythical underground fairy or gnome of Cornish and Devon folklore, with cognates across the British Isles (Welsh coblyn) and German-speaking mining regions (Bergmännlein, Wichtel, mine-kobold). Cornish folk tradition describes the knocker as a 'little person' about two feet tall, with a disproportionately large head, long arms, wrinkled skin, white whiskers, and a tiny set of miner's clothing complete with cap and pickaxe. Knockers were a fixture of pre-modern and Victorian Cornish tin and copper mines, where their characteristic 'knockings' on the rock walls were variously interpreted as either friendly guidance toward rich ore veins or warnings of imminent rockfalls and cave-ins. In return, the miners — a largely Methodist working culture nonetheless deeply attached to the knockers — left small offerings, especially the last bite of a Cornish pasty, at the rock face. Etiquette forbade whistling underground (which knockers reportedly hated) and crossing them in any way. When Cornish and Welsh miners emigrated en masse in the 1820s and after to the silver, gold, and copper fields of western Pennsylvania, Colorado, Nevada, and California, they took the knocker with them, where the figure was rebranded as the 'Tommyknocker' and survived in mining communities as a working folk belief well into the 20th century. A widely repeated 1956 anecdote has the descendants of Cornish 'Cousin Jack' miners petitioning a closing California mine's owners to seal it in a way that 'set the knockers free' to find work in other mines.",
   "aliases": [
     {
       "name": "Knacker",
@@ -64,5 +65,153 @@
   "origin": "Concentrated in Cornwall and Devon (England) and Wales, with diaspora presence in mining communities of Pennsylvania, Colorado, Nevada, California, Wisconsin, and Michigan, USA — wherever Cornish 'Cousin Jack' miners settled.",
   "first_reported": "1700s",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "From English 'knock' + agent suffix '-er' — 'one who knocks' — referring to the characteristic mine-wall knocking attributed to the spirit. 'Tommyknocker' is American slang derived from the Cornish term, possibly with 'Tommy' as a generic familiar name for an Englishman.",
+    "meaning": "'The knocker' — a knocking spirit of the mines.",
+    "first_use": "Documented in 19th-century Cornish folklore collections; the Tommyknocker variant is documented in American mining communities from the mid-19th century onward."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0,
+    "date_range": {
+      "earliest": "n/a",
+      "latest": "n/a"
+    }
+  },
+  "timeline": [
+    {
+      "date": "1820-01-01",
+      "event": "Cornish and Welsh miners begin large-scale emigration to U.S. mining districts, taking the knocker tradition to Pennsylvania, then Colorado, Nevada, and California",
+      "significance": "Diaspora of the belief",
+      "source": "Lynn Bonelli and other Cornish-American historiography"
+    },
+    {
+      "date": "1865-01-01",
+      "event": "Robert Hunt publishes 'Popular Romances of the West of England' with substantial knocker material",
+      "significance": "Foundational printed source",
+      "source": "Hunt, R. (1865)"
+    },
+    {
+      "date": "1870-01-01",
+      "event": "William Bottrell publishes 'Traditions and Hearthside Stories of West Cornwall' with further knocker tales",
+      "significance": "Companion ethnographic source",
+      "source": "Bottrell, W. (1870–80)"
+    },
+    {
+      "date": "1956-01-01",
+      "event": "Closing of a California mine prompts Cornish-American 'Cousin Jack' descendants to petition the mine owners to release the knockers so they can move to other workings",
+      "significance": "Living-belief moment frequently cited in American mining folklore",
+      "source": "Cornish-American oral tradition; cited by Wikipedia and Legends of America"
+    },
+    {
+      "date": "1987-01-01",
+      "event": "Stephen King's novel 'The Tommyknockers' publishes, popularizing the term in American horror fiction",
+      "significance": "Modern pop-cultural diffusion",
+      "source": "Stephen King, The Tommyknockers (Putnam, 1987)"
+    }
+  ],
+  "related": [
+    {
+      "id": "coblyn",
+      "name": "Coblyn",
+      "relationship": "regional_variant",
+      "description": "Welsh mining-spirit cognate"
+    },
+    {
+      "id": "kobold",
+      "name": "Mine Kobold",
+      "relationship": "similar",
+      "description": "German underground spirit; sometimes equated with the knocker"
+    },
+    {
+      "id": "leprechaun",
+      "name": "Leprechaun",
+      "relationship": "related",
+      "description": "Irish solitary fairy; commonly grouped with knockers in 19th-century comparative folklore"
+    },
+    {
+      "id": "brownie",
+      "name": "Brownie",
+      "relationship": "similar",
+      "description": "British domestic helpful spirit with similar conditional behavior"
+    },
+    {
+      "id": "tommyknocker",
+      "name": "Tommyknocker",
+      "relationship": "regional_variant",
+      "description": "American mining-camp form of the knocker"
+    }
+  ],
+  "cultural_notes": "Respect the knockers: leave the last bite of a pasty, never whistle underground, never make the sign of the cross or speak ill of them. Pay attention to unexplained knocks — they may save your life or mark a vein.",
+  "sources": [
+    {
+      "id": "wikipedia-knocker",
+      "type": "website",
+      "title": "Knocker (folklore)",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Knocker_(folklore)",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "exeter-ics-knockers",
+      "type": "article",
+      "title": "Knockers, Tommyknockers and the Question of Ghosts",
+      "publication": "Institute of Cornish Studies, University of Exeter",
+      "url": "https://www.exeter.ac.uk/research/centres/ics/research/cornish-diaspora/knockerstommyknockersandthequestionofghosts/",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "hunt-1865",
+      "type": "book",
+      "title": "Popular Romances of the West of England",
+      "authors": [
+        "Robert Hunt"
+      ],
+      "publication": "John Camden Hotten",
+      "date": "1865"
+    },
+    {
+      "id": "bottrell-1870",
+      "type": "book",
+      "title": "Traditions and Hearthside Stories of West Cornwall",
+      "authors": [
+        "William Bottrell"
+      ],
+      "date": "1870"
+    },
+    {
+      "id": "legends-of-america-tommyknockers",
+      "type": "website",
+      "title": "Tommyknockers of the Western Mines",
+      "publication": "Legends of America",
+      "url": "https://www.legendsofamerica.com/gh-tommyknockers/",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "king-1987",
+      "type": "book",
+      "title": "The Tommyknockers",
+      "authors": [
+        "Stephen King"
+      ],
+      "publication": "G. P. Putnam's Sons",
+      "date": "1987",
+      "isbn": "978-0399133145"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Cornish tin mines (St Just / Geevor district)",
+      "lat": 50.1242,
+      "lng": -5.6733
+    },
+    {
+      "name": "Comstock Lode",
+      "lat": 39.3097,
+      "lng": -119.6493
+    }
+  ]
 }

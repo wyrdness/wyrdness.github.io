@@ -3,6 +3,7 @@
   "name": "Gillygaloo",
   "category": "cryptid",
   "description": "A fearsome critter from North American lumberjack tall-tale tradition: a hillside-dwelling bird famous for laying square or cubic eggs that will not roll downhill. Documented as a piece of camp folklore rather than a claimed real animal.",
+  "full_description": "The gillygaloo is one of the so-called 'fearsome critters' of the North American logging-camp tall-tale tradition. According to lumberjack folklore, the gillygaloo nests on the steepest mountain slopes — Pyramid Forty was a famous fictional location in the Paul Bunyan cycle — and has solved the engineering problem of nesting on a slope by laying square or cubic eggs that cannot roll away. The eggs were said to be much prized by lumberjacks, who hard-boiled them and used them as dice. The gillygaloo is part of a wider repertoire of mock-zoological 'critters' invented and elaborated in 19th- and early 20th-century logging camps in the Great Lakes region, New England, the Pacific Northwest, and Canada, used for hazing greenhorns and entertaining co-workers. Standard primary sources include William T. Cox's 'Fearsome Creatures of the Lumberwoods' (1910), Henry H. Tryon's 'Fearsome Critters' (1939), and Paul Bunyan tall-tale collections; the gillygaloo also appears in Jorge Luis Borges's 'Book of Imaginary Beings' (1957/1969). The creature is universally treated as folklore, not a real organism.",
   "aliases": [
     {
       "name": "Gilly Galloo",
@@ -27,5 +28,123 @@
   "origin": "A folkloric creature 'reported' across the geography of the North American lumberjack tradition: the Great Lakes states (Michigan, Wisconsin, Minnesota), New England (Maine), the Pacific Northwest, and Canada.",
   "first_reported": "1900-01-01",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Coined within the North American lumberjack tall-tale tradition; etymology unknown but consistent with the playful, alliterative naming style of the fearsome critters (cf. agropelter, hidebehind, sidehill gouger).",
+    "meaning": "No documented meaning beyond its function as a comic critter-name.",
+    "first_use": "Early 20th century in lumberjack camp tradition; published in fearsome-critter compendia from 1910 onward."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "1910-01-01",
+      "event": "William T. Cox publishes 'Fearsome Creatures of the Lumberwoods, With a Few Desert and Mountain Beasts', the first major published compendium of fearsome critters",
+      "significance": "Foundational fearsome-critter publication",
+      "source": "Cox, W. T. (1910)"
+    },
+    {
+      "date": "1939-01-01",
+      "event": "Henry H. Tryon publishes 'Fearsome Critters'",
+      "significance": "Second major fearsome-critter compendium",
+      "source": "Tryon, H. H. (1939)"
+    },
+    {
+      "date": "1957-01-01",
+      "event": "Jorge Luis Borges and Margarita Guerrero publish 'Manual de zoología fantástica', expanded as 'El libro de los seres imaginarios' (1967); the Gillygaloo is included",
+      "significance": "Brings the Gillygaloo into international literary circulation",
+      "source": "Borges, J. L. & Guerrero, M. (1957/1967)"
+    }
+  ],
+  "related": [
+    {
+      "id": "fearsome-critters",
+      "name": "Fearsome critters",
+      "relationship": "superset",
+      "description": "Gillygaloo is a member of the broader fearsome-critter tradition"
+    },
+    {
+      "id": "goofang",
+      "name": "Goofang",
+      "relationship": "similar",
+      "description": "Another lumberwoods fearsome critter (a fish that swims backwards)"
+    },
+    {
+      "id": "hugag",
+      "name": "Hugag",
+      "relationship": "similar",
+      "description": "Lumberwoods fearsome critter described in Cox 1910"
+    },
+    {
+      "id": "squonk",
+      "name": "Squonk",
+      "relationship": "similar",
+      "description": "Another Cox 1910 critter"
+    },
+    {
+      "id": "sidehill-gouger",
+      "name": "Sidehill gouger",
+      "relationship": "similar",
+      "description": "Hillside-adapted fearsome critter (with shorter legs on one side) — same hill-dwelling adaptation joke"
+    },
+    {
+      "id": "axehandle-hound",
+      "name": "Axehandle hound",
+      "relationship": "similar",
+      "description": "Another fearsome critter of the lumberwoods"
+    }
+  ],
+  "cultural_notes": "Treated as humour and hazing material rather than literal belief; the genre is a self-aware fiction shared between experienced lumberjacks and newcomers.",
+  "sources": [
+    {
+      "id": "cox-1910",
+      "type": "book",
+      "title": "Fearsome Creatures of the Lumberwoods, With a Few Desert and Mountain Beasts",
+      "authors": [
+        "William T. Cox"
+      ],
+      "publication": "Press of Judd & Detweiler",
+      "date": "1910"
+    },
+    {
+      "id": "tryon-1939",
+      "type": "book",
+      "title": "Fearsome Critters",
+      "authors": [
+        "Henry H. Tryon"
+      ],
+      "publication": "The Idlewild Press",
+      "date": "1939"
+    },
+    {
+      "id": "borges-1967",
+      "type": "book",
+      "title": "The Book of Imaginary Beings (El libro de los seres imaginarios)",
+      "authors": [
+        "Jorge Luis Borges",
+        "Margarita Guerrero"
+      ],
+      "publication": "Editorial Kier",
+      "date": "1967"
+    },
+    {
+      "id": "wikipedia-fearsome-critters",
+      "type": "website",
+      "title": "Fearsome critters",
+      "url": "https://en.wikipedia.org/wiki/Fearsome_critters",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "wikipedia-cox-1910",
+      "type": "website",
+      "title": "Fearsome Creatures of the Lumberwoods, With a Few Desert and Mountain Beasts",
+      "url": "https://en.wikipedia.org/wiki/Fearsome_Creatures_of_the_Lumberwoods,_With_a_Few_Desert_and_Mountain_Beasts",
+      "accessed": "2026-05-07"
+    }
+  ],
+  "locations": []
 }

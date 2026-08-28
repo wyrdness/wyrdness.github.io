@@ -3,6 +3,7 @@
   "name": "Haunted Places",
   "category": "location",
   "description": "Haunted places are locations across the world where paranormal activity — apparitions, unexplained sounds, sensations, or anomalies — is repeatedly reported by independent witnesses over time. They are studied as a form of ghostlore (a sub-genre of folklore) and underpin a substantial global ghost-tourism industry.",
+  "full_description": "'Haunted places' is the cross-cultural meta-category of locations where paranormal activity is repeatedly reported. Wikipedia's List of reportedly haunted locations catalogs sites across more than 47 countries, including castles, palaces, asylums and former psychiatric hospitals, prisons and detention sites, hotels, theatres, ships, battlefields, cemeteries, residential buildings, and ordinary roads and bridges. Folklorists treat these reports as a form of ghostlore — a sub-genre of folklore — rather than as evidence of literal entities, but the persistence and convergence of such reports at certain sites has long attracted both popular and scholarly attention. Repeatedly named globally famous examples include Poveglia (Italy), the Tower of London and Edinburgh Castle (UK), the Catacombs of Paris and Sedlec Ossuary (Europe), Bhangarh Fort (India), Aokigahara forest (Japan), Eastern State Penitentiary and Alcatraz (USA), Port Arthur (Tasmania), the S-21/Tuol Sleng museum (Cambodia), and Recoleta Cemetery (Argentina). Modern paranormal investigation organizations and TV programmes use a mix of historical documentation, eyewitness testimony, and sensor-based equipment (EMF meters, audio recorders, infrared cameras), while academic researchers tend to examine the environmental, neurological, and cultural factors — infrasound, electromagnetic fields, expectation, suggestibility, and culturally transmitted narrative — that contribute to haunting experiences. Ghost tourism is now a multi-billion-dollar global industry, with formal ghost tours operating at most of the most famous sites.",
   "aliases": [
     {
       "name": "Haunted locations",
@@ -31,5 +32,126 @@
   "origin": "Global. Wikipedia's List of reportedly haunted locations covers more than 47 countries across every inhabited continent.",
   "first_reported": "Pre-modern",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Old English haunten via Old French hanter ('to frequent, resort to'); a 'haunted place' is one that ghosts are said to frequent.",
+    "meaning": "A location where ghosts or other paranormal phenomena are repeatedly reported.",
+    "first_use": "The application of 'haunted' to ghosts is attested in English from at least the 16th century."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "0100-01-01",
+      "event": "Pliny the Younger writes to Lucius Licinius Sura describing a haunted house in Athens (the Athenodorus story), one of the earliest preserved Western haunted-house narratives",
+      "significance": "Establishes a literate Western tradition of haunted-place reportage",
+      "source": "Pliny the Younger, Epistulae VII.27"
+    },
+    {
+      "date": "1848-03-31",
+      "event": "Hydesville rappings — the Fox sisters' alleged communications begin, catalyzing modern Spiritualism in the United States",
+      "significance": "Launches the modern Spiritualist era, in which haunted houses become central cultural objects",
+      "source": "Various 19th-century Spiritualist sources"
+    },
+    {
+      "date": "2004-10-06",
+      "event": "Ghost Hunters (TAPS) premieres on Sci Fi Channel",
+      "significance": "Launches the modern television ghost-investigation genre and amplifies many haunted-place legends",
+      "source": "Sci Fi Channel"
+    }
+  ],
+  "related": [
+    {
+      "id": "ghost-haunting",
+      "name": "Ghost / haunting",
+      "relationship": "superset",
+      "description": "The general category of ghost phenomena instantiated at haunted places"
+    },
+    {
+      "id": "helltown-ohio",
+      "name": "Helltown, Ohio",
+      "relationship": "subset",
+      "description": "One specific haunted-locations cluster"
+    },
+    {
+      "id": "poveglia",
+      "name": "Poveglia",
+      "relationship": "subset",
+      "description": "Specific famous haunted location in Italy"
+    },
+    {
+      "id": "tower-of-london",
+      "name": "Tower of London",
+      "relationship": "subset",
+      "description": "Specific famous haunted location in the UK"
+    },
+    {
+      "id": "ghost-tourism",
+      "name": "Ghost tourism",
+      "relationship": "related",
+      "description": "Tourism industry built around haunted places"
+    }
+  ],
+  "cultural_notes": "Belief in haunted places is one of the most globally widespread paranormal beliefs, attested across nearly all human cultures and frequently surveyed at high prevalence in modern populations.",
+  "sources": [
+    {
+      "id": "wiki-haunted-list",
+      "type": "website",
+      "title": "List of reportedly haunted locations",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/List_of_reportedly_haunted_locations",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "tandy-lawrence-1998",
+      "type": "paper",
+      "title": "The Ghost in the Machine",
+      "authors": [
+        "Vic Tandy",
+        "Tony R. Lawrence"
+      ],
+      "publication": "Journal of the Society for Psychical Research",
+      "date": "1998"
+    },
+    {
+      "id": "pliny-letter",
+      "type": "book",
+      "title": "Epistulae VII.27 (letter to Lucius Licinius Sura on the haunted house in Athens)",
+      "authors": [
+        "Pliny the Younger"
+      ],
+      "date": "c. 100 CE"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Tower of London",
+      "lat": 51.5081,
+      "lng": -0.0759
+    },
+    {
+      "name": "Poveglia",
+      "lat": 45.3811,
+      "lng": 12.3331
+    },
+    {
+      "name": "Eastern State Penitentiary",
+      "lat": 39.9684,
+      "lng": -75.1726
+    },
+    {
+      "name": "Bhangarh Fort",
+      "lat": 27.0967,
+      "lng": 76.2856
+    },
+    {
+      "name": "Port Arthur",
+      "lat": -43.1466,
+      "lng": 147.85
+    }
+  ]
 }

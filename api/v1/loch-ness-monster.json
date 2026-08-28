@@ -3,6 +3,7 @@
   "name": "Loch Ness Monster",
   "category": "cryptid",
   "description": "A large aquatic cryptid said to inhabit Loch Ness, a deep freshwater lake in the Scottish Highlands. The most reported lake monster in the world, with a continuous record of sightings since the 1930s and a distant precursor in the 6th-century Life of St. Columba.",
+  "full_description": "The Loch Ness Monster, popularly known as Nessie, is a large aquatic cryptid reported in Loch Ness, a deep freshwater loch on the Great Glen Fault in the Scottish Highlands. The modern phenomenon began in 1933 after a new road, the A82, was built along the loch's northern shore and opened up clear views of the water. Witnesses typically describe a long-necked, dark-coloured animal with one or more humps, sometimes interpreted as a relict plesiosaur. A succession of investigations — culminating in the Loch Ness Phenomena Investigation Bureau (1962–1972), Robert Rines's Academy of Applied Science underwater work in the 1970s, the 1987 sonar sweep Operation Deepscan, and the 2018–2019 environmental DNA survey led by Neil Gemmell of the University of Otago — has consistently failed to recover any large unknown vertebrate. The eDNA survey detected no reptile DNA but a notably strong eel signal. The scientific consensus treats Nessie as a folkloric phenomenon explained by misidentification of waves, boat wakes, otters, deer, large eels, and other mundane phenomena, alongside a long history of confirmed hoaxes. The legend supports a substantial Highland tourism economy and remains internationally recognisable.",
   "aliases": [
     {
       "name": "Nessie",
@@ -34,5 +35,227 @@
   "origin": "Reports are confined to Loch Ness in the Scottish Highlands, with a minor secondary tradition (the Morag) in the nearby Loch Morar.",
   "first_reported": "565 CE",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "The English phrase 'Loch Ness Monster' was coined in May 1933 by Inverness Courier editor Evan Barron, in instructions to reporter Alex Campbell to use that wording in coverage of the Mackay sighting. The diminutive 'Nessie' followed in popular usage.",
+    "meaning": "Loch Ness, the lake; 'monster' in the popular cryptid sense.",
+    "first_use": "1933 (Inverness Courier, Scotland)"
+  },
+  "sightings_stats": {
+    "total_documented": 1100,
+    "verified": 0,
+    "disputed": 900,
+    "debunked": 50,
+    "date_range": {
+      "earliest": "565",
+      "latest": "2026"
+    }
+  },
+  "timeline": [
+    {
+      "date": "c. 565",
+      "event": "Adomnán records Columba's encounter with a 'water beast' in the River Ness",
+      "significance": "Earliest written reference cited in modern Nessie literature, although it concerns the river rather than the loch",
+      "source": "Adomnán, Vita Sancti Columbae (c. 700 CE)"
+    },
+    {
+      "date": "1933-04-15",
+      "event": "John Mackay and Aldie Mackay report a large 'whale-like' creature in the loch",
+      "significance": "First widely-reported modern sighting; published 2 May 1933 in the Inverness Courier under Alex Campbell's byline",
+      "source": "Inverness Courier (1933-05-02)"
+    },
+    {
+      "date": "1933-07-22",
+      "event": "George Spicer and his wife report a long-necked creature crossing the road in front of their car near Whitefield",
+      "significance": "First widely-reported land sighting; established the long-necked image of Nessie",
+      "source": "Inverness Courier (1933-08-04)"
+    },
+    {
+      "date": "1933-11-12",
+      "event": "Hugh Gray takes the first published photograph of a putative monster near Foyers",
+      "significance": "First photograph; widely argued to show a dog with a stick or a swan",
+      "source": "Daily Record (Glasgow), December 1933"
+    },
+    {
+      "date": "1934-04-19",
+      "event": "Robert Kenneth Wilson takes the 'Surgeon's Photograph'",
+      "significance": "Became the iconic image of Nessie for 60 years",
+      "source": "Daily Mail (London), 1934-04-21"
+    },
+    {
+      "date": "1960-04-23",
+      "event": "Tim Dinsdale films a moving dark hump at Foyers",
+      "significance": "First widely-circulated film footage; later analysed by the Royal Air Force JARIC",
+      "source": "Dinsdale, T. (1961), Loch Ness Monster"
+    },
+    {
+      "date": "1962",
+      "event": "Loch Ness Phenomena Investigation Bureau (LNIB) founded by David James, Peter Scott, Richard Fitter, and others",
+      "significance": "First sustained scientific watching programme",
+      "source": "LNIB annual reports (1962–1972)"
+    },
+    {
+      "date": "1972-08-08",
+      "event": "Robert Rines's Academy of Applied Science team obtains underwater 'flipper' photographs in Urquhart Bay",
+      "significance": "Used by Rines and Peter Scott to propose the binomial Nessiteras rhombopteryx",
+      "source": "Rines, R. et al. (1976), Technology Review"
+    },
+    {
+      "date": "1987-10",
+      "event": "Operation Deepscan deploys 24 boats with echo-sounders across the loch in a synchronized sweep, led by Adrian Shine",
+      "significance": "Largest sonar survey ever attempted at Loch Ness; reports a small number of unexplained mid-water contacts",
+      "source": "Loch Ness Project / Operation Deepscan press release (1987)"
+    },
+    {
+      "date": "1994-03",
+      "event": "Christian Spurling tells David Martin and Alastair Boyd that the 1934 Surgeon's Photograph was a hoax constructed with a toy submarine",
+      "significance": "Definitive debunking of the iconic image",
+      "source": "Sunday Telegraph (1994-03-13); Boyd & Martin (1999), Nessie: The Surgeon's Photograph Exposed"
+    },
+    {
+      "date": "2003",
+      "event": "BBC team led by Ian Florence and Hugh Davies sweeps the entire loch with 600 sonar beams and satellite tracking, finding no large animal",
+      "significance": "Most comprehensive pre-eDNA negative result",
+      "source": "BBC News, 2003-07-27"
+    },
+    {
+      "date": "2019-09-05",
+      "event": "Neil Gemmell of the University of Otago releases the results of a 2018–2019 environmental DNA survey of Loch Ness",
+      "significance": "Found no reptile DNA, no large fish DNA, but high quantities of European eel DNA",
+      "source": "Loch Ness Hunters press conference, Drumnadrochit (2019-09-05)"
+    }
+  ],
+  "related": [
+    {
+      "id": "champ",
+      "name": "Champ",
+      "relationship": "similar",
+      "description": "Reported lake monster of Lake Champlain on the Vermont/New York/Quebec border"
+    },
+    {
+      "id": "ogopogo",
+      "name": "Ogopogo",
+      "relationship": "similar",
+      "description": "Reported lake monster of Okanagan Lake, British Columbia"
+    },
+    {
+      "id": "morag",
+      "name": "Morag",
+      "relationship": "regional_variant",
+      "description": "Reported lake monster of Loch Morar, also in the Scottish Highlands"
+    },
+    {
+      "id": "lagarfljotsormur",
+      "name": "Lagarfljót Worm",
+      "relationship": "similar",
+      "description": "Reported aquatic cryptid of Lagarfljót, Iceland"
+    },
+    {
+      "id": "selma",
+      "name": "Seljordsormen (Selma)",
+      "relationship": "similar",
+      "description": "Reported lake monster of Lake Seljord, Norway"
+    }
+  ],
+  "cultural_notes": "Highland tradition long includes water-horse and water-bull beings inhabiting deep lochs; the modern Nessie sits within and partly displaces this older tradition.",
+  "sources": [
+    {
+      "id": "loxton-prothero-2013",
+      "type": "book",
+      "title": "Abominable Science: Origins of the Yeti, Nessie, and Other Famous Cryptids",
+      "authors": [
+        "Daniel Loxton",
+        "Donald R. Prothero"
+      ],
+      "publication": "Columbia University Press",
+      "date": "2013",
+      "isbn": "978-0231153201"
+    },
+    {
+      "id": "dinsdale-1961",
+      "type": "book",
+      "title": "Loch Ness Monster",
+      "authors": [
+        "Tim Dinsdale"
+      ],
+      "publication": "Routledge & Kegan Paul",
+      "date": "1961"
+    },
+    {
+      "id": "binns-1983",
+      "type": "book",
+      "title": "The Loch Ness Mystery Solved",
+      "authors": [
+        "Ronald Binns"
+      ],
+      "publication": "Open Books",
+      "date": "1983",
+      "isbn": "978-0729003766"
+    },
+    {
+      "id": "whyte-1957",
+      "type": "book",
+      "title": "More Than a Legend: The Story of the Loch Ness Monster",
+      "authors": [
+        "Constance Whyte"
+      ],
+      "publication": "Hamish Hamilton",
+      "date": "1957"
+    },
+    {
+      "id": "boyd-martin-1999",
+      "type": "book",
+      "title": "Nessie: The Surgeon's Photograph Exposed",
+      "authors": [
+        "Alastair Boyd",
+        "David Martin"
+      ],
+      "publication": "Martin & Boyd",
+      "date": "1999",
+      "isbn": "978-0952723004"
+    },
+    {
+      "id": "scott-rines-1975",
+      "type": "paper",
+      "title": "Naming the Loch Ness monster",
+      "authors": [
+        "Peter Scott",
+        "Robert Rines"
+      ],
+      "publication": "Nature",
+      "date": "1975",
+      "doi": "10.1038/258466a0"
+    },
+    {
+      "id": "wikipedia-lnm",
+      "type": "website",
+      "title": "Loch Ness Monster",
+      "url": "https://en.wikipedia.org/wiki/Loch_Ness_Monster",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "otago-edna-2019",
+      "type": "website",
+      "title": "Loch Ness eDNA survey results",
+      "url": "https://www.otago.ac.nz/news/news/otago719096.html",
+      "accessed": "2026-05-07"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Urquhart Bay / Castle Urquhart",
+      "lat": 57.3242,
+      "lng": -4.4406
+    },
+    {
+      "name": "Dores Beach",
+      "lat": 57.3833,
+      "lng": -4.3333
+    },
+    {
+      "name": "Foyers",
+      "lat": 57.25,
+      "lng": -4.4833
+    }
+  ]
 }

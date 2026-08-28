@@ -3,6 +3,7 @@
   "name": "Black-Eyed Children",
   "category": "entity_spirit",
   "description": "A late-1990s internet-born paranormal legend describing encounters with apparently human children or teenagers whose eyes are entirely black, who appear unannounced at doors or vehicles, and who request entry in an unsettlingly insistent way.",
+  "full_description": "Black-Eyed Children (BEK) are a contemporary paranormal phenomenon and internet-era folkloric figure. The modern legend was launched in January 1996 when Texan reporter Brian Bethel posted to a ghost-related mailing list a personal account of encountering two boys, aged about 9 and 12, with completely black eyes — sclera, iris, and pupil all jet black — who tried to persuade him to let them into his car outside a movie theatre in Abilene, Texas. Bethel's post mentioned a second, unrelated sighting reported from Portland, Oregon. The post circulated widely on the early web and inspired a steady stream of similar accounts from other witnesses, particularly through paranormal forums in the early 2000s. The figures are typically described as resembling normal children or teenagers, often pale-skinned, sometimes oddly dressed, who knock at doors or windows and ask insistently to be let in. Witnesses report a strong sense of unease, often well before the eye anomaly is noticed. Folklorists including Sharon A. Hill have analysed BEK accounts as friend-of-a-friend narratives following the contours of long-standing 'don't open the door' folklore. Snopes and similar fact-checking outlets categorise the phenomenon as legend rather than evidence.",
   "aliases": [
     {
       "name": "BEK",
@@ -30,5 +31,127 @@
   "origin": "Reports concentrated in the United States (particularly Texas, the Pacific Northwest, and the Midwest), with later international reports in the United Kingdom, Australia, and elsewhere as the legend circulated online.",
   "first_reported": "1996-01-01",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Coined as a descriptive label in Brian Bethel's 1996 internet posts and 1998 'A Strange Encounter With Black-Eyed Kids' column.",
+    "meaning": "Children or teenagers with completely black eyes — no visible whites, irises, or pupils.",
+    "first_use": "1996 (Brian Bethel ghost-related mailing list post)"
+  },
+  "sightings_stats": {
+    "date_range": {
+      "earliest": "1996",
+      "latest": "2020s"
+    }
+  },
+  "timeline": [
+    {
+      "date": "1996-01-01",
+      "event": "Brian Bethel posts his Abilene, Texas, account to a ghost-related mailing list",
+      "significance": "Birth of the modern BEK legend",
+      "source": "Bethel, B., mailing-list post (1996)"
+    },
+    {
+      "date": "1998",
+      "event": "Bethel publishes 'A Strange Encounter With Black-Eyed Kids' as a column",
+      "significance": "Brings the story to a much wider audience",
+      "source": "Bethel, B. (1998), Abilene Reporter-News column"
+    },
+    {
+      "date": "2012",
+      "event": "Bethel appears on the Discovery Channel series Monsters and Mysteries in America discussing his 1996 encounter",
+      "significance": "First major television exposure",
+      "source": "Monsters and Mysteries in America, season 1"
+    },
+    {
+      "date": "2013",
+      "event": "MSN's Weekly Strange airs an episode on Black-Eyed Children reports",
+      "significance": "Mainstreams the legend further",
+      "source": "MSN Weekly Strange (2013)"
+    },
+    {
+      "date": "2014-09",
+      "event": "UK Daily Star runs three sensationalist front-page stories on Cannock Chase BEK reports",
+      "significance": "Drives the second wave of public interest",
+      "source": "Daily Star, September 2014"
+    },
+    {
+      "date": "2014",
+      "event": "Independent horror film Black Eyed Kids enters Kickstarter funding",
+      "significance": "First feature-length cinematic treatment",
+      "source": "Kickstarter campaign (2014)"
+    }
+  ],
+  "related": [
+    {
+      "id": "men-in-black",
+      "name": "Men in Black",
+      "relationship": "similar",
+      "description": "Earlier 'uncanny visitor' folklore in UFO contexts"
+    },
+    {
+      "id": "shadow-people",
+      "name": "Shadow People",
+      "relationship": "similar",
+      "description": "Modern entity sightings often described in similar witness terms"
+    },
+    {
+      "id": "doppelganger",
+      "name": "Doppelgänger",
+      "relationship": "related",
+      "description": "Uncanny human-shaped entity tradition"
+    },
+    {
+      "id": "vanishing-hitchhiker",
+      "name": "Vanishing Hitchhiker",
+      "relationship": "similar",
+      "description": "Friend-of-a-friend modern legend pattern"
+    },
+    {
+      "id": "slenderman",
+      "name": "Slenderman",
+      "relationship": "similar",
+      "description": "Internet-born entity folklore (later, 2009)"
+    }
+  ],
+  "cultural_notes": "BEK belief is a feature of online paranormal subcultures; it has not penetrated mainstream institutional belief or practice.",
+  "sources": [
+    {
+      "id": "wikipedia-bek",
+      "type": "website",
+      "title": "Black-eyed children",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Black-eyed_children",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "weatherly-2012",
+      "type": "book",
+      "title": "Black Eyed Children",
+      "authors": [
+        "David Weatherly"
+      ],
+      "publication": "Leprechaun Press",
+      "date": "2012"
+    },
+    {
+      "id": "snopes-bek",
+      "type": "website",
+      "title": "Black-Eyed Kids",
+      "publication": "Snopes",
+      "url": "https://www.snopes.com/fact-check/black-eyed-children/",
+      "accessed": "2026-05-07"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Abilene, Texas",
+      "lat": 32.45,
+      "lng": -99.74
+    },
+    {
+      "name": "Cannock Chase, Staffordshire",
+      "lat": 52.74,
+      "lng": -2
+    }
+  ]
 }

@@ -3,6 +3,7 @@
   "name": "The Backrooms",
   "category": "urban_legend",
   "description": "An internet-born horror concept describing an endless extradimensional maze of empty yellow-walled office space, reached by 'no-clipping' out of reality. Originated as a single anonymous 4chan /x/ post on 12 May 2019 and grew into a sprawling collaborative fictional universe.",
+  "full_description": "The Backrooms is a collaborative internet horror phenomenon that originated on 12 May 2019, when an anonymous user posted a now-iconic image to 4chan's /x/ board in a thread asking for 'images that just feel off'. A second anonymous user responded with the description: 'If you're not careful and you noclip out of reality in the wrong areas, you'll end up in the Backrooms, where it's nothing but the stink of old moist carpet, the madness of mono-yellow, the endless background noise of fluorescent lights at maximum hum-buzz, and approximately six hundred million square miles of randomly segmented empty rooms to be trapped in.' The premise spread rapidly across Reddit, YouTube, and dedicated wikis, and was gradually elaborated into a multi-level fictional cosmology — 'Level 0' (the original yellow rooms) is one of hundreds of imagined levels with their own hostile entities, communities ('M.E.G.', 'B.N.T.G.', etc.), and rules. In January 2022 a then 16-year-old YouTuber named Kane Parsons (Kane Pixels) released 'The Backrooms (Found Footage)', a Blender-rendered VHS-style short that re-energised the concept and accumulated over 70 million views. On 6 February 2023 A24 announced a feature-length adaptation directed by Parsons, with James Wan producing through Atomic Monster. The originating photograph was identified in May 2024 by online investigators as a 12 June 2002 image of a HobbyTown USA store under renovation in Oshkosh, Wisconsin. The Backrooms is a prominent contemporary example of how 'liminal space' aesthetics — empty, transitional, and uncanny familiar places — combine with collaborative internet fiction to produce a new form of folkloric horror.",
   "aliases": [
     {
       "name": "Level 0",
@@ -34,5 +35,125 @@
   "origin": "The Backrooms is a digital-era folkloric phenomenon distributed over the global Anglophone internet — primarily through 4chan, Reddit, YouTube, dedicated wikis (backrooms.wikidot.com, backrooms-wiki.fandom.com), and TikTok.",
   "first_reported": "2019-05-12",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Coined in an anonymous 4chan /x/ reply on 12 May 2019 to a thread requesting 'unsettling' images.",
+    "meaning": "Refers to the 'rooms behind' ordinary reality — accessible only by an accidental glitch ('no-clipping' through the world).",
+    "first_use": "12 May 2019 — anonymous /x/ post on 4chan."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "2002-06-12",
+      "event": "Photograph later identified as the originating image is taken inside a HobbyTown USA store undergoing renovation in Oshkosh, Wisconsin.",
+      "significance": "Real-world source of the iconic photograph; identified retrospectively in 2024.",
+      "source": "Internet investigators (May 2024); reporting on Wikipedia 'The Backrooms'."
+    },
+    {
+      "date": "2019-05-12",
+      "event": "Anonymous user posts the now-iconic photograph in a 4chan /x/ thread requesting unsettling images; a second user replies with the 'noclip' description, naming the Backrooms.",
+      "significance": "Birth of the phenomenon.",
+      "source": "Archived 4chan /x/ thread; Know Your Meme; Wikipedia."
+    },
+    {
+      "date": "2019",
+      "event": "Backrooms wiki(s) (initially backrooms.wikidot.com, later Fandom and others) are launched, expanding the canon to multiple 'levels'.",
+      "significance": "Beginning of multi-level collaborative canon.",
+      "source": "Backrooms Wikidot; Fandom Backrooms wiki."
+    },
+    {
+      "date": "2022-01-07",
+      "event": "Kane Parsons (Kane Pixels) uploads 'The Backrooms (Found Footage)' to YouTube.",
+      "significance": "Reignites mainstream interest; video accumulates tens of millions of views.",
+      "source": "Kane Pixels YouTube channel."
+    },
+    {
+      "date": "2023-02-06",
+      "event": "A24 announces feature-film adaptation directed by Kane Parsons with James Wan producing via Atomic Monster.",
+      "significance": "First major studio adaptation.",
+      "source": "A24 / Atomic Monster announcement (reported by Variety, Deadline, 6 Feb 2023)."
+    },
+    {
+      "date": "2024-05",
+      "event": "Online investigators identify the original photograph as taken on 12 June 2002 in a HobbyTown USA store in Oshkosh, Wisconsin, then under renovation.",
+      "significance": "Real-world provenance of the iconic image is established.",
+      "source": "Reported by Wired, Polygon, and others; summarised on Wikipedia."
+    }
+  ],
+  "related": [
+    {
+      "id": "liminal-spaces",
+      "name": "Liminal spaces aesthetic",
+      "relationship": "superset",
+      "description": "Broader online aesthetic of empty, transitional places that the Backrooms helped popularise."
+    },
+    {
+      "id": "scp-foundation",
+      "name": "SCP Foundation",
+      "relationship": "similar",
+      "description": "Earlier collaborative-fiction wiki universe of anomalous phenomena."
+    },
+    {
+      "id": "creepypasta",
+      "name": "Creepypasta",
+      "relationship": "superset",
+      "description": "Genre of short internet horror fiction that the Backrooms emerged from."
+    },
+    {
+      "id": "weirdcore",
+      "name": "Weirdcore",
+      "relationship": "related",
+      "description": "Adjacent visual aesthetic of off-kilter, low-fidelity images."
+    },
+    {
+      "id": "house-of-leaves",
+      "name": "House of Leaves",
+      "relationship": "similar",
+      "description": "Mark Z. Danielewski's 2000 novel about an impossibly larger interior space, often cited as a precursor."
+    }
+  ],
+  "cultural_notes": "Treated by virtually all participants as collaborative fiction with no claim to literal truth, while drawing on the genuinely uncanny psychology of empty interior spaces.",
+  "sources": [
+    {
+      "id": "wikipedia-backrooms",
+      "type": "website",
+      "title": "The Backrooms — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/The_Backrooms",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "kym-backrooms",
+      "type": "website",
+      "title": "The Backrooms — Know Your Meme",
+      "url": "https://knowyourmeme.com/memes/the-backrooms",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "backrooms-wikidot",
+      "type": "website",
+      "title": "The Backrooms Wiki (Wikidot)",
+      "url": "https://backrooms.wikidot.com",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "backrooms-fandom",
+      "type": "website",
+      "title": "Backrooms Wiki (Fandom)",
+      "url": "https://backrooms-wiki.fandom.com",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "kane-pixels-youtube",
+      "type": "website",
+      "title": "Kane Pixels — YouTube channel",
+      "url": "https://www.youtube.com/@kanepixels",
+      "accessed": "2026-05-07"
+    }
+  ],
+  "locations": []
 }

@@ -3,6 +3,7 @@
   "name": "Clurichaun",
   "category": "fae_folklore",
   "description": "The clurichaun is a solitary fairy of Irish folklore: a small, red-faced, perpetually drunk male sprite who haunts wine cellars, breweries, and pubs, protecting the household's drink if respected and souring it if mistreated.",
+  "full_description": "The clurichaun (Irish clúrachán) is a solitary fairy from Irish folklore, closely related to and sometimes regarded as a variant of the leprechaun. Like the leprechaun he is a small male sprite with a red face, twinkling eyes, and elaborate dress (in T. Crofton Croker's classic 1825 description, a red nightcap, leather apron, light-blue stockings, and silver-buckled shoes). His defining trait, however, is his appetite for drink: the clurichaun is found in wine cellars, brewhouses, and stables, almost invariably drunk, smoking a pipe and singing. Treated kindly and given a share of the household's beer or wine, he becomes a guardian spirit of the cellar, keeping casks from spoiling and barrels from leaking; offended or refused, he turns destructive — souring drink, spoiling barrels, riding sheep and dogs through the night, and generally wrecking the property. Some Irish folklorists, including W. B. Yeats in Fairy and Folk Tales of the Irish Peasantry (1888), regard the clurichaun simply as a leprechaun on a drinking spree at night. Crofton Croker, in his Fairy Legends and Traditions of the South of Ireland (1825), preserves the most influential single tale: 'The Haunted Cellar', set near Carrick-on-Suir in County Tipperary, in which a clurichaun named Naggeneen attaches himself to a household and follows the family even after they try to move away. Regional names — Lurigadawne in Tipperary, His Lan Dun in Donegal, Lurikeen in Kildare, and Logheryman in Ulster — testify to the wide attestation of the figure across Munster, Leinster, and Ulster.",
   "aliases": [
     {
       "name": "Clúrachán",
@@ -60,5 +61,145 @@
   "origin": "Reports cluster in the southern half of Ireland — particularly Munster (Cork, Tipperary, Limerick, Waterford) — but regional variants are recorded across Leinster, parts of Ulster, and west into Connacht.",
   "first_reported": "1825",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Irish: clúrachán, of disputed origin. Some scholars derive it from clobhair-ceann, others from a contraction including luath ('swift') or refer it to Old Irish clúrach. Crofton Croker offers the popular etymology clúir-cheann, 'one-jug-headed'.",
+    "meaning": "Conventionally rendered 'cellar fairy' or 'drunken fairy'.",
+    "first_use": "Earliest English-language print attestation in T. Crofton Croker's Fairy Legends and Traditions of the South of Ireland (1825); Irish-language oral tradition predates this."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0,
+    "date_range": {
+      "earliest": "1825",
+      "latest": "Contemporary"
+    }
+  },
+  "timeline": [
+    {
+      "date": "1825",
+      "event": "T. Crofton Croker publishes Fairy Legends and Traditions of the South of Ireland, including 'The Haunted Cellar' and the foundational description of the clurichaun",
+      "significance": "Earliest English-language attestation; the source of all later popular imagery",
+      "source": "Croker, T. C. (1825), Fairy Legends and Traditions of the South of Ireland"
+    },
+    {
+      "date": "1888",
+      "event": "W. B. Yeats includes the clurichaun in Fairy and Folk Tales of the Irish Peasantry, treating him as a leprechaun on a drinking spree",
+      "significance": "Canonical Yeatsian framing of the figure",
+      "source": "Yeats, W. B. (1888), Fairy and Folk Tales of the Irish Peasantry"
+    },
+    {
+      "date": "1928",
+      "event": "Lady Augusta Gregory's compilations and James Mooney's earlier Irish folklore essays cement the clurichaun's place in Irish-American fairy lore",
+      "significance": "Spread of the figure into Irish diaspora popular culture",
+      "source": "Various Irish-American folklore publications"
+    },
+    {
+      "date": "1990s",
+      "event": "Clurichaun appears as 'Cluracan' in Neil Gaiman's The Sandman comic series",
+      "significance": "Modern popular-culture revival",
+      "source": "Gaiman, N., The Sandman"
+    }
+  ],
+  "related": [
+    {
+      "id": "leprechaun",
+      "name": "Leprechaun",
+      "relationship": "regional_variant",
+      "description": "Closely related Irish solitary fairy; sometimes considered the daytime, sober counterpart of the clurichaun"
+    },
+    {
+      "id": "fear-dearg",
+      "name": "Fear Dearg",
+      "relationship": "similar",
+      "description": "Irish 'red man' solitary fairy known for grim humour"
+    },
+    {
+      "id": "brownie",
+      "name": "Brownie",
+      "relationship": "similar",
+      "description": "Scottish household spirit who helps a household if treated well, harms it if offended"
+    },
+    {
+      "id": "domovoi",
+      "name": "Domovoi",
+      "relationship": "similar",
+      "description": "Slavic household spirit performing the same protective / punitive role"
+    },
+    {
+      "id": "puca",
+      "name": "Púca",
+      "relationship": "related",
+      "description": "Irish shapeshifting trickster fairy in the same regional folklore"
+    }
+  ],
+  "cultural_notes": "A clurichaun should be neither cheated of his drink nor mocked; given his share, he protects the household's stores.",
+  "sources": [
+    {
+      "id": "wikipedia-clurichaun",
+      "type": "website",
+      "title": "Clurichaun",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Clurichaun",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "croker-1825",
+      "type": "book",
+      "title": "Fairy Legends and Traditions of the South of Ireland",
+      "authors": [
+        "Thomas Crofton Croker"
+      ],
+      "publication": "John Murray, London",
+      "date": "1825"
+    },
+    {
+      "id": "yeats-1888",
+      "type": "book",
+      "title": "Fairy and Folk Tales of the Irish Peasantry",
+      "authors": [
+        "William Butler Yeats"
+      ],
+      "publication": "Walter Scott, London",
+      "date": "1888"
+    },
+    {
+      "id": "wilde-1887",
+      "type": "book",
+      "title": "Ancient Legends, Mystic Charms, and Superstitions of Ireland",
+      "authors": [
+        "Lady Francesca Speranza Wilde"
+      ],
+      "publication": "Ward and Downey, London",
+      "date": "1887"
+    },
+    {
+      "id": "briggs-1976",
+      "type": "book",
+      "title": "An Encyclopedia of Fairies: Hobgoblins, Brownies, Bogies, and Other Supernatural Creatures",
+      "authors": [
+        "Katharine M. Briggs"
+      ],
+      "publication": "Pantheon Books",
+      "date": "1976",
+      "isbn": "978-0394734675"
+    },
+    {
+      "id": "duchas",
+      "type": "archive",
+      "title": "The National Folklore Collection / Cnuasach Bhéaloideas Éireann",
+      "publication": "University College Dublin / dúchas.ie",
+      "url": "https://www.duchas.ie",
+      "accessed": "2026-05-07"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Carrick-on-Suir",
+      "lat": 52.3461,
+      "lng": -7.4138
+    }
+  ]
 }

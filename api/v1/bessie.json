@@ -3,6 +3,7 @@
   "name": "Bessie",
   "category": "cryptid",
   "description": "A serpentine lake-monster cryptid reported in Lake Erie since the late 18th century, most often described as a 9–12 m grey snake-like creature. Reports cluster along the south shore of the lake, earning the nickname 'South Bay Bessie'.",
+  "full_description": "Bessie, also known as the Lake Erie Monster or South Bay Bessie, is a cryptid reported in Lake Erie, the southernmost and shallowest of the Laurentian Great Lakes, shared by the United States (Ohio, Michigan, Pennsylvania, New York) and the Canadian province of Ontario. Reports describe a long, snake-like creature, typically 9–12 metres (30–40 ft) long with a grey or coppery body, sometimes with a dog-shaped head. Sightings have been recorded since 1793; clusters of accounts come from the schooner crews of the early 19th century, late-19th-century lake traffic, and a flurry of modern sightings in the 1980s and 1990s along the Ohio islands. Lake Erie is the most studied and most heavily trafficked of the Great Lakes, which makes the persistence of the legend notable; sceptics attribute reports to misidentified sturgeon, large fish, surface waves, and seasonal weather phenomena.",
   "aliases": [
     {
       "name": "South Bay Bessie",
@@ -32,5 +33,123 @@
   "origin": "Reports come from across Lake Erie, with the densest cluster on the southern shore in Ohio (Sandusky Bay, Kelleys Island, Put-in-Bay, the Lake Erie Islands) and the Ontario shore near Fort Erie.",
   "first_reported": "1793",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Modern nickname 'Bessie', popularised by Ohio-area journalism in the late 20th century, echoes 'Nessie' for the Loch Ness Monster.",
+    "meaning": "Bessie / South Bay Bessie — affectionate diminutive used in Ohio newspapers and local tourism.",
+    "first_use": "Late 20th century in popular use; the older descriptor 'Lake Erie sea serpent' dates to 19th-century newspapers."
+  },
+  "sightings_stats": {
+    "date_range": {
+      "earliest": "1793",
+      "latest": "1990s"
+    }
+  },
+  "timeline": [
+    {
+      "date": "1793",
+      "event": "Captain of a sloop reportedly encounters a creature 'more than a rod' (~16.5 ft) long while duck-hunting near Sandusky, Ohio",
+      "significance": "Earliest commonly cited Bessie sighting",
+      "source": "Wikipedia, Bessie (lake monster); regional Ohio histories"
+    },
+    {
+      "date": "1817-07",
+      "event": "Schooner crew sights a 30–40 ft dark serpent in Lake Erie",
+      "significance": "Earliest sighting in the 19th-century cluster",
+      "source": "Wikipedia, Bessie (lake monster)"
+    },
+    {
+      "date": "1817",
+      "event": "Two French brothers named Dusseau report a 20–30 ft creature on the beach near Toledo, with 'silver scales the size of silver dollars'",
+      "significance": "Most colourful 1817 report; sometimes cited as a hoax",
+      "source": "Wikipedia, Bessie (lake monster)"
+    },
+    {
+      "date": "1892-07",
+      "event": "Buffalo-to-Toledo crew reports a 'huge sea serpent' ~50 ft long with large fins",
+      "significance": "Late-19th-century revival of the legend",
+      "source": "Wikipedia, Bessie (lake monster)"
+    },
+    {
+      "date": "1896-05-05",
+      "event": "Four witnesses at Crystal Beach (Fort Erie, Ontario) watch a 30 ft creature with a dog-shaped head and pointed tail for ~45 minutes",
+      "significance": "Most-cited multiple-witness daylight account",
+      "source": "Wikipedia, Bessie (lake monster)"
+    },
+    {
+      "date": "1969",
+      "event": "Reported sighting documented in Lake Erie literature",
+      "significance": "Reignites the legend in the late 20th century",
+      "source": "Wikipedia, Bessie (lake monster)"
+    },
+    {
+      "date": "1990",
+      "event": "Lake Erie Islands sightings prompt the 'South Bay Bessie' naming in Ohio newspapers",
+      "significance": "Tourism re-branding",
+      "source": "Cleveland Magazine and regional reporting"
+    },
+    {
+      "date": "1993",
+      "event": "Cluster of Lake Erie Islands sightings widely reported",
+      "significance": "Anchors the modern era of Bessie reports",
+      "source": "Wikipedia, Bessie (lake monster)"
+    }
+  ],
+  "related": [
+    {
+      "id": "champ",
+      "name": "Champ",
+      "relationship": "similar",
+      "description": "Lake Champlain monster (Vermont/New York/Quebec)"
+    },
+    {
+      "id": "ogopogo",
+      "name": "Ogopogo",
+      "relationship": "similar",
+      "description": "Okanagan Lake monster (British Columbia)"
+    },
+    {
+      "id": "loch-ness-monster",
+      "name": "Loch Ness Monster",
+      "relationship": "similar",
+      "description": "Loch Ness monster (Scotland) — the canonical lake-monster cryptid"
+    },
+    {
+      "id": "caddy",
+      "name": "Cadborosaurus",
+      "relationship": "similar",
+      "description": "Pacific Northwest sea serpent"
+    }
+  ],
+  "cultural_notes": "Modern belief in Bessie is primarily framed as a fond regional legend rather than a deeply held supernatural tradition.",
+  "sources": [
+    {
+      "id": "wikipedia-bessie",
+      "type": "website",
+      "title": "Bessie (lake monster)",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Bessie_(lake_monster)",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "cleveland-magazine-bessie",
+      "type": "article",
+      "title": "CLE Myths: Lake Erie Monster",
+      "publication": "Cleveland Magazine",
+      "url": "https://clevelandmagazine.com/articles/cle-myths-lake-erie-monster/",
+      "accessed": "2026-05-07"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Sandusky Bay / Lake Erie Islands",
+      "lat": 41.55,
+      "lng": -82.8
+    },
+    {
+      "name": "Crystal Beach / Fort Erie",
+      "lat": 42.87,
+      "lng": -78.93
+    }
+  ]
 }

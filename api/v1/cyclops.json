@@ -3,6 +3,7 @@
   "name": "Cyclops",
   "category": "mythological_creature",
   "description": "A class of one-eyed giants in Greek mythology. Hesiod's three primordial Cyclopes are divine smiths who forge Zeus' thunderbolts; Homer's Cyclopes are lawless cave-dwelling shepherds, most famously Polyphemus, blinded by Odysseus.",
+  "full_description": "The Cyclopes (singular: Cyclops; Greek Κύκλωψ, 'round-eyed') are one-eyed giants of ancient Greek mythology. Greek tradition recognises three groups: (1) the Hesiodic Cyclopes — Brontes, Steropes, and Arges — sons of Uranus and Gaia, primordial divine smiths who forge Zeus's thunderbolts and the weapons of the other Olympians (Hesiod, Theogony 139–146); (2) the Homeric Cyclopes — uncivilised, pastoral cave-dwellers without laws, agriculture, or shipcraft, exemplified by Polyphemus (Homer, Odyssey 9), whom Odysseus blinds to escape his cave; and (3) the so-called 'wall-builder' Cyclopes credited by later authors (e.g. Pausanias) with constructing the massive 'Cyclopean' walls of Mycenae, Tiryns, and other Bronze-Age citadels. Later Latin authors (notably Virgil and Ovid) place the Hesiodic Cyclopes in volcanic forges beneath Mount Etna, working as assistants to Hephaestus/Vulcan. The palaeontologist Othenio Abel proposed in 1914 that the dwarf-elephant skulls of Mediterranean islands such as Sicily, Cyprus, and Crete — whose central nasal cavity could be mistaken for a giant eye-socket — may have inspired the one-eyed giant motif; this remains a popular but unproven hypothesis.",
   "aliases": [
     {
       "name": "Cyclopes",
@@ -53,5 +54,161 @@
   "origin": "Mythologically situated across the Greek world: the island of the Cyclopes in the Odyssey (often identified by ancient and modern commentators with Sicily), the volcanic forges beneath Mount Etna, and the Mycenaean citadels of the Argolid.",
   "first_reported": "c. 700 BCE",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Ancient Greek Κύκλωψ (Kyklōps), from κύκλος (kýklos, 'circle') + ὤψ (ōps, 'eye, face').",
+    "meaning": "'Round-eyed' or 'circle-eyed'; commonly construed as a reference to the single round eye in the centre of the forehead.",
+    "first_use": "Attested in Hesiod's Theogony (c. 700 BCE) and in Homer's Odyssey (c. 8th century BCE)."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "-0700-01-01",
+      "event": "Hesiod's Theogony names Brontes, Steropes, and Arges as Cyclopes who arm Zeus",
+      "significance": "Earliest extant Greek account",
+      "source": "Hesiod, Theogony 139–146"
+    },
+    {
+      "date": "-0700-01-01",
+      "event": "Homer's Odyssey 9 narrates Odysseus' encounter with Polyphemus",
+      "significance": "Most influential ancient narrative of a cyclops",
+      "source": "Homer, Odyssey 9"
+    },
+    {
+      "date": "-0408-01-01",
+      "event": "Euripides' satyr play Cyclops dramatises the Polyphemus episode",
+      "significance": "Earliest fully-preserved satyr play; Athenian theatrical reception",
+      "source": "Euripides, Cyclops"
+    },
+    {
+      "date": "-0019-01-01",
+      "event": "Virgil, Aeneid 8.416–453, places the Cyclopes' forge beneath Etna",
+      "significance": "Anchors the Roman Etna tradition",
+      "source": "Virgil, Aeneid"
+    },
+    {
+      "date": "0008-01-01",
+      "event": "Ovid, Metamorphoses 13–14, retells Polyphemus' love for Galatea",
+      "significance": "Adds the Polyphemus–Galatea romance to the canon",
+      "source": "Ovid, Metamorphoses"
+    },
+    {
+      "date": "0175-01-01",
+      "event": "Pausanias 2.16.5 attributes the walls of Mycenae and Tiryns to the Cyclopes",
+      "significance": "Establishes the 'Cyclopean masonry' tradition",
+      "source": "Pausanias, Description of Greece"
+    },
+    {
+      "date": "1914-01-01",
+      "event": "Othenio Abel proposes that dwarf-elephant skulls inspired the cyclops myth",
+      "significance": "Influential (though contested) palaeontological hypothesis",
+      "source": "Abel, O. (1914), Die vorzeitlichen Säugetiere"
+    }
+  ],
+  "related": [
+    {
+      "id": "fenrir",
+      "name": "Fenrir",
+      "relationship": "related",
+      "description": "Norse mythological giant being / monster cycle"
+    },
+    {
+      "id": "minotaur",
+      "name": "Minotaur",
+      "relationship": "related",
+      "description": "Other monstrous Greek mythological creature"
+    },
+    {
+      "id": "centaur",
+      "name": "Centaur",
+      "relationship": "related",
+      "description": "Greek mythological hybrid being"
+    },
+    {
+      "id": "harpy",
+      "name": "Harpy",
+      "relationship": "related",
+      "description": "Other Homeric / Hesiodic creature"
+    },
+    {
+      "id": "gorgon",
+      "name": "Gorgon",
+      "relationship": "related",
+      "description": "Other Greek mythological monster"
+    }
+  ],
+  "cultural_notes": "In antiquity, Cyclopes were treated as both mythical beings and as plausible explanations for ancient ruins; in modern reception they are generally treated as literary figures.",
+  "sources": [
+    {
+      "id": "homer-odyssey",
+      "type": "book",
+      "title": "The Odyssey",
+      "authors": [
+        "Homer"
+      ],
+      "publication": "Numerous editions; standard Loeb Classical Library",
+      "date": "c. 8th century BCE"
+    },
+    {
+      "id": "hesiod-theogony",
+      "type": "book",
+      "title": "Theogony",
+      "authors": [
+        "Hesiod"
+      ],
+      "publication": "Standard Loeb Classical Library",
+      "date": "c. 700 BCE"
+    },
+    {
+      "id": "euripides-cyclops",
+      "type": "book",
+      "title": "Cyclops",
+      "authors": [
+        "Euripides"
+      ],
+      "publication": "Standard Loeb Classical Library",
+      "date": "c. 408 BCE"
+    },
+    {
+      "id": "mayor-2000",
+      "type": "book",
+      "title": "The First Fossil Hunters: Paleontology in Greek and Roman Times",
+      "authors": [
+        "Adrienne Mayor"
+      ],
+      "publication": "Princeton University Press",
+      "date": "2000",
+      "isbn": "978-0691089775"
+    },
+    {
+      "id": "wikipedia-cyclopes",
+      "type": "website",
+      "title": "Cyclopes",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Cyclopes",
+      "accessed": "2026-05-07"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Mount Etna",
+      "lat": 37.751,
+      "lng": 14.9934
+    },
+    {
+      "name": "Faraglioni di Aci Trezza",
+      "lat": 37.565,
+      "lng": 15.164
+    },
+    {
+      "name": "Mycenae",
+      "lat": 37.7308,
+      "lng": 22.7561
+    }
+  ]
 }

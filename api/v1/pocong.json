@@ -3,6 +3,7 @@
   "name": "Pocong",
   "category": "undead",
   "description": "An Indonesian and Malay ghost that takes the form of a body still wrapped in its Islamic burial shroud (kain kafan), said to arise when the shroud's knots are not untied at burial. Because the feet are bound, the pocong moves by hopping rather than walking.",
+  "full_description": "The pocong is one of the most widely known supernatural figures in Indonesia, Malaysia, Brunei, and the wider Malay world. The name comes from Javanese pocong, literally 'wrapped in shroud'. In Islamic funeral practice in the Malay archipelago the body is washed, wrapped in a white cotton burial shroud (kain kafan), and tied with cloth ties at the head, beneath the chin, around the waist, and beneath the feet. After the body is placed in the grave, the ties are supposed to be untied. According to folk belief, if the knots are not untied — through negligence, oversight, or insufficient observance of correct rites — the soul cannot rest and the corpse rises as a pocong, still bound in its shroud. Because the legs are tied together the pocong cannot walk; it hops or floats. Witnesses describe a roughly upright, body-shaped figure in a yellowed white shroud, with a pale face and sometimes wide-open eyes peering out of an opening at the head. The pocong is more pitiable than aggressive in most accounts — a trapped soul seeking release — though regional variants such as the Pocong Merah ('red shroud pocong') are vengeful and dangerous. The figure is deeply intertwined with Indonesian and Malay Muslim funerary practice and serves as a folk-cultural enforcement of correct death rites. In modern Indonesia the pocong is a fixture of horror cinema, comics, and television.",
   "aliases": [
     {
       "name": "Hantu Pocong",
@@ -41,5 +42,74 @@
   "origin": "Pervasive across Indonesia, Malaysia, Brunei, and Malay-speaking regions of Singapore and southern Thailand. Strongly associated with Javanese, Sundanese, and Malay Muslim communities.",
   "first_reported": "Traditional",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Javanese / Indonesian. The verb 'pocong' / 'mocong' means to wrap a body in a burial shroud.",
+    "meaning": "'Wrapped in (a burial) shroud'.",
+    "first_use": "Vernacular Indonesian / Javanese; documented in 20th-century Indonesian folklore writing and a long-running tradition of Indonesian ghost stories."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "Traditional",
+      "event": "Pocong belief established in Javanese, Sundanese, and Malay communities as part of the cultural system around Islamic burial rites",
+      "significance": "Cultural baseline",
+      "source": "Indonesian and Malay oral tradition"
+    },
+    {
+      "date": "2006-09-15",
+      "event": "Release of the Indonesian horror film 'Pocong' (dir. Rudi Soedjarwo) — heavily edited and effectively shelved by the LSF",
+      "significance": "Brings the pocong to mainstream Indonesian cinema; spawns a long-running series",
+      "source": "Indonesian film industry records"
+    },
+    {
+      "date": "2006-11-03",
+      "event": "Release of 'Pocong 2'",
+      "significance": "Establishes the modern pocong-horror franchise",
+      "source": "Indonesian film industry records"
+    }
+  ],
+  "related": [
+    {
+      "id": "kuntilanak",
+      "name": "Kuntilanak / Pontianak",
+      "relationship": "related",
+      "description": "Indonesian / Malay vampire-ghost of women who died in childbirth"
+    },
+    {
+      "id": "hantu-bungkus",
+      "name": "Hantu Bungkus",
+      "relationship": "regional_variant",
+      "description": "Malay name for what Indonesians call pocong"
+    },
+    {
+      "id": "jiangshi",
+      "name": "Jiangshi",
+      "relationship": "similar",
+      "description": "Chinese hopping corpse, with a similarly distinctive locomotion"
+    },
+    {
+      "id": "draugr",
+      "name": "Draugr",
+      "relationship": "similar",
+      "description": "Norse restless corpse"
+    }
+  ],
+  "cultural_notes": "A correct and complete funeral — including untying the kain kafan — is essential to prevent the dead from rising as a pocong.",
+  "sources": [
+    {
+      "id": "wikipedia-pocong",
+      "type": "website",
+      "title": "Pocong",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Pocong",
+      "accessed": "2026-05-07"
+    }
+  ],
+  "locations": []
 }

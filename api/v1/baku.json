@@ -3,6 +3,7 @@
   "name": "Baku",
   "category": "mythological_creature",
   "description": "A composite chimera-like creature originating in Chinese mythology (mò 貘) and adopted into Japanese folklore (baku 獏) by the Muromachi period, traditionally invoked to consume nightmares and protect sleepers. The same Sino-Japanese word now also denotes the tapir.",
+  "full_description": "Baku (獏 / 貘) is a chimerical supernatural creature whose roots lie in Chinese mythology — where it is called mò (貘) — and which was incorporated into Japanese folklore by the Muromachi period (1336-1573). Surviving Edo-period encyclopaedic works such as Terajima Ryōan's Wakan Sansai Zue (1712) describe it as a composite beast: typically with the trunk and tusks of an elephant, the eyes of a rhinoceros, the tail of an ox, and the paws of a tiger; later Japanese illustrations emphasise the elephantine head. The baku is most strongly associated with the consumption of nightmares (akumu 悪夢). A common Japanese ritual practice on waking from a bad dream is to call out 'Baku-san, come eat my dream' (獏さん、夢を食べてください, baku-san, yume wo tabete kudasai); some traditions warn that excessive invocation can lead the creature to consume good dreams and aspirations as well. Pictures and small figures of the baku were placed on or near pillows as protective talismans, especially in the Edo period and continuing into modern Japan. From the 17th century onward, when Dutch traders introduced Southeast Asian Malayan tapirs (Tapirus indicus) to Japan, the visual resemblance — particularly the elongated snout and pied colouring — led to the same word baku being used for the real animal, conflating the two in modern Japanese usage.",
   "aliases": [
     {
       "name": "獏 / 貘",
@@ -43,5 +44,112 @@
   "origin": "Originating in Chinese mythological tradition (mò 貘) and adopted into Japanese folklore by the Muromachi period; later transmitted across the Sinosphere and globally via popular culture.",
   "first_reported": "Han Dynasty era",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Chinese 貘 (mò), describing an ancient Chinese mythological beast; transmitted to Japan as 獏 (baku) by the Muromachi period.",
+    "meaning": "In its original mythological sense, the name denoted the supernatural creature; in modern Japanese it is also used for the biological tapir (Tapirus spp.).",
+    "first_use": "Chinese references date back at least to early dictionaries such as the Erya (3rd century BCE-2nd century CE); in Japan, well attested from the Muromachi period and especially the Edo period."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "c. Han Dynasty (206 BCE-220 CE)",
+      "event": "Chinese textual references describe mò (貘) as an auspicious/protective creature.",
+      "significance": "Earliest documented stratum.",
+      "source": "Han-era Chinese sources (Erya, Shuowen Jiezi)."
+    },
+    {
+      "date": "Muromachi period (1336-1573)",
+      "event": "Baku enters Japanese folklore via Buddhist/literary transmission from China.",
+      "significance": "Establishment of Japanese tradition.",
+      "source": "Secondary scholarship on Sino-Japanese cultural transmission."
+    },
+    {
+      "date": "1712",
+      "event": "Terajima Ryōan publishes Wakan Sansai Zue (和漢三才図会), an Edo-era encyclopaedia, with an illustrated entry on baku.",
+      "significance": "Canonical Edo-Japanese description.",
+      "source": "Terajima Ryōan, Wakan Sansai Zue (1712)"
+    },
+    {
+      "date": "17th century",
+      "event": "Dutch traders bring Southeast Asian Malayan tapirs to Japan; their resemblance to baku imagery leads to shared naming.",
+      "significance": "Origin of the modern Japanese conflation between baku-the-yokai and baku-the-tapir.",
+      "source": "Edo natural-history records."
+    },
+    {
+      "date": "Edo period (1603-1868)",
+      "event": "Baku images appear on pillows, bedding, ukiyo-e prints, and netsuke as protective talismans.",
+      "significance": "Peak material-culture period.",
+      "source": "Edo decorative arts."
+    }
+  ],
+  "related": [
+    {
+      "id": "qilin",
+      "name": "Qilin",
+      "relationship": "similar",
+      "description": "Chinese composite auspicious beast."
+    },
+    {
+      "id": "bai-ze",
+      "name": "Bai Ze (Hakutaku)",
+      "relationship": "similar",
+      "description": "Another protective composite Sino-Japanese mythological creature."
+    },
+    {
+      "id": "tapir",
+      "name": "Tapir (Tapirus spp.)",
+      "relationship": "counterpart",
+      "description": "Real animal that came to share the name baku in Japanese usage from the 17th century onward."
+    }
+  ],
+  "cultural_notes": "A bedside image or invocation of the baku is widely held to bring restful sleep and consume nightmares. Some traditions warn that over-invocation can lead the creature to devour good dreams and ambitions as well.",
+  "sources": [
+    {
+      "id": "wikipedia-baku",
+      "type": "website",
+      "title": "Baku (mythology) — Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Baku_(mythology)",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "foster-2015-baku",
+      "type": "book",
+      "title": "The Book of Yōkai: Mysterious Creatures of Japanese Folklore",
+      "authors": [
+        "Michael Dylan Foster"
+      ],
+      "publication": "University of California Press",
+      "date": "2015",
+      "isbn": "978-0520271029"
+    },
+    {
+      "id": "terajima-1712-baku",
+      "type": "book",
+      "title": "Wakan Sansai Zue (和漢三才図会)",
+      "authors": [
+        "Terajima Ryōan"
+      ],
+      "publication": "Edo, Japan",
+      "date": "1712"
+    },
+    {
+      "id": "yoda-alt-2012-baku",
+      "type": "book",
+      "title": "Yokai Attack! The Japanese Monster Survival Guide",
+      "authors": [
+        "Hiroko Yoda",
+        "Matt Alt"
+      ],
+      "publication": "Tuttle Publishing",
+      "date": "2012",
+      "isbn": "978-4805312193"
+    }
+  ],
+  "locations": []
 }

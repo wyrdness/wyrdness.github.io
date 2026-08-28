@@ -3,6 +3,7 @@
   "name": "Imp",
   "category": "demon_angel",
   "description": "An imp is a small, mischievous supernatural creature from European folklore — originally a fairy-like trickster spirit that was later reinterpreted by Christianity as a minor demon or witch's familiar.",
+  "full_description": "An imp is a small supernatural being from European folklore, primarily Germanic and British tradition, whose character evolved significantly through the medieval period. The Old English word impa originally meant 'a young shoot or scion of a plant or tree,' then was extended to mean 'the scion of a noble house' or 'a child.' By the 16th century, phrases like 'imps of serpents' and 'imp of hell' appeared, and by the 17th century the word had settled into its dominant modern meaning: a small demon or familiar of a witch. In Germanic tradition, beings like imps were not necessarily evil; they were closer to mischievous spirits or tricksters causing minor chaos. In Christian demonology, imps became explicitly minor demons or devil's servants, often depicted as small in stature and not good-looking, sometimes with tails, horns, or wings. They were said to serve witches as familiar spirits — creatures bound to an individual sorcerer and capable of carrying out harmful or mischievous tasks. Imps are characterized as troublesome and mischievous more than seriously dangerous; fond of pranks and misleading people; and sometimes described as lonely creatures seeking human companionship. Some accounts describe imps as capable of being bound into objects such as swords or crystal balls. The Lincoln Imp legend, dating to the 14th century, is the best-documented specific imp account: the devil sent two imps to disrupt Lincoln Cathedral, one was turned to stone by an angel and is depicted in the cathedral to this day.",
   "aliases": [
     {
       "name": "Familiar spirit",
@@ -35,5 +36,67 @@
   "origin": "European folklore tradition, primarily Germanic and British. Most documented specific accounts originate in England.",
   "first_reported": "Pre-1400",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Old English impa, 'a young shoot or scion of a plant.' Extended metaphorically to mean 'child' or 'scion,' then 'offspring of the devil,' then 'small demon.'",
+    "meaning": "The modern meaning of 'small mischievous demon' evolved through metaphorical extension of the horticultural term for a young plant scion. The adjective 'impish' derives from this sense of inherent mischievousness.",
+    "first_use": "Old English (impa, 'scion'); 16th century ('imp of hell'); 17th century (settled meaning of 'small demon / witch's familiar')"
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "1300-01-01",
+      "event": "Lincoln Imp legend: the devil sends two imps to disrupt Lincoln Cathedral; an angel turns one to stone; the stone figure remains in the cathedral",
+      "significance": "Best-documented specific imp legend in the historical record; dates to c. 14th century",
+      "source": "Wikipedia / Imp article (Lincoln Imp)"
+    },
+    {
+      "date": "1600-01-01",
+      "event": "Height of English witch trials; imp familiars feature extensively in legal testimony and demonological texts",
+      "significance": "Peak of documented familiar-spirit accounts in legal record",
+      "source": "Wikipedia / Imp article"
+    }
+  ],
+  "related": [
+    {
+      "id": "goblin",
+      "name": "Goblin",
+      "relationship": "similar",
+      "description": "Small, often mischievous supernatural creature from European folklore"
+    },
+    {
+      "id": "familiar-spirit",
+      "name": "Familiar Spirit",
+      "relationship": "related",
+      "description": "Supernatural entity bound to serve a witch or sorcerer; imps commonly take this role"
+    },
+    {
+      "id": "pixie",
+      "name": "Pixie",
+      "relationship": "similar",
+      "description": "Small British fairy-like being with comparable mischievous traits"
+    }
+  ],
+  "cultural_notes": "In medieval and early modern European Christian culture, imps were understood as real diabolical entities that could be contracted with witches as familiars. In pre-Christian Germanic tradition, similar beings were troublesome but not necessarily evil spirits of the natural world.",
+  "sources": [
+    {
+      "id": "wikipedia-imp",
+      "type": "website",
+      "title": "Imp",
+      "url": "https://en.wikipedia.org/wiki/Imp",
+      "accessed": "2026-05-08"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Lincoln Cathedral",
+      "lat": 53.2343,
+      "lng": -0.5395
+    }
+  ]
 }

@@ -3,6 +3,7 @@
   "name": "Pishacha",
   "category": "undead",
   "description": "A class of flesh-eating demons in Hindu and Buddhist tradition, often grouped with bhutas and vetalas. Said to haunt cremation grounds, possess humans, and feed on energy and corpses. Considered among the lowest, most malevolent supernatural beings in classical Indian cosmology.",
+  "full_description": "Pishachas (Sanskrit पिशाच, piśāca; literally 'eater of raw flesh') are malevolent flesh-eating beings in Hindu and Buddhist religion. They are repeatedly mentioned in the Vedas, the Atharvaveda, the Mahabharata, the Puranas, and Buddhist texts including the Mahayana sutras and the Pali canon. Various texts give different origins: the Mahabharata describes them as creations of Brahma; the Vishnu Purana traces them to the sage Kashyapa and Krodhavasa, a daughter of Daksha Prajapati who personifies anger; other accounts derive them from Krodha ('anger'). Classical iconography depicts them with bulging veins, protruding red eyes, and a bestial form, capable of shapeshifting and invisibility. They are said to haunt cremation grounds (śmaśāna) alongside bhutas (ghosts), vetalas (corpse-possessing spirits), and rakshasas, and to possess humans, causing insanity and a range of mental and bodily afflictions. Specific mantras — including in the Atharvaveda and in later Tantric texts — are prescribed for driving them out. In Buddhist cosmology pishachas are listed among the eight classes of beings under the four heavenly kings. The pishachas are also associated with their own language, Paiśācī, in Sanskrit dramaturgy, and with a region called Piśāca-deśa in northwestern South Asia. The Thai word for ghost or demon, ปิศาจ (pisat), is a loanword from Sanskrit piśāca.",
   "aliases": [
     {
       "name": "पिशाच",
@@ -47,5 +48,92 @@
   "origin": "Mythologically pan–South Asian, with a particular Vedic association with the northwestern frontier (Piśāca-deśa). Pishachas are referenced throughout Hindu and Buddhist literature wherever those traditions have spread, including Southeast Asia.",
   "first_reported": "c. 1000 BC",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Sanskrit. The most common explanation derives piśāca from piś-, 'to bite, tear', or relates it to 'piśita' (raw flesh), giving 'eater of raw flesh'. An alternative scholarly suggestion connects it to the ethnonym for a northwestern South Asian people.",
+    "meaning": "'Eater of raw flesh' / 'flesh-eater'.",
+    "first_use": "Vedic Sanskrit; pishachas are mentioned in the Atharvaveda (c. 1000 BC) and pervasively in the Mahabharata and Puranas."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "c. 1000 BC",
+      "event": "Pishachas appear in the Atharvaveda; mantras are prescribed against them",
+      "significance": "Earliest documented attestations",
+      "source": "Atharvaveda"
+    },
+    {
+      "date": "c. 400 BC – AD 400",
+      "event": "Pishachas are repeatedly mentioned in the Mahabharata and major Puranas, with origin myths involving Brahma, Kashyapa, and Krodhavasa",
+      "significance": "Classical Hindu canonization of the figure",
+      "source": "Mahabharata; Vishnu Purana"
+    },
+    {
+      "date": "c. AD 200–700",
+      "event": "Sanskrit dramaturgy assigns the language Paiśācī to pishachas and low-status characters",
+      "significance": "Embeds the figure in literary culture",
+      "source": "Sanskrit dramaturgical treatises"
+    },
+    {
+      "date": "c. AD 100 onward",
+      "event": "Pishachas are listed in Buddhist sutras (including the Mahayana Lotus Sutra) among the eight classes of beings",
+      "significance": "Adoption into Buddhist cosmology, transmitted with Buddhism across Asia",
+      "source": "Mahayana sutras; Pali canon"
+    }
+  ],
+  "related": [
+    {
+      "id": "rakshasa",
+      "name": "Rakshasa",
+      "relationship": "similar",
+      "description": "Larger, more powerful class of Hindu demons; sometimes paired with pishachas"
+    },
+    {
+      "id": "vetala",
+      "name": "Vetala",
+      "relationship": "similar",
+      "description": "Corpse-possessing spirit haunting cremation grounds, frequently named alongside pishachas"
+    },
+    {
+      "id": "bhuta",
+      "name": "Bhuta",
+      "relationship": "similar",
+      "description": "Generic Hindu ghost; pishachas, bhutas, and vetalas form a familiar triad"
+    },
+    {
+      "id": "preta",
+      "name": "Preta (hungry ghost)",
+      "relationship": "related",
+      "description": "Buddhist hungry ghost; another class of malevolent dead"
+    },
+    {
+      "id": "ghoul",
+      "name": "Ghoul",
+      "relationship": "similar",
+      "description": "Arabic flesh-eating demon haunting graveyards; functional analogue"
+    },
+    {
+      "id": "pisat-thai",
+      "name": "Pisat (ปิศาจ)",
+      "relationship": "regional_variant",
+      "description": "Thai usage of Sanskrit piśāca for ghost/demon"
+    }
+  ],
+  "cultural_notes": "Pishachas are real, dangerous, and present at impure or liminal places; protective mantras and rites are essential to keep them at bay.",
+  "sources": [
+    {
+      "id": "wikipedia-pishacha",
+      "type": "website",
+      "title": "Pishacha",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Pishacha",
+      "accessed": "2026-05-07"
+    }
+  ],
+  "locations": []
 }

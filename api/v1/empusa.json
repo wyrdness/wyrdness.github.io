@@ -3,6 +3,7 @@
   "name": "Empusa",
   "category": "demon_angel",
   "description": "A shape-shifting female phantom of Greek mythology, associated with the goddess Hecate, said to possess one leg of bronze and one of donkey-form, and to seduce and devour young men.",
+  "full_description": "Empusa (Greek: Ἔμπουσα) is a shape-shifting female being in Greek mythology. Ancient sources, notably Aristophanes ('The Frogs', 'Ecclesiazusae') and Philostratus ('Life of Apollonius of Tyana', 1st century CE), describe her as one of the supernatural retinue of the goddess Hecate, sometimes identified with the goddess herself. She is famously depicted with a single leg of bronze (or brass) and a second leg in animal form — most often that of a donkey — giving rise to her epithets Onokole and Onoskelis ('donkey-footed'). Empusa is a shape-shifter, alternately appearing as a hideous monster meant to terrorize travellers and as a beautiful young woman who seduces young men in order to feed on their flesh and blood. By late antiquity 'empousai' came to designate a class of phantoms equated with lamiai and mormolykeia. The figure is often cited in modern scholarship as a precursor to European succubus and vampire traditions.",
   "aliases": [
     {
       "name": "Empousa",
@@ -41,5 +42,112 @@
   "origin": "Ancient Greek mythological geography: encountered in Greece (Attica) and the broader Hellenistic world; transmitted through Greek and Roman literary culture.",
   "first_reported": "0405-01-01",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Ancient Greek; the standard folk etymology connects 'empousa' with 'em-' + 'pous' ('foot'), giving 'one-footed' or 'foot-on'.",
+    "meaning": "Folk-etymologically read as 'one-footed', a reference to Empusa's distinctive single bronze leg.",
+    "first_use": "Attested in Athenian comedy of the 5th century BCE (Aristophanes, 'The Frogs', 405 BCE)."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0,
+    "date_range": {
+      "earliest": "405 BCE",
+      "latest": "3rd century CE"
+    }
+  },
+  "timeline": [
+    {
+      "date": "0405-01-01",
+      "event": "Aristophanes's 'The Frogs' performed in Athens, with Empusa as a frightening apparition encountered by Dionysus and Xanthias",
+      "significance": "Earliest surviving literary attestation",
+      "source": "Aristophanes, Frogs (405 BCE)"
+    },
+    {
+      "date": "0392-01-01",
+      "event": "Aristophanes's 'Ecclesiazusae' performed, with further reference to Empusa",
+      "significance": "Confirms Empusa's place in classical Athenian popular imagination",
+      "source": "Aristophanes, Ecclesiazusae (392 BCE)"
+    },
+    {
+      "date": "0220-01-01",
+      "event": "Philostratus, 'Life of Apollonius of Tyana' (early 3rd c. CE), recounts Apollonius unmasking an empousa about to marry his pupil Menippus",
+      "significance": "Best-known late-antique narrative; cited as ancestor of the Lamia/Lilith/vampire tradition",
+      "source": "Philostratus, Life of Apollonius of Tyana, IV.25"
+    }
+  ],
+  "related": [
+    {
+      "id": "lamia",
+      "name": "Lamia",
+      "relationship": "similar",
+      "description": "Greek female demon also associated with seducing and devouring young men, equated with empousai in late antiquity."
+    },
+    {
+      "id": "mormolykeia",
+      "name": "Mormolykeia (Mormo)",
+      "relationship": "similar",
+      "description": "Greek female phantom used to frighten children, grouped with empousai in later sources."
+    },
+    {
+      "id": "hecate",
+      "name": "Hecate",
+      "relationship": "related",
+      "description": "Goddess of magic and the night whose retinue includes Empusa."
+    },
+    {
+      "id": "succubus",
+      "name": "Succubus",
+      "relationship": "similar",
+      "description": "Medieval European female demon thought to descend from antique seducer-spirits including Empusa."
+    },
+    {
+      "id": "vampire",
+      "name": "Vampire",
+      "relationship": "related",
+      "description": "Modern scholarship sees Empusa as a conceptual ancestor of European blood-drinking female revenants."
+    }
+  ],
+  "cultural_notes": "Empousai were considered nocturnal apparitions, particularly at crossroads sacred to Hecate, and were repelled by ridicule and sacred invocation.",
+  "sources": [
+    {
+      "id": "wikipedia-empusa",
+      "type": "website",
+      "title": "Empusa",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Empusa",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "theoi-empousa",
+      "type": "website",
+      "title": "Lamia & Empousa: Vampiric Monsters of Ancient Greek Legend",
+      "publication": "Theoi Project",
+      "url": "https://www.theoi.com/Phasma/Empousai.html",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "aristophanes-frogs",
+      "type": "book",
+      "title": "The Frogs (Βάτραχοι)",
+      "authors": [
+        "Aristophanes"
+      ],
+      "publication": "Athens",
+      "date": "0405-01-01"
+    },
+    {
+      "id": "philostratus-apollonius",
+      "type": "book",
+      "title": "Life of Apollonius of Tyana",
+      "authors": [
+        "Philostratus"
+      ],
+      "publication": "Roman Empire (early 3rd c. CE)",
+      "date": "0220-01-01"
+    }
+  ],
+  "locations": []
 }

@@ -3,6 +3,7 @@
   "name": "Naga",
   "category": "mythological_creature",
   "description": "A divine, semi-divine race of serpent beings central to Hindu, Buddhist, and Jain cosmology and to the religious life of South and Southeast Asia. Nagas are guardians of waters and treasures, capable of taking serpent, human, or hybrid form.",
+  "full_description": "The naga is a class of divine or semi-divine serpent beings shared across Hindu, Buddhist, and Jain traditions and woven into the religious cultures of India, Sri Lanka, Nepal, Tibet, Cambodia, Thailand, Laos, Indonesia, the Philippines, and Malaysia. The Sanskrit word nāgá literally means 'snake', and is paradigmatically associated with the Indian cobra. Nagas are described as inhabiting Patala (the netherworld) and as guardians of rivers, lakes, springs, and treasures; they appear in iconography variously as serpents, fully human figures with cobra hoods, or half-human half-serpent hybrids. Female nagas are called nagini. Major nagaraja figures include Vasuki, who served as the rope in the Samudra Manthana (churning of the ocean of milk) and who adorns Shiva's neck; Shesha (Ananta), the cosmic serpent on whom Vishnu reclines in yoga nidra; and Takshaka, ruler of the Khandava forest. In Buddhist tradition the nagaraja Mucalinda sheltered the Buddha from a storm for seven days. Across Theravada Southeast Asia the naga is intimately tied to water and rainmaking; in Cambodia the founding myth of Funan describes the union of Kaundinya I with the naga princess Soma. In Thailand the Phaya Nak was officially designated a national symbol in November 2022, and the so-called Naga fireballs of the Mekong River — small reddish lights rising from the river around Wan Ok Phansa each October — are popularly attributed to the naga, though scientists have proposed several mundane explanations including phosphine and the firing of flares.",
   "aliases": [
     {
       "name": "Nāga",
@@ -63,5 +64,94 @@
   "origin": "Veneration and folklore of nagas extend across South Asia and mainland and maritime Southeast Asia, with significant Tibetan and Himalayan traditions.",
   "first_reported": "Antiquity",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Sanskrit नाग (nāgá), 'snake', cognate with terms for 'snake' across Indo-European languages.",
+    "meaning": "Literally 'snake' or 'serpent', particularly the Indian cobra (Naja naja).",
+    "first_use": "Attested in Vedic and classical Sanskrit literature; rituals devoted to nagas have persisted in South Asia for at least two millennia."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "c. 1st century CE",
+      "event": "Foundation myth of Funan: the Brahmin Kaundinya I marries the naga princess Soma, founding the Khmer royal lineage",
+      "significance": "Naga as ancestress of Southeast Asian kingship",
+      "source": "Khmer foundation tradition; recorded in classical inscriptions and Chinese histories"
+    },
+    {
+      "date": "1994",
+      "event": "Thai biologist Manas Kanoksilp publishes early scientific commentary on the Mekong fireballs",
+      "significance": "Beginning of formal scientific engagement with the Naga fireballs phenomenon",
+      "source": "Naga fireball / Wikipedia"
+    },
+    {
+      "date": "2002",
+      "event": "Documentary by Thai biologist Jessada Denduangboripant attributes Mekong Naga fireballs to flare guns fired from the Lao bank",
+      "significance": "Best-known skeptical investigation of the phenomenon",
+      "source": "Wikipedia: Naga fireball"
+    },
+    {
+      "date": "2022-11",
+      "event": "Thailand officially declares the naga its national symbol",
+      "significance": "Formal state recognition of the naga as a Thai cultural emblem",
+      "source": "Wikipedia: Nāga"
+    }
+  ],
+  "related": [
+    {
+      "id": "garuda",
+      "name": "Garuda",
+      "relationship": "counterpart",
+      "description": "Mythic eagle and traditional adversary of the naga in Hindu, Buddhist, and Indonesian tradition"
+    },
+    {
+      "id": "chinese-dragon",
+      "name": "Chinese Dragon (Long)",
+      "relationship": "similar",
+      "description": "East Asian water-associated divine serpent, conceptually convergent with the naga"
+    },
+    {
+      "id": "bakunawa",
+      "name": "Bakunawa",
+      "relationship": "regional_variant",
+      "description": "Filipino moon-eating serpent syncretized with naga mythology"
+    },
+    {
+      "id": "phaya-nak",
+      "name": "Phaya Nak",
+      "relationship": "regional_variant",
+      "description": "Thai/Lao naga of the Mekong River"
+    },
+    {
+      "id": "sri-gumum",
+      "name": "Sri Gumum",
+      "relationship": "regional_variant",
+      "description": "Naga of Lake Chini, Pahang, in Malay and Orang Asli tradition"
+    }
+  ],
+  "cultural_notes": "Nagas are revered as guardians of water, treasure, fertility, and royal legitimacy across South and Southeast Asia.",
+  "sources": [
+    {
+      "id": "wikipedia-naga",
+      "type": "website",
+      "title": "Nāga",
+      "publication": "English Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/N%C4%81ga",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "wikipedia-naga-fireball",
+      "type": "website",
+      "title": "Naga fireball",
+      "publication": "English Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Naga_fireball",
+      "accessed": "2026-05-07"
+    }
+  ],
+  "locations": []
 }

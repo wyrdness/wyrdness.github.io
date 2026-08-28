@@ -3,6 +3,7 @@
   "name": "Dover Demon",
   "category": "cryptid",
   "description": "A small, large-headed humanoid cryptid reportedly seen by three teenage witnesses in Dover, Massachusetts, on the nights of 21–22 April 1977; no further sightings have been recorded.",
+  "full_description": "The Dover Demon is the name given to a creature reportedly seen by three teenage witnesses in the town of Dover, Massachusetts, on the nights of 21 and 22 April 1977. Witnesses described a creature roughly four feet tall, with a disproportionately large, watermelon-shaped head, glowing orange eyes, no nose or mouth, long thin fingers, and rough peach-colored skin. The three sighting locations — on Farm Street, Miller Hill Road, and Springdale Avenue — lie roughly in a straight line over a span of more than two miles. Cryptozoologist Loren Coleman publicized and named the creature shortly after the sightings, and the case has since become a staple of New England cryptid lore. No further sightings have been reported. Skeptical explanations have ranged from a misidentified snowy owl (proposed by Joe Nickell) to influence from contemporary popular culture (notably Star Wars and Close Encounters of the Third Kind, both released in 1977; argued by Benjamin Radford), as well as suggestions of a foal or moose calf.",
   "aliases": [],
   "tags": [
     "cryptid",
@@ -21,5 +22,95 @@
   "origin": "Three reported sightings in the town of Dover, Massachusetts, on Farm Street, Miller Hill Road, and Springdale Avenue, on the nights of 21–22 April 1977.",
   "first_reported": "1977-04-21",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Modern English; coined to associate the creature with the town of Dover, Massachusetts",
+    "meaning": "'Demon' is used here in the loose folkloric sense rather than a religious one",
+    "first_use": "1977 — name popularized by cryptozoologist Loren Coleman"
+  },
+  "sightings_stats": {
+    "total_documented": 3,
+    "verified": 0,
+    "disputed": 3,
+    "debunked": 0,
+    "date_range": {
+      "earliest": "1977-04-21",
+      "latest": "1977-04-22"
+    }
+  },
+  "timeline": [
+    {
+      "date": "1977-04-21",
+      "event": "Bill Bartlett (17), driving on Farm Street, Dover, Massachusetts, reports seeing a small creature on a low stone wall",
+      "significance": "First reported sighting",
+      "source": "Wikipedia: Dover Demon"
+    },
+    {
+      "date": "1977-04-21",
+      "event": "Later that same night, John Baxter (15) reports seeing a similar creature on Miller Hill Road in Dover",
+      "significance": "Second sighting",
+      "source": "Wikipedia: Dover Demon"
+    },
+    {
+      "date": "1977-04-22",
+      "event": "Abby Brabham (15) reports seeing the creature on Springdale Avenue in Dover",
+      "significance": "Third and final sighting",
+      "source": "Wikipedia: Dover Demon"
+    },
+    {
+      "date": "1977-05-01",
+      "event": "Sightings publicized in May 1977; cryptozoologist Loren Coleman investigates and the name 'Dover Demon' is coined",
+      "significance": "Establishment of the case in cryptid literature",
+      "source": "Wikipedia: Dover Demon"
+    }
+  ],
+  "related": [
+    {
+      "id": "hopkinsville-goblins",
+      "name": "Hopkinsville Goblins",
+      "relationship": "similar",
+      "description": "Single-event small-humanoid cryptid case (Kentucky, 1955)"
+    },
+    {
+      "id": "flatwoods-monster",
+      "name": "Flatwoods Monster",
+      "relationship": "similar",
+      "description": "Single-event humanoid cryptid case (West Virginia, 1952)"
+    },
+    {
+      "id": "fresno-nightcrawlers",
+      "name": "Fresno Nightcrawlers",
+      "relationship": "similar",
+      "description": "Modern small humanoid cryptid reports (California)"
+    },
+    {
+      "id": "loveland-frog",
+      "name": "Loveland Frog",
+      "relationship": "similar",
+      "description": "Small humanoid cryptid case (Ohio)"
+    }
+  ],
+  "cultural_notes": "The Dover Demon remains a recognized landmark of late-20th-century American cryptozoology despite the absence of any subsequent encounters.",
+  "sources": [
+    {
+      "id": "wikipedia-dover-demon",
+      "type": "website",
+      "title": "Dover Demon",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Dover_Demon",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "newton-2005",
+      "type": "book",
+      "title": "Encyclopedia of Cryptozoology: A Global Guide to Hidden Animals and Their Pursuers",
+      "authors": [
+        "Michael Newton"
+      ],
+      "publication": "McFarland",
+      "date": "2005",
+      "isbn": "978-0786420360"
+    }
+  ],
+  "locations": []
 }

@@ -3,6 +3,7 @@
   "name": "Alp",
   "category": "entity_spirit",
   "description": "A male nightmare spirit of German and Austrian folklore that sits on the chests of sleepers, causing oppressive dreams, sleep paralysis, and breathlessness; closely related to the female Mara of broader Germanic tradition.",
+  "full_description": "The Alp (also Alb, plural Alpen or Albe) is a male nightmare-bringing spirit central to German and Austrian folklore. Witnesses and folk accounts describe a small, often unseen male figure that climbs onto a sleeper at night and presses on the chest, causing the sensation of being crushed (Alpdruck, 'elf-pressure'), suffocation, and immobility. The Alp is associated with the Tarnkappe, a 'concealment cap' that grants invisibility, and with shapeshifting into cats, pigs, dogs, snakes, birds, and white butterflies. Beliefs about its origin vary: in some traditions Alps are stillborn children, the unbaptized dead, or are born to women under particular conditions (a child with eyebrows that meet, or born in a caul). The Alp shares a Common Germanic root with the English word elf, and the term 'Alpdruck' is a clear cognate of English 'nightmare' (and the noun 'Alp' was eventually superseded by 'Albtraum' in modern German). Modern medicine and folklore studies recognise the experience underlying Alp belief as sleep paralysis with hypnagogic hallucination, a cross-cultural pattern documented under names such as the Mara, the Old Hag, the Pisadeira, and the kanashibari.",
   "aliases": [
     {
       "name": "Alb",
@@ -59,5 +60,96 @@
   "origin": "Alp belief is concentrated in German-speaking Europe (Germany, Austria, German-speaking Switzerland) with overlapping traditions in neighbouring regions sharing the broader Mara complex.",
   "first_reported": "Old High German period (8th–11th c.)",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "The German Alp / Alb derives from Common Germanic *albiz, the same root as English 'elf' and Old Norse 'álfr'. The compound 'Alpdruck' literally means 'Alp-pressure'.",
+    "meaning": "Originally a generic term for an elf or supernatural being; specialised in German into the chest-pressing nightmare spirit.",
+    "first_use": "Old High German alp is attested from at least the 9th century; modern Alp / Albtraum sense becomes standard by the 18th century."
+  },
+  "sightings_stats": null,
+  "timeline": [
+    {
+      "date": "9th–11th c.",
+      "event": "Old High German texts invoke protection against alp / alb",
+      "significance": "Earliest written attestations",
+      "source": "Bosworth & Toller; Althochdeutsches Wörterbuch"
+    },
+    {
+      "date": "1835",
+      "event": "Jacob Grimm publishes 'Deutsche Mythologie', systematising Alp / Alb beliefs",
+      "significance": "Foundational text of German folkloristics on the Alp",
+      "source": "Grimm, J. (1835), Deutsche Mythologie"
+    },
+    {
+      "date": "1781",
+      "event": "Henry Fuseli paints 'The Nightmare', depicting an incubus-like figure on a sleeper's chest",
+      "significance": "Iconic visual representation of the Alp / Mara complex in Western art",
+      "source": "Detroit Institute of Arts collection"
+    }
+  ],
+  "related": [
+    {
+      "id": "mara",
+      "name": "Mara",
+      "relationship": "counterpart",
+      "description": "Female chest-pressing nightmare spirit of broader Germanic / Scandinavian tradition"
+    },
+    {
+      "id": "old-hag",
+      "name": "Old Hag",
+      "relationship": "similar",
+      "description": "Newfoundland sleep-paralysis figure"
+    },
+    {
+      "id": "pisadeira",
+      "name": "Pisadeira",
+      "relationship": "similar",
+      "description": "Brazilian chest-pressing sleep-paralysis figure"
+    },
+    {
+      "id": "kanashibari",
+      "name": "Kanashibari",
+      "relationship": "similar",
+      "description": "Japanese sleep-paralysis tradition"
+    },
+    {
+      "id": "incubus",
+      "name": "Incubus",
+      "relationship": "similar",
+      "description": "Latin / Christian male nocturnal entity"
+    }
+  ],
+  "cultural_notes": "Protective practices include placing iron horseshoes or broomsticks at the threshold, leaving shoes facing the door, plugging keyholes, and keeping a mirror or steel object near the sleeper.",
+  "sources": [
+    {
+      "id": "wikipedia-alp",
+      "type": "website",
+      "title": "Alp (folklore)",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Alp_(folklore)",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "grimm-1835",
+      "type": "book",
+      "title": "Deutsche Mythologie",
+      "authors": [
+        "Jacob Grimm"
+      ],
+      "publication": "Dieterich",
+      "date": "1835"
+    },
+    {
+      "id": "hufford-1982",
+      "type": "book",
+      "title": "The Terror That Comes in the Night: An Experience-Centered Study of Supernatural Assault Traditions",
+      "authors": [
+        "David J. Hufford"
+      ],
+      "publication": "University of Pennsylvania Press",
+      "date": "1982",
+      "isbn": "978-0812211450"
+    }
+  ],
+  "locations": []
 }

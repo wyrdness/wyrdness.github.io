@@ -3,6 +3,7 @@
   "name": "Crawler",
   "category": "cryptid",
   "description": "The Crawler (or Pale Crawler) is a 21st-century cryptid of internet folklore: an emaciated, hairless, ghostly-pale humanoid that moves rapidly on all fours with elongated limbs and reverse-bending joints, reported chiefly through anonymous trail-camera photographs, doorbell-camera videos, and YouTube and Reddit testimonies from rural North America.",
+  "full_description": "The Crawler — most often called the Pale Crawler — is a contemporary cryptid that emerged on internet forums, video-sharing sites, and television creepypasta channels from the early 2000s onward. Witnesses and image-makers describe a humanoid roughly the size of an emaciated adult, with chalk-white or grey hairless skin, oversized dark or reflective eyes, an angular skull, a wide jagged mouth, and grossly elongated limbs that often appear to bend in the wrong direction. Its signature feature is its locomotion: rather than walking upright, it scuttles rapidly on all fours, often described as 'spider-walking', and can reach extreme speeds across forest floor or through rural yards. Reports cluster in two contexts. First, in the wooded mountainous regions of the eastern United States — especially Southern Appalachia, the Pennsylvania Wilds, West Virginia, eastern Tennessee, and parts of the Ozarks — where the figure is sometimes treated as a modern descendant of older 'White Thing' frontier folklore. Second, on the internet itself, where doorbell-camera and security-camera footage of pale figures (some genuine wildlife, some hoaxes, and some images entirely unconnected to the original sighting, such as a still from the 1982 British science-fiction horror Xtro that is endlessly recirculated) sustain the legend. The Crawler is closely related to other internet-era horror entities — the Rake, Slender Man, and the Wendigo as reinterpreted in modern creepypasta — and its origins lie in the Rake creepypasta of 2005 and a wave of pale-humanoid composite imagery that followed. Most folklorists classify the Crawler as a 21st-century legend rather than a documented animal: a recombinant figure built from older Appalachian pale-creature traditions, modern medical anxieties (achondroplasia, advanced anorexia, severe sarcoidosis, mange in mammals), and the affordances of viral video imagery.",
   "aliases": [
     {
       "name": "Pale Crawler",
@@ -42,5 +43,154 @@
   "origin": "Reports concentrate in the eastern and central United States, particularly forested mountain country (Appalachians, Pennsylvania Wilds, Ozarks), with secondary clusters in rural Canada and isolated Texas and California incidents propagated through viral video. Internet propagation has carried the figure worldwide.",
   "first_reported": "2005",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "English internet usage. 'Crawler' refers to the figure's distinctive hands-and-knees / quadrupedal locomotion. The intensifier 'Pale' became standard in viral-video discourse in the late 2010s.",
+    "meaning": "'A creature that crawls'; a pale humanoid that moves on all fours.",
+    "first_use": "Earliest widespread usage of 'Crawler' / 'Pale Crawler' in cryptid contexts dates to internet forums and creepypasta sites of the mid-2000s, building on the Rake creepypasta (first widely posted in 2005)."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0,
+    "date_range": {
+      "earliest": "2005 (creepypasta)",
+      "latest": "2020s (viral video era)"
+    }
+  },
+  "timeline": [
+    {
+      "date": "1982",
+      "event": "British science-fiction horror film Xtro (dir. Harry Bromley Davenport) is released; a still from this film later circulates virally as a supposed Pale Crawler photograph",
+      "significance": "Source of one of the most-recirculated 'evidence' images, recontextualised as cryptid",
+      "source": "Beasts of Legend: Pale Crawlers"
+    },
+    {
+      "date": "2005",
+      "event": "Rake creepypasta posted to 4chan and similar boards",
+      "significance": "Foundational 21st-century pale-humanoid horror entity; immediate precursor of Pale Crawler imagery",
+      "source": "Folklore from the Fringe, 'Cryptid Profile: The Rake'"
+    },
+    {
+      "date": "2009",
+      "event": "Slenderman is created by Eric Knudsen on Something Awful forums; the broader internet pale-humanoid genre crystallises",
+      "significance": "Establishes the modern creepypasta-cryptid form within which the Crawler operates",
+      "source": "Wikipedia, Slender Man"
+    },
+    {
+      "date": "2018-04-08",
+      "event": "National Cryptid Society publishes a witness account of a 'large grey crawling humanoid' near Effingham, Illinois, using the term 'Pale Crawler'",
+      "significance": "Early dedicated Pale Crawler witness publication outside of pure creepypasta",
+      "source": "National Cryptid Society (2018), 'The Pale Crawler; Large Grey Crawling Humanoid in Effingham, Illinois'"
+    },
+    {
+      "date": "2020s",
+      "event": "Viral doorbell-camera and Ring-camera videos of 'Pale Crawlers' propagate on TikTok, YouTube Shorts, and Reddit, with multiple high-profile clips that police investigate and find no physical evidence to corroborate",
+      "significance": "Drives the second wave of mainstream awareness of the Crawler",
+      "source": "Beasts of Legend: Pale Crawlers; Strange Observer; Urban Legends, Mystery and Myth"
+    }
+  ],
+  "related": [
+    {
+      "id": "rake",
+      "name": "The Rake",
+      "relationship": "similar",
+      "description": "Pale, gaunt humanoid creature originating in 2005 creepypasta; major precursor to Pale Crawler imagery"
+    },
+    {
+      "id": "slenderman",
+      "name": "Slenderman",
+      "relationship": "similar",
+      "description": "Internet-folklore humanoid (2009 onward) belonging to the same creepypasta tradition"
+    },
+    {
+      "id": "skinwalkers",
+      "name": "Skinwalkers",
+      "relationship": "related",
+      "description": "Navajo tradition occasionally cited (often inappropriately) in modern Crawler discourse"
+    },
+    {
+      "id": "wendigo",
+      "name": "Wendigo",
+      "relationship": "related",
+      "description": "Algonquian-origin entity reinterpreted in modern creepypasta as an emaciated, antlered humanoid that overlaps Crawler imagery"
+    },
+    {
+      "id": "not-deer",
+      "name": "Not Deer",
+      "relationship": "similar",
+      "description": "Companion internet-folklore cryptid of forest North America"
+    },
+    {
+      "id": "fresno-nightcrawlers",
+      "name": "Fresno Nightcrawlers",
+      "relationship": "similar",
+      "description": "Earlier internet pale-humanoid video phenomenon (1990s–2007); precedent for security-camera cryptid imagery"
+    }
+  ],
+  "cultural_notes": "Most online communities treat the Crawler as a borderline case: many participants enjoy it primarily as horror entertainment, while a smaller subset advance it as a possible real cryptid.",
+  "sources": [
+    {
+      "id": "beasts-pale-crawlers",
+      "type": "website",
+      "title": "The Pale Crawlers Of North American Woods",
+      "publication": "Beasts of Legend",
+      "url": "https://beastsoflegend.com/bestiary/north-america/pale-crawlers/",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "strangeobserver-crawlers",
+      "type": "website",
+      "title": "Crawlers: Internet Folklore, Cryptid Sightings, or Subterranean Invaders?",
+      "publication": "Strange Observer",
+      "url": "https://strangeobserver.com/crawlers-internet-folklore-cryptid-sightings-or-subterranean-invaders/",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "ncs-effingham-2018",
+      "type": "website",
+      "title": "The Pale Crawler; Large Grey Crawling Humanoid in Effingham, Illinois",
+      "publication": "National Cryptid Society",
+      "date": "2018-04-08",
+      "url": "https://nationalcryptidsociety.org/2018/04/08/the-pale-crawler-large-grey-crawling-humanoid-in-effingham-illinois/",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "folklorefringe-rake",
+      "type": "website",
+      "title": "Cryptid Profile: The Rake",
+      "publication": "Folklore From the Fringe",
+      "url": "https://folklorefromthefringe.wordpress.com/2025/10/14/cryptid-profile-the-rake/",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "pa-wilds-cryptid",
+      "type": "website",
+      "title": "A cryptid in the woods of the PA Wilds",
+      "publication": "Pennsylvania Wilds",
+      "url": "https://pawilds.com/a-cryptid-in-the-woods-of-the-pa-wilds/",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "wikipedia-creepypasta",
+      "type": "website",
+      "title": "Creepypasta",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Creepypasta",
+      "accessed": "2026-05-07"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Pennsylvania Wilds",
+      "lat": 41.5,
+      "lng": -77.75
+    },
+    {
+      "name": "Southern Appalachia",
+      "lat": 37.5,
+      "lng": -82.5
+    }
+  ]
 }

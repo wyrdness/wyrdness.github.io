@@ -3,6 +3,7 @@
   "name": "Drop Bear",
   "category": "urban_legend",
   "description": "A wholly fictional Australian creature: an oversized, predatory koala that supposedly drops from eucalyptus trees onto unsuspecting passers-by, used as a long-standing in-joke to prank tourists.",
+  "full_description": "The drop bear is a deliberately fictitious Australian creature, used as a tongue-in-cheek tall tale told primarily to tourists and visiting service personnel. The joke describes a much larger, carnivorous version of a koala that ambushes prey by dropping from the eucalyptus canopy. Early documented appearances of 'drop bear' in print include a 1967 Army newspaper article, a 1976 Army article, a 1978 Royal Australian Navy News article, and a 1982 Canberra Times advertisement. The Australian Museum maintains a deliberately straight-faced entry classifying the drop bear as Thylarctos plummetus, describing a 120 kg arboreal predatory marsupial roughly the size of a leopard with coarse orange fur and broad premolars; a small museum display has accompanied the entry. Australian Geographic has run an April Fools' article on drop bears (2013), and a 2012 Australian Geographer paper, 'Indirect tracking of drop bears using GNSS technology', extended the joke into a peer-reviewed venue. Suggested 'protections' include placing forks in one's hair, smearing Vegemite or toothpaste behind the ears or in armpits, and speaking with an Australian accent. The drop bear belongs to the same humorous tradition as North American 'fearsome critters' (jackalope, hoop snake, splintercat) and in Terry Pratchett's The Last Continent (1998) the drop bears live on the parodic continent 'Fourecks'. Some commentators have drawn comparisons to the extinct Pleistocene marsupial Thylacoleo carnifex, which 2016 and 2018 paleontological studies indicated was a strong climber and likely ambush predator.",
   "aliases": [
     {
       "name": "Thylarctos plummetus",
@@ -25,5 +26,124 @@
   "origin": "Joke localised to Australia, particularly its eucalyptus forests; told primarily to international tourists.",
   "first_reported": "1967",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Modern Australian English compound: 'drop' + 'bear'",
+    "meaning": "A 'bear' (i.e., koala) that drops from trees onto victims",
+    "first_use": "Documented in print in Australian military and civilian publications from 1967 onwards"
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "1967-01-01",
+      "event": "Australian Army newspaper references 'a dreaded Drop Bear'",
+      "significance": "Earliest documented print appearance",
+      "source": "Army newspaper (1967)"
+    },
+    {
+      "date": "1976-01-01",
+      "event": "Further reference to 'legends and stories of drop bears' in an Australian Army article",
+      "significance": "Continuity of the joke in military culture",
+      "source": "Army newspaper (1976)"
+    },
+    {
+      "date": "1978-01-01",
+      "event": "Drop bear article appears in Royal Australian Navy News",
+      "significance": "Spread beyond the Army",
+      "source": "Royal Australian Navy News (1978)"
+    },
+    {
+      "date": "1982-01-01",
+      "event": "Classified advertisement referencing drop bears in The Canberra Times",
+      "significance": "Mainstream civilian press appearance",
+      "source": "Canberra Times (1982)"
+    },
+    {
+      "date": "1998-01-01",
+      "event": "Terry Pratchett's The Last Continent (Discworld novel) features drop bears as recurring jokes on the parody-Australian continent Fourecks",
+      "significance": "International literary cementing of the joke",
+      "source": "Pratchett, The Last Continent (1998)"
+    },
+    {
+      "date": "2012-01-01",
+      "event": "Australian Geographer publishes 'Indirect tracking of drop bears using GNSS technology' as a tongue-in-cheek paper",
+      "significance": "Joke extended into peer-reviewed publication",
+      "source": "Australian Geographer (2012)"
+    },
+    {
+      "date": "2013-04-01",
+      "event": "Australian Geographic publishes an April Fools' Day article claiming drop bears are more likely to attack tourists than people with Australian accents",
+      "significance": "Mainstream media reinforcement of the joke",
+      "source": "Australian Geographic (2013)"
+    }
+  ],
+  "related": [
+    {
+      "id": "jackalope",
+      "name": "Jackalope",
+      "relationship": "similar",
+      "description": "North American mock cryptid in the same humorous tradition"
+    },
+    {
+      "id": "hoopsnake",
+      "name": "Hoop Snake",
+      "relationship": "similar",
+      "description": "American fearsome critter from logging-camp folklore"
+    },
+    {
+      "id": "fearsome-critters",
+      "name": "Fearsome Critters",
+      "relationship": "superset",
+      "description": "Broad American category of jocular folkloric creatures"
+    },
+    {
+      "id": "wolpertinger",
+      "name": "Wolpertinger",
+      "relationship": "similar",
+      "description": "Bavarian mock cryptid (rabbit-deer-bird hybrid)"
+    }
+  ],
+  "cultural_notes": "Australians broadly understand the drop bear as a joke; the joke itself is the cultural artifact.",
+  "sources": [
+    {
+      "id": "wikipedia-drop-bear",
+      "type": "website",
+      "title": "Drop bear",
+      "publication": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Drop_bear",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "australian-museum-drop-bear",
+      "type": "website",
+      "title": "Drop Bear (Thylarctos plummetus)",
+      "publication": "Australian Museum",
+      "url": "https://australian.museum/learn/animals/mammals/drop-bear/",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "australian-geographer-2012",
+      "type": "paper",
+      "title": "Indirect tracking of drop bears using GNSS technology",
+      "publication": "Australian Geographer",
+      "date": "2012"
+    },
+    {
+      "id": "pratchett-1998",
+      "type": "book",
+      "title": "The Last Continent",
+      "authors": [
+        "Terry Pratchett"
+      ],
+      "publication": "Doubleday",
+      "date": "1998",
+      "isbn": "978-0385409896"
+    }
+  ],
+  "locations": []
 }

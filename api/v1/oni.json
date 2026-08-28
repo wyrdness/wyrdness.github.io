@@ -3,6 +3,7 @@
   "name": "Oni",
   "category": "demon_angel",
   "description": "Oni are demons or ogres of Japanese folklore and Buddhist mythology, typically depicted as horned, fanged, brightly-coloured humanoids in tiger-skin loincloths who carry iron clubs (kanabō). They guard the Buddhist hells, punish the wicked, and are warded off by the Setsubun bean-throwing ritual.",
+  "full_description": "Oni (鬼) are a class of yōkai in Japanese folklore, Buddhist hell-imagery, and Shinto-influenced ritual. The character 鬼, borrowed from Chinese, originally referred to disembodied spirits of the dead (Chinese gui), and the Japanese reading 'oni' was once written 隠 ('to hide, conceal'), reflecting the early sense of an unseen malevolent presence. As Buddhism spread in Japan from the 6th century CE, Hindu-Buddhist demons such as the yaksha and rakshasa, together with the wardens of Yama (Enma Daiō)'s hells, were assimilated to oni, giving them their familiar physical form. By the time of the Nihon Shoki (720 CE) and Izumo no Kuni Fudoki (compilation begun 713 CE), oni appear as recognisable malign physical entities. Standard iconography — established in the Heian and Kamakura periods and crystallised in the Edo period — shows oni with one or more horns, fanged tusks, three to six clawed digits per limb, and red, blue, black or yellow skin. They wear tiger-skin loincloths and carry iron clubs (kanabō), giving rise to the proverb 'oni ni kanabō' ('an oni with an iron club', i.e. an already strong figure made unstoppable). Oni are gatekeepers of Buddhist hells, agents of plague, demons of human vice (greed, anger, lust), and figures into whom truly wicked humans transform after death. The annual Setsubun festival (early February) preserves the bean-throwing rite — 'Oni wa soto! Fuku wa uchi!' ('Oni outside! Blessings inside!') — which originated in aristocratic court ritual during the Muromachi period. Regional traditions include the Namahage of the Oga Peninsula in Akita Prefecture (UNESCO-recognised as part of 'Raiho-shin, ritual visits of deities in masks and costumes' in 2018), demon-quelling tales such as Momotarō, and onibaba ('demon hag') legends. Modern Japanese culture preserves oni as protective gargoyle-like roof tiles (onigawara), as villains and antiheroes in manga, anime and games, and as the central monsters of franchises such as Demon Slayer (Kimetsu no Yaiba).",
   "aliases": [
     {
       "name": "Oni (鬼)",
@@ -55,5 +56,170 @@
   "origin": "A pan-Japanese supernatural figure with regional concentrations of legend (Mount Ōe, Akita's Oga Peninsula). Imagery has spread internationally through manga and anime.",
   "first_reported": "713",
   "danger_level": "unknown",
-  "evidence_level": "unknown"
+  "evidence_level": "unknown",
+  "etymology": {
+    "origin": "Adopted from Chinese 鬼 (gǔi, 'ghost, spirit of the dead'); the native Japanese reading 'oni' is traditionally derived from on/onu (隠), 'to hide, conceal'.",
+    "meaning": "Originally 'unseen presence' or 'spirit of the dead'; later 'ogre, demon'.",
+    "first_use": "10th-century dictionary Wamyō Ruijushō explains the character as a corruption of on/onu; oni already appear as physical demons in Nihon Shoki (720 CE) and Izumo no Kuni Fudoki (compilation begun 713 CE)."
+  },
+  "sightings_stats": {
+    "total_documented": 0,
+    "verified": 0,
+    "disputed": 0,
+    "debunked": 0
+  },
+  "timeline": [
+    {
+      "date": "538",
+      "event": "Conventional date for the introduction of Buddhism to Japan from Baekje, opening the channel for the Chinese 鬼 (gui) tradition",
+      "significance": "Religious-historical context for the formation of oni imagery",
+      "source": "Wikipedia, 'Oni'"
+    },
+    {
+      "date": "713",
+      "event": "Compilation of regional Fudoki, including Izumo no Kuni Fudoki, begins; contains some of the earliest references to physical oni",
+      "significance": "Earliest extant textual evidence",
+      "source": "Izumo no Kuni Fudoki"
+    },
+    {
+      "date": "720",
+      "event": "Nihon Shoki completed; depicts oni as physical demons",
+      "significance": "Foundational chronicle reference",
+      "source": "Nihon Shoki (720 CE)"
+    },
+    {
+      "date": "938",
+      "event": "Wamyō Ruijushō dictionary explains 'oni' as derived from on/onu (隠), 'to hide'",
+      "significance": "Earliest etymological gloss",
+      "source": "Wamyō Ruijushō (10th c.)"
+    },
+    {
+      "date": "999",
+      "event": "Nara-Heian-era Shuten-dōji legend cycle takes shape, telling of the warrior Minamoto no Yorimitsu and his vassals slaying the oni Shuten-dōji on Mount Ōe",
+      "significance": "Most famous narrative of Japanese oni literature",
+      "source": "Shuten-dōji emaki tradition"
+    },
+    {
+      "date": "1336",
+      "event": "Muromachi period begins; aristocratic Setsubun bean-throwing rite gradually takes hold",
+      "significance": "Origin period for the modern Setsubun ritual",
+      "source": "Wikipedia, 'Oni' and 'Setsubun'"
+    },
+    {
+      "date": "2018-11",
+      "event": "UNESCO inscribes 'Raiho-shin, ritual visits of deities in masks and costumes', including the Namahage of Oga, on the Representative List of the Intangible Cultural Heritage of Humanity",
+      "significance": "International recognition of an oni-related tradition",
+      "source": "UNESCO Intangible Cultural Heritage list"
+    },
+    {
+      "date": "2019-04",
+      "event": "Demon Slayer: Kimetsu no Yaiba anime first airs, presenting oni as central antagonists; the franchise becomes one of the highest-grossing media properties in Japan",
+      "significance": "Most influential 21st-century popular treatment of oni",
+      "source": "Ufotable / Aniplex"
+    }
+  ],
+  "related": [
+    {
+      "id": "yaksha",
+      "name": "Yakṣa",
+      "relationship": "related",
+      "description": "Hindu-Buddhist nature spirits, syncretised into oni"
+    },
+    {
+      "id": "rakshasa",
+      "name": "Rākṣasa",
+      "relationship": "related",
+      "description": "Hindu-Buddhist demons, syncretised into oni"
+    },
+    {
+      "id": "yama-king",
+      "name": "Enma Daiō (Yama)",
+      "relationship": "related",
+      "description": "Buddhist hell-king commanded by oni wardens"
+    },
+    {
+      "id": "namahage",
+      "name": "Namahage",
+      "relationship": "regional_variant",
+      "description": "Akita Prefecture ritual figures with oni-like masks; UNESCO-listed (2018)"
+    },
+    {
+      "id": "tengu",
+      "name": "Tengu",
+      "relationship": "related",
+      "description": "Other major class of Japanese supernatural being"
+    },
+    {
+      "id": "yokai-general",
+      "name": "Yōkai",
+      "relationship": "superset",
+      "description": "Broader category of Japanese supernatural creatures of which oni are a class"
+    }
+  ],
+  "cultural_notes": "Oni embody both physical evil and abstract human vice; the Setsubun rite expels them annually, while Namahage uses oni-like masks to discipline children and bring blessing.",
+  "sources": [
+    {
+      "id": "wiki-oni",
+      "type": "website",
+      "title": "Oni",
+      "publication": "Wikipedia, the free encyclopedia",
+      "url": "https://en.wikipedia.org/wiki/Oni",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "yokai-com-oni",
+      "type": "website",
+      "title": "Oni",
+      "publication": "yokai.com (Matthew Meyer)",
+      "url": "https://yokai.com/oni/",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "britannica-oni",
+      "type": "website",
+      "title": "Oni | Demon, Yokai & Shapeshifting",
+      "publication": "Encyclopædia Britannica",
+      "url": "https://www.britannica.com/topic/oni",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "nippon-oni",
+      "type": "article",
+      "title": "'Oni' and Outsiders in Japanese Cultural History",
+      "publication": "Nippon.com",
+      "url": "https://www.nippon.com/en/japan-topics/g02276/",
+      "accessed": "2026-05-07"
+    },
+    {
+      "id": "reider-2010",
+      "type": "book",
+      "title": "Japanese Demon Lore: Oni from Ancient Times to the Present",
+      "authors": [
+        "Noriko T. Reider"
+      ],
+      "publication": "Utah State University Press",
+      "date": "2010",
+      "isbn": "978-0874217933"
+    },
+    {
+      "id": "unesco-namahage-2018",
+      "type": "archive",
+      "title": "Raiho-shin, ritual visits of deities in masks and costumes",
+      "publication": "UNESCO Intangible Cultural Heritage",
+      "url": "https://ich.unesco.org/en/RL/raiho-shin-ritual-visits-of-deities-in-masks-and-costumes-01271",
+      "accessed": "2026-05-07"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Mount Ōe (Ōeyama)",
+      "lat": 35.4356,
+      "lng": 135.1219
+    },
+    {
+      "name": "Oga Peninsula",
+      "lat": 39.9228,
+      "lng": 139.7333
+    }
+  ]
 }
