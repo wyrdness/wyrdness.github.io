@@ -305,6 +305,53 @@
   overflow: hidden;
 }
 
+/* Generic Card (used by browse results) */
+.card {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--bg-secondary);
+  border: 1px solid var(--border-color);
+  border-radius: var(--radius-lg);
+  overflow: hidden;
+  transition: transform var(--transition-base), box-shadow var(--transition-base);
+}
+
+.card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 8px 24px var(--shadow-md);
+}
+
+.card:focus-within {
+  box-shadow: 0 0 0 3px var(--border-focus);
+}
+
+.card__header {
+  padding: var(--space-lg) var(--space-lg) 0;
+}
+
+.card__title {
+  font-size: var(--font-xl);
+  margin: 0;
+}
+
+.card__title a {
+  color: var(--text-primary);
+  text-decoration: none;
+}
+
+.card__title a:hover {
+  color: var(--accent-cyan);
+}
+
+.card__body {
+  flex: 1;
+  padding: var(--space-md) var(--space-lg);
+}
+
+.card__footer {
+  padding: 0 var(--space-lg) var(--space-lg);
+}
+
 /* Grid Layouts */
 .phenomenon-grid {
   display: grid;

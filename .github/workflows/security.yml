@@ -1,0 +1,72 @@
+name: Security
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  schedule:
+    - cron: '0 6 * * 1'  # Weekly, Monday 06:00 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  secret-scan:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1  # v7.0.1
+        with:
+          fetch-depth: 0
+
+      - name: TruffleHog
+        uses: trufflesecurity/trufflehog@37b77001d0174ebec2fcca2bd83ff83a6d45a3ab  # v3.95.3
+        with:
+          base: ${{ github.event.before }}
+          head: ${{ github.event.after }}
+          extra_args: --only-verified
+
+  workflow-policy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1  # v7.0.1
+
+      - name: Verify third-party actions are SHA-pinned
+        run: |
+          fail=0
+          for f in .github/workflows/*.yml; do
+            while IFS= read -r line; do
+              ref="${line#*@}"
+              if ! echo "$ref" | grep -qE '^[0-9a-f]{40}([[:space:]]|$)'; then
+                echo "::error file=$f::Action not pinned to a full commit SHA: $line"
+                fail=1
+              fi
+            done < <(grep -E '^\s*uses:' "$f")
+          done
+          exit $fail
+
+      - name: Block unsafe pull_request_target usage
+        run: |
+          if grep -rl 'pull_request_target' .github/workflows/ >/dev/null 2>&1; then
+            echo "::error::pull_request_target is not allowed in this repo's workflows"
+            exit 1
+          fi
+
+  vuln-scan:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1  # v7.0.1
+
+      - name: Setup Node.js
+        uses: actions/setup-node@820762786026740c76f36085b0efc47a31fe5020  # v7.0.0
+        with:
+          node-version: '24'
+          cache: 'npm'
+
+      - name: npm audit
+        run: |
+          npm ci || npm install
+          npm audit --audit-level=high

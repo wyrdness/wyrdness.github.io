@@ -12,7 +12,7 @@
 <body>
   <a href="#main-content" class="sr-only sr-only--focusable">Skip to main content</a>
 
-  <header class="site-header" role="banner">
+  <header class="site-header">
     <div class="container">
       <div class="site-header__content">
         <a href="/" class="site-header__logo">
@@ -20,12 +20,12 @@
         </a>
 
         <input type="checkbox" id="menu-toggle" class="menu-toggle sr-only">
-        <label for="menu-toggle" class="menu-toggle__label" aria-label="Toggle navigation menu">
+        <label for="menu-toggle" class="menu-toggle__label">
           <span class="sr-only">Toggle menu</span>
           <span class="menu-toggle__icon" aria-hidden="true"></span>
         </label>
 
-        <nav class="site-nav" role="navigation" aria-label="Main navigation">
+        <nav class="site-nav" aria-label="Main navigation">
           <ul class="site-nav__list">
             <li class="site-nav__item"><a href="/browse/" class="site-nav__link">Browse</a></li>
             <li class="site-nav__item"><a href="/categories/" class="site-nav__link">Categories</a></li>
@@ -37,7 +37,7 @@
     </div>
   </header>
 
-  <main id="main-content" role="main" class="container" style="min-height: 60vh; display: flex; align-items: center; justify-content: center; text-align: center; padding: var(--space-2xl) var(--space-md);">
+  <main id="main-content" class="container" style="min-height: 60vh; display: flex; align-items: center; justify-content: center; text-align: center; padding: var(--space-2xl) var(--space-md);">
     <article>
       <h1 style="color: var(--accent-purple);">404</h1>
       <p class="text-2xl mb-xl">Phenomenon Not Found</p>
@@ -49,7 +49,7 @@
     </article>
   </main>
 
-  <footer class="site-footer" role="contentinfo">
+  <footer class="site-footer">
     <div class="container">
       <div class="site-footer__bottom">
         <p class="text-muted text-center">

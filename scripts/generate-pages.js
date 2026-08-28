@@ -132,6 +132,32 @@ async function main() {
   }
 
   console.log(`✓ Generated ${count} phenomenon pages`);
+
+  // Remove stale per-phenomenon output left over from a sibling repo that
+  // has since been renamed or removed, so orphaned pages don't linger.
+  const validIds = new Set(indexData.phenomena.map(item => item.id));
+  const existingDirs = await fs.readdir(OUTPUT_DIR, { withFileTypes: true });
+  let pruned = 0;
+
+  for (const entry of existingDirs) {
+    if (entry.isDirectory() && !validIds.has(entry.name)) {
+      await fs.rm(path.join(OUTPUT_DIR, entry.name), { recursive: true, force: true });
+      pruned++;
+    }
+  }
+
+  const existingJson = await fs.readdir(API_DIR);
+  for (const filename of existingJson) {
+    if (!filename.endsWith('.json')) continue;
+    const id = filename.slice(0, -'.json'.length);
+    if (['index', 'categories', 'stats'].includes(id)) continue;
+    if (!validIds.has(id)) {
+      await fs.rm(path.join(API_DIR, filename), { force: true });
+      pruned++;
+    }
+  }
+
+  if (pruned) console.log(`✓ Pruned ${pruned} orphaned output path(s)`);
 }
 
 main().catch(console.error);

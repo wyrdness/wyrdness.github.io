@@ -44,9 +44,9 @@ function renderCard(item) {
   return `
     <article class="phenomenon-card">
       <div class="phenomenon-card__content">
-        <h3 class="phenomenon-card__title">
+        <h2 class="phenomenon-card__title">
           <a class="phenomenon-card__link" href="/phenomena/${escapeHtml(item.id)}/">${escapeHtml(item.name)}</a>
-        </h3>
+        </h2>
         <div class="phenomenon-card__meta">
           <span class="badge badge--sm">${escapeHtml(prettyName(item.category))}</span>
           ${item.danger_level ? `<span class="badge badge--sm badge--danger">${escapeHtml(item.danger_level)}</span>` : ''}
@@ -119,6 +119,21 @@ async function main() {
   }
 
   console.log(`✓ Generated ${Object.keys(categories).length} category pages`);
+
+  // Remove stale per-category output for a category that no longer has any
+  // phenomena, so orphaned pages don't linger.
+  const validSlugs = new Set(Object.keys(categories));
+  const existingDirs = await fs.readdir(OUTPUT_DIR, { withFileTypes: true });
+  let pruned = 0;
+
+  for (const entry of existingDirs) {
+    if (entry.isDirectory() && !validSlugs.has(entry.name)) {
+      await fs.rm(path.join(OUTPUT_DIR, entry.name), { recursive: true, force: true });
+      pruned++;
+    }
+  }
+
+  if (pruned) console.log(`✓ Pruned ${pruned} orphaned category page(s)`);
 }
 
 main().catch(console.error);

@@ -8,19 +8,22 @@ SHELL := /bin/bash
 # Parent of this repo holds the 516 phenomenon repos, so aggregate-local.js needs it mounted.
 SITE_DIR    := $(shell pwd)
 PARENT_DIR  := $(shell cd .. && pwd)
-NODE_IMAGE  := node:20-alpine
+NODE_IMAGE  := node:24-alpine
 NGINX_IMAGE := nginx:alpine
-AJV_IMAGE   := node:20-alpine
+AJV_IMAGE   := node:24-alpine
+
+# Random 8-char suffix for --name on every ephemeral container launch.
+RAND_SUFFIX = $$(tr -dc 'a-z0-9' </dev/urandom | head -c8)
 
 # Mount the parent so the site has both itself and the sibling phenomenon repos.
 # Working directory inside the container is /work/wyrdness.github.io.
-DOCKER_RUN := docker run --rm \
+DOCKER_RUN = docker run --rm --name wyrdness-$(RAND_SUFFIX) \
   -v $(PARENT_DIR):/work \
   -v wyrdness-node-modules:/work/wyrdness.github.io/node_modules \
   -w /work/wyrdness.github.io \
   $(NODE_IMAGE)
 
-DOCKER_RUN_IT := docker run --rm -it \
+DOCKER_RUN_IT = docker run --rm -it --name wyrdness-$(RAND_SUFFIX) \
   -v $(PARENT_DIR):/work \
   -v wyrdness-node-modules:/work/wyrdness.github.io/node_modules \
   -w /work/wyrdness.github.io \
@@ -74,7 +77,7 @@ build: aggregate-local categories stats pages
 
 dev:
 	@echo "Serving site at http://localhost:8000 (Ctrl-C to stop)"
-	docker run --rm -p 8000:80 \
+	docker run --rm --name wyrdness-$(RAND_SUFFIX) -p 8000:80 \
 	  -v $(SITE_DIR):/usr/share/nginx/html:ro \
 	  $(NGINX_IMAGE)
 
@@ -118,18 +121,19 @@ repo-docs:
 	  $(if $(ONLY),--only=$(ONLY),)
 
 validate-schema:
-	@docker run --rm \
+	@docker run --rm --name wyrdness-$(RAND_SUFFIX) \
 	  -v $(PARENT_DIR):/work \
-	  -w /work/wyrdness.github.io \
+	  -w /work/.github/scripts \
 	  $(AJV_IMAGE) sh -c '\
 	    npm install --no-save --silent --no-audit --no-fund ajv@8 ajv-formats@3 >/dev/null && \
-	    node ../.github/scripts/validate-schemas.js'
+	    node validate-schemas.js'
 
 validate-html:
-	docker run --rm \
+	docker run --rm --name wyrdness-$(RAND_SUFFIX) \
 	  -v $(SITE_DIR):/data \
-	  cyb3rjak3/html5validator-action:latest \
-	  --root /data --ignore-re ".*phenomena/.*/index.html$$"
+	  --entrypoint sh \
+	  ghcr.io/validator/validator:latest \
+	  -c 'java -jar /vnu.jar --skip-non-html --Werror --filterpattern ".*phenomena/.*/index\.html" /data'
 
 clean:
 	docker volume rm wyrdness-node-modules 2>/dev/null || true
