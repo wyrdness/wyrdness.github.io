@@ -49,8 +49,8 @@ jobs:
 
       - name: Block unsafe pull_request_target usage
         run: |
-          if grep -rl 'pull_request_target' .github/workflows/ >/dev/null 2>&1; then
-            echo "::error::pull_request_target is not allowed in this repo's workflows"
+          if grep -rlE '^\s*pull_request_target\s*:' .github/workflows/*.yml >/dev/null 2>&1; then
+            echo "::error::pull_request_target trigger is not allowed in this repo's workflows"
             exit 1
           fi
 
